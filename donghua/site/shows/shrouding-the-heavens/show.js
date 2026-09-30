@@ -81,6 +81,22 @@ window.SHOW = {
 
   arcs: [[1, 6, "Earth to Beidou"], [7, 50, "Lingxu and the Wheel Sea"], [51, 70, "Taixuan and beyond"], [71, 106, "Dao Palace"], [107, 138, "Four Poles"], [139, 155, "Dragon Transformation"], [156, 200, "Immortal Platform"]],
 
+  // One page for what only this donghua has (js/extras.js). Each section shows one world.js list.
+  extraPages: [{
+    route: "unique", zh: "独有", label: "Only here", title: "Only in Shrouding the Heavens",
+    lede: "Three things this story has that others don't: Ye Fan's stone-gambling trade, the Nine Secrets, and the special bodies that decide who can become an emperor.",
+    sections: [
+      { id: "source", zh: "源术", title: "Source Arts", layout: "cards", data: "sourceBasics",
+        lede: "Source is the currency and the fuel of Beidou, hidden inside stone. Reading it is a trade of its own, and Ye Fan becomes its best." },
+      { id: "gambles", zh: "赌石", title: "Stone gambles and source feats", layout: "timeline", data: "sourceGambles" },
+      { id: "grades", title: "Kinds of source", layout: "table", data: "sourceGrades", columns: [["name", "Kind"], ["text", "What it is"], ["ep", "First seen"]] },
+      { id: "secrets", zh: "九秘", title: "The Nine Secrets", layout: "ranking", data: "secrets",
+        lede: "Nine arts created by the Nine Heavenly Venerables of the Mythological era. Ye Fan spends the whole story hunting them down.", fields: [["gloss", "Meaning"], ["effect", "What it does"]] },
+      { id: "physiques", zh: "体质", title: "Special physiques", layout: "cards", data: "physiques", fields: [["holders", "Who has it"]],
+        lede: "A few rare bodies decide who can go furthest. Each comes with its own gift and its own curse." },
+    ],
+  }],
+
   pages: {
     realms: { lede: "“Take the body as the seed.” Each realm wakes up a different part of the body. Scroll, and the figure lights up where you are." },
     world: { zh: "北斗", title: "The world of Beidou", lede: "Ye Fan's new home is one enormous planet in the Big Dipper star field. The story walks outward from its south-east corner. Pick a region." },
@@ -90,7 +106,6 @@ window.SHOW = {
     },
     journey: {
       zh: "叶凡", title: "Ye Fan's journey and his cheats", lede: "Every advantage he picks up, in the order he picks it up.",
-      secrets: ["The Nine Secrets", "九秘", "Nine arts created by the Nine Heavenly Venerables of the Mythological era. Ye Fan spends the whole story hunting them down."],
       methods: ["The best method for every realm", "His quiet long-term cheat: he ends up with the strongest known method for each realm, pieced together from different emperors' legacies."],
       // The "what he carries at EP N" view; only shown because world.js has an `inventory` list.
       kit: {

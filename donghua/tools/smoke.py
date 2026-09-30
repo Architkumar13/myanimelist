@@ -24,7 +24,7 @@ import urllib.parse
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 
 SITE = pathlib.Path(__file__).resolve().parent.parent / "site"
-OPTIONAL = ("atlas.js", "cast.js", "wiki.js", "episodes.js")
+OPTIONAL = ("atlas.js", "pages.js", "cast.js", "wiki.js", "episodes.js")
 FORBIDDEN = ".seal, .seal-stamp, .ep-control, .gate"
 MIN_TEXT = 80
 PHONE = 390

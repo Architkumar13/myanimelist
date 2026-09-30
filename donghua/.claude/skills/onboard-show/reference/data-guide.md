@@ -79,6 +79,30 @@ Check contrast (e.g. with a quick script using the WCAG formula) before settling
 | `pages.emperors` | `{tab, zh, title, lede, note?}` | Rename for the show: tgr is "Sovereigns" |
 | `pages.zones` | `{tab, zh, title, lede, prose (HTML), heading, masterLabel?, wiki?: [title, label, text]}` | Dangerous places; tgr is "Trials" |
 | `pages.terms` | `{lede, cols: [officialSubsHeading, otherNamesHeading], empty}` | `empty` is shown when the subs have no name |
+| `extraPages` | The show's own pages, after the standard ten in the nav | See "extraPages" below |
+
+### `extraPages`: the "Only here" page
+
+```js
+extraPages: [{
+  route: "unique", zh: "独有", label: "Only here", title: "Only in Shrouding the Heavens", lede: "…",
+  sections: [
+    { id: "source", zh: "源术", title: "Source Arts", lede: "…", layout: "cards", data: "sourceBasics" },
+    { id: "gambles", zh: "赌石", title: "Stone gambles", layout: "timeline", data: "sourceGambles" },
+    { id: "grades", title: "Kinds of source", layout: "table", data: "sourceGrades",
+      columns: [["name", "Kind"], ["text", "What it is"], ["ep", "First seen"]] },
+    { id: "secrets", zh: "九秘", title: "The Nine Secrets", layout: "ranking", data: "secrets",
+      fields: [["gloss", "Meaning"], ["effect", "What it does"]] },
+  ],
+}]
+```
+- `route`: lowercase, not a standard route. Links: `#/<route>`, and `#/<route>?s=<section id>` to jump to a section.
+- `data` names a `world.js` list. Items use `name` (or `title`), `zh`, `ep`, `text`, `wiki` (gives a link and a
+  picture), `img` (a picture path relative to the show folder), and `rank` (for ranking).
+- In a table, the `name` column links to the wiki and the `ep` column links to the episode.
+- Every item on these pages is searchable.
+- A custom page is `{ route, zh, label, custom: true }` plus `site/shows/<dir>/pages.js` defining
+  `window.SHOW_PAGES[route] = (query, param, HUB) => ({ title, html, mount? })`.
 
 ---
 

@@ -4,7 +4,7 @@
   const main = document.getElementById("main");
 
   // ---------- Chrome for this show ----------
-  const nav = SH.nav.map(([route, zh, label]) => `<li><a href="#/${route}" data-nav="${route}"><span class="rail-zh" aria-hidden="true">${zh}</span><span>${S.esc(label)}</span></a></li>`).join("");
+  const nav = [...SH.nav, ...(V.extraNav || [])].map(([route, zh, label]) => `<li><a href="#/${route}" data-nav="${route}"><span class="rail-zh" aria-hidden="true">${zh}</span><span>${S.esc(label)}</span></a></li>`).join("");
   document.getElementById("rail-nav").innerHTML = nav;
   document.querySelector(".rail-mark").textContent = SH.mark;
   document.querySelector("#search-input").placeholder = SH.searchHint || "Search";
@@ -14,6 +14,8 @@
 
   const ROUTES = { "": V.home, realms: V.realms, world: V.world, powers: V.powers, journey: V.journey, episodes: V.episodes,
     recap: V.recap, people: V.people, emperors: V.emperors, zones: V.zones, terms: V.terms, lore: V.lore };
+  // A show's own pages (js/extras.js) sit alongside; they can't replace a standard one.
+  for (const [route, view] of Object.entries(V.extraRoutes || {})) if (!(route in ROUTES) && route !== "w" && route !== "c") ROUTES[route] = view;
 
   function render(keepScroll) {
     const raw = location.hash.replace(/^#\/?/, "");
@@ -33,7 +35,7 @@
     });
     cleanup = view.mount?.(main);
     if (keepScroll) window.scrollTo(0, y);
-    else if (!(section === "episodes" || query.get("f") || (section === "terms" && query.get("t")))) { window.scrollTo(0, 0); main.focus({ preventScroll: true }); }
+    else if (!(section === "episodes" || query.get("f") || query.get("s") || (section === "terms" && query.get("t")))) { window.scrollTo(0, 0); main.focus({ preventScroll: true }); }
   }
   window.addEventListener("hashchange", () => render(false));
 
@@ -58,6 +60,7 @@
   for (const [t, zh, sub, other, tep] of W.terms) index.push({ title: t, kind: "Term", href: `#/terms?t=${encodeURIComponent(t)}`, zh, sub: sub ? `Subs: ${sub}` : other, hay: [t, zh, sub, other].join(" ").toLowerCase(), ep: termEps ? (tep ?? S.NOVEL) : 0 });
   for (const r of W.realms) index.push({ title: r.name, kind: "Realm", href: `#/realms`, zh: r.zh, sub: r.where, hay: [r.name, r.zh, r.subs].join(" ").toLowerCase(), ep: 0 });
   for (const f of W.factions) index.push({ title: f.name, kind: "Faction", href: `#/powers?f=${encodeURIComponent(f.name)}`, zh: f.zh, sub: f.top, hay: [f.name, f.zh, f.subs].filter(Boolean).join(" ").toLowerCase(), ep: f.ep });
+  for (const x of V.extraIndex || []) index.push({ ...x, hay: `${x.title} ${x.zh}`.toLowerCase(), ep: 0 });
   for (const e of window.EPISODES || []) index.push({ title: `EP ${e.ep}: ${e.title}`, kind: "Episode", href: `#/episodes/${e.ep}`, sub: e.summary, hay: `ep ${e.ep} ${e.title} ${(e.introduced || []).join(" ")}`.toLowerCase(), ep: e.ep });
 
   let sel = 0, hits = [];

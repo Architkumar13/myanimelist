@@ -12,10 +12,13 @@
 //                       realms{novelWord, beyondTitle, beyondZh, beyondGist, ladders[{title, list, note?, cards?}], figure?, figureBeyond (if figure)},
 //                       map{label, caption, offMap, lands[{id, d, lx, ly, zh?, name?}], start?, labelDy?, far?{title,text}, extra?},
 //                       pages{realms{lede}, world{zh,title,lede}, powers{lede, note?},
-//                             journey{zh, title, lede, secrets[title, zh, text], methods[title, text], kit?{tab?,storyTab?,title?,lede?,note?}},
+//                             journey{zh, title, lede, secrets?[title, zh, text], methods?[title, text], kit?{tab?,storyTab?,title?,lede?,note?,at?,companions?,goneWith?,goneHas?}},
 //                             episodes{lede(fn), caveat?}, emperors{tab,zh,title,lede,note?},
 //                             zones{tab,zh,title,lede,prose,heading,masterLabel?,wiki?[title,label,text]}, terms{lede, cols[2], empty}},
-//                       zhLevels?, arcs?, searchHint?
+//                       zhLevels?, arcs?, searchHint?,
+//                       extraPages?[{route, zh, label, title?, lede?, sections[{id, title, zh?, lede?, layout: cards|ranking|timeline|table,
+//                                    data: "<world.js list>", fields?[[key,label]], columns?[[key,label]]}]} | {route, zh, label, custom: true}]
+//   pages.js  SHOW_PAGES? {route: (query, param, HUB) => ({title, html, mount?})}  (only for extraPages with custom: true)
 //   data/world.js WORLD NOVEL, maxEp?, arcs?,
 //                       realms[{id,name,zh,subs,where,lifespan,gist,heroEp,stages[{name,zh,text,ep?}],wiki?}]  (old name `yefan`: rename pending),
 //                       beyond[{name,zh,text}], tiers[{n,name,zh,top,ep?}], regions[{id,name,zh,ep,blurb,wiki?}],
@@ -84,11 +87,11 @@ function validateShow(meta, ROUTES) {
   if (!fs.existsSync(dir)) { E("shows.js", `SHOWS[${meta.id}].dir`, `folder shows/${meta.dir} not found`); return { errs, warns }; }
   if (meta.hero && !fs.existsSync(path.join(dir, meta.hero))) E("shows.js", `SHOWS[${meta.id}].hero`, `file ${meta.hero} not found`);
 
-  const FILES = ["show.js", "data/world.js", "data/wiki.js", "data/episodes.js", "data/cast.js", "atlas.js"];
+  const FILES = ["show.js", "data/world.js", "data/wiki.js", "data/episodes.js", "data/cast.js", "atlas.js", "pages.js"];
   const REQUIRED = new Set(["show.js", "data/world.js"]);
   const { window: w, loaded } = load(FILES.map(f => [f, path.join(dir, f)]));
   for (const f of FILES) {
-    if (loaded[f] === false) (REQUIRED.has(f) ? E : Wn)(f, "", REQUIRED.has(f) ? "file missing (boot stops)" : "optional file missing");
+    if (loaded[f] === false) { if (f !== "pages.js") (REQUIRED.has(f) ? E : Wn)(f, "", REQUIRED.has(f) ? "file missing (boot stops)" : "optional file missing"); }
     else if (loaded[f] !== true) E(f, "", `throws when loaded: ${loaded[f].message}`);
   }
   const SH = w.SHOW, W = w.WORLD;
@@ -137,7 +140,7 @@ function validateShow(meta, ROUTES) {
     map: { label: "s", caption: "s", offMap: "s", lands: [{ id: "s", d: "s", lx: "n", ly: "n", "zh?": "s", "name?": "s" }], "start?": "s", "far?": { title: "s", text: "s" } },
     pages: {
       realms: { lede: "s" }, world: { zh: "s", title: "s", lede: "s" }, powers: { lede: "s", "note?": "s" },
-      journey: { zh: "s", title: "s", lede: "s", secrets: "a", methods: "a", "kit?": { "tab?": "s", "storyTab?": "s", "title?": "s", "lede?": "s", "note?": "s" } },
+      journey: { zh: "s", title: "s", lede: "s", "secrets?": "a", "methods?": "a", "kit?": { "tab?": "s", "storyTab?": "s", "title?": "s", "lede?": "s", "note?": "s", "at?": "s", "companions?": "s", "goneWith?": "s", "goneHas?": "s" } },
       episodes: { lede: "f" }, emperors: { tab: "s", zh: "s", title: "s", lede: "s" },
       zones: { tab: "s", zh: "s", title: "s", lede: "s", prose: "s", heading: "s", "masterLabel?": "s", "wiki?": "a" },
       terms: { lede: "s", cols: "a", empty: "s" },
@@ -151,6 +154,37 @@ function validateShow(meta, ROUTES) {
   (SH.nav || []).forEach((n, i) => {
     if (!Array.isArray(n) || n.length < 3) return E("show.js", `SHOW.nav[${i}]`, "expected [route, zh, label]");
     if (ROUTES && !ROUTES.has(n[0])) E("show.js", `SHOW.nav[${i}]`, `route "${n[0]}" is not in app.js ROUTES`);
+  });
+
+  // extraPages: a show's own pages (js/extras.js). Layout sections need a non-empty world.js list; custom pages need pages.js.
+  const LAYOUTS = new Set(["cards", "ranking", "timeline", "table"]);
+  const extraEps = [];  // checked below, once maxEp is known
+  const seenRoutes = new Set((SH.nav || []).map(n => n[0]));
+  (SH.extraPages || []).forEach((P, i) => {
+    const p = `SHOW.extraPages[${i}]`;
+    for (const k of ["route", "zh", "label"]) if (typeof P[k] !== "string" || !P[k]) E("show.js", `${p}.${k}`, "required string missing");
+    if (ROUTES?.has(P.route) || ["w", "c"].includes(P.route)) E("show.js", `${p}.route`, `"${P.route}" is a standard route; extra pages can't replace it`);
+    if (seenRoutes.has(P.route)) E("show.js", `${p}.route`, `"${P.route}" is used twice`);
+    seenRoutes.add(P.route);
+    if (P.custom) {
+      if (typeof w.SHOW_PAGES?.[P.route] !== "function") E("pages.js", `SHOW_PAGES["${P.route}"]`, "custom page has no function in pages.js");
+      return;
+    }
+    if (!Array.isArray(P.sections) || !P.sections.length) return E("show.js", `${p}.sections`, "needs at least one section (or custom: true)");
+    P.sections.forEach((sec, j) => {
+      const q = `${p}.sections[${j}]`;
+      if (!sec.id || !sec.title) E("show.js", q, "needs id and title");
+      if (!LAYOUTS.has(sec.layout)) E("show.js", `${q}.layout`, `"${sec.layout}" is not one of ${[...LAYOUTS].join(", ")}`);
+      const list = W[sec.data];
+      if (!Array.isArray(list)) return E("data/world.js", `WORLD.${sec.data}`, `list for ${q} is missing`);
+      if (!list.length) Wn("data/world.js", `WORLD.${sec.data}`, "empty list; the section is skipped");
+      list.forEach((it, k) => {
+        if (!(it.name || it.title)) E("data/world.js", `WORLD.${sec.data}[${k}]`, "needs name or title");
+        if (sec.layout === "timeline" && it.ep == null) E("data/world.js", `WORLD.${sec.data}[${k}].ep`, "timeline items need ep");
+        if (it.ep != null) extraEps.push([`WORLD.${sec.data}[${k}].ep`, it.ep]);
+      });
+      for (const [key] of sec.columns || []) if (!list.some(it => it[key] != null)) Wn("show.js", `${q}.columns`, `no item has "${key}"`);
+    });
   });
 
   const heroEpKey = (o, file, p) => {
@@ -251,6 +285,7 @@ function validateShow(meta, ROUTES) {
     if (!badEps.has(key)) badEps.set(key, []);
     badEps.get(key).push(`${p}=${JSON.stringify(v)}`);
   };
+  extraEps.forEach(([p, v]) => ep("data/world.js", p, v));
   const WF = "data/world.js";
   (W.realms || []).forEach((r, i) => {
     ep(WF, `WORLD.realms[${i}].heroEp`, r.heroEp ?? r.yefan, { optional: true });

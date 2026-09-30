@@ -272,6 +272,40 @@ story's world grows, e.g. village → region → continent → planet → star f
 
 If the story never leaves one place, skip `atlas.js`: the World page falls back to the clickable region map.
 
+## Step 8b: the "Only here" page (what only this donghua has)
+
+Every show gets one extra page for the things that make it different from other cultivation shows. Shrouding the
+Heavens' page, `#/unique` ("Only in Shrouding the Heavens"), has five sections: the Source Arts and stone gambling,
+the stone gambles in order, the kinds of source, the Nine Secrets, and the special physiques.
+
+1. **Find the unique things.** Look for what the fandom talks about and the story keeps returning to, that isn't
+   already covered by a standard page:
+   - rankings: Battle Through the Heavens' Heavenly Flames
+   - collections: Soul Land's martial souls and spirit rings
+   - trades or side skills: stone gambling, alchemy grades, arrays
+   - named sets: the Nine Secrets
+   - special bodies and bloodlines
+   - recurring events: tournaments, auctions
+   The notes (step 1) and the wiki's categories are the places to look.
+2. **Propose them to the user**: two to five candidate sections, one line each, saying what the section would show.
+   Build what they pick. If they say "all", make them all sections of the one page.
+3. **Data:** one `world.js` list per section. Use the usual item fields (`name`/`title`, `zh`, `ep`, `text`, `wiki`,
+   `img`, plus any extra ones you show). Check every `ep` against the episodes. Delegating the research to one agent
+   works well: give it the episode data, the wiki cache and the item shape, and have it write a JSON file you insert.
+4. **Page:** in `show.js`, add `extraPages: [{ route, zh, label, title, lede, sections: [...] }]`. Each section picks a
+   layout:
+   - `cards`: equal things side by side, with a picture if `wiki` has one or `img` is set.
+   - `ranking`: order is the point; numbered by `rank` or position.
+   - `timeline`: episode order; every item needs `ep`.
+   - `table`: comparisons, with `columns: [[key, label], ...]`.
+   `fields: [[key, label]]` adds labelled lines to cards and ranking items. The data guide has the details.
+5. **Don't duplicate** a standard page's section. If something moves to the "Only here" page, remove it from the
+   old page. sth moved the Nine Secrets off the Ye Fan page by dropping `pages.journey.secrets`.
+6. **Only if no layout can express it** (an interactive diagram, a calculator): set `custom: true` on the extra page
+   and write `site/shows/<dir>/pages.js` with `window.SHOW_PAGES = { <route>: (query, param, HUB) => ({ title, html,
+   mount? }) }`. Use `HUB.esc`, `HUB.link` and `HUB.epLabel`, and the CSS classes the other pages use. Keep it
+   self-contained: it may not change shared behaviour.
+
 ## Step 9: verify (all must pass before you report)
 
 ```bash
@@ -281,7 +315,8 @@ python3 tools/smoke.py <id>        # 0 failures: every page loads, no errors, no
 
 Then look at it yourself. Serve with `python3 -m http.server 8000 -d site`, open `?show=<id>`, and screenshot
 (Playwright is installed) at 1400×900 and 390×844:
-- Home, Realms (scroll: the figure or list follows), World (every atlas stage), Powers (the region filter works),
+- Home, Realms (scroll: the figure or list follows), World (every atlas stage), the "Only here" page (every
+  section chip jumps to its section), Powers (the region filter works),
   Journey and its kit, Episodes (first, middle, latest), People (both views), 3 character pages (hero, a mentor, a
   villain), Emperors/Zones (or their renamed versions), Terms, Library, 3 articles.
 - Read the text as a viewer: names consistent everywhere, episode numbers matching the episode guide, no research

@@ -1,0 +1,39 @@
+/* ---------- A show's own pages (js/extras.js) ---------- */
+.x-jump { display: flex; flex-wrap: wrap; gap: .5rem; margin: 0 0 2rem; }
+.x-sec { margin: 0 0 3.5rem; scroll-margin-top: 5rem; }
+.x-sec > h2 { display: flex; align-items: baseline; gap: .6rem; }
+.x-sec > h2 .zh { font: 1.3rem var(--brush); color: var(--cinnabar); }
+.x-sec h3 { margin: 0 0 .3rem; font-size: var(--t1); }
+.x-sec p { margin: .2rem 0; max-width: var(--measure); }
+.x-ep { font-size: .85rem; }
+.x-fields { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: .15rem .8rem; margin: .5rem 0 0; font: .9rem/1.45 var(--sans); }
+.x-fields dt { color: var(--bone-dim); }
+.x-fields dd { margin: 0; }
+
+/* cards: equal things side by side */
+.x-cards { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 19rem), 1fr)); gap: 1.2rem; }
+.x-card { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 1rem; align-items: start; padding: 1rem 1.1rem;
+  background: var(--patina-deep); border: 1px solid var(--line); border-radius: 6px; }
+.x-card .x-img { width: 4.5rem; height: 6rem; object-fit: cover; border-radius: 4px; }
+.x-card > div:only-child { grid-column: 1 / -1; }
+
+/* ranking: order is the point */
+.x-ranking { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; max-width: 60rem; }
+.x-ranking li { display: grid; grid-template-columns: 3.4rem minmax(0, 1fr); gap: 1rem; padding: 1rem 0; border-top: 1px solid var(--line-soft); }
+.x-rank { font: 700 var(--t3)/1 var(--serif); color: var(--bronze); }
+.x-ranking h3 .ep-link { font-size: .8rem; margin-left: .3rem; }
+
+/* timeline: things in episode order */
+.x-timeline { list-style: none; margin: 0; padding: 0; max-width: 60rem; border-left: 2px solid var(--line); }
+.x-timeline li { display: grid; grid-template-columns: 5.2rem minmax(0, 1fr); gap: 1rem; padding: .8rem 0 .8rem 1rem; position: relative; }
+.x-timeline li::before { content: ""; position: absolute; left: -.4rem; top: 1.15rem; width: .7rem; height: .7rem; border-radius: 50%; background: var(--bronze); }
+.x-when { padding-top: .15rem; }
+
+@media (max-width: 600px) {
+  .x-timeline li { grid-template-columns: 1fr; gap: .2rem; }
+  .x-table thead { display: none; }
+  .x-table, .x-table tbody, .x-table tr, .x-table td { display: block; }
+  .x-table tr { padding: .7rem 0; border-bottom: 1px solid var(--line-soft); }
+  .x-table td { border: 0; padding: .1rem 0; }
+  .x-table td:not(:first-child)::before { content: attr(data-label) " · "; color: var(--bone-dim); font: 500 .8rem var(--sans); }
+}
