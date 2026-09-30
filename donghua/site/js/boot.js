@@ -49,8 +49,8 @@
   // Required files stop the boot if missing; the rest are optional (a new show may not have a cast yet).
   const files = [
     [base + "show.js", true], [base + "data/world.js", true],
-    [base + "data/wiki.js"], [base + "data/episodes.js"], [base + "data/cast.js"],
-    ["js/lib.js", true], ["js/views.js", true], ["js/people.js", true], ["js/app.js", true],
+    [base + "data/wiki.js"], [base + "data/episodes.js"], [base + "data/cast.js"], [base + "atlas.js"],
+    ["js/lib.js", true], ["js/views.js", true], ["js/people.js", true], ["js/atlas.js", true], ["js/app.js", true],
   ];
   // Build scripts write picture paths relative to the show's own folder ("img/wiki/x.png"); the page lives two levels up.
   const rebase = o => {

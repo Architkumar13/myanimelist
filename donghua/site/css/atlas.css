@@ -1,0 +1,83 @@
+/* ---------- World: the world keeps growing (js/atlas.js) ---------- */
+.wx { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(18rem, 1fr); gap: clamp(1.5rem, 4vw, 3.5rem); align-items: start; }
+.wx-map { position: sticky; top: 5.5rem; margin: 0; }
+.wx-svg {
+  display: block; width: 100%; aspect-ratio: 4 / 3; border-radius: 10px; border: 1px solid var(--line);
+  background:
+    radial-gradient(1px 1px at 12% 18%, var(--star), transparent), radial-gradient(1px 1px at 72% 12%, var(--star), transparent),
+    radial-gradient(1.5px 1.5px at 38% 64%, var(--star), transparent), radial-gradient(1px 1px at 88% 78%, var(--star), transparent),
+    radial-gradient(1px 1px at 22% 86%, var(--star), transparent), radial-gradient(1px 1px at 56% 34%, var(--star), transparent),
+    radial-gradient(1.5px 1.5px at 94% 42%, var(--star), transparent), radial-gradient(1px 1px at 6% 52%, var(--star), transparent),
+    color-mix(in srgb, var(--patina-deep) 60%, black 40%);
+}
+.wx-space { fill: transparent; }
+.wx-svg * { vector-effect: non-scaling-stroke; }
+.wx-cap { font: 500 .9rem/1.4 var(--sans); color: var(--bone-dim); margin-top: .5rem; min-height: 2.8em; }
+.wx-cap b { color: var(--bronze-bright); }
+
+/* Worlds */
+.wx-body { fill: color-mix(in srgb, var(--verdigris) 45%, var(--patina-deep)); stroke: var(--star); stroke-width: 1; transition: opacity .6s; }
+.wx-body.planet { fill: color-mix(in srgb, var(--patina-deep) 80%, black 20%); stroke: color-mix(in srgb, var(--star) 60%, transparent); }
+.wx-body[data-body="mars"] { fill: color-mix(in srgb, var(--cinnabar) 70%, var(--patina-deep)); }
+.wx-body[data-show="false"], .wx-body-lbl[data-show="false"] { opacity: 0; }
+.wx-dipper { opacity: 0; transition: opacity .8s; }
+.wx-svg[data-far="true"] .wx-dipper { opacity: .55; }
+.wx-dipper polyline { fill: none; stroke: var(--star); stroke-width: 1; stroke-dasharray: 2 6; }
+.wx-dipper circle { fill: var(--star); }
+.wx-body-lbl { opacity: 0; transition: opacity .6s; }
+.wx-svg[data-far="true"] .wx-body-lbl[data-show="true"] { opacity: 1; }
+
+/* Lands: fog until reached, then lit */
+.wx-land { fill: color-mix(in srgb, var(--patina-lift) 25%, transparent); stroke: color-mix(in srgb, var(--bone) 18%, transparent); stroke-width: 1; stroke-dasharray: 3 4; transition: fill .8s, stroke .8s; }
+.wx-land[data-lit="true"] { fill: color-mix(in srgb, var(--patina-lift) 85%, var(--bronze) 15%); stroke: var(--line); stroke-dasharray: none; }
+.wx-land-lbl { opacity: 0; transition: opacity .6s; }
+.wx-land-lbl[data-show="true"] { opacity: .75; }
+
+/* Pins keep screen size (atlas.js counter-scales them); these sizes are screen pixels. */
+.wx-svg text { fill: var(--bone); font: 500 12px var(--sans); pointer-events: none; paint-order: stroke; stroke: color-mix(in srgb, var(--patina-deep) 85%, transparent); stroke-width: 3px; stroke-linejoin: round; }
+.wx-svg text.zh-lbl { font: 18px var(--brush); fill: color-mix(in srgb, var(--bone) 75%, transparent); }
+.wx-place { opacity: 0; transition: opacity .6s; }
+.wx-place[data-show="true"] { opacity: .7; }
+.wx-place[data-here="true"][data-show="true"] { opacity: 1; }
+.wx-place circle { fill: var(--bone-dim); }
+.wx-place text { transition: opacity .6s; }
+.wx-place[data-label="false"] text { opacity: 0; }
+.wx-place[data-here="true"] circle { fill: var(--bronze-bright); }
+.wx-place .wx-ring { fill: none; stroke: var(--bronze-bright); stroke-width: 1.2; opacity: 0; }
+.wx-place[data-fresh="true"][data-show="true"] .wx-ring { animation: wx-pulse 2.4s ease-out infinite; }
+@keyframes wx-pulse { from { r: 4; opacity: .9; } to { r: 16; opacity: 0; } }
+
+.wx-trail { fill: none; stroke: var(--star); stroke-width: 1.2; stroke-dasharray: 3 5; opacity: .35; transition: opacity .6s; }
+.wx-trail[data-state="now"] { stroke: var(--bronze-bright); stroke-width: 2; opacity: .95; }
+
+/* Stage cards */
+.wx-stages { display: grid; gap: 0; }
+.wx-stage { padding: 1.4rem 0 3.5rem; border-top: 1px solid var(--line-soft); min-height: 70vh; transition: opacity .4s; }
+.wx-stage[data-active="false"] { opacity: .55; }
+.wx-head { display: flex; align-items: baseline; gap: .8rem; flex-wrap: wrap; }
+.wx-head h2 { margin: 0; }
+.wx-no { font: 700 var(--t3)/1 var(--serif); color: var(--bronze); }
+.wx-zh { font: 1.4rem var(--brush); color: var(--cinnabar); }
+.wx-meta { display: flex; flex-wrap: wrap; gap: .3rem 1rem; color: var(--bone-dim); font: 500 .9rem var(--sans); margin: .4rem 0 .8rem; }
+.wx-meta span:first-child { color: var(--bronze-bright); }
+.wx-gist { font-size: var(--t1); line-height: 1.5; max-width: var(--measure); }
+.wx-stage h3 { font: 700 .8rem var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--bone-dim); margin: 1.4rem 0 .5rem; }
+.wx-stage ul, .wx-stage ol { margin: 0; padding-left: 1.1rem; }
+.wx-stage li { margin: .3rem 0; }
+.wx-chips { display: flex; flex-wrap: wrap; gap: .4rem; list-style: none; padding: 0 !important; }
+.wx-chips li { margin: 0; border: 1px solid var(--line); border-radius: 999px; padding: .15rem .7rem; font: 500 .9rem var(--sans); }
+.wx-meter p { margin: .5rem 0 0; }
+.wx-meter .note { display: block; margin-top: .2rem; }
+.wx-ticks { display: grid; grid-template-columns: repeat(16, 1fr); gap: 3px; }
+.wx-ticks span { height: .7rem; border-radius: 2px; background: color-mix(in srgb, var(--bone) 10%, transparent); }
+.wx-ticks span.on { background: linear-gradient(var(--bronze-bright), var(--bronze)); }
+.wx-ticks span.was { outline: 1px dashed var(--bronze); outline-offset: 1px; }
+.wx-after { margin-top: 3rem; }
+
+@media (max-width: 860px) {
+  .wx { grid-template-columns: 1fr; }
+  .wx-map { top: 3.8rem; z-index: 5; background: var(--patina); padding-bottom: .3rem; }
+  .wx-svg { max-height: 38vh; }
+  .wx-cap { min-height: 0; font-size: .8rem; }
+  .wx-stage { min-height: 0; }
+}

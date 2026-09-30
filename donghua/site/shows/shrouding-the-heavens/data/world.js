@@ -93,12 +93,12 @@ window.WORLD = {
   regions: [
     { id: "mars", name: "Mars", zh: "荧惑", ep: 2, blurb: "First stop of the coffin. A ruined Great Leiyin Temple imprisons the Crocodile Ancestor.", wiki: "Da Lei Yin Temple" },
     { id: "south", name: "Eastern Wasteland, south", zh: "东荒南域", ep: 5, blurb: "Where the story starts. The mortal Yan Kingdom and its six paradises, the Ji family and Yaoguang Holy Land.", wiki: "Eastern Wastelands" },
-    { id: "north", name: "Eastern Wasteland, north", zh: "东荒北域", ep: 70, blurb: "Jiang family, Yaochi, the stone-gambling Divine City and Purple Mountain.", wiki: "Eastern Wastelands" },
-    { id: "central", name: "Eastern Wasteland, centre", zh: "东荒中域", ep: 90, blurb: "Wind clan, Zi Wei Sect, Daoyi, and the ruins of Tianxuan.", wiki: "The Central Region of the Eastern Barren" },
-    { id: "zhongzhou", name: "Zhongzhou", zh: "中州", ep: 140, blurb: "The Central Prefecture: four immortal dynasties, the hundred schools and nine ancient countries.", wiki: "Central States" },
+    { id: "north", name: "Eastern Wasteland, north", zh: "东荒北域", ep: 65, blurb: "Jiang family, Yaochi, the stone-gambling Divine City and Purple Mountain.", wiki: "Eastern Wastelands" },
+    { id: "central", name: "Eastern Wasteland, centre", zh: "东荒中域", ep: 127, blurb: "Wind clan, Zi Wei Sect, Daoyi, and the ruins of Tianxuan.", wiki: "The Central Region of the Eastern Barren" },
+    { id: "zhongzhou", name: "Zhongzhou", zh: "中州", ep: 141, blurb: "The Central Prefecture: four immortal dynasties, the hundred schools and nine ancient countries.", wiki: "Central States" },
     { id: "ziwei", name: "Ziwei Star", zh: "紫微古星", ep: 159, blurb: "Another planet, home star of the Sun and Moon emperors. Every emperor weapon vanished here.", wiki: "Ziwei Ancient Star" },
-    { id: "plains", name: "Northern Plains", zh: "北原", ep: NOVEL, blurb: "The Wang family's homeland.", wiki: "Northern Plains" },
-    { id: "ridge", name: "Southern Ridge", zh: "南岭", ep: 141, blurb: "Barbarian clans and their guardian beasts.", wiki: "Barbarian Clan" },
+    { id: "plains", name: "Northern Plains", zh: "北原", ep: 174, blurb: "The Wang family's homeland.", wiki: "Northern Plains" },
+    { id: "ridge", name: "Southern Ridge", zh: "南岭", ep: 171, blurb: "Barbarian clans and their guardian beasts.", wiki: "Barbarian Clan" },
     { id: "desert", name: "Western Desert", zh: "西漠", ep: NOVEL, blurb: "Buddhist lands of Mount Sumeru, heirs of Amitabha.", wiki: "Western Deserts" },
   ],
 

@@ -20,6 +20,7 @@ site/
   index.html, css/, js/        the engine, shared by every show
   shows.js                     the list of shows: id, folder, titles, palette, default episode
   shows/<folder>/show.js       that show's page text, nav labels, realm figure and map
+  shows/<folder>/atlas.js      optional: the World page's "world keeps growing" stages and their map points
   shows/<folder>/data/         world.js (hand-written), episodes.js, cast.js, wiki.js (built)
   shows/<folder>/img/          hero, wiki and cast pictures
 ```
