@@ -5,7 +5,7 @@
   const A = window.ATLAS, V = window.VIEWS;
   if (!A || !V) return;
   const S = window.STH, SH = window.SHOW;
-  const { esc, seal, epLabel, NOVEL } = S;
+  const { esc, epLabel, NOVEL } = S;
   const base = V.world;
   const [AW, AH] = A.aspect || [4, 3];
   const LANDS = SH.map?.lands || [];
@@ -16,12 +16,8 @@
   const firstStage = {};
   A.stages.forEach((st, i) => st.path.forEach(id => { if (!(id in firstStage)) firstStage[id] = i; }));
 
-  const stageOpen = st => !S.sealed(st.eps[0], "ws-" + st.id);
-  const placeOpen = id => {
-    const p = A.places[id];
-    return !S.sealed(p.ep, "wp-" + id) || S.state.opened.has("ws-" + A.stages[firstStage[id]].id);
-  };
-  const bodyOpen = b => !S.sealed(b.ep) || (b.stage && S.state.opened.has("ws-" + b.stage));
+  // A world is drawn once the story has reached it.
+  const bodyAt = (b, i) => !b.stage || A.stages.findIndex(s => s.id === b.stage) <= i;
   // Place labels: small spots only when close in (or when they belong to the stage on screen), landmarks until the
   // camera leaves the planet, whole worlds always.
   const lodShows = (lod, w, here) => lod >= 3 || (lod === 2 ? w <= 2500 : w <= 300 || (here && w <= 1200));
@@ -29,10 +25,6 @@
   const epLink = ep => ep < NOVEL ? `<a class="ep-link" href="#/episodes/${ep}">${epLabel(ep)}</a>` : epLabel(ep);
 
   function card(st, i, prevMax) {
-    // Inside a stage that is itself sealed, children skip their own seals: opening the stage opens all of it.
-    const whole = S.sealed(st.eps[0], "ws-" + st.id);
-    // Chips seal inline; list rows seal as blocks so a long line doesn't break away from its bullet.
-    const sub = (html, ep, id, inline) => whole ? html : seal(html, ep, inline ? { id, inline, tag: "span" } : { id });
     const fresh = [...new Set(st.path)].filter(id => firstStage[id] === i);
     const c = st.ceiling;
     const lvl = c.lvl;
@@ -40,7 +32,7 @@
     const meter = `
       <div class="wx-meter" aria-label="Strongest power seen in this stage">
         <div class="wx-ticks" aria-hidden="true">${ticks}</div>
-        <p>${sub(`<b>${lvl == null ? "?" : esc(A.ladder[lvl])}</b>${lvl != null && SH.zhLevels?.[lvl] ? ` <span class="zh" lang="zh">${SH.zhLevels[lvl]}</span>` : ""} · ${esc(c.who)} ${epLink(c.ep)}${c.note ? `<span class="note">${esc(c.note)}</span>` : ""}`, c.ep, `wc-${st.id}`)}</p>
+        <p><b>${lvl == null ? "?" : esc(A.ladder[lvl])}</b>${lvl != null && SH.zhLevels?.[lvl] ? ` <span class="zh" lang="zh">${SH.zhLevels[lvl]}</span>` : ""} · ${esc(c.who)} ${epLink(c.ep)}${c.note ? `<span class="note">${esc(c.note)}</span>` : ""}</p>
       </div>`;
     const inner = `
       <div class="wx-head"><span class="wx-no">${i + 1}</span><h2>${esc(st.title)}</h2><span class="wx-zh" lang="zh">${st.zh}</span></div>
@@ -49,19 +41,19 @@
       <h3>Strongest power seen</h3>${meter}
       ${fresh.length ? `<h3>New on the map</h3><ul class="wx-places">${fresh.map(id => {
         const p = A.places[id];
-        return `<li data-place="${id}">${sub(`${esc(p.name)}${p.zh ? ` <span class="zh" lang="zh">${p.zh}</span>` : ""} ${epLink(p.ep)}`, p.ep, "wp-" + id)}</li>`;
+        return `<li data-place="${id}">${esc(p.name)}${p.zh ? ` <span class="zh" lang="zh">${p.zh}</span>` : ""} ${epLink(p.ep)}</li>`;
       }).join("")}</ul>` : ""}
-      ${st.factions.length ? `<h3>Powers met</h3><ul class="wx-chips">${st.factions.map(([name, ep]) => `<li>${sub(factionNames.has(name) ? `<a href="#/powers?f=${encodeURIComponent(name)}">${esc(name)}</a>` : esc(name), ep, `wf-${st.id}-${name}`, true)}</li>`).join("")}</ul>` : ""}
-      ${st.facts.length ? `<h3>How big</h3><ul class="wx-facts">${st.facts.map(([text, ep], k) => `<li>${sub(`${esc(text)} ${epLink(ep)}`, ep, `wx-${st.id}-${k}`)}</li>`).join("")}</ul>` : ""}
-      <h3>What happens</h3><ol class="wx-events">${st.events.map(([ep, text]) => `<li>${sub(`${epLink(ep)} ${esc(text)}`, ep, `we-${st.id}-${ep}`)}</li>`).join("")}</ol>`;
-    return `<section class="wx-stage" id="wx-${st.id}" data-i="${i}">${seal(inner, st.eps[0], { id: "ws-" + st.id })}</section>`;
+      ${st.factions.length ? `<h3>Powers met</h3><ul class="wx-chips">${st.factions.map(([name, ep]) => `<li>${factionNames.has(name) ? `<a href="#/powers?f=${encodeURIComponent(name)}">${esc(name)}</a>` : esc(name)}</li>`).join("")}</ul>` : ""}
+      ${st.facts.length ? `<h3>How big</h3><ul class="wx-facts">${st.facts.map(([text, ep], k) => `<li>${esc(text)} ${epLink(ep)}</li>`).join("")}</ul>` : ""}
+      <h3>What happens</h3><ol class="wx-events">${st.events.map(([ep, text]) => `<li>${epLink(ep)} ${esc(text)}</li>`).join("")}</ol>`;
+    return `<section class="wx-stage" id="wx-${st.id}" data-i="${i}">${inner}</section>`;
   }
 
   function svg() {
     const far = 20000;
     const dipper = A.dipper || [];
     return `
-      <svg class="wx-svg" role="img" aria-label="Map of Ye Fan's world" preserveAspectRatio="xMidYMid slice">
+      <svg class="wx-svg" role="img" aria-label="Map of ${esc(SH.heroName)}'s world" preserveAspectRatio="xMidYMid slice">
         <rect class="wx-space" x="${-far}" y="${-far}" width="${2 * far}" height="${2 * far}"/>
         ${dipper.length ? `<g class="wx-dipper"><polyline points="${[...dipper.slice(0, 4), dipper[0]].map(p => p.join(",")).join(" ")}"/>
           <polyline points="${[dipper[0], ...dipper.slice(4)].map(p => p.join(",")).join(" ")}"/>
@@ -101,7 +93,7 @@
         const fig = root.querySelector(".wx-map"), el = fig.querySelector("svg"), cap = fig.querySelector(".wx-cap");
         const pins = [...el.querySelectorAll(".wx-pin")];
         const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
-        let cam = null, raf = 0, active = -1, want = 0;
+        let cam = null, raf = 0, active = -1;
 
         // One frame: move the camera, then counter-scale every pin so dots and labels keep their screen size.
         const draw = () => {
@@ -129,13 +121,13 @@
         };
 
         const pt = id => { const p = A.places[id]; return `${p.x},${p.y}`; };
-        // Everything that depends on which stage is showing and what is unsealed.
+        // Everything that depends on which stage is showing.
         const apply = i => {
           const st = A.stages[i], w = st.cam[2];
           el.dataset.far = String(w > 2000);
           const here = new Set(st.path);
           const reached = new Set(), lit = new Set();
-          A.stages.slice(0, i + 1).forEach(s => s.path.forEach(id => { if (placeOpen(id)) { reached.add(id); lit.add(A.places[id].region); } }));
+          A.stages.slice(0, i + 1).forEach(s => s.path.forEach(id => { reached.add(id); lit.add(A.places[id].region); }));
           el.querySelectorAll(".wx-place").forEach(g => {
             const id = g.dataset.place, p = A.places[id];
             g.dataset.show = String(reached.has(id) && lodShows(p.lod, w, here.has(id)));
@@ -146,31 +138,26 @@
           });
           el.querySelectorAll(".wx-land").forEach(g => g.dataset.lit = String(lit.has(g.dataset.region)));
           el.querySelectorAll(".wx-land-lbl").forEach(g => g.dataset.show = String(lit.has(g.dataset.region) && w >= 380 && w <= 2500));
-          el.querySelectorAll("[data-body]").forEach(g => g.dataset.show = String(bodyOpen(A.bodies.find(b => b.id === g.dataset.body))));
+          el.querySelectorAll("[data-body]").forEach(g => g.dataset.show = String(bodyAt(A.bodies.find(b => b.id === g.dataset.body), i)));
           let last = null;
           el.querySelectorAll(".wx-trail").forEach(t => {
             const j = +t.dataset.i, s = A.stages[j];
-            const ids = j <= i && stageOpen(s) ? s.path.filter(placeOpen) : [];
+            const ids = j <= i ? s.path : [];
             const pts = (last ? [last] : []).concat(ids);
             if (ids.length) last = ids[ids.length - 1];
             t.setAttribute("d", pts.length > 1 ? "M" + pts.map(pt).join(" L") : "");
             t.dataset.state = j === i ? "now" : "past";
           });
           root.querySelectorAll(".wx-stage").forEach(s => s.dataset.active = String(+s.dataset.i === i));
-          const held = want > i;
-          cap.innerHTML = `<b>${i + 1} · ${esc(st.title)}</b> · EP ${st.eps[0]}–${st.eps[1]}${held ? `<br><span class="muted">The map stops here: stage ${want + 1} comes after your episode.</span>` : ""}`;
-          el.setAttribute("aria-label", `Map of Ye Fan's world at stage ${i + 1}: ${st.title}`);
+          cap.innerHTML = `<b>${i + 1} · ${esc(st.title)}</b> · EP ${st.eps[0]}–${st.eps[1]}`;
+          el.setAttribute("aria-label", `Map of ${SH.heroName}'s world at stage ${i + 1}: ${st.title}`);
         };
 
-        // The camera never moves past the last stage you can see.
         const show = i => {
-          want = i;
-          let j = i;
-          while (j > 0 && !stageOpen(A.stages[j])) j--;
-          const moved = j !== active;
-          active = j;
-          apply(j);
-          if (moved) fly(A.stages[j].cam);
+          if (i === active) return;
+          active = i;
+          apply(i);
+          fly(A.stages[i].cam);
         };
 
         const io = new IntersectionObserver(entries => {
@@ -178,9 +165,6 @@
           if (vis) show(+vis.target.dataset.i);
         }, { rootMargin: "-40% 0px -50% 0px" });
         root.querySelectorAll(".wx-stage").forEach(s => io.observe(s));
-        // Opening a seal can put new places or a whole stage on the map; lib.js handles the seal itself first.
-        const onStamp = e => { if (e.target.closest(".wx-stages .seal-stamp")) setTimeout(() => { active = -1; show(want); }, 0); };
-        root.addEventListener("click", onStamp);
         const onResize = () => cam && draw();
         addEventListener("resize", onResize);
         show(0);
@@ -188,7 +172,6 @@
         return () => {
           io.disconnect(); cancelAnimationFrame(raf);
           removeEventListener("resize", onResize);
-          root.removeEventListener("click", onStamp);
           if (typeof undoOld === "function") undoOld();
         };
       },

@@ -59,7 +59,7 @@ window.SHOW = {
   // Hand-drawn Beidou: five regions around the Eastern Wasteland, plus the star route.
   map: {
     label: "Map of Beidou", start: "south",
-    caption: "A rough sketch for orientation, not an official map. Regions striped in cinnabar come after your episode.",
+    caption: "A rough sketch for orientation, not an official map.",
     offMap: "Beyond Beidou",
     far: { title: "Earth, the Eternal Kingdom and the Immortal Domain", text: "Ye Fan's road later leads home to Earth, out across other star fields, and finally toward the Immortal Domain." },
     lands: [
@@ -89,9 +89,15 @@ window.SHOW = {
       note: "In the story's present no Great Emperor is alive. Great Saints are the strongest beings walking around openly, and a revived imperial weapon outclasses any of them.",
     },
     journey: {
-      zh: "叶凡", title: "Ye Fan's journey and his cheats", lede: "Every advantage he picks up, in the order he picks it up. Anything after your episode stays sealed.",
+      zh: "叶凡", title: "Ye Fan's journey and his cheats", lede: "Every advantage he picks up, in the order he picks it up.",
       secrets: ["The Nine Secrets", "九秘", "Nine arts created by the Nine Heavenly Venerables of the Mythological era. Ye Fan spends the whole story hunting them down."],
       methods: ["The best method for every realm", "His quiet long-term cheat: he ends up with the strongest known method for each realm, pieced together from different emperors' legacies."],
+      // The "what he carries at EP N" view; only shown because world.js has an `inventory` list.
+      kit: {
+        tab: "What he carries", storyTab: "His advantages", title: "What Ye Fan carries",
+        lede: "His body, scriptures, secret arts, treasures and the people at his side, as they stand at the episode you pick.",
+        note: "Each thing appears from the episode where he actually gets it on screen, and leaves the list when he loses it or gives it up.",
+      },
     },
     episodes: {
       lede: eps => `Every episode so far, ${eps.length ? `${eps.filter(e => !e.arc).length} of them summarised one by one` : "summarised"}. Episodes 1–50 come straight from the official English subtitles; later ones from fan sources.`,
@@ -109,7 +115,7 @@ window.SHOW = {
         <p>After cutting themselves down they sit around the peak of the Quasi-Emperor realm. They can still flare back to full Emperor power for a short while, at the cost of whatever life they have left. These beings are called <b>Supremes</b> (至尊).</p>
         <p>When their life runs dry, several wake together and drink the life of whole star fields, then go back to sleep. These are the <b>Dark Turmoils</b>, and every era's emperor has had to hold them back.</p>`,
       heading: "The seven zones", masterLabel: "Master: ",
-      wiki: ["Forbidden Zones", "The full wiki article", "goes into every Supreme by name. Heavy spoilers."],
+      wiki: ["Forbidden Zones", "The full wiki article", "goes into every Supreme by name."],
     },
     terms: {
       lede: "The same word gets translated three different ways. The middle column is what the official YouTube subtitles say (checked against episodes 1–50).",

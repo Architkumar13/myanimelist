@@ -37,7 +37,7 @@ window.SHOW = {
   // Schematic of the Great Thousand World: lower planes beside the upper plane, and the two continents the donghua actually visits.
   map: {
     label: "Where the story sits", start: "nsr", labelDy: [-8, 12],
-    caption: "A sketch of the stack, not a map. Northern Spiritual Realm sits inside the Hundred Spirit Continent. Stripes mean you have not reached that episode.",
+    caption: "A sketch of the stack, not a map. Northern Spiritual Realm sits inside the Hundred Spirit Continent.",
     offMap: "Still off this sketch",
     lands: [
       { id: "lower", d: "M36 36 H250 V150 H36 Z", lx: 143, ly: 96, name: "Lower Planes" },
@@ -69,7 +69,7 @@ window.SHOW = {
       tab: "Trials", zh: "试炼", title: "Trials and grounds",
       lede: "The dangerous places are exams, swamps and ruins, not a ring of dying emperors. Each one is where the story actually changes size.",
       prose: `
-        <p>Early on, the threat is other students and spiritual beasts. Later, a Sovereign can walk into the same scene. The seal on a card is about when the donghua arrives there, not about how grim the place is.</p>`,
+        <p>Early on, the threat is other students and spiritual beasts. Later, a Sovereign can walk into the same scene.</p>`,
       heading: "In the order he meets them", masterLabel: "",
       wiki: ["Spiritual Road", "The Spiritual Road on the wiki", "goes further, including who won. Heavier than the opening flashback."],
     },

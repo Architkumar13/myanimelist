@@ -1,4 +1,4 @@
-// Router, progress control, search and lightbox.
+// Router, search and lightbox.
 (function () {
   const S = window.STH, V = window.VIEWS, W = window.WORLD, SH = window.SHOW, WIKI = window.WIKI || { entries: {}, alias: {} };
   const main = document.getElementById("main");
@@ -8,13 +8,12 @@
   document.getElementById("rail-nav").innerHTML = nav;
   document.querySelector(".rail-mark").textContent = SH.mark;
   document.querySelector("#search-input").placeholder = SH.searchHint || "Search";
-  document.getElementById("ep-input").max = S.MAX_EP;
   document.documentElement.style.setProperty("--ticks", (window.CAST_LEVELS || []).length || 16);
   document.querySelectorAll(".rail, .topbar").forEach(el => el.hidden = false);
   let cleanup = null;
 
   const ROUTES = { "": V.home, realms: V.realms, world: V.world, powers: V.powers, journey: V.journey, episodes: V.episodes,
-    people: V.people, emperors: V.emperors, zones: V.zones, terms: V.terms, lore: V.lore };
+    recap: V.recap, people: V.people, emperors: V.emperors, zones: V.zones, terms: V.terms, lore: V.lore };
 
   function render(keepScroll) {
     const raw = location.hash.replace(/^#\/?/, "");
@@ -34,18 +33,9 @@
     });
     cleanup = view.mount?.(main);
     if (keepScroll) window.scrollTo(0, y);
-    else if (!(section === "episodes" || query.get("f"))) { window.scrollTo(0, 0); main.focus({ preventScroll: true }); }
+    else if (!(section === "episodes" || query.get("f") || (section === "terms" && query.get("t")))) { window.scrollTo(0, 0); main.focus({ preventScroll: true }); }
   }
   window.addEventListener("hashchange", () => render(false));
-
-  // ---------- Progress control ----------
-  const input = document.getElementById("ep-input"), all = document.getElementById("ep-all");
-  const sync = () => { input.value = S.state.ep; all.checked = S.state.all; };
-  sync();
-  input.addEventListener("change", () => S.setProgress(+input.value));
-  all.addEventListener("change", () => S.setProgress(null, all.checked));
-  document.querySelectorAll(".ep-step").forEach(b => b.addEventListener("click", () => S.setProgress(S.state.ep + +b.dataset.step)));
-  S.onProgress(() => { sync(); render(true); });
 
   // ---------- Search ----------
   const dialog = document.querySelector("dialog.search"), q = document.getElementById("search-input"), list = document.getElementById("search-results");
@@ -53,7 +43,7 @@
   const index = [];
   const castWiki = new Set();
   for (const c of window.CAST || []) {
-    const now = c.looks.filter(l => l.ep <= S.state.ep).pop() || c.looks[0];
+    const now = c.looks[c.looks.length - 1];
     if (c.wiki) castWiki.add(c.wiki);
     index.push({ title: c.name, kind: "Person", href: `#/c/${c.id}`, img: now.img, zh: c.zh || "", sub: c.intro,
       hay: [c.name, c.zh, ...(c.aka || [])].join(" ").toLowerCase(), ep: c.ep, rank: -0.5 });
@@ -64,7 +54,8 @@
     index.push({ title: e.title, kind: kindWord[e.kind], href: S.href(e.title), img: e.img, zh: f.zh || "",
       hay: [e.title, f.zh, f.pinyin, ...(f.aliases || []).map(S.plain)].join(" ").toLowerCase(), ep: e.kind === "character" ? S.entryEp(e) : 0 });
   }
-  for (const [t, zh, sub, other] of W.terms) index.push({ title: t, kind: "Term", href: "#/terms", zh, sub: sub ? `Subs: ${sub}` : other, hay: [t, zh, sub, other].join(" ").toLowerCase(), ep: 0 });
+  const termEps = W.terms.some(t => t[4] != null);
+  for (const [t, zh, sub, other, tep] of W.terms) index.push({ title: t, kind: "Term", href: `#/terms?t=${encodeURIComponent(t)}`, zh, sub: sub ? `Subs: ${sub}` : other, hay: [t, zh, sub, other].join(" ").toLowerCase(), ep: termEps ? (tep ?? S.NOVEL) : 0 });
   for (const r of W.realms) index.push({ title: r.name, kind: "Realm", href: `#/realms`, zh: r.zh, sub: r.where, hay: [r.name, r.zh, r.subs].join(" ").toLowerCase(), ep: 0 });
   for (const f of W.factions) index.push({ title: f.name, kind: "Faction", href: `#/powers?f=${encodeURIComponent(f.name)}`, zh: f.zh, sub: f.top, hay: [f.name, f.zh, f.subs].filter(Boolean).join(" ").toLowerCase(), ep: f.ep });
   for (const e of window.EPISODES || []) index.push({ title: `EP ${e.ep}: ${e.title}`, kind: "Episode", href: `#/episodes/${e.ep}`, sub: e.summary, hay: `ep ${e.ep} ${e.title} ${(e.introduced || []).join(" ")}`.toLowerCase(), ep: e.ep });
@@ -75,13 +66,12 @@
     if (!s) { list.innerHTML = `<li class="search-empty">Search characters, factions, realms, terms and episodes. Chinese works too.</li>`; hits = []; return; }
     const words = s.split(/\s+/);
     hits = index.filter(x => words.every(w => x.hay.includes(w)))
-      .map(x => ({ x, score: (x.title.toLowerCase().startsWith(s) ? 0 : 1) + (S.sealed(x.ep) ? 2 : 0) + x.title.length / 200 + (x.rank || 0) }))
+      .map(x => ({ x, score: (x.title.toLowerCase().startsWith(s) ? 0 : 1) + x.title.length / 200 + (x.rank || 0) }))
       .sort((a, b) => a.score - b.score).slice(0, 40).map(h => h.x);
     sel = 0;
     list.innerHTML = hits.length ? hits.map((h, i) => {
-      const shut = S.sealed(h.ep);
-      return `<li><a href="${h.href}" aria-selected="${i === 0}">${h.img && !shut ? `<img src="${S.esc(h.img)}" alt="">` : `<span class="blank" aria-hidden="true">${S.esc((h.zh || h.title)[0])}</span>`}
-        <span><span class="t">${S.esc(h.title)}</span> ${h.zh ? `<span class="zh muted" lang="zh">${S.esc(h.zh)}</span>` : ""}${h.sub && !shut ? `<span class="s">${S.esc(S.plain(h.sub)).slice(0, 110)}</span>` : shut ? `<span class="s">Sealed until ${h.ep >= S.NOVEL || h.ep == null ? "later" : `EP ${h.ep}`}</span>` : ""}</span>
+      return `<li><a href="${h.href}" aria-selected="${i === 0}">${h.img ? `<img src="${S.esc(h.img)}" alt="">` : `<span class="blank" aria-hidden="true">${S.esc((h.zh || h.title)[0])}</span>`}
+        <span><span class="t">${S.esc(h.title)}</span> ${h.zh ? `<span class="zh muted" lang="zh">${S.esc(h.zh)}</span>` : ""}${h.sub ? `<span class="s">${S.esc(S.plain(h.sub)).slice(0, 110)}</span>` : ""}</span>
         <span class="kind">${h.kind}</span></a></li>`;
     }).join("") : `<li class="search-empty">Nothing called “${S.esc(q.value)}”. Try a shorter word or the Chinese name.</li>`;
   }

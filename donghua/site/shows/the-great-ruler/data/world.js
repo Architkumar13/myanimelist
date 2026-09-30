@@ -7,11 +7,6 @@ window.WORLD = {
   NOVEL,
   maxEp: 92,
 
-  epOverride: {
-    "Heavenly Evil Monarch": NOVEL,
-    "Firmament Board": NOVEL,
-  },
-
   realms: [
     {
       id: "sensing", name: "Sensing", subs: "Sensing", zh: "感应境", body: "world",

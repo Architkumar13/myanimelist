@@ -5,7 +5,8 @@
   const id = new URLSearchParams(location.search).get("show");
   const meta = SHOWS.find(s => s.id === id);
   const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
-  const progress = s => { try { return JSON.parse(localStorage.getItem(`${s.id}-progress`) || "null"); } catch { return null; } };
+  // The site used to save a "watched up to" episode per show; that feature is gone, so drop the old keys.
+  SHOWS.forEach(s => localStorage.removeItem(`${s.id}-progress`));
   const themeStyle = s => Object.entries(s.theme || {}).map(([k, v]) => `${k}:${v}`).join(";");
 
   function favicon(glyph, bg, ink) {
@@ -19,18 +20,15 @@
     main.innerHTML = `
       <header class="hub-head">
         <h1><span class="zh-title" lang="zh">动画</span>Donghua companions</h1>
-        <p>One companion per show. Each keeps its own “watched up to” and seals anything after it.</p>
+        <p>One companion per show: realms, places, powers, people and every episode.</p>
       </header>
       <ul class="hub-shows">${SHOWS.map(s => {
-        const p = progress(s);
-        const where = p ? (p.all ? "Showing everything" : `Watched up to EP ${p.ep}`) : "Not started here yet";
         return `<li style="${themeStyle(s)}"><a href="?show=${encodeURIComponent(s.id)}">
           <img src="shows/${esc(s.dir)}/${esc(s.hero)}" alt="" loading="lazy">
           <div class="hub-copy">
             <span class="hub-zh" lang="zh">${esc(s.zh)}</span>
             <h2>${esc(s.title)}</h2>
             <p>${esc(s.blurb)}</p>
-            <p class="hub-progress">${where}</p>
           </div></a></li>`;
       }).join("")}</ul>
       <p class="note hub-note">To add a show, see <code>donghua/README.md</code>.</p>`;
@@ -50,7 +48,7 @@
   const files = [
     [base + "show.js", true], [base + "data/world.js", true],
     [base + "data/wiki.js"], [base + "data/episodes.js"], [base + "data/cast.js"], [base + "atlas.js"],
-    ["js/lib.js", true], ["js/views.js", true], ["js/people.js", true], ["js/atlas.js", true], ["js/app.js", true],
+    ["js/lib.js", true], ["js/views.js", true], ["js/people.js", true], ["js/features.js", true], ["js/atlas.js", true], ["js/app.js", true],
   ];
   // Build scripts write picture paths relative to the show's own folder ("img/wiki/x.png"); the page lives two levels up.
   const rebase = o => {

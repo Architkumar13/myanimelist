@@ -6,9 +6,7 @@ A shorter 2019 series, **The Grand Lord** (12 episodes), adapts only the opening
 
 ## The website
 
-The companion lives in the shared donghua site (`../site/`, see [../README.md](../README.md)). It is a spoiler-aware companion: the realm ladder, the three cultivation paths, the places Mu Chen actually stands in, his advantages in the order he gets them, an episode guide through the latest aired episode, and (once the download finishes) the fan wiki.
-
-Set the episode you have watched in the top bar. Anything later stays under a cinnabar seal until you open it.
+The companion lives in the shared donghua site (`../site/`, see [../README.md](../README.md)). It is a companion: the realm ladder, the three cultivation paths, the places Mu Chen actually stands in, his advantages in the order he gets them, an episode guide through the latest aired episode, and (once the download finishes) the fan wiki.
 
 **Open it:** double-click `../site/index.html` and pick The Great Ruler, or run `python3 -m http.server 8000 -d ../site` and open http://localhost:8000/?show=tgr.
 

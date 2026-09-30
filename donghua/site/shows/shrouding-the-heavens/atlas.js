@@ -7,7 +7,7 @@
 window.ATLAS = {
   aspect: [4, 3],
   zh: "北斗", title: "The world keeps growing",
-  lede: "Ye Fan's world starts as one mortal kingdom and ends up spanning star fields. Scroll, and the map pulls back each time the story does. Anything after your episode stays off the map.",
+  lede: "Ye Fan's world starts as one mortal kingdom and ends up spanning star fields. Scroll, and the map pulls back each time the story does.",
   ladder: ["Mortal", "Bitter Sea", "Life Spring", "Divine Bridge", "Other Shore", "Dao Palace", "Four Poles", "Dragon Transformation",
     "Immortal Platform", "Great Power", "King", "Saint", "Saint King", "Great Saint", "Quasi-Emperor", "Great Emperor"],
 

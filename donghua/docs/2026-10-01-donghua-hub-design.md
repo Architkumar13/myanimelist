@@ -2,6 +2,8 @@
 
 Approved in chat on 2026-10-01.
 
+> **Later change (2026-10-01):** the spoiler system (seals, the "watched up to" episode, saved progress) was removed from the whole site at the user's request. Everything is shown at its latest state; episode numbers remain only as labels. Parts of this doc that describe seals no longer apply.
+
 ## Goal
 
 `shrouding-the-heavens/` and `the-great-ruler/` each had their own copy of the same spoiler-aware companion site.

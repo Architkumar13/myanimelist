@@ -54,8 +54,9 @@
 .wx-stages { display: grid; gap: 0; }
 .wx-stage { padding: 1.4rem 0 3.5rem; border-top: 1px solid var(--line-soft); min-height: 70vh; transition: opacity .4s; }
 .wx-stage[data-active="false"] { opacity: .55; }
-.wx-head { display: flex; align-items: baseline; gap: .8rem; flex-wrap: wrap; }
-.wx-head h2 { margin: 0; }
+.wx-head { display: flex; align-items: baseline; gap: .8rem; }
+.wx-head h2 { margin: 0; min-width: 0; }
+.wx-head .wx-no, .wx-head .wx-zh { flex: none; }
 .wx-no { font: 700 var(--t3)/1 var(--serif); color: var(--bronze); }
 .wx-zh { font: 1.4rem var(--brush); color: var(--cinnabar); }
 .wx-meta { display: flex; flex-wrap: wrap; gap: .3rem 1rem; color: var(--bone-dim); font: 500 .9rem var(--sans); margin: .4rem 0 .8rem; }

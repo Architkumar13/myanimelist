@@ -4,7 +4,7 @@ Notes for watching the donghua on the **Shrouding the Heavens Animation Official
 
 ## The website
 
-The companion lives in the shared donghua site (`../site/`, see [../README.md](../README.md)). It is a spoiler-aware companion website built from these notes plus the whole fan wiki: realms (with a body diagram), a map of Beidou, the faction tier ladder, Ye Fan's journey, an episode guide, the donghua cast (their looks and realms episode by episode, plus a who's-strongest ladder), 337 wiki characters, emperors by era, the Forbidden Zones, a terms table and a library of every wiki article. Set the episode you've watched up to in the top bar; anything later stays under a cinnabar seal until you choose to reveal it.
+The companion lives in the shared donghua site (`../site/`, see [../README.md](../README.md)). It is a companion website built from these notes plus the whole fan wiki: realms (with a body diagram), a map of Beidou, the faction tier ladder, Ye Fan's journey, an episode guide, the donghua cast (their looks and realms episode by episode, plus a who's-strongest ladder), 337 wiki characters, emperors by era, the Forbidden Zones, a terms table and a library of every wiki article.
 
 **Open it:** double-click `../site/index.html` and pick Shrouding the Heavens, or serve it with `python3 -m http.server 8000 -d ../site` and go to http://localhost:8000/?show=sth. Fonts load from Google Fonts; everything else is local.
 
@@ -21,7 +21,7 @@ python3 scripts/build_cast.py        # data/characters/ -> site/data/cast.js (th
 
 **People pages.** `data/characters/roster.json` is the donghua cast (107 people, in order of first on-screen appearance) with a realm timeline and every look change, each tagged with its episode. Sources and doubts are in `data/characters/SOURCES.md`. `data/characters/picks.json` records which still is used for each look: a frame from the official channel (EP1–50, re-grabbed at 1080p), a frame from a fan re-upload of an episode's preview clip, or a fan-wiki picture. Picks marked `"manual"` were chosen by hand. The portraits in `site/img/cast/` come from the face-matching scripts in `scripts/stills/`. Those need yt-dlp, OpenCV and ffmpeg in `/tmp/ytenv` and working files in `/tmp/stills`, so treat them as a record of how the pictures were made rather than a one-command rebuild. 5 looks still have no clear still (the Crocodile Ancestor, Zhang Ziling, Lingxu's master, the Sun Holy Emperor and the Thousand-Armed Divine Demon) and show a placeholder. Picks of kind `ak` are frames from the full episodes on AnimeKhor.
 
-Hand-curated content (realms, tiers, factions, eras, journey, terms, milestones) lives in `site/data/world.js`; each item carries the episode it first appears in, which is what the seals use.
+Hand-curated content (realms, tiers, factions, eras, journey, terms, milestones) lives in `site/data/world.js`; each item carries the episode it first appears in, shown as a label.
 
 Episode summaries for EP1–50 were written from the official English subtitles. EP51–183 were rewritten from the Indonesian fan subtitles on AnimeKhor (the site the episodes are watched on), one reviewer per batch of about 20 episodes. Each file was checked to really be episode N, recaps and previews were ignored, and names were mapped to one spelling. The per-episode review notes, with corrections and doubtful lines, are in `data/episodes/review/`. EP80, 100, 166 and 176 had no subtitles and keep their older fan-sourced summaries. The old fan-sourced file is kept in `data/episodes/archive/`.
 

@@ -1,31 +1,9 @@
-// Shared state and helpers: progress (spoiler) state, wiki lookups, block rendering.
+// Shared helpers: episode labels, wiki lookups, block rendering.
 (function () {
   const W = window.WORLD, SH = window.SHOW, WIKI = window.WIKI || { entries: {}, alias: {} };
   const NOVEL = W.NOVEL;
-  const KEY = `${SH.id}-progress`;
-  // The furthest episode you can set: the show's own maxEp, else the last episode in the guide.
+  // The latest episode in the guide (or the show's own maxEp).
   const MAX_EP = W.maxEp || Math.max(0, ...(window.EPISODES || []).map(e => e.epEnd || e.ep)) || 200;
-
-  const saved = JSON.parse(localStorage.getItem(KEY) || "null") || { ep: SH.defaultEp ?? 1, all: false };
-  const state = { ep: saved.ep, all: saved.all, opened: new Set() };
-  const listeners = [];
-
-  function save() { localStorage.setItem(KEY, JSON.stringify({ ep: state.ep, all: state.all })); }
-  function setProgress(ep, all) {
-    if (ep != null) state.ep = Math.max(0, Math.min(MAX_EP, Math.round(ep) || 0));
-    if (all != null) state.all = all;
-    save();
-    listeners.forEach(fn => fn());
-  }
-  function onProgress(fn) { listeners.push(fn); }
-
-  // Unknown episodes count as spoilers: we'd rather hide a harmless page than reveal a twist.
-  function sealed(ep, id) {
-    if (state.all) return false;
-    if (id && state.opened.has(id)) return false;
-    if (ep == null) return true;
-    return ep > state.ep;
-  }
 
   const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
 
@@ -34,36 +12,6 @@
     if (ep >= NOVEL) return `<span class="ep-tag novel" title="Not matched to a donghua episode; comes later in the story">later</span>`;
     return `<span class="ep-tag" title="Donghua episode">EP ${ep}</span>`;
   }
-
-  function sealWord(ep) {
-    if (ep == null) return "Episode unknown";
-    if (ep >= NOVEL) return "Later in the story";
-    return `Shown in EP ${ep}`;
-  }
-
-  // Wrap html in a seal. id makes a broken seal stay broken for this visit.
-  let sealCount = 0;
-  function seal(html, ep, opts = {}) {
-    const id = opts.id || `s${++sealCount}`;
-    const shut = sealed(ep, id);
-    const tag = opts.tag || "div";
-    return `<${tag} class="seal ${opts.inline ? "seal-inline" : ""} ${shut ? "is-sealed" : ""} ${opts.cls || ""}" data-seal="${esc(id)}" data-ep="${ep ?? ""}">` +
-      `<button type="button" class="seal-stamp" aria-label="${esc(sealWord(ep))}. Reveal this spoiler">` +
-      `<span><b aria-hidden="true">封</b>${esc(sealWord(ep))} · reveal</span></button>` +
-      `<div class="seal-body" ${shut ? 'aria-hidden="true" inert' : ""}>${html}</div></${tag}>`;
-  }
-
-  document.addEventListener("click", e => {
-    const stamp = e.target.closest(".seal-stamp");
-    if (!stamp) return;
-    const box = stamp.parentElement;
-    state.opened.add(box.dataset.seal);
-    box.classList.remove("is-sealed");
-    const body = box.querySelector(":scope > .seal-body");
-    body.removeAttribute("aria-hidden");
-    body.removeAttribute("inert");
-    body.querySelector("a, button, [tabindex]")?.focus({ preventScroll: true });
-  });
 
   // ---------- Wiki ----------
   function resolve(title) {
@@ -77,11 +25,7 @@
     return null;
   }
 
-  function entryEp(e) {
-    if (!e) return null;
-    if (e.title in W.epOverride) return W.epOverride[e.title];
-    return e.ep ?? null;
-  }
+  const entryEp = e => e?.ep ?? null;
 
   const href = title => "#/w/" + encodeURIComponent(title);
 
@@ -141,5 +85,5 @@
     return html;
   }
 
-  window.STH = { state, setProgress, onProgress, sealed, seal, epLabel, esc, resolve, entryEp, href, link, inline, plain, img, imgFor, blocks, NOVEL, MAX_EP };
+  window.STH = { epLabel, esc, resolve, entryEp, href, link, inline, plain, img, imgFor, blocks, NOVEL, MAX_EP };
 })();
