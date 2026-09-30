@@ -1,0 +1,84 @@
+{
+  "ep": 109,
+  "title": "The Hengyu Divine Furnace",
+  "summary": "Jiang Taixu has been rescued, but his life force is nearly spent and he lies in the Jiang family's Dragon Transformation Pool while enemies from 4,000 years ago close in. Ye Fan presents himself to Jiang Yun, and when Doctor Wang Shen says the family's medicines are exhausted, Ye Fan gives up the crystal of the True Dragon Immortal Medicine, which should revive the Divine King in three hours. As attackers break the Great Emperor formation, Ye Fan rejects retreat or negotiation and proposes a Source Arts deception: fake divine-source mist, illusory formation flags and a deliberate opening, all backed by the Hengyu Divine Furnace. The trap splits the enemy's thirteen Holy Lords and lets the Jiang reactivate the Great Emperor formation. Three Old Demons (Immortal Platform 2nd Heaven), corpses twisted by eating Yinming grass, then go for Jiang Taixu. Ye Fan holds them off with the God-Beating Whip, which strikes divine sense, until Fairy Caiyun of the Wanchu Holy Land (Immortal Platform 2nd Heaven) appears.",
+  "events": [
+    "Jiang Taixu recovers in the Dragon Transformation Pool",
+    "Ye Fan gives up the True Dragon medicine crystal: three hours to revival",
+    "Enemies break into the Jiang domain",
+    "Ye Fan's illusion-formation plan with the Hengyu Divine Furnace",
+    "The thirteen Holy Lords are split and trapped",
+    "Three Old Demons attack; Ye Fan fights them with the God-Beating Whip",
+    "Fairy Caiyun arrives"
+  ],
+  "introduced": [
+    "Dragon Transformation Pool",
+    "Wang Shen",
+    "Caiyun",
+    "Wanchu Holy Land",
+    "Hengyu Divine Furnace",
+    "Old Demons",
+    "Yinming grass"
+  ],
+  "cultivation": "Captions: Old Demons, Immortal Platform 2nd Heaven (divine sense); Caiyun (Wanchu Holy Land), Immortal Platform 2nd Heaven. Hengyu Divine Furnace is captioned a supreme Dao Emperor weapon.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jiang-taixu",
+      "name": "Jiang Taixu",
+      "realm": null,
+      "quote": "[Jiang Taixu, Raja Dewa Keluarga Jiang]",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jiang-yun",
+      "name": "Jiang Yun",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "wang-shen",
+      "name": "Wang Shen",
+      "realm": null,
+      "quote": "[Dokter Wang Shen]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Old Demons",
+      "realm": "Immortal Platform (2nd Heaven)",
+      "quote": "[Setan Tua, Platform Abadi Surga Kedua Indra Ilahi]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "caiyun",
+      "name": "Caiyun",
+      "realm": "Immortal Platform (2nd Heaven)",
+      "quote": "[Peri Caiyun, Tanah Suci Wanchu, Platform Abadi Surga Kedua]",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Corrected the setup: Jiang Taixu is recovering in the Dragon Transformation Pool, not sealed inside the Hengyu furnace; the furnace is the Jiang family's defensive emperor weapon",
+    "Added the medicine crystal, Ye Fan's defence plan, the Old Demons and the God-Beating Whip"
+  ],
+  "flags": [
+    "Roster: jiang-taixu is listed as first appearing in EP109, but EP70 (cache/animekhor/ep70.id.srt, around 17:45) already captions '[Jiang Taixu, Raja Dewa]' when Ye Fan finds him under Purple Mountain, and EP108 and 109 both say he taught Ye Fan the Dou secret there. First appearance should be EP70",
+    "10:42 'Tiga Belas Aturan Suci' (thirteen Holy Rules) and EP108 17:47 'tiga belas Tuhan Tertinggi' both seem to be machine translations of 'thirteen Holy Lords'",
+    "17:31 'Senior Qi' and the bone banner are unexplained"
+  ]
+}

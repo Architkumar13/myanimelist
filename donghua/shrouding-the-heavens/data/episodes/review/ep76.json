@@ -1,0 +1,66 @@
+{
+  "ep": 76,
+  "title": "Li Fire Divine Furnace",
+  "summary": "The Lihuo Sect Master, at the third level of Dao Palace, hits Ye Fan with his sect's mountain-shaking seal. Ye Fan answers with the Mountain-and-River Seal, which he develops from the Dou secret. The master then brings out the Cosmic Fire and the sect's bronze furnace, an imitation of an Extreme Dao imperial weapon, and the flames scorch Tu Fei. Ye Fan improvises a new killing move, the Fire Phoenix Seal, beats the master, and takes the furnace for himself. As the place collapses, Ye Fan goes on alone and meets Pang Bo, who is possessed by an old demon that offers him the Dao Scripture and covets his Ancient Holy Body. Pang Bo's own mind breaks through and begs Ye Fan to run or kill him. Ye Fan won't, and instead wounds the demon's divine consciousness. The demon vows to finish refining Pang Bo faster so he can come back and kill them both.",
+  "events": [
+    "The Lihuo Sect Master (Dao Palace level 3) attacks with a mountain-shaking seal",
+    "Ye Fan answers with the Mountain-and-River Seal",
+    "The master uses the Cosmic Fire and his imitation emperor-weapon furnace",
+    "Ye Fan creates the Fire Phoenix Seal and seizes the furnace",
+    "Ye Fan meets Pang Bo, possessed by an old demon",
+    "Pang Bo begs to be killed; Ye Fan wounds the demon's divine consciousness instead"
+  ],
+  "introduced": [
+    "Li Fire Divine Furnace (subs: 'Tungku Api Ilahi Kosmik')",
+    "Cosmic Fire",
+    "Mountain-and-River Seal",
+    "Fire Phoenix Seal"
+  ],
+  "cultivation": "The Lihuo Sect Master is at third-level Dao Palace ('Istana Dao Tingkat 3', 4:39) and says Ye Fan has 'Baru saja memasuki Istana Dao' (4:19). The possessing demon says Ye Fan is holding him back 'hanya dengan Alam Istana Dao' (15:06).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Dao Palace",
+      "quote": "Baru saja memasuki Istana Dao (4:19)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Lihuo Sect Master",
+      "realm": "Dao Palace",
+      "quote": "Istana Dao Tingkat 3, sungguh menakutkan (4:39)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": "Possessed by an old demon ('Keluar dari tubuh Pang Bo sekarang!', 12:45)",
+      "first": false
+    }
+  ],
+  "changes": [
+    "The old summary called the furnace a relic of Emperor Heng Yu that Jiang Taixu later reclaims. Neither claim is in these subtitles. The info card (17:54) only says it is the Lihuo Sect's bronze furnace, suspected to be a replica of some artifact.",
+    "Added that Pang Bo's reappearance is as a possessed host and that the old demon is after Ye Fan's body."
+  ],
+  "flags": [
+    "4:00–4:07 'Anjing Laut Pengocok Gunung' is a machine-translation error: 'seal' was rendered as the animal 'anjing laut'. It means a mountain-shaking seal.",
+    "Starting at 12:18, 'Kamu penggemar' ('you fan') is the machine translation's rendering of 'Ye Fan'. It keeps recurring in EP83–EP95.",
+    "7:52 'Kaisar Ji Dao' is most likely 'Extreme Dao' (极道) emperor weapon.",
+    "It isn't clear where Ye Fan meets Pang Bo (11:54–12:18). The Lihuo site is collapsing and Ye Fan says 'wait here', but the location isn't named. The scene could be real or a projection.",
+    "17:45 'Jalan Kuno Langit Berbintang' (Starry Sky Ancient Road) comes out of nowhere as Ye Fan's closing thought, and its meaning is unclear."
+  ]
+}

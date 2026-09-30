@@ -1,0 +1,92 @@
+{
+ "ep": 172,
+ "title": "Blood Debt at Demon Emperor Palace",
+ "summary": "Ye Fan finishes the Wang 13th Elder and sends a survivor back with a message: the Myriad Things Mother Qi Cauldron is back and Ye Fan is waiting in the south. Wang Chengkun, head of the Wang clan and Wang Teng's father (Immortal Platform 2nd Heaven), gathers warships and goes to the Southern Ridge's Demon Emperor Palace to ask Qi Lin to join the ancient races, now that the Heavenly Emperor's Son is about to rise. Qi Lin politely refuses and mocks the fire in Wang's own backyard. Ye Fan destroys the Wang warships, takes on Wang Chengkun's forces alone and kills him, promising Wang Teng is next. He also kills two Divine Spirit Valley envoys who serve Zi Tianfeng. Li Tian and Yan Yixi arrive too late for the fight, and Ye Fan explains that he is drawing every enemy onto himself to protect his hidden friends. Qi Lin reports that Zi Tianfeng cornered Dongfang Ye (Immortal Platform 2nd Heaven) at Falling Eagle Cliff, leaving only blood behind, and warns of other ancient-race prodigies: Huang Xudao, Monk Shen Can and Yuan Gu. Ye Fan asks Qi Lin for a teleportation array to go after Divine Spirit Valley that same night.",
+ "events": [
+  "Ye Fan kills the Wang 13th Elder and sends a messenger back",
+  "Wang Chengkun learns the Holy Body has returned",
+  "Wang Chengkun tries to recruit Qi Lin at the Demon Emperor Palace",
+  "Ye Fan destroys the Wang warships and kills Wang Chengkun",
+  "Two Divine Spirit Valley envoys are killed",
+  "Qi Lin tells him what happened to Dongfang Ye",
+  "Ye Fan heads out after Divine Spirit Valley"
+ ],
+ "introduced": [
+  "Wang Chengkun",
+  "Demon Emperor Palace (Nanling)",
+  "Divine Spirit Valley (info card)",
+  "Huang Xudao (named)",
+  "Monk Shen Can (named)",
+  "Yuan Gu (named)"
+ ],
+ "cultivation": "Wang Chengkun: Immortal Platform 2nd Heaven. Dongfang Ye (flashback caption): Immortal Platform 2nd Heaven.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "wang-chengkun",
+   "name": "Wang Chengkun",
+   "realm": "Immortal Platform 2nd Heaven",
+   "quote": "[Wang Chengkun, Keluarga Wang Beiyuan, Platform Abadi Surga Kedua]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "qi-lin",
+   "name": "Qi Lin",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "qi-huoshui",
+   "name": "Qi Huoshui",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-tian",
+   "name": "Li Tian",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yan-yixi",
+   "name": "Yan Yixi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "dongfang-ye",
+   "name": "Dongfang Ye (flashback)",
+   "realm": "Immortal Platform 2nd Heaven",
+   "quote": "[Dongfang Ye, Suku Barbar Platform Keabadian Surga Kedua]",
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "The subtitles don't mention 'eight great-power elders'. On screen: the Wang 13th Elder, Wang Chengkun, his warship forces and two Divine Spirit Valley envoys.",
+  "The raid on the Divine Spirit Valley stronghold is in EP173; this episode ends with Ye Fan setting out.",
+  "Added Qi Lin's report and the list of ancient-race prodigies."
+ ],
+ "flags": [
+  "04:11–05:03: an unnamed 'Nona muda' (young lady) advises Wang Chengkun and finds the Holy Body 'interesting and annoying'. She is unidentified, possibly an ancient-race envoy.",
+  "14:13–14:32: Wang Chengkun's death isn't shown clearly (a slap, then 'Akhirnya hening'), but EP173 confirms the Wang family head was beheaded.",
+  "11:02: the line 'Aku hampir terbunuh, sampai kapan kamu hanya akan menonton?' also appears in the EP171 and EP172 previews."
+ ]
+}

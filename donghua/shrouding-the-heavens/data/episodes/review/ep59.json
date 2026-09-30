@@ -1,0 +1,75 @@
+{
+  "ep": 59,
+  "title": "Great Powers Shake the Land",
+  "summary": "Nangong Zheng, who reappeared because of the Bronze Immortal Palace, says the Ji family head promised him a disciple to carry on his legacy if he saved one of the siblings, and invites the Peacock King to enter the palace with him to seek immortality together rather than die alone. The Peacock King refuses, and their duel pits his 'Stars Shining in a Clear Sky' phenomenon against Nangong Zheng's 'Wooden Pillar Splitting the Sky', tearing up the land around Ye Fan and Ziyue. Drained and unable to use the Void technique herself, Ziyue teaches Ye Fan the complete Void technique so he can carry her out, even though the Ji family's curse on the secret art wounds her for passing it on. Elsewhere a black-robed agent reports to his Master that Ye Fan has the Ancient Holy Body. Ye Fan revives Ziyue with divine spring water, and she asks to be taken to her Great-Aunt Ji Hui. Pursued again, they are ambushed at Imperial Water Gorge just as Ji Ren of the Ji family, a Dao Palace cultivator, arrives.",
+  "events": [
+    "Nangong Zheng explains his deal with the Ji family head and invites the Peacock King into the Bronze Immortal Palace",
+    "The two great powers clash with their phenomena",
+    "Ziyue teaches Ye Fan the complete Void technique and suffers the Ji family's curse",
+    "A black-robed agent reports Ye Fan's Holy Body to his Master",
+    "Ye Fan heals Ziyue with divine spring water",
+    "Ziyue asks to go to Great-Aunt Ji Hui",
+    "Ambush at Imperial Water Gorge; Ji Ren arrives"
+  ],
+  "introduced": [
+    "Stars Shining in a Clear Sky",
+    "Wooden Pillar Splitting the Sky",
+    "Imperial Water Gorge",
+    "Ji Ren",
+    "Ji Hui (named)"
+  ],
+  "cultivation": "Ji Ren is captioned at the Dao Palace realm.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "nangong-zheng",
+      "name": "Nangong Zheng",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "peacock-king",
+      "name": "Peacock King",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Ji Ren",
+      "realm": "Dao Palace",
+      "quote": "[Ji Ren, Keluarga Ji Kuno, Alam Istana Dao]",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Old summary only gave the title; added Nangong Zheng's motive, the phenomena duel, and Ziyue teaching Ye Fan the full Void technique at a cost",
+    "Kept Ji Ren's debut in EP59 (he shows up in the last minute); removed 'Peacock King clashes with the Ji family', since this episode's fight is Peacock King vs Nangong Zheng"
+  ],
+  "flags": [
+    "The winner of Peacock King vs Nangong Zheng isn't shown; EP61 shows the Peacock King alive",
+    "'nangong zhen' (08:20) and 'Nongong Zheng' (03:56) are misspellings",
+    "Where the 'divine spring water' (15:11) comes from isn't said",
+    "Ji Ren is not in the cast glossary"
+  ]
+}

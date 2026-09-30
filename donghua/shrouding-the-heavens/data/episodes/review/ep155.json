@@ -1,0 +1,71 @@
+{
+  "ep": 155,
+  "title": "Death Curse Traps the Holy Body",
+  "summary": "Wang Yangzhan, master of the Yin-Yang Sect, knows his foundation was wrecked when Ye Fan turned the Jiuli Painting on him and that little of his life is left. He makes a pact with Wang Teng: Ye Fan's life in exchange for Wang Teng's support for the sect. Two months later Ye Fan shares the Illusion-grade Divine Marrow with his friends, who scatter home, and goes with Ji Ziyue to the Qishi Academy. Qi Huoshui ('Qi Xiaoniu') attacks him there, and her brother Qi Lin, the Southern Demon, calls her off. Qi Lin talks with Ye Fan privately. He knows, through the Demon Emperor Palace's Eye of Heaven and Earth, that Ye Fan's group came from another world, and he promises to spare Ye Fan once if they ever meet on the road to becoming emperor. Wang Yangzhan then ambushes Ye Fan and dies casting the Yin-Yang Death Curse, which has no known cure, into him. A Qishi elder gives Ye Fan one day and night to live. Ji Ziyue pours in her Origin Spirit Body power and then reaches for the soul-bound ring from the Bronze Immortal Palace to save him.",
+  "events": [
+    "Wang Yangzhan pacts with Wang Teng to kill Ye Fan",
+    "Two months later Ye Fan shares the Divine Marrow and the friends part",
+    "Qi Huoshui attacks at the Qishi Academy; Qi Lin stops her",
+    "Qi Lin knows Ye Fan came from another world and promises to spare him once",
+    "Wang Yangzhan dies casting the Yin-Yang Death Curse on Ye Fan",
+    "A Qishi elder gives Ye Fan one day and night",
+    "Ji Ziyue tries her Origin Spirit Body power and then the Bronze Immortal Palace ring"
+  ],
+  "introduced": [
+    "Yin-Yang Death Curse",
+    "Eye of Heaven and Earth"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-yangzhan",
+      "name": "Wang Yangzhan",
+      "realm": null,
+      "quote": null,
+      "look": "Maimed; burns his remaining life",
+      "first": false
+    },
+    {
+      "id": "qi-lin",
+      "name": "Qi Lin",
+      "realm": null,
+      "quote": "[Qi Lin, Istana Kaisar Iblis Nanling]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "qi-huoshui",
+      "name": "Qi Huoshui",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Burning from the curse",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Added Wang Yangzhan's pact with Wang Teng, Qi Lin's private talk (he knows Ye Fan is from another world), and Ji Ziyue's rescue attempt",
+    "Wang Yangzhan's death comes from casting the curse, and he dies in this episode"
+  ],
+  "flags": [
+    "04:35–04:48 someone puts up a gravestone ('you ate a divine fruit... you should still be remembered'); who it is for is unclear",
+    "05:12 the friends who leave 'to tell Grandpa' are not named",
+    "Qi Lin's portrait was already shown in EP146 (15:38), but this is his first in-person appearance"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "ep": 159,
+  "title": "Ziwei Begins",
+  "summary": "In a frozen void Ye Fan comprehends the Taiyin True Scripture, one of humanity's two mother scriptures, which holds a complete Immortal Platform section. He blends it with Taiyang power, following the idea of 'Tai Yi'. He survives the tribulation and reaches the 2nd Heaven of Immortal Platform. After seven more years drifting, he agrees to carry the Sun Holy Emperor's lingering will home. The will opens a road to the ancient Ziwei star, and Ye Fan lands at the gate of Bajing Palace, which he wonders might be Laozi's old seat. A boyish Daoist there, the younger brother of palace lord Yin Tiande, tries to seize the Mother Qi Cauldron for his brother's pagoda. He turns out to be an old demon with a Phoenix-blood body and the art 'One Qi Gives Birth to Three Pure Ones'. Ye Fan beats him, turns his king-grade Vajra Bracelet aside with Taiyin power, and kills him. A Taiqing restriction bars him from the palace, so he heads down the mountain.",
+  "events": [
+    "Ye Fan comprehends the Taiyin True Scripture and blends it with Taiyang",
+    "Tribulation to Immortal Platform 2nd Heaven",
+    "Seven-year time skip",
+    "The Sun Holy Emperor's will opens the way to Ziwei",
+    "He lands at Bajing Palace's gate",
+    "Yin Tiande's younger brother tries to take the cauldron",
+    "Ye Fan beats his Vajra Bracelet with Taiyin power and kills him"
+  ],
+  "introduced": [
+    "Ziwei star",
+    "Bajing Palace",
+    "Yin Tianzhi (unnamed here)",
+    "Yin Tiande (named only)",
+    "Taiyin True Scripture",
+    "Vajra Bracelet"
+  ],
+  "cultivation": "Ye Fan: Immortal Platform 2nd Heaven (07:54 caption: [Ye Fan, Platform Keabadian Surga Kedua]), followed by '[Tujuh tahun kemudian]'.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Immortal Platform",
+      "quote": "[Ye Fan, Platform Keabadian Surga Kedua]",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yin-tianzhi",
+      "name": "Yin Tianzhi",
+      "realm": null,
+      "quote": "[Tong Zi, Perwira Delapan Arah]",
+      "look": "Looks like a Daoist boy but is an old demon",
+      "first": true
+    },
+    {
+      "id": "sun-holy-emperor",
+      "name": "Sun Holy Emperor",
+      "realm": null,
+      "quote": null,
+      "look": "Lingering will",
+      "first": false
+    }
+  ],
+  "changes": [
+    "The order is: breakthrough to 2nd Heaven, then a seven-year skip, then arrival in Ziwei",
+    "Yin Tianzhi is killed here; the Mother Qi Cauldron and Taiyin power are used against the Vajra Bracelet",
+    "The glossary's EP159 first appearance for Yin Tianzhi is right, but he is unnamed (captioned 'Tong Zi'). His name comes in EP162 ('Tian Zhi')"
+  ],
+  "flags": [
+    "11:57–12:02 'Membuat Tiande' is a machine-translation error for 'Yin Tiande'",
+    "06:32–06:39 'Saya Tai Yi. Tubuhku adalah Dao' is a vision tied to the Taiyin/Taiyang idea (Dongfang Taiyi?), but the speaker is not identified",
+    "The world.js platform tier lists 2nd Heaven at ep 167, but Ye Fan's caption here is EP159"
+  ]
+}

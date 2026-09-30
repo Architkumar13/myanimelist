@@ -1,0 +1,49 @@
+{
+  "ep": 66,
+  "title": "First Look at the North",
+  "summary": "In Yaoguang's mine, the overseers lay down their three rules (mine, mine, and keep mining while you breathe), kill a miner for hiding a Source Stone, and say labourers can buy their freedom in ten years. Lao Dawei, a chatty miner of two and a half years, befriends Ye Fan and tells him about the Northern Territory: the holy lands' competing mines, the 13 bandit groups, a primordial ancient mine nobody returns from, sources that seal fearsome creatures, and a green iron 'pyramid' that shook the mine until a mysterious old woman intervened. Ye Fan secretly refines Source Stones until he breaks the Moon Palace seal and feels his Bitter Sea again, and Lao Dawei catches him in the act. Overseers then pick both of them for a new gallery where an unusual source lies, and blood-red water seeps from the walls. Mutated miners and evil creatures pour out, most of the group is killed, and Lao Dawei dies searching for his lost eyes. Ye Fan concludes that an evil creature from antiquity was sealed in the source.",
+  "events": [
+    "Yaoguang overseers set the mine's rules and kill a thief",
+    "Lao Dawei befriends Ye Fan and explains the Northern Territory",
+    "Ye Fan refines Source Stones and breaks the Moon Palace seal",
+    "Overseers send miners into a gallery with a strange source",
+    "Evil creatures and mutated miners attack",
+    "Lao Dawei dies",
+    "Ye Fan realises an ancient evil was sealed in the source"
+  ],
+  "introduced": [
+    "Lao Dawei",
+    "13 bandit groups",
+    "ancient mine (forbidden)",
+    "evil source"
+  ],
+  "cultivation": "Ye Fan breaks the Moon Palace seal and regains his Bitter Sea (his divine power returns).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Lao Dawei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Ye Fan arrives in the Northern Territory at the end of EP65; this episode is set inside Yaoguang's source mine",
+    "Added the Moon Palace seal being broken and the evil-source disaster that kills Lao Dawei"
+  ],
+  "flags": [
+    "06:22-06:36 name lines are muddled: 'Namaku Lao, panggil saja aku Lao Dawei' / 'Lao Daogui (Chatterbox)'; Ye Fan later calls him 'Pria cerewet' (Chatterbox)",
+    "The 'green iron pagoda / pyramid' and the 'mysterious old woman' (08:16-08:24) are rumours, not shown",
+    "Lao Dawei is not in the cast glossary"
+  ]
+}

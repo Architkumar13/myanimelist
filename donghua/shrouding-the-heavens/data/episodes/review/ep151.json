@@ -1,0 +1,87 @@
+{
+  "ep": 151,
+  "title": "Storm Gathers over Qinling",
+  "summary": "Ye Fan spends half a year working through the Weapon Secret, a supreme art of controlling weapons that could in theory seize even Emperor weapons, and then uses dragon marrow to reach Dragon Transformation 8th level. The sickly old man is seen at the Immortal Ascension Pool looking for 'immortal fate' where the Azure Emperor was born. The Azure Lotus Emperor weapon stirs in the Demon City. Wang Teng releases Wang Chong from confinement to go after the legendary dragon marrow. Great powers, the Ji clan, the Wang family and a Source Master family gather as the Immortal Dragon Nest is about to appear. Ye Fan meets Pang Bo, who ate the tea-wood coffin board and got much stronger. Pang Bo has found Qishi records suggesting that ancient sages, Laozi among them, left Earth by the star path. Ji Ziyue tracks Ye Fan down and hires him as her Heaven Source Master. When Wang Chong gathers a mob to crush Ye Fan, the demon race defends Pang Bo as heir of the Demon King and Ji Haoyue arrives to protect his sister.",
+  "events": [
+    "Half a year later: Ye Fan grasps the Weapon Secret",
+    "Dragon marrow takes him to Dragon Transformation 8th level",
+    "The sickly old man seeks the Immortal Ascension Pool; the Azure Lotus weapon stirs",
+    "Wang Teng frees Wang Chong to hunt the dragon marrow",
+    "Pang Bo reappears, stronger, with clues that Laozi left Earth via the star path",
+    "Ji Ziyue hires Ye Fan as her Heaven Source Master",
+    "The demon race and Ji Haoyue face down Wang Chong's mob"
+  ],
+  "introduced": [
+    "Immortal Ascension Pool (Immortal Transformation Pool)",
+    "Weapon Secret (Bing Zi Mi)"
+  ],
+  "cultivation": "Ye Fan: Dragon Transformation 8th level (06:22 caption), after a half-year time skip (03:42 '[Setengah tahun kemudian]').",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Dragon Transformation",
+      "quote": "[Ye Fan, Alam Transformasi Naga Tingkat 8]",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-haoyue",
+      "name": "Ji Haoyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Wang Chong",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "wang-teng",
+      "name": "Wang Teng",
+      "realm": null,
+      "quote": null,
+      "look": "In seclusion",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Sickly old man",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "The Weapon Secret is mastered over the half-year skip. It is not a single item Ye Fan picks up",
+    "Kept Dragon Transformation 8th level, now backed by an on-screen caption",
+    "Added Pang Bo's Laozi/Earth clue, Ji Ziyue hiring Ye Fan, and the stand-off with Wang Chong"
+  ],
+  "flags": [
+    "12:18 'Sejak aku mengaku terbuka' is garbled; it seems to be Ye Fan telling Pang Bo he has already got the Weapon Secret",
+    "The subtitles call the pool both 'Kolam Kenaikan Abadi' (Immortal Ascension Pool) and, in EP149, 'Kolam Menjadi Abadi'. It is the Immortal Transformation Pool (化仙池) of the episode titles"
+  ]
+}

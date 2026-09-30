@@ -1,0 +1,92 @@
+{
+  "ep": 81,
+  "title": "Enter the Black Emperor",
+  "summary": "Leaving the forbidden zone, the Yaoguang Holy Son and the Yaochi Holy Maiden thank 'Daoist Gu Feng' for purifying the monster, repairing the Dao runes and saving her. Ye Fan claims he's looking for his wayward 'disciple' Duan De. Word arrives that the Ji family is hosting a young heroes' conference in Quzhou, and that someone named Tu wants to meet Gu Feng in Chaoyang City. The Holy Maiden, who has recognized Ye Fan through his source arts, takes him to Yaochi's temporary residence. There he seals seven stones from the mine: three left by Zhang Lin and four found by a past Yaochi Empress. He notes that four of the seals aren't Zhang Lin's work. He asks for the Xihuang Scripture, the best Dao Palace method, to reach the Six Immortal Prohibition Seals, but Yaochi never shares it and takes no male disciples. Back at Stone Village a tailless black dog is fighting Wang Shu and Lei Bo. This is Hei Huang, who talks and calls himself the Black Emperor; Zhang Wuye found him wandering near Purple Mountain. Hei Huang boasts that he knows where the Queen Mother of the West wrote her scripture. His eye falls on an old turtle jade from Ye Fan's mine haul, and he agrees to set up a teleport formation that needs three items.",
+  "events": [
+    "The Yaochi Holy Maiden and Yaoguang Holy Son thank Daoist Gu Feng",
+    "Ye Fan claims to be searching for his 'disciple' Duan De",
+    "Ye Fan seals seven ancient stones for Yaochi; four seals aren't Zhang Lin's",
+    "Yaochi refuses to share the Xihuang Scripture",
+    "Hei Huang, a talking three-legged black dog, fights Wang Shu and Lei Bo at Stone Village",
+    "Hei Huang offers directions to the scripture in exchange for Ye Fan's old turtle jade"
+  ],
+  "introduced": [
+    "Hei Huang",
+    "Xihuang Scripture (named)",
+    "Six Immortal Prohibition Seals",
+    "Yaochi temporary residence",
+    "Chaoyang City",
+    "Black Turtle Jade"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Disguised as Gu Feng",
+      "first": false
+    },
+    {
+      "id": "yaochi-holy-maiden",
+      "name": "Yaochi Holy Maiden",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yaoguang-holy-son",
+      "name": "Holy Son of Yaoguang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": "Jet-black dog, tail missing ('anjing liar tanpa ekor', 11:57); later called three-legged",
+      "first": true
+    },
+    {
+      "id": "zhang-wuye",
+      "name": "Zhang Wuye",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "wang-shu",
+      "name": "Wang Shu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "lei-bo",
+      "name": "Lei Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "The Six Immortal Prohibition Seals and Hei Huang's debut are now told in context, and the sealing of Yaochi's seven stones is added.",
+    "The episode opens with the Holy Maiden being saved by Gu Feng, not the other way round."
+  ],
+  "flags": [
+    "Starts right after the missing EP80. The furnace-versus-demon fight and Chen Huaiyuan's death can't be checked.",
+    "5:33–5:47 is a news-reading scene with an unclear speaker. It mentions the 'Golden-winged Little Peng King' and a Ji 'young heroes conference in northern Quzhou'.",
+    "The seals appear as 'Enam Segel Larangan Peri' (8:47) and 'Enam Segel Larangan Abadi' (9:52). Both mean the Six Immortal Prohibition Seals.",
+    "'Buku/Kitab Kaisar Xi' is the Xihuang Scripture. 'Dewi Wangmu' and 'Ibu Suri Xi' are the Queen Mother of the West.",
+    "Hei Huang is 'tailless' here (11:57), and later episodes also call him 'three-legged'."
+  ]
+}

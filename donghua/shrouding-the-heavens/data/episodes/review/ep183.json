@@ -1,0 +1,92 @@
+{
+ "ep": 183,
+ "title": "The Wushi Bell",
+ "summary": "In the depths of Purple Mountain, Ye Fan (in the Holy Body corpse), Duan De and the Blind Old Man find a divine spring of five-coloured jade that speeds up cultivation, probably Great Emperor Wu Shi's bathing pool. Then they find dog hair in it and realise Hei Huang used to bathe there, and Ye Fan wonders whether Hei Huang is looking after Nannan. Past coffins of the Undying Heavenly Emperor's divine generals, they reach Wu Shi's Dao platform, where the Immortal Phoenix Medicine flies off and they harvest King Medicines 70,000–80,000 years old, and Ye Fan recognises the name of Gu Tianshu, a human Saint who chose to guard the tomb. Meanwhile Divine Spirit Valley's elders beg their Ancestral King to hold back for fear of a living human emperor, until the Heavenly Emperor's Son arrives, dismisses the Old Madman's image as a trick and orders the destruction of the barbarian tribe. A Great Emperor killing formation wakes, and Ye Fan calms it with a crescent jade pendant, a relic of a woman Saint from beyond the realm who was tied to Wu Shi, which reveals the Wushi Bell, a Peak Emperor weapon. After fending off the Undying Heavenly Emperor's controlled subordinates, who come to seize the medicines, Ye Fan decides to stay and ring the Wushi Bell for three months so the ancient clans can't tell whether the emperor lives. Duan De lends him the lid of his Supreme Emperor-weapon cauldron and gives him his share of the medicines, and the Blind Old Man gives him Wu Shi's jade so he can get out.",
+ "events": [
+  "The Wu Shi divine spring, with Hei Huang's hair in it",
+  "Coffins of the Undying Heavenly Emperor's generals",
+  "Wu Shi's Dao platform: the Immortal Phoenix Medicine and the King Medicines",
+  "The Heavenly Emperor's Son overrules Divine Spirit Valley and orders war on the barbarians",
+  "A crescent jade pendant calms the Wu Shi killing formation",
+  "The Wushi Bell's true form appears",
+  "Ye Fan resolves to ring the bell for three months; Duan De lends him his cauldron lid"
+ ],
+ "introduced": [
+  "Wushi Bell (true form)",
+  "Purple Mountain divine spring",
+  "Immortal Phoenix Medicine",
+  "Gu Tianshu (named)",
+  "Crescent jade pendant"
+ ],
+ "cultivation": "The Wushi Bell is captioned as a Peak Emperor weapon (Senjata Kaisar Puncak). No character realms are stated.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": "Still in the borrowed Holy Body corpse",
+   "first": false
+  },
+  {
+   "id": "duan-de",
+   "name": "Duan De",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Blind Old Man of Heaven",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "heavenly-emperor-son",
+   "name": "Heavenly Emperor's Son",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Divine Spirit Valley Ancestral King",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "hei-huang",
+   "name": "Hei Huang (only his hair; mentioned)",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "wu-shi",
+   "name": "Wu Shi (mentioned)",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "The Holy Body corpse was obtained in EP182. They don't find a 'Wushi Scripture', and Duan De doesn't set off the bell with emperor jade; a crescent jade pendant calms the formation and reveals the bell.",
+  "They don't shelter in a Heaven-Devouring Jar here. Duan De lends his Supreme Emperor-weapon cauldron lid for Ye Fan's three-month bell-ringing plan.",
+  "Added the Heavenly Emperor's Son overruling Divine Spirit Valley and ordering the attack on the barbarians."
+ ],
+ "flags": [
+  "14:02: 'Mereka yang tiba... sebenarnya adalah Keluarga Ji!' ('those arriving are the Ji family') doesn't fit the scene, where the Undying Heavenly Emperor's subordinates attack. Probably a mistranslation.",
+  "15:17–15:32: the Blind Old Man and Duan De both talk about 'this cauldron lid'. Whose lid is lent isn't clear; Duan De then says it's a Supreme Emperor weapon he'll want back.",
+  "11:39: the 'woman Saint from beyond the realm' tied to Wu Shi is unnamed.",
+  "17:25–17:35: preview lines repeat EP182's ending."
+ ]
+}

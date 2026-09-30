@@ -1,0 +1,97 @@
+{
+  "ep": 57,
+  "title": "Holy Body vs Divine Body",
+  "summary": "Ziyue protests that her brother is at the third secret realm while Ye Fan is only in the Wheel Sea realm, so Haoyue suppresses his realm to the Divine Bridge and unleashes all nine wheels of the Nine-Wheel Luminous Moon; Ye Fan withstands it, which the elders say only a Divine Body should manage. Ziyue threatens to disown her brother if he strikes again, and Hua Yunfei asks him to stop out of respect for Taixuan, so Haoyue leaves. Ji Hong sees through Ziyue's 'ordinary friend' story and wants to recruit Ye Fan into the Ji family, the Yaoguang elder offers endless source and medicine, and Jiang Ming invites him to the Northern Region, while Yao Xi privately warns him to choose quickly. To escape, Ye Fan claims he once entered the legendary Bronze Immortal Palace and took a wisp of the Mother Qi of All Things, credits it for his strength, and hands the elders a map to it. Ziyue scolds him for sending people to their deaths, but he gives her essence of the Mother Qi of All Things as a farewell gift, repeats his promise and leaves, while Yaoguang and the Jiang family set out for the Bronze Immortal Palace in the Southern Region.",
+  "events": [
+    "Ji Haoyue suppresses his realm to the Divine Bridge",
+    "Ye Fan withstands the Nine-Wheel Luminous Moon",
+    "Ziyue and Hua Yunfei stop the fight",
+    "Ji Hong, the Yaoguang elder and Jiang Ming each try to recruit Ye Fan; Yao Xi warns him",
+    "Ye Fan claims he visited the Bronze Immortal Palace and hands over a map",
+    "He gives Ziyue Mother Qi essence as a farewell gift and leaves",
+    "Yaoguang and the Jiang family set out for the Bronze Immortal Palace"
+  ],
+  "introduced": [
+    "Bronze Immortal Palace",
+    "Nine-Wheel Luminous Moon"
+  ],
+  "cultivation": "Ji Haoyue is said to be at the third secret realm (Four Poles) and suppresses himself to the Divine Bridge realm; Ye Fan is described as being in the Wheel Sea realm.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Wheel Sea",
+      "quote": "dia hanya Alam Roda Laut",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-haoyue",
+      "name": "Ji Haoyue",
+      "realm": "Four Poles",
+      "quote": "Kultivasi Anda telah mencapai Alam Ketiga",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hua-yunfei",
+      "name": "Hua Yunfei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-hong",
+      "name": "Ji Hong",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Yaoguang elder",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Jiang Ming",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yao-xi",
+      "name": "Yao Xi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Hua Yunfei does not end the fight alone: Ziyue's threat and Hua's appeal together make Haoyue withdraw",
+    "Added the recruitment bids and Ye Fan's Bronze Immortal Palace ruse, which drives the next arc",
+    "Ye Fan parts from Ziyue at the end of this episode"
+  ],
+  "flags": [
+    "'Alam Ketiga' (third realm) = Four Poles, the third secret realm; this matches the EP55 Four Poles captions for his peers",
+    "12:16 Jiang Ming cites 'Cai Xuan' as the source of Ye Fan's Jiang family connection; the name matches no one in the glossary",
+    "The ruse (map to the Bronze Immortal Palace) is Ye Fan's invention to get away, as Ziyue's scolding makes clear",
+    "06:11 the 'third realm / Wheel Sea' line follows 'Saudara laki-laki' (brother), so it is most likely Ziyue speaking; Hua Yunfei speaks at 06:05"
+  ]
+}

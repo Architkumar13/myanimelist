@@ -1,0 +1,82 @@
+{
+ "ep": 129,
+ "title": "Turning the Tables on Human World",
+ "summary": "Even after Ye Fan beats the Little Peng King, the Feng Holy Lord's guests suspect he has healed. Divine Physician Wang Shen, who owes the Divine King Jiang Taixu, 'examines' him and publicly gives him fourteen days to live unless he gives up his cultivation, which Ye Fan announces he will do in order to draw his enemies out. At Wang Shen's clinic on the Soaring Dragon Land, the ruins of the Tianxuan Holy Land, Wang Shen shows an ancestor's 2,500-year-old record of an orphan girl identical to Nannan who lost her memory every full moon and never grew, labelled 'Divine Infant'. That night Nannan runs into the forbidden ruins after a wailing voice. She comes back with the Old Madman, now changed in appearance, who has refined her seven-coloured stone and restored some of her memories, and he agrees to come with them to the Holy Cliff to find the Xing Secret. On the road, Human World assassins hired by Zhao Fa's backers attack; Ye Fan beats their Four Symbols killing art with the Heavenly Court holy technique, and the last assassin kills himself rather than name the client.",
+ "events": [
+  "Wang Shen fakes a fatal diagnosis to protect Ye Fan",
+  "Ye Fan announces he'll give up his cultivation, as bait",
+  "The Tianxuan ruins and the ancestral record of a girl like Nannan ('Divine Infant')",
+  "Nannan follows the wailing into the Tianxuan ruins",
+  "The Old Madman restores part of Nannan's memory",
+  "The Old Madman agrees to go to the Holy Cliff",
+  "Human World assassins killed with the Heavenly Court technique"
+ ],
+ "introduced": [
+  "Soaring Dragon Land",
+  "Divine Infant (Nannan's possible origin)",
+  "Tianxuan Holy Land ruins (visited)"
+ ],
+ "cultivation": "Wang Shen's fake diagnosis: Life Spring dimmed, Bitter Sea dried up, fourteen days left. An onlooker says the Old Madman's power is 'not less than Divine King Jiang'.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "wang-shen",
+   "name": "Wang Shen",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "nannan",
+   "name": "Nannan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "hei-huang",
+   "name": "Hei Huang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "old-madman",
+   "name": "Old Madman",
+   "realm": null,
+   "quote": "Mengapa kamu menjadi seperti ini?",
+   "look": "His appearance has visibly changed (Ye Fan: 'why have you become like this?')",
+   "first": false
+  },
+  {
+   "id": "li-heishui",
+   "name": "Li Heishui",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "Wang Shen gives a fake fourteen-day prognosis, and Ye Fan announces he'll give up his cultivation",
+  "Added the Divine Infant record",
+  "The Human World assassins attack after the Tianxuan visit, not before"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "10:42: the Old Madman's changed look isn't described (the old summary says 'younger-looking'); left vague",
+  "13:24: Ye Fan links the assassins to Zhao Fa's warning in EP127, so the client is implied rather than confirmed",
+  "This file starts directly with the recap (no credits line)"
+ ]
+}

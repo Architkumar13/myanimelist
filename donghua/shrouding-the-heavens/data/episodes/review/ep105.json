@@ -1,0 +1,64 @@
+{
+  "ep": 105,
+  "title": "The Source Arts Conference",
+  "summary": "In the Daoyi stone pavilion's vault, the final between Gu Feng and Tuoba Chang is played over three rounds. Gu Feng notices that Tuoba's right hand resembles imitation goods not from the Eastern Wasteland and wonders whether it is technology. In round one Tuoba secretly swaps their stones, so Gu Feng gets Frost Dew Source worth 200 jin against Tuoba's Blazing Fire Source worth 200,000. In round two Gu Feng uses a disguise-and-swap trick of his own and his 36 opening moves to cut a Black-Gold Dragon-Pattern sword worth 550,000, while Tuoba cuts true Divine Source worth 500,000, which leaves Tuoba ahead overall, 700,000 to 550,200. In the deciding round Tuoba tries to absorb Gu Feng's divine sense through the Golden-Red Divine Hand. Gu Feng turns it around, shatters Tuoba's divine sense so he loses his memory, and demands to know about the 'king' behind the Tuoba family. When Gu Feng cuts his last stone, the Ancient Divine Silkworm flies out.",
+  "events": [
+    "Gu Feng suspects Tuoba's hand is technology",
+    "Round 1: Tuoba's stone swap wins him 200,000 against 200",
+    "Round 2: Gu Feng's Black-Gold Dragon-Pattern sword (550,000) against Tuoba's Divine Source (500,000)",
+    "Tuoba leads 700,000 to 550,200",
+    "Round 3: a divine-sense battle through the Golden-Red Divine Hand",
+    "Tuoba's divine sense is shattered and he loses his memory",
+    "The Ancient Divine Silkworm emerges from Gu Feng's stone"
+  ],
+  "introduced": [
+    "Ancient Divine Silkworm",
+    "Black-Gold Dragon-Pattern sword",
+    "Frost Dew Source",
+    "Blazing Fire Source"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Disguised as Gu Feng",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Tuoba Chang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "an-miaoyi",
+      "name": "An Miaoyi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Replaced 'Ye Fan competes' with the three-round final, the scores, Tuoba's defeat and the reveal of the Ancient Divine Silkworm (the silkworm itself is dealt with in EP106)"
+  ],
+  "flags": [
+    "04:14 'Boeing cukup murah hati' - a machine-translation glitch (probably a name or 'I was')",
+    "04:23 'teknologi' - Ye Fan hints Tuoba's hand could be technology; the idea isn't followed up",
+    "17:00 'Penerus Raja Ilahi, pasti akan membunuhmu!' - unclear whose successor or which king is meant; by context the 'king' is the 4,000-year-old enemy of the Jiang family's Divine King"
+  ]
+}

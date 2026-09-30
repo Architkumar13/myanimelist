@@ -1,0 +1,73 @@
+{
+  "ep": 93,
+  "title": "Danger in the Divine Desert",
+  "summary": "The God-Beating Whip turns out to strike divine consciousness, and it stings Hei Huang when he grabs for it. In the Divine Desert, bandits at the third and fourth levels of Dao Palace are working captured laborers to death, and Hei Huang takes them down. Their leader Xu Yuan is a fifth-level Dao Palace cultivator whose power is blocked. He offers to lead them to 10,000 pounds of stored source and a divine source, and is spared once he claims kinship with Tu Fei. Tu Fei confirms that Xu Yuan is the grandson of Xu Tianxiong, the Third Great Bandit, and a notorious lecher. The Four Poles cultivator Chen De arrives to avenge his young master. Ye Fan fights him with the cauldron while Hei Huang sets up a formation. Chen De reveals that a mysterious Source Master sealed a divine source in his body to hold down his cultivation and help him break into Four Poles. Ye Fan suspects this is the same person behind the four seals that weren't Zhang Lin's. Tu Fei protests at Chen De's 500 slaves, is captured, and has his power sealed by a God-Sealing Ring. Ye Fan follows a messenger to Heishi Village in Anzhou.",
+  "events": [
+    "The God-Beating Whip lashes Hei Huang's divine sense",
+    "Hei Huang defeats desert bandits who enslave laborers",
+    "Xu Yuan (Dao Palace Level 5, blocked) bargains for his life",
+    "Chen De (Four Poles) confronts Ye Fan",
+    "Chen De reveals a Source Master sealed a divine source in his body",
+    "Tu Fei is captured and sealed at Heishi Village",
+    "Ye Fan tails a messenger to the village"
+  ],
+  "introduced": [
+    "Xu Yuan",
+    "Chen De",
+    "Heishi Village (Anzhou)",
+    "God-Sealing Ring"
+  ],
+  "cultivation": "Xu Yuan: '[Xu Yuan, Istana Dao Level 5]' (7:03). Chen De: '[Chen De, Alam Empat Kutub]' (11:50); a divine source sealed in his body let him 'menerobos Empat Kutub' (15:02). The bandits are at Dao Palace Levels 3 and 4 (5:23).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "xu-yuan",
+      "name": "Xu Yuan",
+      "realm": "Dao Palace",
+      "quote": "[Xu Yuan, Istana Dao Level 5] (7:03)",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "chen-de",
+      "name": "Chen De",
+      "realm": "Four Poles",
+      "quote": "[Chen De, Alam Empat Kutub] (11:50)",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Dropped 'kills three bandits', which the subtitles don't show. Hei Huang is the one who fights the bandits.",
+    "Added Chen De's sealed divine source, the mysterious Source Master, and Tu Fei's capture."
+  ],
+  "flags": [
+    "Units change from kg to 'pon' (pounds) in this episode.",
+    "It isn't clear who blocked Xu Yuan's power. He blames a failed attempt at a divine source (10:15–10:19).",
+    "13:18–13:28: Chen De knows the Ji family's secret technique and says he's close to Ji Hui."
+  ]
+}

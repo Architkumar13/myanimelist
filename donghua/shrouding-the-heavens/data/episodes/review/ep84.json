@@ -1,0 +1,112 @@
+{
+  "ep": 84,
+  "title": "Cauldron Breaks Myriad Laws",
+  "summary": "Ji Yuncheng joins his kinsmen against Ye Fan, who says he saved Ziyue and that she gave him the secret technique herself. Ye Fan copies their combined Void Hand Seal and Sky-Cutting Finger, and a gifted Ji disciple dies. The Ji disciples brand him a servant of Jin Chi and rally the crowd to seize his treasure. Ye Fan answers with the Myriad Things Mother Qi Cauldron and flattens them all, though he's only at Dao Palace Level 2. Tu Fei, who calls himself a genius, shows up to join him, and Hei Huang inspects the cauldron and calls it an Ancient Emperor's treasure. Determined to find Pang Bo, Ye Fan crosses Yunze Province into Demon City, a small world made by an ancient sage and settled by the Azure Dragon King. Hei Huang rides along inside Tu Fei's Sky-Devouring Demon Jar. The demon commander Jin Yan tries to execute them, but backs down when Tu Fei shows the Azure Dragon King's token, and then recognizes Ye Fan from the wanted lists. Ye Fan says he has come to see Qin Yao, and is dragged into Elder Niu's arena, where Qin Yao's admirers fight 'by the rules'. There he beats the notorious Ku Zhu with raw physical strength, while the Little Peng King Jin Chi watches and eyes his Black-Yellow Mother Qi.",
+  "events": [
+    "Ji Yuncheng joins Ji Yunfeng against Ye Fan",
+    "Ye Fan copies the Ji family's Sky-Cutting Finger and kills a Ji disciple",
+    "The Mother Qi Cauldron crushes the crowd that turns on him",
+    "Tu Fei rejoins Ye Fan and Hei Huang",
+    "They enter Demon City with the Azure Dragon King's token",
+    "Jin Yan recognizes Ye Fan",
+    "Ye Fan beats Ku Zhu in Elder Niu's arena as Jin Chi watches"
+  ],
+  "introduced": [
+    "Ji Yuncheng",
+    "Demon City",
+    "Azure Dragon King (named)",
+    "Jin Yan",
+    "Elder Niu",
+    "Ku Zhu",
+    "Jin Chi",
+    "Sky-Devouring Demon Jar",
+    "Yunze Province"
+  ],
+  "cultivation": "Ye Fan is 'hanya Alam Istana Dao Tingkat 2' (8:16). Ji Yuncheng is at Dao Palace (caption 4:11), Jin Yan at Other Shore ('[Jin Yan, Alam Paramita]', 13:39), Ku Zhu at Dao Palace (caption 17:15), and Jin Chi at Four Poles (caption 18:25).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Dao Palace",
+      "quote": "hanya Alam Istana Dao Tingkat 2 (8:16)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Ji Yuncheng",
+      "realm": "Dao Palace",
+      "quote": "[Ji Yuncheng, Keluarga Ji - Alam Istana Dao] (4:11)",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Ji Yunfeng",
+      "realm": "Dao Palace",
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Jin Yan",
+      "realm": "Other Shore",
+      "quote": "[Jin Yan, Alam Paramita] (13:39)",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Elder Niu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "ku-zhu",
+      "name": "Ku Zhu",
+      "realm": "Dao Palace",
+      "quote": "[Ku Zhu, Alam Istana Dao] (17:15)",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "jin-chi",
+      "name": "Jin Chi",
+      "realm": "Four Poles",
+      "quote": "[Raja Gagak Kecil Jin Chi, Alam Empat Kutub] (18:25)",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Split the Ji fight and the Demon City arrival into clear steps. Ku Zhu is beaten in the arena but not killed yet; he rises again in EP85.",
+    "The old summary had Ye Fan, Hei Huang and Tu Fei wiping out Ji Yunlin's group together. In fact Tu Fei arrives after Ye Fan's cauldron has already crushed the Ji side."
+  ],
+  "flags": [
+    "Jin Chi is called 'Raja Gagak Kecil' (Little Crow King) at 4:30, 6:12 and 18:25, a mistranslation of the Little Peng King (EP85–86 use 'Raja Elang Muda').",
+    "13:53 calls the Azure Dragon King 'one of the four great bandits'. That contradicts EP93 9:43, which ranks the Third Great Bandit above him, so it's probably a mistake for the Thirteen Great Bandits.",
+    "The Mother Qi goes by several names: 'Sumber Energi Semua Materi', 'Sumber Hitam-Kuning' and 'Energi Master Hitam-Kuning'. All mean Black-Yellow (Xuanhuang) Mother Qi. The cauldron itself is called 'Tungku' (furnace).",
+    "It isn't said which Ji disciple dies ('Saudara! Saudara!', 5:26) or whether Situ Feng survives.",
+    "'Raja Naga Biru' and 'Raja Naga Azure' are the same Azure Dragon King, Qing Yi's father."
+  ]
+}

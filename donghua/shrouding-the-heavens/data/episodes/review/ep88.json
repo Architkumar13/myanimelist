@@ -1,0 +1,81 @@
+{
+  "ep": 88,
+  "title": "Remains of the Ancient Holy Body",
+  "summary": "As the countdown runs, Tu Fei keeps Qing Yi drinking and Hei Huang breaks the barrier to take the Azure Dragon King's aura. Qing Yi's guards storm the treasury. Ye Fan's mind resonates with the ancient Holy Body skeleton and splits in two. Inside it he sees a dried-up golden Bitter Sea with a green lotus that still stirs, and a Dao Palace treasury peak refined with millions of kg of source. What the skeleton holds isn't a cultivation method but a secret technique for building a 'single secret realm', which the Dao Scripture can also achieve, only more slowly. They escape as time runs out, leaving the treasure seemingly untouched. Qing Yi's adviser reports that the barrier was broken by an insider and that the trail leads to the Ageless Palace, so Qing Yi orders the city searched. Hei Huang uses the stolen aura and the bought materials to make a temporary small world and break the Meteorite Forest's five-element and star-field barriers. The breakthrough takes Tu Fei's Sky-Devouring Demon Pot, star stones and the Black Turtle Shell. Inside the Ageless Palace the old demon in Pang Bo mocks Yan Ruyu's scheming and says he'll regain Immortal Platform and rule Beidou with Pang Bo. He offers to reveal a star road home if Ye Fan walks away, and Ye Fan refuses.",
+  "events": [
+    "Hei Huang breaks the barrier and takes the Azure Dragon King's aura",
+    "Ye Fan's mind resonates with the Holy Body skeleton",
+    "He sees its golden Bitter Sea, green lotus and treasury peak",
+    "He learns of a 'single secret realm' technique",
+    "Qing Yi orders Demon City searched",
+    "Hei Huang's formation breaks the Meteorite Forest barriers",
+    "The old demon in Pang Bo offers a star road home; Ye Fan refuses"
+  ],
+  "introduced": [
+    "Ancient Holy Body skeleton",
+    "Single secret realm technique",
+    "Black Turtle Shell"
+  ],
+  "cultivation": "The skeleton's Dao Palace treasury peak was refined with millions of kg of source (8:08). The old demon aims to 'pulih ke Platform Abadi' (18:00).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "qing-yi",
+      "name": "Qing Yi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": "Still possessed by the old demon, who speaks through him",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Old Demon King (possessing Pang Bo)",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "The subtitles never say 'Great Accomplishment'. It's an ancient Holy Body skeleton, over ten thousand years old per the card at 18:52, so the title was changed to 'Remains of the Ancient Holy Body'.",
+    "Added the treasury heist, the 'single secret realm' insight, the barrier-breaking, and the old demon's offer of a way home."
+  ],
+  "flags": [
+    "The title 'Great-Accomplished Holy Body' comes from the official Chinese title (大成圣体遗骸). The Indonesian subtitles never say 'Great Accomplishment'.",
+    "'Alam Rahasia Tunggal' (single secret realm) could mean focusing on one secret realm or building one unique realm; the phrase is unclear.",
+    "The same item is called 'Toples' (jar, EP84) and 'Panci' (pot, 13:28).",
+    "13:36–13:37 two lines overlap, so the subtitles are merged there."
+  ]
+}

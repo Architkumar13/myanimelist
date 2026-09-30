@@ -1,0 +1,99 @@
+{
+ "ep": 181,
+ "title": "Zi Tianfeng Falls",
+ "summary": "Ye Fan breaks Zi Tianfeng's Dragon-Skin Drum and his Human King Seal. Zi Tianfeng, who blames Ye Fan for his brother's death, abandons his body and uses Divine Spirit Valley's ancient soul art to take over Ye Fan's, claiming nobody in the Immortal Platform 2nd Heaven can escape it. Ye Fan counters with the Nine Secrets, reminds him of Dongfang Ye, and kills him; the lingering trace of an ancient Ancestral King then appears to avenge its descendant, and Ye Fan erases that too. He tells the Nanling prodigies to stand on their own and asks Yan Yixi to keep tracking the ancient clans. At Ancient Emperor Mountain, burial place of the Undying Heavenly Emperor, the ancient clans greet the awakening of the Heavenly Emperor's Son (Immortal Platform 2nd Heaven), who came from the divine egg Ye Fan cut open at Yaochi. Back with the barbarians, Dongfang Man takes Ye Fan to Li Heishui, whose ancient-emperor-descendant wound has been eating his vitality even after the Ji siblings saved him. Ye Fan cleanses the wound with Holy Body blood essence and feeds him the True Dragon Immortal Medicine from the Ten Thousand Dragon Nest, then finally reunites with Ji Ziyue.",
+ "events": [
+  "Ye Fan breaks the Human King Seal",
+  "Zi Tianfeng tries to seize his body",
+  "The Nine Secrets counter it; Zi Tianfeng dies",
+  "The Ancestral King's lingering trace is destroyed",
+  "The Heavenly Emperor's Son awakens at Ancient Emperor Mountain",
+  "Ye Fan heals Li Heishui with Holy Body blood and the True Dragon Immortal Medicine",
+  "Ye Fan reunites with Ji Ziyue"
+ ],
+ "introduced": [
+  "Heavenly Emperor's Son",
+  "Ancient Emperor Mountain",
+  "Undying Heavenly Emperor (named)",
+  "Ancestral King's lingering trace",
+  "Human King Seal",
+  "True Dragon Immortal Medicine (used)"
+ ],
+ "cultivation": "Heavenly Emperor's Son: Immortal Platform 2nd Heaven. Zi Tianfeng's line 'Di dalam Surga Kedua dari Platform Abadi, tak seorang pun dapat lolos' implies Ye Fan is in the 2nd Heaven, but this isn't stated outright.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": "Immortal Platform 2nd Heaven (implied)",
+   "quote": "Di dalam Surga Kedua dari Platform Abadi, tak seorang pun dapat lolos",
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "zi-tianfeng",
+   "name": "Zi Tianfeng",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "heavenly-emperor-son",
+   "name": "Heavenly Emperor's Son",
+   "realm": "Immortal Platform 2nd Heaven",
+   "quote": "[Putra Kaisar Langit, Surga Kedua dari Platform Keabadian]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "li-heishui",
+   "name": "Li Heishui",
+   "realm": null,
+   "quote": null,
+   "look": "Healed of a draining wound",
+   "first": false
+  },
+  {
+   "id": "ji-ziyue",
+   "name": "Ji Ziyue",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "ye-tong",
+   "name": "Ye Tong",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Dongfang Man",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yan-yixi",
+   "name": "Yan Yixi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "Zi Tianfeng is killed with the Nine Secrets after a body-seizing attempt. The Six-Path Samsara Fist isn't named, and there's no remote strike by the valley's elders; an Ancestral King's lingering trace intervenes instead.",
+  "Li Heishui is healed with Holy Body blood plus the True Dragon Immortal Medicine.",
+  "Added the origin of the Heavenly Emperor's Son (the Yaochi egg) and the Undying Heavenly Emperor's burial place."
+ ],
+ "flags": [
+  "01:03: Zi Tianfeng says 'Kau membunuh saudaraku' (you killed my brother). Which brother isn't specified; it may mean the Divine Spirit Valley men Ye Fan killed in EP172–173.",
+  "04:28: the caption is in English ('Lingering Trace, Ancient Ancestral King') inside Indonesian subs."
+ ]
+}

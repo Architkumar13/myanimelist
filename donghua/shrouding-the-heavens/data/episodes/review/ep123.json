@@ -1,0 +1,67 @@
+{
+ "ep": 123,
+ "title": "Blood Battle with Hua Yunfei",
+ "summary": "Ye Fan spreads word that he will serve an herb gatherer as a last chance to survive, which draws everyone to the Eternal Heaven Gate in Yan Capital. After promising Nannan he'll be back soon, he accuses Hua Yunfei there of setting the Ruthless Dojo killing trap, trying to devour Ji Ziyue's physique and sending the soul clones. Hua Yunfei denies it and turns the charge back on him, then fights using Star Peak's divine techniques, the Nine-Calamity Phoenix Melody (onlookers now think he's at Dragon Transformation), Phoenix Calamity Rebirth and One Thought, Hundred Flowers Bloom. Finally he reveals the Ruthless Emperor's Myriad Changes Holy Technique, exposing himself as the Ruthless heir. Ye Fan counters with an evolution of his Battle Holy Technique and Nine Dragons Pulling the Coffin and defeats him. Hua Yunfei says Ye Fan has guessed only half the truth, then escapes the holy-land experts, including Immortal Platform masters, swearing to kill Ye Fan next time.",
+ "events": [
+  "Ye Fan announces he'll become an herb gatherer's servant, gathering everyone at the Eternal Heaven Gate",
+  "Ye Fan says goodbye to Nannan ('going fishing')",
+  "Ye Fan publicly accuses Hua Yunfei",
+  "Hua Yunfei uses the Nine-Calamity Phoenix Melody and Phoenix Calamity Rebirth",
+  "Hua Yunfei reveals Myriad Changes and is exposed as the Ruthless heir",
+  "Ye Fan wins with the Battle Holy Technique and Nine Dragons Pulling the Coffin",
+  "Hua Yunfei escapes the holy lands' Immortal Platform experts"
+ ],
+ "introduced": [
+  "Eternal Heaven Gate",
+  "Nine-Calamity Phoenix Melody",
+  "Myriad Changes Holy Technique",
+  "Nine Dragons Pulling the Coffin (technique)"
+ ],
+ "cultivation": "Bystanders infer that Hua Yunfei is at Dragon Transformation ('dia seharusnya berada di Alam Transformasi Naga'), the first of the young generation to get there; this isn't confirmed.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "hua-yunfei",
+   "name": "Hua Yunfei",
+   "realm": "Dragon Transformation",
+   "quote": "dia seharusnya berada di Alam Transformasi Naga!",
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-xiaoman",
+   "name": "Li Xiaoman",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "nannan",
+   "name": "Nannan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "The fight is at the Eternal Heaven Gate in Yan Capital",
+  "Hua Yunfei is exposed by the Myriad Changes Holy Technique; Ye Fan's winning moves were the Battle Holy Technique evolution and Nine Dragons Pulling the Coffin",
+  "Removed 'Ji Ziyue watches' (she isn't present in the subs) and 'Ye Fan fakes his own death' (not shown; he only pretends his wounds are fatal)"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "03:29–03:47: the 'herb gatherer's servant' plan is only reported by bystanders; it seems to be a lure",
+  "09:46: Hua Yunfei's Dragon Transformation realm is a bystander's guess, not a caption",
+  "20:13 onward is a preview of EP124"
+ ]
+}

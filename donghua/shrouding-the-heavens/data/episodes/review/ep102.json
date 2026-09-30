@@ -1,0 +1,89 @@
+{
+  "ep": 102,
+  "title": "One Against Ten",
+  "summary": "Yaoguang's ten top disciples, sent to kill Ye Fan, lose six or seven men in under two days as Ye Fan breaks through their posts. Weiwei leaves him with news that a Great Emperor's Divine Treasury has appeared at Purple Mountain, and he sends Tu Fei to warn Stone Village. The last three pursuers corner him: Yang Yi and another at Four Poles Level 1, plus one at Dao Palace Level 5. Ye Fan fights them with the Myriad Things Mother Qi Cauldron and wins, shattering the elder's divine sense inside Yaoguang's Vajra Bracelet and taking the bracelet. Back at Stone Village, an old hermit, the Red Dragon Daoist, has been buying the villagers' stone tools and cuts a treasure from Grandpa Zhang's millstone. Ye Fan follows him to Purple Mountain, where the old man, who says he was trapped on the Holy Cliff for 1,500 years, drives off two demon elders. He advises Ye Fan to reach Dao Palace Level 5 before dealing with the Holy Lands, and to ask about the ancient star road after the Four Poles.",
+  "events": [
+    "Yaoguang's ten top disciples lose six or seven men",
+    "Weiwei reports a Great Emperor's treasury at Purple Mountain",
+    "Ye Fan defeats Yang Yi's trio and takes the Vajra Bracelet",
+    "The Red Dragon Daoist buys Stone Village's stone tools and cuts a millstone",
+    "The Red Dragon Daoist drives two demon elders off Purple Mountain",
+    "He advises Ye Fan on Dao Palace Level 5 and the ancient star road",
+    "Ye Fan decides to move Stone Village"
+  ],
+  "introduced": [
+    "Yang Yi",
+    "Red Dragon Daoist",
+    "Vajra Bracelet",
+    "Black-Gold Dragon Pattern Furnace (info card)",
+    "Ancient Star Road (mentioned)"
+  ],
+  "cultivation": "Captions: Yang Yi, Four Poles Level 1; another of the ten, Four Poles Level 1; a third, Dao Palace Level 5; Red Dragon Daoist, Immortal Platform realm. Ye Fan is said to be at Dao Palace Level 4.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Dao Palace (Level 4)",
+      "quote": "Tubuh Suci Kuno bahkan dapat menembus Alam Istana Dao Tingkat 4",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "wei-wei",
+      "name": "Wei Wei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Yang Yi",
+      "realm": "Four Poles (Level 1)",
+      "quote": "[Yang Yi, Tanah Suci Yaoguang, Level 1 Empat Kutub]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "red-dragon-daoist",
+      "name": "Red Dragon Daoist",
+      "realm": "Immortal Platform",
+      "quote": "[Pertapa Naga Merah, Alam Platform Abadi]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "wang-shu",
+      "name": "Wang Shu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Explained the 'one against ten' title: the ten Yaoguang disciples are wiped out over the episode, and it ends with a three-on-one fight",
+    "Added the Vajra Bracelet and the Red Dragon Daoist's millstone treasure, his Purple Mountain scene and his advice"
+  ],
+  "flags": [
+    "03:50-03:58 the captions for the other two disciples overlap and repeat; only Yang Yi is named",
+    "09:41 'Labu ini' (gourd) - unclear which item is meant"
+  ]
+}

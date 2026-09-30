@@ -1,0 +1,77 @@
+{
+  "ep": 58,
+  "title": "Escort Across a Thousand Li",
+  "summary": "In a tavern, cultivators say the Peacock King, a demon great power who dominated the Southern Region 800 years ago, has challenged the Ji family alone on behalf of Yan Ruyu, the Demon Emperor's descendant, slaughtering Ji members, forcing Ji experts back from the Bronze Immortal Palace and hunting Ji Haoyue, and that the Ji siblings have fled to Qixia Mountain. There Ye Fan finds Ziyue, nearly out of divine power, hunted by black-robed men, one of them a straw-cloaked Dao Palace cultivator who covets her Primordial Spirit Physique and notices Ye Fan's Ancient Holy Body. Ye Fan lures the pursuers into a Crested Thunderbird nest and they escape with the Void technique. Ziyue says Ji Hong was killed by the Peacock King on the way home, Haoyue's fate is unknown, and Ji Hong's last order was to seek Nangong Zheng at Qixia Mountain; they agree to keep each other's physique secrets, suspecting the black-robed men aren't demons but body-devourers. A disguised stranger turns out to be the Peacock King, who says he came for Ye Fan, remarks that the Demon Emperor's Sacred Heart chose him well, offers news of his old friend, and then brings out his 'gift': Nangong Zheng.",
+  "events": [
+    "Tavern rumours of the Peacock King's war on the Ji family",
+    "Black-robed men hunt Ziyue at Qixia Mountain; Ye Fan intervenes",
+    "They escape via a Crested Thunderbird nest and the Void technique",
+    "Ziyue reports Ji Hong's death and her mission to find Nangong Zheng",
+    "They suspect the black-robed men devour special physiques",
+    "The Peacock King reveals himself and spares them",
+    "Nangong Zheng arrives"
+  ],
+  "introduced": [
+    "Peacock King",
+    "Nangong Zheng",
+    "Qixia Mountain",
+    "black-robed men",
+    "Crested Thunderbird"
+  ],
+  "cultivation": "The Peacock King and Nangong Zheng are both captioned at the Immortal Platform realm; the straw-cloaked black-robed man is captioned at the Dao Palace realm.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "straw-cloaked black-robed man",
+      "realm": "Dao Palace",
+      "quote": "[Alam Istana Dao, Orang Berjubah Jerami]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "peacock-king",
+      "name": "Peacock King",
+      "realm": "Immortal Platform",
+      "quote": "[Alam Platform Abadi, Raja Merak]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "nangong-zheng",
+      "name": "Nangong Zheng",
+      "realm": "Immortal Platform",
+      "quote": "[Alam Platform Abadi, Nangong Zheng]",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Confirmed that Ye Fan protects Ziyue (the 'escort'), which the old summary only guessed",
+    "Added the Peacock King's vendetta for Yan Ruyu, Ji Hong's reported death, and the black-robed physique hunters"
+  ],
+  "flags": [
+    "The tavern claim that 'no one in the Ji family survived' is rumour and plainly exaggerated",
+    "Ji Hong's death is reported by Ziyue (12:48), not shown",
+    "'Tubuh Jiwa Spiritual' (08:07) = Primordial Spirit Physique",
+    "Nangong Zheng is spelled 'Nongong Zheng' at 18:30",
+    "15:03 Ziyue's 'who said the Ji family has only one Divine Body?' hints at her own physique; ambiguous",
+    "The 'old friend' Ye Fan asks about (17:42) is not named"
+  ]
+}

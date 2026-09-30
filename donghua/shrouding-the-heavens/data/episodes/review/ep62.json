@@ -1,0 +1,85 @@
+{
+  "ep": 62,
+  "title": "Demon Clan Breakout",
+  "summary": "Ye Fan seeks out a fairy who has been watching him, almost certainly Qin Yao, and when she teases him about Pang Bo's whereabouts he tries to force the answer out of her. At that moment the Ji family and the Yaoguang Holy Lord, an Immortal Platform master, lay siege to the Peacock King at Xuanyuan Valley to avenge the Ji massacre. Qin Yao sends Ye Fan out through the back of the valley, tells him Pang Bo and Princess Yan Ruyu have gone to the Northern Region, and warns him not to head north into the Fire Domain; he resolves to find a Domain Gate to the north. Ji Hui catches him, lists his 'three crimes' and drives him to the edge of the Fire Domain. Yao Xi appears and offers a way through if he agrees to go back to Yaoguang with her, and he accepts. On her instructions he ignites the Fire Domain with the Heavenly Glory Net and dives to its fifth layer, where a Yaoguang ancestor carved a teleportation altar, but Ji Hui follows and knocks him into the sixth layer, which is full of Violet Fire and Sourceless Fire.",
+  "events": [
+    "Ye Fan confronts Qin Yao over Pang Bo's whereabouts",
+    "The Ji family and the Yaoguang Holy Lord besiege the Peacock King at Xuanyuan Valley",
+    "Qin Yao says Pang Bo and Yan Ruyu went north and helps Ye Fan escape",
+    "Ji Hui corners Ye Fan with her 'three crimes'",
+    "Yao Xi bargains to help him through the Fire Domain",
+    "He ignites the Fire Domain and reaches the Yaoguang altar on the fifth layer",
+    "Ji Hui knocks him into the sixth layer's Violet Fire"
+  ],
+  "introduced": [
+    "Yaoguang Holy Lord",
+    "Fire Domain",
+    "Yaoguang Teleportation Altar",
+    "Violet Fire",
+    "Sourceless Fire"
+  ],
+  "cultivation": "The Yaoguang Holy Lord is captioned at the Immortal Platform realm.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "qin-yao",
+      "name": "Qin Yao",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "peacock-king",
+      "name": "Peacock King",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Yaoguang Holy Lord",
+      "realm": "Immortal Platform",
+      "quote": "[Penguasa Tanah Suci Yaoguang, Alam Platform Abadi]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "ji-hui",
+      "name": "Ji Hui",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yao-xi",
+      "name": "Yao Xi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Yao Xi does not help him escape the demon clan; she guides him through the Fire Domain in exchange for his promise to go to Yaoguang",
+    "Added the siege of Xuanyuan Valley and Qin Yao's news that Pang Bo and Yan Ruyu went to the Northern Region",
+    "The Fire Domain is introduced here (EP62), not EP63"
+  ],
+  "flags": [
+    "The 'Peri' (Fairy) is never named in this episode's subs; Qin Yao is inferred from context (she knew Ye Fan earlier and is with the demon race)",
+    "07:21 'my heart hurts' – Qin Yao seems to be injured, but it isn't shown clearly",
+    "07:34 'don't go north, that's the Fire Domain' contradicts 07:39 'Pang Bo went to the Northern Region'; she probably means don't go directly north through the Fire Domain",
+    "The subs say both 'Wanita Suci' (Holy Maiden) and 'Saudara Ye'; the Holy Maiden is Yao Xi",
+    "18:48 closing lines are the EP63 preview"
+  ]
+}

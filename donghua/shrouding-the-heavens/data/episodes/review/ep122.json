@@ -1,0 +1,84 @@
+{
+ "ep": 122,
+ "title": "Star Peak Banquet and the Ruthless Heir",
+ "summary": "Ye Fan warns Zhang Wenchang not to cross Hua Yunfei, meets Li Xiaoman again (she now follows Hua Yunfei), and goes to Hua Yunfei's Star Peak banquet for the young kings of the Central States and the Eastern Wasteland, still pretending to be crippled by his Dao wounds. There he taunts Wang Chongxiao about his 'feud' with the Ji family. The guests discuss the lid of the Heaven-Swallowing Demon Jar appearing in the Yunduan Mountains, where the Ruthless Dojo was opened with special physiques' blood as a trap. Ye Fan suggests that the Ruthless heir is someone from a major holy land sitting among them, and Hua Yunfei warns him that a wounded Holy Body is a prize for that heir. On the way down, three soul clones sent by a Dao Palace expert attack him with a replica Heaven-Swallowing Demon Jar; he destroys them and follows their trail back to Star Peak, confirming his suspicion.",
+ "events": [
+  "Ye Fan warns Zhang Wenchang about Hua Yunfei",
+  "Reunion with Li Xiaoman",
+  "Hua Yunfei's Star Peak banquet; Wang Chongxiao and Yao Xi attend",
+  "Discussion of the Heaven-Swallowing Demon Jar and the Ruthless Dojo trap",
+  "Ye Fan hints that the Ruthless heir is among them",
+  "Three soul clones attack with a replica Demon Jar and are destroyed",
+  "Ye Fan traces them to Star Peak"
+ ],
+ "introduced": [
+  "Heaven-Swallowing Demon Jar",
+  "Heaven-Swallowing Demon Art",
+  "Ruthless Dojo (Yunduan Mountains)"
+ ],
+ "cultivation": "The soul clones were 'summoned by a Dao Palace expert' ('klon jiwa yang dipanggil oleh ahli Istana Dao').",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "zhang-wenchang",
+   "name": "Zhang Wenchang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-xiaoman",
+   "name": "Li Xiaoman",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "hua-yunfei",
+   "name": "Hua Yunfei",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yao-xi",
+   "name": "Yao Xi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Wang Chongxiao",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "Zhang Wenchang's discipleship was in EP121; this episode opens after it",
+  "Removed the Yaochi Holy Maiden and Yin-Yang Holy Maiden as named guests (not in the subs)",
+  "'Three masked assassins' are three soul clones of a Dao Palace expert using a replica Heaven-Swallowing Demon Jar",
+  "Ye Fan doesn't spread rumours about the Ruthless successor; he openly speculates that the heir is from a major holy land"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "04:04 Li Xiaoman: 'Lima tahun' (five years) since they last met, but 05:45 Hua Yunfei says 'dua tahun terpisah' (two years apart) and EP119 says three years; the timeline is inconsistent",
+  "06:44: 'Daun Dao Suci' (holy Dao leaves) credited with easing his wounds; the source is unclear (maybe the Enlightenment tea leaves from An Miaoyi, see EP132)",
+  "Wang Chongxiao isn't in the roster (first in EP118 per old data)",
+  "18:41 onward is a preview of EP123"
+ ]
+}

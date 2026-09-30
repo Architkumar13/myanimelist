@@ -1,0 +1,123 @@
+{
+ "ep": 182,
+ "title": "Back to Purple Mountain",
+ "summary": "Ye Fan and Ji Ziyue reunite after twelve years, and Ji Haoyue warns that Ye Fan should leave if he sees her only as a neighbour's sister. The friends share news: Yuan Gu has hunted Pang Bo for years for the Demon Emperor's Nine Executions, with the Red Dragon Daoist shielding him until Pang Bo vanished, and the Heavenly Emperor's Son's line has hunted the monkey, Sheng Huangzi. Divine Spirit Valley sends a message across the land that the Holy Body must come and kneel, or the barbarian tribe will be wiped out first. The tribe vows to fight, but Ye Fan answers alone, bluffing that a human Great Emperor is about to return. He sends Li Tian to the valley with a jade pendant recording the 'Mad Emperor' (the Old Madman) killing three Great Saints on an extraterritorial battlefield, and the Divine Spirit Valley Ancestral King (Saint realm) is shaken to see what looks like Quasi-Emperor power. At the Demon race's Immortal Palace in Demon City, the Red Dragon Daoist (Immortal Platform 3rd Heaven) says the Qing Jiao King died two years ago and lends Ye Fan a Saint-level Holy Body corpse from the late king's treasury. Leaving his real body with Qing Yi, Ye Fan wears the corpse into Purple Mountain, hoping to find Great Emperor Wu Shi's contingency. There he runs into Duan De and the Blind Old Man of Heaven (Second Great Bandit of the North, 3rd Heaven), and the three pass through a Yin-Yang reversed death gate, a mini star domain and a black hole by sheltering inside the corpse's Bitter Sea, reaching the depths of the mountain.",
+ "events": [
+  "Ye Fan reunites with Ji Ziyue; Ji Haoyue gives his warning",
+  "News about Pang Bo, Yuan Gu and Sheng Huangzi",
+  "Divine Spirit Valley's ultimatum",
+  "Ye Fan bluffs that a Great Emperor will return, and sends the Old Madman's image record",
+  "The Red Dragon Daoist lends him a Holy Body Saint corpse",
+  "Ye Fan enters Purple Mountain in the corpse and teams up with Duan De and the Blind Old Man",
+  "They pass the death gate and the black hole inside the corpse's Bitter Sea"
+ ],
+ "introduced": [
+  "Divine Spirit Valley Ancestral King",
+  "Holy Body Saint corpse (shell body)",
+  "Blind Old Man of Heaven",
+  "Qing Jiao King (named, deceased)",
+  "Yin-Yang Cave (Purple Mountain)",
+  "Yuan Gu (as hunter of Pang Bo)"
+ ],
+ "cultivation": "Captions: Red Dragon Daoist at Immortal Platform 3rd Heaven; Blind Old Man of Heaven at Immortal Platform 3rd Heaven; Divine Spirit Valley Ancestral King at Saint. The borrowed corpse is a Holy Body that cultivated only one secret realm yet reached Saint level. The Old Madman is judged to be at Quasi-Emperor level.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": "Wears a borrowed Holy Body Saint corpse ('Shell Body'); his real body stays with Qing Yi",
+   "first": false
+  },
+  {
+   "id": "ji-ziyue",
+   "name": "Ji Ziyue",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "ji-haoyue",
+   "name": "Ji Haoyue",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-heishui",
+   "name": "Li Heishui",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-tian",
+   "name": "Li Tian",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "red-dragon-daoist",
+   "name": "Red Dragon Daoist",
+   "realm": "Immortal Platform 3rd Heaven",
+   "quote": "[Daois Chi Long, Surga Ketiga dari Platform Keabadian]",
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "qing-yi",
+   "name": "Qing Yi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "duan-de",
+   "name": "Duan De",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Blind Old Man of Heaven",
+   "realm": "Immortal Platform 3rd Heaven",
+   "quote": "[Orang Tua Buta dari Surga, Perampok Besar Kedua Wilayah Utara, Tiga Surga di Platform Abadi]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Divine Spirit Valley Ancestral King",
+   "realm": "Saint",
+   "quote": "[Raja Leluhur Lembah Roh Ilahi, Alam Suci]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "old-madman",
+   "name": "Old Madman (image record)",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "The bluff is backed by an image record of the Old Madman killing three Great Saints. Ye Fan doesn't just claim that a living emperor exists.",
+  "Added the Holy Body corpse from the Red Dragon Daoist and the Qing Jiao King's treasury, and the Blind Old Man of Heaven as a third member of the Purple Mountain team.",
+  "The Holy Body corpse is already obtained in this episode, not in EP183."
+ ],
+ "flags": [
+  "03:36: 'Saudara Sheng Yuan' is probably a mistranslation for the Sacred Prince (Sheng Huangzi, 'Brother Monkey' at 03:47).",
+  "The glossary has no entry for the Blind Old Man of Heaven or the Qing Jiao King; both are named here."
+ ]
+}

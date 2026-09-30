@@ -1,0 +1,82 @@
+{
+  "ep": 112,
+  "title": "Holy Body Breaks into Four Poles",
+  "summary": "An Miaoyi visits Ye Fan before his breakthrough, reveals that her gift box held an Ancient Enlightenment Tea leaf, and asks him to become her Dao protector. She says that if he defies fate and becomes the first Holy Body in a hundred thousand years to reach the Four Poles, she too can break her destiny. Three great elders guard the ceremony while Ye Fan attempts the breakthrough in the Dragon Pool, which also contains the lightning. The heavenly tribulation brings thunder beasts and then chaotic lightning, and Ye Fan appears to be destroyed; his friends think he is gone. At his lowest he thinks of his parents and his wish to go home, refuses to die, and is reborn in the lightning. He breaks into the Four Poles, and visions appear around him: the Chaos Green Lotus seed, the Yin-Yang Life and Death Diagram, and the Immortal King Descending on the Ninth Heaven. With the elders held back by hidden powers, a group of peak Four Poles cultivators rushes in to kill him before he stabilises.",
+  "events": [
+    "An Miaoyi asks Ye Fan to be her Dao protector",
+    "The Ancient Enlightenment Tea leaf is revealed",
+    "Three great elders guard the breakthrough",
+    "Heavenly tribulation and chaotic lightning in the Dragon Pool",
+    "Ye Fan nearly dies, thinks of home and is reborn",
+    "Ye Fan breaks into the Four Poles; his visions appear",
+    "Peak Four Poles enemies attack at once"
+  ],
+  "introduced": [
+    "Dao protector (An Miaoyi's pact)",
+    "Chaotic lightning",
+    "Yin-Yang Life and Death Diagram (vision)",
+    "Immortal King Descends on the Ninth Heaven (vision)",
+    "Chaos Green Lotus seed (vision)"
+  ],
+  "cultivation": "Ye Fan breaks into the Four Poles ('[Alam Empat Kutub]' caption at 17:23). An Miaoyi offers a Miaoyu technique to stabilise his realm and speed him towards Dragon Transformation.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Four Poles",
+      "quote": "[Alam Empat Kutub]",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "an-miaoyi",
+      "name": "An Miaoyi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jiang-taixu",
+      "name": "Jiang Taixu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Removed the claim that this tribulation leaves Dao wounds: that is set up by the Dao Diagram in EP113 and diagnosed in EP116",
+    "Added An Miaoyi's Dao-protector pact and the visions",
+    "The '1st Heavenly Layer' detail was dropped because the subtitles only say 'Four Poles'"
+  ],
+  "flags": [
+    "07:26 'Tiga makhluk agung dari klan iblis' guard the ceremony; from EP116 05:44 they are probably the Red Dragon Daoist, the Green Dragon King and Tu Tian, but Tu Tian is not a demon, so this is uncertain",
+    "18:20 'makhluk kuat yang menarik tali dari bayangan' - unnamed hidden powers hold the three elders back"
+  ]
+}

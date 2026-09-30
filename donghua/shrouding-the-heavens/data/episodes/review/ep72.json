@@ -1,0 +1,66 @@
+{
+  "ep": 72,
+  "title": "The Heavenly Book of Source",
+  "summary": "The bell's toll suppresses the ancient creatures, and in what seems to be Great Emperor Wu Shi's residence Ye Fan finds Jiang Taixu's handwritten lament that he could not learn the emperor's method, and a Stone Book sealed by Wu Shi that also forms a gate. His ancient jade opens a Void Corridor that takes him to an ancient mine beneath the dragon veins, where a strange creature evades him, and he then finds Lei Bo and Wang Shu, who refuse to believe he already has the Heavenly Book of Source until he shows them. Back at Stone Village, Zhang Wuye offers him the book; Ye Fan says he only needs to read it once, but agrees to keep it and swears to return it when a worthy Zhang heir appears. A black shadow creature from Purple Mountain steals roast lamb in the village and slips through the void, but it seems harmless. Studying the book, Ye Fan gains the Divine Awareness of the Heavenly Source, with a Yin black pupil and a Yang white pupil. Lei Bo then reports that Wang Shu, showing off his source knowledge, is held as collateral at a five-storey stone-gambling shop, and Ye Fan picks a stone by its Heavenly Stems and Earthly Branches grid position, 'row two, column three', and prepares to cut it.",
+  "events": [
+    "The bell suppresses the ancient creatures in Wu Shi's residence",
+    "Ye Fan finds Jiang Taixu's inscription and Wu Shi's sealed Stone Book",
+    "The ancient jade opens a Void Corridor to an ancient mine",
+    "He reunites with Lei Bo and Wang Shu and shows them the book",
+    "Zhang Wuye entrusts him with the Heavenly Book of Source",
+    "A black shadow creature causes chaos in Stone Village",
+    "Ye Fan gains the Divine Awareness of the Heavenly Source; Wang Shu is held at a stone-gambling shop"
+  ],
+  "introduced": [
+    "Divine Awareness of the Heavenly Source",
+    "Stone Book",
+    "stone-gambling shop",
+    "black shadow creature"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "lei-bo",
+      "name": "Lei Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "wang-shu",
+      "name": "Wang Shu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "zhang-wuye",
+      "name": "Zhang Wuye",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "The Heavenly Book of Source was obtained in EP71; this episode covers Zhang Wuye entrusting it to Ye Fan and Ye Fan studying it",
+    "Added the Void Corridor via the ancient jade, the shadow creature and the start of stone gambling"
+  ],
+  "flags": [
+    "06:24 'the ancient mine beneath the dragon veins?' – exactly where the Void Corridor leads is unclear",
+    "15:18-15:27 a Daoist passage ('In the middle of the valley, no valley') appears in the book that Ye Fan notes is not a source technique; its meaning is unexplained",
+    "16:41 'Walikota!' (Mayor!) is probably a mistranslation for the shopkeeper",
+    "'Toko Pertarungan Batu' (Stone Fighting Shop) = a stone-gambling shop"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+ "ep": 140,
+ "title": "Wiping Out the Assassin Dynasties",
+ "summary": "An envoy of an ancient king clan claims a hundred thousand li around its sleeping grounds until Sheng Huangzi reveals himself as the Holy Prince of the Holy Monkey line and sends him off, warned to 'beware those behind you'. Ye Fan thanks the Peacock King, the Red Dragon Daoist and the Crow Daoist and learns that Yaochi quietly summoned them, since it can't take sides openly; the Great Bandits pledge help through Li Heishui. A Qishi Academy elder recruits Ye Fan on the Queen Mother's recommendation and mentions an ancient trial road beyond this domain, open only to the top three of a generation. Seeing a road home to Earth, Ye Fan promises to come once he can make the top three, and tells Liu Yiyi he'll go to the Central States to reach Immortal Platform. He parts from Ji Ziyue as 'a very, very important friend', holding back his feelings because he'll one day leave this world. Before leaving, he destroys a Hell dynasty stronghold with the Heavenly Court's techniques, then sets out for the Central States keeping a low profile, though Hei Huang says he used the formation wrong and it points toward the Western Desert.",
+ "events": [
+  "Sheng Huangzi, revealed as the Holy Prince, sends off an ancient king-clan envoy",
+  "Ye Fan thanks the three demon seniors; the Great Bandits pledge support",
+  "A Qishi Academy elder recruits Ye Fan; the top-three ancient road beyond the domain",
+  "Ye Fan tells Liu Yiyi he'll seek Immortal Platform in the Central States to find a way home",
+  "Farewell to Ji Ziyue",
+  "A Hell dynasty stronghold destroyed with Heavenly Court techniques",
+  "Departure toward the Central States"
+ ],
+ "introduced": [
+  "Qishi Academy",
+  "Qishi Academy elder",
+  "Ancient king clan envoy",
+  "Ye Zhetian (alias, heard in the preview)"
+ ],
+ "cultivation": "Ye Fan captioned Four Poles ('[Ye Fan, Panggung Empat Kutub]'); he says at least one of them must reach Immortal Platform to use the road beyond the domain.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": "Four Poles",
+   "quote": "[Ye Fan, Panggung Empat Kutub]",
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "sheng-huangzi",
+   "name": "Sheng Huangzi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "peacock-king",
+   "name": "Peacock King",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "red-dragon-daoist",
+   "name": "Red Dragon Daoist",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "crow-daoist",
+   "name": "Crow Daoist",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "liu-yiyi",
+   "name": "Liu Yiyi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "ji-ziyue",
+   "name": "Ji Ziyue",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Queen Mother of the West",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "hei-huang",
+   "name": "Hei Huang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Qishi Academy elder",
+   "realm": null,
+   "quote": "[Tetua, Akademi Qishi]",
+   "look": null,
+   "first": true
+  }
+ ],
+ "changes": [
+  "Only one Hell dynasty stronghold is shown destroyed; removed 'more than ten bases' and '100+ assassins'",
+  "Added the ancient king clan envoy, the Qishi Academy recruitment and the top-three road home, and Ye Fan's talk with Liu Yiyi",
+  "Nothing in the subs says Hei Huang and Nannan stay behind; left out"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "07:51: 'lembaga pendidikan tertinggi di Wilayah Utara' (Northern Domain) contradicts the Qishi Academy being in the Central States (info card, EP141); probably a slip",
+  "18:04–18:09: 'you used the formation I drew wrong… it leads to the Western Barrens' is unclear; EP141 opens in the Central States",
+  "19:09 'Bunuh Ye Zhetian!' is part of the EP141 preview"
+ ]
+}

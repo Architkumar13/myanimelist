@@ -1,0 +1,95 @@
+{
+  "ep": 97,
+  "title": "Exploring Wu Shi's Resting Palace",
+  "summary": "Ji Ziyue explains that the tomb is really three identical overlapping spaces; her special body lets her cross between them with the Great Void Technique, and the guardian can only be killed by sealing it in all three at once. Gu Feng (Ye Fan) sets up a formation and the young elites strike together to destroy it. Inside, where power is capped at Dao Palace Level 5, Ziyue recognises Gu Feng's chin-touching habit and accuses him of being the man who knocked her out and ran, but Daoyi's Holy Maiden Lu Ling defends him. The group reaches the Hall of Divine Light, where Lu Ling says a 10,000-year-old ancestor sits with the 'Nine Secrets' inheritance hidden in his Sea of Consciousness, though a voice at Ye Fan's side insists the place is really a Great Emperor's resting chamber that someone moved and renamed. When everyone pours spiritual energy in, the Yaoguang Holy Son pulls out and exposes Lu Ling's plan to seal their power and take the inheritance, so she withdraws and opens the last step for the others. Privately, Lu Ling has seen through Ye Fan's disguise. She offers him the inheritance if he can survive a combined attack from the three prodigies.",
+  "events": [
+    "Ji Ziyue explains the three spaces and crosses them with the Great Void Technique",
+    "Gu Feng's formation lets the group seal the guardian in all three spaces at once",
+    "Ziyue suspects Gu Feng; Lu Ling defends him",
+    "The Hall of Divine Light and the Nine Secrets inheritance",
+    "The Yaoguang Holy Son exposes Lu Ling's plan to seal the others",
+    "Lu Ling withdraws and opens the final step",
+    "Lu Ling tells Ye Fan she knows who he is and sets him a test against three prodigies"
+  ],
+  "introduced": [
+    "Hall of Divine Light",
+    "Nine Secrets (as the tomb's inheritance)",
+    "Guiding Jade"
+  ],
+  "cultivation": "The tomb's restriction caps everyone's power at Dao Palace Level 5 ('setara dengan Dao Palace Level 5').",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Still disguised as Gu Feng",
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "lu-ling",
+      "name": "Lu Ling",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yaoguang-holy-son",
+      "name": "Holy Son of Yaoguang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jin-chi",
+      "name": "Jin Chi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-haoyue",
+      "name": "Ji Haoyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jiang-yifei",
+      "name": "Jiang Yifei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Replaced the vague 'tomb leads into a resting palace' with the three-space guardian puzzle, Ziyue's suspicion, the Hall of Divine Light, Lu Ling's failed plan and her private deal with Ye Fan"
+  ],
+  "flags": [
+    "The title's link to Wu Shi is not stated in EP97's subtitles; 09:23 only says it is 'clearly a Great Emperor's resting chamber', spoken off-screen and probably by Hei Huang. Wu Shi's scripture is first mentioned at EP98 14:19",
+    "16:36 'Yi Fei. Berhenti!' - an unnamed Jiang elder stops Jiang Yifei",
+    "18:11 'Ye Penggemar' is a machine-translation error for 'Ye Fan' (Fan = fan); it recurs through EP98-118"
+  ]
+}

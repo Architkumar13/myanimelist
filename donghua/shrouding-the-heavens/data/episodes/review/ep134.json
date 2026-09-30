@@ -1,0 +1,112 @@
+{
+ "ep": 134,
+ "title": "Annihilating the Holy Alliance",
+ "summary": "Ye Fan and Jiang Huairen storm the Jiang clan's Liuxiang Island. Tingting testifies that Jiang Yichen stole the Mother of All Things Cauldron under the pretext of training at Meteorite Island, and Jiang Huairen wields Jiang Yi's Divine Wood Token to discipline his 'nephew'. Jiang Huai'an (Dragon Transformation) tries to cover for Yichen, but the cauldron is found at the 13th Grand Elder's island; Ye Fan threatens to smash it, forces the elder to give it up, and Jiang Yi himself arrives to fight the elder until the Great Ancestor intervenes and confines the schemers. Tingting reports that the Divine King Jiang Taixu cured her Chaotic Yin Body but is worsening and has vanished, facing either death within three years or rebirth within two. Jiang Yichen and Jiang Huai'an leak the cauldron's return, and that night the Wanchu and Zifu Holy Sons, backed by assassins, chase Ye Fan into Hei Huang's Great Emperor slaughter formation at Yanyun City. Ye Fan kills both Holy Sons, pretending they're assassin impostors, and keeps his promise to spare the two Jiang.",
+ "events": [
+  "Ye Fan and Jiang Huairen confront the Jiang clan on Liuxiang Island",
+  "Tingting testifies against Jiang Yichen",
+  "The cauldron recovered from the 13th Grand Elder; Jiang Yi fights him",
+  "The Jiang Great Ancestor confines the schemers",
+  "News of Jiang Taixu's decline and disappearance",
+  "Wanchu and Zifu Holy Sons ambush Ye Fan",
+  "Hei Huang's slaughter formation traps them; both Holy Sons killed"
+ ],
+ "introduced": [
+  "Jiang Yi",
+  "Jiang Huai'an",
+  "13th Grand Elder of the Jiang family",
+  "Divine Wood Token",
+  "Wanchu Holy Son",
+  "Zifu Holy Son",
+  "Liuxiang Island"
+ ],
+ "cultivation": "Jiang Huai'an, the 13th Grand Elder and Jiang Yi are all captioned Dragon Transformation; the Wanchu Holy Son is captioned Four Poles.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Jiang Huairen",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "jiang-tingting",
+   "name": "Tingting",
+   "realm": null,
+   "quote": null,
+   "look": "Chaotic Yin Body cured",
+   "first": false
+  },
+  {
+   "id": "jiang-yichen",
+   "name": "Jiang Yichen",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Jiang Huai'an",
+   "realm": "Dragon Transformation",
+   "quote": "[Jiang Huaian, / Keluarga Jiang Kuno, / Alam Transformasi Naga]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "13th Grand Elder (Jiang)",
+   "realm": "Dragon Transformation",
+   "quote": "[Tetua Agung ke-13, / Keluarga Jiang Kuno, / Alam Transformasi Naga]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Jiang Yi",
+   "realm": "Dragon Transformation",
+   "quote": "[Jiang Yi, / Keluarga Jiang Kuno, / Alam Transformasi Naga]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Wanchu Holy Son",
+   "realm": "Four Poles",
+   "quote": "[Putra Suci Wanchu, / Alam Empat Kutub]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "hei-huang",
+   "name": "Hei Huang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "The cauldron came from the 13th Grand Elder; the old summary named 'Jiang Chuan', who isn't in the subs",
+  "Jiang Huai'an's sealing happens at the start of EP135, not here",
+  "Added Tingting's news about Jiang Taixu"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "04:36: Jiang Huairen is 'sworn brother of Tu Fei and Hei Shui'",
+  "04:40: 'Bantu pie memberi pelajaran' is a typo",
+  "16:43–17:11: the Zifu and Wanchu Holy Sons try to reveal themselves and Ye Fan cuts them off as 'assassin impostors'; this reads as deliberate deniability",
+  "15:32: formation captioned 'Great Emperor Slaughter Formation' / 'Primordial Slaughter Formation' (Wu Shi's, per the old summary)",
+  "18:58 onward is an info card about the Mother of All Things Cauldron"
+ ]
+}

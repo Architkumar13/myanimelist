@@ -1,0 +1,69 @@
+{
+ "ep": 121,
+ "title": "Holy Body Slays Ji Hui",
+ "summary": "In Yan Capital, Ji Hui hangs up Zhang Wenchang as bait and orders his hands and then his feet cut off until Ye Fan appears; Ji Ziyue objects. Ye Fan arrives, and after three Ji Dragon Transformation experts spring their trap, he beats all three with techniques like 'Immortal King Descends', while the Ji side hold back because he carries the Divine King's mark. Ji Hui begs for her life in Ji Ziyue's name and then tries a sneak attack, and Ye Fan kills her. To hide that his Dao wounds are healed, he fakes coughing up blood and claims to have half a year left. He tells Zhang Wenchang, who was expelled from the Jade Cauldron Paradise after Ma Yun died, about the Five-Coloured Altar, then takes him to Taixuan's Clumsy Peak, where Li Ruoyu accepts him as a disciple despite his poor constitution.",
+ "events": [
+  "Ji Hui uses Zhang Wenchang as bait in Yan Capital",
+  "Ye Fan beats three Ji Dragon Transformation experts",
+  "Ji Hui begs, attacks from behind and is killed",
+  "Ye Fan fakes a relapse of his Dao wounds",
+  "Zhang Wenchang explains he was expelled from Jade Cauldron after Ma Yun's death",
+  "Ji Ziyue is troubled by Ji Hui's death",
+  "Li Ruoyu accepts Zhang Wenchang as a disciple on Clumsy Peak"
+ ],
+ "introduced": [],
+ "cultivation": "The three Ji experts are called Dragon Transformation. Ye Fan's Dao wounds are secretly healed ('Hampir terungkapnya Luka Dao saya yang sudah sembuh'); he pretends to have half a year left.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "ji-hui",
+   "name": "Ji Hui",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "zhang-wenchang",
+   "name": "Zhang Wenchang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "ji-ziyue",
+   "name": "Ji Ziyue",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-ruoyu",
+   "name": "Li Ruoyu",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "Zhang Wenchang becomes Li Ruoyu's disciple in this episode, not EP122",
+  "Added the three Dragon Transformation Ji experts, Ji Hui's plea and sneak attack, and Ye Fan's faked relapse"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "15:03–15:51: Ji Ziyue talks to a 'Saudara laki-laki' (brother), probably Ji Haoyue, but he is unnamed; '15:45 Itu adalah Paman Buyut Ji Biyue' is unclear",
+  "15:36 'dia membunuh buyut Ji Hui' is ambiguous (great-grandmother Ji Hui vs Ji Hui's great-grandson); read here as Ji Ziyue speaking of Ji Hui herself",
+  "19:03 onward is a preview of the Hua Yunfei fight (EP123)"
+ ]
+}

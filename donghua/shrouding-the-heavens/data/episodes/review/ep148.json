@@ -1,0 +1,67 @@
+{
+  "ep": 148,
+  "title": "Secrets of the Red-Haired",
+  "summary": "Ye Fan finishes the Huangjin elder with the Eight Prohibitions. He then deals with Jin Chixiao, who set him up twice, and takes the Huangjin family's Earth Milk to purify the Biluo Bell. He leaves Pang Bo to research the ancient star path at the Qishi Academy and reaches Dragon Transformation 4th level. Following records of the Cai clan, who were said to hold one of the Nine Secrets until the Azure Emperor wiped them out with one finger, he finds their ruins. There a Heaven Source seal holds the remnant soul of King Biluo. Biluo tells him that the red-haired monster who imprisoned him was a Heaven Source Master. Ye Fan frees Biluo and returns his bell. In return Biluo says that two Cai disciples stole the Weapon Secret and fled to the Cixing Mountains, then fades away, grieving for the family he left behind to chase immortality. In the Cixing Mountains, echoes of the past show the Cai ancestor, who had outlived his lifespan, coming back with red hair.",
+  "events": [
+    "Ye Fan finishes the Huangjin elder and deals with Jin Chixiao",
+    "He takes the Earth Milk to purify the Biluo Bell",
+    "Ye Fan reaches Dragon Transformation 4th level",
+    "He explores the ruins of the Cai clan, which the Azure Emperor destroyed",
+    "He frees King Biluo's sealed remnant soul",
+    "Biluo points him to the Cixing Mountains and fades away",
+    "Echoes in the Cixing Mountains show the red-haired Cai ancestor's return"
+  ],
+  "introduced": [
+    "King Biluo (remnant soul)",
+    "Cai clan",
+    "Cixing Mountains",
+    "Red-haired monster",
+    "Earth Milk"
+  ],
+  "cultivation": "Ye Fan: Dragon Transformation 4th level (06:33 caption), after the Purple Dragon Marrow.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Dragon Transformation",
+      "quote": "[Ye Fan, Alam Transformasi Naga Tingkat 4]",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jin-chixiao",
+      "name": "Jin Chixiao",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "King Biluo",
+      "realm": null,
+      "quote": "[Kesadaran Ilahi Raja Bi Luo]",
+      "look": "Remnant soul only",
+      "first": true
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Added King Biluo's remnant soul, the Cai clan history, and the Cixing Mountains lead",
+    "The red-haired monster is linked to the Heaven Source Masters; the 'secret' is how the Cai ancestor became one",
+    "The Azure Emperor destroying the Cai clan is told here as backstory"
+  ],
+  "flags": [
+    "05:30–05:36 Ye Fan says 'You trapped me twice... if I let you go today I'd shame my name', and then has the Huangjin Earth Milk. This implies he kills Jin Chixiao, but the death is not shown or stated",
+    "06:54–07:00 the Azure Emperor ('Kaisar Qing') is described in narration and may be shown in flashback; his glossary first appearance is EP152",
+    "The closing preview (19:28–19:39: Hua Yunfei tells Li Xiaoman to kill Ye Fan) is repeated at the end of EP149 and plays out in EP150"
+  ]
+}

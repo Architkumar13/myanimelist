@@ -1,0 +1,92 @@
+{
+ "ep": 119,
+ "title": "Dynasties and the Forbidden Land",
+ "summary": "Great powers gather in Yan Capital to enter the Ancient Forbidden Land for immortality medicine, among them the Imperial Uncle and the dying Emperor of the Guhua Dynasty (one of the Four Great Immortal Dynasties of the Central States) and the Yin-Yang Sect with its Holy Maiden. Ji Ziyue has been brought to Yan Capital under the watch of four elders, and Ji Hui still wants Ye Fan dead. Disguised as Wang Chongxiao, Ye Fan steps in when Ji Hui's great-grandson (Four Poles) bullies Zhang Wenchang for refusing to give up Ye Fan, then leaves without revealing himself because someone is watching the old man. He takes in Nannan, who has lost her memories and not aged in three years, forges a stone robe with the Heavenly Source Book's binding seal and the nine ancient Dao characters, and gives Nannan a memory jade; in return she gives him her small colourful stone. The Guhua Emperor (Immortal Platform 2nd level) walks into the Forbidden Land in a divine robe and dies there. A young woman lends Ye Fan a holy robe on condition that she gets one immortality medicine, and agrees to look after Zhang Wenchang and Nannan if he doesn't come back.",
+ "events": [
+  "Guhua Dynasty and Yin-Yang Sect arrive at Yan Capital for the Forbidden Land",
+  "Ye Fan, disguised as Wang Chongxiao, fights Ji Hui's great-grandson over Zhang Wenchang",
+  "Ye Fan takes in the amnesiac, unageing Nannan",
+  "Ye Fan forges a stone robe using the Heavenly Source seal and the nine Dao characters",
+  "Nannan gives Ye Fan her colourful stone; he gives her a memory jade",
+  "The Guhua Emperor enters the Forbidden Land and dies",
+  "A young woman lends Ye Fan a holy robe in exchange for a share of the medicine"
+ ],
+ "introduced": [
+  "Guhua Dynasty",
+  "Guhua Emperor",
+  "Imperial Uncle of the Guhua Dynasty",
+  "Yin-Yang Holy Maiden",
+  "Ji Hui's great-grandson",
+  "Stone robe (Divine Source stone robe)"
+ ],
+ "cultivation": "Guhua Emperor and his Imperial Uncle captioned Immortal Platform 2nd level; Ji Hui's great-grandson captioned Four Poles. Ye Fan says his Dao wounds leave him little time.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": "Disguised as Wang Chongxiao",
+   "first": false
+  },
+  {
+   "id": "zhang-wenchang",
+   "name": "Zhang Wenchang",
+   "realm": null,
+   "quote": null,
+   "look": "Aged, running a tea shop in Yan Capital",
+   "first": false
+  },
+  {
+   "id": "nannan",
+   "name": "Nannan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "ji-ziyue",
+   "name": "Ji Ziyue",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Guhua Emperor",
+   "realm": "Immortal Platform",
+   "quote": "[Kaisar Dinasti Guhua, / Platform Abadi Level 2]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Yin-Yang Holy Maiden",
+   "realm": null,
+   "quote": "[Wanita Suci dari Sekte Yin-Yang]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Ji Hui's great-grandson",
+   "realm": "Four Poles",
+   "quote": "[Cicit Ji Hui, / Keluarga Ji, Alam Empat Kutub]",
+   "look": null,
+   "first": true
+  }
+ ],
+ "changes": [
+  "Old summary only said Ye Fan decides to seek medicine; added the Guhua Dynasty emperor's fatal entry, the Wang Chongxiao disguise, Nannan's adoption and the colourful stone, the stone robe and the borrowed holy robe",
+  "Zhang Wenchang is shown old and harassed by the Ji family; Ji Ziyue appears under guard of four elders"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "06:28–07:40: it is unclear whether Ye Fan kills Ji Hui's great-grandson or only a Ji servant; one Ji member is said to have been killed ('Berani membunuh seseorang dari Keluarga Ji'), and EP121 doesn't clarify",
+  "15:46–17:46: the woman who lends the holy robe is never named (addressed only as 'Nona'); EP118 shows a flute-playing young woman from the Central States wearing a 'Sky-Covering Robe', probably the same person",
+  "08:28: 'Tiga tahun telah berlalu' (three years have passed) since Ye Fan last saw Nannan; compare EP122's 'two years' / 'five years'"
+ ]
+}

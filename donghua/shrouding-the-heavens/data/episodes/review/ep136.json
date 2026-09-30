@@ -1,0 +1,101 @@
+{
+ "ep": 136,
+ "title": "Clever Scheme Fells Saint Lords",
+ "summary": "Ye Fan gives the Holy Monkey the Nine-Wonder Immortal Medicine of the Divine Silkworm clan in place of true immortal peaches. The Queen Mother of the West (Immortal Platform) thanks him, and Ji Ziyue is invited to the reopening Genius Academy. When Nangong Zheng (Immortal Platform) arrives from the Bronze Immortal Palace and says it is tied to the Ruthless Emperor, the Wanchu Holy Lord and others accuse Ye Fan of being the Ruthless heir because of his Mother of All Things energy and the True Dragon Immortal Medicine's dragon pearl he used to save Jiang Taixu. Ji Ziyue testifies for him, and the Queen Mother warns she can't protect him outside Yaochi. Ye Fan offers to lead the greedy holy lords to the medicine in the Dragon Nest as proof, warning repeatedly that life and death are their own responsibility. Deep inside, he gets Ouyang Ye to trigger the Ancient True Demon Domain, which wakes the ancient king-clan creatures, and shuts the door on the holy lords, including the one who had hoarded medicines to stop Jiang Taixu's recovery.",
+ "events": [
+  "The Holy Monkey gets the Nine-Wonder Immortal Medicine",
+  "The Queen Mother of the West thanks Ye Fan",
+  "Nangong Zheng returns from the Bronze Immortal Palace",
+  "Ye Fan accused of being the Ruthless heir; Ji Ziyue defends him",
+  "Ye Fan leads the holy lords into the Dragon Nest",
+  "Ouyang Ye triggers the Ancient True Demon Domain",
+  "Ye Fan seals the door; the holy lords are left to the ancient creatures"
+ ],
+ "introduced": [
+  "Queen Mother of the West (on screen)",
+  "Dragon Nest (Ten Thousand Dragon Nest)",
+  "Ancient True Demon Domain",
+  "True Dragon Immortal Medicine",
+  "Genius Academy",
+  "Nine-Wonder Immortal Medicine"
+ ],
+ "cultivation": "Queen Mother of the West, Nangong Zheng, the Wanchu Holy Lord and the Holy Lord's younger brother are all captioned Immortal Platform. Ye Fan is called 'hanya seorang kultivator Empat Kutub'.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "sheng-huangzi",
+   "name": "Sheng Huangzi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "ji-ziyue",
+   "name": "Ji Ziyue",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Queen Mother of the West",
+   "realm": "Immortal Platform",
+   "quote": "[Ibu Suri Barat, Tanah Suci Yaochi, Platform Abadi]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "nangong-zheng",
+   "name": "Nangong Zheng",
+   "realm": "Immortal Platform",
+   "quote": "[Nangong Zheng, Platform Abadi]",
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Wanchu Holy Lord",
+   "realm": "Immortal Platform",
+   "quote": "[Tuan Tanah Suci Wanchu, Platform Abadi]",
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Ouyang Ye",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "hei-huang",
+   "name": "Hei Huang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "Which holy lords die isn't stated; the Wanchu Holy Lord's death is confirmed in EP139 (Ou Luotian: 'membunuh Tuan Suci kita Wanchu'). The Zifu lord's death isn't confirmed",
+  "Removed 'Ji Ziyue returns with a new model' (not in the subs)",
+  "Ye Fan saved Jiang Taixu with a dragon pearl from the True Dragon Immortal Medicine"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "18:08–18:24: a flashback of a Holy City official reporting to the Divine King about hoarded medicines explains why one holy lord is singled out",
+  "10:57: 'Adik dari Holy Lord' caption (the Wanchu Holy Lord's brother, likely Ou Luotian of EP139)",
+  "The 'Monyet Suci' is Sheng Huangzi (EP135: 'kebaikanmu karena telah memotongku dari batu')"
+ ]
+}

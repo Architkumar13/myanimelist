@@ -1,0 +1,90 @@
+{
+  "ep": 56,
+  "title": "Star Peak Gathering",
+  "summary": "As the elders struggle to contain the rampaging cocoon, Ye Fan rushes in to shield Ziyue, guesses that the cocoon is unstable because its Tianxuan formation runes have faded, and carves them back to calm it. An elder who watched him accuses him of knowing Tianxuan rune formations and presses him about the Old Madman; Ye Fan says he met the senior only once, and Ziyue backs him up. Hua Yunfei, acting for the Sect Master, invites the elders and Ye Fan to drink at Star Peak, where the elders recall Tianxuan Holy Land's overnight annihilation in the Ancient Forbidden Land, the Demon Emperor's death almost 10,000 years ago, and the coming contest to become emperor. Ji Hong praises the Jiang family's Hengyu Great Emperor inheritance, while Jiang Yifei compares Ji Haoyue to the Ji family's Void Great Emperor. Later Ziyue finds Ye Fan asleep and tries to draw a pig's nose on him, they bicker and she bites him, and Ye Fan's quip that they 'ate, lived and travelled together' enrages Ji Haoyue. Haoyue attacks, senses that Ye Fan's body resonates with his Divine Body, and pins him with his Moon Rising over the Sea phenomenon.",
+  "events": [
+    "Ye Fan shields Ziyue from the rampaging cocoon",
+    "He restores the cocoon's Tianxuan runes and calms it",
+    "An elder questions him about the Old Madman; Ziyue covers for him",
+    "Hua Yunfei hosts the elders and Ye Fan at Star Peak",
+    "The elders reminisce about Tianxuan, the Demon Emperor and past Great Emperors",
+    "Ziyue's teasing provokes Ji Haoyue",
+    "Ji Haoyue attacks with Moon Rising over the Sea"
+  ],
+  "introduced": [
+    "Star Peak",
+    "Hengyu Great Emperor (named)",
+    "Void Great Emperor (named)",
+    "Moon Rising over the Sea",
+    "Divine King Body (info card)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hua-yunfei",
+      "name": "Hua Yunfei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-hong",
+      "name": "Ji Hong",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Jiang Ming",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jiang-yifei",
+      "name": "Jiang Yifei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-haoyue",
+      "name": "Ji Haoyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Added the cocoon rescue and rune carving, the banquet lore, and the trigger for Ji Haoyue's attack (jealousy over Ziyue)",
+    "Hua Yunfei invites people on behalf of the Sect Master; he does not stop the fight this episode"
+  ],
+  "flags": [
+    "07:18 the elder who accuses Ye Fan isn't named in the subs",
+    "12:08 'Raja Jiang Shen' (King Jiang Shen) probably means the Jiang family's Divine King; unclear",
+    "18:44-18:56 closing lines duplicate the EP55 ending; they show this episode's fight continuing into EP57"
+  ]
+}

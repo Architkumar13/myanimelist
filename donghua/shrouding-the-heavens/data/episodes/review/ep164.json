@@ -1,0 +1,89 @@
+{
+ "ep": 164,
+ "title": "Yi Qingwu's Trap",
+ "summary": "Ye Fan, Yan Yixi and Li Tian stop Guanghan Palace's sacred palanquin. Yi Qingwu, its Holy Maiden (Immortal Platform 2nd Heaven, middle stage), traps them in the Yuanchen Twelve Branches Formation, but Ye Fan takes her Vajra Bracelet and refuses her wager. A clone of the Heavenly Demon Granny (Immortal Platform 3rd Heaven, early stage) joins the scramble, recognises Ye Fan as a human Holy Body and wants his blood. Yi Qingwu threatens to unleash the sacred weapon Guanghan Que, so the three withdraw, although Ye Fan quietly took one of the map fragments. Li Tian reveals the Human Desire Dao's sacred weapon, the Goddess Furnace, which Great Emperor Heng Yu forged for their founder, and Ye Fan can control it because it resonates with the Hengyu Scripture he learned in Beidou. Nine days later, at a gorge full of Luo Xia Palace corpses, the Granny's true body ambushes them alongside the Golden Crow Fourth Supreme Elder and the Taiyin Divine Son; Li Tian and Yan Yixi summon the Goddess Furnace, which kills the Granny, and they loot her treasures, including another map fragment.",
+ "events": [
+  "Ye Fan's group stops Guanghan Palace's palanquin",
+  "Yi Qingwu's Yuanchen Twelve Branches Formation; Ye Fan takes her Vajra Bracelet",
+  "The Heavenly Demon Granny's clone attacks and identifies the Holy Body",
+  "They retreat before Yi Qingwu can use Guanghan Que, keeping a map fragment",
+  "The Goddess Furnace resonates with Ye Fan's Hengyu Scripture",
+  "The Granny's true body, the Golden Crow Fourth Supreme Elder and the Taiyin Divine Son ambush them",
+  "The Goddess Furnace kills the Heavenly Demon Granny"
+ ],
+ "introduced": [
+  "Yi Qingwu",
+  "Guanghan Palace",
+  "Yuanchen Twelve Branches Formation",
+  "Heavenly Demon Granny",
+  "Guanghan Que",
+  "Goddess Furnace",
+  "Taiyin Divine Son",
+  "Golden Crow Fourth Supreme Elder",
+  "Luo Xia Palace",
+  "Luohe Star Region"
+ ],
+ "cultivation": "Yi Qingwu: Immortal Platform 2nd Heaven, middle stage. Heavenly Demon Granny: 3rd Heaven, early stage (clone caption); she says she only glimpsed the 3rd Heaven after 2,000 years. The Taiyin Divine Son and the Golden Crow Fourth Supreme Elder are captioned only as Immortal Platform.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yi-qingwu",
+   "name": "Yi Qingwu",
+   "realm": "Immortal Platform 2nd Heaven (middle stage)",
+   "quote": "[Yi Qingwu, Perawan Suci Istana Guang Han, Tingkat Menengah Platform Abadi Surga Kedua]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "yan-yixi",
+   "name": "Yan Yixi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-tian",
+   "name": "Li Tian",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Heavenly Demon Granny",
+   "realm": "Immortal Platform 3rd Heaven (early stage)",
+   "quote": "[Nenek Iblis Langit, Inkarnasi Berlengan Delapan, Platform Keabadian Surga Ketiga Tahap Awal]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Taiyin Divine Son",
+   "realm": "Immortal Platform",
+   "quote": "[Putra Dewa Tai Yin, Alam Platform Abadi]",
+   "look": null,
+   "first": true
+  }
+ ],
+ "changes": [
+  "Removed the old summary's Broken Wood Cliff, fake Divine Spirit scripture exchange, Golden Crow banner, Bing/Jie secrets and Xing-secret escape. None of it is in these subtitles.",
+  "The Heavenly Demon Granny is killed here by the Goddess Furnace, not in EP165.",
+  "The formation is the Yuanchen Twelve Branches Formation; there is no Eight Virtue wheel.",
+  "Added Guanghan Que, the Vajra Bracelet and the backstory linking Heng Yu to the Goddess Furnace."
+ ],
+ "flags": [
+  "18:17: 'Mereka adalah saudara angkat Tu Fei' ('they are Tu Fei's sworn brothers') is probably Ye Fan joking that Li Tian and Yan Yixi act like Tu Fei. It is not literal.",
+  "14:15 and the 20:29 card contain a stray Chinese character ('pember叛'), a machine-translation artefact.",
+  "13:15–13:19: it's implied, not stated, that Ye Fan took a map fragment during the fight with the Granny."
+ ]
+}

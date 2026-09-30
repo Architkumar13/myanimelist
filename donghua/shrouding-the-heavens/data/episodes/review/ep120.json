@@ -1,0 +1,50 @@
+{
+ "ep": 120,
+ "title": "Dao Wounds Healed",
+ "summary": "Inside the Ancient Forbidden Land the power of 'Huang' strips Ye Fan's cultivation even through the stone robe. He survives by sheltering in the Bronze Coffin and by drawing life energy from Nannan's colourful stone, which also explains why she hasn't aged. He finds a Life Spring and a divine tree whose nine fruits each hold a fragment of natural law, and learns that nine fruits and roots from the nine holy mountains are needed for true immortality medicine. He sees the Five-Coloured Altar, which he thinks is as mysterious as the Nine Dragon Coffin and might be able to take him home, and obtains the immortality medicine. Using it, he breaks the curse on his broken path, heals his Dao wounds and reaches the 2nd level of Four Poles after three months inside. When he comes out, Yin-Yang Sect disciples led by a Dragon Transformation elder ambush him with their Yin-Yang array; he fights back, and they flee.",
+ "events": [
+  "'Huang' erodes Ye Fan's cultivation inside the Forbidden Land",
+  "Ye Fan shelters in the Bronze Coffin and has a vision of his parents on Earth",
+  "Nannan's colourful stone gives him pure life energy",
+  "Ye Fan finds a Life Spring, the divine tree and its fruits",
+  "Ye Fan sees the Five-Coloured Altar",
+  "Ye Fan gets immortality medicine, heals his Dao wounds and reaches Four Poles level 2",
+  "Yin-Yang Sect ambush led by a Dragon Transformation elder"
+ ],
+ "introduced": [
+  "Huang (Forbidden Land power)",
+  "Five-Coloured Altar",
+  "Qilin medicine seed (from the Divine King)"
+ ],
+ "cultivation": "Ye Fan: Four Poles 2nd level, captioned after his Dao wounds heal ('[Alam Empat Kutub, / Level 2]'); Yin-Yang Sect elder captioned Dragon Transformation.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": "Four Poles",
+   "quote": "[Alam Empat Kutub, / Level 2]",
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Yin-Yang Sect elder",
+   "realm": "Dragon Transformation",
+   "quote": "[Tetua Sekte Yin-Yang, / Alam Transformasi Naga]",
+   "look": null,
+   "first": true
+  }
+ ],
+ "changes": [
+  "Old summary said he drags the coffin up nine mountains; subs only say nine fruits and roots from nine mountains are needed and show him using the coffin for shelter; how he moves it is not stated",
+  "Added Nannan's stone, the Life Spring, the Five-Coloured Altar and the Yin-Yang ambush on his way out"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "13:37–15:40: the subs never explicitly say he eats the medicine or collects all nine fruits; the healing is shown through a breakthrough monologue",
+  "11:03: 'Bagaimana mungkin aku melupakan ini?!' — the item or technique he suddenly remembers for moving the coffin isn't named",
+  "16:09–17:55: the ambush fight is cut off; the ending (19:27–19:39 'Bunuh dia! … Jika aku tidak membunuhmu, bagaimana saya bisa pergi?') reads like a preview or continuation, so the outcome is uncertain",
+  "18:11: the 'Secret Story' segment about the ghost-faced cauldron and the Ruthless Dojo trap is lore narration, not part of this episode's events"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+  "ep": 101,
+  "title": "Suppressing and Slaying Gu Litian",
+  "summary": "Duan De, ruined after EP100, buys his life from angry cultivators by handing over the Li City scroll. Hit by Gu Litian's Eternal Sealing Powder and nearly out of divine power, Ye Fan flees Yaoguang pursuers with Hei Huang until Weiwei, his old senior sister from the Lingxu Paradise who is now Yaoguang's 'immortal seed', saves him and gives him a pill against the poison. Gu Litian arrives to claim him, and Weiwei goads him into fighting at Ye Fan's level. When Gu Litian restores his Four Poles power mid-fight, Ye Fan uses his attacks to refine source faster and breaks into Dao Palace Level 4, opening his Spleen Divine Treasury. Gu Litian answers with his Water Dragon body and the Nine Water Dragon Transformation, but Ye Fan shows him the Holy Body's human strength and kills him. Ye Fan names him the first of Yaoguang's ten young masters to die.",
+  "events": [
+    "Duan De gives up the Li City scroll to save himself",
+    "Ye Fan, weakened by Eternal Sealing Powder, is surrounded",
+    "Weiwei saves him and gives him an antidote pill",
+    "Weiwei goads Gu Litian into a same-level fight",
+    "Ye Fan breaks into Dao Palace Level 4 (Spleen treasury) mid-fight",
+    "Gu Litian's Nine Water Dragon Transformation fails; Ye Fan kills him"
+  ],
+  "introduced": [
+    "Eternal Sealing Powder",
+    "Water Dragon body / Nine Water Dragon Transformation",
+    "Ten young masters of Yaoguang"
+  ],
+  "cultivation": "Ye Fan: Dao Palace Level 4, Spleen Divine Treasury opened ('Istana Dao Tingkat 4, Tempat Penyimpanan Ilahi Limpa, membuka!'). Gu Litian fights at Four Poles.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Dao Palace (Level 4, Spleen)",
+      "quote": "Istana Dao Tingkat 4, Tempat Penyimpanan Ilahi Limpa",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "wei-wei",
+      "name": "Wei Wei",
+      "realm": null,
+      "quote": "[Weiwei, Tanah Suci Yaoguang, Benih Abadi dari Surga Reruntuhan Roh]",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "gu-litian",
+      "name": "Gu Litian",
+      "realm": "Four Poles",
+      "quote": "Langsung memulihkan Alam Empat Kutub Anda",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "duan-de",
+      "name": "Duan De",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Kept the Spleen breakthrough and Gu Litian's death; added the Eternal Sealing Powder, Weiwei's pill and how she provokes the fight, and the Nine Water Dragon Transformation",
+    "The '100,000 pure source' figure isn't in the subtitles, so it was dropped"
+  ],
+  "flags": [
+    "11:58 'Liang Jingru memberimu keberanian?' - an unknown name, possibly a Yaoguang elder or Weiwei's master",
+    "Roster: Wei Wei is listed as first appearing in EP101, but EP8 (official subs) introduces 'Senior Sister Weiwei', and here Ye Fan recognises her ('Senior Weiwei?') and she recalls the Lingxu selection. Her first appearance is EP8 (mentioned EP7)"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "ep": 91,
+  "title": "Battle with Qin Yao",
+  "summary": "Tu Fei drags Ye Fan out at night to 'gather information' in Demon City, and Qin Yao talks with Ye Fan about the Great Emperors (Xu Kong, Heng Yu, the Queen Mother of the West, the Azure Emperor) and the Azure Emperor's lost ambitions. Ye Fan entrusts Pang Bo to Qin Yao and Yan Ruyu. Qin Yao insists that since he won the contest he belongs to her, and when he tries to leave they trade playful blows. Hei Huang bursts in: Tu Fei, drunk, has told a fox demon the Demon King is fake and been arrested. Qing Yi, Ye Fan and two elders, including Elder Niu, question Tu Fei with the Azure Emperor's truth wine. Tu Fei deflects every question. The fox demon then reveals that the commander Jin Yan made the arrest without orders, because he wanted to marry Qing Yi and run the clan. Qing Yi, mortified, strips Jin Yan of his command and sends him to serve as Jin Chi's guard. Tu Fei had taken an antidote all along. A demon girl who adores Qin Yao chases Ye Fan for making her sister-in-arms lovesick, and Hei Huang opens a formation for Li City.",
+  "events": [
+    "Qin Yao and Ye Fan talk about the Great Emperors",
+    "Qin Yao tries to keep Ye Fan; they trade playful blows",
+    "Tu Fei is arrested for calling the Demon King fake",
+    "Tu Fei is interrogated with the Azure Emperor's truth wine",
+    "Jin Yan is exposed as acting alone and dismissed",
+    "Ye Fan flees Demon City for Li City"
+  ],
+  "introduced": [
+    "Azure Emperor's truth wine",
+    "Li City (named)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "qin-yao",
+      "name": "Qin Yao",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "qing-yi",
+      "name": "Qing Yi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Jin Yan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Elder Niu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "The 'battle with Qin Yao' is a brief flirtatious scuffle, not a real duel. Most of the episode is Tu Fei's interrogation and Jin Yan's exposure."
+  ],
+  "flags": [
+    "The info card (18:31) calls the Azure Dragon King 'Raja Qing Jiao' (Azure Flood-Dragon King).",
+    "Tu Fei is introduced at 11:00 as grandson of the Seventh Great Bandit Tu Tian, which matches the glossary.",
+    "It isn't clear who the girl calling Qin Yao 'Suster' (6:14, 17:44) is; she's an unnamed demon woman.",
+    "'Kamu Fei' (12:41, 17:44) is a mistranslation of 'Tu Fei' / 'Ye Fan'."
+  ]
+}

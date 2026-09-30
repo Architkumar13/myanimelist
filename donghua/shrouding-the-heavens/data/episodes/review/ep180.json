@@ -1,0 +1,111 @@
+{
+ "ep": 180,
+ "title": "North Pole Light and Zi Tianfeng",
+ "summary": "Deep in the birthplace of the North Pole Immortal Light, an ancient human Saint stops Ye Fan and tells him that no one below Saint may go further. The Saint says Tu Fei, frozen in the ice, isn't in danger: he is cultivating inside a chance tied to an Eternal Scripture and must not be disturbed. Ye Fan begs the Saint to come down from the mountain and protect humanity now that the Old Madman is gone and the ancient Ancestral Kings are waking, but the Saint has already died and merged with the Dao. Leaving Tu Fei to his fortune, Ye Fan reflects on the loneliness of outliving everyone, then meets Yan Yixi at the old Wang lands. Yan reports that Divine Spirit Valley's Zi Tianfeng is holding a gathering in Nanling to draw him out. At the Heavenly Gate Small World in Nanling's Feng City, local prodigies including Nanling's Heavenly Maiden Wu Fei, Divine Son Chen Yuan and the Ancient Demon descendant Liu Yunjie flatter Zi Tianfeng, who promises to introduce them to Ancient Princes once Ye Fan is dead. Ye Fan walks in and challenges him, and he breaks Zi Tianfeng's Dragon-Skin Drum with the Battle Saint method's Om syllable.",
+ "events": [
+  "An ancient human Saint stops Ye Fan",
+  "Tu Fei is found cultivating in divine ice and left undisturbed",
+  "The Saint dies and merges with the Dao",
+  "Yan Yixi reports Zi Tianfeng's gathering in Nanling",
+  "Nanling's young elites court Zi Tianfeng",
+  "Ye Fan crashes the banquet and fights Zi Tianfeng",
+  "The Dragon-Skin Drum is broken by the Om syllable"
+ ],
+ "introduced": [
+  "Ancient human Saint (North Pole)",
+  "Eternal Scripture (named)",
+  "Heavenly Gate Small World",
+  "Feng City",
+  "Wu Fei",
+  "Chen Yuan",
+  "Liu Yunjie",
+  "Dragon-Skin Drum",
+  "Holy Body blood (info card)"
+ ],
+ "cultivation": "Captions at early Immortal Platform: Wu Fei, Chen Yuan, Liu Yunjie. The North Pole guardian is a Saint. The info card says Holy Body blood turns gold after minor mastery of the Four Poles.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Ancient human Saint (North Pole)",
+   "realm": "Saint",
+   "quote": "Senior adalah... seorang Santo kuno.",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "tu-fei",
+   "name": "Tu Fei",
+   "realm": null,
+   "quote": null,
+   "look": "Frozen in ice, cultivating",
+   "first": false
+  },
+  {
+   "id": "li-tian",
+   "name": "Li Tian",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yan-yixi",
+   "name": "Yan Yixi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "zi-tianfeng",
+   "name": "Zi Tianfeng",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Wu Fei",
+   "realm": "Immortal Platform (early)",
+   "quote": "[Wu Fei, Nan Ling Heavenly Maiden, Tahap Platform Keabadian Awal]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Chen Yuan",
+   "realm": "Immortal Platform (early)",
+   "quote": "[Chen Yuan, Putra Dewa Nan Ling, Tahap Platform Abadi Awal]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Liu Yunjie",
+   "realm": "Immortal Platform (early)",
+   "quote": "[Liu Yunjie, Keturunan Iblis Kuno, Tahap Awal Platform Keabadian]",
+   "look": null,
+   "first": true
+  }
+ ],
+ "changes": [
+  "The guardian is 'an ancient human Saint' ('Santo kuno'), not a 'half-saint old woman'. The subtitles give no gender, and the Saint dies (merges with the Dao) during the scene.",
+  "Tu Fei is cultivating an Eternal Scripture opportunity, not just 'waiting for the light'.",
+  "Zi Tianfeng's first on-screen appearance was EP167, not EP180.",
+  "Added the Feng City banquet guests and the Dragon-Skin Drum."
+ ],
+ "flags": [
+  "03:02: 'Kitab Suci yang Kekal/Abadi' (Eternal Scripture) is a loose translation; the canonical scripture name is uncertain.",
+  "08:58: the caption mixes languages ('Nan Ling Heavenly Maiden')."
+ ]
+}

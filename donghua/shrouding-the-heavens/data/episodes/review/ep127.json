@@ -1,0 +1,108 @@
+{
+ "ep": 127,
+ "title": "Feng Clan Takes a Pet",
+ "summary": "The teleport actually lands Ye Fan, Hei Huang, Nannan and Li Heishui on Feng Clan Island, where the Feng Holy Lord's 1,500th birthday is about to be held and where they meet Xia Yiming. Though they still owe the clan three million jin of source, Ye Fan attends. Feng Huang's maid insults him as the dying Holy Body the princess divorced; Ziwei Sect's Zhao Fa offers medicine; and Jin Chi, the Little Peng King, challenges him before Feng Fenghuang smooths things over. On the way to Zitian City, the maid and old servant Paman Yi (Dragon Transformation 7th layer) ambush them with the Netherworld Prison. Ye Fan crushes them, and Hei Huang takes the maid as his 'human pet' and has the old man thrown toward the Western Desert. Zhao Fa then tries to trade source stones for Ye Fan's Dragon-Patterned Black Gold Sword and attacks when refused, but Ye Fan beats his men and takes the stones. Meanwhile, a Golden-Winged Peng elder urges Jin Chi to pass the Nine Saint Trials, but Jin Chi insists on killing the Holy Body first.",
+ "events": [
+  "Arrival on Feng Clan Island for the Feng Holy Lord's 1,500th birthday",
+  "Feng Huang's maid insults Ye Fan",
+  "Zhao Fa of the Ziwei Sect introduces himself",
+  "Jin Chi challenges Ye Fan; Feng Fenghuang intervenes",
+  "Paman Yi and the maid ambush Ye Fan and are defeated; Hei Huang takes the maid as a pet",
+  "Zhao Fa's stone-workshop trap fails",
+  "Jin Chi rejects the Nine Saint Trials to fight Ye Fan"
+ ],
+ "introduced": [
+  "Feng Clan Island",
+  "Zhao Fa",
+  "Paman Yi (Feng clan old servant)",
+  "Zitian City",
+  "Nine Saint Trials"
+ ],
+ "cultivation": "Paman Yi captioned Dragon Transformation 7th layer.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "hei-huang",
+   "name": "Hei Huang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "nannan",
+   "name": "Nannan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-heishui",
+   "name": "Li Heishui",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "xia-yiming",
+   "name": "Xia Yiming",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "feng-fenghuang",
+   "name": "Feng Fenghuang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "jin-chi",
+   "name": "Jin Chi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Zhao Fa",
+   "realm": null,
+   "quote": "[Zhao Fa, Sekte Ziwei]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Paman Yi",
+   "realm": "Dragon Transformation",
+   "quote": "[Paman Yi, / Pelayan Tua Klan Feng, / Transformasi Naga Lapisan Ketujuh]",
+   "look": null,
+   "first": true
+  }
+ ],
+ "changes": [
+  "The 'servants beaten' were Paman Yi and Feng Huang's maid, who ambushed Ye Fan on the way to Zitian City; Feng Huang denies ordering it",
+  "Added Zhao Fa and his stone workshop trap, Xia Yiming's cameo, and the Nine Saint Trials"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "04:18 'Saudara Xia' is taken as Xia Yiming (Great Xia Holy Son)",
+  "17:46: the Peng elder's opening word 'Uang' is probably a mistranslation (maybe 'Nak'/child)",
+  "Zhao Fa isn't in the cast roster",
+  "20:17 onward is a preview of EP128"
+ ]
+}

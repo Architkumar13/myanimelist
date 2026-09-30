@@ -1,0 +1,49 @@
+{
+  "ep": 82,
+  "title": "Exploring Ancient Yaochi",
+  "summary": "Hei Huang builds his teleport formation from a Blue Pearl, an Evil Fire Rosary and Old Ge's gold tooth; Ye Fan notices it resembles formations carved by 'Senior Tianshu'. The teleport goes wrong. They land among Yaochi women and are chased off as perverts, and Hei Huang blames demon aura in Ye Fan's body. He accuses Ye Fan of having eaten Demon Emperor blood and of hiding the Ancient Demon Emperor Book. Following the 'Flying Yaochi Fairy' apparitions, Ye Fan goes down a dry well into the ruins of ancient Yaochi, abandoned in a hurry long ago. At the Immortal Pool, where the Queen Mother of the West's materials were produced, the cliff is carved with more than a hundred ordinary techniques, including a mountain seal. Ye Fan senses that someone combined them into a battle art aimed at one of the Nine Secrets. Hei Huang jumps into the pool, and humanoid things drag him down. The pool turns out to be a 'ghost pool' full of corpses, perhaps the reason Yaochi fell. The two escape upward to a palace floating in the sky.",
+  "events": [
+    "Hei Huang gathers formation materials and activates a teleport",
+    "The teleport misfires; they're chased as perverts",
+    "Hei Huang smells Demon Emperor blood on Ye Fan",
+    "They reach ancient Yaochi's ruins through a dry well",
+    "Ye Fan studies cliff carvings of more than a hundred basic techniques at the Immortal Pool",
+    "Humanoid creatures in the corpse-filled pool attack",
+    "They flee to the palace above the sky"
+  ],
+  "introduced": [
+    "Ancient Yaochi ruins",
+    "Immortal Pool",
+    "Flying Yaochi Fairy apparitions",
+    "Ancient Demon Emperor Book (named)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Removed the 'Raising-Heaven Ancient Peak Seal'. The subtitles only mention a basic 'Segel Gunung' carved on the cliff, and Ye Fan doesn't use a named new seal.",
+    "Added the failed teleport, the Demon Emperor blood accusation, the Immortal Pool carvings and the ghost pool."
+  ],
+  "flags": [
+    "Where they land after the teleport (6:42–7:23) is unclear. Hei Huang says 'ini masih Yaochi', which suggests present-day Yaochi territory.",
+    "'Senior Tianshu' (4:52) isn't identified.",
+    "'Teknik Pertarungan Suci' (12:39) is probably the Battle Saint method tied to the Dou secret, but the subtitles don't say so."
+  ]
+}

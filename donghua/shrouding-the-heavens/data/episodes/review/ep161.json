@@ -1,0 +1,82 @@
+{
+  "ep": 161,
+  "title": "Ziwei Battle Against Ancient Kings",
+  "summary": "The purple bronze warship Ye Fan saw in space arrives over Ziwei. From a cliff, a Golden Crow elder and the clan's First Crown Prince (Immortal Platform 2nd Heaven) choose to stay out of it. A coffin that drains life for hundreds of thousands of li releases an ancestral king. The Golden-haired and Silver-haired Great Saints boast that Ziwei is only the first step toward devouring Beidou and every other star field. The Old Madman stands alone against the two Great Saints and more than a dozen ancient kings, behind an Immortal Divine Tree formation. Ye Fan joins in with the Black Gourd's Dao Sword. The Old Madman's Six Paths Reincarnation Fist sends enemies to their deaths. Then the Thousand-Armed Divine Demon, a Great Saint at the 6th Heaven of Immortal Platform, fully wakes and smashes the formation. Ye Fan tries to hold it together with the Mother Qi Cauldron, and the episode ends on a cliffhanger.",
+  "events": [
+    "The purple bronze warship reaches Ziwei",
+    "The Golden Crow clan decides to protect only itself",
+    "The Golden- and Silver-haired Great Saints threaten every star field",
+    "The Old Madman fights two Great Saints and a dozen ancient kings",
+    "Ye Fan helps with the Black Gourd's Dao Sword",
+    "The Six Paths Reincarnation Fist",
+    "The Thousand-Armed Divine Demon wakes and breaks the formation"
+  ],
+  "introduced": [
+    "Purple bronze warship",
+    "Golden-haired Great Saint",
+    "Silver-haired Great Saint",
+    "Golden Crow clan (on screen)",
+    "Six Paths Reincarnation Fist",
+    "Black Gourd"
+  ],
+  "cultivation": "Thousand-Armed Divine Demon: Great Saint, Immortal Platform 6th Heaven (caption). Golden Crow First Crown Prince: Immortal Platform 2nd Heaven. The ancient beings on the ship are each at Immortal Platform 1st Heaven (16:02).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "old-madman",
+      "name": "Old Madman",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "thousand-armed-divine-demon",
+      "name": "Thousand-Armed Divine Demon",
+      "realm": "Great Saint",
+      "quote": "[Setan Dewa Seribu Tangan, Santo Agung, Platform Abadi Surga Keenam]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Golden-haired Great Saint",
+      "realm": "Great Saint",
+      "quote": "[Santo Agung Berambut Emas, Santo Agung Berambut Perak]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Silver-haired Great Saint",
+      "realm": "Great Saint",
+      "quote": "[Santo Agung Berambut Emas, Santo Agung Berambut Perak]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Golden Crow First Crown Prince",
+      "realm": "Immortal Platform",
+      "quote": "[Putra Mahkota Pertama Klan Gagak Emas, Platform Abadi Surga Kedua]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Confirmed the Old Madman against the Golden- and Silver-haired Great Saints. The Golden Crow clan appears on screen, choosing to stay out",
+    "Added the Thousand-Armed Divine Demon's awakening, with caption, and Ye Fan's part (Black Gourd, cauldron)"
+  ],
+  "flags": [
+    "The 'First Crown Prince' of the Golden Crows (03:44) may or may not be Lu Ya, who is called the 'Sixth Prince' in EP163",
+    "The caption realm 'Great Saint, Immortal Platform 6th Heaven' matches world.js's 6th Heaven = Great Saint"
+  ]
+}

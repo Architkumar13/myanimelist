@@ -1,0 +1,83 @@
+{
+  "ep": 92,
+  "title": "Pre-Qin Qi Refiners",
+  "summary": "Chased out of Demon City, Hei Huang's teleport misfires and drops Ye Fan, Tu Fei and Hei Huang in the Divine Desert, where Hei Huang says he was once trapped for a hundred years. He explains that Great Emperor Heng Yu created the desert with his sun furnace's fire while fighting a non-human being of Great Emperor strength from the Taichu Ancient Mine. Afterwards Heng Yu made a pact with something in the mine, founded the ancient Jiang family, and never again came within 250,000 km of it. Ye Fan sees that the stars overhead are false: a formation uses the star map, with Polaris as its center. It leads them to a Dao Temple moved here from another world. Its walls hold pre-Qin writing, including the words of Xu Fu about the three sacred mountains and the elixir of immortality. Through the Nine Dragon Coffin's star pattern Ye Fan wakes visions of Zhuang Zhou's butterfly dream and a Go-board killing formation. He also sees two pre-Qin Qi Refiners who closed the Ancient Starry Sky Road to protect Earth and left a relic for a descendant to bring home, and flashes of the five-colored altar, Li Xiaoman, Zhang Wenchang and Liu Yiyi. Ye Fan breaks the Go game and wins the God-Beating Whip.",
+  "events": [
+    "Hei Huang's teleport drops them in the Divine Desert",
+    "Hei Huang tells of Heng Yu's battle with a being from the Taichu mine",
+    "Ye Fan finds that the star formation centers on Polaris",
+    "They find a Dao Temple with pre-Qin writings by Xu Fu",
+    "Visions of pre-Qin Qi Refiners closing the Ancient Starry Sky Road",
+    "Ye Fan breaks the Go-board formation and gets the God-Beating Whip"
+  ],
+  "introduced": [
+    "Divine Desert",
+    "Dao Temple",
+    "Pre-Qin Qi Refiners",
+    "Xu Fu (named)",
+    "God-Beating Whip",
+    "Ancient Starry Sky Road (named)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "li-xiaoman",
+      "name": "Li Xiaoman",
+      "realm": null,
+      "quote": null,
+      "look": "Seen only in a memory flash (15:12)",
+      "first": false
+    },
+    {
+      "id": "zhang-wenchang",
+      "name": "Zhang Wenchang",
+      "realm": null,
+      "quote": null,
+      "look": "Memory flash (15:13)",
+      "first": false
+    },
+    {
+      "id": "liu-yiyi",
+      "name": "Liu Yiyi",
+      "realm": null,
+      "quote": null,
+      "look": "Memory flash (15:14)",
+      "first": false
+    }
+  ],
+  "changes": [
+    "The God-Beating Whip is obtained here (caption 18:42), not in EP94.",
+    "Added the Heng Yu lore, the Polaris star formation, Xu Fu's writing, and the flashbacks of Earth classmates."
+  ],
+  "flags": [
+    "The Divine Desert is also called 'Gurun yang Bagus' ('Good Desert', 4:57; card 18:49), a mistranslation of 神漠. It's said to be tens of thousands of miles from Yunzhou, while EP84 has Yunze.",
+    "Li Xiaoman, Zhang Wenchang and Liu Yiyi appear only in a flashback or vision, not on screen in the present.",
+    "15:15 'Kaisar Pertama' may be Qin Shi Huang or may be a mistranslation.",
+    "The line about Li Desheng's Nether Eye (7:29) confirms EP78's unnamed eye-bearer."
+  ]
+}

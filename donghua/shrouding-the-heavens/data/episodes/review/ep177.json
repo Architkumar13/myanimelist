@@ -1,0 +1,112 @@
+{
+ "ep": 177,
+ "title": "Reunion with An Miaoyi",
+ "summary": "News that Ye Fan has destroyed an ancient family spreads. Unseen figures take an interest in the Holy Body; Yao Xi and the Holy Son of Yaoguang react; and a surviving Wang Teng (Immortal Platform 2nd Heaven) swears to an unnamed ancient-clan backer that he will do anything to kill Ye Fan. Ji Ziyue arrives at the barbarian tribe and meets Ye Tong. He tells her Ye Fan and Li Tian have gone into the far Northern Plains after Tu Fei, who hasn't been seen for sixteen or seventeen years, and passes on Ye Fan's message that she should quietly gather information in Nanling and wait for him. Dongfang Man tells the recovering Li Heishui that Ye Fan has promised to take him to kill Zi Tianfeng. Hunting Wang survivors for news, Ye Fan cripples their cultivation instead of killing them, then heads for the North Pole, birthplace of the immortal light, which the Barbarian King has warned could kill even Saints. In the snow he hears sutra chanting and finds An Miaoyi (Immortal Platform 2nd Heaven), who no longer knows him: she is a part of herself she split off, and she waited only to meet him once and fulfil the other self's wish. Ye Fan fights her to reach the An Miaoyi he knew, and her move creates a small world.",
+ "events": [
+  "Beidou reacts to Ye Fan's return, and Wang Teng vows revenge",
+  "Ji Ziyue meets Ye Tong at the barbarian tribe",
+  "Ye Fan's message: stay in Nanling and gather information",
+  "Ye Fan cripples the Wang survivors instead of killing them",
+  "He sets out for the North Pole to find Tu Fei",
+  "He meets An Miaoyi, who doesn't recognise him",
+  "They fight"
+ ],
+ "introduced": [
+  "Dao Severing (info card)"
+ ],
+ "cultivation": "Captions: Yao Xi at early Immortal Platform; Wang Teng at Immortal Platform 2nd Heaven; An Miaoyi at Immortal Platform 2nd Heaven. An info card explains Dao Severing as the gate to the 3rd Heaven.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "an-miaoyi",
+   "name": "An Miaoyi",
+   "realm": "Immortal Platform 2nd Heaven",
+   "quote": "[An Miaoyi, Platform Keabadian Surga Kedua]",
+   "look": "Appears in the North Pole snow chanting sutras; a split-off self that doesn't recognise Ye Fan",
+   "first": false
+  },
+  {
+   "id": "ji-ziyue",
+   "name": "Ji Ziyue",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "ye-tong",
+   "name": "Ye Tong",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-heishui",
+   "name": "Li Heishui",
+   "realm": null,
+   "quote": null,
+   "look": "Recovering",
+   "first": false
+  },
+  {
+   "id": "wang-teng",
+   "name": "Wang Teng",
+   "realm": "Immortal Platform 2nd Heaven",
+   "quote": "[Wang Teng, Keluarga Wang Dataran Utara, Platform Abadi Surga Kedua]",
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yao-xi",
+   "name": "Yao Xi",
+   "realm": "Immortal Platform (early)",
+   "quote": "[Yao Xi, Tanah Suci Yaoguang, Platform Keabadian Awal]",
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yaoguang-holy-son",
+   "name": "Holy Son of Yaoguang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-tian",
+   "name": "Li Tian",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Dongfang Man",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "An Miaoyi is found in the North Pole ice fields chanting sutras, not in a temple.",
+  "The fight is a real duel, not only a divine-sense battle; her attack creates a small world.",
+  "Added Wang Teng's survival and vow, Ji Ziyue meeting Ye Tong, and Ye Fan sparing the Wang survivors."
+ ],
+ "flags": [
+  "00:40–01:10: the opening voices ('the one I've waited twelve years for', 'worth killing myself') aren't identified.",
+  "02:16–02:50: Wang Teng's patron (who talks about 'my clan's effort' and calls madmen more interesting) isn't identified.",
+  "04:43: 'kamu Fei' is a machine-translation artefact for 'Tu Fei' (the fansub mistranslates 'Ye'/'Tu' as 'kamu'/'Kamu penggemar' throughout).",
+  "11:57: Li Tian's joke 'dan Anda masih mengatakan tidak ada hubungan dengan sekte tersebut?' is out of place."
+ ]
+}

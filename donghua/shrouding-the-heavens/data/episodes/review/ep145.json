@@ -1,0 +1,76 @@
+{
+  "ep": 145,
+  "title": "Twin Thunders Shake Central States",
+  "summary": "At the heart of the burial ground stands a coffin carved from Enlightenment Tea Tree wood, and Great Xia and Jiuli wield Emperor weapons to fight over it. Duan De shows a demon face, the mark of the Ruthless Great Emperor, and brings out half of the Heaven-Swallowing Demon Jar. The blind old man reveals himself as the Blind Heaven Old Man, Second Great Bandit of the Northern Plains (Immortal Platform). When the coffin is opened it is empty apart from the Dragon Transformation volume of the Great Emperor Scripture. Ye Fan studies it and sets off two heavenly tribulations in a row. He uses them to drive off the God's Thought and reaches the 3rd level of Dragon Transformation. His Mother Qi Cauldron shows who he really is, and he leaves with the tea-tree wood. He gives Yu Die and Dongfang Ye a token so they can find Pang Bo. The Xiao clan asks the Wang family for help, and Wang Chong (Dragon Transformation) attacks with a king-grade war chariot. Ye Fan crushes him with King Yuhua's jade weapons and takes the chariot, and at the end Wang Teng's divine sense appears.",
+  "events": [
+    "Great Xia and Jiuli use Emperor weapons over the tea-wood coffin",
+    "Duan De shows the Ruthless demon face and half of the Heaven-Swallowing Demon Jar",
+    "The blind man is revealed as the Blind Heaven Old Man, Second Great Bandit of the Northern Plains",
+    "The coffin holds only the Great Emperor Scripture's Dragon Transformation volume",
+    "Two tribulations in a row take Ye Fan to Dragon Transformation 2nd, then 3rd level, and repel the God's Thought",
+    "The Mother Qi Cauldron exposes Ye Fan; he gives Yu Die and Dongfang Ye a token for Pang Bo",
+    "Wang Chong attacks with a king-grade chariot and is crushed",
+    "Wang Teng's divine sense appears"
+  ],
+  "introduced": [
+    "Wang Chong",
+    "Wang Teng (divine sense)",
+    "Blind Heaven Old Man",
+    "Great Emperor Scripture (Dragon Transformation volume)",
+    "Enlightenment Tea Tree coffin",
+    "Heaven-Swallowing Demon Jar"
+  ],
+  "cultivation": "Ye Fan: Dragon Transformation 2nd level (09:11 caption), then 3rd level (10:58 caption) from two tribulations in a row. Wang Chong: Dragon Transformation. Blind Heaven Old Man: Immortal Platform.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Dragon Transformation",
+      "quote": "[Ye Fan, Transformasi Naga Level 3]",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "duan-de",
+      "name": "Duan De",
+      "realm": null,
+      "quote": null,
+      "look": "A demon face (the Ruthless Emperor's mark) shows on him",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Blind Heaven Old Man",
+      "realm": "Immortal Platform",
+      "quote": "[Orang Tua Langit Buta, Bandit Besar Kedua Dataran Utara, Alam Platform Abadi]",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Wang Chong",
+      "realm": "Dragon Transformation",
+      "quote": "[Wang Chong, Keluarga Wang dari Dataran Utara, Alam Transformasi Naga]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "wang-teng",
+      "name": "Wang Teng",
+      "realm": null,
+      "quote": null,
+      "look": "Divine sense only",
+      "first": true
+    }
+  ],
+  "changes": [
+    "The 'ancient coffin' is made of Enlightenment Tea Tree wood, and the scripture inside is the Dragon Transformation volume of the Great Emperor Scripture",
+    "Added the Blind Heaven Old Man's reveal and Duan De's Ruthless mark",
+    "Wang Chong is beaten and robbed of his chariot. He survives (see EP146)"
+  ],
+  "flags": [
+    "17:10–17:20 Ye Fan seems about to kill Wang Chong, but EP146 shows Wang Teng's divine sense saving him",
+    "'Orang Nomor Satu Sepanjang Masa' (Number One of All Time) is the boast that sets Wang Chong off. The subtitles don't make clear who said it, most likely Ye Fan to the Xiao elders"
+  ]
+}

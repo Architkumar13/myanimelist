@@ -1,0 +1,63 @@
+{
+ "ep": 179,
+ "title": "Parting with Miaoyi",
+ "summary": "An Miaoyi dances for Ye Fan and tells him flowers bloom again: however many lifetimes pass, they will meet again, and if he reaches the Dao he should look near the flower he once knew. Ye Fan promises to walk the road of glory in this life and to keep that promise across ten or a hundred lifetimes. After she leaves, the Buddhist remnant will she left behind urges him to give up desire and take refuge in the Buddha, attacking with a Buddhist bell and the Om syllable. Ye Fan refuses help, turns the Battle Saint method (the 'Dou' secret) into his own Om syllable and breaks it, and the remnant fades. After Li Tian pesters him, Ye Fan goes deeper to the birthplace of the North Pole Immortal Light, the last place Tu Fei could be. A dangerous force field there is said to be survivable only by Saints, but Ye Fan finds Tu Fei and ignores Li Tian's warnings to go in.",
+ "events": [
+  "An Miaoyi's final dance and promise of rebirth",
+  "Ye Fan vows glory in this life and faithfulness across lifetimes",
+  "A Buddhist remnant will tries to convert him",
+  "Ye Fan derives the Om syllable from the Battle Saint method",
+  "An Miaoyi leaves",
+  "They reach the birthplace of the North Pole Immortal Light",
+  "Ye Fan finds Tu Fei and goes in despite the danger"
+ ],
+ "introduced": [
+  "Om syllable",
+  "Birthplace of the North Pole Immortal Light"
+ ],
+ "cultivation": null,
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "an-miaoyi",
+   "name": "An Miaoyi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-tian",
+   "name": "Li Tian",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "tu-fei",
+   "name": "Tu Fei",
+   "realm": null,
+   "quote": null,
+   "look": "Seen trapped deep in the immortal-light area",
+   "first": false
+  }
+ ],
+ "changes": [
+  "The dance and parting are here, but the old summary left out the Buddhist remnant's attack and Ye Fan's Om syllable.",
+  "Ye Fan finds Tu Fei's location at the end of this episode, not just 'starts looking'."
+ ],
+ "flags": [
+  "00:37–00:49: repeats EP178's last lines.",
+  "14:17–14:28: 'Kamu Fei! / Kamu penggemar! Apakah kamu baik-baik saja?' and 'Saat tidak ada yang bisa dilakukan, makan saja Liuliu' are garbled. It isn't clear whether Tu Fei actually speaks.",
+  "09:31: the caption gives the Om syllable as 'Manifestasi Rahasia dari Kata Dou', i.e. an evolution of the Dou secret of the Nine Secrets."
+ ]
+}

@@ -1,0 +1,75 @@
+{
+  "ep": 107,
+  "title": "Holy Body Suppresses the Dao Fetus",
+  "summary": "The Five-Colored Altar is long dead and the God-Beating Whip gets no reaction from it, which dashes hopes of returning to Earth for now. Hei Huang finds the Ten Thousand Dragon Nest, where Wu Shi once forged dragons, and Ye Fan picks the dragon pearl of a True Dragon Immortal Medicine before the tree flees and ancient beasts chase them out. Zifu Holy Land cultivators ambush them and are captured to work as 'miners'. Then the Zifu Holy Maiden Zi Xia (Four Poles), born with the innate True Dao Body, traps Pang Bo, Tu Fei and Hei Huang in her Mountain and River Painting. Ye Fan escapes it with the Great Void Technique, reveals his Dao Palace Level 5, and smashes her Heavenly Dao power with his bare hands to defeat and seal her. The captured disciples boast that their Holy Lord's trip to Purple Mountain is backed by a king, and Ye Fan realises the Divine King Jiang Taixu is in danger. He decides to warn the Jiang family in the Holy City and 'hold the chess pieces' himself.",
+  "events": [
+    "The Five-Colored Altar is dead",
+    "The Ten Thousand Dragon Nest and the True Dragon Immortal Medicine",
+    "Ancient beasts chase them out; the medicine tree escapes",
+    "Zifu cultivators are captured as 'miners'",
+    "Zi Xia traps his companions in the Mountain and River Painting",
+    "Ye Fan defeats and seals Zi Xia",
+    "Ye Fan learns the Divine King is in danger and heads for the Holy City"
+  ],
+  "introduced": [
+    "Zi Xia",
+    "Ten Thousand Dragon Nest",
+    "True Dragon Immortal Medicine",
+    "Mountain and River Painting",
+    "Innate True Dao Body"
+  ],
+  "cultivation": "Zi Xia: Four Poles (caption), innate True Dao Body. Ye Fan is confirmed at Dao Palace Level 5 ('Tubuh Suci Kuno telah mencapai Istana Dao Level 5!').",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Dao Palace (Level 5)",
+      "quote": "Tubuh Suci Kuno telah mencapai Istana Dao Level 5!",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "zi-xia",
+      "name": "Zi Xia",
+      "realm": "Four Poles",
+      "quote": "[Zi Xia, Tanah Suci Zifu, Alam Empat Kutub]",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Corrected who defeats Zi Xia: Ye Fan beats her alone, because Pang Bo, Tu Fei and Hei Huang are trapped in her painting",
+    "Added the dead Five-Colored Altar, the Ten Thousand Dragon Nest and the True Dragon medicine (used in EP109), and Ye Fan's decision to warn the Jiang family",
+    "The claim that Season 3 starts here can't be checked from the subtitles"
+  ],
+  "flags": [
+    "10:29-10:31 'Gadis Suci! Anda telah menguasai teknik sumber...' - unclear who is praised; the Zifu women seem to be captured",
+    "18:02 'Perjalanan Dewa Suci kita ... didukung oleh Raja Dewa' - literally 'backed by the Divine King', but Ye Fan's reaction (the Divine King is in danger) shows the backer is a different king; likely a mistranslation of 'a King'",
+    "19:32-19:42 the closing lines are a preview of EP108"
+  ]
+}

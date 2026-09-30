@@ -1,0 +1,94 @@
+{
+ "ep": 125,
+ "title": "Fire Burns the Yin-Yang Sect",
+ "summary": "Ye Fan realises that Nannan's seven-coloured stone saves her life whenever she is gravely ill, and makes her keep it; Hei Huang has been talking about taking her as a disciple and raising her to be a Great Emperor. Ye Fan plans to return the rescued children to their holy lands and expose the Yin-Yang Sect for stealing 'immortal seeds'. The sect strikes first with a Dragon Transformation level 8 elder, an artifact controller with a forbidden artifact, the Holy Maiden and a tracking Divine Lightning talisman. Ye Fan lures them to the Star-Killing Formation that Hei Huang and Pang Bo have set up outside Yan's great city, and burns the Dragon Transformation cultivators with the Fire Domain's colourless karmic fire, pushing to the legendary seventh layer with the Bodhi Seed. Pang Bo offers to stay behind so the others can escape. The Holy Maiden's Seven-Coloured Star Sand blocks the fire, but Ye Fan's Divine Beating Whip strikes her mind, and he destroys a trace of the Yin-Yang Sect Master's consciousness (Immortal Platform 2nd level), who vows the whole sect will hunt him. Ye Fan then decides to go to the Holy Cliff to look for the third of the Nine Secrets.",
+ "events": [
+  "Nannan's seven-coloured stone revealed as her lifeline",
+  "Yin-Yang Sect attacks with a Dragon Transformation level 8 elder and a forbidden artifact",
+  "Ye Fan lures them into the Star-Killing Formation",
+  "Fire Domain 6th and 7th layer flames burn the elders",
+  "The Holy Maiden's Seven-Coloured Star Sand is defeated by the Divine Beating Whip",
+  "The Yin-Yang Sect Master's consciousness trace is destroyed",
+  "The sect's theft of immortal seeds is made public",
+  "Ye Fan decides to go to the Holy Cliff"
+ ],
+ "introduced": [
+  "Seven-Coloured Star Sand",
+  "Divine Beating Whip",
+  "Star-Killing Formation",
+  "Yin-Yang Sect Master",
+  "Holy Cliff (named)"
+ ],
+ "cultivation": "Yin-Yang elder captioned Dragon Transformation level 8; the Yin-Yang Sect Master's projection is captioned Immortal Platform 2nd level; Ye Fan reaches the Fire Domain's 6th and 7th layers.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "nannan",
+   "name": "Nannan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "hei-huang",
+   "name": "Hei Huang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "pang-bo",
+   "name": "Pang Bo",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Yin-Yang Holy Maiden",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "wang-yangzhan",
+   "name": "Yin-Yang Sect Master",
+   "realm": "Immortal Platform",
+   "quote": "[Master Sekte Yin Yang, / Platform Abadi Level 2]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Yin-Yang Sect elder",
+   "realm": "Dragon Transformation",
+   "quote": "[Tetua Sekte Yin Yang, / Transformasi Naga Level 8]",
+   "look": null,
+   "first": true
+  }
+ ],
+ "changes": [
+  "Hei Huang's realisation about Nannan is only hinted (he wants her as a disciple to become a Great Emperor); no 'Dao fruit' line",
+  "The elder is burned in the Star-Killing Formation by Fire Domain 7th-layer flames",
+  "The Sect Master appears as a consciousness trace and isn't named here"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "15:58–16:02: the Sect Master says 'killing my followers, wounding my Saintess'; whether the Holy Maiden dies in this episode isn't clear, but EP130 (08:22) confirms Ye Fan sent her 'to the afterlife'",
+  "The name Wang Yangzhan is never said in EP119–140 subs; the roster's first-appearance EP125 is only right if the unnamed Sect Master is him",
+  "12:28–12:35: Pang Bo's 'tell Ye-zi I can't come back' is a fake-out; he survives",
+  "18:39–18:51: Undying Mountain and Enlightenment Tea Tree lines are a preview of EP126"
+ ]
+}

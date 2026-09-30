@@ -1,0 +1,77 @@
+{
+  "ep": 90,
+  "title": "Slaying the Old Demon King",
+  "summary": "With the Nine Secrets symbol, Ye Fan multiplies his battle power and divine sense tenfold and crushes the old demon inside the consciousness space. The dying demon reveals he knows of 'ancient China' (Earth) and compares himself to King Zhou, then tries to self-destruct and take them all with him. Pang Bo absorbs the demon's remaining consciousness and takes his body back. He wakes unsure whether he's human or demon, but with the demon's memories. Hei Huang plays dead, then leaps up to fight over the Ancient Demon Emperor Book, which records the Nine Slashes. When Qing Yi's search party bursts in, Pang Bo, using the demon's memories, poses as the Demon King and scares Qing Yi off. They agree Pang Bo will stay in the Demon Clan as a stand-in Demon King to keep it united, as Yan Ruyu wants. He'll help Ye Fan from the inside, since the demon's star road home can't be trusted. Qing Yi's adviser works out the whole plot, but Qing Yi waves him away. Ye Fan goes to Qin Yao's residence to thank her.",
+  "events": [
+    "Ye Fan's tenfold Nine Secrets symbol defeats the old demon",
+    "The demon reveals knowledge of Earth and tries to self-destruct",
+    "Pang Bo absorbs the demon's consciousness and regains his body",
+    "Hei Huang revives to claim the Ancient Demon Emperor Book",
+    "Pang Bo poses as the Demon King and drives off Qing Yi's search party",
+    "Pang Bo stays in the Demon Clan as the stand-in Demon King",
+    "Ye Fan visits Qin Yao to thank her"
+  ],
+  "introduced": [
+    "Ancient Demon Emperor Book (obtained)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": "Freed, but carries the old demon's absorbed consciousness ('Aku bahkan tidak tahu apakah aku manusia atau iblis sekarang', 10:07)",
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "qing-yi",
+      "name": "Qing Yi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "qin-yao",
+      "name": "Qin Yao",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "The old summary said the group 'frees Pang Bo'. More precisely, Pang Bo absorbs the demon's consciousness, takes his body back and stays behind posing as the Demon King.",
+    "Added the demon's knowledge of Earth, the Ancient Demon Emperor Book, and Qing Yi's search."
+  ],
+  "flags": [
+    "6:38 'Cina Kuno (Bumi)' is the translator's own gloss (Earth).",
+    "The EP90 info card says the Ancient Demon Emperor Book passed to the '19th-generation descendant' of the old Demon Emperor, which is garbled."
+  ]
+}

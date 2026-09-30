@@ -1,0 +1,85 @@
+{
+ "ep": 175,
+ "title": "The Dark Demon King Awakens",
+ "summary": "The Wang clan calls out its founding ancestor, the Dark Demon King (Immortal Platform 3rd Heaven), a Dark Body said to have reached the end of his lifespan at 4,000 years who survived by sealing himself in Divine Source for 1,500 years. A barbarian elder warns Ye Fan that his level is far below the ancestor's. The barbarian army's 'undying war god' appears: the Barbarian King (3rd Heaven), younger brother of a former chieftain, missing for a thousand years and presumed dead. The Dark Demon King keeps his distance and pushes the Barbarian King back, so Ye Fan uses his Heavenly Source Art and the Three Immortal-Binding Seals to change the feng shui and cut the ancient off from the Divine Source that sustains him. The Dark Demon King recognises the Battle Saint method in the Barbarian King and recalls how the White Divine King of the Eastern Wastelands broke his Dao heart 4,000 years ago. As the barbarians wreck the Wang halls to shake his foundation, he spends the rest of his life to unleash a North Pole Immortal Light. The barbarians answer by pooling their war spirit to fully revive their ancestral sacred weapon.",
+ "events": [
+  "The Wang clan calls out the Dark Demon King",
+  "The Barbarian King reappears after a thousand years",
+  "The Dark Demon King pushes the Barbarian King back",
+  "Ye Fan cuts off his Divine Source with source arts",
+  "The Battle Saint method and the White Divine King are recalled",
+  "The Dark Demon King unleashes a North Pole Immortal Light",
+  "The barbarians revive their ancestral sacred weapon"
+ ],
+ "introduced": [
+  "Dark Demon King",
+  "Barbarian King",
+  "Heavenly Source Art",
+  "Three Immortal-Binding Seals",
+  "North Pole Immortal Light",
+  "White Divine King (named)",
+  "Battle Saint method"
+ ],
+ "cultivation": "Dark Demon King: Immortal Platform 3rd Heaven. Barbarian King: Immortal Platform 3rd Heaven. A barbarian elder tells Ye Fan his level is far below the Dark Demon King's.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Dark Demon King",
+   "realm": "Immortal Platform 3rd Heaven",
+   "quote": "[Raja Iblis Kegelapan, Platform Abadi Surga Ketiga]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "barbarian-king",
+   "name": "Barbarian King",
+   "realm": "Immortal Platform 3rd Heaven",
+   "quote": "[Raja Barbar, Platform Abadi Surga Ketiga]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Dongfang Man",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-tian",
+   "name": "Li Tian",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yan-yixi",
+   "name": "Yan Yixi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "The old summary called the Dark Demon King 'a Dao Severing peer of Jiang Taixu'. The subtitles give Immortal Platform 3rd Heaven and never mention Jiang Taixu.",
+  "Added the Barbarian King's first appearance, Ye Fan's source arts cutting off the Divine Source, and the North Pole Immortal Light.",
+  "The episode ends on a cliffhanger. The Dark Demon King isn't killed yet; that presumably happens in EP176, which isn't available."
+ ],
+ "flags": [
+  "04:03: 'Seorang raja sempurna yang hidup selama tiga ribu tujuh ratus tahun' (a perfect king who lived 3,700 years) has no clear subject. 3,700 years was Wang Lie's figure in EP174.",
+  "04:42: the ancestor is called 'Tubuh Kegelapan' (Dark Body) and said to be 4,000 years old. That matches '4,000 years ago the White Divine King broke my heart' (09:15), but the lifespan maths is loose.",
+  "17:29–17:39: repeats 15:42–16:18 as a preview."
+ ]
+}

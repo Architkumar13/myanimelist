@@ -1,0 +1,100 @@
+{
+ "ep": 169,
+ "title": "Slaying Lu Ya",
+ "summary": "At the Tianji Pavilion, the founder's disciple explains that the dying founder sees cause and effect, and that the fate of Ye Fan's Beidou friends stays undecided until he chooses. Ye Fan compares this to Laplace's demon and Schrödinger's cat. The box's prophecy reads: 'Full-moon night, Ascension Immortal Cliff, Divine Spirit Ancient Scripture, a journey beyond the realm.' As Ye Fan leaves, Lu Ya ambushes him, powered by the forbidden Ten Golden Crows in One Day pill and summoning the Ancestral Golden Crow dharma form; Ye Fan shatters it with his Primordial Spirit Dao Sword and his body. The Golden Crow King's projection appears and scolds Lu Ya, saying he had already cut 60% of the pill's effect so his son could live. Lu Ya still attacks with his last strength, and Ye Fan manifests a Flawless Divine Form, something only Yin Tiande has achieved in this era. The Golden Crow King declares the karma settled and leaves, and Lu Ya dies believing he has done his duty. The Tianji founder tells his disciple that the Golden Crows buried their brightest generation at the Sun Emperor's heir's hands, yet an emperor may still rise from them. Ye Fan learns the scripture was split between the Human King Hall and the Ancient Immortal Monastery, and goes to Ascension Immortal Cliff to watch their exchange.",
+ "events": [
+  "The Tianji Pavilion's riddle about cause and effect",
+  "Prophecy: Divine Spirit Ancient Scripture at Ascension Immortal Cliff",
+  "Lu Ya attacks with the Ten Golden Crows in One Day pill",
+  "Ye Fan breaks the Ancestral Golden Crow dharma form",
+  "The Golden Crow King's projection intervenes",
+  "Ye Fan manifests a Flawless Divine Form; Lu Ya dies",
+  "The Human King Hall and the Immortal Monastery meet to exchange scripture halves"
+ ],
+ "introduced": [
+  "Golden Crow King (projection)",
+  "Flawless Divine Form",
+  "Divine Spirit Ancient Scripture",
+  "Ascension Immortal Cliff",
+  "Human King Hall",
+  "Ancient Immortal Monastery",
+  "Feng Yuan",
+  "Monk Zheng De"
+ ],
+ "cultivation": "Feng Yuan (Human King Hall): Immortal Platform 2nd Heaven, 9th level. Monk Zheng De (Ancient Immortal Monastery): Immortal Platform 2nd Heaven. The Ancestral Golden Crow dharma form is said to approach peak Saint combat power. Ye Fan's realm isn't stated.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "lu-ya",
+   "name": "Lu Ya",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Golden Crow King (projection)",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "li-tian",
+   "name": "Li Tian",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yan-yixi",
+   "name": "Yan Yixi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "ye-tong",
+   "name": "Ye Tong",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Feng Yuan",
+   "realm": "Immortal Platform 2nd Heaven (9th level)",
+   "quote": "[Feng Yuan, Aula Raja Manusia, Platform Abadi, Surga Kedua, Tingkat Kesembilan]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Monk Zheng De",
+   "realm": "Immortal Platform 2nd Heaven",
+   "quote": "[Biksu Zheng De, Biara Abadi Kuno, Platform Abadi, Surga Kedua]",
+   "look": null,
+   "first": true
+  }
+ ],
+ "changes": [
+  "The Golden Crow King doesn't call Ye Fan 'the second flawless divine body'. The narration says only Yin Tiande had manifested a Flawless Divine Form in this era, and now there is another.",
+  "Added the Golden Crow King cutting 60% of the pill's power, the Tianji founder's comments on the Golden Crows' karma, and the scripture-exchange setup."
+ ],
+ "flags": [
+  "12:20: the Golden Crow King's arrival is subtitled 'Avatar dari alam luar' ('avatar from the outer realm'), which is ambiguous. It is treated as a projection or avatar.",
+  "18:46: 'Biksu San Que ternyata belum meninggal' followed by 'Itu Biksu Zheng De, ayah San Que' means Zheng De looks exactly like San Que. It suggests San Que died earlier, possibly in EP166, which isn't available."
+ ]
+}

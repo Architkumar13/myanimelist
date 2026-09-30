@@ -1,0 +1,108 @@
+{
+  "ep": 118,
+  "title": "Holy Body vs the Prodigies",
+  "summary": "Ye Fan tells Pang Bo he will enter a Life Forbidden Zone alone so that at least one of them survives to find the way home, and gives him Phoenix Blood Red Gold, a material fit for an extreme-grade weapon. He refuses Tingting's offer of Taiyin true blood, leaves a cauldron with her, and entrusts her to Jiang Taixu, who hands him the Qilin Divine Medicine seed for the road. Ye Fan gives An Miaoyi the Immortal Enlightenment Gem as a pledge to protect her path, and Hei Huang's 'strongest' teleport throws him one and a half million li off course. On a fifteen-day boat to the Southern Region he meets two young kings of Zhongzhou, Ye Huiling and Wang Chongxiao (both Four Poles), who are heading for the Forbidden Zone. After Wang Chongxiao crushes Xu Yueming of the Baiyue Sect with his Death King Gate, Ye Fan steps in, is mistaken for the Yaoguang Holy Son and then for the Ji Divine Body, and reveals himself with the Chaos Green Lotus. He shatters Wang Chongxiao's holy weapons with the Immortal Wall and more visions, and Wang Chongxiao withdraws. Ye Fan then reaches the edge of the Ancient Desolate Forbidden Land.",
+  "events": [
+    "Ye Fan says goodbye to Pang Bo and gives him Phoenix Blood Red Gold",
+    "He entrusts Tingting to Jiang Taixu and receives the Qilin seed",
+    "He gives An Miaoyi the Immortal Enlightenment Gem",
+    "Hei Huang's teleport misfires by 1.5 million li",
+    "Ye Huiling and Wang Chongxiao on the boat",
+    "Wang Chongxiao beats Xu Yueming; Ye Fan defeats Wang Chongxiao",
+    "Ye Fan arrives at the edge of the Ancient Desolate Forbidden Land"
+  ],
+  "introduced": [
+    "Wang Chongxiao",
+    "Ye Huiling",
+    "Xu Yueming (Baiyue Sect)",
+    "Phoenix Blood Red Gold",
+    "Death King Gate",
+    "Sky-Covering Robe"
+  ],
+  "cultivation": "Captions: Ye Huiling, Four Poles; Wang Chongxiao, Four Poles; Xu Yueming (Baiyue Sect), Four Poles.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Travels unrecognised until he reveals the Chaos Green Lotus",
+      "first": false
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jiang-tingting",
+      "name": "Tingting",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jiang-taixu",
+      "name": "Jiang Taixu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "an-miaoyi",
+      "name": "An Miaoyi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Ye Huiling",
+      "realm": "Four Poles",
+      "quote": "[Ye Hulling, Alam Empat Kutub]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Wang Chongxiao",
+      "realm": "Four Poles",
+      "quote": "[Wang Chongxiao, Alam Empat Kutub]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Xu Yueming",
+      "realm": "Four Poles",
+      "quote": "[Xu Yueming, Sekte Baiyue, Empat Tiang]",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Added the farewells (Pang Bo, Tingting, Taixu, An Miaoyi), the misfired teleport, the fight with Wang Chongxiao and the arrival at the Forbidden Land",
+    "Removed 'obtains the Nirvana Scripture here': it is taught in EP117"
+  ],
+  "flags": [
+    "Ye Huiling is spelled 'Ye Hulling' in captions and dialogue (09:33, 09:41, 15:44)",
+    "16:21-16:31 an unnamed speaker talks about 'the young lady' wearing the Sky-Covering Robe; unclear whether this means Ye Huiling or someone else",
+    "05:09 which cauldron Ye Fan leaves with Tingting is not named",
+    "Wang Chongxiao and Ye Huiling are not in _cast_glossary.tsv"
+  ]
+}

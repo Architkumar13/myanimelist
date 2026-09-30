@@ -1,0 +1,103 @@
+{
+ "ep": 170,
+ "title": "Scripture War at Ascension Cliff",
+ "summary": "At the full-moon exchange on Ascension Immortal Cliff, an ancient Saint-level killing formation goes off and old masters appear to grab the Divine Spirit Ancient Scripture: the Light King, the Human King, Daoist Qinggu and the Golden Crow King, all at Immortal Platform 3rd Heaven. Yin Tiande, supposedly in seclusion, then shows up, summons Qing Niu, the Divine Ox King who is Laozi's mount (3rd Heaven), with a Qin-era seal script, and uses One Qi Transforms into Three Pure Ones to seize the scripture. Ye Fan intercepts Yin Tiande's fading manifestation, and with Guanghan Palace's sacred weapon, which Yi Qingwu has secretly lent him, plus the Goddess Furnace, he escapes through the ancient formation into Bajing Palace's Taiqing Holy Realm. There he finds the Dao De Jing carved in Earth's script and grasps One Qi Transforms into Three Pure Ones, which opens a black-hole passage heading not to Earth but to Beidou. Accepting that his karma lies in Beidou, he silently addresses his parents after twelve years away. Li Tian and Yan Yixi come with him to rebuild their sect, while Yi Qingwu says goodbye, promising to become a Saint and one day come to Beidou. In Beidou's Demon City, a friend of Ye Fan's who hopes one of them makes it back to their parents fights off killers sent by the Heavenly Emperor's Son.",
+ "events": [
+  "The killing formation goes off and ancient kings appear",
+  "The Golden Crow King comes to settle old grudges",
+  "Yin Tiande summons Qing Niu and uses One Qi Transforms into Three Pure Ones",
+  "Ye Fan intercepts Yin Tiande's manifestation with the Guanghan Palace weapon",
+  "In the Taiqing Holy Realm, Ye Fan grasps One Qi Transforms into Three Pure Ones",
+  "A passage opens toward Beidou",
+  "Farewell to Yi Qingwu",
+  "In Demon City, a friend of Ye Fan's is attacked by the Heavenly Emperor's Son's men"
+ ],
+ "introduced": [
+  "Light King",
+  "Human King",
+  "Daoist Qinggu",
+  "Qing Niu (Divine Ox King)",
+  "One Qi Transforms into Three Pure Ones",
+  "Dao De Jing (carved)",
+  "Demon City"
+ ],
+ "cultivation": "Captions at Immortal Platform 3rd Heaven: Light King, Human King, Daoist Qinggu, Golden Crow King, Qing Niu. Ye Fan's realm isn't stated.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yin-tiande",
+   "name": "Yin Tiande",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Golden Crow King",
+   "realm": "Immortal Platform 3rd Heaven",
+   "quote": "[Raja Gagak Emas, Platform Abadi Tiga Surga]",
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Qing Niu (Divine Ox King)",
+   "realm": "Immortal Platform 3rd Heaven",
+   "quote": "[Qing Niu, Raja Dewa Sapi, Platform Abadi Tiga Surga]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "yi-qingwu",
+   "name": "Yi Qingwu",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-tian",
+   "name": "Li Tian",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yan-yixi",
+   "name": "Yan Yixi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "pang-bo",
+   "name": "Pang Bo (probable, Demon City scene)",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "Nothing in these subtitles mentions the Zhe secret or a healing secret in the scripture. That claim is removed.",
+  "The Green Ox is named Qing Niu, the Divine Ox King (3rd Heaven), summoned only for an hour as a projection.",
+  "Ye Fan gains One Qi Transforms into Three Pure Ones, the lower volume of the Dao De Jing, which opens the passage. The subtitles speak of a black-hole route more than a five-colour altar.",
+  "Added the Demon City cliffhanger."
+ ],
+ "flags": [
+  "17:23–18:51: the Demon City character isn't named on screen. He talks about 'one of us getting home to take care of our parents' (an Earth classmate), and the attackers call him 'Putra Suci' (Holy Son) and say they serve the Heavenly Emperor's Son. Probably Pang Bo, but that's unconfirmed.",
+  "10:40: which half-page Ye Fan takes, and how the scripture ends up with him, is compressed. He thanks Yin Tiande's manifestation for 'helping me get this half page'.",
+  "16:10: 'Dua belas tahun telah berlalu' (twelve years) versus 'more than ten years' elsewhere. The two fit together."
+ ]
+}

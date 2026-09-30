@@ -1,0 +1,94 @@
+{
+ "ep": 126,
+ "title": "Braving the Undying Mountain",
+ "summary": "Hei Huang's teleport lands the group in Wang Kong City, six million li off course, where he mourns a Great Emperor who once stargazed there. They see an unidentified flying object from outer space and chase it toward the Undying Mountain, one of the seven Life Forbidden Zones, where an ancient formation throws them deep inside past the River of Forgetfulness and the Yellow Springs. Nannan wanders unharmed among the Headless Knights and can see the Void Great Emperor's formation lines, which lets her guide them. They find a flayed Sage's skin inscribed with the first volume of the Heavenly Court's divine killing art, then the Ancient Enlightenment Tea Tree, where an afterimage of a Great Emperor (Hei Huang suggests Wu Shi) appears; they strip leaves before the tree runs off. Surrounded by Headless Knights, they escape through the Void Emperor's broken 'Gate of Life' formation by playing it as a Go board, with Tu Fei and Li Heishui placing the stones. Hei Huang's throw scatters them: Pang Bo lands in the Central States and Tu Fei in the Northern Plains.",
+ "events": [
+  "Mistaken teleport to Wang Kong City",
+  "UFO chased to the Undying Mountain",
+  "Nannan passes the Headless Knights and reads the Void Emperor's formation lines",
+  "The Heavenly Court killing art (vol. 1) found on a Sage's skin",
+  "The Enlightenment Tea Tree and a Great Emperor's afterimage; leaves taken, tree flees",
+  "The Go-board escape through the Void Emperor's Gate of Life",
+  "Pang Bo sent to the Central States, Tu Fei to the Northern Plains"
+ ],
+ "introduced": [
+  "Wang Kong City",
+  "Undying Mountain",
+  "Headless Knights",
+  "Ancient Enlightenment Tea Tree",
+  "Heavenly Court divine killing art",
+  "Void Great Emperor's Gate of Life formation",
+  "River of Forgetfulness / Yellow Springs"
+ ],
+ "cultivation": null,
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "hei-huang",
+   "name": "Hei Huang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "nannan",
+   "name": "Nannan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "pang-bo",
+   "name": "Pang Bo",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "tu-fei",
+   "name": "Tu Fei",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-heishui",
+   "name": "Li Heishui",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "wu-shi",
+   "name": "Wu Shi",
+   "realm": null,
+   "quote": "Mungkin Kaisar Agung Wu Shi, Kaisar Agung yang Kejam...",
+   "look": null,
+   "first": true
+  }
+ ],
+ "changes": [
+  "Added the Wang Kong City detour, River of Forgetfulness, Nannan reading the formation lines, and the Go-board escape",
+  "The Great Emperor afterimage's identity is only guessed (Wu Shi or the Ruthless Emperor)"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "13:09: 'Mungkin Kaisar Agung Wu Shi, Kaisar Agung yang Kejam... pernah dibudidayakan' lists two emperors, so the afterimage isn't firmly identified as Wu Shi; Hei Huang's grief ('Bawalah aku bersamamu') suggests his master",
+  "03:35 'Kota Wang Kong' may be a mis-transcription",
+  "12:13: someone calls the tea tree good for 'a master who often gets struck by lightning'",
+  "20:56 onward is a preview of EP128's life-and-death pact"
+ ]
+}

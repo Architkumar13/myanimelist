@@ -1,0 +1,83 @@
+{
+  "ep": 108,
+  "title": "Li Fire Suppresses an Old Acquaintance",
+  "summary": "In the Holy City, Ye Fan finds Old Jiang and Tingting running an inn near the Jiang family, and learns that some in the Jiang clan no longer believe the Divine King Jiang Taixu is alive after 4,000 years of searching. To pass on the news secretly, he spreads it as rumour and sends the Jiang family a letter carrying the Dou secret that Jiang Taixu taught him under Purple Mountain. The Jiang Holy Lord and Jiang Yun (both Immortal Platform 2nd Heaven) recognise the Dou secret, and Jiang Yun swears as the Divine King's direct descendant to unseal the clan's ancestral weapon and bring him back. Jiang Yichen (Four Poles), who once hunted Ye Fan, comes after the Mother Qi cauldron and the Dou secret. Ye Fan beats him, but spares him when he claims Tingting's Taiyin body depends on his medicine, and extracts a Heavenly Life Fruit for her; Tingting in turn tells Ye Fan the scroll she gave him is the Hengyu Scripture. Narration says the Jiang family rescues Jiang Taixu from Purple Mountain at great cost, waking something ancient there, and his old enemies gather to wipe out the Jiang family. Ye Fan arrives at the Jiang gates asking to see the Divine King.",
+  "events": [
+    "Ye Fan reunites with Old Jiang and Tingting",
+    "He sends the Jiang family a letter carrying the Dou secret",
+    "Jiang Yun vows to rescue the Divine King",
+    "Jiang Yichen attacks Ye Fan and is beaten",
+    "Tingting's Taiyin body; the Heavenly Life Fruit; the Hengyu Scripture",
+    "Narration: the Jiang family rescues Jiang Taixu from Purple Mountain",
+    "The Divine King's enemies gather; Ye Fan comes to the Jiang gates"
+  ],
+  "introduced": [
+    "Jiang Yun",
+    "Jiang family Holy Lord",
+    "Taiyin body",
+    "Heavenly Life Fruit",
+    "Hengyu Scripture (Four Poles volume)"
+  ],
+  "cultivation": "Captions: Jiang family Holy Lord, Immortal Platform 2nd Heaven; Jiang Yun, Immortal Platform 2nd Heaven; Jiang Yichen, Four Poles.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "old-jiang",
+      "name": "Old Jiang",
+      "realm": null,
+      "quote": "[Paman Jiang]",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jiang-tingting",
+      "name": "Tingting",
+      "realm": null,
+      "quote": "[Jiang Tingting, Keluarga Jiang Kuno]",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Jiang family Holy Lord",
+      "realm": "Immortal Platform (2nd Heaven)",
+      "quote": "[Tuan Suci Keluarga Jiang Kuno, Platform Abadi Surga Kedua]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "jiang-yun",
+      "name": "Jiang Yun",
+      "realm": "Immortal Platform (2nd Heaven)",
+      "quote": "[Jiang Yun, Keluarga Jiang Kuno, Platform Abadi Surga Kedua]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "jiang-yichen",
+      "name": "Jiang Yichen",
+      "realm": "Four Poles",
+      "quote": "[Jiang Xichen, Keluarga Jiang Kuno, Alam Empat Kutub]",
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "The opponent is Jiang Yichen, an old acquaintance (hence the title), not a new 'Jiang Xichen': the caption says Xichen, but he calls himself Jiang Yichen at 11:18 and says 'I should have killed you at Taixuan'",
+    "Added the Dou-secret letter, Jiang Yun's vow, Tingting's Taiyin body and the Hengyu Scripture reveal, and the narrated rescue of Jiang Taixu",
+    "The Li Fire furnace isn't named in this fight, so it was dropped from the summary"
+  ],
+  "flags": [
+    "09:59 caption 'Jiang Xichen' against 11:18 'Jiang Yichen pasti akan mendapat tempat!' - treated as a caption error",
+    "15:22 'kali ini aku tidak akan repot-repot mencarikan tempat untukmu' is ambiguous about whether Jiang Yichen is sealed; EP111 11:04 ('you even sealed someone from the Jiang family') suggests he was",
+    "03:08-03:12 the recap header is repeated three times"
+  ]
+}

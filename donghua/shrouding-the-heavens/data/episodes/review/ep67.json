@@ -1,0 +1,78 @@
+{
+  "ep": 67,
+  "title": "Descendants of the Great Bandits",
+  "summary": "Ye Fan comes out of the cursed gallery alive with the evil source, and Elder Li of Yaoguang praises his nerve, then decides that since he is a cultivator he must survive a Four Poles strike or be crippled and kept mining. Jiang Yi, ninth of the 13 Great Bandits and a Jiang family deserter, raids the mine; Yaoguang's Supreme Elders join the fight, and Jiang Yi answers with the Jiang family's Eight Gods Brutal Force. In the chaos Ye Fan slips into the resource warehouse with the Void technique, planning to use its source to reach the Dao Palace, and runs into Tu Fei, a Dao Palace cultivator and grandson of Tu Tian, seventh of the 13 Great Bandits, who swallows the whole warehouse with his imitation Heaven-Swallowing Demon Pot. Tu Fei smells a familiar scent on Ye Fan's bottle and finds Yao Xi's handkerchief, the Yaoguang Holy Maiden's legendary love token, and is heartbroken that someone beat him to it. As Yaoguang disciples close in, the two flee together, Yao Xi turns up furious at Ye Fan, Tu Fei demands to know why she gave the token to Ye Fan and not him, and a Yaoguang Great Elder arrives.",
+  "events": [
+    "Ye Fan survives the evil source; Elder Li turns on him",
+    "Jiang Yi of the 13 Great Bandits raids the mine",
+    "Ye Fan slips into the source warehouse with the Void technique",
+    "He meets Tu Fei, who swallows the warehouse with his imitation Demon Pot",
+    "Tu Fei discovers Yao Xi's handkerchief on Ye Fan",
+    "Yao Xi confronts Ye Fan; Tu Fei is jealous",
+    "A Yaoguang Great Elder arrives"
+  ],
+  "introduced": [
+    "Elder Li (Yaoguang)",
+    "Jiang Yi",
+    "13 Great Bandits",
+    "Tu Fei",
+    "Tu Tian (named)",
+    "imitation Heaven-Swallowing Demon Pot",
+    "Yao Xi's handkerchief"
+  ],
+  "cultivation": "Elder Li threatens a Four Poles strike ('serangan Empat Kutubku'); Tu Fei is captioned at the Dao Palace realm.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Elder Li (Yaoguang)",
+      "realm": "Four Poles",
+      "quote": "Jika kamu bisa menahan serangan Empat Kutubku",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Jiang Yi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": "Dao Palace",
+      "quote": "[Tu Fei, Alam Istana Dao]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "yao-xi",
+      "name": "Yao Xi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Added Jiang Yi's raid, which the old summary left out",
+    "Tu Fei's fixation on Yao Xi and her handkerchief is the source of the comedy here",
+    "Elder Li is at the Four Poles realm"
+  ],
+  "flags": [
+    "10:56 'Kamu Tian' ('you Tian') is a mistranslation of Tu Tian, like 'Kamu penggemar' for Ye Fan",
+    "'Elder Li' of Yaoguang is a different person from Li Ruoyu (Taixuan)",
+    "Jiang Yi's caption is 'Bandit Peringkat 9' (9th-ranked bandit); he is not in the glossary",
+    "The Yaoguang 'Supreme Elder' (06:24) and 'Great Elder' (17:45) may be different people"
+  ]
+}

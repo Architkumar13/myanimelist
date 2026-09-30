@@ -1,0 +1,74 @@
+{
+  "ep": 60,
+  "title": "Repaying Kindness with Enmity",
+  "summary": "Ji Ren apologises to Ziyue for arriving late, and then Great-Aunt Ji Hui, a Four Poles elder, drives off the pursuers and says Ji Haoyue is safe and being treated at the Ji Residence. Ji Hui coldly warns Ye Fan away from Ziyue and gives him a small reward to 'draw a clear line'. Hua Yunfei arrives, and Ji Hui explains that her mother was a Hua from Taixuan, so Yunfei is family, and that she arranged his duel with Haoyue two years ago. Before Ye Fan leaves, Ziyue warns him never to use the Void technique in front of Ji members and gives him her jade pendant. On the road, Ji Ren, who learned only half the Void technique in 60 years of service, ambushes him to 'take it back', transforms into his true form and uses a True Spirit Artifact. Ye Fan tricks him into absorbing Xuanhuang Qi heavy enough to flatten a mountain, and as Ji Ren begs for his life Ji Hui appears, admits she sent him, and warns that killing Ji Ren makes Ye Fan an enemy of the Ji family; Ye Fan answers that one day he will walk into the Ji family's holy land and tells the 'smelly old woman' to live long enough to see it.",
+  "events": [
+    "Ji Hui rescues Ziyue and Ye Fan from the pursuers",
+    "Ji Hui warns Ye Fan off Ziyue and pays him off",
+    "Hua Yunfei visits; Ji Hui reveals he is family",
+    "Ziyue gives Ye Fan her jade pendant and a warning",
+    "Ji Ren ambushes Ye Fan to reclaim the Void technique",
+    "Ye Fan crushes him with Xuanhuang Qi",
+    "Ji Hui reveals she sent Ji Ren; Ye Fan defies her"
+  ],
+  "introduced": [
+    "Ji Hui",
+    "Ziyue's jade pendant",
+    "Source (info card)"
+  ],
+  "cultivation": "Ji Hui is captioned at the Four Poles realm.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": null,
+      "name": "Ji Ren",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-hui",
+      "name": "Ji Hui",
+      "realm": "Four Poles",
+      "quote": "[Ji Hui, Keluarga Ji Kuno, Alam Empat Kutub]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hua-yunfei",
+      "name": "Hua Yunfei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "The 'betrayal' comes from Ji Hui, who sends her servant Ji Ren to take back the Void technique",
+    "Added Ji Hui's family ties to Hua Yunfei and Ziyue's jade pendant",
+    "Ji Ren's death is confirmed only at the start of EP61; this episode ends with Ji Hui's threat"
+  ],
+  "flags": [
+    "12:02 'Ji Shui' is almost certainly a mistranslation of Ji Hui",
+    "It isn't clearly shown whether Ye Fan kills Ji Ren on screen at the end; EP61 (05:11, 04:34) states Ji Ren is dead and blames Ye Fan",
+    "Ji Ren's 'true form' (14:01) isn't described in the subs",
+    "'Energi Hitam-yellow' = Xuanhuang Qi (Black-Yellow Qi)"
+  ]
+}

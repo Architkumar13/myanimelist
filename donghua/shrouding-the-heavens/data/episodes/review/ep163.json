@@ -1,0 +1,89 @@
+{
+ "ep": 163,
+ "title": "Yan Yixi and the Golden Crows",
+ "summary": "On Ziwei, guests at Sky Wolf Palace's birthday feast for its 'Old Wolf God' talk about Yin Tiande, who is out to avenge his younger brother Yin Tianzhi, and about his circle: the Taiyin Divine Son, Priest San Que and Lu Ya, the Golden Crow clan's Sixth Prince. Ye Fan, whose face is on a wanted portrait, turns up openly and meets the wanderer Yan Yixi, whom the Golden Crows are hunting for spending time with their young princess. When the Golden Crow Ninth Prince (Immortal Platform 2nd Heaven) arrives, Ye Fan beats him in a duel, then takes on a clone of Lu Ya with the Six-Path Samsara Fist and a newly revealed bow, cutting off the clone's soul and seizing its Golden Banner; Lu Ya swears to settle the karma in person. Yan Yixi asks Ye Fan to help find the Fusang Divine Tree, the Sun Holy Emperor's immortal medicine, whose resting place in the North Sea can only be reached with a map broken into 36 fragments. They plan to ambush fragment carriers at Falling Star River, and Yan names Yi Qingwu of Guanghan Palace, Ziwei's greatest beauty and Yin Tiande's Dao companion, as their target. Yan's junior brother Li Tian joins them: Yan practises the Emotion-Severing Art and Li Tian the Six Heavenly Desires Art, two opposing teachings from the same master.",
+ "events": [
+  "Sky Wolf Palace guests discuss Yin Tiande and the 'Four Young Masters of Ziwei'",
+  "Ye Fan shows up at the feast and meets Yan Yixi",
+  "Ye Fan defeats the Golden Crow Ninth Prince",
+  "Ye Fan cuts off Lu Ya's clone and takes its Golden Banner",
+  "Yan Yixi tells him about the Fusang Divine Tree and the 36-piece map",
+  "They agree to ambush Yi Qingwu at Falling Star River",
+  "Li Tian arrives and joins the group"
+ ],
+ "introduced": [
+  "Yan Yixi",
+  "Sky Wolf Palace",
+  "Golden Crow Ninth Prince",
+  "Lu Ya (clone)",
+  "Golden Crow clan (on screen)",
+  "Fusang Divine Tree",
+  "Guanghan Palace (named)",
+  "Yi Qingwu (named)",
+  "Taiyin Divine Son (named)",
+  "Priest San Que (named)"
+ ],
+ "cultivation": "Captions: Yan Yixi is at Immortal Platform; the Golden Crow Ninth Prince is at Immortal Platform 2nd Heaven. Ye Fan's own realm isn't stated.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yan-yixi",
+   "name": "Yan Yixi",
+   "realm": "Immortal Platform",
+   "quote": "[Yan Yixi, Pengembara, Alam Platform Abadi]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "li-tian",
+   "name": "Li Tian",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Golden Crow Ninth Prince",
+   "realm": "Immortal Platform 2nd Heaven",
+   "quote": "[Pangeran Kesembilan, Suku Gagak Emas, Platform Abadi Surga Kedua]",
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "lu-ya",
+   "name": "Lu Ya (clone)",
+   "realm": null,
+   "quote": "[Tubuh Klon Lu Ya, Pangeran Keenam, Suku Gagak Emas]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "yin-tiande",
+   "name": "Yin Tiande (mentioned)",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "The old summary said the Old Madman storms the ancient ship and that Ye Fan and the Old Madman repel the demon race. None of this is in EP163; the Old Madman doesn't appear. The Old Madman's clash with the bronze warship is only reported, second-hand, in EP167.",
+  "The Golden Crow prince Ye Fan beats is the Ninth Prince, at the Sky Wolf Palace feast. The old summary's 'meddled for Bajing Palace' framing isn't supported.",
+  "Added the Lu Ya clone fight, the Golden Banner, the Fusang map plan and the Yi Qingwu target.",
+  "Li Tian is Yan Yixi's junior brother; he appears at the end, not as a co-founder of an alliance."
+ ],
+ "flags": [
+  "12:24–13:36: it isn't explicitly shown whether the Ninth Prince dies. The Golden Crows declare Ye Fan an eternal enemy, and Lu Ya's clone taunts him for fighting 'with only a corpse' (14:54), which suggests the prince is dead. EP169 later speaks of Lu Ya's nine brothers all being dead.",
+  "15:53: the bow is captioned 'Busur Kavaleri Sepuluh Ribu' (Ten-Thousand-Cavalry Bow); the old summary calls it the Wanshang Bow. The canonical name is uncertain.",
+  "21:48: the speaker of 'Saya mengasah Seni Memutus Perasaan' isn't identified. It reads as Yan Yixi (Emotion-Severing), with Li Tian on Six Heavenly Desires."
+ ]
+}

@@ -1,0 +1,76 @@
+{
+  "ep": 142,
+  "title": "Three Seals, Immortal Mansion",
+  "summary": "Qi Qi (Qi Huoshui), princess of the Southern Ridge Demon Emperor Palace, attacks Ye Fan for eating her dragon horse and traps him in her '3,000 Small Worlds' art. Ye Fan burns his way out with spiritual force, then overpowers her in his own spiritual space. She threatens him with her brother the Southern Demon, and to be let go she leads him to a newly found immortal mansion full of dragon marrow. Ye Fan leaves her tied up at the entrance and goes in alone. Inside, the mansion's spirit beasts, including an ancient giant snake and a Thunder King bird, are going berserk because three seals that kept them calm have been stolen. Ye Fan finds Ji Haoyue and Ji Ziyue ambushed by a group and a hidden archer. He kills the archer and takes the Three Seals (Human King, Heaven Overturning, Mountain Embracing) and the Wanshang Bow. He then beats Yan Yunluan, who claims both treasures, drawing the bow more often than Yan thought possible. Ji Haoyue gives him dragon marrow, and Ji Ziyue sees through his disguise.",
+  "events": [
+    "Qi Qi traps Ye Fan in her 3,000 Small Worlds art; he burns it away",
+    "He overpowers her and demands dragon marrow",
+    "Qi Qi leads him to the immortal mansion; he leaves her tied up",
+    "The mansion's beasts rampage because three seals are missing",
+    "Ye Fan saves Ji Haoyue and Ji Ziyue and kills the hidden archer",
+    "He takes the Three Seals and the Wanshang Bow and beats Yan Yunluan",
+    "Ji Haoyue gives him dragon marrow; Ji Ziyue recognises him"
+  ],
+  "introduced": [
+    "Qi Huoshui (Qi Qi)",
+    "Yan Yunluan",
+    "Wanshang Bow",
+    "Three Seals of Heaven, Earth and Man",
+    "Immortal mansion (Xianfu) world",
+    "Southern Ridge Demon Emperor Palace"
+  ],
+  "cultivation": "Qi Qi: Dragon Transformation 2nd level; Yan Yunluan: Dragon Transformation (captions). The mansion's giant snake is said to be at half-step Great Power.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "qi-huoshui",
+      "name": "Qi Huoshui",
+      "realm": "Dragon Transformation",
+      "quote": "[Qi Qi, Aula Kaisar Iblis Pegunungan Selatan, Transformasi Naga Tingkat 2]",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Yan Yunluan",
+      "realm": "Dragon Transformation",
+      "quote": "[Yan Yunluan, Alam Transformasi Naga]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "ji-haoyue",
+      "name": "Ji Haoyue",
+      "realm": null,
+      "quote": null,
+      "look": "Badly wounded",
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Still wearing a changed face",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Ye Fan does not make Qi Huoshui his maid. He beats her, extorts her for dragon marrow, and leaves her tied up",
+    "Ye Fan gets the Wanshang Bow here, not in EP143, along with the Three Seals",
+    "Yan Yunluan is beaten with his own bow in this episode"
+  ],
+  "flags": [
+    "11:50–11:53 'Untuk bisa membunuh dua dari kita... Tetua Tertinggi Tingkat 8 sendirian' is garbled. It probably means Ji Haoyue alone killed two of the attackers' 8th-level supreme elders",
+    "It is unclear whether the hidden archer Ye Fan kills (14:01–14:20) works for Yan Yunluan. Yan claims the seals and bow as his at 15:00",
+    "Qi Qi's brother is named only as 'Setan Selatan' (Southern Demon); EP143 gives the name Qi Lin"
+  ]
+}

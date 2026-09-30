@@ -1,0 +1,80 @@
+{
+  "ep": 94,
+  "title": "God-Beating Whip Shows Its Might",
+  "summary": "At Heishi Village a Divine Source on the tower powers a Soul-Sealing Dome that keeps Tu Fei and the other captives powerless. Ye Fan sends Hei Huang to crack the source's shell while he deals with Chen De. Xu Yuan, back in charge, tramples Tu Fei and demands Ye Fan's cauldron. Ye Fan offers the cauldron in exchange for the Divine Source and Tu Fei's freedom. Chen De takes it 'on his master's behalf' and refuses the deal. In the fight, slaves are freed in the name of Tu Tian, the Seventh Great Bandit, and Hei Huang's Source Control formation brings down the dome. Chen De uses a Ji family secret technique he had promised Ji Hui never to use. Ye Fan breaks through to the third level of Dao Palace and beats him, and Chen De begs, offering to patch things up with the Ji family. Xu Yuan offers the secret of the ancient tomb in Li City to save himself. Tu Fei rejects his 'brotherhood', and Xu Yuan calls on his grandfather: a projection of Xu Tianxiong, at the Immortal Platform, appears.",
+  "events": [
+    "The Soul-Sealing Dome runs on a Divine Source atop a tower",
+    "Ye Fan offers the cauldron for the Divine Source and Tu Fei; Chen De reneges",
+    "Slaves are freed in Tu Tian's name and the dome is broken",
+    "Chen De uses a Ji family secret technique",
+    "Ye Fan breaks through to Dao Palace Level 3 and beats Chen De",
+    "Xu Yuan offers the Li City tomb secret",
+    "A projection of Xu Tianxiong (Immortal Platform) appears"
+  ],
+  "introduced": [
+    "Soul-Sealing Dome",
+    "Xu Tianxiong (projection)"
+  ],
+  "cultivation": "Ye Fan starts at 'Istana Dao Tingkat 2' (10:40) and breaks through to Level 3 (caption '[Istana Dao Tingkat 3]', 15:54; 'Kamu hanya Istana Dao Level 3', 16:59). The Xu Tianxiong projection is at Immortal Platform (caption 18:20).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Dao Palace",
+      "quote": "[Istana Dao Tingkat 3] (15:54)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "chen-de",
+      "name": "Chen De",
+      "realm": "Four Poles",
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "xu-yuan",
+      "name": "Xu Yuan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "xu-tianxiong",
+      "name": "Xu Tianxiong",
+      "realm": "Immortal Platform",
+      "quote": "[Proyeksi Xu Tianxiong, Bandit Besar ke-13, Alam Platform Abadi] (18:20)",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "The breakthrough is now tied to the captioned 'Dao Palace Level 3'. Dropped '10,000 pure source / Liver treasury', which the subtitles don't state.",
+    "The whip is obtained in EP92. The fighting here centers on the cauldron trade and the dome, and the Xu Tianxiong projection only appears at the very end (the whip strikes it in EP95)."
+  ],
+  "flags": [
+    "18:20 caption: 'Bandit Besar ke-13' (13th Great Bandit) contradicts the info card at 18:30 and EP93 9:41, which both say he's the 3rd Great Bandit. It's probably a caption error.",
+    "17:02 'mengalahkanku yang berada di Dao Palace Level 4' contradicts Chen De's Four Poles caption. It's probably a mistranslation of 四极 (Four Poles) as 'level 4'.",
+    "The episode title mentions the whip, but the subtitles never say it's used in EP94. It's first used on screen at EP95 5:22.",
+    "It isn't said whether Chen De survives. 'Terima kasih' (17:13) is ambiguous."
+  ]
+}

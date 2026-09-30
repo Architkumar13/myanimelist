@@ -1,0 +1,75 @@
+{
+  "ep": 160,
+  "title": "The Young Old Madman",
+  "summary": "In Tianyuan City on Ziwei, people panic, taking Ye Fan's fall for the arrival of the ancient clans, who once fed on Ziwei's people after the age of the Great Emperors. The flirt Li Tian shows up offering 'protection' to fleeing girls. Two Golden Crow princes decide to shelter at home and guard a treasure under the North Sea. A mysterious Saint has been sitting motionless outside the city, and Ye Fan finds it is the Old Madman. When ancient kings (Black Gold and Divine Phoenix among them) land, Ye Fan defends the Old Madman's body. The Old Madman wakes, uses Taiyin power to return to his youth, kills an ancient king in an instant, and drives off the three ancestral kings. He recalls losing once six thousand years ago and parting from Ye Fan at the Holy Abyss. Ye Fan tells him he is from Earth, and the Old Madman warns that the Thousand-Armed Divine Demon will soon wake.",
+  "events": [
+    "Tianyuan City panics over the ancient clans",
+    "Li Tian flirts with fleeing girls",
+    "Golden Crow princes decide to guard their own territory",
+    "Ye Fan finds the Old Madman sitting like a corpse and defends him",
+    "The Old Madman wakes, turns young with Taiyin power, and routs the ancient kings",
+    "Old Madman and Ye Fan reunite; he warns of the Thousand-Armed Divine Demon"
+  ],
+  "introduced": [
+    "Li Tian",
+    "Tianyuan City",
+    "Ancient clans",
+    "Black Gold Ancient King",
+    "Divine Phoenix Ancient King",
+    "Golden Crow Ninth Prince",
+    "Thousand-Armed Divine Demon (named)"
+  ],
+  "cultivation": "Golden Crow Ninth Prince: Immortal Platform 2nd Heaven (caption).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "old-madman",
+      "name": "Old Madman",
+      "realm": null,
+      "quote": null,
+      "look": "Turns young again with Taiyin power",
+      "first": false
+    },
+    {
+      "id": "li-tian",
+      "name": "Li Tian",
+      "realm": null,
+      "quote": "[Li Tian]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Golden Crow Ninth Prince",
+      "realm": "Immortal Platform",
+      "quote": "[Pangeran Kesembilan dari Klan Gagak Emas, Platform Abadi Surga Kedua]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "lu-ya",
+      "name": "Lu Ya",
+      "realm": null,
+      "quote": null,
+      "look": "Addressed as 'Saudara Keenam' (Sixth Brother) by the Ninth Prince; not named",
+      "first": true
+    },
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "The Old Madman fights the ancient kings; there are no 'great saints' in this episode (they come in EP161)",
+    "Li Tian's debut is confirmed",
+    "Added the Golden Crow princes and the Old Madman's warning about the Thousand-Armed Divine Demon"
+  ],
+  "flags": [
+    "05:41 the Ninth Prince speaks to 'Saudara Keenam'. EP163 04:49 says the Golden Crow Sixth Prince is Lu Ya, so Lu Ya may be on screen here (glossary first EP165); not certain it is him",
+    "16:43 'setelah berpisah di Jurang Suci' (Holy Abyss): where they last parted"
+  ]
+}

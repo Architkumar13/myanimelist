@@ -1,0 +1,70 @@
+{
+  "ep": 54,
+  "title": "Meeting the Old Madman Again",
+  "summary": "Ye Fan follows the Old Madman through a barrier hidden inside the mountain to Taixuan's Domain Gate into the Forbidden Land, where three guardian elders attack the madman as he breaks the formation, crying that he must go back and save 'them'. In the Void Corridor, Ye Fan tells him he was brought to Beidou from his home and begs to learn the technique to return, but the madman only repeats that everyone is dead and Tianxuan has fallen, then wraps himself in a cocoon of divine silk as the gate collapses in void destruction while protecting Ye Fan. Ziyue finds Ye Fan apparently lifeless; when he wakes she bites him and makes him promise never to vanish without a word again. Li Ruoyu warns that destroying the Domain Gate is a crime even he cannot shoulder. Taixuan elders identify Tianxuan formation patterns on the cocoon, meaning it holds a Tianxuan expert from 6,000 years ago, before Ji Hong claims it for the Ji family. As word spreads to the great families and holy lands, Li Ruoyu tells Ye Fan to stay hidden, and a zither's sound draws him away.",
+  "events": [
+    "Ye Fan follows the Old Madman to Taixuan's Domain Gate",
+    "Three Taixuan elders fail to stop the madman",
+    "In the Void Corridor, the madman grieves that Tianxuan has fallen",
+    "The madman cocoons himself as the Domain Gate collapses, shielding Ye Fan",
+    "Ziyue finds Ye Fan alive and makes him promise not to leave",
+    "Taixuan elders recognise Tianxuan patterns on the cocoon",
+    "Ji Hong claims the cocoon for the Ji family; a zither sounds"
+  ],
+  "introduced": [
+    "Void Corridor",
+    "divine silk cocoon"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "old-madman",
+      "name": "Old Madman",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "li-ruoyu",
+      "name": "Li Ruoyu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-hong",
+      "name": "Ji Hong",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Old summary only gave the title; added the Domain Gate break-in, the cocoon, its destruction, and Ji Hong's claim",
+    "Ye Fan tells the madman he comes from another world (Earth) to Beidou"
+  ],
+  "flags": [
+    "The 18:38 card calls the madman a 'Celestial Jade' (Tianxuan) figure from 6,000 years ago; 'Langit Giok' / 'Langit Surgawi' / 'Celestial Jade' all mean Tianxuan",
+    "Who plays the zither at 18:26 is shown next episode (Hua Yunfei)"
+  ]
+}

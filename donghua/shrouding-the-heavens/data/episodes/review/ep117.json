@@ -1,0 +1,95 @@
+{
+  "ep": 117,
+  "title": "Nirvana Scripture Soothes Wounds",
+  "summary": "The Feng clan's Holy Lord apologises to Jiang Taixu because his spoiled daughter Feng Fenghuang refuses the match, and offers Ye Fan medicine, which Ye Fan says cannot heal a wound made by the Great Dao. Ye Fan tells his friends not to risk themselves hunting for cures and says he has a plan. Feng Fenghuang (Four Poles) then comes in person to reject the engagement, saying she would only marry someone who could become a Great Emperor. As the Holy Lands and the Ji family celebrate Ye Fan's coming death, killers are sent to check whether he is dead, and he kills them. He goes to bid An Miaoyi farewell, and she teaches him the Nirvana Scripture, an essence left by a disciple of the Buddha that can slow decline and heal, and combines it with a Miaoyu secret art. Neither can heal the Great Dao wound. An Miaoyi explains that the Holy Body may need the power of heaven and earth from ancient times, which survives only in the seven Life Forbidden Zones, and Ye Fan chooses to risk them rather than live on without power.",
+  "events": [
+    "The Feng Holy Lord apologises; Feng Fenghuang refuses the match",
+    "Ye Fan says ordinary medicine can't heal a Great Dao wound",
+    "Feng Fenghuang rejects Ye Fan in person",
+    "Ye Fan kills the assassins sent to check on him",
+    "An Miaoyi teaches him the Nirvana Scripture",
+    "The Nirvana Scripture and Miaoyu art fail to heal the wound",
+    "An Miaoyi points him to the seven Life Forbidden Zones"
+  ],
+  "introduced": [
+    "Nirvana Scripture",
+    "Feng clan Holy Lord",
+    "Seven Life Forbidden Zones (as a cure)"
+  ],
+  "cultivation": "Captions: Feng Huang (Feng Fenghuang), Feng clan, Four Poles. Info card: the Great Dao wound leaves half a year to live; lowering one's own realm can stop it getting worse.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jiang-taixu",
+      "name": "Jiang Taixu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Feng clan Holy Lord",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Feng Lie",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "feng-fenghuang",
+      "name": "Feng Fenghuang",
+      "realm": "Four Poles",
+      "quote": "[Feng Huang, Klan Feng, Alam Empat Kutub]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "an-miaoyi",
+      "name": "An Miaoyi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Ye Fan gets the Nirvana Scripture in this episode, from An Miaoyi, not in EP118 as the wiki claims",
+    "Added Feng Fenghuang's first on-screen appearance and her rejection, the assassins, and An Miaoyi pointing him to the Life Forbidden Zones"
+  ],
+  "flags": [
+    "16:14 'Biara Wuyuan' is probably a mistranslation of Miaoyu Nunnery",
+    "10:18 'Peta Jalur Langit' (Sky Path Map) - one assassin imitates an unexplained technique"
+  ]
+}

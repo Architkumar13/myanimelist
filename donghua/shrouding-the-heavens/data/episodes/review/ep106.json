@@ -1,0 +1,94 @@
+{
+  "ep": 106,
+  "title": "Ancient Divine Silkworm",
+  "summary": "The Ancient Divine Silkworm, a primordial creature that eats divine source and can go through nine transformations, turns into a dragon and nearly escapes before it is caught, and Gu Feng is declared champion with over a million jin of source. When Daoyi, the Ji family and Yaoguang bid for it, Gu Feng offers ten-year 'rentals' instead, and Great Xia pays 800,000 jin because the prince's younger sister wants it. An Miaoyi asks Gu Feng to deliver a box to the Ancient Holy Body that may help him reach the Four Poles. At New Stone Village, Ye Fan absorbs his winnings and breaks into Dao Palace Level 5. Pang Bo arrives from the demon lands, having wounded Yaoguang's Holy Son candidate Li Rui, who fled to the Ice and Snow Palace, and warns that the Zifu Holy Land is also hunting Ye Fan. They form a 'Holy Hunter' team, run down Li Rui, and seal a captive in the furnace before finding a Five-Colored Altar.",
+  "events": [
+    "The Divine Silkworm transforms and is caught",
+    "Gu Feng wins the tournament with over a million jin",
+    "The silkworm is rented to Great Xia for 800,000 jin for ten years",
+    "An Miaoyi gives Gu Feng a box for the Holy Body",
+    "Ye Fan breaks into Dao Palace Level 5 at New Stone Village",
+    "Pang Bo returns and reports on Li Rui and the Zifu Holy Land",
+    "The 'Holy Hunter' team hunts Li Rui",
+    "They find a Five-Colored Altar"
+  ],
+  "introduced": [
+    "Li Rui",
+    "Ice and Snow Palace",
+    "Zifu Holy Land",
+    "New Stone Village",
+    "Five-Colored Altar",
+    "Holy Hunter team"
+  ],
+  "cultivation": "Ye Fan reaches Dao Palace Level 5 ('Istana Dao tingkat lima... jadi beginilah rasanya'), completing all five Dao Palace levels.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Dao Palace (Level 5)",
+      "quote": "Istana Dao tingkat lima",
+      "look": "Gu Feng disguise at the tournament; himself at the village",
+      "first": false
+    },
+    {
+      "id": "an-miaoyi",
+      "name": "An Miaoyi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "xia-yiming",
+      "name": "Xia Yiming",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Li Rui",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Added the rental deal with Great Xia, An Miaoyi's box, New Stone Village, Pang Bo's news about Li Rui and Zifu, and the Holy Hunter team",
+    "The subtitles say only 'Dao Palace Level 5'; the Kidney treasury and the million-source figure aren't named, so the fifth level is recorded without naming the organ"
+  ],
+  "flags": [
+    "04:47 'Tuan Muda Xiang' - who offers help catching the silkworm is unclear",
+    "07:44-07:53 the bidders are muddled (Daoyi, the Ji family and Yaoguang all mentioned)",
+    "09:23 the Great Xia buyer is not named; taken as Xia Yiming from EP103",
+    "17:17-18:07 whether Li Rui is killed ('Pergilah ke neraka') or sealed is ambiguous; someone is sealed 'to reflect', and EP111 later frees sealed captives",
+    "19:28-19:38 the closing lines are a preview of EP107/108 (the same lines close EP107) and were not counted"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "ep": 64,
+  "title": "Farewell to Ziyue",
+  "summary": "Ye Fan's Mother Qi manifests as armour and he turns on the black-robed man who hunted Ziyue, who is ready to die to claim the Ancient Holy Body for his Master; a flashback shows the man being recruited by that Master, who wants special physiques like Ziyue's and Ye Fan's. Ye Fan survives by a thread and then, speaking of Hua Yunfei's zither, makes clear he sees Hua Yunfei's hand in the attacks; Hua Yunfei lets him go with a 'we'll meet again'. Ziyue says Ji Hui will stop hunting him for her sake and begs to travel north with him, and he agrees, but he then leaves her behind, reasoning that he isn't of this world and the Ji family is the safest place for her. Hua Yunfei tells Ji Hui everything he did was for her and argues that Ye Fan's cauldron and Holy Body could one day shake the world, but she rebukes him for deciding on her behalf. At a Domain Gate town, a Xiaoyao Sect notice announces a Ji family bounty of 1,000 catties of source on Ye Fan, blamed for killing Ji Supreme Elder Ji Changkong in a great fire, and gate fees have risen to Source Stones. A 'doctor' who trades artifacts for Source Stones sets up a robbery by the Four Xiaoyao Immortals, whom Ye Fan beats, but in the gate queue the now-bearded Ye Fan is recognised and mobbed by bounty hunters.",
+  "events": [
+    "Ye Fan defeats the black-robed man, who sacrifices himself",
+    "A flashback shows the black-robed man serving a hidden Master",
+    "Ye Fan hints Hua Yunfei is behind it; Hua lets him go",
+    "Ye Fan agrees to travel with Ziyue, then leaves her for her safety",
+    "Hua Yunfei and Ji Hui argue over Ye Fan",
+    "A Ji family bounty of 1,000 catties of source is posted",
+    "Ye Fan beats the Four Xiaoyao Immortals and is recognised at the gate"
+  ],
+  "introduced": [
+    "Xiaoyao Sect",
+    "Ji Changkong (named)",
+    "Four Xiaoyao Immortals",
+    "Source Stones as Domain Gate fare"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "He now has a beard (18:14 'Dia bahkan memiliki janggut')",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "black-robed man (straw-cloaked)",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hua-yunfei",
+      "name": "Hua Yunfei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-hui",
+      "name": "Ji Hui",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "The masked-man fight is a black-robed physique hunter serving a hidden Master, not just 'a masked man'",
+    "Added the implied link to Hua Yunfei (his second appearance is not a simple cameo)",
+    "Added the bounty, the Xiaoyao Sect and the Domain Gate town"
+  ],
+  "flags": [
+    "09:09-10:05 Ye Fan never names Hua Yunfei as the Master outright; the link is implied by the zither remark and Hua's reply ('don't burn yourself')",
+    "12:20-13:00 the conversation between Hua Yunfei and Ji Hui is cryptic ('you've never failed before', 'Yunfei did it all for you')",
+    "13:30 Ji Changkong's death is only claimed on the bounty notice; no such kill is shown",
+    "13:40 'Kepala Shou' is garbled",
+    "It isn't clear whether Ye Fan slips away from Ziyue while she sleeps or leaves openly (11:33-11:43)"
+  ]
+}

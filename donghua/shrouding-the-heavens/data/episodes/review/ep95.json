@@ -1,0 +1,148 @@
+{
+  "ep": 95,
+  "title": "Clever Plan to Protect Ziyue",
+  "summary": "Xu Tianxiong's projection demands his grandson's safety and orders Tu Tian to come see him. Ye Fan strikes first with the God-Beating Whip, hitting the projection's divine consciousness, and keeps Xu Yuan as a hostage rather than start a war with a Great Bandit. Among more than 10,000 kg of looted source they find a fragment of a bronze bell with Dao runes. Li City records say the bell belonged to an ancient family, later a Daoyi Holy Maiden's family, that once held one of the Nine Secrets. Tomb raiders stole it and died of its curse, and its five fragments now lie with noble families and Holy Lands, who are meeting in Li City to open the ancient tomb. Tu Fei heads home. In Source City Ye Fan, calling himself 'Zheng De', meets the grave-robbing Daoist Duan De, who claims to know the route Gai Jiuyou took to Li City 8,000 years ago. Duan De proposes ambushing the Ji ship carrying Ji Ziyue's fragment to Ji Haoyue. A demon squad under Jin Yan attacks the ship, Duan De leaves Ye Fan to take the blame, and Ye Fan defends the Ji party, but Jin Yan still grabs a fragment. At the Li City site gather Ji Haoyue, the Yaoguang Holy Son and Yao Xi, Jiang Yifei, Lu Ling of Daoyi and Jin Chi with the stolen piece. Ziyue then arrives with a second Ji fragment, and Ye Fan, disguised, challenges Jin Chi's claim.",
+  "events": [
+    "The God-Beating Whip strikes Xu Tianxiong's projection",
+    "Xu Yuan is kept as a hostage; a bronze bell fragment is found",
+    "Tu Fei parts ways with Ye Fan",
+    "Ye Fan, as 'Zheng De', teams up with Duan De in Source City",
+    "Jin Yan's demons attack the Ji ship carrying Ji Ziyue",
+    "Young elites gather at the Li City site",
+    "Ji Ziyue arrives with a second fragment; Ye Fan challenges Jin Chi"
+  ],
+  "introduced": [
+    "Bronze bell fragments",
+    "Li City site",
+    "Lu Ling",
+    "Daoyi Holy Land",
+    "Gai Jiuyou (named)"
+  ],
+  "cultivation": "From captions: Yaoguang Holy Son, Yao Xi and Jiang Yifei are at Four Poles (7:17–7:30), Ji Haoyue is at Four Poles (15:13), and Jin Yan is at Dao Palace (12:28). Duan De's realm is 'unknown' (8:27). Someone says 'Istana Dao Level 4 saya menghabiskan 50.000 kg sumber daya' (6:34), but it's unclear who (see flags).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Disguised; introduces himself as 'Zheng De' (9:12), later recognized as Gu Feng (EP96 3:53)",
+      "first": false
+    },
+    {
+      "id": "xu-tianxiong",
+      "name": "Xu Tianxiong",
+      "realm": "Immortal Platform",
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "xu-yuan",
+      "name": "Xu Yuan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "duan-de",
+      "name": "Duan De",
+      "realm": null,
+      "quote": "[Duan De, Alam Tidak Dikenal] (8:27)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-haoyue",
+      "name": "Ji Haoyue",
+      "realm": "Four Poles",
+      "quote": "[Ji Haoyue, Keluarga Ji, Alam Empat Kutub] (15:13)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yaoguang-holy-son",
+      "name": "Holy Son of Yaoguang",
+      "realm": "Four Poles",
+      "quote": "[Putra Suci Yaoguang, Tanah Suci Yaoguang, Alam Empat Kutub] (7:17)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yao-xi",
+      "name": "Yao Xi",
+      "realm": "Four Poles",
+      "quote": "[Yao Xi, Tanah Suci Yaoguang, Alam Empat Kutub] (7:17)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jiang-yifei",
+      "name": "Jiang Yifei",
+      "realm": "Four Poles",
+      "quote": "[Jiang Yifei, Keluarga Jiang, Alam Empat Kutub] (7:30)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "lu-ling",
+      "name": "Lu Ling",
+      "realm": null,
+      "quote": "[Lu Ling, Tanah Suci Daoyi] (16:54)",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Jin Yan",
+      "realm": "Dao Palace",
+      "quote": "[Jin Yan, Alam Istana Dao] (12:28)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jin-chi",
+      "name": "Jin Chi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "The old summary said 'Tu Fei reaches the Spleen treasury', but no subtitle clearly says so. The Level 4 line at 6:34 has no clear speaker and names no treasury.",
+    "Added the Xu Tianxiong standoff, the bell-fragment lore, the ambush with Duan De, and the gathering at Li City."
+  ],
+  "flags": [
+    "6:30–6:40: 'Saudara Tu... Mari kita membaginya secara rata' is followed by 'Sayangnya, Istana Dao Level 4 saya menghabiskan 50.000 kg...'. It's unclear whether Ye Fan (who just reached Level 3) means his next level will cost that much, or Tu Fei is describing his own Level 4. No realm is recorded.",
+    "Jin Yan's realm contradicts EP84: there he was captioned Other Shore ('Paramita', 13:39); here at 12:28 he is Dao Palace. That could be progress or a caption slip.",
+    "The 'clever plan' behind Ziyue's second fragment (15:41–15:54) isn't explained on screen ('Ceritanya panjang'). Whether Ye Fan's 'Pembalikan Kekosongan' swap at 13:50 is part of it is inferred, not stated.",
+    "Where the Daoyi Holy Land's link to the bell comes from is garbled (7:16–7:19).",
+    "The Source City caption at 8:14 may be wrong about the location."
+  ]
+}

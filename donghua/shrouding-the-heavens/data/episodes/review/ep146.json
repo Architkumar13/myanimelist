@@ -1,0 +1,76 @@
+{
+  "ep": 146,
+  "title": "The Northern Emperor Appears",
+  "summary": "Wang Teng's divine sense scolds Wang Chong and then fights Ye Fan evenly. Its heavenly eye keeps up with Ye Fan's speed, and it uses one of the Nine Secrets to predict his moves before it fades. In his seclusion chamber the real Wang Teng confines Wang Chong for a year and sends Wu Guli and Jin Wuduo to bring back Ye Fan's head. Yu Die brings Pang Bo to Ye Fan. Pang Bo explains that Hei Huang's teleport dumped him in a Central States dragon vein for two and a half years, where he reached Dragon Transformation 4th level, and that he is now a Qishi Academy student. At the academy's Moon-Star Lake a star map shows Mars and Earth. Pang Bo says each era the academy sends its top three prodigies off-world, and he lists the rivals: the Yaoguang Holy Son, Hua Yunfei, Jue Youqing, Qi Lin, Xiang Yufei and Wang Teng. To grow stronger and learn about the Nine Secrets, Ye Fan heads for a Jiuli auction selling Purple Dragon Marrow and King Biluo's Biluo Bell.",
+  "events": [
+    "Wang Teng's divine sense fights Ye Fan evenly with a Nine Secret",
+    "Wang Teng confines Wang Chong and sends Wu Guli and Jin Wuduo after Ye Fan",
+    "Yu Die brings Pang Bo; Pang Bo has reached Dragon Transformation 4th level",
+    "Moon-Star Lake's star map shows Mars and Earth",
+    "Pang Bo explains the three off-world places for the top prodigies and lists the rivals",
+    "Ye Fan plans to go to the auction for Purple Dragon Marrow and the Biluo Bell"
+  ],
+  "introduced": [
+    "Wang Teng (in person)",
+    "Wu Guli",
+    "Jin Wuduo",
+    "Moon-Star Lake",
+    "Jue Youqing",
+    "Xiang Yufei",
+    "Biluo Bell",
+    "Purple Dragon Marrow"
+  ],
+  "cultivation": "Pang Bo: Dragon Transformation 4th level ('Aku telah mencapai Alam Transformasi Naga Level 4'). Wang Teng has survived more than ten heavenly tribulations.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-teng",
+      "name": "Wang Teng",
+      "realm": null,
+      "quote": null,
+      "look": "Divine sense in battle; his real body is in seclusion",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Wang Chong",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": "Dragon Transformation",
+      "quote": "Aku telah mencapai Alam Transformasi Naga Level 4",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yu-die",
+      "name": "Yu Die",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "qi-lin",
+      "name": "Qi Lin",
+      "realm": null,
+      "quote": null,
+      "look": "Shown only in Pang Bo's list of rivals",
+      "first": false
+    }
+  ],
+  "changes": [
+    "There is no 'standoff of three great weapons'. The fight is Ye Fan against Wang Teng's divine sense",
+    "Added the reunion with Pang Bo, the Moon-Star Lake star map, the list of rival prodigies, and the auction plan"
+  ],
+  "flags": [
+    "The auction city is spelled 'Kota Xixiang' (16:45) and 'Kota Xiba' (17:26, EP147); probably the same city",
+    "15:38 Qi Lin's portrait and caption appear here in the list of rivals, before his in-person debut in EP155",
+    "The EP146 lore card calls Wang Teng's brother 'Wang Chongxiao'"
+  ]
+}

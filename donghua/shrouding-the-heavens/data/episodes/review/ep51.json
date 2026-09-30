@@ -1,0 +1,74 @@
+{
+  "ep": 51,
+  "title": "The Nine Secrets Appear",
+  "summary": "As Li Ruoyu meditates and Clumsy Peak's inheritance stirs, the Bodhi Stone pulls Ye Fan into a Dao Rune world where he must defeat a perfect copy of himself, and by 'surpassing himself' he comprehends the Jie Secret, one of the Nine Secrets, which can multiply power up to tenfold but is hard to trigger. Li Ruoyu reveals he knows Ye Fan has the Ancient Desolate Sacred Body and promises to keep it secret. Ye Fan agrees to belong to Clumsy Peak but says he must first find a missing friend and the Domain Gate; Li Ruoyu lets him leave whenever he likes but forbids him to teach the secret to anyone, including Ziyue. Elder Xu brings hopefuls from the main peaks now that the inheritance has revived, and Li Ruoyu gives them half a month to comprehend something at the peak. Ziyue, calling herself Clumsy Peak's senior disciple, tries to wheedle the secret out of him, offers to help him win back 'that beauty', and threatens to expose the Demon Emperor's Sacred Heart, the Mother Qi of All Things and the Green Copper. Li Xiaoman then arrives to warn him to leave Taixuan because Star Peak is looking into him, but he refuses to go yet.",
+  "events": [
+    "The Bodhi Stone draws Ye Fan into a Dao Rune world at Clumsy Peak",
+    "He defeats a mirror copy of himself and comprehends the Jie Secret",
+    "Li Ruoyu reveals he knows about the Ancient Desolate Sacred Body and swears secrecy",
+    "Ye Fan commits to Clumsy Peak but must first find his friend and the Domain Gate",
+    "Elder Xu brings candidates; Li Ruoyu sets a half-month comprehension test",
+    "Ziyue pesters Ye Fan for the secret and threatens to expose his treasures",
+    "Li Xiaoman warns him Star Peak is investigating him"
+  ],
+  "introduced": [
+    "Dao Rune world"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "li-ruoyu",
+      "name": "Li Ruoyu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "elder-xu",
+      "name": "Elder Xu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "li-xiaoman",
+      "name": "Li Xiaoman",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Old summary said Li Xiaoman brings a Star Peak summons to 'talk'; she actually warns him to flee Taixuan because Star Peak is investigating him",
+    "Added the mirror-self trial, Li Ruoyu knowing about the Sacred Body, Elder Xu's candidates and Ziyue's blackmail",
+    "Removed the 'Divine Bridge' cultivation claim: no realm is stated this episode",
+    "The subs call the Jie Secret 'Rahasia Simbol' (Symbol Secret); kept the EP48 official name Jie Secret"
+  ],
+  "flags": [
+    "The machine subs render 'Ye Fan' as 'Kamu penggemar' ('you fan') throughout this range",
+    "Clumsy Peak is 'Simplicity Peak' / 'Puncak Kesederhanaan' in these subs",
+    "16:08 Ye Fan offers to trade what he learned for Ziyue's 'Ancient Void Records' (Void Scripture); the line reads oddly",
+    "The friend Ye Fan wants to find (11:32) is not named; presumably Pang Bo",
+    "18:07 'Senior, don't rush off' has no clear speaker (probably Ziyue to Li Xiaoman)"
+  ]
+}

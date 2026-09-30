@@ -1,0 +1,89 @@
+{
+  "ep": 152,
+  "title": "Bloodshed at the Immortal Pool",
+  "summary": "While Wang Teng is away fighting Xiang Yufei, the Central Emperor, Wang Chong enters Qinling with a holy talisman. Ye Fan's source arts get the crowd through the terrain to the Immortal Dragon Nest, where Illusion-grade Divine Marrow is said to extend life by thousands of years. The old Source Master Ouyang Ye flatters him while plotting to take his Heaven Source Scripture. Wang Chong and the elders turn on Ye Fan as soon as the marrow is in sight, and Ji Ziyue and Pang Bo stand with him. Ye Fan fights with the Eight Prohibitions. Then the red-haired monster wakes: the Cai ancestor, who failed to shed his old body in the dragon nest, and who begins slaughtering everyone. Ye Fan holds him back briefly with the Six Immortal Forbidden Seals. Great Xia and Jiuli rush in, the monster seals off the small world, and Ye Fan's Green Copper reacts. An azure lotus rises from the Immortal Ascension Pool and the Azure Emperor steps out of it.",
+  "events": [
+    "Wang Chong enters Qinling while Wang Teng fights Xiang Yufei",
+    "Ye Fan's source arts open the way to the Immortal Dragon Nest",
+    "Wang Chong and the elders turn on Ye Fan over the Illusion-grade Divine Marrow",
+    "The red-haired Cai ancestor wakes and slaughters the crowd",
+    "Ye Fan uses the Six Immortal Forbidden Seals to hold him",
+    "Great Xia and Jiuli join the scramble; the small world is sealed",
+    "The Green Copper reacts and the Azure Emperor appears on an azure lotus"
+  ],
+  "introduced": [
+    "Ouyang Ye",
+    "Illusion-grade Divine Marrow",
+    "Six Immortal Forbidden Seals",
+    "Azure Emperor (remnant manifestation)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Wang Chong",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Ouyang Ye",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Red-haired monster (Cai ancestor)",
+      "realm": null,
+      "quote": null,
+      "look": "Covered in red hair",
+      "first": true
+    },
+    {
+      "id": "azure-emperor",
+      "name": "Azure Emperor",
+      "realm": null,
+      "quote": null,
+      "look": "Arrives on an azure lotus",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Explained the 'bloodshed': the red-haired Cai ancestor wakes in the Immortal Dragon Nest, and the crowd fights over the Illusion-grade Divine Marrow",
+    "The Azure Emperor appears only at the very end, from the lotus at the Immortal Ascension Pool"
+  ],
+  "flags": [
+    "The file has no opening credits or recap; it starts at 00:00 with the episode card. The content follows on from EP151",
+    "03:46 'Kedua paman raja': Wang Chong has two 'royal uncles' as escorts, unnamed",
+    "07:32 'Guru Sumber Surgawi generasi ketiga?': it is unclear whether this calls the monster the third-generation Heaven Source Master"
+  ]
+}

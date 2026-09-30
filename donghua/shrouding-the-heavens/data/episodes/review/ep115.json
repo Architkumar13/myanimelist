@@ -1,0 +1,65 @@
+{
+  "ep": 115,
+  "title": "Stone Gambling Yields Divine Medicine",
+  "summary": "Jiang Taixu has forbidden anyone to hunt immortal medicine for him, so Ye Fan decides to find divine medicine by gambling on stones instead. He challenges Nangong Qi of the Ancient Source Technique clan, an heir of the Earth Source Masters, at Yaoguang's Sky Stone Garden in the Holy City, each side starting with 1.5 million catties. In round one Nangong cuts 500,000 worth, while Ye Fan buys ten cheap Wind-Moving stones, one of which hides a primordial insect worth 800,000, and wins. In round two Nangong's 'Foolish Elephant' stone holds the head of an ancient royal clan member. Ye Fan strengthens his Heavenly Source divine sense with a Gallstone and survives a trap Nangong planted in a Red Fire Stone, absorbing its blast, and Nangong answers with the Earth Meridian Dragon Transformation Technique. Ye Fan then safely cuts a Demon Womb stone, and a huge surge of life suggests a Qilin inside.",
+  "events": [
+    "Ye Fan challenges Nangong Qi to find medicine for Jiang Taixu",
+    "Round 1: ten Wind-Moving stones yield a primordial insect worth 800,000",
+    "Round 2: Nangong's Foolish Elephant stone holds an ancient royal clan head",
+    "Nangong's booby-trapped Red Fire Stone explodes on Ye Fan",
+    "The Earth Meridian Dragon Transformation Technique",
+    "Ye Fan cuts a Demon Womb stone and something like a Qilin appears"
+  ],
+  "introduced": [
+    "Nangong Qi",
+    "Ancient Source Technique clan",
+    "Sky Stone Garden (Yaoguang)",
+    "Earth Source Master",
+    "Demon Womb stone",
+    "Ancient royal clans"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "nangong-qi",
+      "name": "Nangong Qi",
+      "realm": null,
+      "quote": "[Nangong Qi, Klan Teknik Sumber Kuno]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Added the reason (medicine for Jiang Taixu), the match rules and the first two rounds; the medicine itself (the Qilin seed) is explained in EP116"
+  ],
+  "flags": [
+    "09:37 Ye Fan's round-one total is given as '5,7 kilogram' - a unit and number error for about 5,700 catties",
+    "03:52 'Senior Chilong' = the Red Dragon Daoist",
+    "09:17 'kamu Fei' is a machine-translation of 'Tu Fei'"
+  ]
+}

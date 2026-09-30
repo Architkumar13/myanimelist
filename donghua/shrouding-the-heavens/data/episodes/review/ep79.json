@@ -1,0 +1,68 @@
+{
+  "ep": 79,
+  "title": "The Source Master's Curse",
+  "summary": "Deep in the Taichu Ancient Mine, a 'Corpse Star Sea' appears. Elsewhere in the mine, the Yaochi Holy Maiden's party pushes on to suppress the source. Ye Fan finds Heavenly Source patterns left by the fourth-generation Source Master, who sealed the place and completed nine pages of the Source Heaven Book. Through those patterns he relives the ancestor's final struggle: a voice hunts someone called Wu Yi with the curse that strikes Source Masters in old age, the backlash for using arts that defy heaven's creation. For a moment Ye Fan loses control of his own body. He finds a dried-out divine source, the Green Jade Turtle, and then saves the panicking party from a swarm of creatures by stabilizing the terrain with Source arts. After glimpsing three humanoid 'forbidden god' silhouettes, the group flees through land that a black hole keeps swallowing. One member uses an escape chant his grandfather taught him, and Ye Fan borrows the power of the fourth-generation master's source map. They reach Crimson Moon Cave, a place of extreme yin that links to Fallen Sun Hill, a place of extreme yang: together they form the site where Great Emperor Heng Yu forged his weapon.",
+  "events": [
+    "The Corpse Star Sea appears; the Yaochi party presses on elsewhere",
+    "Ye Fan finds the fourth-generation Source Master's patterns",
+    "A vision of the Source Master's old-age curse ('Wu Yi, you can't escape')",
+    "Ye Fan finds the dried Green Jade Turtle divine source",
+    "Ye Fan saves the party from a creature swarm with Source arts",
+    "Three humanoid 'forbidden god' silhouettes; the party flees",
+    "They reach Crimson Moon Cave and Fallen Sun Hill, Heng Yu's forging site"
+  ],
+  "introduced": [
+    "Fourth-generation Source Master",
+    "Source Master's curse",
+    "Green Jade Turtle (divine source)",
+    "Crimson Moon Cave",
+    "Fallen Sun Hill"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yaochi-holy-maiden",
+      "name": "Yaochi Holy Maiden",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "old-sabre",
+      "name": "Old Sabre",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Li Desheng",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Removed 'Yaoguang Holy Son schemes over treasure' and 'Jade Lake Holy Maiden saves Ye Fan'. Neither happens in EP79's subtitles. EP81 3:55–4:17 says the reverse: Gu Feng saved her.",
+    "Added the fourth-generation Source Master, the curse vision, the Green Jade Turtle, and the route to Heng Yu's forging site."
+  ],
+  "flags": [
+    "4:23–4:41 seems to cut to the Yaochi Holy Maiden's party ('Wanita Suci, menekan sumbernya lebih penting'), but who is speaking isn't shown.",
+    "'Wu Yi' (8:47–8:55) is never identified. It is probably the fourth-generation Source Master's name.",
+    "Who uses the grandfather's escape chant (15:01–15:24) isn't shown. It's probably Li Desheng, who talks about his family's ancestral tomb at 3:44.",
+    "11:14 'Putra Mahkota Yaoguang' (crown prince) means the Yaoguang Holy Son.",
+    "The Green Jade Turtle caption flips between 'Kura-kura' and 'Penyu' (10:18–10:21)."
+  ]
+}

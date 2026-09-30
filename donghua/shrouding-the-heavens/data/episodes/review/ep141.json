@@ -1,0 +1,89 @@
+{
+  "ep": 141,
+  "title": "A Fief in the Central States",
+  "summary": "The narration introduces the Central States: four immortal dynasties, nine ancient countries, and the Qishi Academy, which opens once every ten thousand years and admits only Holy Son-level prodigies. Ye Fan meant to go to the Central States but Hei Huang's formation lands him near Chunqiu City in Anping. There he rescues Princess Yu Die (Dragon Transformation) from Chiyang Kingdom cultivators who want to capture her. Calling himself 'Ye Zhetian', he is rewarded by her father, the lord of Anping, who promises him an ancient scripture. He is also given a city of his choice and picks Lu City, a cursed fief that the Xiao clan had held, which angers Xiao Mingyuan. In Lu City he kills the Xiao-backed city lord, who was bleeding the townsfolk dry to feed a dragon horse, and cooks the horse for the whole town. That brings in the barbarian Dongfang Ye, who becomes his friend and tells him about the Qishi Academy's Immortal Palace trial. The dragon horse belonged to Princess Qi, and Ye Fan beats the suitors she sends after him.",
+  "events": [
+    "Narration on the Central States and the Qishi Academy",
+    "Ye Fan saves Princess Yu Die of Anping from Chiyang cultivators",
+    "Anping's lord rewards 'Ye Zhetian'; Yu Die gives him a drop of dragon marrow",
+    "Ye Fan chooses Lu City as his fief, angering Xiao Mingyuan",
+    "He kills Lu City's Xiao-backed lord and feeds the town the dragon horse",
+    "He befriends Dongfang Ye of the barbarian clan",
+    "He beats Princess Qi's suitors, who came over the dragon horse"
+  ],
+  "introduced": [
+    "Yu Die",
+    "Dongfang Ye",
+    "Xiao Mingyuan",
+    "Elder Xiao",
+    "Anping Kingdom",
+    "Chiyang Kingdom",
+    "Lu City",
+    "Qishi Academy",
+    "Barbarian clan",
+    "Ye Zhetian (Ye Fan's alias)"
+  ],
+  "cultivation": "Yu Die: Dragon Transformation; lord of Anping and Elder Xiao: Immortal Platform 2nd level; Xiao Mingyuan: Dragon Transformation; Lu City lord: Dragon Transformation 6th level; Dongfang Ye: Dragon Transformation (captions). Ye Fan is at Four Poles (EP140 caption).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Disguised under the alias Ye Zhetian",
+      "first": false
+    },
+    {
+      "id": "yu-die",
+      "name": "Yu Die",
+      "realm": "Dragon Transformation",
+      "quote": "[Putri Yudie, Negara Anping, Alam Transformasi Naga]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "dongfang-ye",
+      "name": "Dongfang Ye",
+      "realm": "Dragon Transformation",
+      "quote": "[Dongfang Ye, Suku Barbar, Alam Transformasi Naga]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Xiao Mingyuan",
+      "realm": "Dragon Transformation",
+      "quote": "[Xiao Mingyuan, Cucu Tetua Xiao, Alam Transformasi Naga]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Lord of Anping",
+      "realm": "Immortal Platform",
+      "quote": "[Penguasa Negara Anping, Alam Platform Abadi Tingkat Kedua]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "qi-huoshui",
+      "name": "Qi Huoshui",
+      "realm": null,
+      "quote": null,
+      "look": "Seen briefly at the end, vowing revenge for her dragon horse",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Added the setting (Anping Kingdom, Chunqiu City, the Chiyang attack) and the Xiao clan feud, which sets up EP143–144",
+    "The fief is Lu City, which Ye Fan chose from the Xiao clan's holdings. 'Huanglu' is not in the subtitles",
+    "Named the alias Ye Zhetian, which the characters use throughout EP141–147",
+    "The princess's feud starts because Ye Fan ate her dragon horse; he beats her suitors and servants"
+  ],
+  "flags": [
+    "04:14 Ye Fan asks 'Is this Ximo (Western Desert)?' and 18:05 in EP140 says the formation pointed to the Western Barrens, but the captions place him in the Central States (Anping). The misdirection seems to be a gag",
+    "08:38 'Kaisar Agung' / 06:35 'Kaisar Tertinggi' are titles for the lord of Anping, not a real Great Emperor",
+    "Princess Qi appears only in the last minute; she is named 'Qi Qi' in EP142's caption"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "ep": 113,
+  "title": "Blood-Washed Dao Diagram",
+  "summary": "The tribulation isn't over: an Innate Dao Diagram, the will of heaven and earth itself, descends to erase the Holy Body. Ye Fan fights it with the Chaos Green Lotus, Yin-Yang and Immortal King visions, but his power drains away. Jiang Taixu steps in, swinging the Hengyu Divine Furnace against the diagram, and despite Ye Fan's protests he spends his own divine blood, which can cleanse karma and light up the Dao. The blood purifies the diagram and reforges the broken road of the Holy Body, but it leaves Taixu 'at the sunset of his life'. Ye Fan finishes the karma with a last strike as a Divine Symphony sounds. Challengers from Zhongzhou come at once: Ye Fan defeats Gu Mingdao (Four Poles, perfected) and a challenger in Holy Lord-grade battle armour. He sends one back to Zhongzhou with the message that he will face anyone.",
+  "events": [
+    "The Innate Dao Diagram descends",
+    "Ye Fan resists with his visions and the Chaos Green Lotus",
+    "Jiang Taixu fights the diagram with the Hengyu Divine Furnace",
+    "Taixu spends his divine blood to purify the diagram and reforge the Holy Body's road",
+    "Divine Symphony; Ye Fan completes the Four Poles",
+    "Ye Fan defeats Gu Mingdao and other challengers"
+  ],
+  "introduced": [
+    "Innate Dao Diagram",
+    "Divine Symphony",
+    "Gu Mingdao"
+  ],
+  "cultivation": "Ye Fan completes his Four Poles breakthrough. The Dao Diagram 'aims to destroy your Dao foundation' rather than kill him (10:57), which sets up the Dao wound. Caption: Gu Mingdao, Four Poles (perfected).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Four Poles",
+      "quote": "Tubuh Suci Kuno telah mematahkan kutukan... melangkah ke Alam Empat Kutub",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jiang-taixu",
+      "name": "Jiang Taixu",
+      "realm": null,
+      "quote": null,
+      "look": "Weakened; described as at the sunset of his life after giving his divine blood",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Gu Mingdao",
+      "realm": "Four Poles (perfected)",
+      "quote": "[Gu Mingdao, Empat Kutub Sempurna]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Replaced 'Xia Jiuyou returns' with what actually happens: the Innate Dao Diagram, Jiang Taixu's blood sacrifice (the 'blood-washed' diagram of the title) and the Zhongzhou challengers",
+    "Xia Jiuyou isn't in EP113's subtitles; she challenges Ye Fan at the start of EP114"
+  ],
+  "flags": [
+    "19:17-21:33 no dialogue between the last line and the info card (probably an untranslated preview)",
+    "21:33 the info card mentions 'a Great Emperor who lived in Ye Fan's hometown Chengdu' - an odd machine-translated lore aside"
+  ]
+}

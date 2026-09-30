@@ -1,0 +1,80 @@
+{
+  "ep": 83,
+  "title": "Comprehending the Xihuang Scripture",
+  "summary": "In the palace above ancient Yaochi, Hei Huang says the Xihuang Scripture can't be read by outsiders, or even by every generation of Yaochi queens. Ye Fan comprehends its Dao Palace volume anyway. Hei Huang credits a Bodhi seed insight and the Source Heaven Book's notes on the needed 'guide', while he himself suspects the Yaochi Holy Maiden coached Ye Fan. The comprehension sets off a vision of five pillars (heart, liver, spleen, lungs and kidneys), and a caption marks Ye Fan at Dao Palace Level 2. The scripture's other four volumes stay closed to him. Ye Fan bows to the Great Emperor of Yaochi, gives Hei Huang his share, and the two head for Chaoyang City. On the Yunduan Mountains, where Hei Huang says he was once trapped for 18 years, the bounty on Ye Fan has risen to 500 kg dead or 1,500 kg alive, and rumours claim he reached the Other Shore and seduced Ji Hui. Situ Feng, leader of the Cloud Swan Sect, boasts he'd slap Ye Fan to death. Ji Yunfeng and Ji Yunlin of the Ji family then arrive to pick heroes for the Ji Heroes Conference on Ji Hui's orders. Ye Fan reveals himself, demands his 1,500 kg, and fights the Ji disciples with a Mountain-Grasping Seal fused with Void technique, against their Sky-Cutting Finger.",
+  "events": [
+    "Hei Huang leads Ye Fan to the Xihuang Scripture's text",
+    "Ye Fan comprehends the scripture's Dao Palace volume, causing a phenomenon",
+    "Ye Fan reaches Dao Palace Level 2 (caption)",
+    "The two travel to the Yunduan Mountains near Chaoyang City",
+    "Situ Feng of the Cloud Swan Sect boasts about the bounty",
+    "Ji Yunfeng and Ji Yunlin arrive to recruit for the Ji Heroes Conference",
+    "Ye Fan unmasks himself and fights the Ji disciples"
+  ],
+  "introduced": [
+    "Situ Feng",
+    "Cloud Swan Sect",
+    "Ji Yunfeng",
+    "Ji Yunlin",
+    "Yunduan Mountains",
+    "Ji Heroes Conference",
+    "Sky-Cutting Finger"
+  ],
+  "cultivation": "Ye Fan: caption '[Istana Dao Level 2]' (8:07), after comprehending the Dao Palace volume of the Xihuang Scripture. Situ Feng: 'Alam Istana Dao Tingkat 3' (14:03–14:06). Ji Yunfeng and Ji Yunlin: Dao Palace (captions 14:28, 14:57). Rumour, not fact: Ye Fan 'mencapai Alam Paramita setengah tahun yang lalu' (12:31).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Dao Palace",
+      "quote": "[Istana Dao Level 2] (8:07)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Situ Feng",
+      "realm": "Dao Palace",
+      "quote": "[Situ Feng, Sekte Angsa Awan, Alam Istana Dao]; 'Alam Istana Dao Tingkat 3' (14:03)",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Ji Yunfeng",
+      "realm": "Dao Palace",
+      "quote": "[Ji Yunfeng, Keluarga Ji Kuno, Alam Istana Dao] (14:28)",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Ji Yunlin",
+      "realm": "Dao Palace",
+      "quote": "[Ji Yunlin, Keluarga Ji Kuno, Alam Istana Dao] (14:57)",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "The breakthrough is now tied to the 8:07 caption, 'Dao Palace Level 2'. Dropped '1,000 pure source / Lung treasury', which the subtitles don't state.",
+    "Ji Yunfeng and Ji Yunlin appear, but the old ep83–84 plan of 'Ye Fan, Hei Huang and Tu Fei vs Ji Yunlin's group' is wrong for EP83: Tu Fei isn't in this episode.",
+    "Added Situ Feng of the Cloud Swan Sect, the Ji Heroes Conference, and the rising bounty."
+  ],
+  "flags": [
+    "The glossary's 'elder-ji' (EP16) has the alias 'Ji Yun Feng', which clashes with the Dao Palace Ji disciple Ji Yunfeng (caption 14:28). They look like different people, so check the alias.",
+    "7:34 'Anda sebenarnya telah berhasil mengumpulkan lima bagian Penyimpanan Ilahi' seems to mean he comprehended the five-treasury method, not that he opened five treasuries. The 8:07 caption says Level 2.",
+    "The heart and lung lines at 7:21–7:23 don't say which second treasury opened, so no organ is recorded.",
+    "13:45 'Kamu penggemar' = 'Ye Fan' (mistranslation).",
+    "14:36 'Raja Gagak Kecil' (Little Crow King) is a mistranslation of the Little Peng King, Jin Chi. Jin Chi and Qing Yi are only mentioned here, not on screen.",
+    "What Ye Fan hands Hei Huang at 11:05 ('Ini untuk Anda') isn't shown: the turtle jade, or part of the Demon Emperor book."
+  ]
+}

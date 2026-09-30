@@ -1,0 +1,94 @@
+{
+ "ep": 165,
+ "title": "Tanggu and the Goddess Furnace",
+ "summary": "Among the Heavenly Demon Granny's loot, Ye Fan finds a young branch of the Fusang Divine Tree. It holds Taiyang (solar) power that balances the Taiyin mist he refined earlier. Lu Ya (Golden Crow Sixth Prince, Immortal Platform 2nd Heaven) offers an alliance, since the Golden Crows hold every map fragment except theirs, and at a gathering with the Taiyin Divine Son and Priest San Que the 36 fragments are joined to open the way to Tanggu in the North Sea. Ye Fan compares Tanggu and Fusang with the Classic of Mountains and Seas and wonders how Earth's legends ended up on Ziwei. Once they land, Lu Ya turns on his allies and everyone goes after the Human Desire Dao for using the infamous Goddess Furnace; Ye Fan fights back with the furnace and his Myriad Things Mother Qi Cauldron. When Yi Qingwu uses a forbidden power, Li Tian pulls her into the furnace, and Ye Fan is sucked in with her. Inside, Yi Qingwu brings out Guanghan Palace itself as a sacred weapon, and its spirit fights Ye Fan with the Seven Forbidden Domain while the furnace's desire power wears at them.",
+ "events": [
+  "Ye Fan finds a young Fusang branch full of solar power",
+  "Lu Ya proposes cooperation",
+  "The 36 map fragments are joined, revealing the way to Tanggu",
+  "Ye Fan links Tanggu and Fusang to Earth's Classic of Mountains and Seas",
+  "Lu Ya betrays his allies and the crowd turns on the Human Desire Dao",
+  "Li Tian pulls Yi Qingwu into the Goddess Furnace, and Ye Fan goes in too",
+  "Inside the furnace, Ye Fan fights the spirit of the Guanghan Palace sacred weapon"
+ ],
+ "introduced": [
+  "Lu Ya (true body)",
+  "Priest San Que",
+  "Ancient Holy Skull",
+  "Tanggu",
+  "Fusang branch",
+  "Golden Crow Feather Spear",
+  "Guanghan Palace (sacred weapon)",
+  "Seven Forbidden Domain"
+ ],
+ "cultivation": "Lu Ya: Immortal Platform 2nd Heaven. Priest San Que and the Guanghan Palace master/spirit are captioned only as Immortal Platform. Yi Qingwu has the Seven Forbidden Domain.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "lu-ya",
+   "name": "Lu Ya",
+   "realm": "Immortal Platform 2nd Heaven",
+   "quote": "[Pangeran Keenam dari Ras Gagak Emas, Platform Abadi Surga Kedua]",
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yi-qingwu",
+   "name": "Yi Qingwu",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-tian",
+   "name": "Li Tian",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yan-yixi",
+   "name": "Yan Yixi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Priest San Que",
+   "realm": "Immortal Platform",
+   "quote": "[Pendeta San Que, Alam Platform Abadi]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Taiyin Divine Son",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "The Heavenly Demon Granny died in EP164. This episode opens with her loot.",
+  "The Fusang tree itself isn't seen emerging; what appears is a young Fusang branch, plus the journey to Tanggu.",
+  "Lu Ya first appeared as a clone in EP163; here he appears in person and betrays the alliance.",
+  "The Human Desire tribulation framing is refined: Li Tian deliberately pulls in Yi Qingwu, and Ye Fan gets pulled in by accident."
+ ],
+ "flags": [
+  "17:42: the caption 'Master Istana Guanghan, Alam Platform Abadi' names a Guanghan Palace master, but the dialogue calls it 'roh Guanghan' (the spirit of the Guanghan sacred weapon). It may be the weapon's spirit, not a living master.",
+  "12:24–12:37: it's unclear who 'Saudara laki-laki!' is shouting to, or what 'Semuanya sudah berakhir' refers to."
+ ]
+}

@@ -1,0 +1,63 @@
+{
+  "ep": 86,
+  "title": "Shaking the Heavenly Peng",
+  "summary": "Jin Chi, suppressed to Dao Palace Level 2, says he came north to kill the Yaoguang Holy Son and sees the Ancient Holy Body's blood as the key to his Great Emperor road. In the Heavenly Arena the two trade blows body to body. Ye Fan keeps pace with the Heavenly Peng's speed, which onlookers say only 'the Madman's' steps can match. Jin Chi throws the Peng Slash and 108,000 Swords, and Ye Fan answers with the Mountain-Grasping Seal and then stamps on him. Jin Chi then uses the Peng-Fights-Dragon technique, normally usable only at Four Poles, even though it risks breaking his seal. Its Dragon-Fighting Diagram phenomenon doesn't affect Ye Fan at all. In desperation Jin Chi calls up the Desolate Spear, the Peng ancestor's demon weapon, whose power is held down but still makes the fight unfair. Ye Fan meets it with his cauldron. He smashes Jin Chi across the arena, repeating that he has never lost a fight at the same level.",
+  "events": [
+    "Jin Chi suppresses himself to Dao Palace Level 2 for the duel",
+    "Ye Fan matches the Heavenly Peng's speed",
+    "The Peng Slash and 108,000 Swords against the Mountain-Grasping Seal",
+    "Jin Chi's Peng-Fights-Dragon technique and its diagram fail against Ye Fan",
+    "Jin Chi breaks the rules and calls up the Desolate Spear",
+    "Ye Fan's cauldron beats the spear and Jin Chi is battered"
+  ],
+  "introduced": [
+    "Heavenly Peng Clan",
+    "Desolate Spear",
+    "Peng-Fights-Dragon technique",
+    "108,000 Swords"
+  ],
+  "cultivation": "Jin Chi: 'Kultivasiku juga hanya Dao Palace Level 2' (5:29), suppressed from Four Poles. Spectators: 'Apakah ini pertarungan antara Istana Dao Level 2?' (8:46).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Dao Palace",
+      "quote": "pertarungan antara Istana Dao Level 2 (8:46)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jin-chi",
+      "name": "Jin Chi",
+      "realm": "Dao Palace",
+      "quote": "Kultivasiku juga hanya Dao Palace Level 2 (5:29) [suppressed]",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yan-ruyu",
+      "name": "Yan Ruyu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Added the techniques used on both sides, the Desolate Spear, and Jin Chi's motive of killing the Yaoguang Holy Son. Also noted that the fight runs past this episode into EP87."
+  ],
+  "flags": [
+    "'Sky Eagle' / 'Elang Langit' is the translation's word for the Heavenly Peng (天鹏). 'Naga Langit Melawan Naga' and 'Elang Langit Melawan Naga' are the same technique.",
+    "Jin Chi is suppressed to Level 2 here, while this episode's info card (and EP84–85) put him at Four Poles.",
+    "The 19:11–19:23 lines repeat material from EP85 and aren't counted here."
+  ]
+}

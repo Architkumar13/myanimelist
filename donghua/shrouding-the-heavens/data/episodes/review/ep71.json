@@ -1,0 +1,53 @@
+{
+  "ep": 71,
+  "title": "Battle Saint Method",
+  "summary": "Jiang Taixu notes that Ye Fan reached the Other Shore in four years, as the ancient Zhang Jiye did with stone clothing and knives, and says a powerful mind method would speed him up. He places Ye Fan in a trial space full of monsters that strike at the innate body, and Ye Fan comprehends the Dou Secret, another of the Nine Secrets, and its Battle Saint Law, which can even trigger his Jie Secret. Drained, Jiang Taixu explains he has been locked in battle with an Ancient King clan creature under Purple Mountain for 4,000 years, refuses rescue, and guides Ye Fan past the body of Yan Yi, a Yaochi Holy Maiden of long ago, towards a Great Emperor's dojo. Ye Fan promises to come back stronger, or at least to bury him. He finds Zhang Jiye's remains, a man who got this far with a mortal body, staring at the wall on which the Heavenly Book of Source is carved. Ancient creatures awaken around him until a bell tolls, and, recalling that Great Emperor Wu Shi's weapon was a bell, he realises this is Wu Shi's dojo as his ancient jade resonates and he finds Gu Tianshu's poem 'Who is supreme at the end of the Immortal Road'.",
+  "events": [
+    "Jiang Taixu tests Ye Fan in a monster-filled trial space",
+    "Ye Fan comprehends the Dou Secret and the Battle Saint Law",
+    "Jiang Taixu reveals his 4,000-year battle with an Ancient King clan creature",
+    "He guides Ye Fan past Yan Yi's body toward a Great Emperor's dojo",
+    "Ye Fan finds Zhang Jiye's remains and the Heavenly Book of Source",
+    "A bell suppresses the awakening ancient creatures",
+    "Ye Fan realises it is Wu Shi's dojo and finds Gu Tianshu's inscription"
+  ],
+  "introduced": [
+    "Dou Secret",
+    "Battle Saint Law",
+    "Ancient King clan",
+    "Yan Yi",
+    "Great Emperor Wu Shi (named)",
+    "Gu Tianshu (info card)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "jiang-taixu",
+      "name": "Jiang Taixu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "The Heavenly Book of Source is found carved on a stone wall beside Zhang Jiye's remains",
+    "Added Jiang Taixu's 4,000-year battle and the Wu Shi dojo reveal",
+    "The Dou Secret is taught by Jiang Taixu in person (the subs call it 'Rahasia Simbol Pertarungan', Battle Symbol Secret)"
+  ],
+  "flags": [
+    "12:21 Yan Yi is called a Jade Lake (Yaochi) Holy Maiden, contradicting EP70's 'Yaoguang ... Yangyi'",
+    "Zhang Jiye vs Zhang Lin naming is inconsistent across EP69-71",
+    "17:45 'Giok Kaisar' (Emperor Jade) is presumably the ancient jade from EP68",
+    "Wu Shi himself does not appear; only his bell and dojo"
+  ]
+}

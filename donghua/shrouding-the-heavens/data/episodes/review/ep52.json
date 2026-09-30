@@ -1,0 +1,67 @@
+{
+  "ep": 52,
+  "title": "Holy Body Fist Shatters Natal Star",
+  "summary": "Ziyue and Li Xiaoman trade barbs over Ye Fan until Star Peak disciples arrive to demand an explanation for the disciples he hurt. Li Xiaoman urges him to apologise, but Ye Fan says they trespassed on a main peak's inheritance ground, refuses, and beats the whole group. Star Peak's Senior Brother Chen Feng, an Other Shore cultivator, then demands that Ye Fan kneel and attacks with a star-power Jade Disc, the Twelve Galaxy Swords and three cloud, moon and star treasures, which Ye Fan blocks with the Green Copper while Chen Feng realises he is at the Divine Bridge realm. Ye Fan also produces fragments of the Great Void Hand Seal, leaving an onlooker wondering how he learned the Void technique from the short excerpt they wrote him. Chen Feng binds him with his natal star, the Big Dipper, and Heavenly Pivot divine swords; when the Jie Secret fails to trigger, Ye Fan smashes the natal star with his fist, and Chen Feng answers with the Seven Star Transformation to lock space and time.",
+  "events": [
+    "Ziyue and Li Xiaoman spar verbally over their ties to Ye Fan",
+    "Star Peak disciples demand an apology; Ye Fan refuses and beats them",
+    "Chen Feng arrives and attacks with the Jade Disc and Twelve Galaxy Swords",
+    "Ye Fan blocks with the Green Copper; his Divine Bridge realm is exposed",
+    "He uses fragments of the Great Void Hand Seal",
+    "The Jie Secret fails to trigger; he smashes Chen Feng's natal star",
+    "Chen Feng unleashes the Seven Star Transformation"
+  ],
+  "introduced": [
+    "Chen Feng (Star Peak)",
+    "Jade Disc",
+    "Twelve Galaxy Swords",
+    "natal star (Big Dipper)",
+    "Great Void Hand Seal"
+  ],
+  "cultivation": "Chen Feng is at the Other Shore realm; Ye Fan is revealed to be at the Divine Bridge realm.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Divine Bridge",
+      "quote": "Nafas ini.. ...sebenarnya adalah Alam Jembatan Ilahi",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Chen Feng (Star Peak senior)",
+      "realm": "Other Shore",
+      "quote": "dia berada di Alam Paramita",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "li-xiaoman",
+      "name": "Li Xiaoman",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Removed Ji Hong from 'introduced': he is not named or shown this episode (first named on screen EP53)",
+    "Added Chen Feng's Other Shore realm and Ye Fan's Divine Bridge exposure",
+    "The natal star is Chen Feng's Big Dipper; Ye Fan smashes it after the Jie Secret fails"
+  ],
+  "flags": [
+    "14:36-14:58 an unnamed onlooker says 'I only wrote him a short message' and wonders how he knows the Void technique; probably Ziyue, but the speaker isn't shown in the subs",
+    "'Alam Paramita' is used for the Other Shore realm",
+    "The episode ends mid-fight on a cliffhanger"
+  ]
+}

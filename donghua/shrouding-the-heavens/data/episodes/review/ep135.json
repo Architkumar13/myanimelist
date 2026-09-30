@@ -1,0 +1,109 @@
+{
+ "ep": 135,
+ "title": "Jade Lake Gathers the Heroes",
+ "summary": "Among the dead Dragon Transformation and half-step Great Power experts, Ye Fan seals Jiang Huai'an, whose Wheel Sea is broken but Dao Palace intact, in a latrine for a hundred years. Jiang Yichen admits only that the Wanchu and Zifu Holy Sons were involved and is sealed for five hundred. The group lies low at the training ground of the leader of the 13 Great Bandits, where Nannan and Ye Fan watch the stars and talk about family. The Yaochi Holy Maiden personally invites him to the Yaochi Grand Gathering to help reseal King Stones left by the Queen Mother of the West and the Heavenly Source Master, and warns him of a secret Saint-Killing Alliance of holy-land talents. At Yaochi, the Wanchu Holy Lord (Immortal Platform) watches him, and Sheng Huangzi, the Holy Monkey, raids the peach garden for peaches to save his tribe. Master Ouyang Ye of the Source Master family seals one stone, then flees from a second, the Nine-Aperture Human Stone of the Divine race; Ye Fan seals it with the Heavenly Source technique while the Holy Monkey gives blood, despite Ouyang's sabotage of his patterns.",
+ "events": [
+  "Jiang Huai'an sealed in a latrine for a hundred years",
+  "Jiang Yichen sealed for five hundred years",
+  "The group hides at the 13 Great Bandits leader's training ground",
+  "The Yaochi Holy Maiden invites Ye Fan and warns of the Saint-Killing Alliance",
+  "The Holy Monkey raids the Yaochi peach garden",
+  "Ouyang Ye fails with the Nine-Aperture Human Stone",
+  "Ye Fan seals the King Stone with the Holy Monkey's blood"
+ ],
+ "introduced": [
+  "Saint-Killing Alliance",
+  "King Stones (Yaochi)",
+  "Ouyang Ye (Source Master family)",
+  "Nine-Aperture Human Stone",
+  "Wanchu Holy Lord",
+  "Yaochi peach garden"
+ ],
+ "cultivation": "Jiang Huai'an's Wheel Sea is shattered, but his Dao Palace survives. The Wanchu Holy Lord is captioned Immortal Platform.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "jiang-yichen",
+   "name": "Jiang Yichen",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Jiang Huai'an",
+   "realm": null,
+   "quote": null,
+   "look": "Sealed in a latrine",
+   "first": false
+  },
+  {
+   "id": "nannan",
+   "name": "Nannan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yaochi-holy-maiden",
+   "name": "Yaochi Holy Maiden",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "sheng-huangzi",
+   "name": "Sheng Huangzi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Ouyang Ye",
+   "realm": null,
+   "quote": "[Ouyang Ye, / Keluarga Master Sumber]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Wanchu Holy Lord",
+   "realm": "Immortal Platform",
+   "quote": "[Wanchu Sovereign, Immortal Platform Realm]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "hei-huang",
+   "name": "Hei Huang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "The Battle Saint Ape isn't being chased by Yaochi but is bargaining for peaches by blooding the King Stone; Ye Fan helps him",
+  "Added Jiang Huai'an's latrine sealing (from EP134 in the old data), the Saint-Killing Alliance warning and Ouyang Ye"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "04:20: 'Kemampuan Hebat Setengah Langkah (*Platform Abadi)' is a translator note for half-step Great Power",
+  "10:44: the caption is in English ('Wanchu Sovereign, Immortal Platform Realm')",
+  "18:36: the King Stone's energy 'flows into Nannan in the bottle' is unclear",
+  "20:35 onward is a preview of EP136"
+ ]
+}

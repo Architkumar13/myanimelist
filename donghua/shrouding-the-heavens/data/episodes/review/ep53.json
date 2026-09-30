@@ -1,0 +1,80 @@
+{
+  "ep": 53,
+  "title": "Escape from Taixuan",
+  "summary": "Ye Fan finally triggers the Jie Secret, overwhelms Chen Feng with several times his normal power, and spares his life. Two Star Peak elders arrive, but Li Ruoyu smooths it over as a finished contest between peaks and they leave. Li Ruoyu then calls out a hidden watcher: Ji Hong, a Ji family Immortal Platform elder whom Ziyue calls Ancestral Grandfather, who exchanges Void and Clumsy Peak techniques with Li Ruoyu and says he has come to take her home. Ziyue flees with Ye Fan and quizzes him about the Void technique and the Nine Secrets; he lures Ji Hong away and promises to come back to her. Days later, still searching for the Domain Gate, Ye Fan meets the Old Madman grieving that Tianxuan is dead, learns the Tianxuan Holy Maiden was his junior sister, and studies the madman's footprints, which form a complete Dao-pattern footwork technique. He decides to follow the madman in case it leads to another chance.",
+  "events": [
+    "The Jie Secret triggers and Ye Fan defeats Chen Feng, sparing him",
+    "Li Ruoyu sends away the Star Peak elders",
+    "Ji Hong reveals himself and trades techniques with Li Ruoyu",
+    "Ziyue and Ye Fan flee; Ye Fan lures Ji Hong away and promises to return",
+    "Ye Fan finds the Old Madman mourning Tianxuan",
+    "He learns a Dao-pattern footwork technique from the madman's footprints",
+    "He decides to follow the madman"
+  ],
+  "introduced": [
+    "Ji Hong",
+    "Dao-pattern footwork"
+  ],
+  "cultivation": "Ji Hong is captioned at the Immortal Platform realm.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Chen Feng (Star Peak senior)",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "li-ruoyu",
+      "name": "Li Ruoyu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-hong",
+      "name": "Ji Hong",
+      "realm": "Immortal Platform",
+      "quote": "[Alam Platform Abadi, Sekte Keluarga Ji Kuno, Ji Hong]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "old-madman",
+      "name": "Old Madman",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "The Immortal Platform caption belongs to Ji Hong, not Li Ruoyu",
+    "Ye Fan does not leave Taixuan this episode; he stays hidden and follows the Old Madman",
+    "The Tianxuan Holy Maiden does not appear; the madman only mentions her (as his junior)",
+    "Added Ji Hong's debut and the footwork technique"
+  ],
+  "flags": [
+    "06:38 'mengendalikan sloton' is garbled (probably 'controlling space')",
+    "The subs call Tianxuan 'Langit Surgawi' / 'Celestial Jade' in different lines"
+  ]
+}

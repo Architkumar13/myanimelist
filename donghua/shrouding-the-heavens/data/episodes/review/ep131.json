@@ -1,0 +1,86 @@
+{
+ "ep": 131,
+ "title": "Holy Cliff Yields a Nine Secret",
+ "summary": "At the Holy Cliff, where flight is sealed by Wu Shi's formation and a Perfect Holy Body once fell, the group finds an incomplete True Sun Scripture and runs from a three-legged Golden Crow. Following an old scroll's map, they find the coffin of the Heavenly Court's lord, an ancient assassin Saint with a broken neck and an imperial spear, who died trying to use a fragment to activate the Xing Secret. Its inscription appears, and Hei Huang shocks everyone by grasping it first and running on two legs. The Perfect Holy Body's corpse then stirs, and a primordial wisp of the Undying Daoist reveals that he engineered their easy access and offers two more secrets if they carry him out. When they refuse, he attacks with his World of Freedom. Ye Fan takes control of the Perfect Holy Body's corpse and hits back with the Heavenly Court lord's imperial spear, destroying the killing intent, but Wu Shi's Investiture of the Gods list descends and seals the Undying Daoist again.",
+ "events": [
+  "Wu Shi's formation seals flight at the Holy Cliff",
+  "An incomplete True Sun Scripture found; a three-legged Golden Crow chases them",
+  "The Heavenly Court lord's corpse and the Xing Secret inscription",
+  "Hei Huang learns the Xing Secret first and walks on two legs",
+  "The Undying Daoist's primordial spirit offers a deal, then attacks",
+  "Ye Fan controls the Perfect Holy Body's corpse and wields the Heavenly Court spear",
+  "Wu Shi's Investiture of the Gods list re-seals the Undying Daoist"
+ ],
+ "introduced": [
+  "True Sun Scripture",
+  "Three-legged Golden Crow",
+  "Heavenly Court lord (corpse)",
+  "Xing Secret",
+  "Perfect Holy Body's corpse",
+  "Undying Daoist",
+  "World of Freedom",
+  "Investiture of the Gods list"
+ ],
+ "cultivation": null,
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "hei-huang",
+   "name": "Hei Huang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "old-madman",
+   "name": "Old Madman",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "nannan",
+   "name": "Nannan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-heishui",
+   "name": "Li Heishui",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Undying Daoist",
+   "realm": null,
+   "quote": "[Taois Abadi, / Secercah Jiwa Primordial]",
+   "look": null,
+   "first": true
+  }
+ ],
+ "changes": [
+  "The Xing Secret is found on the Heavenly Court lord's corpse; Hei Huang learns it first, and Ye Fan's mastery comes in EP132",
+  "Added the Perfect Holy Body corpse fight and the Investiture of the Gods sealing"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "08:35: 'Kata Rahasia' / 'Rahasia Kata' is a garbled rendering of the Xing Secret (行字秘), called 'Langkah Rahasia' elsewhere",
+  "15:03: a stray line 'Tapi makanan.' is a mistranslation",
+  "Wu Shi isn't on screen; only his formation and list"
+ ]
+}

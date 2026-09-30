@@ -1,0 +1,81 @@
+{
+  "ep": 143,
+  "title": "Tribulation Destroys the Rabble",
+  "summary": "Ye Fan studies the Three Seals and works out that they must be used in sequence: Heaven Overturning to bind, Mountain Embracing to crush, Human King to kill. Yan Yunluan, healed by Xiao Mingyuan with Xiao family arts, comes back with Mingyuan for revenge. Ye Fan tests the combined seals on Yan. Yan breaks through mid-fight and conjures a heavenly-tribulation thunder bell, but Ye Fan hijacks the tribulation to break into Dragon Transformation himself. When Xiao Mingyuan tries to blood-sacrifice Lu City's people to summon Xiao clan elders, Ye Fan kills him, even though Mingyuan says his clan is allied with the Wang family of the Northern Plains. Yu Die promises to smooth things over, and she and Dongfang Ye offer to help find a Dragon Transformation scripture in the Immortal Palace realm. At another entrance they find Duan De running a scam. Ye Fan catches him in a formation prepared by 'a mighty being', and Dongfang Ye strips him of his loot, including King Yuhua's Nine Divine Weapons.",
+  "events": [
+    "Ye Fan works out the Three Seals combination",
+    "Yan Yunluan and Xiao Mingyuan attack together",
+    "Yan conjures a tribulation thunder bell; Ye Fan uses the tribulation to enter Dragon Transformation",
+    "Xiao Mingyuan tries a blood sacrifice of Lu City; Ye Fan kills him",
+    "Yu Die and Dongfang Ye offer to help find a Dragon Transformation scripture",
+    "Duan De is trapped and stripped of his loot, including King Yuhua's Nine Divine Weapons"
+  ],
+  "introduced": [
+    "King Yuhua's Nine Divine Weapons",
+    "Wang family of the Northern Plains (named)",
+    "Qi Lin (named only)"
+  ],
+  "cultivation": "Ye Fan breaks through from Four Poles to Dragon Transformation using the heavenly tribulation. Caption at 10:04: [Ye Fan, Transformasi Naga]. Yan Yunluan breaks through a realm mid-fight (level not stated).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Dragon Transformation",
+      "quote": "[Ye Fan, Transformasi Naga]",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Yan Yunluan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Xiao Mingyuan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yu-die",
+      "name": "Yu Die",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "dongfang-ye",
+      "name": "Dongfang Ye",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "duan-de",
+      "name": "Duan De",
+      "realm": null,
+      "quote": null,
+      "look": "Stripped naked by Dongfang Ye",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Ye Fan takes the Wanshang Bow in EP142. Here Yan Yunluan suppresses it and Ye Fan fights with the Three Seals",
+    "There is no mention of '81 heavenly-dragon strikes'. Ye Fan takes over Yan Yunluan's tribulation to break through",
+    "Added Xiao Mingyuan's blood sacrifice and death",
+    "Duan De is trapped and robbed of the Nine Divine Weapons"
+  ],
+  "flags": [
+    "10:41–10:55 'Xiao Ming Yuan! ... Bagaimana mungkin kamu lebih cepat dariku?': Ye Fan chases a fleeing Mingyuan. Yan Yunluan's fate after the tribulation is never shown or stated",
+    "16:32 the trap formation was made 'by a mighty being'; this is most likely Hei Huang, but he is not named",
+    "14:30 Qi Lin is named only as Qi Huoshui's brother, who probably rescued her"
+  ]
+}

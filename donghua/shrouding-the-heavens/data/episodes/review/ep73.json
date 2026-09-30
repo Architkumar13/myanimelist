@@ -1,0 +1,63 @@
+{
+  "ep": 73,
+  "title": "Showing Might at the Stone Workshop",
+  "summary": "Ye Fan and Lei Bo fight their way up the floors of the Qingxia Sect's stone-gambling workshop to reach the owner holding Wang Shu. Ye Fan wins on every floor, cutting a Ghost Crack Stone for 500 grams of source and then a Red Fire mutated source. On the fifth floor Young Master Liu Cheng'en of the Qingxia Sect wins the first 50 kg bet by secretly switching stones. Ye Fan then stakes himself, picks the low-grade stones the experts threw away, and cuts an Ancient Larva Source worth 150 kg. When Liu hands over Wang Shu, the stones stored there have brought out Wang Shu's and Lei Bo's hidden traits: horns, and blood that glows silver. Liu calls them man-eating ancient creatures and urges Ye Fan to kill them for revenge. Ye Fan refuses: old grudges shouldn't pass down the generations, and he only fights invaders and bullies. The Qingxia Sect declares him an enemy, and he beats Liu's men.",
+  "events": [
+    "Ye Fan wins on the lower floors of the workshop (Ghost Crack Stone, Red Fire mutated source)",
+    "Liu Cheng'en of the Qingxia Sect wins a 50 kg bet by switching stones",
+    "Ye Fan stakes himself and cuts an Ancient Larva Source worth 150 kg",
+    "Wang Shu and Lei Bo show horns and silver-glowing blood",
+    "Liu urges Ye Fan to kill them as ancient enemies of humanity",
+    "Ye Fan refuses, gives his speech against inherited grudges, and fights the Qingxia Sect"
+  ],
+  "introduced": [
+    "Liu Cheng'en",
+    "Qingxia Sect",
+    "Mutated source (Red Fire, Ancient Larva)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "lei-bo",
+      "name": "Lei Bo",
+      "realm": null,
+      "quote": null,
+      "look": "Silver-glowing blood and forehead marks revealed (implied by 'dua monster berkulit manusia', 17:17)",
+      "first": false
+    },
+    {
+      "id": "wang-shu",
+      "name": "Wang Shu",
+      "realm": null,
+      "quote": null,
+      "look": "Horns on the head, silver-glowing blood ('Tanduk menonjol dari kepala, Darah bersinar keperakan', 16:37)",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Liu Cheng'en",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Old summary just said 'stone-gambling success'. Now it covers the Qingxia workshop, the rescue of Wang Shu, Liu Cheng'en's cheating, the 150 kg Ancient Larva Source, the silver-blood reveal, and Ye Fan's refusal to kill Wang Shu and Lei Bo."
+  ],
+  "flags": [
+    "16:27 and 16:57 'Dia Bo' is a mistranscription of Lei Bo.",
+    "The same stone is called 'Sumber Larva Purba' (3:46), 'Sumber Lava Purba' (15:13) and 'Batu Lava Kuno'. The 20:49 info card explains spirit larvae, so Ancient Larva Source is the right reading.",
+    "The 'Wanita cantik' who picks stones for Liu and is wagered in the second round (12:23–12:31) is never named. She is left out of the cast.",
+    "Liu Cheng'en's death isn't shown on screen, but EP74 13:20 says Ye Fan's group killed 'Tuan Muda Liu'."
+  ]
+}

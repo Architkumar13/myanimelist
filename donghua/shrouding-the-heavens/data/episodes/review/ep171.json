@@ -1,0 +1,101 @@
+{
+ "ep": 171,
+ "title": "Return to Beidou",
+ "summary": "In Beidou, Ji Haoyue tends the dying Li Heishui, who lists the fallen: Jiang Huairen, the Great Bandits' sons, and even Hei Huang, who he says died before his eyes. Ji Haoyue insists some may still be alive and that 'the boy named Ye' may return. Ye Fan arrives with Ye Tong, Li Tian and Yan Yixi after more than ten years away, and at a tavern in the Southern Ridge's Nanling City he hears the news. Pang Bo, Ji Haoyue, Li Heishui and the Battle Saint Ape (Sheng Huangzi) were hunted for years and have recently disappeared. Dongfang Ye and several Great Bandits' descendants were cornered and killed at Falling Eagle Cliff, and the Northern Plains Wang clan, now allied with the ancient races, is about to wipe out Dongfang Ye's barbarian tribe. At the Tushi Mountains village, the Wang 13th and 10th Elders (Immortal Platform 2nd Heaven) demand the tribe's ancient scripture, and Dongfang Man, Dongfang Ye's younger brother, leads a hopeless last stand. Ye Fan arrives and kills the Wang 13th Elder.",
+ "events": [
+  "Ji Haoyue cares for the dying Li Heishui",
+  "Ye Fan returns to Beidou after more than ten years",
+  "Tavern gossip: his friends were hunted and have vanished; Dongfang Ye fell at Falling Eagle Cliff",
+  "The Wang clan allies with the ancient races and moves on the barbarians",
+  "The Wang elders attack the barbarian village",
+  "Dongfang Man's last stand",
+  "Ye Fan arrives and kills the Wang 13th Elder"
+ ],
+ "introduced": [
+  "Dongfang Man",
+  "Wang 13th Elder",
+  "Wang 10th Elder",
+  "Nanling City",
+  "Tushi Mountains",
+  "Falling Eagle Cliff",
+  "Jiang Huairen (named)"
+ ],
+ "cultivation": "Captions at Immortal Platform 2nd Heaven: Wang 13th Elder, Wang 10th Elder, Dongfang Man, 'Wang Quanzu'. Ye Fan's realm isn't stated.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "ji-haoyue",
+   "name": "Ji Haoyue",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-heishui",
+   "name": "Li Heishui",
+   "realm": null,
+   "quote": null,
+   "look": "Gravely wounded and near death",
+   "first": false
+  },
+  {
+   "id": "ye-tong",
+   "name": "Ye Tong",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-tian",
+   "name": "Li Tian",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yan-yixi",
+   "name": "Yan Yixi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Dongfang Man",
+   "realm": "Immortal Platform 2nd Heaven",
+   "quote": "[Dongfang Man, Suku Barbar, Platform Abadi Dua Surga]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Wang 13th Elder",
+   "realm": "Immortal Platform 2nd Heaven",
+   "quote": "[Tetua Ketigabelas Keluarga Wang Beiyuan, Platform Abadi Dua Langit]",
+   "look": null,
+   "first": true
+  }
+ ],
+ "changes": [
+  "Added the opening scene with Ji Haoyue and Li Heishui.",
+  "He kills the Wang 13th Elder. There is no '7th ancestor' here; EP172 reports the 17th and 13th Uncles as fallen.",
+  "Destroying the warships happens in EP172, not here."
+ ],
+ "flags": [
+  "14:30 / 14:54: Dongfang Man and a barbarian named 'Wang Quanzu' are both captioned at Immortal Platform 2nd Heaven. That seems high for a tribe that is losing badly, and 'Wang Quanzu' is an odd name for a barbarian. It may be a caption error.",
+  "Numbering mismatch: the captions show the 13th and 10th Elders, but EP172 (03:26) reports 'Paman Ketujuh Belas dan Paman Ketiga Belas' (17th and 13th) as fallen.",
+  "19:52–20:04 is a preview. Its lines ('Aku hampir terbunuh…', 'aku menunggumu di Nanling') recur in EP172 and EP173."
+ ]
+}

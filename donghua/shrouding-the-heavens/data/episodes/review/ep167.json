@@ -1,0 +1,108 @@
+{
+ "ep": 167,
+ "title": "Ye Tong, the First Disciple",
+ "summary": "Four years after the North Sea battle, Ye Fan (now free of the North Sea Eye) reflects on briefly touching the legendary God Forbidden Domain in his fight with Yi Qingwu, a gift from the Sun Holy Emperor's blessing. The Golden Crow Third Prince corners the last descendant of the Sun Holy Emperor, a child guarded by 'Uncle Jiang', to seize the Sun True Scripture. Ye Fan intervenes and the Taiyin Divine Son attacks with a sacred weapon made from an Ancient Moon Queen descendant's skull, but Ye Fan also knows the Taiyin (moon) path, seals the skull with Wang Teng's Immortal Exile and takes it. Uncle Jiang dies of his wounds. Ye Fan comforts the orphan, who insists on becoming his disciple, and he names the boy Ye Tong; the child has a Sun Body, the nine ancient characters from the Sun Holy Emperor help him, and he cultivates even in his sleep. Elsewhere, Zi Tianfeng of Divine Spirit Valley hears that the Old Madman blocked the purple bronze warship but probably fell to the Thousand-Armed Divine Demon, and ancient-clan figures boast of the Heavenly Emperor lineage's coming rise. After a nightmare about Beidou drowning in ancient-race armies, Ye Fan decides to go home; he tells Ye Tong about Earth, and Yan Yixi and Li Tian, disgraced by the Goddess Furnace, want to leave with him through the five-colour altar under Bajing Palace.",
+ "events": [
+  "Ye Fan reflects on the God Forbidden Domain and the Sun Holy Emperor's blessing",
+  "The Golden Crow Third Prince attacks the Sun Holy Emperor's last descendant",
+  "Ye Fan beats the Taiyin Divine Son and takes his Saint skull weapon",
+  "Uncle Jiang dies; the orphan becomes Ye Fan's disciple, Ye Tong",
+  "The nine ancient characters and the Sun Body are explained",
+  "Zi Tianfeng learns of the Old Madman's apparent fall",
+  "Ye Fan's nightmare about Beidou",
+  "Yan Yixi and Li Tian ask to leave Ziwei; they target Bajing Palace's altar"
+ ],
+ "introduced": [
+  "Ye Tong",
+  "Uncle Jiang",
+  "Golden Crow Third Prince",
+  "Sun Body",
+  "Zi Tianfeng",
+  "Divine Spirit Valley",
+  "Huo Linshan",
+  "Huo Qizi",
+  "Immortal Exile (technique)",
+  "Sun True Scripture"
+ ],
+ "cultivation": "Ye Fan's realm isn't stated. The God Forbidden Domain is said to let someone skip nine minor levels. Golden Crow Third Prince, Zi Tianfeng, Huo Linshan and Huo Qizi are captioned only as Immortal Platform.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "ye-tong",
+   "name": "Ye Tong",
+   "realm": null,
+   "quote": "[Ye Tong, Keturunan Kaisar Suci Matahari]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Taiyin Divine Son",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Golden Crow Third Prince",
+   "realm": "Immortal Platform",
+   "quote": "[Pangeran Ketiga Klan Gagak Emas, Platform Abadi]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "zi-tianfeng",
+   "name": "Zi Tianfeng",
+   "realm": "Immortal Platform",
+   "quote": "[Zi Tianfeng, Lembah Roh Ilahi, Platform Abadi]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "yan-yixi",
+   "name": "Yan Yixi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-tian",
+   "name": "Li Tian",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "old-madman",
+   "name": "Old Madman (reported)",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "The old summary had a Golden Crow attack on the Sun Ancient Sect and Ye Fan killing five princes with the Wanshang Bow. The subtitles show a smaller fight: the Golden Crow Third Prince and the Taiyin Divine Son against Ye Fan, over the Sun Holy Emperor's descendant and his guardian Uncle Jiang.",
+  "Ye Fan doesn't beat up Li Tian; Ye Tong teases him and Yan Yixi as 'perverted uncles'.",
+  "Added Zi Tianfeng's first on-screen scene, the report of the Old Madman's fate, the Beidou nightmare and the altar plan.",
+  "Removed the wiki claim that Ye Fan climbs to the 8th minor step. It isn't stated."
+ ],
+ "flags": [
+  "00:38–01:43: the episode opens mid-scene ('Pecah!', 'Wilayah Terlarang Sang Dewa'). It seems to be the end of the North Sea Eye escape from EP166 (not available), so the context is unclear.",
+  "03:24: it's not stated outright that the Golden Crow Third Prince dies ('Hanya satu langkah?').",
+  "05:40: Ye Fan calls the Immortal Exile move one 'used by my son Wang Teng'. This is probably a taunt, not literal.",
+  "10:13: the report calls the interceptor 'Putra Suci Tian Xuan' (Holy Son of Tianxuan) and the enemy 'Buddha Seribu Tangan'. These are taken to mean the Old Madman and the Thousand-Armed Divine Demon.",
+  "This file has no credits line and a shorter runtime (about 17 min) than neighbouring episodes."
+ ]
+}

@@ -1,0 +1,67 @@
+{
+  "ep": 74,
+  "title": "Qingxia Sect Runs Rampant",
+  "summary": "Zhang Wuye explains that Stone Village's ancestor, a Source Master, once brought home two children with silver blood and glowing foreheads. The ancestor sealed their bloodline and married them to humans, and Wang Shu and Lei Bo are their descendants. Ye Fan trains the pair by having them haul stone pillars up a mountain. They awaken their forehead power and soon match cultivators at the Divine Bridge realm; the episode's lore card names their bloodline the Silver Blood Clan, one of the ten Ancient King clans. Ye Fan's earlier attempt at Dao Palace failed, but with the source he has saved he tries again, driven by the thought of his aging parents and going home. After half a day five divine energies surge into the sky and an 800-year-dead tree comes back to life. His Wheel Sea reaches perfection and he leaves the Bitter Sea behind for a higher realm. The Qingxia Sect then raids Stone Village to avenge Young Master Liu, and Wang Shu and Lei Bo crush the raiders. Ye Fan takes the two of them straight to the Qingxia Sect's mountain, beats its disciples, and announces he will found his own sect on its grounds.",
+  "events": [
+    "Zhang Wuye tells the origin of Wang Shu and Lei Bo's silver bloodline",
+    "Ye Fan trains the two by hauling stone pillars up a mountain",
+    "Ye Fan uses his stockpiled source for a second Dao Palace attempt",
+    "Five divine energies surge and a dead tree revives as Ye Fan leaves the Wheel Sea",
+    "Wang Shu and Lei Bo reach strength comparable to Divine Bridge",
+    "The Qingxia Sect raids Stone Village over Young Master Liu's death and is beaten",
+    "Ye Fan, Wang Shu and Lei Bo storm the Qingxia Sect"
+  ],
+  "introduced": [
+    "Silver Blood Clan",
+    "Taichu (Primordial) Ancient Mine (named)"
+  ],
+  "cultivation": "Ye Fan's Wheel Sea reaches perfection ('Roda Laut dari Panggung Sempurna', 11:26) and he breaks out of the Bitter Sea into Dao Palace; EP75 3:57 confirms he 'baru saja memasuki Istana Dao'. Wang Shu and Lei Bo reach strength comparable to the Divine Bridge realm (12:22).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Dao Palace",
+      "quote": "keluar dari 'Laut Kepahitan'... naik ke tingkat yang lebih tinggi (11:32)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "zhang-wuye",
+      "name": "Zhang Wuye",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "wang-shu",
+      "name": "Wang Shu",
+      "realm": "Divine Bridge",
+      "quote": "sebanding dengan Alam Jembatan Ilahi (12:22)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "lei-bo",
+      "name": "Lei Bo",
+      "realm": "Divine Bridge",
+      "quote": "sebanding dengan Alam Jembatan Ilahi (12:22)",
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Kept the Dao Palace breakthrough, which the subtitles support, but dropped '100 pure source / Heart's Divine Treasury': the subtitles never name a treasury or an amount.",
+    "Added the silver-blood backstory, the training of Wang Shu and Lei Bo, and the Qingxia raid on Stone Village.",
+    "Fixed the order: in this episode only Wang Shu and Lei Bo fight the Qingxia raiders. The fight with the Qingxia Sect Master comes in EP75."
+  ],
+  "flags": [
+    "The dialogue never names the Dao Palace breakthrough outright. 11:26–11:33 only says his Wheel Sea is perfected and he moves past the Bitter Sea, and EP75 3:57/4:24 is what confirms Dao Palace. No treasury is named.",
+    "7:55 'Terobosan terakhir Istana Dao gagal' means an earlier Dao Palace attempt failed. No earlier episode in my range shows it.",
+    "The ancestor isn't named here. EP77 6:28 and EP78 17:24 point to the Zhang family's Source Master Zhang Lin.",
+    "Wang Shu and Lei Bo are only 'comparable to' Divine Bridge. That is a strength comparison, not a stated realm.",
+    "18:56–19:07 is preview material from EP75 ('Godking Jijiang' = 'Divine King Jiang', i.e. Jiang Taixu) and isn't counted here.",
+    "19:31 '[Dunia Sempurna]' is a cross-promo for Perfect World."
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "ep": 55,
+  "title": "Clash of the Prodigies",
+  "summary": "Hua Yunfei invites Ye Fan to sit and listen to his zither while every power in the Eastern Wasteland gathers at the ruined Taixuan Domain Gate. At the cocoon, Jiang Ming of the Jiang family and a Yaoguang elder confront Ji Hong, each claiming the right to protect the Saint inside, until Jiang Ming proposes that the young generation decide it: whoever touches the cocoon first takes it home. The Holy Son of Yaoguang, Yao Xi, Jiang Yifei and Ji Haiyue, all captioned at the Four Poles realm, step forward, and Ji Haiyue brags about his brother before being ordered back as Ji Haoyue arrives from fighting the demon race at Xuanyuan Valley. The Holy Son's Golden Light Fortress, Ji Haoyue's Great Void Hand Seal and Jiang Yifei's Eight Gods Brutal Force clash, and Jiang Yifei cracks the fortress with a blow aimed at the heart. Meanwhile Ye Fan and Hua Yunfei talk about Ye Fan's home, which Hua has heard about from Li Xiaoman. The cocoon then goes out of control and the elders scramble to form a restraining formation.",
+  "events": [
+    "Hua Yunfei invites Ye Fan to listen to his zither",
+    "Jiang Ming and a Yaoguang elder dispute the cocoon with Ji Hong",
+    "The young prodigies are set to compete for the cocoon",
+    "Ji Haiyue brags; Ji Haoyue arrives from Xuanyuan Valley",
+    "Holy Son vs Ji Haoyue vs Jiang Yifei; the Golden Light Fortress is cracked",
+    "Ye Fan and Hua Yunfei talk about Ye Fan's home",
+    "The cocoon goes out of control"
+  ],
+  "introduced": [
+    "Hua Yunfei",
+    "Jiang Ming",
+    "Yaoguang elder",
+    "Holy Son of Yaoguang",
+    "Yao Xi",
+    "Jiang Yifei",
+    "Ji Haiyue",
+    "Golden Light Fortress",
+    "Eight Gods Brutal Force",
+    "Nine-Wheel Luminous Moon (named)"
+  ],
+  "cultivation": "The Holy Son of Yaoguang, Yao Xi, Jiang Yifei and Ji Haiyue are all captioned at the Four Poles realm.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hua-yunfei",
+      "name": "Hua Yunfei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Jiang Ming",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Yaoguang elder",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "ji-hong",
+      "name": "Ji Hong",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yaoguang-holy-son",
+      "name": "Holy Son of Yaoguang",
+      "realm": "Four Poles",
+      "quote": "[Putra Suci Yaoguang, Tanah Suci Yaoguang, Alam Empat Kutub]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "yao-xi",
+      "name": "Yao Xi",
+      "realm": "Four Poles",
+      "quote": "[Yao Xi, Tanah Suci Yaoguang, Alam Empat Kutub]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "jiang-yifei",
+      "name": "Jiang Yifei",
+      "realm": "Four Poles",
+      "quote": "[Jiang Yifei, Keluarga Jiang Kuno, Alam Empat Kutub]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "ji-haiyue",
+      "name": "Ji Haiyue",
+      "realm": "Four Poles",
+      "quote": "[Ji Haiyue, Keluarga Ji Kuno, Alam Empat Kutub]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "ji-haoyue",
+      "name": "Ji Haoyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Specified the contest: whoever touches the cocoon first takes it",
+    "Added the Four Poles captions and the named techniques",
+    "Ye Fan does not fight this episode; he is listening to Hua Yunfei's zither"
+  ],
+  "flags": [
+    "Hua Yunfei is captioned 'Sekte Taixuan' (04:37); EP56 confirms he is from Star Peak",
+    "16:47 'even from a thousand miles away, one arrow is enough to stop you' has no clear speaker",
+    "17:34 'his life ended tragically' is commentary on the Holy Son's defeat, not a death (garbled line)",
+    "19:19-19:30 is a preview of the EP56/57 fight (the same lines recur at EP56 18:44 and in EP57)",
+    "Jiang Ming is not in the cast glossary"
+  ]
+}

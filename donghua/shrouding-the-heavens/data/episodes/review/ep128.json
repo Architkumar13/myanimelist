@@ -1,0 +1,68 @@
+{
+ "ep": 128,
+ "title": "Final Battle with Little Peng King",
+ "summary": "At the Feng Holy Lord's birthday, Ye Fan's plain-looking source stone opens to reveal Divine Source containing an ancient king clan's holy dragon horn worth five million jin, which squares his debt. Jin Chi demands a life-and-death duel, and they sign a pact before the gathered heroes, fighting on Shen Feng Island 800 li away. Jin Chi uses Sky Hawk Seizes the Dragon and the first four moves of the Heavenly Demon Saint-Slaying Art; Ye Fan counters with the Battle Holy Law and a black-hole evolution, tears off Jin Chi's wings and arm, and is still nearly killed by the fourth move after Jin Chi calls down his ancestors' spirits. At the brink of death Ye Fan comprehends the Taiji Divine Diagram and finishes Jin Chi with the Yin-Yang Dividing Line. The Old Peng King steps in to stop the kill and takes his defeated grandson home, and Jin Chi vows to stay in seclusion until he passes the Nine Saint Trials. At the Human World fortress, assassins and other factions plot to kill Ye Fan without openly crossing the Divine King.",
+ "events": [
+  "The dragon horn inside Divine Source clears Ye Fan's debt",
+  "Life-and-death pact signed with Jin Chi",
+  "The duel on Shen Feng Island: four moves of the Heavenly Demon Saint-Slaying Art",
+  "Ye Fan tears off Jin Chi's wings and arm",
+  "Ye Fan comprehends the Taiji Divine Diagram and wins with the Yin-Yang Dividing Line",
+  "The Old Peng King saves Jin Chi and takes him home",
+  "The Human World assassin dynasty plots against Ye Fan"
+ ],
+ "introduced": [
+  "Heavenly Demon Saint-Slaying Art",
+  "Taiji Divine Diagram",
+  "Yin-Yang Dividing Line",
+  "Old Peng King (Golden-Winged Peng King)",
+  "Human World (assassin dynasty)",
+  "Shen Feng Island"
+ ],
+ "cultivation": null,
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "jin-chi",
+   "name": "Jin Chi",
+   "realm": null,
+   "quote": null,
+   "look": "Loses both wings and an arm",
+   "first": false
+  },
+  {
+   "id": "feng-fenghuang",
+   "name": "Feng Fenghuang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Old Peng King",
+   "realm": null,
+   "quote": "Itu Raja Elang Tua!",
+   "look": null,
+   "first": true
+  }
+ ],
+ "changes": [
+  "Jin Chi isn't killed: the Old Peng King stops the final blow and takes him home, and Jin Chi goes into seclusion for the Nine Saint Trials",
+  "Added the dragon-horn birthday gift and the Human World planning scene; the assassin strike itself comes in EP129"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "06:57 and 08:53: someone calls Ye Fan 'Kakak ipar' (brother-in-law), probably a joke about his broken engagement to Feng Huang; the speaker isn't identified",
+  "17:02: whether Ye Fan meant to kill Jin Chi or the Old Peng King prevented it isn't fully clear, but Jin Chi is alive at 17:42–18:08",
+  "20:29 onward is a preview of EP129/130 (an ancient Saint's single hair)"
+ ]
+}

@@ -1,0 +1,137 @@
+{
+  "ep": 103,
+  "title": "Turmoil in the Holy City",
+  "summary": "Using Source Arts, Ye Fan opens a wooden box left by Senior Zhang Lin and finds a Human Essence Fruit, a life-extending divine medicine; Hei Huang eats one raw and raves. Fifth Master Zhang recalls that the ancestors' stones came from the Holy City, an ancient city that fell from the sky at the end of a freshwater sea in the Northern Territory and holds the most source in the world. Stone Village moves away from Purple Mountain before the Holy Lands' assault. Because the Holy Lords are gathering and Yaoguang runs strict checks at the gates, a decoy stays behind robbing source stones as 'Ye Fan' while he slips into the city as Gu Feng. On the boat he meets Tuoba Chang, and in the city Tu Fei's friend Li Heishui shows him the Ancient Road Altar and tells him that only Miaoyu Nunnery still has a place left at the Source Arts conference. Gu Feng wins the lotus chase on An Miaoyi's jade boat against suitors such as Yao Yuekong, Xia Yiming and Xiang Yifei, which makes him the fairy's guest of honour.",
+  "events": [
+    "Ye Fan finds a Human Essence Fruit in Zhang Lin's box",
+    "Fifth Master Zhang tells him about the Holy City",
+    "Stone Village is moved",
+    "A decoy robs source stones as 'Ye Fan' while he enters the Holy City as Gu Feng",
+    "He meets Tuoba Chang on the boat and Li Heishui in the city",
+    "The Ancient Road Altar and news of the Source Arts conference",
+    "Gu Feng wins An Miaoyi's lotus chase"
+  ],
+  "introduced": [
+    "Human Essence Fruit",
+    "Holy City",
+    "Ancient Road Altar",
+    "Tuoba Chang",
+    "Li Heishui",
+    "Miaoyu Nunnery",
+    "An Miaoyi",
+    "Yao Yuekong",
+    "Xia Yiming",
+    "Xiang Yifei",
+    "Five Elements Palace",
+    "Heavenly Demon Palace"
+  ],
+  "cultivation": "Captions: Li Heishui, Dao Palace; Yao Yuekong (Heavenly Demon Palace), Four Poles; Xia Yiming (Great Xia prince), Four Poles; Xiang Yifei (Holy Son of the Yan dynasty), Four Poles; An Miaoyi (Miaoyu Nunnery), Dao Palace.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Enters the city disguised as Gu Feng",
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "zhang-wuye",
+      "name": "Zhang Wuye",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "wang-shu",
+      "name": "Wang Shu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "lei-bo",
+      "name": "Lei Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Tuoba Chang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "li-heishui",
+      "name": "Li Heishui",
+      "realm": "Dao Palace",
+      "quote": "[Li Heishui, Alam Istana Dao]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "an-miaoyi",
+      "name": "An Miaoyi",
+      "realm": "Dao Palace",
+      "quote": "[An Miaoyi, Biara Miaoyu, Alam Istana Dao]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "yao-yuekong",
+      "name": "Yao Yuekong",
+      "realm": "Four Poles",
+      "quote": "[Yao Yuekong, Istana Iblis Surga, Alam Empat Kutub]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "xia-yiming",
+      "name": "Xia Yiming",
+      "realm": "Four Poles",
+      "quote": "[Xia Yiming, Pangeran Dinasti Xia, Alam Empat Kutub]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Xiang Yifei",
+      "realm": "Four Poles",
+      "quote": "[Xiang Yifei, Putra Suci Dinasti Yan, Alam Empat Kutub]",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Added the Human Essence Fruit, the move of Stone Village, the decoy plan, Tuoba Chang, Li Heishui, the Ancient Road Altar and the lotus chase",
+    "Recorded the realm captions for the new Central States elites"
+  ],
+  "flags": [
+    "07:38 'Kalau begitu, kamu tinggal saja di sini. Menyamar sebagai saya...' - who poses as the decoy Ye Fan is unclear (Tu Fei is in the Holy City later, so possibly Hei Huang)",
+    "07:52 says the 'king' in the Holy City is from 1,000 years ago, but EP104 16:43 says 'four thousand years ago'. EP104/109 fit 4,000, which matches Jiang Taixu's era",
+    "13:43 Xia Yiming is captioned 'Pangeran Dinasti Xia' (prince), not Holy Son; roster calls him Great Xia Holy Son"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "ep": 147,
+  "title": "Enlightenment of Eight Prohibitions",
+  "summary": "On the way to the Jiuli auction at Xiba City, Ye Fan meets Jin Chixiao, heir of the Huangjin family, who bullies him. Ye Fan secretly holes Jin's treasure ship and pockets about two million jin of the source that leaks out. At the auction he drives up Jin's bids on trivial lots to drain his funds. He wins one cheap lot and cuts it open to reveal top-grade dragon marrow, and pays 1.5 million jin for the Purple Dragon Marrow. In the final bidding war for the Biluo Bell, bidders must show all their source, and Ye Fan wins by a narrow margin with the source he took from Jin's ship. Outside, Jin Chixiao ambushes him with a Huangjin elder at the Immortal Platform realm. Ye Fan, only at Dragon Transformation 3rd level, is exposed as Ye Fan by the Mother Qi Cauldron. He then breaks through to the 'Eight Prohibitions', the ability to fight eight minor realms above his own, and overpowers the elder.",
+  "events": [
+    "Ye Fan sinks Jin Chixiao's ship and pockets the leaked source",
+    "He inflates bids at the Xiba auction to drain Jin's funds",
+    "He cuts open a lot and finds top-grade dragon marrow",
+    "He buys the Purple Dragon Marrow for 1.5 million jin",
+    "He wins the Biluo Bell by paying with Jin's own source",
+    "A Huangjin Immortal Platform elder ambushes him; his identity is exposed",
+    "He reaches the Eight Prohibitions and overpowers the elder"
+  ],
+  "introduced": [
+    "Xiba City auction",
+    "Eight Prohibitions",
+    "Huangjin family elder"
+  ],
+  "cultivation": "Ye Fan is still at Dragon Transformation 3rd level ('Hanya pada Transformasi Naga Level 3'). He fights eight minor realms up (Eight Prohibitions) against an Immortal Platform elder.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Dragon Transformation",
+      "quote": "Hanya pada Transformasi Naga Level 3",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jin-chixiao",
+      "name": "Jin Chixiao",
+      "realm": null,
+      "quote": "[Jin Chixiao, Penerus Keluarga Huangjin Utara]",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Huangjin family elder",
+      "realm": "Immortal Platform",
+      "quote": "[Tetua Keluarga Huangjin, Alam Platform Abadi]",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "This is not the start of the Wang Teng feud; Wang Teng does not appear. The episode is the auction con against Jin Chixiao and the fight with a Huangjin Immortal Platform elder",
+    "Ye Fan's Eight Prohibitions breakthrough comes in that fight"
+  ],
+  "flags": [
+    "04:30 'I never thought anyone would survive Demon Fire Hill' refers to Jin Chixiao's earlier encounter with Ye Fan, which is not in this range",
+    "13:08 'dua juta ekor sapi' is a mistranslation of 'two million jin' of source"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "ep": 149,
+  "title": "Seeking a Nine Secret in Qinling",
+  "summary": "Magnetic stones in the Cixing Mountains replay the past during storms. They show that the two Cai disciples went to Qinling, and that Hua Yunfei and Li Xiaoman have seen the same images. Ye Fan follows the trail of Hua Yunfei's Heaven-Swallowing Demon Art to the Qin Gate, a small, decayed sect deep in Qinling, and joins its eastern branch in disguise. There he wins over two bickering fellow disciples, defeats Gu King insects, and meets a sickly old man of unreadable power. The old man warns him away from the main peak, which holds the Nanling Heavenly Emperor's 'Holy Degree' secret art, and shares high-grade dragon marrow. He also speaks of the Immortal Dragon Nest and the Immortal Transformation Pool, where the Azure Emperor was born. A jade dropped by Princess Yueling points Ye Fan toward a black hole in the back mountain, a sign of Hua Yunfei. Meanwhile Hua Yunfei breaks through to Dragon Transformation 8th level by absorbing ancient corpses. He knows Ye Fan is there and orders Li Xiaoman to kill him at the next Weapon Secret carving.",
+  "events": [
+    "Magnetic stones show the Cai disciples fleeing to Qinling",
+    "Ye Fan tracks Hua Yunfei to the Qin Gate and joins its eastern branch",
+    "He defeats Gu King insects with his fellow disciples",
+    "A sickly old man warns him about the main peak and shares dragon marrow",
+    "The Immortal Dragon Nest and Immortal Transformation Pool are mentioned",
+    "Hua Yunfei reaches Dragon Transformation 8th level",
+    "Hua Yunfei orders Li Xiaoman to kill Ye Fan"
+  ],
+  "introduced": [
+    "Qinling Mountains",
+    "Qin Gate",
+    "Sickly old man",
+    "Immortal Dragon Nest",
+    "Immortal Transformation Pool",
+    "Princess Yueling (mentioned)"
+  ],
+  "cultivation": "Hua Yunfei: Dragon Transformation 8th level (16:50 caption: [Hua Yunfei, Transformasi Naga Level 8]).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "hua-yunfei",
+      "name": "Hua Yunfei",
+      "realm": "Dragon Transformation",
+      "quote": "[Hua Yunfei, Transformasi Naga Level 8]",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "li-xiaoman",
+      "name": "Li Xiaoman",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Sickly old man",
+      "realm": null,
+      "quote": "[Orang Tua yang Sakit]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Disguised with a heaven-earth transformation art",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Added the Qin Gate sect, the sickly old man, and the Immortal Dragon Nest and Immortal Transformation Pool set-up",
+    "Hua Yunfei breaks through to Dragon Transformation 8th level here"
+  ],
+  "flags": [
+    "Li Xiaoman is often mis-spelled 'Li Xiaomin' (04:59, 05:51, 14:18)",
+    "18:31–19:03 is a Year of the Horse New Year skit, not part of the story",
+    "The preview at 19:44 repeats EP148's closing preview"
+  ]
+}

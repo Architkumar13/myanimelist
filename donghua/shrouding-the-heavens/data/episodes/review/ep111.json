@@ -1,0 +1,115 @@
+{
+  "ep": 111,
+  "title": "The Release Assembly",
+  "summary": "Jiang Taixu calls the Holy Lands and great clans to an assembly, where 'Gu Feng' is asked to drop his disguise and is revealed as Ye Fan. Taixu declares that killing him would be the same as killing Taixu himself. When the Ji family accuses Ye Fan of stealing the Ancient Void Scripture's secrets, Taixu makes him swear never to share them. The Old Golden-Winged Peng King (Immortal Platform 2nd level) and Yaoguang demand the prodigies Ye Fan sealed, and Taixu orders them all released: Jin Chi, the Yaoguang Holy Son and Holy Maiden, the Zifu disciples, Zi Xia and even a Jiang clansman. When the rivals complain that no Holy Body has ever reached the Four Poles, Ye Fan vows to break through and face them all. Taixu gives him ten million catties of source, and the Feng clan, the Thirteen Great Bandits (one million) and Yaochi (three Ancient Enlightenment Tea leaves) add gifts. Feng Lie of the Feng clan brings three million catties as a dowry for his sister Feng Fenghuang under a match Taixu arranged. Ye Fan refuses the marriage, but after Ye Fan beats him, Feng Lie accepts him as a brother-in-law and leaves the source anyway.",
+  "events": [
+    "Ye Fan unmasks at Jiang Taixu's assembly",
+    "Taixu puts Ye Fan under his protection",
+    "Ye Fan swears to keep the Void Scripture secret",
+    "Taixu orders every sealed prodigy freed",
+    "Ye Fan vows to reach the Four Poles",
+    "The great powers donate source and tea leaves",
+    "Feng Lie's dowry; Ye Fan refuses and beats him"
+  ],
+  "introduced": [
+    "Old Golden-Winged Peng King",
+    "Feng Lie",
+    "Feng clan",
+    "Ancient Enlightenment Tea leaves",
+    "Thirteen Great Bandits (donation)"
+  ],
+  "cultivation": "Old Golden-Winged Peng King is captioned Immortal Platform Level 2. Ye Fan is still at Dao Palace. Jiang Taixu gives him ten million catties of source for the Four Poles.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Drops the Gu Feng disguise",
+      "first": false
+    },
+    {
+      "id": "jiang-taixu",
+      "name": "Jiang Taixu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Old Golden-Winged Peng King",
+      "realm": "Immortal Platform (2nd Heaven)",
+      "quote": "[Raja Elang Tua Bersayap Emas, Platform Abadi Level 2]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "jin-chi",
+      "name": "Jin Chi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yaoguang-holy-son",
+      "name": "Holy Son of Yaoguang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yao-xi",
+      "name": "Yao Xi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "zi-xia",
+      "name": "Zi Xia",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Feng Lie",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "feng-fenghuang",
+      "name": "Feng Fenghuang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Explained 'release assembly': Taixu forces Ye Fan to free everyone he sealed",
+    "Added the source donations, the Void Scripture oath and Feng Lie's dowry",
+    "Feng Fenghuang is only mentioned here; she first appears on screen in EP117"
+  ],
+  "flags": [
+    "Roster: feng-fenghuang is listed as first appearing in EP111, but she is only mentioned (15:20 'Putri Feng Huang'; Feng Lie speaks for her). Her first on-screen, captioned appearance is EP117 06:40 '[Feng Huang, Klan Feng, Alam Empat Kutub]'",
+    "09:40 'Cucu laki-laki saya' (my grandson) - the speaker isn't clear; the Peng King calls Jin Chi his son ('Anakku, Peng'er') at 07:47",
+    "Ji Hui, Jin Chi and Yao Xi being 'present' (old summary): Jin Chi and Yao Xi are released here; Ji Hui is not named in the subtitles"
+  ]
+}

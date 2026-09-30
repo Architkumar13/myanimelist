@@ -1,0 +1,489 @@
+[
+  {
+    "ep": 1,
+    "title": "Back from the Spiritual Road",
+    "summary": "Mu Chen is back at the Northern Spiritual Academy, at the initial phase of Spiritual Movement. The trial he was thrown out of is the Spiritual Road (the donghua calls it the Spiritual Land): no spiritual energy works there, and the Five Great Academies use it to temper the best youths in the Great Thousand World. He was the only one chosen from the Northern Spiritual Realm, lasted a year, and came home with the name Blood Calamity.",
+    "cultivation": "Spiritual Movement, initial phase.",
+    "confidence": "high"
+  },
+  {
+    "ep": 2,
+    "epEnd": 3,
+    "arc": true,
+    "title": "Academy competition",
+    "summary": "Students fight for rank. Mu Chen meets Liu Yang in the ring and breaks through to the middle phase of Spiritual Movement during the match. The art he cultivates is the Great Pagoda Art, which this donghua calls the Great Buddha Art, left by his mother.",
+    "cultivation": "Spiritual Movement, middle phase (episode 3).",
+    "confidence": "high"
+  },
+  {
+    "ep": 5,
+    "epEnd": 9,
+    "arc": true,
+    "title": "Northern Spiritual Field",
+    "summary": "Heaven Class students train in the Northern Spiritual Field, still inside the small Northern Spiritual Realm. Rival students and spiritual beasts.",
+    "confidence": "high"
+  },
+  {
+    "ep": 10,
+    "epEnd": 13,
+    "arc": true,
+    "title": "Black Eerie Swamp",
+    "summary": "The donghua calls this swamp the Dark Abyss. Mu Territory and Liu Territory go in after the Nine Netherbird (Jiuyou Bird). Mu Chen reaches the late phase of Spiritual Movement, then the initial phase of Spiritual Rotation, and the bird is bound to him.",
+    "events": [
+      "The bird debuts in episode 13.",
+      "She is still a Spiritual Beast. The donghua shows a human face earlier than the novel does."
+    ],
+    "cultivation": "Spiritual Rotation, initial phase (episode 13).",
+    "confidence": "high"
+  },
+  {
+    "ep": 15,
+    "epEnd": 18,
+    "arc": true,
+    "title": "Seats for the Five Great Academies",
+    "summary": "The five academies offer a few places. For anyone raised in the Northern Spiritual Realm, this is the way out. The five are Northern Heavens, Myriad Phoenix, Saint, Martial and Azure Heavens. Each dean is a Sovereign, and each academy is guarded by an ancient divine beast.",
+    "confidence": "high"
+  },
+  {
+    "ep": 19,
+    "epEnd": 24,
+    "arc": true,
+    "title": "After the seats are decided",
+    "summary": "The fan wiki does not name a separate quest for these episodes. The next one it records is the entrance exam, which starts at episode 25. By episode 21 Mu Chen is at the late phase of Spiritual Rotation.",
+    "cultivation": "Spiritual Rotation, late phase (episode 21).",
+    "confidence": "medium"
+  },
+  {
+    "ep": 25,
+    "epEnd": 32,
+    "arc": true,
+    "title": "Entrance exam",
+    "summary": "Northern Heavens Continent comes into view, and with it the Northern Heavens Spiritual Academy. Mu Chen enters the Spirit Stage during the exam.",
+    "cultivation": "Spirit Stage: initial at episode 28, middle at episode 31.",
+    "confidence": "high"
+  },
+  {
+    "ep": 33,
+    "epEnd": 43,
+    "arc": true,
+    "title": "Freshman year",
+    "summary": "The first stretch inside the academy, including the freshman competition. The season page does not tabulate these episodes one by one, so the beats inside the block are less certain than the realm marks. He finishes the Spirit Stage and steps into Heavenly Fusion.",
+    "events": [
+      "Bing Qing of the Ice Spirit Clan appears at episode 33."
+    ],
+    "cultivation": "Spirit, late phase (episode 34). Heavenly Fusion, initial phase (episode 40).",
+    "confidence": "medium"
+  },
+  {
+    "ep": 44,
+    "epEnd": 52,
+    "arc": true,
+    "title": "White Dragon Sovereign's treasury",
+    "summary": "A Heaven-rank mission in White Dragon City, and the end of season 1. The novel chapters adapted across the whole season are 1 through 264. His Heavenly Fusion Stage moves to the middle phase along the way.",
+    "cultivation": "Heavenly Fusion, middle phase (episode 46).",
+    "confidence": "high"
+  },
+  {
+    "ep": 53,
+    "title": "Academy's Hunting War",
+    "summary": "1st Appearance of Flame Emperor and Yao Chen. Mu Chen vs He Yao. He Yao is killed.",
+    "confidence": "high",
+    "events": [
+      "1st Appearance of Flame Emperor and Yao Chen",
+      "Mu Chen vs He Yao. He Yao is killed"
+    ]
+  },
+  {
+    "ep": 54,
+    "title": "Academy's Hunting War",
+    "summary": "1st Appearance of Xiao Xiao. Mu Chen + Luo Li vs Spiritual King.",
+    "confidence": "high",
+    "events": [
+      "1st Appearance of Xiao Xiao",
+      "Mu Chen + Luo Li vs Spiritual King"
+    ]
+  },
+  {
+    "ep": 55,
+    "title": "Academy's Hunting War",
+    "summary": "Li Xuantong vs Zhou Qingshan. Shen Cangsheng vs Lin Zheng.",
+    "confidence": "high",
+    "events": [
+      "Li Xuantong vs Zhou Qingshan",
+      "Shen Cangsheng vs Lin Zheng"
+    ]
+  },
+  {
+    "ep": 56,
+    "title": "Academy's Hunting War",
+    "summary": "|Mu Chen vs Gu Tianyan",
+    "confidence": "high"
+  },
+  {
+    "ep": 57,
+    "title": "Jiu You's Thunder Tribulation",
+    "summary": "|Successfully evolved from Nine Netherbird (Spiritual Beast) into Nine Netherworld Bird (Divine Beast)",
+    "confidence": "high"
+  },
+  {
+    "ep": 58,
+    "title": "Challenge from the Supreme Cauldron Spiritual Academy",
+    "summary": "|Luo Li vs Liu Zheng",
+    "confidence": "high"
+  },
+  {
+    "ep": 59,
+    "title": "Challenge from the Supreme Cauldron Spiritual Academy",
+    "summary": "Luo Li vs Xue Shi. Mu Chen meets White Dragon Sovereign. Martial Ancestor in action (Flashback).",
+    "confidence": "high",
+    "events": [
+      "Luo Li vs Xue Shi",
+      "Mu Chen meets White Dragon Sovereign",
+      "Martial Ancestor in action (Flashback)"
+    ]
+  },
+  {
+    "ep": 60,
+    "title": "Challenge from the Supreme Cauldron Spiritual Academy",
+    "summary": "Mu Chen vs Xue Shi. Shen Cangsheng & Li Xuantong: Hunting down Mo Longzi. First visual glimpse of Ji Xuan.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen vs Xue Shi",
+      "Shen Cangsheng & Li Xuantong: Hunting down Mo Longzi",
+      "First visual glimpse of Ji Xuan"
+    ]
+  },
+  {
+    "ep": 61,
+    "title": "Mu Chen's Spiritual Array Training, guided by Ling Xi",
+    "summary": "Mu Chen meets Ling Xi. Mu Chen breaks Ling Xi's Spiritual Arrays. Ji Xuan's 1st Appearance.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen meets Ling Xi",
+      "Mu Chen breaks Ling Xi's Spiritual Arrays",
+      "Ji Xuan's 1st Appearance"
+    ]
+  },
+  {
+    "ep": 62,
+    "title": "Mu Chen's Spiritual Array Training, guided by Ling Xi",
+    "summary": "Mu Chen sees his mother in a painting. Xiao Xiao meets Luo Li. Shen Cangsheng and Li Xuantong: cornered, besieged by Ranks 2–10 of the Bounty List.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen sees his mother in a painting",
+      "Xiao Xiao meets Luo Li",
+      "Shen Cangsheng and Li Xuantong: cornered, besieged by Ranks 2–10 of the Bounty List"
+    ]
+  },
+  {
+    "ep": 63,
+    "title": "Rescuing Shen Cangsheng & Li Xuantong",
+    "summary": "|Northern Heavens Spiritual Academy sends its top-tier students to rescue Shen Cangsheng & Li Xuantong",
+    "confidence": "high"
+  },
+  {
+    "ep": 64,
+    "title": "Rescuing Shen Cangsheng & Li Xuantong",
+    "summary": "Mu Chen vs Mao Jiang. Luo Li vs Chi Yu. Mu Chen attempts to purge Shen Cangsheng & Li Xuantong of poison.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen vs Mao Jiang",
+      "Luo Li vs Chi Yu",
+      "Mu Chen attempts to purge Shen Cangsheng & Li Xuantong of poison"
+    ]
+  },
+  {
+    "ep": 65,
+    "title": "Rescuing Shen Cangsheng & Li Xuantong",
+    "summary": "Mu Chen successfully purges Shen Cangsheng and Li Xuantong of poison. The Three Great Generals of Punishment Hall are captured.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen successfully purges Shen Cangsheng and Li Xuantong of poison",
+      "The Three Great Generals of Punishment Hall are captured"
+    ]
+  },
+  {
+    "ep": 66,
+    "title": "Rescuing Shen Cangsheng & Li Xuantong",
+    "summary": "Mu Chen vs Wu Jia. Luo Li vs Mu Gu. Shen Cangsheng vs Mo Longzi. Li Xuantong vs Gui Xiong.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen vs Wu Jia",
+      "Luo Li vs Mu Gu",
+      "Shen Cangsheng vs Mo Longzi",
+      "Li Xuantong vs Gui Xiong"
+    ]
+  },
+  {
+    "ep": 67,
+    "title": "Rescuing Shen Cangsheng & Li Xuantong",
+    "summary": "The moment of team spirit’s explosion.",
+    "confidence": "high",
+    "events": [
+      "The moment of team spirit’s explosion"
+    ]
+  },
+  {
+    "ep": 68,
+    "title": "Rescuing Shen Cangsheng & Li Xuantong",
+    "summary": "Mu Chen unleashes the Great Meru Demonic Pillar to crush Mo Longzi, but just as he delivers the killing blow, Black Dragon Sovereign intervenes. Black Dragon Sovereign attempts to take the Pillar from Mu Chen, only to be stopped by Dean Tai Cang.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen unleashes the Great Meru Demonic Pillar to crush Mo Longzi, but just as he delivers the killing blow, Black Dragon Sovereign intervenes",
+      "Black Dragon Sovereign attempts to take the Pillar from Mu Chen, only to be stopped by Dean Tai Cang"
+    ]
+  },
+  {
+    "ep": 69,
+    "title": "Preparation for the Trial of the Holy Spirit Mountain",
+    "summary": "The Dean and Elders of the Northern Heavens Spiritual Academy help Mu Chen remove the Demonic Dragon Brand from the Great Sumeru Demonic Pillar. Mu Chen must break through to the Heavenly Completion Stage within one month. Ling Xi gives her all to assist him. Ling Xi recalls her Aunt Jing, who appears in her memory.",
+    "confidence": "high",
+    "events": [
+      "The Dean and Elders of the Northern Heavens Spiritual Academy help Mu Chen remove the Demonic Dragon Brand from the Great Sumeru Demonic Pillar",
+      "Mu Chen must break through to the Heavenly Completion Stage within one month. Ling Xi gives her all to assist him",
+      "Ling Xi recalls her Aunt Jing, who appears in her memory"
+    ]
+  },
+  {
+    "ep": 70,
+    "title": "Preparation for the Trial of the Holy Spirit Mountain",
+    "summary": "First glimpse of Qing Yanjing. Xiao Xiao helps to guard the Luo God Clan. Ling Xi assists Mu Chen's cultivation in the Rank-8 Spirit Convergence Array. Mu Chen successfully breaks through to the Heavenly Completion Stage. Mu Chen defeats the Punishment Hall Combat Puppet.",
+    "confidence": "high",
+    "events": [
+      "First glimpse of Qing Yanjing",
+      "Xiao Xiao helps to guard the Luo God Clan",
+      "Ling Xi assists Mu Chen's cultivation in the Rank-8 Spirit Convergence Array",
+      "Mu Chen successfully breaks through to the Heavenly Completion Stage",
+      "Mu Chen defeats the Punishment Hall Combat Puppet"
+    ]
+  },
+  {
+    "ep": 71,
+    "title": "Trial of the Holy Spirit Mountain",
+    "summary": "Mu Chen departs for the Trial of Holy Spirit Mountain. Mu Chen crosses paths with the continent's most powerful young cultivators, all converging for the Trial. Black Dragon Sovereign reappears, rescuing Mo Xingtian from Ling Xi's assault.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen departs for the Trial of Holy Spirit Mountain",
+      "Mu Chen crosses paths with the continent's most powerful young cultivators, all converging for the Trial",
+      "Black Dragon Sovereign reappears, rescuing Mo Xingtian from Ling Xi's assault"
+    ]
+  },
+  {
+    "ep": 72,
+    "title": "Trial of the Holy Spirit Mountain",
+    "summary": "Spatial gales erupt as the Trial of Holy Spirit Mountain begins. All participants struggle to pass through them. Despite obstruction from Liu Ying and other participants, Mu Chen manages to obtain the Heavenly Sovereign's bone.",
+    "confidence": "high",
+    "events": [
+      "Spatial gales erupt as the Trial of Holy Spirit Mountain begins. All participants struggle to pass through them",
+      "Despite obstruction from Liu Ying and other participants, Mu Chen manages to obtain the Heavenly Sovereign's bone"
+    ]
+  },
+  {
+    "ep": 73,
+    "title": "Trial of the Holy Spirit Mountain",
+    "summary": "Wen Busheng and Xia Youran assists Mu Chen in fighting Liu Ying, Dong Yuan, and Zhou Xuan. Great Solar Undying Body is revealed!.",
+    "confidence": "high",
+    "events": [
+      "Wen Busheng and Xia Youran assists Mu Chen in fighting Liu Ying, Dong Yuan, and Zhou Xuan",
+      "Great Solar Undying Body is revealed!"
+    ]
+  },
+  {
+    "ep": 74,
+    "title": "Trial of the Holy Spirit Mountain",
+    "summary": "Final showdown! Mu Chen faces off against Mo Xingtian. Meanwhile, Xia Youran + Wen Busheng block the trio (Liu Ying, Dong Yuan, Zhou Xuan).",
+    "confidence": "high",
+    "events": [
+      "Final showdown! Mu Chen faces off against Mo Xingtian",
+      "Meanwhile, Xia Youran + Wen Busheng block the trio (Liu Ying, Dong Yuan, Zhou Xuan)"
+    ]
+  },
+  {
+    "ep": 75,
+    "title": "Trial of the Holy Spirit Mountain",
+    "summary": "Mu Chen crushes Mo Xingtian’s soul, killing him. Black Dragon Sovereign enrages. Battles erupt among Sovereign-level experts — duels and outnumbered clashes.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen crushes Mo Xingtian’s soul, killing him",
+      "Black Dragon Sovereign enrages",
+      "Battles erupt among Sovereign-level experts — duels and outnumbered clashes"
+    ]
+  },
+  {
+    "ep": 76,
+    "title": "Trial of the Holy Spirit Mountain",
+    "summary": "Mu Chen, Xia Youran, and Wen Busheng receive the perfect Divine Spiritual Baptism. The Northern Heavens Spiritual Academy faces a major crisis, surrounded and attacked by the Demonic Dragon Palace and its allies.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen, Xia Youran, and Wen Busheng receive the perfect Divine Spiritual Baptism",
+      "The Northern Heavens Spiritual Academy faces a major crisis, surrounded and attacked by the Demonic Dragon Palace and its allies"
+    ]
+  },
+  {
+    "ep": 77,
+    "title": "Northern Heavens Spiritual Academy is under attack",
+    "summary": "The Northern Heavens Spiritual Academy teeters on the brink of destruction. Mu Chen and Luo Li join forces to fight the Yellow Dragon Sovereign. Mu Chen's mother arrives to shield her son.",
+    "confidence": "high",
+    "events": [
+      "The Northern Heavens Spiritual Academy teeters on the brink of destruction",
+      "Mu Chen and Luo Li join forces to fight the Yellow Dragon Sovereign",
+      "Mu Chen's mother arrives to shield her son"
+    ]
+  },
+  {
+    "ep": 78,
+    "title": "Northern Heavens Spiritual Academy is under attack",
+    "summary": "Mu Chen's mother appears to rescue her son, reveals her true might. At last they meet, though only briefly and in spiritual body form. Xiao Xiao also arrives to aid Luo Li. Northern Heavens Spiritual Academy is saved from imminent disaster.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen's mother appears to rescue her son, reveals her true might. At last they meet, though only briefly and in spiritual body form",
+      "Xiao Xiao also arrives to aid Luo Li",
+      "Northern Heavens Spiritual Academy is saved from imminent disaster"
+    ]
+  },
+  {
+    "ep": 79,
+    "title": "Preparation for the Spiritual Academy Competition",
+    "summary": "Top 10 students enter the North Heaven Gate. Mu Chen is personally trained by the Northern Sea Dragon. A New Look Unveiled! After achieving the Fourth-Striped (Quadra Rune) Thunder Body, Mu Chen emerges in a striking new appearance. Mu Chen introduces his future wife to his father.",
+    "confidence": "high",
+    "events": [
+      "Top 10 students enter the North Heaven Gate",
+      "Mu Chen is personally trained by the Northern Sea Dragon",
+      "A New Look Unveiled! After achieving the Fourth-Striped (Quadra Rune) Thunder Body, Mu Chen emerges in a striking new appearance",
+      "Mu Chen introduces his future wife to his father"
+    ]
+  },
+  {
+    "ep": 80,
+    "title": "Preparation for the Spiritual Academy Competition",
+    "summary": "Top 10 students emerge from the North Heaven Gate. Mu Chen dethrones Shen Cangsheng as #1 in the Academy’s Heavenly Rankings. For the Spiritual Academy Competition, the Academy fields two elite four-man teams, captained by Mu Chen and Shen Cangsheng.",
+    "confidence": "high",
+    "events": [
+      "Top 10 students emerge from the North Heaven Gate",
+      "Mu Chen dethrones Shen Cangsheng as #1 in the Academy’s Heavenly Rankings",
+      "For the Spiritual Academy Competition, the Academy fields two elite four-man teams, captained by Mu Chen and Shen Cangsheng"
+    ]
+  },
+  {
+    "ep": 81,
+    "title": "Spiritual Academy Competition",
+    "summary": "The battles commence! The Spiritual Academy Competition is finally underway. Flame Emperor visits the Ancient Buddha Clan.",
+    "confidence": "high",
+    "events": [
+      "The battles commence! The Spiritual Academy Competition is finally underway",
+      "Flame Emperor visits the Ancient Buddha Clan"
+    ]
+  },
+  {
+    "ep": 82,
+    "title": "Spiritual Academy Competition",
+    "summary": "|Many students are trapped and killed in the Dark Origin Forest. A plot by Zhen Qing",
+    "confidence": "high"
+  },
+  {
+    "ep": 83,
+    "title": "Spiritual Academy Competition",
+    "summary": "Mu Chen rescues Tang Mei'er. Three Teams form an Alliance: Northern Heavens Spiritual Academy, Myriad Phoenix Spiritual Academy, and Desolate Spiritual Academy.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen rescues Tang Mei'er",
+      "Three Teams form an Alliance: Northern Heavens Spiritual Academy, Myriad Phoenix Spiritual Academy, and Desolate Spiritual Academy"
+    ]
+  },
+  {
+    "ep": 84,
+    "title": "Spiritual Academy Competition",
+    "summary": "Chaotic Treasure Hunts. Xia Hou in collusion with Zhen Qing. Mu Chen fights Xia Hou.",
+    "confidence": "high",
+    "events": [
+      "Chaotic Treasure Hunts",
+      "Xia Hou in collusion with Zhen Qing",
+      "Mu Chen fights Xia Hou"
+    ]
+  },
+  {
+    "ep": 85,
+    "title": "Spiritual Academy Competition",
+    "summary": "Mu Chen vs Xia Hou, while Luo Li fights Zhen Qing and the others. After being seriously injured by Mu Chen, Xia Hou is killed by Zhen Qing. Mu Chen vs Divine God Guard. Zhen Qing self-destructs.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen vs Xia Hou, while Luo Li fights Zhen Qing and the others",
+      "After being seriously injured by Mu Chen, Xia Hou is killed by Zhen Qing",
+      "Mu Chen vs Divine God Guard",
+      "Zhen Qing self-destructs"
+    ]
+  },
+  {
+    "ep": 86,
+    "title": "Spiritual Academy Competition",
+    "summary": "The Treasure Hunt ended with the dead of Xia Hou and Zhen Qing. Mu Chen team reaches ninth place. Mu Chen tells story about his time in the Spiritual Road. Looking back at Mu Chen & Luo Li's Love Story.❤️.",
+    "confidence": "high",
+    "events": [
+      "The Treasure Hunt ended with the dead of Xia Hou and Zhen Qing",
+      "Mu Chen team reaches ninth place",
+      "Mu Chen tells story about his time in the Spiritual Road. Looking back at Mu Chen & Luo Li's Love Story.❤️"
+    ]
+  },
+  {
+    "ep": 87,
+    "title": "Spiritual Academy Competition",
+    "summary": "Mu Fengyang and Zhao Qingshan protect Mu Chen and Luo Li as they attempt to break through. Mu Fengyang disguises himself as an expert from the Martial Realm.",
+    "confidence": "high",
+    "events": [
+      "Mu Fengyang and Zhao Qingshan protect Mu Chen and Luo Li as they attempt to break through",
+      "Mu Fengyang disguises himself as an expert from the Martial Realm"
+    ]
+  },
+  {
+    "ep": 88,
+    "title": "Spiritual Academy Competition",
+    "summary": "Mu Chen and Luo Li successfully make a breakthrough. Mu Chen and Luo Li kill many students from the Alliance of Academies including their leader, Chen Xi. Wen Qingxuan tries to steal Luo Li away from Mu Chen!. Mu Chen team and Wen Qingxuan team form an alliance.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen and Luo Li successfully make a breakthrough",
+      "Mu Chen and Luo Li kill many students from the Alliance of Academies including their leader, Chen Xi",
+      "Wen Qingxuan tries to steal Luo Li away from Mu Chen!",
+      "Mu Chen team and Wen Qingxuan team form an alliance"
+    ]
+  },
+  {
+    "ep": 89,
+    "title": "Spiritual Academy Competition",
+    "summary": "Mu Chen team and Wen Qingxuan team enter the trading town. Xiao Yan, Yao Chen, and Xiao Xiao discuss about Luo Li marriage.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen team and Wen Qingxuan team enter the trading town",
+      "Xiao Yan, Yao Chen, and Xiao Xiao discuss about Luo Li marriage"
+    ]
+  },
+  {
+    "ep": 90,
+    "title": "Spiritual Academy Competition",
+    "summary": "The fourth prince of the Blood God Clan, Xue Tiandu, appears and forces Luo Li into marriage. Mu Chen flatly rejects the idea. All teams gather to begin their trials in the Wood God Mountain ruins.",
+    "confidence": "high",
+    "events": [
+      "The fourth prince of the Blood God Clan, Xue Tiandu, appears and forces Luo Li into marriage. Mu Chen flatly rejects the idea",
+      "All teams gather to begin their trials in the Wood God Mountain ruins"
+    ]
+  },
+  {
+    "ep": 91,
+    "title": "Spiritual Academy Competition",
+    "summary": "Mu Chen uses the mysterious black paper to purify the evil energy from Fiend Clans. Mu Chen reaches the final level of the trial.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen uses the mysterious black paper to purify the evil energy from Fiend Clans",
+      "Mu Chen reaches the final level of the trial"
+    ]
+  },
+  {
+    "ep": 92,
+    "title": "Spiritual Academy Competition",
+    "summary": "Mu Chen fights a Half-step Sovereign Wood God Guard at the final level, defeating it. The trial concludes.",
+    "confidence": "high",
+    "events": [
+      "Mu Chen fights a Half-step Sovereign Wood God Guard at the final level, defeating it",
+      "The trial concludes"
+    ]
+  }
+]

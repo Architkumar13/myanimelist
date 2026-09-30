@@ -1,0 +1,97 @@
+{
+ "ep": 133,
+ "title": "Shaking the Twin Kings",
+ "summary": "In the Holy City, Ye Fan learns that An Miaoyi's refusal to dance has brought angry young talents to Miaoyu Convent, led by the Twin Kings of the Central States. When she announces she'll walk the Emperor's Road on her own, the Taiyang King attacks her; at the same time, joint kill orders from the Human World and Hell dynasties against Ye Fan light up the city. Ye Fan steps in and takes on the Twin Kings and their beast slave, which is as strong as Dragon Transformation level 5. They merge as Sun and Moon, and Ye Fan uses his Yin-Yang Life-Death Diagram and the 'Battle' Secret, which the Divine King once used on their ancestor. He shatters the Taiyang King's Bitter Sea, crippling him, and spares them at An Miaoyi's request. Ye Fan tells An Miaoyi his Dao wounds are healed, and they part as fellow travellers on the Emperor's Road. Separately, Jiang Yichen refuses to return Ye Fan's Mother of All Things Cauldron to Tingting, and Ye Fan agrees with Jiang Huairen, grandson of the bandit Jiang Yi, to take it back.",
+ "events": [
+  "Talents besiege Miaoyu Convent over An Miaoyi's refusal to dance",
+  "An Miaoyi declares she'll walk the Emperor's Road alone",
+  "Joint Human World and Hell kill orders issued against Ye Fan",
+  "Ye Fan fights the Twin Kings and their beast slave",
+  "Ye Fan uses the Battle Secret and cripples the Taiyang King's Bitter Sea",
+  "Ye Fan and An Miaoyi part on the Emperor's Road",
+  "Jiang Yichen withholds the cauldron from Tingting; Ye Fan plans to retake it"
+ ],
+ "introduced": [
+  "Jiang Huairen (Jiang Yi's grandson)",
+  "Absolute Kill Order (assassin dynasties)"
+ ],
+ "cultivation": "The Twin Kings' beast slave is said to equal Dragon Transformation level 5. Ye Fan says he 'still has nine chances' to show Four Poles power (continuing his cover story).",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "an-miaoyi",
+   "name": "An Miaoyi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Taiyang King",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Gao Linfeng",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "jiang-yichen",
+   "name": "Jiang Yichen",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "jiang-tingting",
+   "name": "Tingting",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-heishui",
+   "name": "Li Heishui",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Jiang Huairen",
+   "realm": null,
+   "quote": "Cucu Jiang Yi. Bandit generasi ketiga",
+   "look": null,
+   "first": true
+  }
+ ],
+ "changes": [
+  "The Sun Monarch is the Taiyang King of the Twin Kings; Ye Fan fights the Twin Kings, not alongside An Miaoyi",
+  "The Hell hire was in EP132; here Human World and Hell issue kill orders against Ye Fan",
+  "Added the cauldron subplot with Jiang Yichen and Tingting"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "18:14: the 'Little Princess' being restrained is Tingting (confirmed in EP134)",
+  "18:58–19:01: 'Cucu Jiang Yi… Bandit generasi ketiga'; the name Jiang Huairen is only given in EP134 ('Saudara Huairen')",
+  "20:17 onward is a preview of EP134"
+ ]
+}

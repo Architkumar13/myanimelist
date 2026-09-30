@@ -1,0 +1,57 @@
+{
+  "ep": 78,
+  "title": "Taichu Ancient Mine",
+  "summary": "Old Sabre leads a small party toward the Taichu (Primordial) Ancient Mine: Ye Fan disguised as Daoist Gu Feng, Li Desheng, and several others. He warns them that careless talk about the red-haired thing said to live there gets people killed. When someone touches source ore he ends the tour 100 miles from the edge. The party demands its money back, and then a black wind of Yin-Yang energy sweeps them into the mine's domain; Ye Fan's Li Fire Divine Furnace repairs itself from the damage. They find themselves walking in circles, and members vanish one by one. Ye Fan reveals himself as a Source Master: he lays a flag formation with a silver talisman and source stones to turn the field around, while an unseen spirit creature kills a flag-keeper. The group escapes the loop but keeps being pulled toward the mine's heart. Li Desheng, born with a Nether Eye in his left eye, sees a corpse hanging from the mine's 'ceiling' in the starry sky. As monsters close in, the episode ends on the lore of Emperor Heng Yu's weapon-forging site.",
+  "events": [
+    "Old Sabre guides a party to the edge of the Taichu Ancient Mine",
+    "Someone touches source ore and the tour is cut short",
+    "A Yin-Yang black wind drags the group into the mine's domain",
+    "The group is trapped in a spatial loop and members vanish",
+    "Ye Fan, as Gu Feng, uses Source arts and a flag formation to break the loop",
+    "Li Desheng's Nether Eye spots a corpse in the sky above the mine",
+    "Monsters close in near Heng Yu's weapon-forging site"
+  ],
+  "introduced": [
+    "Li Desheng",
+    "Nether Eye",
+    "Heng Yu's weapon-forging site"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Still disguised as Daoist Gu Feng",
+      "first": false
+    },
+    {
+      "id": "old-sabre",
+      "name": "Old Sabre",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Li Desheng",
+      "realm": null,
+      "quote": "[Li Desheng] caption (5:43); 'Mata kiriku lahir dengan Mata Kegelapan' (17:08)",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Chen Huaiyuan is never named in EP78's subtitles, so he was removed from 'introduced'. Li Desheng is confirmed by the 5:43 caption.",
+    "Added the black wind, the spatial loop, the flag formation and the Nether Eye sighting."
+  ],
+  "flags": [
+    "The guide is called only 'Orang tua'. Because EP77 ends with Old Sabre agreeing to guide them, he is taken to be Old Sabre.",
+    "Who has the Nether Eye isn't shown on screen at 17:08. EP92 7:29 ('Li Desheng dengan Mata Nethernya') is what confirms it's Li Desheng.",
+    "4:17 'pembudidaya Laut Paus' (whale sea) is a mistranslation of 'Wheel Sea'.",
+    "The party size doesn't add up: 11:00 says 'kalian berenam' and then 'Tujuh orang?'."
+  ]
+}

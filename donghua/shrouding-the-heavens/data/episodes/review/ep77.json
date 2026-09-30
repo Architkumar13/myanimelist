@@ -1,0 +1,117 @@
+{
+  "ep": 77,
+  "title": "Daoist Gu Feng Appears",
+  "summary": "At the Mining Sect's celebration Ye Fan admits to Zhang Wuye that his resource needs are enormous and time is short. Wang Shu and Lei Bo recall how their blood stirred at the workshop near seven stones held for Yaochi, all from the Taichu (Primordial) Ancient Mine. Ancestor Zhang Lin's notes say tens of thousands of kg of source can be gathered fairly safely at the mine's outer edge. Meanwhile the Yaochi Holy Maiden asks the Yaoguang Holy Master to help her enter the mine and re-seal the stones. She notes that the Jiang family's Emperor Heng Yu once used the mine as a weapon forge, and the Holy Master offers his Holy Son and Holy Maiden. In Source City, 30,000 miles from the mine, Tu Fei throws himself at the Yaochi Holy Maiden's carriage and ends up in a fight with Yao Xi and the Yaoguang Holy Son. Ye Fan steps in disguised as 'Daoist Gu Feng' through the Heaven-and-Earth Transformation, and the pair escape through the slums. At Jianbao Pavilion the broker Old Sabre takes 15 kg of source to guide them into the mine. He also mentions the Ji family's bounty on a Wheel Sea cultivator named Ye Fan, rumoured to have hurt Ji Hui, burned a supreme elder to death, and become tangled up with a Ji daughter.",
+  "events": [
+    "Ye Fan confides his resource problem to Zhang Wuye",
+    "Zhang Lin's notes point to the edge of the Taichu Ancient Mine",
+    "The Yaochi Holy Maiden asks Yaoguang for help entering the mine",
+    "In Source City, Tu Fei clashes with Yao Xi and the Yaoguang Holy Son",
+    "Ye Fan intervenes disguised as Daoist Gu Feng",
+    "Old Sabre agrees to guide them and describes the Ji bounty on Ye Fan"
+  ],
+  "introduced": [
+    "Yaochi Holy Maiden",
+    "Yaoguang Holy Master",
+    "Old Sabre",
+    "Source City",
+    "Jianbao Pavilion",
+    "Daoist Gu Feng (Ye Fan's alias)",
+    "Zhang Lin (named)"
+  ],
+  "cultivation": "The Yaochi Holy Maiden is at Four Poles (caption 8:46). Old Sabre's realm is 'unknown' (caption 17:38). Ye Fan is still wanted as a 'Wheel Sea' cultivator (17:28), which is out of date.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Disguised as Daoist Gu Feng via the Heaven-and-Earth Transformation (info card 18:45)",
+      "first": false
+    },
+    {
+      "id": "zhang-wuye",
+      "name": "Zhang Wuye",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "wang-shu",
+      "name": "Wang Shu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "lei-bo",
+      "name": "Lei Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yaochi-holy-maiden",
+      "name": "Yaochi Holy Maiden",
+      "realm": "Four Poles",
+      "quote": "[Wanita Suci Danau Giok, Tanah Suci Danau Giok, Alam Empat Kutub] (8:46)",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Yaoguang Holy Master",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yao-xi",
+      "name": "Yao Xi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yaoguang-holy-son",
+      "name": "Holy Son of Yaoguang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "old-sabre",
+      "name": "Old Sabre",
+      "realm": null,
+      "quote": "[Master Pisau Tua, Alam Tak Dikenal] (17:38)",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Gu Feng isn't a new character. It's Ye Fan's disguise (Daoist Gu Feng, info card 18:45), so the title was changed from 'Gu Feng Appears' to 'Daoist Gu Feng Appears'.",
+    "Removed Gu Feng as a separate person from 'introduced'.",
+    "Added the Yaoguang Holy Master scene, Source City, Zhang Lin's notes and the details of the Ji bounty."
+  ],
+  "flags": [
+    "The subtitles use 'Jade Lake' and 'Yaochi' for the same Holy Land.",
+    "The mine gets several names: 'Tambang Primal Kuno', 'Tambang Purba Kuno' and 'Tambang Purbakala'. They are all the Taichu (Primordial) Ancient Mine.",
+    "14:55 'Brother Lifelong Companion' is garbled and its meaning is unclear.",
+    "At 18:36 Tu Fei storms off ('Aku tidak ingin melihatmu lagi!'), and he isn't with the group in EP78–79."
+  ]
+}

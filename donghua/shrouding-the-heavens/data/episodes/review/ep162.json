@@ -1,0 +1,73 @@
+{
+  "ep": 162,
+  "title": "Dongfang Taiyi's Phantom",
+  "summary": "The Thousand-Armed Divine Demon mocks the Old Madman for giving his life to protect 'ants', and the Old Madman answers that protecting others is humanity's foundation. Ye Fan comes back instead of fleeing, touches the flow of time with the Xing Secret, and powers up the Old Madman with the Jie Secret. Together they attack with Taiyin (the Old Madman) and Taiyang (Ye Fan), the art humans once used to kill ancient monsters. The combined yin and yang wakes the phantom of Dongfang Taiyi, the human demon and ancient Great Saint who fed on ancestral kings, from a Divine Source fragment inside Ye Fan's cauldron. The ancient clans flee at the sight of it. The Old Madman calls Ye Fan humanity's successor, passes him the essence of the Six Paths Reincarnation Fist, and chases the warship beyond the frontier. Months later Ye Fan finds a piece of the warship stained with saint's blood and mourns him. At a grand gathering, Bajing Palace posts a bounty for Ye Fan, and Yin Tiande (Immortal Platform 3rd Heaven) vows blood for his brother Yin Tianzhi.",
+  "events": [
+    "The Old Madman's speech on protecting humanity",
+    "Ye Fan returns and uses the Xing and Jie Secrets",
+    "A Taiyin and Taiyang joint attack",
+    "Dongfang Taiyi's phantom rises from the cauldron and drives off the ancient clans",
+    "The Old Madman gives Ye Fan the Six Paths fist essence and chases the warship",
+    "Months later a bloodied warship fragment is found",
+    "Yin Tiande vows revenge for Yin Tianzhi; Bajing Palace hunts Ye Fan"
+  ],
+  "introduced": [
+    "Yin Tiande (on screen)",
+    "Xing Secret (used)",
+    "Jie Secret (used)"
+  ],
+  "cultivation": "Ye Fan is called an 'ant at Immortal Platform 2nd Heaven' (07:57). Yin Tiande: Immortal Platform 3rd Heaven (17:39 caption). Dongfang Taiyi: ancient Great Saint (caption).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Immortal Platform",
+      "quote": "Semut belaka di Alam Platform Abadi Surga Kedua",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "old-madman",
+      "name": "Old Madman",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "thousand-armed-divine-demon",
+      "name": "Thousand-Armed Divine Demon",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "dongfang-taiyi",
+      "name": "Dongfang Taiyi",
+      "realm": "Great Saint",
+      "quote": "[Dongfang Taiyi, Ras Manusia, Santo Agung Kuno]",
+      "look": "Projection/phantom only",
+      "first": false
+    },
+    {
+      "id": "yin-tiande",
+      "name": "Yin Tiande",
+      "realm": "Immortal Platform",
+      "quote": "[Yin Tiande, Istana Ba Jing, Platform Abadi Tiga Langit]",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "The phantom drives off the ancient clans as a whole. It rises from a Divine Source fragment in Ye Fan's cauldron, woken by Taiyin and Taiyang together",
+    "Added the Old Madman's apparent sacrifice and his passing on the Six Paths fist",
+    "Added Yin Tiande's first on-screen appearance and the Bajing Palace bounty"
+  ],
+  "flags": [
+    "16:31 'adik perempuan dari kepala Istana Ba Jing' says younger sister, but 17:12 and 17:30 ('Tian Zhi') make clear it is his younger brother Yin Tianzhi",
+    "12:04 'Timur Taiyi' is a literal translation of 'Dongfang Taiyi'",
+    "The subtitles never show how Ye Fan got the Xing and Jie Secrets (probably in the movie or off-screen)"
+  ]
+}

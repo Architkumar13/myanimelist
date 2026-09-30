@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>archit13 weekly — an anime life in panels</title>
+  <meta name="description" content="1,082 anime, 253 days of watching: a personal anime list told as a manga magazine.">
+  <meta name="theme-color" content="#e9ece4" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1b1d1b" media="(prefers-color-scheme: dark)">
+  <meta property="og:title" content="archit13 weekly">
+  <meta property="og:description" content="1,082 anime, 253 days of watching: a personal anime list told as a manga magazine.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23e4007f'/%3E%3Crect x='3' y='3' width='58' height='58' fill='none' stroke='%23000' stroke-width='4'/%3E%3Ctext x='32' y='43' font-family='Impact,Arial Black,sans-serif' font-size='28' font-weight='900' text-anchor='middle' fill='%23fff'%3Ea13%3C/text%3E%3C/svg%3E">
+  <script>
+    // Apply the saved (or system) edition before paint to avoid a flash.
+    document.documentElement.dataset.theme = localStorage.getItem("archit13-theme") ||
+      (matchMedia("(prefers-color-scheme: dark)").matches ? "night" : "day");
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="masthead">
+    <a class="logo" href="#/" aria-label="archit13 weekly, home">
+      <span class="logo-name"></span><span class="logo-weekly">weekly</span>
+    </a>
+    <nav aria-label="Sections">
+      <a href="#/">Wrapped</a>
+      <a href="#/shelf">Shelf</a>
+      <details>
+        <summary>Explore</summary>
+        <div class="menu">
+          <a href="#/time">Time machine</a>
+          <a href="#/colour">Colour wall</a>
+          <a href="#/year">Year by year</a>
+        </div>
+      </details>
+      <details>
+        <summary>Discover</summary>
+        <div class="menu">
+          <a href="#/unfinished">Unfinished business</a>
+          <a href="#/foryou">For you</a>
+          <a href="#/airing">Now airing</a>
+          <a href="#/season">Next season</a>
+          <a href="#/pick">Pick for me</a>
+        </div>
+      </details>
+      <details>
+        <summary>Play</summary>
+        <div class="menu">
+          <a href="#/play">Higher or lower</a>
+          <a href="#/guess">Guess the anime</a>
+          <a href="#/tiers">Tier list</a>
+        </div>
+      </details>
+    </nav>
+    <div class="tools">
+      <button type="button" class="tool" data-search aria-keyshortcuts="Meta+K Control+K">Search <kbd>⌘K</kbd></button>
+      <button type="button" class="tool" data-sync>Sync</button>
+      <button type="button" class="tool" data-theme-toggle aria-pressed="false">Night edition</button>
+    </div>
+  </header>
+
+  <main id="main" tabindex="-1"></main>
+
+  <dialog class="detail" id="detail" aria-labelledby="detail-title"></dialog>
+  <dialog class="search" id="search" aria-label="Search your list">
+    <input type="search" placeholder="Search 1,082 titles" aria-label="Search titles" aria-controls="search-results" autocomplete="off">
+    <ul id="search-results" role="listbox"></ul>
+    <p class="search-hint"><kbd>↑</kbd> <kbd>↓</kbd> to move, <kbd>Enter</kbd> to open, <kbd>Esc</kbd> to close</p>
+  </dialog>
+  <dialog class="sync" id="sync" aria-labelledby="sync-title"></dialog>
+  <div class="tip" id="tip" role="tooltip" hidden></div>
+
+  <footer class="colophon">
+    <p><span class="list-updated">Built from a MyAnimeList export.</span> Covers, genres, crowd scores, recommendations and airing times from AniList.</p>
+  </footer>
+
+  <script src="data/anime.js"></script>
+  <script src="data/extra.js"></script>
+  <script src="js/lib.js"></script>
+  <script src="js/stats.js"></script>
+  <script src="js/wrapped.js"></script>
+  <script src="js/shelf.js"></script>
+  <script src="js/game.js"></script>
+  <script src="js/pick.js"></script>
+  <script src="js/time.js"></script>
+  <script src="js/colour.js"></script>
+  <script src="js/year.js"></script>
+  <script src="js/unfinished.js"></script>
+  <script src="js/foryou.js"></script>
+  <script src="js/airing.js"></script>
+  <script src="js/season.js"></script>
+  <script src="js/guess.js"></script>
+  <script src="js/tiers.js"></script>
+  <script src="js/chrome.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

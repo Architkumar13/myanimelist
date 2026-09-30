@@ -1,0 +1,96 @@
+{
+  "ep": 68,
+  "title": "Arrival at the Stone Village",
+  "summary": "Four Yaoguang elders corner Tu Fei and demand his head until his grandfather Tu Tian, seventh of the 13 Great Bandits, arrives with the real Heaven-Swallowing Demon Pot, captioned as an Extreme Dao Emperor weapon, and the elders retreat. Tu Tian scolds Tu Fei for lying, but Ye Fan has already slipped away with plenty of Yaoguang source. Ye Fan uses it to try for the Dao Palace but gets through only three of the nine transformations he needs, and concludes that the Ancient Holy Body needs 'endless' source. Nearby, a Master Chen ('Beard Chen') extorts five catties of source from Stone Village every three days, and villagers Lei Bo and Wang Shu stage a fake 'source-seeking technique' to fool him. After Ye Fan scatters Chen's men and the pair run off with his belongings, he catches them and bluffs them with a 'curse spell' until they admit that their Fifth Master is behind the trick. At Stone Village, Zhang Wuye explains that his family's ancient scroll of the Source Arts was lost long ago, and when Ye Fan insists, he leads him to Purple Mountain.",
+  "events": [
+    "Tu Tian drives off the Yaoguang elders with the Heaven-Swallowing Demon Pot",
+    "Ye Fan attempts the Dao Palace and fails after three transformations",
+    "Beard Chen extorts Stone Village; Lei Bo and Wang Shu fake a source-seeking technique",
+    "Ye Fan intervenes, then catches the pair who ran off with his things",
+    "They lead him to the Fifth Master, Zhang Wuye",
+    "Zhang Wuye tells of the lost Source Arts scroll",
+    "Zhang Wuye takes Ye Fan to Purple Mountain"
+  ],
+  "introduced": [
+    "Tu Tian",
+    "Heaven-Swallowing Demon Pot",
+    "Stone Village",
+    "Beard Chen",
+    "Lei Bo",
+    "Wang Shu",
+    "Zhang Wuye",
+    "Purple Mountain",
+    "ancient jade"
+  ],
+  "cultivation": "Ye Fan attempts the Dao Palace breakthrough but completes only three of nine transformations; he stays at the Other Shore.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "tu-tian",
+      "name": "Tu Tian",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "lei-bo",
+      "name": "Lei Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "wang-shu",
+      "name": "Wang Shu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "zhang-wuye",
+      "name": "Zhang Wuye",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Beard Chen",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Tu Tian rescues Tu Fei from Yaoguang elders; Ye Fan has already left",
+    "Added Ye Fan's failed Dao Palace attempt",
+    "Purple Mountain is first shown at the end of this episode (the old list put it in EP70)"
+  ],
+  "flags": [
+    "11:07-11:52 the attack on Chen's men and the 'ancient jade from the Ancient Source Mine' exchange are confusing; Ye Fan seems to pose as a robber and the pair bribe him with an ancient jade",
+    "14:33 'Jenggot Chen, mati!' – villagers apparently mistake the bearded Ye Fan for Chen before welcoming him",
+    "15:26 Zhang Wuye's caption is '[Tuan Zhang]'",
+    "18:32-18:48 'Tell me your realm... I am Jiang Taixu' is a teaser/preview (it recurs at the end of EP69 and plays in full in EP70)"
+  ]
+}

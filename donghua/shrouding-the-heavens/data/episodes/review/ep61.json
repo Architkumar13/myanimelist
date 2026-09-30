@@ -1,0 +1,73 @@
+{
+  "ep": 61,
+  "title": "Killing Pursuers in Desperation",
+  "summary": "Ji Hui brands Ye Fan a thief who stole the Ji secret art and killed her loyal servant Ji Ren, orders Ji disciples to hunt him to the death, and keeps Ziyue locked in a formation even after Ziyue confesses that she taught him the Void technique. Hiding in a snake cave, Ye Fan refines the pure source Ji Hui gave him as a reward and reaches the peak of the Divine Bridge. Three Ji elders chase him through ten formations across a thousand li, and he fights them off with Ji Ren's Heavenly Glory Net, which he has refined, and the Ji family's illusory-body method. Cornered in a city tower, he threatens to shout the Void technique to the whole city, and the Ji leader answers that he will kill one person for every word, which Ye Fan condemns. The Peacock King appears, says he and Nangong Zheng called a truce, and declares that the Ji family's enemy is his friend, even as a Ji messenger warns that the Ji family head has left seclusion. At Xuanyuan Valley he tells Ye Fan that Pang Bo is now 'only an empty physical body', but Ye Fan still insists on finding his friend.",
+  "events": [
+    "Ji Hui orders Ye Fan hunted; Ziyue is locked in a formation",
+    "Ye Fan uses Ji Hui's source to reach the peak of the Divine Bridge",
+    "He escapes three Ji elders with the Heavenly Glory Net and illusory bodies",
+    "He threatens to spread the Void technique across a city",
+    "The Peacock King rescues him",
+    "The Ji family head emerges from seclusion",
+    "The Peacock King tells him Pang Bo is an empty shell"
+  ],
+  "introduced": [
+    "Heavenly Glory Net",
+    "Ji family head (Holy Lord)",
+    "Xuanyuan Valley"
+  ],
+  "cultivation": "Ye Fan reaches the peak of the Divine Bridge realm. The Ji family head is captioned at the Immortal Platform realm.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ji-hui",
+      "name": "Ji Hui",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Divine Bridge (peak)",
+      "quote": "Puncak Jembatan Ilahi!",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "peacock-king",
+      "name": "Peacock King",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Ji family head",
+      "realm": "Immortal Platform",
+      "quote": "[Tuan Suci Keluarga Kuno Ji, Alam Platform Abadi]",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Added Ye Fan's breakthrough to the peak of the Divine Bridge",
+    "Added the Void technique threat and the Peacock King's news about Pang Bo",
+    "Confirmed Ji Ren is dead (05:11)"
+  ],
+  "flags": [
+    "17:34 the Ji family head's caption appears during his return; he is not named",
+    "16:55-17:00 the Peacock King's line 'you must perish today' has an unclear target",
+    "19:45-19:58 ('Crossing the Bitter Sea to reach Paramita') is a preview of EP63; it recurs at the end of EP62"
+  ]
+}

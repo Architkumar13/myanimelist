@@ -1,0 +1,66 @@
+{
+  "ep": 158,
+  "title": "Leaving Beidou, Wrong Road Home",
+  "summary": "As Ye Fan sets the altar's coordinates, Li Xiaoman attacks him inside the Ancient Forbidden Land. Her power is borrowed from some peerless forbidden artifact. Her strikes wake the land's wild slaves, among them a former Ji clan expert and the Tianxuan Holy Maiden, and they turn on her. Ye Fan tries to reverse course toward Earth, but the nine-dragon route carries him into the void. There he sees an ancient bronze warship crowded with experts of the ancient races and hides from it. He crash-lands on a toxic dead planet with a broken five-coloured altar. He finds Five Element True Wood and a cauldron with ancient Chinese features, and a holy maiden's skull carved with 'no beginning, no end'. He guesses this refers to Great Emperor Wu Shi, and in the skull he finds a jade pendant holding Taiyin power. A lingering divine will keeps chanting 'return to the homeland, don't be buried in a foreign land' and points to the Ziwei star. Ye Fan repairs the altar and finds a stone coffin, which the lore card links to the Sun Holy Emperor.",
+  "events": [
+    "Li Xiaoman attacks Ye Fan at the altar with borrowed power",
+    "Wild slaves, including the Tianxuan Holy Maiden, attack Li Xiaoman",
+    "Ye Fan is carried into the void",
+    "He sees an ancient warship full of ancient-race experts",
+    "He lands on a dead planet and finds Five Element True Wood and a holy maiden's skull",
+    "He takes a jade pendant with Taiyin power",
+    "A divine will begs to return to Ziwei; the altar and a stone coffin are found"
+  ],
+  "introduced": [
+    "Wild slaves",
+    "Ancient warship",
+    "Five Element True Wood",
+    "Taiyin jade pendant",
+    "Sun Holy Emperor (lore card)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "li-xiaoman",
+      "name": "Li Xiaoman",
+      "realm": null,
+      "quote": null,
+      "look": "Channelling power far beyond her own",
+      "first": false
+    },
+    {
+      "id": "tianxuan-holy-maiden",
+      "name": "Tianxuan Holy Maiden",
+      "realm": null,
+      "quote": "[Budak Liar, Gadis Suci Tian Xuan]",
+      "look": "As a wild slave",
+      "first": false
+    },
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "sun-holy-emperor",
+      "name": "Sun Holy Emperor",
+      "realm": null,
+      "quote": null,
+      "look": "Divine will / coffin only",
+      "first": true
+    }
+  ],
+  "changes": [
+    "The Crocodile Ancestor is not named; the subtitles say only that Li Xiaoman uses a forbidden artifact's power",
+    "The Thousand-Armed Divine Demon is not named here; he is only among the unnamed ancient-race experts on the warship",
+    "The skull's carving is about Wu Shi ('no beginning, no end'); the Taiyin element is a jade pendant. The Taiyin True Scripture itself comes in EP159"
+  ],
+  "flags": [
+    "Glossary lists the Thousand-Armed Divine Demon as first appearing in EP158; he is not named here (named EP160, awakens on screen EP161 with caption)",
+    "The Sun Holy Emperor is named only in the closing lore card (19:11); the divine will is not named on screen"
+  ]
+}

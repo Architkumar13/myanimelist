@@ -1,0 +1,84 @@
+{
+ "ep": 137,
+ "title": "Second Trip into the Dragon Nest",
+ "summary": "With the ancient creatures off hunting the holy lords, Ye Fan, Ji Ziyue, Hei Huang and the Holy Monkey go deeper into the collapsing Dragon Nest. Ji Ziyue scolds Ye Fan for hiding that his wounds are healed. Beside a human coffin, a True Dragon Immortal Medicine traps Ye Fan's consciousness in an illusion of his parents on Earth, until he breaks free. An ancient youth wakes his kin, but Hei Huang, speaking the ancient language and showing an Ancient Emperor token, poses as a descendant of the Undying Emperor, and the youth guides them. They pass four coffins that seem to belong to a single human Great Emperor who lived through four eras; a star-marked object leaps into the Mother of All Things Cauldron and can only be opened at Immortal Platform. They find Dongfang Taiyi, an ancient human Saint chained for massacres caused by merging the True Sun and True Moon Scriptures. They escape with the Immortal Medicine's pure blood collected in the cauldron through Hei Huang's formation, and Nannan shows off an 'outer-space' artifact a man in black left her.",
+ "events": [
+  "Ji Ziyue confronts Ye Fan about his healed Dao wounds",
+  "Ye Fan trapped in an illusion of his parents",
+  "Hei Huang poses as the Undying Emperor's descendant with an Ancient Emperor token",
+  "Four coffins of a human Great Emperor",
+  "A star-marked object enters the cauldron",
+  "The sealed Dongfang Taiyi found",
+  "Escape with the Immortal Medicine's pure blood; Nannan's mysterious artifact"
+ ],
+ "introduced": [
+  "Ancient youth (ancient king clan)",
+  "Ancient Emperor token",
+  "Dongfang Taiyi",
+  "True Moon Scripture"
+ ],
+ "cultivation": "The star-marked object 'can only be opened at the Immortal Platform level'.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "ji-ziyue",
+   "name": "Ji Ziyue",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "hei-huang",
+   "name": "Hei Huang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "sheng-huangzi",
+   "name": "Sheng Huangzi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "nannan",
+   "name": "Nannan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "dongfang-taiyi",
+   "name": "Dongfang Taiyi",
+   "realm": null,
+   "quote": "[Dongfang Taiyi, Manusia Suci]",
+   "look": "Withered, chained and sealed",
+   "first": true
+  }
+ ],
+ "changes": [
+  "The subs call the coffins a human Great Emperor's (four coffins, four eras), not explicitly the Ruthless Emperor's red coffins",
+  "The 'immortal treasure scroll' is a star-marked object that enters the cauldron",
+  "Removed 'Ye Fan beats up Hei Huang' (they only argue); added the parents illusion and Nannan's artifact"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "12:01–13:19: the coffins' owner is 'Kaisar Agung manusia' and is never named",
+  "15:11–15:25: whether Dongfang Taiyi is taken out or left sealed is unclear ('bagaimana bisa kita bawa orang tua ini keluar?' vs 'if others find the seal broken…')",
+  "04:24: Hei Huang (or the Holy Monkey) calls himself 'Young Immortal'; the speaker attribution is muddled",
+  "17:24 and 18:45: Liu Yiyi's cry and the 'Gunung Api Iblis' threat are a preview of EP138"
+ ]
+}

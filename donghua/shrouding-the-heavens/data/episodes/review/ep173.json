@@ -1,0 +1,81 @@
+{
+ "ep": 173,
+ "title": "The War Horn of the Barbarians",
+ "summary": "Ye Fan storms a Divine Spirit Valley branch that is slaughtering people who won't submit. Zi Tianfeng isn't there, so he wipes out the garrison and has the survivors spread his challenge: every enemy should come to Nanling. At the Wang clan, Wang Chengtian (Immortal Platform 2nd Heaven, 9th level) swears a blood oath to avenge the beheaded family head. Among the barbarians, Dongfang Man explains that only the Qiongtian war horn in the abyss can wake the whole scattered tribe, and he leads volunteers to blow it through a blood sacrifice at the ancestral land. Meanwhile the Wang army sweeps into the barbarian heartland with its sacred weapon, the damaged Purple Gold Hammer. Ye Fan lures them into an ambush, Li Tian and Yan Yixi join the fight, and Ye Fan faces Wang Chengtian and a hundred thousand Wang cavalry. The Goddess Furnace is brought out against the hammer while the blood sacrifice starts to work and a barbarian Azure Dragon Elder appears.",
+ "events": [
+  "Ye Fan destroys a Divine Spirit Valley branch",
+  "Wang Chengtian swears revenge",
+  "Dongfang Man decides to blow the Qiongtian war horn",
+  "The Wang army invades the barbarian heartland",
+  "Ye Fan's ambush; Li Tian and Yan Yixi join in",
+  "The Goddess Furnace against the Purple Gold Hammer",
+  "The blood sacrifice at the ancestral land; the Azure Dragon Elder appears"
+ ],
+ "introduced": [
+  "Wang Chengtian",
+  "Qiongtian war horn",
+  "Purple Gold Hammer",
+  "Azure Dragon Elder",
+  "Barbarian ancestral land"
+ ],
+ "cultivation": "Wang Chengtian: Immortal Platform 2nd Heaven, 9th level. Azure Dragon Elder: Immortal Platform, level unknown (caption). Ye Fan's realm isn't stated.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Wang Chengtian",
+   "realm": "Immortal Platform 2nd Heaven (9th level)",
+   "quote": "[Wang Chengtian, Keluarga Wang Dataran Utara, Platform Abadi Surga Kedua Tingkat 9]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Dongfang Man",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-tian",
+   "name": "Li Tian",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yan-yixi",
+   "name": "Yan Yixi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Azure Dragon Elder",
+   "realm": "Immortal Platform (unknown level)",
+   "quote": "[Suku Barbar Tetua Naga Azure, Platform Abadi (tidak diketahui)]",
+   "look": null,
+   "first": true
+  }
+ ],
+ "changes": [
+  "The old summary had Ye Fan leading a barbarian army north in a surprise strike. In EP173 the Wang army invades the barbarian lands and Ye Fan defends them; the march north is EP174.",
+  "Added the Divine Spirit Valley branch raid, Wang Chengtian's oath and the war horn."
+ ],
+ "flags": [
+  "19:41–19:51: the closing lines ('Putra-putra suku barbar, kobarkan semangat perang…') are actually EP175 dialogue (14:42–15:20 there). They are a preview or trailer, not EP173 content.",
+  "11:13–14:59: the subtitles don't clearly say whether the Wang elder fighting Ye Fan is Wang Chengtian."
+ ]
+}

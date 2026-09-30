@@ -1,0 +1,86 @@
+{
+  "ep": 144,
+  "title": "Deity Battle at Immortal Burial",
+  "summary": "The Xiao clan swears revenge for Xiao Mingyuan, and Xiao Xia (Immortal Platform 1st level) sets out to ambush Ye Fan. Ye Fan, Yu Die and Dongfang Ye follow a blind old map-seller into the Immortal Burial Ground deep inside the immortal mansion world. The blind man notices Ye Fan's Heaven Source Master inheritance and uses the crowds he has sold maps to as trap-clearers. They meet a naked Duan De, and Ye Fan hands back the robe he 'found'. The lords of the Jiuli Divine Dynasty and the Great Xia Dynasty (both Immortal Platform) arrive and argue over who owns the site. A God's Thought, the undying malice of a primordial god buried there, wakes and kills everyone who uses energy. During the chaos a Xiao grandmaster attacks Ye Fan, who fights him hand to hand and outwits him. The blind man leads a chant from a scripture that pacifies the God's Thought. Beyond it lies a world-within-a-world that keeps the laws of the primordial era. Ye Fan gives Dongfang Ye a Golden Crow bone, lets Yu Die keep a golden egg, and keeps a fragment of Immortal Tears Green Gold carved in ancient god script.",
+  "events": [
+    "The Xiao clan sends Xiao Xia after Ye Fan",
+    "A blind old man's map leads the group into the Immortal Burial Ground",
+    "A naked Duan De joins them",
+    "Jiuli and Great Xia lords arrive and quarrel over the site",
+    "A God's Thought wakes and slaughters people who use energy",
+    "Ye Fan fights off a Xiao grandmaster hand to hand",
+    "A chanted scripture pacifies the God's Thought; the group reaches a primordial inner world",
+    "Ye Fan gets an Immortal Tears Green Gold fragment carved in ancient god script"
+  ],
+  "introduced": [
+    "Immortal Burial Ground",
+    "God's Thought",
+    "Blind old man (map-seller)",
+    "Xiao Xia",
+    "Jiuli Divine Dynasty lord",
+    "Great Xia Dynasty lord",
+    "Immortal Tears Green Gold fragment"
+  ],
+  "cultivation": "Xiao Xia: Immortal Platform 1st level; Jiuli and Great Xia lords: Immortal Platform (captions).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": null,
+      "name": "Xiao Xia",
+      "realm": "Immortal Platform",
+      "quote": "[Xiao Xia, Keluarga Xiao, Platform Abadi Tingkat 1]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Blind old man",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "duan-de",
+      "name": "Duan De",
+      "realm": null,
+      "quote": null,
+      "look": "Naked after being robbed",
+      "first": false
+    },
+    {
+      "id": "yu-die",
+      "name": "Yu Die",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "dongfang-ye",
+      "name": "Dongfang Ye",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "There is no treasure-hunting rat in the subtitles. The group follows a blind old man's map",
+    "The 'deity' is a God's Thought (神念), the leftover malice of a primordial god. It is calmed by chanting, not beaten in a fight",
+    "Added the Xiao clan's revenge plot, the Jiuli and Great Xia lords, and the Immortal Tears Green Gold fragment"
+  ],
+  "flags": [
+    "Xiao Xia (04:20) and 'Grandmaster Xiao' (09:51, 11:33) may be the same person; the subtitles don't say. The grandmaster's fate after 15:39 ('Kamu telah tertipu!') is not stated",
+    "09:19 'Putri Yu Meninggal' is a machine-translation error for 'Princess Yu Die'",
+    "13:07 someone cries 'Zhi'er!' as a victim dies; unidentified"
+  ]
+}

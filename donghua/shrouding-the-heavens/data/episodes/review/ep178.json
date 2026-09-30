@@ -1,0 +1,55 @@
+{
+ "ep": 178,
+ "title": "Give Me Back My Miaoyi",
+ "summary": "Ye Fan forces his way into An Miaoyi's sea of consciousness and relives their past there: she asked him, through an intermediary, to be her Dao Protector before her breakthrough to the Four Poles, and swore she would kill him if she failed. Later came the news that Ye Fan had only fourteen days to live and that Feng Huang had broken off their engagement, and An Miaoyi, refusing to kill him, wanted him to live. His persistence draws out the An Miaoyi he knew. She explains that while he was gone she reached the gate of Dao Severing (the 3rd Heaven) and chose to cut away the part of herself tied to him; if she succeeds, everything will come back to her. She refuses his help as her Dao Protector until his Holy Body is perfected, and says her Dao lies in the Western Desert, where she will go again. Ye Fan swears to smash all cause and effect, and even Mount Sumeru, to win glory in this life. Knowing she hasn't much time left, she offers to dance one last dance for him.",
+ "events": [
+  "Ye Fan enters An Miaoyi's sea of consciousness",
+  "Memories: the Dao Protector promise and his fourteen days to live",
+  "The An Miaoyi he knew comes forward",
+  "She explains her self-severing path to Dao Severing",
+  "She plans to return to the Western Desert",
+  "Ye Fan vows to smash karma and Mount Sumeru",
+  "She offers a final dance"
+ ],
+ "introduced": [
+  "An Miaoyi's sea of consciousness",
+  "Western Desert (Xi Mo, as her path)",
+  "Mount Sumeru (named)"
+ ],
+ "cultivation": "An Miaoyi reached the gate of Immortal Platform 3rd Heaven, Dao Severing, and is severing part of herself to cross it (she hasn't crossed yet).",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "an-miaoyi",
+   "name": "An Miaoyi",
+   "realm": null,
+   "quote": "Aku menyentuh gerbang Tahap Ketiga Platform Keabadian: Pemutusan Dao",
+   "look": "Her past self appears within her sea of consciousness",
+   "first": false
+  },
+  {
+   "id": "feng-fenghuang",
+   "name": "Feng Fenghuang (mentioned in a memory)",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "Made the old summary's 'past self awakened' concrete: memories of the Dao Protector vow and his fourteen days to live, the self-severing explanation and her Western Desert plan.",
+  "Her final dance starts at the end of EP178 and carries into EP179."
+ ],
+ "flags": [
+  "13:32–13:35: an unidentified voice says 'Saya tiba tepat waktu … menemukan banyak hal menjijikkan'. It is probably her Buddhist self or remnant will, but the speaker isn't clear.",
+  "11:24–11:38: the Buddhist 'deceased person' sutra lines are garbled."
+ ]
+}

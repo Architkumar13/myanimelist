@@ -1,0 +1,101 @@
+{
+ "ep": 132,
+ "title": "Comprehending the Xing Secret",
+ "summary": "The Old Madman leaves the group. Ye Fan goes into seclusion in a mountain valley to master the Xing Secret by merging with thunder, which triggers a breakthrough tribulation; Hei Huang is struck naked, and Nannan hands him flower underpants. Hell dynasty assassins attack during the tribulation, and Ye Fan comes out at Four Poles level 3, flattens a group of Four Poles Great Perfection killers and uses the Xing Secret's speed to save Nannan from a dying assassin's last strike. Going on the offensive, he and Hei Huang find the Ancient Yin Tree at the ruins of Qingming Ancient City and post source and names to hire Hell against the holy sons; the attack reveals the Yaoguang Holy Son at Dragon Transformation level 2. Meanwhile, Yaochi invites the Yaoguang Holy Son to the Yaochi Grand Gathering. Now healed, Ye Fan heads to the Holy City to keep his promise to An Miaoyi, who has stopped dancing and angered Miaoyu Convent, while the Central States' Twin Kings arrive.",
+ "events": [
+  "The Old Madman departs",
+  "Ye Fan's tribulation while comprehending the Xing Secret; Hei Huang struck",
+  "Hell assassins ambush and are wiped out; Ye Fan reaches Four Poles level 3",
+  "Hell hired through the Ancient Yin Tree at Qingming Ancient City",
+  "The Yaoguang Holy Son revealed at Dragon Transformation level 2",
+  "Yaochi invites the Yaoguang Holy Son",
+  "An Miaoyi defies Miaoyu Convent; the Twin Kings arrive in the Holy City"
+ ],
+ "introduced": [
+  "Hell (assassin dynasty)",
+  "Ancient Yin Tree",
+  "Qingming Ancient City",
+  "Miaoyu Convent",
+  "Twin Kings of the Central States (Taiyang King, Gao Linfeng)",
+  "Yaochi Grand Gathering"
+ ],
+ "cultivation": "Ye Fan captioned Four Poles level 3 after the tribulation; the Hell killers are Four Poles Great Perfection; the Yaoguang Holy Son is said to be at Dragon Transformation level 2; the Twin Kings are captioned Four Poles; a Miaoyu elder is Dragon Transformation.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": "Four Poles",
+   "quote": "[Alam Empat Kutub, Level 3]",
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "hei-huang",
+   "name": "Hei Huang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "nannan",
+   "name": "Nannan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "old-madman",
+   "name": "Old Madman",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yaoguang-holy-son",
+   "name": "Holy Son of Yaoguang",
+   "realm": "Dragon Transformation",
+   "quote": "benar-benar mencapai Alam Transformasi Naga Level 2!",
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "an-miaoyi",
+   "name": "An Miaoyi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Taiyang King",
+   "realm": "Four Poles",
+   "quote": "[Raja Taiyang, Raja Kembar Dataran Tengah, Alam Empat Kutub]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Gao Linfeng",
+   "realm": "Four Poles",
+   "quote": "[Gao Linfeng, Adik Raja Kembar Dataran Tengah, Alam Empat Kutub]",
+   "look": null,
+   "first": true
+  }
+ ],
+ "changes": [
+  "The caption reads Four Poles level 3, not 'peak of the 3rd layer'",
+  "Ye Fan hires Hell against the holy sons here (old summary put it in EP133)",
+  "Added the Yaoguang Holy Son's revealed realm, Miaoyu Convent and the Twin Kings' arrival"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "03:20–03:53: the opening 'Hell secret room / Hell elder' scene with a Holy Cliff painting is unexplained",
+  "16:57: An Miaoyi's elder says the ancient Dao tea leaves she sent helped the Holy Body break through Four Poles; this links to EP122's 'holy Dao leaves'",
+  "19:56 onward is a preview of EP133"
+ ]
+}

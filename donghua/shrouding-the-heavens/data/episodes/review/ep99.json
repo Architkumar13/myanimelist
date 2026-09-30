@@ -1,0 +1,73 @@
+{
+  "ep": 99,
+  "title": "Real and Fake Ye Fan",
+  "summary": "Word spreads that Ye Fan has imprisoned Jin Chi and Yaoguang's Holy Son and Holy Maiden, and Yaoguang offers 100,000 catties of source for his capture. In disguise, Ye Fan sells bounty hunters a fake lead to a cave, then robs them. In a restaurant in Shanshi City, a young master with a Four Poles attendant (Xia Jiuyou, disguised as a boy) and Yaoguang's Gu Litian, who has just entered the Four Poles, clash over the hunt. Duan De turns up as a Daoist fortune-teller, claims he can calculate Ye Fan's location, and sells it for 100,000 catties. Ye Fan and Hei Huang recognise his God Clone technique, track it to a teleportation formation and tamper with it so his crossing through the void goes wrong. Two days later Duan De leads the hunters to a fake Ye Fan, who boasts that he will kill every Holy Lord, pockets the source and slips away while Ye Fan follows.",
+  "events": [
+    "Yaoguang posts a 100,000-catty bounty on Ye Fan",
+    "Disguised, Ye Fan scams and robs bounty hunters",
+    "Xia Jiuyou and Gu Litian meet in a Shanshi City restaurant",
+    "Duan De sells 'calculated' news of Ye Fan",
+    "Ye Fan and Hei Huang find and tamper with Duan De's teleport formation",
+    "A fake Ye Fan taunts the Holy Lands; Duan De takes the source and leaves"
+  ],
+  "introduced": [
+    "Xia Jiuyou",
+    "Gu Litian",
+    "Shanshi City",
+    "God Clone Body",
+    "Dao Palace Gods (info card)"
+  ],
+  "cultivation": "Captions: Xia Jiuyou, Four Poles; Gu Litian (Yaoguang), Four Poles, said to have just entered it.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Disguised as an old informant",
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "duan-de",
+      "name": "Duan De",
+      "realm": null,
+      "quote": null,
+      "look": "Poses as a Daoist fortune-teller and uses a God Clone disguised as Ye Fan",
+      "first": false
+    },
+    {
+      "id": "xia-jiuyou",
+      "name": "Xia Jiuyou",
+      "realm": "Four Poles",
+      "quote": "[Xia Jiuyou, Alam Empat Kutub]",
+      "look": "Disguised as a young boy ('Anak, kamu masih muda')",
+      "first": true
+    },
+    {
+      "id": "gu-litian",
+      "name": "Gu Litian",
+      "realm": "Four Poles",
+      "quote": "[Gu Litian, Tanah Suci Yaoguang, Alam Empat Kutub]",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Explained the fake-Ye-Fan scheme: Duan De sells fake news of Ye Fan and uses a God Clone, and Ye Fan tampers with his teleport",
+    "Added Ye Fan's own bounty scam, Shanshi City, and the Four Poles captions for Xia Jiuyou and Gu Litian"
+  ],
+  "flags": [
+    "09:09 caption '[Telur Tao]' ('Dao Egg') over Duan De's entrance is unclear; possibly a pun nickname",
+    "11:06-11:19 unclear who proposes splitting the bounty (furnace for one side, Ye Fan for the other); read as Gu Litian bargaining with Xia Jiuyou",
+    "17:11 the fake Ye Fan is linked to a 'Supreme Cruel Killer' disguise technique; the wording is confused. The impostor is taken to be Duan De's clone, from 14:10-14:37"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "ep": 96,
+  "title": "Ancient Tomb of Li City",
+  "summary": "After the fight over the fragments, Jin Chi, the Little Peng King, makes his follower Jin Yan kneel and apologise to the Ji family, and Yao Xi asks 'Daoist Gu Feng' (Ye Fan in disguise) to help her side. A bronze bell, an ancient artifact, opens the underground ruins of Li City, a site 15,000 years old, and the young elites fall inside and are scattered. Ji Haoyue asks Gu Feng to report any news of Ye Fan to the Ji family, and Gu Feng calls Ye Fan 'sly, wicked and very cunning' to his face. Ji Ziyue goes missing and Jin Chi chases her, and Ye Fan steps in to protect her. The groups gather at a Red Gate guarded by a tomb guardian, where Duan De lectures them on how to open it; the Ji side brings the relic key and everyone strains to pull the gate open. The guardian monster copies the Ji family's Heavenly Eagle Slash, the Jiang family's barbaric strength and Yaoguang's Golden Wall, and grows stronger the more it is hit, until Ye Fan tries his Source Arts on it. The episode ends with the Daoyi Holy Land's disciple leader (Lu Ling) turning up.",
+  "events": [
+    "Jin Chi makes Jin Yan kneel and apologise to the Ji family",
+    "Yao Xi asks Gu Feng (Ye Fan) to help her",
+    "A bronze bell opens the 15,000-year-old Li City ruins",
+    "Ji Haoyue asks Gu Feng to hand Ye Fan over to the Ji family",
+    "Jin Chi hunts Ji Ziyue and Ye Fan protects her",
+    "Duan De explains the Red Gate and its tomb guardian; the groups force the gate",
+    "The guardian copies each family's secret techniques; Ye Fan tries Source Arts"
+  ],
+  "introduced": [
+    "Jin Yan",
+    "Li City ruins (Li City ancient tomb)",
+    "Bronze Bell (ancient artifact)",
+    "Three Elements Coffin",
+    "Red Gate and its tomb guardian"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Disguised as Daoist Gu Feng",
+      "first": false
+    },
+    {
+      "id": "jin-chi",
+      "name": "Jin Chi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Jin Yan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yao-xi",
+      "name": "Yao Xi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-haoyue",
+      "name": "Ji Haoyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "duan-de",
+      "name": "Duan De",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "lu-ling",
+      "name": "Lu Ling",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Replaced the one-line 'explore an ancient tomb' summary with the actual events: the Ji/demon apology, the bronze bell opening the ruins, Ji Haoyue questioning Gu Feng, Ziyue's rescue from Jin Chi, Duan De and the Red Gate, and the technique-copying tomb guardian",
+    "Added Jin Yan, the bronze bell, the Red Gate and the Three Elements Coffin"
+  ],
+  "flags": [
+    "03:59 'Permintaan Wanita Suci' - the Holy Maiden asking Gu Feng for help is not named; taken as Yao Xi because EP97 07:33 says 'Suster Yao Xi' vouched for Gu Feng",
+    "09:15 'Orang yang disebutkan oleh Suster Qin Yao' - unclear who speaks and why Qin Yao is mentioned here",
+    "11:05 'Rekan Tao Duan' and the catchphrase 'Tuhan Surgawi tidak terbatas' identify Duan De; 12:02 'si gendut ini' means Duan De here, not Pang Bo",
+    "18:42 caption names the Daoyi Holy Land but not Lu Ling; she is identified from EP97"
+  ]
+}

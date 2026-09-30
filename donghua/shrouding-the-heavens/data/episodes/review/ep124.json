@@ -1,0 +1,75 @@
+{
+ "ep": 124,
+ "title": "Nannan in Danger",
+ "summary": "The Jiang family orders an all-out search for the Ruthless lineage. Ye Fan meets up with Hei Huang, Pang Bo and the bandit brothers, and tells them that Hua Yunfei's parting words and the soul clones' aura point to the Yaoguang Holy Son as the masked Heaven-Painting Staff attacker at Yaochi. Hei Huang explains the Ruthless Emperor's rise through the Heaven-Swallowing Demon Art. When they visit Nannan, they find her memory wiped and her gone; the woman who promised to look after her has tracked her to a Yin-Yang Sect branch, where child prodigies are being force-fed drugs and Nannan is judged worthless and nearly killed. The woman kills five guards while Nannan counts to five. A Dragon Transformation level 4 Yin-Yang elder then confronts Ye Fan; Pang Bo joins in with the Demon Emperor's Nine Slashes, and Ye Fan beats the elder with the Battle Holy Technique. All the children are freed.",
+ "events": [
+  "The Jiang family orders a hunt for the Ruthless lineage",
+  "Ye Fan reunites with Hei Huang, Pang Bo and the bandits",
+  "Ye Fan suspects the Yaoguang Holy Son",
+  "Nannan found missing with her memory erased",
+  "The Yin-Yang Sect branch force-feeds child prodigies",
+  "The woman rescues Nannan while she counts to five",
+  "Ye Fan and Pang Bo beat a Dragon Transformation level 4 Yin-Yang elder",
+  "The children are freed"
+ ],
+ "introduced": [
+  "Yin-Yang Sect branch (Eastern Wasteland)",
+  "Heaven-Painting Staff"
+ ],
+ "cultivation": "Yin-Yang Sect elder captioned Dragon Transformation level 4.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "hei-huang",
+   "name": "Hei Huang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "pang-bo",
+   "name": "Pang Bo",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "nannan",
+   "name": "Nannan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Yin-Yang Sect elder (old woman)",
+   "realm": "Dragon Transformation",
+   "quote": "[Tetua Sekte Yin-Yang, / Alam Transformasi Naga Level 4]",
+   "look": null,
+   "first": true
+  }
+ ],
+ "changes": [
+  "The holy-fruit sharing isn't in the subs; removed",
+  "The rescuer who gets Nannan out first is the woman Ye Fan entrusted her to; Ye Fan then fights the Dragon Transformation level 4 elder",
+  "Added Ye Fan's theory about the Yaoguang Holy Son"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "04:43–04:50: a Jiang elder says 'our Jiang family' and then 'All members of the Ji family, listen'; this is probably a Jiang/Ji subtitle slip",
+  "05:29–05:41 and 18:50: 'Saudara Jenius' and 'Ya, anak muda' are other speakers (probably Tu Fei / Li Heishui and Pang Bo's 'Ye-zi'); who is present isn't clear in the subs",
+  "09:50 'Nona Ye' is probably 'Nona' (Miss) addressing the unnamed woman from EP119",
+  "16:16 'Akulah Raja Klan Iblis!' after the Demon Emperor's Nine Slashes; taken as Pang Bo (Demon Emperor inheritance)"
+ ]
+}

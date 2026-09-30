@@ -1,0 +1,71 @@
+{
+  "ep": 110,
+  "title": "The Divine King Revives",
+  "summary": "Fairy Caiyun, who waited 4,000 years for Jiang Taixu, borrows Ye Fan's whip and puts the three Old Demons back in their graves. The Dark Night King (Immortal Platform 3rd Heaven), one of Zhongzhou's Twin Kings, whose brother Jiang Taixu killed long ago, then attacks to destroy the Jiang clan. Ye Fan burns the Mystic Fire of his divine furnace to resonate with the Hengyu Divine Furnace and restart part of the Great Emperor formation. With thirty minutes left, Caiyun burns her own life force to power the dragon pearl, asking that her aged face be covered with a white cloth, and dies. Jiang Taixu wakes and traps the Dark Night King in his Divine King Holy Land, and although the king wears a Sage's battle robe made to counter it, Taixu kills him. Grieving, Taixu lifts the cloth, vows to win back Caiyun's young face from heaven, and remembers his promise to watch the sunset with her.",
+  "events": [
+    "Caiyun puts the three Old Demons to rest",
+    "The Dark Night King attacks to avenge his brother",
+    "Ye Fan's Mystic Fire resonates with the Hengyu Divine Furnace",
+    "Caiyun burns her life to power the dragon pearl and dies",
+    "Jiang Taixu awakens in his Divine King Holy Land",
+    "Jiang Taixu kills the Dark Night King",
+    "Taixu mourns Caiyun"
+  ],
+  "introduced": [
+    "Dark Night King (Raja Kegelapan)",
+    "Divine King Holy Land",
+    "Divine Sigh"
+  ],
+  "cultivation": "Dark Night King: Immortal Platform 3rd Heaven (caption), said to have cut his Dao and become a King.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "caiyun",
+      "name": "Caiyun",
+      "realm": null,
+      "quote": null,
+      "look": "Aged; asks for a white cloth to hide her old face",
+      "first": false
+    },
+    {
+      "id": "jiang-taixu",
+      "name": "Jiang Taixu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "wang-shen",
+      "name": "Wang Shen",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Dark Night King",
+      "realm": "Immortal Platform (3rd Heaven)",
+      "quote": "[Raja Kegelapan, Surga Ketiga Platform Abadi]",
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Named the villain from the subtitles as the Dark Night King ('Raja Kegelapan', a Twin King of Zhongzhou) and gave his motive (Taixu killed his brother); the old summary called him 'Sovereign King of the Eventide'",
+    "Recorded that the revival came from the True Dragon medicine's dragon pearl and Caiyun's sacrifice"
+  ],
+  "flags": [
+    "15:42 his brother is called 'Raja Matahari' (Sun King), which doesn't fit 'Twin Kings'/'Dark Night'; the naming may be inconsistent",
+    "20:08-20:29 the sunset scene is ambiguous: a flashback, or Caiyun restored? Read here as memory/mourning"
+  ]
+}

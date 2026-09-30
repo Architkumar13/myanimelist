@@ -1,0 +1,100 @@
+{
+  "ep": 98,
+  "title": "Sealing Three Prodigies",
+  "summary": "Inside the Hall of Divine Light, a black altar protected by Source Arts holds a beast-hide scroll with the Nine Secrets inheritance. Jin Chi says he only wants the Black-Yellow Source Root and agrees to break the formation with Yaoguang. Lu Ling tells Ye Fan her family records mention a Chaos Stone carrying a Great Emperor's aura; triggering it presses everyone down to Dao Palace Level 3, and it will fully wake in 15 minutes. Ye Fan reveals himself and fights the Yaoguang Holy Son, Yao Xi and Jin Chi at once. When the Chaos Stone's field freezes everyone, he protects himself with the Black-Yellow Mother Qi and seals all three prodigies in his fire furnace, warning the families that he will hold them for a year and hurt them if he is followed. The scroll shows a Holy Cliff stained by a fallen Ancient Holy Body and a map of Purple Mountain, and on Hei Huang's advice they trick Duan De into taking the map as bait. Meanwhile Ji Ziyue tells a Ji elder she will train alone until she reaches the Four Poles.",
+  "events": [
+    "The black altar and the Chaos Seal",
+    "Jin Chi agrees to break the formation for the Black-Yellow Source Root",
+    "Lu Ling triggers the Chaos Stone, pressing everyone down to Dao Palace Level 3",
+    "Ye Fan reveals himself and fights three prodigies",
+    "He seals the Yaoguang Holy Son, Yao Xi and Jin Chi in his furnace for a year",
+    "Hei Huang reads the scroll: the Holy Cliff and a Purple Mountain map",
+    "Duan De is tricked into taking the map",
+    "Ji Ziyue goes into secluded training"
+  ],
+  "introduced": [
+    "Chaos Stone",
+    "Black-Yellow Source Root",
+    "Beast-hide Nine Secrets scroll",
+    "Holy Cliff",
+    "Purple Mountain map"
+  ],
+  "cultivation": "The Chaos Stone presses everyone down to Dao Palace Level 3. Ji Ziyue says her primordial spirit has broken into the Dao Palace and she will not return before the Four Poles.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Drops the Gu Feng disguise",
+      "first": false
+    },
+    {
+      "id": "lu-ling",
+      "name": "Lu Ling",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yaoguang-holy-son",
+      "name": "Holy Son of Yaoguang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yao-xi",
+      "name": "Yao Xi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jin-chi",
+      "name": "Jin Chi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "duan-de",
+      "name": "Duan De",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": "Dao Palace",
+      "quote": "Hari ini Roh Primordial menerobos Istana Dao",
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Named the three sealed prodigies (Yaoguang Holy Son, Yao Xi, Jin Chi) and explained how the Chaos Stone lets Ye Fan win",
+    "Added the Purple Mountain map trick on Duan De and Ziyue's seclusion",
+    "Ji Hui's return (old summary) can't be confirmed: the elder who talks to Ziyue at 18:45 is not named"
+  ],
+  "flags": [
+    "18:45-19:08 the Ji elder speaking to Ziyue is not named; could be Ji Hui but this is unconfirmed",
+    "19:48 'Hari ini Roh Primordial menerobos Istana Dao' is read as Ziyue's own breakthrough; the speaker is not certain",
+    "16:01 a Jiang voice compares Ye Fan's furnace to 'the Jiang family's Sun God furnace' (probably the Hengyu furnace; the name is likely machine-translated)"
+  ]
+}

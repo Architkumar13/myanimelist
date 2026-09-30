@@ -1,0 +1,76 @@
+{
+  "ep": 63,
+  "title": "Reaching the Other Shore",
+  "summary": "Sure that the Sourceless Fire has turned Ye Fan to ash, Ji Hui still vows to guard the Fire Domain's entrance for seven days. On the sixth layer, his Xuanhuang Qi can't hold back the Violet Fire, but the Bodhi seed in his bottle resists it, so he uses the Violet Fire and the Mother Qi of All Things to reforge his cauldron fragments, with the Green Copper damping the flames. Working over an unknown stretch of time, he completes the Myriad Things Mother Qi Cauldron, with two ears for Yin and Yang and three legs for heaven and earth, which can block the Violet Fire. Meanwhile Ziyue, told Ye Fan is dead and blamed for the elders the Ji family has lost, breaks away to the Fire Domain because her jade pendant is still glowing, and ignores Hua Yunfei's pleas to stop. The black-robed man who hunted her at Qixia Mountain appears, promising his Master he will deal with things this time. Ye Fan faces the dangerous step from the Divine Bridge to the Other Shore; memories of his friends drive him on, a green lotus blooms from his Wheel of Life, and he crosses the Bitter Sea to the Other Shore.",
+  "events": [
+    "Ji Hui waits seven days at the Fire Domain entrance",
+    "The Bodhi seed shields Ye Fan from the Violet Fire",
+    "He reforges his cauldron with the Violet Fire and the Mother Qi of All Things",
+    "The Myriad Things Mother Qi Cauldron is completed",
+    "Ziyue heads to the Fire Domain, following her glowing jade pendant",
+    "The black-robed agent resurfaces",
+    "A green lotus blooms and Ye Fan reaches the Other Shore"
+  ],
+  "introduced": [
+    "Myriad Things Mother Qi Cauldron",
+    "Bodhi seed",
+    "green lotus"
+  ],
+  "cultivation": "Ye Fan crosses from the Divine Bridge to the Other Shore realm ('Paramita').",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ji-hui",
+      "name": "Ji Hui",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Other Shore",
+      "quote": "Ini... adalah Alam Paramita.",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hua-yunfei",
+      "name": "Hua Yunfei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "black-robed man (straw-cloaked)",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Removed the claim that the Ji Haoyue storyline moves to the Fire Domain: Haoyue doesn't appear",
+    "Protection from the fire comes from a Bodhi seed ('Benih Bodhi') in his bottle; the cauldron is re-forged from its fragments",
+    "The Fire Domain was introduced in EP62; the masked man's fight begins at the end of this episode and runs into EP64"
+  ],
+  "flags": [
+    "05:53 'Benih Bodhi' (Bodhi seed) vs 'Bodhi Stone' in EP51; probably the same item",
+    "12:53-12:57 the person restraining Ziyue calls him 'Kakak Ye', which is how Hua Yunfei addresses him; the speaker is inferred",
+    "13:47-14:33 who the black-robed man is addressing is unclear (Ziyue or Ye Fan)",
+    "15:40-15:59 are flashback lines (Pang Bo and others), not new events",
+    "04:22 a Supreme Elder who laid the killing formation is 'fate unknown'; see the EP64 bounty notice",
+    "18:03 the info card describes Ji Hui, whom it calls Ziyue's grandmother ('nenek'); dialogue elsewhere calls her Great-Aunt"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+ "ep": 139,
+ "title": "Three Demons vs Three Saints",
+ "summary": "At Yaochi, Ye Fan gets Nannan back, and holy lords including the Wanchu Holy Lord's younger brother Ou Luotian (Immortal Platform 2nd level) and holy-land leader Wang Zheng (Immortal Platform) demand his death for the Dragon Nest deaths. Ye Fan plays a record showing they forced him to lead them in against his warnings. The Queen Mother of the West won't openly take sides, and then the Peacock King, the Red Dragon Daoist and the Crow Daoist (Immortal Platform) arrive to protect him. On Yaochi's ancient Life-and-Death Stage, the Peacock King kills Ou Yetian in two moves and then fights Wang Zheng's Hunyuan Holy Light Art and chaos-stone seal. The Red Dragon Daoist takes over and beats Wang Zheng with the Eight Heavenly Arts, and the Crow Daoist crushes a Yin-Yang elder's imitation Yin-Yang mirror with his Fire Domain. When 'Leader Wang' vows to burn all his cultivation to activate a holy weapon, the Queen Mother suppresses him with the Xihuang Pagoda. Far away, an ancient Supreme watches from the Ancient Road Cliff.",
+ "events": [
+  "Nannan returned to Ye Fan at Yaochi",
+  "Ou Luotian and Wang Zheng demand Ye Fan's death",
+  "Ye Fan shows the Dragon Nest record",
+  "The Peacock King, Red Dragon Daoist and Crow Daoist arrive",
+  "The Peacock King kills Ou Yetian on the Life-and-Death Stage",
+  "The Red Dragon Daoist defeats Wang Zheng; the Crow Daoist defeats the Yin-Yang elder",
+  "The Queen Mother's Xihuang Pagoda stops a last-ditch holy-weapon attack"
+ ],
+ "introduced": [
+  "Ou Luotian / Ou Yetian",
+  "Wang Zheng",
+  "Crow Daoist",
+  "Life-and-Death Stage (Yaochi)",
+  "Xihuang Pagoda",
+  "Ancient Road Cliff Supreme"
+ ],
+ "cultivation": "Ou Luotian captioned Immortal Platform 2nd level; Wang Zheng captioned Immortal Platform; Crow Daoist captioned Immortal Platform.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "nannan",
+   "name": "Nannan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "peacock-king",
+   "name": "Peacock King",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "red-dragon-daoist",
+   "name": "Red Dragon Daoist",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "crow-daoist",
+   "name": "Crow Daoist",
+   "realm": "Immortal Platform",
+   "quote": "[Taois Gagak, Platform Abadi]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Ou Luotian",
+   "realm": "Immortal Platform",
+   "quote": "[Ou Luotian, / Saudara Muda Dewa Suci Wanchu, / Platform Abadi Level 2]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Wang Zheng",
+   "realm": "Immortal Platform",
+   "quote": "[Wang Zheng, Pemimpin Tanah Suci, Platform Abadi]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Queen Mother of the West",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "Wang Zheng is captioned only as 'a holy land leader', not Yaoguang",
+  "The third fight is the Crow Daoist against a Yin-Yang elder; Wang Yangzhan isn't named",
+  "It's unclear who dies apart from Ou Yetian"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "03:53 caption 'Ou Luotian', but 07:49 he calls himself 'Ou Yetian'; the name is inconsistent",
+  "12:06–12:15: Wang Zheng's lifespan is nearly exhausted and he wants to drag Red Dragon with him; whether he dies isn't stated",
+  "15:24 'Pemimpin...' (someone mourns a leader) and 17:09 'Pemimpin Wang': the man stopped by the Xihuang Pagoda may be Wang Zheng or the Yin-Yang Sect Master (Wang Yangzhan); ambiguous",
+  "16:34: an unidentified ally says 'whenever it concerns Young Friend Ye I will come'; EP140 suggests Yaochi summoned the three demons, and the Great Bandits also helped",
+  "The Crow Daoist's info card says Ye Fan saw him earlier at the Fire Domain's 8th layer, so he may have appeared unnamed in an earlier episode"
+ ]
+}

@@ -1,0 +1,80 @@
+{
+  "ep": 153,
+  "title": "An Eternal Azure Lotus",
+  "summary": "The remnant consciousness of the Azure Emperor ('azure sky through the ages, a single lotus') crushes the red-haired Cai ancestor, who was cursed by the Heaven Source arts late in life. A Holy Spirit, a being born of heaven and earth who calls itself the Immortal Lord of the Central States, then wakes and declares it will wipe out 'lowly' humans. It summons the Taihuang Sword. The Azure Emperor simply takes the Emperor weapon from it, traps it with the Buddhist art 'a grain of sand, one world', and kills it, accepting heaven's backlash as he once did under the immortal peach tree. He tells the demon race that a Great Emperor belongs to all of heaven and earth, leaves the world to the young, and fades. Ye Fan decides that protecting others, not just power, is the real Dao. The scramble for the marrow resumes. Ye Fan uses the Weapon Secret, a terrain-shifting trap and a prepared teleport with Ji Ziyue and Pang Bo to take the Illusion-grade Divine Marrow. He also fights Wang Chong, who carries a Luan Gu Emperor talisman. Then Wang Teng arrives with an emperor sword, the Yin-Yang Sect's master comes with the Yin-Yang Mirror, and Great Xia and Jiuli close in on him.",
+  "events": [
+    "The Azure Emperor's remnant consciousness subdues the red-haired Cai ancestor",
+    "The Holy Spirit 'Immortal Lord of the Central States' wakes and summons the Taihuang Sword",
+    "The Azure Emperor takes the sword and kills the Holy Spirit",
+    "He tells the demon race and the young generation goodbye and fades",
+    "Ye Fan decides the real Dao is about protecting others",
+    "Ye Fan takes the Illusion-grade Divine Marrow with a trap and a teleport",
+    "Wang Teng, the Yin-Yang Sect, Great Xia and Jiuli close in"
+  ],
+  "introduced": [
+    "Holy Spirit (Immortal Lord of the Central States)",
+    "Taihuang Sword",
+    "Luan Gu Emperor talisman",
+    "Yin-Yang Mirror"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "azure-emperor",
+      "name": "Azure Emperor",
+      "realm": null,
+      "quote": "[Kaisar Qing, Sisa Kesadaran Kaisar Agung]",
+      "look": "Remnant consciousness",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Immortal Lord of the Central States (Holy Spirit)",
+      "realm": null,
+      "quote": "[Penguasa Abadi, Dataran Tengah]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "wang-teng",
+      "name": "Wang Teng",
+      "realm": null,
+      "quote": null,
+      "look": "First in-person fight appearance",
+      "first": false
+    },
+    {
+      "id": "wang-yangzhan",
+      "name": "Wang Yangzhan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Wang Chong",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Replaced a one-line summary with the full story: the Azure Emperor suppresses the Cai ancestor, kills the Holy Spirit with the Taihuang Sword, and gives a farewell speech",
+    "Added Ye Fan's marrow heist and the siege by Wang Teng, the Yin-Yang Sect, Great Xia and Jiuli"
+  ],
+  "flags": [
+    "17:00–17:08 the Yin-Yang speaker with the mirror is not captioned. EP155 confirms Wang Yangzhan, and he says Ye Fan killed their Holy Son and Holy Maiden",
+    "16:00 'Jimat Kaisar Luan Gu' is presumably the talisman Wang Teng left Wang Chong (EP152 00:22)"
+  ]
+}

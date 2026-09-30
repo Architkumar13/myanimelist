@@ -1,0 +1,114 @@
+{
+ "ep": 138,
+ "title": "Calling Lightning to Slay Holy Sons",
+ "summary": "Kidnappers holding Liu Yiyi summon Ye Fan alone to Blazing Devil Mountain in the central Eastern Wasteland, once home of the Fire clan's divine spirit that the Ruthless Emperor killed. Remembering Yiyi as someone from Earth like him, he goes alone, but Hei Huang follows him through the Myriad Formation Gate, which disables the Holy Body's vision. There the thirteen-member Holy Body Killing Alliance waits, among them the Wanchu Holy Maiden Zhao Yanran, Jin Chixiao of the Northern Plains' Huangjin family, Xiang Yime of the Xing Dynasty and Li Rui, the Yaoguang Holy Son candidate, along with great-power elders. Ye Fan offers them the cauldron to sow discord, then deliberately sets off his own heavenly tribulation and drags them all into it; the chain reaction kills the holy sons and elders, and he emerges at Four Poles Great Perfection. Soon after, word comes that a Holy Lord-level Yin-Yang Sect expert has broken into the oasis and taken Nannan, demanding that Ye Fan come to Yaochi, and he goes.",
+ "events": [
+  "Liu Yiyi kidnapped as bait",
+  "Blazing Devil Mountain and the Myriad Formation Gate; Hei Huang follows",
+  "The thirteen-member Holy Body Killing Alliance revealed",
+  "The cauldron used as a lure to divide them",
+  "Ye Fan triggers his tribulation and wipes out the alliance and elders",
+  "Ye Fan reaches Four Poles Great Perfection",
+  "Nannan abducted by a Holy Lord-level Yin-Yang expert; Ye Fan goes to Yaochi"
+ ],
+ "introduced": [
+  "Blazing Devil Mountain",
+  "Myriad Formation Gate",
+  "Holy Body Killing Alliance",
+  "Zhao Yanran",
+  "Jin Chixiao",
+  "Xiang Yime",
+  "Li Rui"
+ ],
+ "cultivation": "Ye Fan captioned Four Poles Great Perfection after his self-triggered tribulation ('[Ye Fan, Alam Empat Kutub Kesempurnaan Agung]').",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": "Four Poles",
+   "quote": "[Ye Fan, Alam Empat Kutub Kesempurnaan Agung]",
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "liu-yiyi",
+   "name": "Liu Yiyi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "hei-huang",
+   "name": "Hei Huang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Zhao Yanran",
+   "realm": null,
+   "quote": "[Zhao Yanran, Gadis Suci dari Tanah Suci Wanchu]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "jin-chixiao",
+   "name": "Jin Chixiao",
+   "realm": null,
+   "quote": "[Jin Chixiao, / Penerus Keluarga Huangjin Dataran Utara]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Xiang Yime",
+   "realm": null,
+   "quote": "[Xiang Yime, Putra Suci Dinasti Xing]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Li Rui",
+   "realm": null,
+   "quote": "[Li Rui, Calon Putra Suci Yaoguang]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "nannan",
+   "name": "Nannan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-heishui",
+   "name": "Li Heishui",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "The location is Blazing Devil Mountain ('Gunung Iblis yang Membara'), not Fire Demon Ridge",
+  "The alliance is called the Holy Body Killing Alliance",
+  "Crow Daoist doesn't appear here; he first appears in EP139",
+  "The caption reads Four Poles Great Perfection; it doesn't say '4th layer' or '81 strikes'",
+  "Added Nannan's abduction to Yaochi"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "03:14: 'mereka tahu cara menggunakan telepon seluler' (a mobile-phone joke) is probably a loose translation of a message talisman",
+  "04:44: 'Shen Yuan, ayo kita bantu' is an unknown name, possibly a mis-transcription",
+  "03:55: someone offers to call the Great Bandits and 'Grandpa Tu Tian' (probably Jiang Huairen or Li Heishui)",
+  "08:46: 'Xiang Yime' may be a garbled name",
+  "19:02 onward repeats the opening"
+ ]
+}

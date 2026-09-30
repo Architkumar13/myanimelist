@@ -1,0 +1,98 @@
+{
+ "ep": 130,
+ "title": "The Old Madman Strikes",
+ "summary": "Ye Fan reappears after his fourteen days are up, and people assume he has given up his cultivation. Ji Ziyue finds him and gives him a life-extending medicine she secretly 'borrowed'. The Yin-Yang Sect Master arms the newly emerged Holy Son with the sect's Yin-Yang sword to avenge the Holy Maiden. Near the Holy Cliff, the Holy Son and a Dragon Transformation level 8 Grand Elder, a half-step Supreme, ambush Ye Fan; he claims Wang Shen left him only ten more uses of Four Poles power, each of which must claim a Holy Son. He answers the Holy Son's Yin-Yang Divine Diagram with his own Taiji Divine Diagram and kills him. The Old Madman then crushes three half-step Supremes in one grasp and is taken for an ancient Saint. Zhao Fa brings the Ziwei Sect Master to demand Ye Fan's sword, but the master flees at the sight of the Old Madman, finds the group already waiting at his gate, and grovels, blaming his 'apprentice' Zhao Fa. The group reaches the Holy Cliff.",
+ "events": [
+  "Ji Ziyue gives Ye Fan a life-extending medicine",
+  "The Yin-Yang Holy Son is sent with the Yin-Yang sword",
+  "Ambush by the Holy Son and a Dragon Transformation level 8 Grand Elder",
+  "Ye Fan kills the Holy Son with the Taiji Divine Diagram",
+  "The Old Madman crushes three half-step Supremes",
+  "The Ziwei Sect Master flees and grovels; Zhao Fa is punished",
+  "Arrival at the Holy Cliff"
+ ],
+ "introduced": [
+  "Yin-Yang Holy Son",
+  "Ziwei Sect Master",
+  "Yin-Yang sword"
+ ],
+ "cultivation": "Yin-Yang Grand Elder captioned Dragon Transformation level 8, called 'half-step Supreme'. Ye Fan claims he has 'ten chances' left to show Four Poles power.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "ji-ziyue",
+   "name": "Ji Ziyue",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "old-madman",
+   "name": "Old Madman",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "nannan",
+   "name": "Nannan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "hei-huang",
+   "name": "Hei Huang",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-heishui",
+   "name": "Li Heishui",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Yin-Yang Holy Son",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Zhao Fa",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "Removed 'golden chariot taken' (not in the subs; Nannan only admires the star over the Sect Master's head)",
+  "Added Ji Ziyue's medicine and Ye Fan's 'ten uses of Four Poles' cover story"
+ ],
+ "flags": [
+  "'Kamu penggemar' throughout is a machine mistranslation of the name 'Ye Fan' (叶凡 read as 'you fan'); treated as Ye Fan.",
+  "06:29–06:35: Ji Ziyue says the medicine was borrowed from 'our Sect Master' and made by 'our mighty Divine King'; this is odd for the Ji family, possibly a mistranslation",
+  "14:23–14:49: 'Sehelai rambut? … Anda seorang Santo Kuno?!' — the Old Madman is taken for an ancient Saint; his realm isn't confirmed",
+  "15:46: 'Bawahan, bukankah aku yang mengirimmu ke Gurun Barat?' is addressed to the Ziwei underling (probably Zhao Fa, though EP127 threw Paman Yi to the Western Desert); identity uncertain",
+  "19:22 onward is a preview of EP131"
+ ]
+}

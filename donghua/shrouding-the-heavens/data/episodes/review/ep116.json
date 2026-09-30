@@ -1,0 +1,107 @@
+{
+  "ep": 116,
+  "title": "Holy Ape Seizes the Goddess",
+  "summary": "The 'Qilin' turns out to be a seed of the Qilin Divine Medicine, which could revive a cultivator whose lifespan has run out, and Ye Fan wins round two. The Red Dragon Daoist, the Green Dragon King and Tu Tian come to watch. In the final round Nangong cuts a Blood Sacrifice Altar stone from a forbidden region and reveals a goddess from an ancient royal clan, impaled and sealed by a spear, over whom the Ancient Divine Silkworm weeps. Ye Fan follows the dragon vein to an 'Immortal Tomb' stone hidden under the lake and cuts it with his Black-Gold Dragon-Pattern sword. A golden Battle Saint Ape of the ancient royal clans bursts out, uses a nine-fold heavenly transformation and escapes through a dimensional gate, and Nangong is left complaining that Ye Fan's carelessness cost him a priceless treasure. Ye Fan wins on earlier rounds, but at the celebration he collapses. Doctor Wang Shen says the heavenly law has cut his life force, a Great Dao wound that leaves him half a year at most, and Ye Fan asks Pang Bo to care for his parents on Earth if he dies.",
+  "events": [
+    "The Qilin Divine Medicine seed; Ye Fan wins round two",
+    "The Red Dragon Daoist, the Green Dragon King and Tu Tian watch",
+    "Nangong reveals an impaled ancient goddess; the silkworm weeps",
+    "Ye Fan finds the Immortal Tomb stone under the lake",
+    "The Battle Saint Ape bursts out and escapes through a dimensional gate",
+    "Ye Fan wins the match",
+    "Diagnosis: a Great Dao wound, at most half a year to live"
+  ],
+  "introduced": [
+    "Qilin Divine Medicine seed",
+    "Battle Saint Ape (Sheng Huangzi)",
+    "Divine Silkworm Princess / impaled goddess",
+    "Immortal Tomb stone",
+    "Great Dao wound"
+  ],
+  "cultivation": "Wang Shen: the heavenly law has cut Ye Fan's life force; he has at most half a year to live.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "nangong-qi",
+      "name": "Nangong Qi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "red-dragon-daoist",
+      "name": "Red Dragon Daoist",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Green Dragon King",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-tian",
+      "name": "Tu Tian",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "sheng-huangzi",
+      "name": "Sheng Huangzi",
+      "realm": null,
+      "quote": "[Kera Pertempuran Suci]",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "wang-shen",
+      "name": "Wang Shen",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Added what the stones held (Qilin seed, the impaled goddess, the Battle Saint Ape) and moved the Dao-wound diagnosis here, since this is where it's stated",
+    "The ape is born from Ye Fan's own stone. That it carries off the goddess is only implied, by Nangong's complaint at 15:38"
+  ],
+  "flags": [
+    "07:58 caption '[Putri Ulat Sutra Ilahi]' (Divine Silkworm Princess) is on the impaled goddess, but narration calls her a 'Raja Era Kuno' (ancient king)",
+    "12:35 someone shouts 'Sun Wukong!' - an Earth reference, probably Ye Fan or Pang Bo",
+    "05:45 'Raja Naga Hijau' (Green Dragon King) - unclear if this is Qing Yi (the Young Dragon King) or an elder; not mapped to a roster id",
+    "15:33 who yells 'Kau monyet sialan! Aku menghabiskan begitu banyak sumber daya...' is unclear"
+  ]
+}

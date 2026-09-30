@@ -1,0 +1,88 @@
+{
+  "ep": 85,
+  "title": "Braving the Demon Clan",
+  "summary": "Jin Chi demands Ye Fan's Black-Yellow Mother Qi and starts a countdown, holding back only out of face for Qing Yi, whose guest Ye Fan is. The beaten Ku Zhu rises again, now faster and stronger than a Dao Palace cultivator, secretly driven by a hidden power using the Heavenly Peng body technique on behalf of the 'young master'. Ye Fan still wins the bout. Jin Chi backs off only after the Princess's side reminds him that Ye Fan is Qing Yi's guest and the Princess's old friend. At her residence Yan Ruyu scolds Ye Fan for using her name. She says she wants the Demon Clan to have a new Demon King, won't let outsiders meddle over Pang Bo, and together with Qin Yao blocks him from leaving. Qing Yi's envoy then invites him to Qing Yi's 300th birthday banquet, where demon elders recall the Azure Emperor's lost glory. At the banquet Jin Chi offers a treasure for the Mother Qi and the elders back him, but someone objects that Ye Fan won the contest for Qin Yao and so counts as one of them. Ye Fan goads Jin Chi into fighting at the same level, and Jin Chi agrees to suppress himself to Dao Palace without his sacred weapon.",
+  "events": [
+    "Jin Chi demands the Black-Yellow Mother Qi",
+    "A revived, secretly controlled Ku Zhu attacks; Ye Fan still wins",
+    "Yan Ruyu and Qin Yao confront Ye Fan at the Princess's residence",
+    "Qing Yi's 300th birthday banquet; elders recall the Azure Emperor",
+    "Jin Chi presses his claim and the elders side with him",
+    "Jin Chi agrees to fight Ye Fan suppressed to Dao Palace"
+  ],
+  "introduced": [
+    "Qing Yi",
+    "Heavenly Peng body technique"
+  ],
+  "cultivation": "Qing Yi is at Four Poles (caption 13:04). Jin Chi is at Four Poles (info card 18:26) and offers to suppress himself to Dao Palace (17:25). The controlled Ku Zhu shows power 'jauh melebihi Istana Dao' (6:04).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jin-chi",
+      "name": "Jin Chi",
+      "realm": "Four Poles",
+      "quote": "berada di Alam Empat Fole (info card 18:26)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ku-zhu",
+      "name": "Ku Zhu",
+      "realm": null,
+      "quote": null,
+      "look": "Moves in a changed style under hidden control ('siapa yang mengendalikan tubuh ini?', 6:06)",
+      "first": false
+    },
+    {
+      "id": "yan-ruyu",
+      "name": "Yan Ruyu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "qin-yao",
+      "name": "Qin Yao",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "qing-yi",
+      "name": "Qing Yi",
+      "realm": "Four Poles",
+      "quote": "[Raja Naga Muda, Qingyi, Alam Empat Kutub] (13:04)",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "The old summary said Ye Fan kills the possessed Ku Zhu. The subtitles only declare Ye Fan the winner (7:30), and Ku Zhu's death isn't stated.",
+    "Added the Princess's residence scene, Qing Yi's 300th birthday banquet, and how Jin Chi's suppressed duel was set up."
+  ],
+  "flags": [
+    "Whoever controls Ku Zhu (6:46 'Tuan Muda. Tubuh anak ini lemah...') isn't named. It's someone serving Jin Chi.",
+    "It isn't said who raises the objection at 16:02 ('Saya menentang!'). It's someone from the Princess's side.",
+    "Jin Chi goes by both 'Raja Elang Muda' (Young Eagle/Peng King) and 'Saudara Peng'. The info card at 18:26 spells Four Poles as 'Empat Fole'.",
+    "'Raja Kongque' (Peacock King) is mentioned at the banquet (11:41) but not shown.",
+    "'Kaisar Qing' is the Azure Emperor."
+  ]
+}

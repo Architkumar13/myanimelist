@@ -1,0 +1,97 @@
+{
+ "ep": 174,
+ "title": "Counterattack on the Wang Clan",
+ "summary": "The war horn works: barbarian elders such as the Dragon-Leopard and White Tiger Elders awaken, and the tribe, massacred by the Wang clan for the third time, votes to march on the Northern Plains. The Azure Dragon Elder opens the ancestral Cross-Realm Star Formation, and tens of thousands of barbarian riders appear outside the Wang clan's holy land, shutting out a straggling Wang elder. Ye Fan leads Li Tian and Yan Yixi on the western flank, and they break a Saint-level defensive formation with the Nine Secrets. Two Wang ancients come out of seclusion: Wang Lie (Immortal Platform 3rd Heaven, 3,700 years of cultivation) and the Ninth Great-Uncle (3rd Heaven), a 'Supreme King' who uses the Sun-Moon Cycle Seal. Against Wang Lie, Ye Fan reveals an Eight Forbidden Domain, copies the old man's Beast King Fist on the spot, and kills him with the Six-Path Samsara Fist. As the Wang heartland crumbles, the survivors call out their sealed Ancestor.",
+ "events": [
+  "Barbarian elders awaken",
+  "The tribe votes to march on the Northern Plains",
+  "The Cross-Realm Star Formation carries the army to the Wang clan",
+  "The Nine Secrets break the Wang defensive formation",
+  "Wang Lie and the Ninth Great-Uncle come out of seclusion",
+  "Ye Fan shows an Eight Forbidden Domain and copies the Beast King Fist",
+  "Ye Fan kills Wang Lie with the Six-Path Samsara Fist",
+  "The Wang clan calls on its Ancestor"
+ ],
+ "introduced": [
+  "Dragon-Leopard Elder",
+  "White Tiger Elder",
+  "Cross-Realm Star Formation",
+  "Wang Lie",
+  "Wang Ninth Great-Uncle",
+  "Beast King Fist",
+  "Sun-Moon Cycle Seal",
+  "Eight Forbidden Domain",
+  "Northern Plains (info card)"
+ ],
+ "cultivation": "Wang Lie: Immortal Platform 3rd Heaven. The Wang Ninth Great-Uncle: 3rd Heaven, a 'Supreme King'. Barbarian elders: level unknown. A Wang defender: 2nd Heaven. Ye Fan shows an Eight Forbidden Domain; Wang Lie calls the gap between them in level 'absolute'.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Wang Lie",
+   "realm": "Immortal Platform 3rd Heaven",
+   "quote": "[Wang Lie, Keluarga Wang Dataran Utara, Alam Platform Abadi Surga Ketiga]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Wang Ninth Great-Uncle",
+   "realm": "Immortal Platform 3rd Heaven",
+   "quote": "[Paman Buyut Kesembilan, Keluarga Wang Dataran Utara, Alam Platform Abadi Surga Ketiga]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Dongfang Man",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Azure Dragon Elder",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-tian",
+   "name": "Li Tian",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yan-yixi",
+   "name": "Yan Yixi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "The Barbarian King doesn't appear in EP174. He first appears in EP175 (03:33).",
+  "Named the Wang ancients (Wang Lie, the Ninth Great-Uncle) and Ye Fan's kill of Wang Lie.",
+  "The Goddess Furnace is handed to Li Tian and Yan Yixi to support Dongfang Man; the old summary's 'cauldron and Goddess Furnace hold off saint beasts' is too vague."
+ ],
+ "flags": [
+  "12:16–12:39: the 'Tujuh Larangan? … [Delapan Larangan]' exchange doesn't make clear who displays what. It reads as Ye Fan revealing an Eight Forbidden Domain.",
+  "10:18: 'seseorang yang telah mencapai Raja Tertinggi' (Supreme King) refers to one of the Wang ancients, probably the Ninth Great-Uncle.",
+  "18:14–18:27: the tortoise-shell and 'Heavenly Dao 49, one escapes' lines have no speaker and look like a stray preview or mystery scene.",
+  "18:37–18:47: the preview lines come from EP175."
+ ]
+}

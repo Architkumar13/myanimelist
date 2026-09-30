@@ -1,0 +1,67 @@
+{
+  "ep": 114,
+  "title": "Immortal King vs Jiuyou",
+  "summary": "A flashback shows Xia Jiuyou vowing to save her dying master, whose name 'echoed across the world 8,000 years ago', by refining a pill from Holy Body blood. Still disguised as a boy, Jiuyou challenges Ye Fan to make him her pill ingredient and slave. She uses the Jiuyou Immortal Song, its Sound World and the God's Eye, which onlookers link to Gai Jiuyou, a legend who was one step from Great Emperor 8,000 years ago. Ye Fan answers by merging his Holy Body with his visions and the Chaos Green Lotus. Against her attendant's warning, she plays the Supreme Tribulation-Crossing Immortal Song, but Ye Fan withstands it with an Immortal Golden Body, showing his Holy Body has reached minor completion. When the fight knocks her disguise loose, she turns out to be a girl, and at Jiang Taixu's request Ye Fan spares her. Taixu leaves the Divine King's Mark on Ye Fan so he will know of anyone who tries to kill him, forbids the Jiang clan to search for immortal medicine for him, and warns that from now on Ye Fan will stand alone.",
+  "events": [
+    "Flashback: Jiuyou's dying master",
+    "Xia Jiuyou challenges Ye Fan for his Holy Body blood",
+    "The Jiuyou Immortal Song, Sound World and God's Eye; onlookers name Gai Jiuyou",
+    "Ye Fan merges Holy Body and visions",
+    "The Tribulation-Crossing Immortal Song is met by the Immortal Golden Body",
+    "Jiuyou is revealed as a girl; Ye Fan spares her",
+    "Jiang Taixu places the Divine King's Mark on Ye Fan"
+  ],
+  "introduced": [
+    "Gai Jiuyou (legend)",
+    "Jiuyou Immortal Song",
+    "Sound World",
+    "God's Eye",
+    "Immortal Golden Body",
+    "Divine King's Mark"
+  ],
+  "cultivation": "Ye Fan: Four Poles, Holy Body at minor completion ('Tubuh Suci-Nya telah benar-benar memasuki tahap minor'). Xia Jiuyou says she is about to rise to Dragon Transformation.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Four Poles",
+      "quote": "Anda baru saja melangkah ke Alam Empat Kutub",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "xia-jiuyou",
+      "name": "Xia Jiuyou",
+      "realm": "Four Poles",
+      "quote": "aku akan segera naik ke Alam Kenaikan Naga",
+      "look": "Disguise breaks: revealed to be a girl ('seorang gadis kecil selama ini')",
+      "first": false
+    },
+    {
+      "id": "jiang-taixu",
+      "name": "Jiang Taixu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jiang-yun",
+      "name": "Jiang Yun",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Named the techniques from the subtitles (Jiuyou Immortal Song, Sound World, God's Eye, Supreme Tribulation-Crossing Immortal Song, Immortal Golden Body)",
+    "Added Jiuyou's motive, the reveal that she is a girl, and the Divine King's Mark",
+    "The subtitles don't clearly say the song backfired, so that claim was softened"
+  ],
+  "flags": [
+    "10:37 Ye Fan says 'Sekalipun aku empat tingkat di bawahmu' (four levels below you); if Jiuyou is at peak Four Poles and he has just entered it, that looks like three levels. Wording not precise",
+    "06:23 'Gai Jiuyou' is spelled consistently; her master is implied to be Gai Jiuyou but never named outright"
+  ]
+}

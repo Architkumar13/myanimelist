@@ -1,0 +1,90 @@
+{
+  "ep": 87,
+  "title": "Scheme to Rescue Pang Bo",
+  "summary": "Jin Chi's Four Poles seal breaks during the beating, and the duel is called for Ye Fan. Jin Chi leaves swearing that Ye Fan will never reach Four Poles. Ye Fan wakes in the Meteorite Forest, where Tu Fei jokes that the 'demon woman' wanted to take him home. Nearby stands the Ageless Palace, a sage's ancient palace that slows ageing, behind 18 layers of Dao-pattern barriers; the Azure Dragon King studies immortality there, and the old demon in Pang Bo hides inside. Hei Huang, let out of the jar, can break the barriers but needs materials. In a demon market a shopkeeper who once served the Demon King drops hints: the Demon King's body is back to Four Poles, and in three months he will emerge, fully replacing Pang Bo. Ye Fan and Tu Fei buy up 50 materials. A courier then brings word of another Ancient Holy Body, a corpse kept in the Azure Dragon King's treasury. Qin Yao arranges for Hei Huang to be delivered into the treasury disguised as a 'Heavenly Dog Swallows the Moon' birthday gift for Qing Yi, while Tu Fei keeps Qing Yi drinking. Inside, among dragon-blood drops and an 800-year red copper essence, they find the Holy Body corpse. Breaking the barrier will set off a 30-second countdown.",
+  "events": [
+    "Jin Chi's Four Poles seal breaks and he loses the duel",
+    "Ye Fan wakes in the Meteorite Forest near the Ageless Palace",
+    "A market shopkeeper hints the Demon King will fully replace Pang Bo in three months",
+    "Ye Fan and Tu Fei buy 50 formation materials",
+    "Word comes of an Ancient Holy Body corpse in the Azure Dragon King's treasury",
+    "Qin Yao smuggles Hei Huang in as a birthday gift for Qing Yi",
+    "Inside the treasury they find the Holy Body and start a 30-second countdown"
+  ],
+  "introduced": [
+    "Meteorite Forest",
+    "Ageless Palace (subs: 'Istana Abadi')",
+    "Azure Dragon King's treasury",
+    "Ancient Holy Body corpse"
+  ],
+  "cultivation": "Jin Chi's 'Segel Alam Empat Kutub Anda telah dibuka' (4:27): his Four Poles power is unsealed. The Demon King's body 'telah pulih ke Alam Empat Kutub' (10:24). At least two Dao Palace Level 5 experts are in the market (10:39).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jin-chi",
+      "name": "Jin Chi",
+      "realm": "Four Poles",
+      "quote": "Segel Alam Empat Kutub Anda telah dibuka (4:27)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "qin-yao",
+      "name": "Qin Yao",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "qing-yi",
+      "name": "Qing Yi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": "Pang Bo akan digantikan oleh Raja Iblis dalam tiga bulan (10:35)",
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Ye Fan's victory over Jin Chi is confirmed. Filled in the rescue plan: the Ageless Palace, buying materials, and Qin Yao smuggling Hei Huang in as a birthday gift.",
+    "The Holy Body corpse first appears here, in the Azure Dragon King's treasury, not in EP88."
+  ],
+  "flags": [
+    "The palace is called 'Istana Abadi' (Immortal/Eternal Palace). It's taken to be the Ageless Palace (不老殿) from the EP89 title.",
+    "The 'Peri' who helps (13:42–14:17) isn't named on screen. The EP91 info card (18:31) confirms Qin Yao got Ye Fan into the treasury.",
+    "It's unclear whether the market shopkeeper is really loyal to the Demon King or is Yan Ruyu's agent planting the information (9:45–10:38).",
+    "'Wanita Iblis' (5:15, 5:31) is probably Yan Ruyu."
+  ]
+}

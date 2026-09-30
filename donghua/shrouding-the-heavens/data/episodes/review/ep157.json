@@ -1,0 +1,88 @@
+{
+  "ep": 157,
+  "title": "Farewell to Beidou",
+  "summary": "After the movie, Ji Haoyue thanks Ye Fan for helping his sister break off her engagement to Wang Teng. Pang Bo and Hei Huang are reunited with him, and Tu Fei is said to be stranded in the Northern Plains. Under the moon Ye Fan tells Ji Ziyue that he and Pang Bo come from Earth, beyond the stars, and that he has spent ten years in Beidou looking for a way home. She promises to help him. When Hei Huang tries to study the small bronze coffin that once struck the Void Mirror, it drags Ye Fan to the Ancient Forbidden Land. There the Nine Dragons Pulling the Coffin and a five-coloured altar like the one on Mount Tai wait. Hei Huang can set the coordinates, but Pang Bo decides to stay, having awakened his demon bloodline. Ye Fan says goodbye to Nannan, Li Heishui, Hei Huang and Ji Ziyue, who promises to watch the stars for him, and he leaves through the altar.",
+  "events": [
+    "Ji Haoyue thanks Ye Fan for ending Ji Ziyue's engagement to Wang Teng",
+    "Ye Fan tells Ji Ziyue he comes from Earth",
+    "The bronze coffin drags Ye Fan to the Ancient Forbidden Land",
+    "The Nine Dragons Pulling the Coffin and the five-coloured altar are found",
+    "Pang Bo chooses to stay in Beidou",
+    "Farewells to Nannan, Hei Huang, Li Heishui and Ji Ziyue",
+    "Ye Fan leaves through the altar"
+  ],
+  "introduced": [
+    "Small bronze coffin",
+    "Five-coloured altar (in Beidou)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-haoyue",
+      "name": "Ji Haoyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "nannan",
+      "name": "Nannan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "li-heishui",
+      "name": "Li Heishui",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "The engagement to Wang Teng is already broken; Ji Haoyue thanks Ye Fan for it",
+    "Ye Fan's departure through the five-coloured altar happens at the end of this episode",
+    "Pang Bo chooses to stay; added Ye Fan telling Ji Ziyue about Earth"
+  ],
+  "flags": [
+    "14:33 'Saudara Yuan': Ye Fan entrusts everyone to a 'Brother Yuan' (possibly Xu Yuan, not confirmed)",
+    "17:53 an unnamed speaker says Ye Fan has 'no connection to the Ruthless'; unclear",
+    "'Ten years' in Beidou (04:13, 06:20) is Ye Fan's total time since arriving"
+  ]
+}

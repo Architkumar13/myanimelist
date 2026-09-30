@@ -1,0 +1,59 @@
+{
+  "ep": 65,
+  "title": "Battle with the Holy Maiden",
+  "summary": "Ye Fan comes out of a broken Domain Gate still somewhere in the Southern Region, where Ji Haiyue, Ziyue's fifth brother, ambushes him with his 'Jade Ice and Snow' to punish him for stealing the Ji family's secret art. Yao Xi steps in to remind Ye Fan of his promise to go back to Yaoguang, saying the Holy Land has ordered her to bring him and that the Holy Body needs the source Yaoguang mines in the north. When he refuses, she seals his Bitter Sea with her Moon Palace so his divine power slowly drains away, and fights him through an incarnation. Ye Fan shatters her Golden Light Fortress with its own Yaoguang technique, joking about levers and 'lifting the earth', and grabs her incarnation, but he is found afterwards with every bone broken, clutching her outer robe. Slavers pick him up to sell as a labourer in the Northern Territory, and he plays along, joking that he fought the Holy Maiden for 300 rounds. Recruiters working with Yaoguang herd the captives through a gate, and Ye Fan ends up in a Yaoguang source mine in the north.",
+  "events": [
+    "Ye Fan exits a broken Domain Gate",
+    "Ji Haiyue ambushes him",
+    "Yao Xi demands he honour their pact",
+    "Yao Xi seals his Bitter Sea with the Moon Palace",
+    "He breaks her Golden Light Fortress and grabs her incarnation",
+    "He is found with broken bones and sold to slavers",
+    "He is shipped to a Yaoguang source mine in the Northern Territory"
+  ],
+  "introduced": [
+    "Moon Palace",
+    "Jade Ice and Snow",
+    "Yaoguang Source Mine",
+    "Northern Territory"
+  ],
+  "cultivation": "Ji Haiyue's info card places him at the third secret realm (Four Poles), consistent with EP55.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-haiyue",
+      "name": "Ji Haiyue",
+      "realm": "Four Poles",
+      "quote": "praktisi Alam Rahasia Ketiga",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yao-xi",
+      "name": "Yao Xi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Ji Haiyue's attack isn't simply 'interrupted' by Yao Xi; she has her own mission to bring Ye Fan back to Yaoguang",
+    "Added the Moon Palace seal on his Bitter Sea, which leaves him powerless in the next episode",
+    "He arrives in the Northern Territory at the end of this episode, sold to Yaoguang's mine by slavers"
+  ],
+  "flags": [
+    "09:01 caption '[Wanita Dewi Perang, Kemampuan Sihir Istana Dao]' seems to name Yao Xi's incarnation as a Dao Palace divine ability, not her realm (EP55 captions her at Four Poles)",
+    "13:16 'Brother, you lost!' and 'Drink!' have unclear speakers; the fight's end is cut",
+    "The 'quantum energy' / lever line (10:50) is a joke in the subs, probably Archimedes",
+    "The outcome (loss) is inferred from his broken bones and being captured"
+  ]
+}

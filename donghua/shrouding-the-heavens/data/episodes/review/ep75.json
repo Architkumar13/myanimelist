@@ -1,0 +1,85 @@
+{
+  "ep": 75,
+  "title": "Cleverly Slaying the Wicked",
+  "summary": "The Qingxia Sect Master, a Dao Palace cultivator, and ten second-level Dao Palace elders mock Ye Fan for having only just reached Dao Palace. Ye Fan turns their combined Black Lotus attack back on them with the Battle (Dou) secret of the Nine Secrets, which he credits to the Divine King, and the elders wonder whether a new Divine King has risen after Jiang Taixu. He turns the sect into the 'Mining Sect' to dig source, makes Wang Shu and Lei Bo vice-leaders, and opens its source vault. The ledger shows the sect pays tribute to the Lihuo Sect and Xuanyue Cave, both of which have supreme elders at the third level of Dao Palace. Ye Fan slips away and finds an inscription like the Wu Shi scripture ('no beginning and no end'), in awe of Great Emperor Wu Shi. Disguised with the Heaven-and-Earth Transformation from the Source Heaven Book, he and his men deliver 'Qingxia tribute' to the Lihuo Sect. The Lihuo Sect Master sees through it and seals the hall, and Tu Fei bursts out of hiding; he calls Ye Fan 'Brother Genius' and warns him not to compete for the Yaochi Holy Maiden.",
+  "events": [
+    "The Qingxia Sect Master and ten Dao Palace elders fight Ye Fan",
+    "Ye Fan reverses their attack with the Dou secret",
+    "The Qingxia Sect becomes Ye Fan's Mining Sect, with Wang Shu and Lei Bo as vice-leaders",
+    "The ledger reveals tribute paid to the Lihuo Sect and Xuanyue Cave",
+    "Ye Fan reads an inscription echoing Great Emperor Wu Shi",
+    "Disguised, Ye Fan delivers fake tribute to the Lihuo Sect",
+    "The Lihuo Sect Master confronts them and Tu Fei reappears"
+  ],
+  "introduced": [
+    "Qingxia Sect Master",
+    "Lihuo Sect",
+    "Lihuo Sect Master",
+    "Xuanyue Cave",
+    "Mining Sect",
+    "Heaven-and-Earth Transformation"
+  ],
+  "cultivation": "Ye Fan has just entered Dao Palace ('Anda baru saja memasuki Istana Dao', 4:24). The Qingxia Sect Master is at Dao Palace (caption 3:57) and his ten elders are at second-level Dao Palace (4:25). The Lihuo Sect and Xuanyue Cave each have a third-level Dao Palace supreme elder (8:33).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Dao Palace",
+      "quote": "Anda baru saja memasuki Istana Dao (4:24)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Qingxia Sect Master",
+      "realm": "Dao Palace",
+      "quote": "[Pemimpin Sekte Qingxia, Alam Istana Dao] (3:57)",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Lihuo Sect Master",
+      "realm": "Dao Palace",
+      "quote": "[Guru Sekte Lihuo, Alam Istana Dao] (16:15)",
+      "look": null,
+      "first": true
+    },
+    {
+      "id": "wang-shu",
+      "name": "Wang Shu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "lei-bo",
+      "name": "Lei Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "The Lihuo Sect Master doesn't die this episode; he is only confronted. His fight is EP76.",
+    "'Heavy references to Wu Shi' is now one concrete scene: Ye Fan reads a Wu Shi-style inscription.",
+    "Added the Mining Sect, the tribute ledger, the disguise from the Source Heaven Book, and Tu Fei's return."
+  ],
+  "flags": [
+    "The site Ye Fan visits at 9:53 isn't named. He has just said he wants to see the Xuanyue Cave legend (9:12), so it's probably there.",
+    "5:35 'teknik rahasia yang diwariskan Raja Dewa' and 6:12 caption '[Rahasia Simbol Pertarungan, Sembilan Rahasia]' both refer to the Dou secret.",
+    "At 17:22–17:55 'Saudara Jenius' is Tu Fei's nickname for Ye Fan, and it appears in every episode through EP95.",
+    "Tu Fei's line 'Tidak bisa mendapatkan Yao Xi' (17:52) is garbled. He seems to think Ye Fan has Yao Xi's favor and warns him off the Yaochi Holy Maiden."
+  ]
+}

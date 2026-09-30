@@ -1,0 +1,70 @@
+{
+  "ep": 89,
+  "title": "Showdown at the Ageless Palace",
+  "summary": "The old demon in Pang Bo has tempered the body back to the Four Poles secret realm. He brushes off Ye Fan's divine-sense strike and fights Ye Fan, Tu Fei and Hei Huang with the strength of a true dragon. Ye Fan's Heavenly Source divine art binds him for a moment. Hei Huang then sends Ye Fan's divine consciousness into the demon's own consciousness space. There the demon lists the realms from Wheel Sea to Immortal Platform and boasts that even his reduced self is beyond them. Ye Fan forges a sword from the green lotus inside his mind, and the demon answers with the Demon Emperor's Nine Slashes. Hei Huang joins the mental fight, offers a trade for his 'Black Emperor Book', and has his golden bell smashed before he collapses. Ye Fan realizes the Nine Secrets work in the mind as well. Using the Dou secret's symbol, he names the demon's three sins (stealing a body, enslaving the Demon Clan, prying into Ye Fan's origins) and passes sentence.",
+  "events": [
+    "The old demon, at Four Poles, overpowers Ye Fan, Tu Fei and Hei Huang",
+    "Ye Fan's Heavenly Source art briefly restrains him",
+    "Hei Huang sends Ye Fan into the demon's consciousness space",
+    "The demon explains the realms and uses the Demon Emperor's Nine Slashes",
+    "Hei Huang's golden bell is shattered and he collapses",
+    "Ye Fan uses the Nine Secrets in the mind and sentences the demon for three sins"
+  ],
+  "introduced": [
+    "Demon Emperor's Nine Slashes",
+    "Green Lotus sword (in the sea of consciousness)"
+  ],
+  "cultivation": "The old demon has reached 'Alam Rahasia Empat Kutub' (3:52) in Pang Bo's body, and claims to have 'jatuh ke Alam Platform Abadi' (9:33). The realm order is laid out at 9:10–9:31: Wheel Sea (Bitter Sea, Life Spring, Divine Bridge, Other Shore), Dao Palace (five treasuries), Four Poles, nine levels of Dragon Transformation, Immortal Platform.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "tu-fei",
+      "name": "Tu Fei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Old Demon King (possessing Pang Bo)",
+      "realm": "Four Poles",
+      "quote": "mencapai Alam Rahasia Empat Kutub (3:52)",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Changed 'lingering will of the Demon Emperor' to 'old Demon King possessing Pang Bo'. The subtitles call him 'Raja Iblis' / 'Iblis Tua', and nowhere call him the Azure Emperor.",
+    "Added the fight in the consciousness space, the green lotus sword, and the three sins."
+  ],
+  "flags": [
+    "The demon's realm is inconsistent: his body is at Four Poles (3:52, EP87 10:24), yet he says 'Bahkan jika aku telah jatuh ke Alam Platform Abadi' (9:33), which suggests he was once higher and has fallen to Immortal Platform.",
+    "3:50 'Kamu memang telah melunakkan tubuhmu' may be a mistranslation of 'tempered your body'.",
+    "15:27–16:07: the Nine Slashes break the golden bell. 'Lonceng suciku' seems to be Hei Huang's bell, but whose bell it is and who strikes are hard to follow."
+  ]
+}

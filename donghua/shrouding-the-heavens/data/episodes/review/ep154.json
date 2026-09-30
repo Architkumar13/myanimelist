@@ -1,0 +1,106 @@
+{
+  "ep": 154,
+  "title": "Emperor Weapons Face Off",
+  "summary": "Ye Fan's friends break through the siege: Li Heishui and another companion, Dongfang Ye, Sheng Huangzi and Ji Ziyue. Using a secret from the ancient Demon King's sea of consciousness that Pang Bo shares, they merge their manifestations into one. Wang Teng clashes with the combined form. Ji Ziyue reveals the Origin Spirit Body, pouring heaven-and-earth energy into Ye Fan at great cost to herself. Jiuli brings out the Jiuli Painting, and Ye Fan's Green Copper moves on its own to shield him. More Emperor weapons join in: an emperor sword, the Chaos Green Lotus, Duan De's Heaven-Swallowing Demon Jar, and Ji Haoyue with the Ji clan's Void Mirror. There is also a mysterious Emperor weapon last seen on the night the Divine King revived. A worn-out elder, most likely the sickly old man, seizes Emperor weapons with the Weapon Secret and tells them to run. Ye Fan uses the Weapon Secret himself to turn an Emperor weapon on his pursuers, and the group escapes.",
+  "events": [
+    "Friends arrive and merge their manifestations with the ancient Demon King's secret",
+    "Wang Teng fights the combined form",
+    "Ji Ziyue's Origin Spirit Body powers Ye Fan",
+    "The Jiuli Painting is unleashed; the Green Copper shields Ye Fan",
+    "The Chaos Green Lotus, Heaven-Swallowing Jar, Void Mirror and more Emperor weapons clash",
+    "An elder seizes Emperor weapons with the Weapon Secret; Ye Fan does the same",
+    "The group escapes"
+  ],
+  "introduced": [
+    "Origin Spirit Body",
+    "Jiuli Painting",
+    "Chaos Green Lotus (Emperor weapon)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "wang-teng",
+      "name": "Wang Teng",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": "Weakened by channelling heaven-and-earth power",
+      "first": false
+    },
+    {
+      "id": "pang-bo",
+      "name": "Pang Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "sheng-huangzi",
+      "name": "Sheng Huangzi",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "dongfang-ye",
+      "name": "Dongfang Ye",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "li-heishui",
+      "name": "Li Heishui",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-haoyue",
+      "name": "Ji Haoyue",
+      "realm": null,
+      "quote": null,
+      "look": "Wields the Void Mirror",
+      "first": false
+    },
+    {
+      "id": "duan-de",
+      "name": "Duan De",
+      "realm": null,
+      "quote": null,
+      "look": "Wields the Heaven-Swallowing Demon Jar",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Named the Emperor weapons (Jiuli Painting, Chaos Green Lotus, Heaven-Swallowing Jar, Void Mirror, an emperor sword, a mysterious one) and who is on each side",
+    "Added the merged manifestation, Ji Ziyue's Origin Spirit Body, and the escape by Weapon Secret"
+  ],
+  "flags": [
+    "06:01 'Heishui, Huairen': 'Huairen' is not in the glossary; identity unknown",
+    "10:40 the caption '[Pedang Penguasa Tertinggi, Senjata Kaisar Ekstrem]' seems to be the Taihuang Sword from EP153, but it is not said who wields it",
+    "11:45–11:51 'Kakek kedua!' and 'Dukun tua... bagi rata' have unclear speakers and targets",
+    "12:56 the 'mysterious Emperor weapon from the night the Divine King rose' is not named",
+    "16:06–16:22 the elder using the Weapon Secret is not named; 'Mungkinkah itu dia?' implies the sickly old man"
+  ]
+}

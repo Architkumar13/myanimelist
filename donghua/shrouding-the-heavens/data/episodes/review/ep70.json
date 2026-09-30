@@ -1,0 +1,69 @@
+{
+  "ep": 70,
+  "title": "Treasure Hunt in Purple Mountain",
+  "summary": "Wearing stone clothing, Ye Fan, Lei Bo and Wang Shu ride a runaway mine cart down ancient tunnels dug along the dragon veins into Purple Mountain, driving off swarms of demon bats with the Pure Spirit Fire Ye Fan gave them. They pass the jade-like bones of a once-peerless expert and reach the Yin-Yang Cave, where Ye Fan waits for the 'Isolated Yang' moment and cuts through its energies with the source-skin stone knife after the bickering pair fumble the knives. Past it lies a hoard of Source Stones bigger than any warehouse, along with traces of those who came before, including the Jiang family's Divine King and the Holy Maiden who lost to Zhang Lin, and inscriptions showing that Zhang Lin followed an earlier Zhang Jiye into the 'Emperor Mountain'. A purple vein drags Lei Bo and Wang Shu away. Searching for them, Ye Fan meets Jiang Taixu, the Divine King of the Eastern Wasteland, still alive, who asks his realm; Ye Fan says he reached the Other Shore after four years of cultivation, and Jiang Taixu judges him far too weak.",
+  "events": [
+    "The trio ride a mine cart along the dragon-vein tunnels",
+    "Demon bats are driven off with Pure Spirit Fire",
+    "Ye Fan cuts through the Yin-Yang Cave at the 'Isolated Yang' moment",
+    "They find a huge Source Stone hoard and traces of past explorers",
+    "Lei Bo and Wang Shu are swept away by a purple vein",
+    "Ye Fan meets Jiang Taixu, alive",
+    "Jiang Taixu calls Ye Fan's Other Shore cultivation too weak"
+  ],
+  "introduced": [
+    "Jiang Taixu",
+    "demon bats",
+    "Yin-Yang Cave",
+    "Pure Spirit Fire",
+    "Zhang Jiye (named)",
+    "Method of Cultivating a Single Secret Realm (info card)"
+  ],
+  "cultivation": "Ye Fan tells Jiang Taixu he is at the Other Shore realm after four years of cultivation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Other Shore",
+      "quote": "Budidaya Junior saat ini, berada di Alam Paramita.",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "lei-bo",
+      "name": "Lei Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "wang-shu",
+      "name": "Wang Shu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "jiang-taixu",
+      "name": "Jiang Taixu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": true
+    }
+  ],
+  "changes": [
+    "Jiang Taixu first appears on screen here (captioned 'Jiang Taixu, Raja Dewa' at 17:45)",
+    "Added the Yin-Yang Cave and the hoard"
+  ],
+  "flags": [
+    "14:31 'Wanita Suci Yaoguang, Yangyi' conflicts with EP69 11:41 and EP71 12:21 (Yan Yi of Jade Lake/Yaochi); Yaoguang is almost certainly a mistranslation",
+    "13:47 'Zhang Lin followed Zhang Jiye' – EP69 treats Zhang Lin as the one who vanished with the book, while EP71 finds Zhang Jiye's remains beside it; the names may be muddled",
+    "18:13-18:23 who says 'following the ancient saints, cultivating one secret realm' is ambiguous (Ye Fan or Jiang Taixu)",
+    "14:17 'the Jiang family's Divine King' refers to traces he left; he is not yet seen at that point",
+    "Ye Fan's 'four years' of cultivation (18:20) is a useful timeline anchor"
+  ]
+}

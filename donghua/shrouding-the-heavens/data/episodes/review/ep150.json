@@ -1,0 +1,54 @@
+{
+  "ep": 150,
+  "title": "Fighting Hua Yunfei Again",
+  "summary": "Ye Fan finds the Weapon Secret scattered across stone carvings of ancient weapon marks and realises he must gather them all. At the second carving Hua Yunfei is waiting and offers an alliance, which Ye Fan refuses. Hua Yunfei uses the Immortal Flight Secret and burns his own source with a Phoenix Rebirth art to wound the Holy Body, but Ye Fan counters with the Nirvana Scripture. When Hua Yunfei is spent, Li Xiaoman steps in and ends their old friendship, drawing her sword on Ye Fan with Ruthless techniques. Ye Fan shatters Hua's Great Dao Treasure Vase and, talking about the worth of life, uses a golden yin-yang technique he has just understood. Their joint strongest attack fails. As Ye Fan moves to kill Hua Yunfei, an unseen and oddly familiar power steps in ('This is not your business') and saves the pair. The episode ends with an unseen figure remarking that 'he' is still alive, and a line about the azure lotus descending.",
+  "events": [
+    "Ye Fan finds the Weapon Secret spread over stone carvings",
+    "Hua Yunfei offers an alliance and is refused",
+    "Immortal Flight Secret and Phoenix Rebirth against Ye Fan's Nirvana Scripture",
+    "Li Xiaoman breaks with Ye Fan and fights him",
+    "Ye Fan shatters the Great Dao Treasure Vase",
+    "A mysterious power rescues Hua Yunfei and Li Xiaoman",
+    "A closing line hints at the azure lotus"
+  ],
+  "introduced": [
+    "Great Dao Treasure Vase",
+    "Weapon Secret carvings"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hua-yunfei",
+      "name": "Hua Yunfei",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "li-xiaoman",
+      "name": "Li Xiaoman",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Added what the fight turns on: Li Xiaoman's break with Ye Fan, the Treasure Vase shattered, and a mysterious rescuer. Ye Fan does not kill Hua Yunfei"
+  ],
+  "flags": [
+    "16:59–17:02 the rescuer is never identified ('Anda tidak perlu tahu'). EP151 says Li Xiaoman's aura feels familiar and far above her realm, possibly the Crocodile Ancestor, but this is not stated",
+    "18:20–18:31 'Dia... telah hidup selama ini' and the azure lotus line have no clear speaker; the line comes back in EP152 around the Azure Emperor's lotus",
+    "05:50 'Aku, Buah' is a garbled line"
+  ]
+}

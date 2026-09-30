@@ -1,0 +1,68 @@
+{
+  "ep": 69,
+  "title": "Source Arts Emerge",
+  "summary": "Zhang Wuye shows off his ancestral stone compass and explains that his forebears held the title Heavenly Source Master and that a Great Emperor of old gathered the divine source of nine dragon veins into Purple Mountain. At the stone gate that hides the scroll, stone-clad dead cultivators attack, Ye Fan saves Lei Bo and Wang Shu, and Zhang Wuye is knocked out and carried home, where the villagers mourn him and briefly blame Ye Fan until he wakes. Lei Bo and Wang Shu tell Ye Fan that a Zhang ancestor once beat a Jade Lake (Yaochi) Holy Maiden in a wager and that the North has had only five Heavenly Source Masters, then show him a topographic map of Purple Mountain carved by that ancestor, Zhang Lin. After a day of study Ye Fan reads it as 'Nine Dragons Guarding One Pearl' and finds the true entrance hidden in the Yin shadow of the dragon veins. Zhang Wuye then admits that Heavenly Source Masters' hair turns red in old age and they come to bad ends, and that Zhang Lin entered Purple Mountain to escape that curse and vanished along with the Heavenly Book of Source. Lei Bo and Wang Shu insist on going too, and Zhang Wuye gives them all stone clothing and stone knives made from the skin of divine source.",
+  "events": [
+    "Zhang Wuye explains the Heavenly Source Masters and Purple Mountain",
+    "Stone-clad corpses attack at the stone gate; Ye Fan saves the others",
+    "The villagers mourn Zhang Wuye, who is only unconscious",
+    "Ye Fan studies Zhang Lin's topographic map",
+    "He deciphers 'Nine Dragons Guarding One Pearl' and the hidden entrance",
+    "Zhang Wuye reveals the Source Masters' curse and Zhang Lin's disappearance",
+    "Stone clothing and knives are handed out for the descent"
+  ],
+  "introduced": [
+    "Heavenly Source Master",
+    "stone compass",
+    "Zhang Lin (named)",
+    "Heavenly Book of Source (named)",
+    "Nine Dragons Guarding One Pearl",
+    "stone clothing"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-wuye",
+      "name": "Zhang Wuye",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "lei-bo",
+      "name": "Lei Bo",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "wang-shu",
+      "name": "Wang Shu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Ye Fan doesn't use Source Arts yet; he deciphers a feng-shui map of the dragon veins",
+    "Added the Heavenly Source Masters' red-hair curse and Zhang Lin's disappearance"
+  ],
+  "flags": [
+    "05:12 'Keluarga Zheng' is a typo for the Zhang family",
+    "11:41 says the ancestor beat the Jade Lake (Yaochi) Holy Maiden; EP70 14:31 calls her 'Yaoguang Holy Maiden Yangyi'; EP71 12:21 settles on Yan Yi of Yaochi",
+    "07:47 'Pakaian Batu' (stone clothing) worn by the corpses is only half-described",
+    "19:10-19:20 Jiang Taixu teaser again (preview of EP70)"
+  ]
+}

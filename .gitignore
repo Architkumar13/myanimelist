@@ -1,0 +1,14 @@
+# OS and editor junk
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local Claude Code permissions
+.claude/settings.local.json
+
+# Wiki downloads and image pools; rebuild with each show's scripts/fetch_wiki.py
+donghua/*/cache/

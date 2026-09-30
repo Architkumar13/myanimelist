@@ -1,0 +1,61 @@
+{
+  "ep": 156,
+  "title": "Immortal Platform Destroys Yin-Yang",
+  "summary": "Ji Haoyue persuades Ji Ziyue to hold back the ring and trust Ye Fan. Burning from the Death Curse, Ye Fan realises his spine marrow is already dense enough for the Immortal Platform. He sets off a heavenly tribulation so it will destroy the curse from outside while he fights it from inside. The tribulation takes the form of an ancient Heavenly Palace, with copies of the Void Mirror and Hengyu Furnace, and matching versions of himself. Offered three 'perfect' future manifestations, he rejects them and chooses to stay himself. Yin-Yang Sect members try to disrupt the tribulation, but Ji Haoyue holds them off. Ye Fan reaches the 1st Heaven of Immortal Platform, and the Mother Qi Cauldron rises to Holy Lord-grade. He then goes alone to Yin-Yang Divine City and destroys the Yin-Yang Sect with the cauldron. A comic 'recap' after the credits sets up the movie: Wang Teng (Immortal Platform 2nd Heaven) is sent to marry Ji Ziyue.",
+  "events": [
+    "Ji Haoyue talks Ji Ziyue out of using the ring",
+    "Ye Fan sets off a tribulation to burn out the Death Curse",
+    "The tribulation forms a Heavenly Palace, with Void Mirror and Hengyu Furnace copies and copies of himself",
+    "He rejects the three future manifestations and stays himself",
+    "Ji Haoyue holds off the Yin-Yang Sect",
+    "Ye Fan reaches Immortal Platform 1st Heaven; the cauldron rises to Holy Lord-grade",
+    "He destroys the Yin-Yang Sect alone"
+  ],
+  "introduced": [
+    "Yin-Yang Divine City"
+  ],
+  "cultivation": "Ye Fan: Immortal Platform 1st Heaven (13:26 caption), reached through a tribulation that also burns out the Yin-Yang Death Curse. The Mother Qi Cauldron rises to Holy Lord-grade. The comedy segment calls Wang Teng Immortal Platform 2nd Heaven.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": "Immortal Platform",
+      "quote": "[Ye Fan, Alam Platform Abadi Surga Pertama]",
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-ziyue",
+      "name": "Ji Ziyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "ji-haoyue",
+      "name": "Ji Haoyue",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "wang-teng",
+      "name": "Wang Teng",
+      "realm": "Immortal Platform",
+      "quote": "Platform Keabadian Surga Kedua, putraku Wang Teng (comedy recap)",
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "There is no '49-day Yin-Yang furnace'. The breakthrough comes from a self-triggered tribulation that burns out the Death Curse, with the Heavenly Palace and choice-of-self trial",
+    "Added Ji Haoyue defending Ye Fan and the Mother Qi Cauldron's upgrade"
+  ],
+  "flags": [
+    "08:26–08:30 'Bulan terbit di atas laut. Jenazah Suci Keluarga Ji?' is unclear. It probably refers to Ji Haoyue ('Divine Body of the Ji family') and not a holy corpse",
+    "18:17–19:28 is a joke 'previous events' segment in stock-market parody style; Wang Teng's '2nd Heaven' realm comes from this comedy segment, so treat it with care"
+  ]
+}

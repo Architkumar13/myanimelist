@@ -1,0 +1,116 @@
+{
+ "ep": 168,
+ "title": "Golden Crows and the Tianji Pavilion",
+ "summary": "The Golden Crow First Prince (Immortal Platform 2nd Heaven) is told that Ye Fan escaped the North Sea Eye, a prison for saints, and vows to finish what the Sixth Prince, Lu Ya, could not. At an auction, Ye Fan's group watches Tong Zi, a big-spending servant of Bajing (Eight Scenery) Palace, buy up treasures, then ambushes his carriage. Golden Crow princes attack; Ye Fan kills the Tenth Prince as Ye Tong's 'first lesson', overcomes a prince's Ziwei Emperor Divine Flower poison with his Golden Holy Domain, and has Ye Tong shoot the finishing arrow with him. Tong Zi reveals that only Yin Tiande can open the Taiqing Holy Realm around Bajing Palace, then dies when Yin Tiande's restriction triggers. Meanwhile Lu Ya asks the Golden Crow King's dharma body for permission to take the forbidden Ten Golden Crows in One Day pill to break the karma with the Sun Holy Emperor's line. Ye Fan visits Yi Qingwu at Luo Xia Mountain; she says her engagement to Yin Tiande is only on paper and directs him to the Tianji Pavilion on Destiny Cliff, where the dying founder's disciple hands him a wooden box of prophecies.",
+ "events": [
+  "The Golden Crow First Prince learns Ye Fan escaped the North Sea Eye",
+  "Ye Fan's group waits out Tong Zi's spending at the auction, then ambushes his carriage",
+  "Ye Fan kills the Golden Crow Tenth Prince as Ye Tong's first lesson",
+  "Ye Fan and Ye Tong shoot down another Golden Crow prince together",
+  "Tong Zi dies from Yin Tiande's restriction after talking",
+  "Lu Ya asks the Golden Crow King for the forbidden pill",
+  "Yi Qingwu sends Ye Fan to the Tianji Pavilion",
+  "The Tianji founder leaves Ye Fan a box of prophecies"
+ ],
+ "introduced": [
+  "Golden Crow First Prince",
+  "Golden Crow Tenth Prince",
+  "Tong Zi",
+  "Bajing Palace (Eight Scenery Palace)",
+  "Taiqing Holy Realm",
+  "Ziwei Emperor Divine Flower",
+  "Golden Holy Domain",
+  "Golden Crow King (dharma body)",
+  "Ten Golden Crows in One Day pill",
+  "Luo Xia Mountain",
+  "Destiny Cliff",
+  "Tianji Pavilion"
+ ],
+ "cultivation": "Golden Crow First Prince: Immortal Platform 2nd Heaven. Golden Crow Tenth Prince: Immortal Platform. Yan Yixi says Ye Fan instantly killed several Golden Crow elders at Holy Lord level. Ye Fan's own realm isn't stated.",
+ "confidence": "medium",
+ "cast": [
+  {
+   "id": "ye-fan",
+   "name": "Ye Fan",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "ye-tong",
+   "name": "Ye Tong",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": null,
+   "name": "Golden Crow First Prince",
+   "realm": "Immortal Platform 2nd Heaven",
+   "quote": "[Pangeran Pertama, Klan Gagak Emas, Platform Abadi Surga Kedua]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Golden Crow Tenth Prince",
+   "realm": "Immortal Platform",
+   "quote": "[Pangeran ke-10, Klan Gagak Emas, Platform Abadi]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": null,
+   "name": "Tong Zi",
+   "realm": null,
+   "quote": "[Tong Zi, Istana Delapan Pemandangan]",
+   "look": null,
+   "first": true
+  },
+  {
+   "id": "lu-ya",
+   "name": "Lu Ya",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yi-qingwu",
+   "name": "Yi Qingwu",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "li-tian",
+   "name": "Li Tian",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  },
+  {
+   "id": "yan-yixi",
+   "name": "Yan Yixi",
+   "realm": null,
+   "quote": null,
+   "look": null,
+   "first": false
+  }
+ ],
+ "changes": [
+  "The servant is named Tong Zi and dies from Yin Tiande's restriction after questioning.",
+  "The old summary had Yi Qingwu 'giving a token'. On screen she points him to Destiny Cliff and the Tianji Pavilion, and a Destiny emblem is shown.",
+  "Added Lu Ya's request for the forbidden pill, which sets up EP169.",
+  "Dropped the '8th minor step' realm claim; it isn't stated."
+ ],
+ "flags": [
+  "06:14: the prince who says 'you killed my brother' and later uses the poison flower is captioned only as 'Pangeran dari Klan Gagak Emas'. The old summary calls him the First Prince, but the subtitles don't say so.",
+  "12:55: in the pill scene the prince isn't named, but EP169 (13:30) repeats his exact lines as Lu Ya's, so this is Lu Ya.",
+  "Bajing Palace is translated 'Istana Delapan Pemandangan' here and 'Istana Ba Jing' in EP162–164."
+ ]
+}
