@@ -1,6 +1,6 @@
 // People: the donghua cast in order of appearance, a "who's strongest at EP N" ladder, and one page per character.
 (function () {
-  const S = window.STH, V = window.VIEWS, CAST = window.CAST || [], LEVELS = window.CAST_LEVELS || [];
+  const S = window.HUB, V = window.VIEWS, CAST = window.CAST || [], LEVELS = window.CAST_LEVELS || [];
   const { esc, NOVEL } = S;
   const byId = Object.fromEntries(CAST.map(c => [c.id, c]));
   const EPS = Object.fromEntries((window.EPISODES || []).map(e => [e.ep, e]));
@@ -248,7 +248,8 @@
     });
     const grid = [];
     for (let l = lo; l <= hi; l++) grid.push(`<line x1="${L}" x2="${W - R}" y1="${y(l)}" y2="${y(l)}" class="g"/><text x="${L - 8}" y="${y(l) + 4}" class="yl">${esc(LEVELS[l])}</text>`);
-    const ticks = [...[1, 25, 50, 75, 100, 125, 150].filter(e => e < MAX_EP - 10), MAX_EP].map(e => `<text x="${x(e)}" y="${H - 12}" class="xl">${e === 1 ? "EP 1" : e}</text>`).join("");
+    const step = MAX_EP > 120 ? 25 : MAX_EP > 60 ? 10 : 5;
+    const ticks = [1, ...Array.from({ length: Math.floor((MAX_EP - 1) / step) }, (_, k) => (k + 1) * step).filter(e => e < MAX_EP - step / 2), MAX_EP].map(e => `<text x="${x(e)}" y="${H - 12}" class="xl">${e === 1 ? "EP 1" : e}</text>`).join("");
     return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-labelledby="pc-t"><title id="pc-t">${esc(c.name)}'s realm by episode: ${pts.map(p => `EP ${p.ep} ${LEVELS[p.lvl]}`).join(", ")}</title>
       ${grid.join("")}${ticks}
       <path d="${d} H${x(MAX_EP).toFixed(1)}" class="line"/>
@@ -258,7 +259,6 @@
 
   V.people = people;
   V.character = character;
-  V.castById = byId;
   // Shared with features.js (recap, episode chips, inventory).
   V.castKit = { lookAt, powerAt, knownLevel, realmText, meter, portrait };
 })();

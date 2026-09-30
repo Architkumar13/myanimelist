@@ -4,7 +4,7 @@
 (function () {
   const A = window.ATLAS, V = window.VIEWS;
   if (!A || !V) return;
-  const S = window.STH, SH = window.SHOW;
+  const S = window.HUB, SH = window.SHOW;
   const { esc, epLabel, NOVEL } = S;
   const base = V.world;
   const [AW, AH] = A.aspect || [4, 3];
@@ -31,7 +31,7 @@
     const ticks = A.ladder.map((_, k) => `<span class="${lvl != null && k <= lvl ? "on" : ""} ${k === prevMax && (lvl == null || prevMax > lvl) ? "was" : ""}"></span>`).join("");
     const meter = `
       <div class="wx-meter" aria-label="Strongest power seen in this stage">
-        <div class="wx-ticks" aria-hidden="true">${ticks}</div>
+        <div class="wx-ticks" style="--rungs:${A.ladder.length}" aria-hidden="true">${ticks}</div>
         <p><b>${lvl == null ? "?" : esc(A.ladder[lvl])}</b>${lvl != null && SH.zhLevels?.[lvl] ? ` <span class="zh" lang="zh">${SH.zhLevels[lvl]}</span>` : ""} · ${esc(c.who)} ${epLink(c.ep)}${c.note ? `<span class="note">${esc(c.note)}</span>` : ""}</p>
       </div>`;
     const inner = `

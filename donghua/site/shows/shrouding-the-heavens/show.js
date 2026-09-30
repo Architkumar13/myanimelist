@@ -95,6 +95,7 @@ window.SHOW = {
       // The "what he carries at EP N" view; only shown because world.js has an `inventory` list.
       kit: {
         tab: "What he carries", storyTab: "His advantages", title: "What Ye Fan carries",
+        at: "What he has at", companions: "At his side", goneWith: "No longer with him",
         lede: "His body, scriptures, secret arts, treasures and the people at his side, as they stand at the episode you pick.",
         note: "Each thing appears from the episode where he actually gets it on screen, and leaves the list when he loses it or gives it up.",
       },

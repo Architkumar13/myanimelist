@@ -37,6 +37,8 @@ Each show folder has a `site` link pointing at `site/shows/<folder>/`, so its sc
 4. Write `data/world.js` by hand, following the same shape as the other shows. Run the show's scripts for the rest.
    Only `show.js` and `world.js` are required; the site copes with no episodes, cast or wiki yet.
 5. Add one entry to `site/shows.js`: a short `id` for the address, the `dir`, titles, a hero picture and a palette.
+6. Check it: `node tools/validate.mjs <id>` (data shape, episode numbers, cross-links, missing pictures) and
+   `python3 tools/smoke.py <id>` (loads every page in a headless browser). Both exit non-zero on a problem.
 
 ## Design notes
 

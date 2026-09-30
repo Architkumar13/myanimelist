@@ -1,12 +1,13 @@
 // One function per page. Each returns { title, html, mount?(root) }.
 (function () {
-  const W = window.WORLD, S = window.STH, SH = window.SHOW, WIKI = window.WIKI || { entries: {}, alias: {} };
+  const W = window.WORLD, S = window.HUB, SH = window.SHOW, WIKI = window.WIKI || { entries: {}, alias: {} };
   const P = SH.pages;
   const { esc, epLabel, link, img, imgFor, resolve, NOVEL } = S;
   const EPISODES = () => (window.EPISODES || []).slice().sort((a, b) => a.ep - b.ep);
   const realmById = Object.fromEntries(W.realms.map(r => [r.id, r]));
   const regionById = Object.fromEntries(W.regions.map(r => [r.id, r]));
 
+  const notHere = title => ({ title, html: `<header class="page-head"><h1>${esc(title)}</h1><p>${esc(SH.title)} doesn't have this page yet.</p></header>` });
   const head = (zh, title, lede) => `<header class="page-head"><h1><span class="zh-title" lang="zh">${zh}</span>${title}</h1>${lede ? `<p>${lede}</p>` : ""}</header>`;
   const subs = s => s ? ` <span class="term-sub" title="Name in the English subtitles">subs: ${esc(s)}</span>` : "";
 
@@ -54,7 +55,7 @@
           <li><div class="st-name">${esc(st.name)} <span class="zh" lang="zh">${st.zh}</span>${st.subs && st.subs !== st.name ? `<small>subs: ${esc(st.subs)}</small>` : ""}</div>
             <p>${st.title ? `<span class="st-title">${esc(st.title)}</span>` : ""}${esc(st.text)}</p></li>`).join("")}
         </ol>
-        <div class="yefan-at">${esc(SH.heroName)} reaches ${esc(r.name)} in ${r.yefan >= NOVEL ? C.novelWord : `episode ${r.yefan}`}.</div>
+        <div class="hero-at">${esc(SH.heroName)} reaches ${esc(r.name)} in ${r.heroEp >= NOVEL ? C.novelWord : `episode ${r.heroEp}`}.</div>
         ${r.wiki && resolve(r.wiki) ? `<p class="note">More detail: ${link(r.wiki, r.wiki + " on the wiki")}</p>` : ""}
       </section>`).join("");
 
@@ -76,7 +77,7 @@
           <section class="realm" id="realm-beyond" data-realm="beyond">
             <h2>${esc(C.beyondTitle)}</h2>
             <p class="realm-gist">${esc(C.beyondGist)}</p>
-            <ul class="beyond">${W.beyond.map(b => `<li><h3>${esc(b.name)} <span class="zh" lang="zh">${b.zh}</span></h3><p>${esc(b.text)}</p></li>`).join("")}</ul>
+            <ul class="beyond">${(W.beyond || []).map(b => `<li><h3>${esc(b.name)} <span class="zh" lang="zh">${b.zh}</span></h3><p>${esc(b.text)}</p></li>`).join("")}</ul>
             ${C.ladders.map(ladder).join("")}
           </section>
         </div>
@@ -186,12 +187,12 @@
           <dl>
             <dt>Strongest</dt><dd>${esc(f.top)}</dd>
             <dt>Known for</dt><dd>${esc(f.signature)}</dd>
-            <dt>With ${esc(SH.heroName)}</dt><dd>${esc(f.with || f.yefan || "")}</dd>
+            <dt>With ${esc(SH.heroName)}</dt><dd>${esc(f.with || "")}</dd>
           </dl>
         </div></article>`;
     };
     const html = `${head("势力", "Who holds power", P.powers.lede)}
-      <ol class="ladder" aria-label="Faction tiers, strongest first">${W.tiers.map(t => `
+      <ol class="ladder" aria-label="Faction tiers, strongest first">${(W.tiers || []).map(t => `
         <li style="--i:${t.n}"><span class="rung-n">${t.n}</span>
           <button type="button" data-tier="${t.n}" aria-pressed="false">
             <span class="rung-name">${esc(t.name)} <span class="zh" lang="zh">${t.zh}</span></span>
@@ -230,11 +231,12 @@
   // ---------------- Journey ----------------
   function journey(query) {
     const J = P.journey;
+    if (!J || !W.journey?.length) return notHere(SH.heroName);
     const V = window.VIEWS;
     if (query?.get("view") === "kit" && V.kit) return V.kit();
     const html = `${head(J.zh, J.title, J.lede)}
       ${V.journeySeg ? V.journeySeg("story") : ""}
-      <div class="journey">${W.journey.map(st => `
+      <div class="journey">${(W.journey || []).map(st => `
         <section class="stage">
           <div class="stage-head"><h2>${esc(st.stage)}</h2><div class="eps">${st.eps[0] >= NOVEL ? "Novel" : `EP ${st.eps[0]}–${st.eps[1]}`}</div></div>
           <ol class="stage-items">${st.items.map(it => {
@@ -245,14 +247,16 @@
           }).join("")}</ol>
         </section>`).join("")}
       </div>
+      ${W.secrets?.length && J.secrets ? `
       <h2>${esc(J.secrets[0])} <span class="zh muted" lang="zh">${J.secrets[1]}</span></h2>
       <p class="prose">${esc(J.secrets[2])}</p>
-      <ul class="secrets">${W.secrets.map(s => `<li><div class="secret"><div class="secret-ch" lang="zh">${s.ch}</div><h3>${esc(s.name)} · ${esc(s.gloss)}</h3><p>${esc(s.effect)}</p><p>${epLabel(s.ep)}</p></div></li>`).join("")}</ul>
+      <ul class="secrets">${W.secrets.map(s => `<li><div class="secret"><div class="secret-ch" lang="zh">${s.ch}</div><h3>${esc(s.name)} · ${esc(s.gloss)}</h3><p>${esc(s.effect)}</p><p>${epLabel(s.ep)}</p></div></li>`).join("")}</ul>` : ""}
+      ${W.methods?.length && J.methods ? `
       <h2>${esc(J.methods[0])}</h2>
       <p class="prose">${esc(J.methods[1])}</p>
       <div class="table-scroll"><table class="plain"><thead><tr><th>Realm</th><th>Method</th><th>From</th><th>When</th></tr></thead><tbody>
         ${W.methods.map(m => `<tr><td>${esc(m.realm)}</td><td>${esc(m.method)} <span class="zh muted" lang="zh">${m.zh}</span></td><td>${esc(m.from)}</td><td>${epLabel(m.ep)}</td></tr>`).join("")}
-      </tbody></table></div>`;
+      </tbody></table></div>` : ""}`;
     return { title: SH.heroName, html };
   }
 
@@ -347,8 +351,9 @@
   // ---------------- Emperors ----------------
   function emperors() {
     const E = P.emperors;
+    if (!E || !W.eras?.length) return notHere("Eras");
     const html = `${head(E.zh, E.title, E.lede)}
-      <ol class="eras">${W.eras.map(era => `
+      <ol class="eras">${(W.eras || []).map(era => `
         <li class="era">
           <div class="era-name"><span class="zh" lang="zh">${era.zh}</span>${esc(era.name)}${era.title ? `<small>Emperors called ${esc(era.title)}</small>` : ""}</div>
           <div><p class="era-note">${esc(era.note)}</p>
@@ -362,10 +367,11 @@
   // ---------------- Forbidden zones ----------------
   function zones() {
     const Z = P.zones;
+    if (!Z || !W.zones?.length) return notHere("Zones");
     const html = `${head(Z.zh, Z.title, Z.lede)}
       <div class="prose">${Z.prose}</div>
       <h2>${esc(Z.heading)}</h2>
-      <ul class="zones">${W.zones.map(z => `<li><div class="zone-card"><h3>${esc(z.name)}</h3><div class="zh" lang="zh">${z.zh}</div><p>${epLabel(z.ep)} ${esc(z.text)}${z.subs ? ` <span class="term-sub">subs: ${esc(z.subs)}</span>` : ""}</p>
+      <ul class="zones">${(W.zones || []).map(z => `<li><div class="zone-card"><h3>${esc(z.name)}</h3><div class="zh" lang="zh">${z.zh}</div><p>${epLabel(z.ep)} ${esc(z.text)}${z.subs ? ` <span class="term-sub">subs: ${esc(z.subs)}</span>` : ""}</p>
         <div class="master">${Z.masterLabel || ""}${esc(z.master)}</div></div></li>`).join("")}</ul>
       ${Z.wiki && resolve(Z.wiki[0]) ? `<p class="note">${link(Z.wiki[0], Z.wiki[1])} ${esc(Z.wiki[2])}</p>` : ""}`;
     return { title: Z.tab, html };
@@ -385,7 +391,8 @@
         `<span class="muted">${esc(other)}</span>`,
       ];
       const e = ep ?? NOVEL;
-      return `<tr id="term-${i}" data-term="${esc(t)}">${cells.map(c => `<td>${c}</td>`).join("")}${withEp ? `<td>${e < NOVEL ? `<a class="ep-link" href="#/episodes/${e}">${epLabel(e)}</a>` : epLabel(e)}</td>` : ""}</tr>`;
+      const labels = ["Term", "Chinese", T.cols[0], T.cols[1]];
+      return `<tr id="term-${i}" data-term="${esc(t)}">${cells.map((c, k) => `<td data-label="${esc(labels[k])}">${c}</td>`).join("")}${withEp ? `<td data-label="First used">${e < NOVEL ? `<a class="ep-link" href="#/episodes/${e}">${epLabel(e)}</a>` : epLabel(e)}</td>` : ""}</tr>`;
     };
     const html = `${head("词汇", "Terms and their many names", T.lede)}
       <div class="people-tools"><input type="search" id="terms-q" placeholder="Filter terms" aria-label="Filter terms"></div>

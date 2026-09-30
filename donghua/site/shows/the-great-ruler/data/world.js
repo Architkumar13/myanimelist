@@ -11,7 +11,7 @@ window.WORLD = {
     {
       id: "sensing", name: "Sensing", subs: "Sensing", zh: "感应境", body: "world",
       where: "The spiritual energy outside the body", lifespan: "—",
-      wiki: "Sensing Stage", yefan: 1,
+      wiki: "Sensing Stage", heroEp: 1,
       gist: "You can feel the world's spiritual energy and you are trying to pull it in. Nothing about this stage is a fight yet.",
       stages: [
         { name: "No phases", zh: "感应", ep: 1, text: "Most children in a cultivation clan pass this without anyone bothering to count it." },
@@ -20,7 +20,7 @@ window.WORLD = {
     {
       id: "movement", name: "Spiritual Movement", subs: "Spiritual Movement", zh: "灵动境", body: "body",
       where: "Spiritual energy inside the body", lifespan: "—",
-      wiki: "Spiritual Movement Stage", yefan: 1,
+      wiki: "Spiritual Movement Stage", heroEp: 1,
       gist: "Energy stays in the body instead of slipping away. From here you can learn spiritual arts. Mu Chen starts the donghua already at the initial phase.",
       stages: [
         { name: "Initial", zh: "初期", ep: 1, text: "Energy can be held, and the simplest spiritual arts become possible." },
@@ -31,7 +31,7 @@ window.WORLD = {
     {
       id: "rotation", name: "Spiritual Rotation", subs: "Spiritual Wheel", zh: "灵轮境", body: "core",
       where: "A wheel of energy in the body", lifespan: "—",
-      wiki: "Spiritual Rotation Stage", yefan: 13,
+      wiki: "Spiritual Rotation Stage", heroEp: 13,
       gist: "The energy in the body is compressed into a turning wheel, so it gets denser and cleaner. This is also the rough floor for a Rank 1 Spiritual Array Master.",
       stages: [
         { name: "Initial", zh: "初期", ep: 13, text: "The wheel exists. Density and purity both jump." },
@@ -42,7 +42,7 @@ window.WORLD = {
     {
       id: "spirit", name: "Spirit", subs: "Divine Soul", zh: "神魄境", body: "soul",
       where: "A divine soul in the Aura Sea", lifespan: "—",
-      wiki: "Spirit Stage", yefan: 28,
+      wiki: "Spirit Stage", heroEp: 28,
       gist: "The first real dividing line. You condense your own divine soul, and you can swallow a beast's soul essence and use its ability later.",
       stages: [
         { name: "Initial", zh: "初期", ep: 28, text: "The divine soul condenses. Beast souls can be taken in." },
@@ -53,7 +53,7 @@ window.WORLD = {
     {
       id: "fusion", name: "Heavenly Fusion", subs: "Heavenly Fusion", zh: "融天境", body: "world",
       where: "The dense energy of the outside world", lifespan: "—",
-      wiki: "Heavenly Fusion Stage", yefan: 40,
+      wiki: "Heavenly Fusion Stage", heroEp: 40,
       gist: "First of the Three Heavens. You can move the thick spiritual energy of the world itself, and a swallowed beast soul finally shows its real ability.",
       stages: [
         { name: "Initial", zh: "初期", ep: 40, text: "The world's dense energy can be moved, not just your own." },
@@ -64,7 +64,7 @@ window.WORLD = {
     {
       id: "transform", name: "Heavenly Transformation", subs: "Heavenly Transformation", zh: "化天境", body: "world",
       where: "The divine soul, blended into the world", lifespan: "—",
-      wiki: "Heavenly Transformation Stage", yefan: 54,
+      wiki: "Heavenly Transformation Stage", heroEp: 54,
       gist: "Second Heaven. The divine soul sinks into the surroundings and borrows them as a shield, so part of an attack never lands.",
       stages: [
         { name: "Initial", zh: "初期", ep: 54, text: "The divine soul can sink into the surroundings and borrow them as a shield." },
@@ -74,7 +74,7 @@ window.WORLD = {
     {
       id: "complete", name: "Heavenly Completion", subs: "Heavenly Completion", zh: "通天境", body: "soul",
       where: "A divine soul that can travel", lifespan: "—",
-      wiki: "Heavenly Completion Stage", yefan: 70,
+      wiki: "Heavenly Completion Stage", heroEp: 70,
       gist: "Third Heaven. The divine soul is tough enough to leave the body and cross a long distance without dying. This is the last realm before the three disasters that gate Sovereign.",
       stages: [
         { name: "Initial", zh: "初期", ep: 70, text: "The divine soul can leave the body and travel." },
@@ -84,7 +84,7 @@ window.WORLD = {
     {
       id: "disasters", name: "Three Sovereign Disasters", subs: "Three Disasters", zh: "至尊小三难", body: "all",
       where: "Body, energy, then soul", lifespan: "—",
-      wiki: "Three Sovereign Disasters Stage", yefan: 88,
+      wiki: "Three Sovereign Disasters Stage", heroEp: 88,
       gist: "Three trials that kill a lot of geniuses. Pass all three and the Sovereign Sea can form. Fail and that is the end of the road.",
       stages: [
         { name: "Human Body Disaster", zh: "肉身难", ep: 88, text: "The body is tempered. Fail it and the road ends." },
@@ -247,29 +247,6 @@ window.WORLD = {
     ["Fiend Clan", "魔族", "", "They eat spiritual energy out of a land until nothing can cultivate there"],
   ],
 
-  milestones: [
-    [1, "Back from the Spiritual Road. Spiritual Movement, initial."],
-    [2, "Mu Territory. The Great Pagoda Art."],
-    [3, "Breakthrough against Liu Yang."],
-    [10, "The swamp. Late Spiritual Movement."],
-    [13, "Jiu You. Spiritual Rotation."],
-    [15, "The Five Great Academies offer seats."],
-    [21, "Late Spiritual Rotation."],
-    [25, "Northern Heavens Continent. The entrance exam."],
-    [28, "Spirit Stage."],
-    [40, "Heavenly Fusion."],
-    [44, "White Dragon Sovereign's treasury. Season 1 runs to episode 52."],
-    [53, "Season 2. The hunting war. He Yao dies."],
-    [57, "Jiu You becomes a Divine Beast."],
-    [61, "Ling Xi. Ji Xuan on screen for real."],
-    [70, "Heavenly Completion, with a month of Ling Xi's help."],
-    [73, "Great Solar Undying Body, at Holy Spirit Mountain."],
-    [78, "His mother's spiritual body. The Black Dragon Sovereign falls."],
-    [79, "Both halves of the Pagoda Art. He takes the academy's first rank."],
-    [81, "The Great Spiritual Academy Tournament begins."],
-    [88, "Human Body Disaster."],
-    [92, "Latest aired episode. The Wood God Mountain trial ends."],
-  ],
 
   arcs: [
     [1, 13, "Northern Spiritual Realm"],

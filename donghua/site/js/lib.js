@@ -85,5 +85,5 @@
     return html;
   }
 
-  window.STH = { epLabel, esc, resolve, entryEp, href, link, inline, plain, img, imgFor, blocks, NOVEL, MAX_EP };
+  window.HUB = { epLabel, esc, resolve, entryEp, href, link, inline, plain, img, imgFor, blocks, NOVEL, MAX_EP };
 })();

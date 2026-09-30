@@ -1,6 +1,6 @@
 // Router, search and lightbox.
 (function () {
-  const S = window.STH, V = window.VIEWS, W = window.WORLD, SH = window.SHOW, WIKI = window.WIKI || { entries: {}, alias: {} };
+  const S = window.HUB, V = window.VIEWS, W = window.WORLD, SH = window.SHOW, WIKI = window.WIKI || { entries: {}, alias: {} };
   const main = document.getElementById("main");
 
   // ---------- Chrome for this show ----------

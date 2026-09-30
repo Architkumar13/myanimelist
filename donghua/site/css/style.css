@@ -203,7 +203,7 @@ h3 { font: 700 var(--t1)/1.25 var(--serif); margin: 1.6rem 0 .5rem; }
 .stages .st-name .zh { font-weight: 400; color: var(--bone-dim); margin-left: .3rem; }
 .stages p { margin: 0; }
 .stages .st-title { font: 500 .9rem var(--sans); color: var(--bronze-bright); display: block; }
-.yefan-at { margin-top: .9rem; font: 500 .9rem/1.4 var(--sans); }
+.hero-at { margin-top: .9rem; font: 500 .9rem/1.4 var(--sans); }
 
 .beyond { list-style: none; padding: 0; margin: 0; max-width: 54rem; }
 .beyond li { padding: .9rem 0 .9rem 1.2rem; border-left: 2px solid var(--line); position: relative; }
@@ -640,6 +640,10 @@ table.plain th { font: 500 .85rem var(--sans); color: var(--verdigris); }
   }
   .rail-mark { writing-mode: horizontal-tb; font-size: 1.4rem; padding: .6rem .8rem; }
   .rail ul { display: flex; gap: 0; }
+  /* The bar scrolls sideways; fade the edge so it's clear there's more. */
+  .rail { mask-image: linear-gradient(to right, #000 calc(100% - 2.5rem), transparent); scroll-snap-type: x proximity; }
+  .rail a[data-nav] span { white-space: nowrap; }
+  .rail a[data-nav] { scroll-snap-align: start; }
   .rail a[data-nav] { padding: .45rem .6rem; border-left: 0; border-top: 3px solid transparent; }
   .rail a[aria-current="page"] { border-top-color: var(--bronze); }
   .rail-zh { writing-mode: horizontal-tb; font-size: 1rem; }
@@ -700,3 +704,13 @@ body.is-hub {
 .hub-copy p { margin: 0 0 1rem; line-height: 1.5; }
 
 .hub-note { margin-top: 2.5rem; }
+
+/* ---------- Terms on phones: one card per term ---------- */
+@media (max-width: 600px) {
+  #terms thead { display: none; }
+  #terms, #terms tbody, #terms tr, #terms td { display: block; width: auto; }
+  #terms tr { padding: .8rem 0; border-bottom: 1px solid var(--line-soft); }
+  #terms td { border: 0; padding: .1rem 0; }
+  #terms td:first-child { font-size: var(--t1); font-weight: 700; }
+  #terms td:not(:first-child)::before { content: attr(data-label) " · "; color: var(--bone-dim); font: 500 .8rem var(--sans); }
+}

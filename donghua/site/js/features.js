@@ -4,7 +4,7 @@
 //  - kit: what the hero is carrying at episode N (#/journey?view=kit), when world.js has `inventory`
 // Everything degrades to nothing when a show lacks the data.
 (function () {
-  const S = window.STH, V = window.VIEWS, W = window.WORLD, SH = window.SHOW;
+  const S = window.HUB, V = window.VIEWS, W = window.WORLD, SH = window.SHOW;
   const CAST = window.CAST || [], LEVELS = window.CAST_LEVELS || [];
   const { esc, epLabel, NOVEL } = S;
   const K = V.castKit;
@@ -219,13 +219,15 @@
     ["scripture", "经", "Scriptures"],
     ["technique", "术", "Secret arts"],
     ["treasure", "宝", "Weapons and treasures"],
-    ["companion", "伴", "At his side"],
+    ["companion", "伴", "Companions"],
   ];
   const INV = (W.inventory || []).slice().sort((a, b) => a.ep - b.ep);
+  // Wording is neutral unless the show's pages.journey.kit says otherwise (at, companions, goneWith, goneHas).
+  const KT = SH.pages?.journey?.kit || {};
   const hasKit = INV.length > 0;
 
   function kitHtml(at) {
-    // He still has a thing during the episode he loses it; after that it moves to "no longer".
+    // A thing is still held during the episode it's lost; after that it moves to "no longer".
     // Something lost and later regained (a new entry with the same name) only shows once, as held.
     const held = INV.filter(x => x.ep <= at && !(x.lostEp && x.lostEp < at));
     const heldNames = new Set(held.map(x => x.name));
@@ -236,10 +238,10 @@
       const h = held.filter(x => x.kind === kind), g = gone.filter(x => x.kind === kind);
       if (!h.length && !g.length) return "";
       return `<section class="kit-kind kit-${kind}">
-        <div class="kit-mark"><span class="kit-zh" lang="zh" aria-hidden="true">${zh}</span><h2>${esc(label)}</h2><span class="kit-count">${h.length ? `${h.length} now` : "none now"}</span></div>
+        <div class="kit-mark"><span class="kit-zh" lang="zh" aria-hidden="true">${zh}</span><h2>${esc(kind === "companion" ? KT.companions || label : label)}</h2><span class="kit-count">${h.length ? `${h.length} now` : "none now"}</span></div>
         <div>
           ${h.length ? `<ul class="kit-items">${h.map(x => kitItem(x, at)).join("")}</ul>` : ""}
-          ${g.length ? `<p class="kit-gone"><span>No longer ${kind === "companion" ? "with him" : "has"}:</span> ${g.map(x => `<span class="kit-gone-item"><s>${esc(x.name)}</s> <span class="muted">EP ${x.lostEp}${x.lostNote ? `, ${esc(x.lostNote)}` : ""}</span></span>`).join("; ")}</p>` : ""}
+          ${g.length ? `<p class="kit-gone"><span>${esc(kind === "companion" ? KT.goneWith || `No longer with ${SH.heroName}` : KT.goneHas || "No longer has")}:</span> ${g.map(x => `<span class="kit-gone-item"><s>${esc(x.name)}</s> <span class="muted">EP ${x.lostEp}${x.lostNote ? `, ${esc(x.lostNote)}` : ""}</span></span>`).join("; ")}</p>` : ""}
         </div></section>`;
     }).join("");
   }
@@ -260,11 +262,11 @@
     const max = LATEST;
     const min = INV.length ? INV[0].ep : 1;
     const marks = [...new Set(INV.map(x => x.ep))];
-    const html = `${head(J.zh || SH.zh, esc(T.title || `What ${SH.heroName} carries`), esc(T.lede || `Pick an episode to see his body, scriptures, secret arts, treasures and companions as they were then.`))}
+    const html = `${head(J.zh || SH.zh, esc(T.title || `What ${SH.heroName} carries`), esc(T.lede || `Pick an episode to see ${SH.heroName}'s body, scriptures, secret arts, treasures and companions as they were then.`))}
       ${journeySeg("kit")}
       <div class="board kit">
         <div class="board-scrub">
-          <label for="kit-ep">What he has at</label>
+          <label for="kit-ep">${esc(T.at || "Held at")}</label>
           <input type="range" id="kit-ep" min="${Math.min(min, max)}" max="${max}" value="${max}" list="kit-marks" aria-describedby="kit-note">
           <datalist id="kit-marks">${marks.map(m => `<option value="${m}"></option>`).join("")}</datalist>
           <output id="kit-out" for="kit-ep">EP ${max}</output>
@@ -274,7 +276,7 @@
       </div>
       ${T.note ? `<p class="note">${esc(T.note)}</p>` : ""}`;
     return {
-      title: T.tab || "What he carries", html,
+      title: T.tab || `What ${SH.heroName} carries`, html,
       mount(root) {
         const r = root.querySelector("#kit-ep"), o = root.querySelector("#kit-out"), list = root.querySelector("#kit-list");
         const draw = () => { list.innerHTML = kitHtml(+r.value); o.textContent = `EP ${r.value}`; };
@@ -288,8 +290,8 @@
     if (!hasKit) return "";
     const T = SH.pages?.journey?.kit || {};
     return `<nav class="seg journey-seg" aria-label="How to show ${esc(SH.heroName)}">
-      <a href="#/journey" ${cur === "story" ? 'aria-current="page"' : ""}>${esc(T.storyTab || "His advantages")}</a>
-      <a href="#/journey?view=kit" ${cur === "kit" ? 'aria-current="page"' : ""}>${esc(T.tab || "What he carries")}</a></nav>`;
+      <a href="#/journey" ${cur === "story" ? 'aria-current="page"' : ""}>${esc(T.storyTab || "Advantages")}</a>
+      <a href="#/journey?view=kit" ${cur === "kit" ? 'aria-current="page"' : ""}>${esc(T.tab || `What ${SH.heroName} carries`)}</a></nav>`;
   }
 
   V.recap = recap;
@@ -299,5 +301,4 @@
   V.epWords = epWords;
   V.kit = hasKit ? kit : null;
   V.journeySeg = journeySeg;
-  V.terms2 = { TERMS, hasTermEps };
 })();

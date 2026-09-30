@@ -69,7 +69,7 @@
 .wx-chips li { margin: 0; border: 1px solid var(--line); border-radius: 999px; padding: .15rem .7rem; font: 500 .9rem var(--sans); }
 .wx-meter p { margin: .5rem 0 0; }
 .wx-meter .note { display: block; margin-top: .2rem; }
-.wx-ticks { display: grid; grid-template-columns: repeat(16, 1fr); gap: 3px; }
+.wx-ticks { display: grid; grid-template-columns: repeat(var(--rungs, 16), 1fr); gap: 3px; }
 .wx-ticks span { height: .7rem; border-radius: 2px; background: color-mix(in srgb, var(--bone) 10%, transparent); }
 .wx-ticks span.on { background: linear-gradient(var(--bronze-bright), var(--bronze)); }
 .wx-ticks span.was { outline: 1px dashed var(--bronze); outline-offset: 1px; }
