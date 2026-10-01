@@ -1,0 +1,119 @@
+{
+  "ep": 23,
+  "title": "Wang Yan's Ambush",
+  "summary": "Lin Dong recovers outside the tomb, and Little Mink praises him for not throwing his life away against Lin Langtian, since staying alive is how the Lin Family can rise again. Lin Dong vows to beat Lin Langtian at the Lin Clan Gathering in two years and decides to hunt for the Ancestral Symbols. Little Mink tells him a story from the Celestial Demon Marten records: one supreme expert who held all eight Ancestral Symbols once stopped a great catastrophe, then vanished with them. On the way back to Yan City, Wang Yan ambushes him for the halberd, and Lin Dong sends Little Flame ahead with the Extreme Yin Dragon Saliva. Against Wang Yan's Subduing Golden Platform Magic Palm and Great Luo Golden Spear, Lin Dong uses the Fish Scale Halberd and Python Scale Halberd moves of the Heavenly Scales Halberd Art. He then hits Wang Yan with the mid-grade Symbol Puppet. He pins Wang Yan and takes his high-grade Qiankun Bag, but Wang Yan's guardian Elder Shen appears.",
+  "events": [
+    "Lin Dong wakes in the mountains; Little Mink explains why surviving mattered more than fighting.",
+    "Lin Dong resolves to beat Lin Langtian in two years and to seek the Ancestral Symbols.",
+    "Little Mink tells the legend of the supreme expert who held all eight Ancestral Symbols.",
+    "Wang Yan ambushes Lin Dong; Little Flame escapes with the Extreme Yin Dragon Saliva.",
+    "Lin Dong uses Myriad Transformation Flame and the halberd's Fish Scale Halberd and Python Scale Halberd against Wang Yan.",
+    "Wang Yan's Great Luo Golden Spear and White Dragon Roar overpower him until the Symbol Puppet strikes.",
+    "Lin Dong pins Wang Yan and takes his high-grade Qiankun Bag.",
+    "Elder Shen arrives to protect Wang Yan."
+  ],
+  "introduced": [
+    "Elder Shen",
+    "Heavenly Scales Halberd Art (Fish Scale Halberd, Python Scale Halberd)",
+    "Subduing Golden Platform Magic Palm",
+    "White Dragon Roar",
+    "Celestial Demon Marten clan"
+  ],
+  "cultivation": "Wang Yan is at Form Creation. Lin Langtian is at Qi Creation.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "wang-yan",
+      "name": "Wang Yan",
+      "realm": "Form Creation",
+      "quote": "今日便让你知道 什么是造形境强者的力量 (601.0)"
+    },
+    {
+      "id": "elder-shen",
+      "name": "Elder Shen",
+      "first": true,
+      "card": 1260.1
+    }
+  ],
+  "terms": [
+    [
+      "天妖貂族",
+      "Celestial Demon Marten clan",
+      "Tianyao Mink clan"
+    ],
+    [
+      "金台镇魔掌",
+      "Subduing Golden Platform Magic Palm",
+      "Jintai Demon Suppressing Palm"
+    ],
+    [
+      "天鳞戟法",
+      "Heavenly Scales Halberd Art",
+      "Tianlin Halberd Technique"
+    ],
+    [
+      "鱼鳞戟",
+      "Fish Scale Halberd",
+      "fish scale halberd"
+    ],
+    [
+      "蟒鳞戟",
+      "Python Scale Halberd",
+      "python scale halberd"
+    ],
+    [
+      "元力化形",
+      "Yuan Power taking form",
+      "Yuan force transformation"
+    ],
+    [
+      "白龙吟",
+      "White Dragon Roar",
+      "White Dragon Yin"
+    ],
+    [
+      "高级乾坤袋",
+      "high-grade Qiankun Bag",
+      "advanced universe bag"
+    ],
+    [
+      "沈老",
+      "Elder Shen",
+      "Old Shen"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Wang Yan's high-grade Qiankun Bag",
+      "first use of the Heavenly Scales Halberd Art"
+    ],
+    "losses": [
+      "Pure Yuan Pills spent on two Symbol Puppet strikes"
+    ],
+    "places": [
+      "Sky Flame Mountain Range, outside the tomb",
+      "road back toward Yan City"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "Recap 142-244 is EP22 material.",
+    "690-703 replay the tomb master's EP21 lines as Lin Dong recalls the halberd technique.",
+    "Elder Shen card 1260.1 is his first line, spoken to Wang Yan; Wang Yan calls 沈老 at 1247.9 just before.",
+    "The puppet strikes twice (1085, 1157); at 2,000 Pure Yuan Pills each that is about 4,000, but the cost is not restated.",
+    "Lin Dong's realm is not restated (EP22: Yuan Dan perfect); hero.realm null."
+  ]
+}

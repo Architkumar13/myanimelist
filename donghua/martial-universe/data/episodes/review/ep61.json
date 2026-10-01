@@ -1,0 +1,159 @@
+{
+  "ep": 61,
+  "title": "The Fourth Key Holder",
+  "summary": "The holders of the four Ancient Keys gather at the Ancient Treasure Trove on the Ancient Battlefield. Shi Kun of the Demon Rock Dynasty has put a bounty of a million Nirvana Pills on Lin Dong, and Hong Lie of the Primordial Dynasty says he has found a powerful ally. Lin Dong arrives with Little Flame and Little Mink as the fourth key holder. Shi Kun attacks him to avenge his brother Shi Xuan, and Lin Dong holds his own with Yuan Essence Power and the Great Desolate Heaven-Imprisoning Finger. You Qing stops the fight, and the four keys open the treasure, the ruins of a vast ancient sect. Little Mink leads Lin Dong to the pill chamber, where Yan Sen and others are fighting over the pills. Little Mink spots a Life and Death Reincarnation Pill that could rebuild his body, and Lin Dong decides to take it.",
+  "events": [
+    "Shi Kun and Hong Lie wait at the treasure; Shi Kun has offered a million Nirvana Pills for Lin Dong.",
+    "Lin Dong arrives with Little Flame as the fourth Ancient Secret Key holder.",
+    "Shi Kun, Two Yuan Nirvana peak, attacks Lin Dong over his brother Shi Xuan's death.",
+    "Lin Dong fights back with Yuan Essence Power and the Great Desolate Heaven-Imprisoning Finger.",
+    "You Qing and Hong Lie call a halt, and the four keys open the Ancient Treasure Trove.",
+    "The groups split up; Hong Lie's hooded ally has an aura Lin Dong finds familiar.",
+    "In the pill chamber Little Mink spots the Life and Death Reincarnation Pill, which could rebuild his body.",
+    "Lin Dong and Little Flame go after the pill."
+  ],
+  "introduced": [
+    "Hong Lie",
+    "You Qing",
+    "Yan Sen",
+    "Primordial Dynasty",
+    "Ancient Treasure Trove",
+    "Life and Death Reincarnation Pill"
+  ],
+  "cultivation": "Lin Dong is One Yuan Nirvana and a Heaven Symbol Master. Shi Kun is at the peak of Two Yuan Nirvana.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "One Yuan Nirvana",
+      "quote": "一元涅槃境 天符师 (459.5)"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "shi-kun",
+      "name": "Shi Kun",
+      "realm": "Two Yuan Nirvana",
+      "quote": "已是二元涅槃境巅峰了吗 (427.4)"
+    },
+    {
+      "id": "hong-lie",
+      "name": "Hong Lie",
+      "first": true,
+      "card": 261.9
+    },
+    {
+      "id": "you-qing",
+      "name": "You Qing",
+      "first": true,
+      "card": 674.2
+    },
+    {
+      "id": "yan-sen",
+      "name": "Yan Sen",
+      "first": true,
+      "card": 1104.7
+    }
+  ],
+  "terms": [
+    [
+      "远古秘钥",
+      "Ancient Secret Key",
+      "Ancient Secret Key"
+    ],
+    [
+      "远古秘藏",
+      "Ancient Treasure Trove",
+      "Ancient Treasure / ancient secret repository"
+    ],
+    [
+      "远古战场",
+      "Ancient Battlefield",
+      "ancient battlefield"
+    ],
+    [
+      "魔岩王朝",
+      "Demon Rock Dynasty",
+      "Demon Rock Dynasty"
+    ],
+    [
+      "洪荒王朝",
+      "Primordial Dynasty",
+      "Primordial Dynasty"
+    ],
+    [
+      "涅槃丹",
+      "Nirvana Pill",
+      "Nirvana Pills"
+    ],
+    [
+      "元精之力",
+      "Yuan Essence Power",
+      "Yuan Essence Power"
+    ],
+    [
+      "大荒囚天指",
+      "Great Desolate Heaven-Imprisoning Finger",
+      "Great Wilderness Imprisoning Heaven Finger"
+    ],
+    [
+      "天符师",
+      "Heaven Symbol Master",
+      "Heavenly Talisman Master"
+    ],
+    [
+      "紫影九破",
+      "Purple Shadow Nine Breaks",
+      "Zi Shadow Nine"
+    ],
+    [
+      "金魔天刃",
+      "Golden Demon Heaven Blade",
+      "Golden Demon Heavenly Blade"
+    ],
+    [
+      "丹室",
+      "pill chamber",
+      "pill room / alchemy chamber"
+    ],
+    [
+      "生死转轮丹",
+      "Life and Death Reincarnation Pill",
+      "Life and Death Reincarnation Pill"
+    ],
+    [
+      "丹河",
+      "Pill River",
+      "Pill River"
+    ]
+  ],
+  "hero": {
+    "realm": "One Yuan Nirvana",
+    "gains": [],
+    "losses": [],
+    "places": [
+      "Ancient Battlefield, outside the Ancient Treasure Trove",
+      "inside the Ancient Treasure Trove",
+      "pill chamber"
+    ]
+  },
+  "flags": [
+    "Recap runs to about 205 s (Seed Selection, Moyan Dynasty bounty, Miss Mu); not counted.",
+    "Cards are not on-screen captions: Hong Lie 261.9 (Shi Kun addresses him, 多谢洪烈兄), You Qing 674.2 (Hong Lie addresses her), Yan Sen 1104.7 (named while fighting). Clock: ep61.zh/en.srt (same clock).",
+    "459.5 一元涅槃境 天符师 is someone sizing up Lin Dong; the speaker is not clear.",
+    "Hong Lie's hooded ally (854.4 那家伙的气息怎么如此熟悉) is not named here; EP65 shows Lin Langtian with Hong Lie.",
+    "Yan Sen's dynasty is not stated. The wiki puts him in the Dao Sect (novel, later).",
+    "紫影九破 (503.6) and 金魔天刃 (600.6): the user is unclear, probably Shi Kun.",
+    "Wiki gives You Qing as Death Valley Empire; EP65 subtitles say she is of the Youquan Dynasty (幽泉王朝)."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

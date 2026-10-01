@@ -1,0 +1,165 @@
+{
+  "ep": 51,
+  "title": "Yang City",
+  "summary": "The five Great Yan contestants are sent into the Ancient Battlefield, where they must survive for a year. Only those who reach Nirvana may go on to compete for places in the super sects. Demon beasts there carry Nirvana Pills, but at night the energy turns into evil qi that weakens humans and strengthens beasts. The group shelters in Yang City, a ruin held by the Holy Light Dynasty, whose Jin Mu charges ten Nirvana Pills to enter and kills those who refuse. A beast tide strikes at night, and Lin Dong saves Mu Hongling. Jin Mu then demands half of everyone's pills, and Lin Dong refuses to kneel. A second, larger tide comes, and Jin Mu secretly orders Xia Huang to get rid of Lin Dong.",
+  "events": [
+    "Mo Jingtian sends the five off and tells Mo Ling to make friends with Lin Dong.",
+    "Mo Ling explains the one-year rule and that only Nirvana experts may go further in.",
+    "The group kills a pack of beasts and finds Nirvana Pills inside them.",
+    "Holy Light Dynasty guards under Jin Mu charge ten Nirvana Pills to enter Yang City and kill those who resist.",
+    "Little Mink shields Lin Dong from the evil qi, while Lin Langtian's inner spirit does the same for him.",
+    "In the night's beast tide Lin Dong saves Mu Hongling.",
+    "Jin Mu demands half the pills; Lin Dong refuses to kneel, and a second, larger tide arrives.",
+    "Jin Mu splits the defence over three walls and orders Xia Huang to kill Lin Dong."
+  ],
+  "introduced": [
+    "Jin Mu",
+    "Xia Huang",
+    "Mu Hongling",
+    "Holy Light Dynasty",
+    "Yang City",
+    "Nirvana Pill",
+    "evil qi",
+    "beast tide"
+  ],
+  "cultivation": "Jin Mu is Half-step Nirvana. In the Ancient Battlefield only those who reach Nirvana may compete for places in the super sects.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "mo-jingtian",
+      "name": "Mo Jingtian"
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling"
+    },
+    {
+      "id": "lin-fan",
+      "name": "Lin Fan"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian"
+    },
+    {
+      "id": "du-yun",
+      "name": "Du Yun"
+    },
+    {
+      "id": "man-shan",
+      "name": "Man Shan"
+    },
+    {
+      "id": "jin-mu",
+      "name": "Jin Mu",
+      "realm": "Half-step Nirvana",
+      "quote": "对方是半步涅槃境强者 (693.5)",
+      "first": true,
+      "card": 666.5
+    },
+    {
+      "id": "mu-hongling",
+      "name": "Mu Hongling",
+      "first": true,
+      "card": 1013.6
+    },
+    {
+      "id": "xia-huang",
+      "name": "Xia Huang",
+      "first": true,
+      "card": 1276.4
+    }
+  ],
+  "terms": [
+    [
+      "圣光王朝",
+      "Holy Light Dynasty",
+      "Holy Light Dynasty"
+    ],
+    [
+      "阳城",
+      "Yang City",
+      "Yangcheng"
+    ],
+    [
+      "涅槃丹",
+      "Nirvana Pill",
+      "Nirvana Pill"
+    ],
+    [
+      "煞气",
+      "evil qi",
+      "evil spirits"
+    ],
+    [
+      "兽潮",
+      "beast tide",
+      "tide of beasts / beast tide"
+    ],
+    [
+      "超级宗派",
+      "super sects",
+      "super sect"
+    ],
+    [
+      "半步涅槃",
+      "Half-step Nirvana",
+      "half-step to Nirvana"
+    ],
+    [
+      "金台镇魔掌",
+      "Subduing Golden Platform Magic Palm",
+      "Jintai Town Devil's Palm"
+    ],
+    [
+      "逸仙剑",
+      "Yixian Sword",
+      "Yixian Sword"
+    ],
+    [
+      "天罗剑诀",
+      "Heavenly Luo Sword Art",
+      "Tianluo Jianjue"
+    ],
+    [
+      "盘云开山裂",
+      "Coiling Cloud Mountain Splitter",
+      "Panyun splits the mountain"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Nirvana Pills from beasts"
+    ],
+    "losses": [
+      "entry fee of Nirvana Pills"
+    ],
+    "places": [
+      "Imperial City",
+      "Ancient Battlefield",
+      "Yang City"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "Recap of EP50 runs about 173-221 s.",
+    "Who uses 金台镇魔掌 (1353.6), 逸仙剑 (1359.5), 天罗剑诀 (1365.0) and 盘云开山裂 (1367.4) on the wall is not stated; 天罗剑诀 is presumably Du Yun's (Heavenly Luo Sect), and the wiki lists the palm as Lin Dong's.",
+    "Cards: Jin Mu 666.5 (addressed by his men, at the gate); Mu Hongling 1013.6 (introduces herself to Lin Dong); Xia Huang 1276.4 (addressed by Jin Mu). No name cards.",
+    "Holy Light Dynasty: the official English uses this every time; the wiki says Saint Light Empire."
+  ]
+}

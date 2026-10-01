@@ -1,0 +1,202 @@
+{
+  "ep": 30,
+  "title": "Great Puppet City",
+  "summary": "Little Flame helps Lin Dong escape the waking Ancient Dragon Ape into a cave, where he refines the ape's violent blood essence and masters the Demon Ape Transformation. When Gu Yan finds him that night, Lin Dong combines it with the Copper Thunder Body and his halberd and gets away. Little Mink explains that the halberd's true dragon blood is waking, so it can be raised to a high-grade Soul Treasure. At the Martial Alliance auction in Great Puppet City, Lin Dong buys the Magic Scales Gold Heart. On Little Mink's advice he also outbids Hua Zong of the Yin Puppet Sect, paying 100,000 Pure Yuan Pills for a strange prayer mat. He meets Mu Qianqian of the Great Demon Sect, and Grand Master Cheng upgrades his halberd at the Thousand Treasure Tower. Hua Zong then demands to buy the halberd and gives Lin Dong one day to think it over.",
+  "events": [
+    "Little Flame transforms and carries Lin Dong past the Ancient Dragon Ape into a cave.",
+    "Lin Dong refines the Dragon Ape blood essence, fights off its violent will and masters the Demon Ape Transformation.",
+    "He beats back Gu Yan with the Demon Ape Transformation, the Copper Thunder Body and the Heavenly Dragon Halberd, then escapes.",
+    "The Ancient Heavenly Scales Halberd's true dragon blood begins to show, and it needs materials and a Symbol Master to be upgraded.",
+    "At the Martial Alliance auction in Great Puppet City, Lin Dong buys the Magic Scales Gold Heart for 20,000 and a mysterious prayer mat for 100,000.",
+    "He meets Mu Qianqian of the Great Demon Sect and her rival bidder Hua Zong of the Yin Puppet Sect.",
+    "Grand Master Cheng refines the halberd into a high-grade Soul Treasure, and Hua Zong gives Lin Dong one day to sell it to him."
+  ],
+  "introduced": [
+    "Mu Qianqian",
+    "Hua Zong",
+    "Grand Master Cheng",
+    "Great Puppet City",
+    "Martial Alliance",
+    "Yin Puppet Sect",
+    "Great Demon Sect",
+    "Thousand Treasure Tower",
+    "Magic Scales Gold Heart",
+    "Mysterious Earth Armor"
+  ],
+  "cultivation": "Lin Dong masters the Demon Ape Transformation with Ancient Dragon Ape blood and can combine it with the Copper Thunder Body. Gu Yan is Qi Creation. Mu Qianqian is at least Qi Creation initial. The Ancient Heavenly Scales Halberd becomes a high-grade Soul Treasure.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "look": "Demon Ape Transformation: an ape form unlike Luo Jiu's (Ancient Dragon Ape blood)"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame",
+      "look": "transforms into its large battle form"
+    },
+    {
+      "id": "ancient-dragon-ape",
+      "name": "Ancient Dragon Ape"
+    },
+    {
+      "id": "gu-yan",
+      "name": "Gu Yan",
+      "realm": "Qi Creation",
+      "quote": "老夫可是造气境强者 (704.8)"
+    },
+    {
+      "id": "hua-zong",
+      "name": "Hua Zong",
+      "first": true,
+      "card": 1691.3
+    },
+    {
+      "id": "mu-qianqian",
+      "name": "Mu Qianqian",
+      "realm": "Qi Creation initial",
+      "quote": "这个女子至少也是造气境小成 (1127.1)",
+      "first": true,
+      "card": 1390.5
+    },
+    {
+      "id": "grand-master-cheng",
+      "name": "Grand Master Cheng",
+      "first": true,
+      "card": 1488.9
+    }
+  ],
+  "terms": [
+    [
+      "天鳞古戟",
+      "Ancient Heavenly Scales Halberd",
+      "Tianlin / Skyscale Ancient Halberd"
+    ],
+    [
+      "天龙真血",
+      "true dragon blood",
+      "Dragon True Blood"
+    ],
+    [
+      "高级灵宝",
+      "high-grade Soul Treasure",
+      "high-level / advanced Lingbao"
+    ],
+    [
+      "古剑镇山",
+      "Ancient Sword Mountain Suppression",
+      "Gujian Town Mountain"
+    ],
+    [
+      "古剑汇天",
+      "Ancient Sword Gathering Heaven",
+      "Gu Jian Hui Tian"
+    ],
+    [
+      "大傀城",
+      "Great Puppet City",
+      "big puppet city"
+    ],
+    [
+      "武盟",
+      "Martial Alliance",
+      "Wumeng"
+    ],
+    [
+      "阴傀宗",
+      "Yin Puppet Sect",
+      "Yin Puppet Sect"
+    ],
+    [
+      "大魔门",
+      "Great Demon Sect",
+      "Great Demon Sect / Great Demon Gate"
+    ],
+    [
+      "媚术",
+      "Charm Technique",
+      "charm"
+    ],
+    [
+      "天生媚体",
+      "natural charm body",
+      "naturally beautiful"
+    ],
+    [
+      "魔鳞金心",
+      "Magic Scales Gold Heart",
+      "Demon Scale Golden Heart"
+    ],
+    [
+      "冰晶玄铁",
+      "Ice Crystal Mysterious Iron",
+      "Ice Crystal Dark Iron"
+    ],
+    [
+      "玄黄地甲",
+      "Mysterious Earth Armor",
+      "Mystic Yellow Dijia"
+    ],
+    [
+      "神秘蒲团",
+      "mysterious prayer mat",
+      "mysterious futon"
+    ],
+    [
+      "灵符师",
+      "Spirit Symbol Master",
+      "senior talisman master"
+    ],
+    [
+      "万宝楼",
+      "Thousand Treasure Tower",
+      "Wanbao Building"
+    ],
+    [
+      "精神之火",
+      "Mental Energy Fire",
+      "spiritual fire"
+    ],
+    [
+      "程大师",
+      "Grand Master Cheng",
+      "Master Cheng"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Demon Ape Transformation (mastered)",
+      "Magic Scales Gold Heart",
+      "mysterious prayer mat",
+      "Ancient Heavenly Scales Halberd upgraded to a high-grade Soul Treasure"
+    ],
+    "losses": [
+      "Dragon Ape blood essence (refined)",
+      "about 170,000 Pure Yuan Pills spent (20,000 + 100,000 at auction, 50,000 to Grand Master Cheng)"
+    ],
+    "places": [
+      "Ancient Wasteland cave",
+      "Ancient Wasteland",
+      "Great Puppet City",
+      "Martial Alliance auction hall",
+      "Thousand Treasure Tower"
+    ]
+  },
+  "flags": [
+    "144.1: the recap has Little Mink say the Myriad Beast Fruit could turn the Copper Thunder Body into a Jade Thunder Body; the EP29 line (518.5) only says 'your strength will go further'.",
+    "阴傀宗: the official English always says 'Yin Puppet Sect', so I used that; the wiki title is 'Ghastly Puppet Cult'. 大魔门: the subtitles say 'Great Demon Sect'; the wiki says 'Great Devil Sect'.",
+    "Mu Qianqian: the subtitles (1127.1) say at least 造气境小成; the wiki gives Advanced Form Creation. The subtitles win.",
+    "885.8 高级灵符师 / 1528 'refine into a high-grade Soul Treasure': Grand Master Cheng is the Symbol Master who does it, using Mental Energy Fire (1611.6).",
+    "1678.4 万宝楼: the official English says 'Wanbao Building' (twice); I used the wiki's 'Thousand Treasure Tower' (in Great Puppet City).",
+    "Recap runs to about 175 s."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

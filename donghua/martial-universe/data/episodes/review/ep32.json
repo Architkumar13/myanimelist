@@ -1,0 +1,108 @@
+{
+  "ep": 32,
+  "title": "Hua Gu's Revenge",
+  "summary": "Mu Qianqian learns that Lin Dong killed Hua Zong, and that his father, Elder Hua Gu, has sent the whole Yin Puppet Sect branch after him. Lin Dong absorbs Hua Zong's Mental Strength in a hiding place, then starts refining the Myriad Beast Fruit to grow stronger fast. Hua Gu, a Qi Creation advanced expert, finds the hideout, and Little Mink, in his demon spirit form, and Little Flame hold him off until they are badly hurt. Lin Dong comes out and fights Hua Gu with the Demon Ape Transformation, his halberd and Yuan Essence Power, and the injured Hua Gu flees. Lin Dong collapses and wakes inside the Great Demon Sect, where Mu Qianqian has taken him in. She invites him to join and warns him that the Yin Puppet Sect and the Four Great Clans will be at the Great Desolate Ancient Tablet. He refuses her offer and insists he must go.",
+  "events": [
+    "Mu Qianqian's maid reports that Hua Gu has sent every man of his Yin Puppet Sect branch after Lin Dong.",
+    "Lin Dong absorbs Hua Zong's Mental Strength, then begins refining the Myriad Beast Fruit while Little Mink and Little Flame stand guard.",
+    "Hua Gu finds them; Little Mink appears as a demon spirit, and he and Little Flame hold Hua Gu off at great cost.",
+    "Lin Dong emerges and fights Hua Gu with the Demon Ape Transformation, the Heavenly Dragon Halberd and Yuan Essence Power.",
+    "The wounded Hua Gu runs, and Lin Dong passes out.",
+    "He wakes in the Great Demon Sect, rescued by Mu Qianqian, and turns down her offer to join.",
+    "She warns him the Yin Puppet Sect and the Four Great Clans will be at the tablet; he still means to go."
+  ],
+  "introduced": [
+    "Four Great Clans"
+  ],
+  "cultivation": "Hua Gu is Qi Creation advanced. Little Mink says refining the Myriad Beast Fruit should lift Lin Dong to at least Form Creation peak and push his Copper Thunder Body further. Little Mink cannot beat a Qi Creation fighter in his present state.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink",
+      "look": "fights in a demon spirit (妖灵) form"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "hua-gu",
+      "name": "Hua Gu",
+      "realm": "Qi Creation advanced",
+      "quote": "不过想要硬撼我造气境大成的实力 (1069.0)"
+    },
+    {
+      "id": "mu-qianqian",
+      "name": "Mu Qianqian"
+    }
+  ],
+  "terms": [
+    [
+      "华骨",
+      "Hua Gu",
+      "Huagu / Hua Gu"
+    ],
+    [
+      "妖灵",
+      "demon spirit",
+      "demon spirit"
+    ],
+    [
+      "撕天魔轮",
+      "Sky-Tearing Devil Wheel",
+      "Tear the magic wheel"
+    ],
+    [
+      "天骨壁",
+      "Heaven Bone Wall",
+      "Sky bone wall"
+    ],
+    [
+      "灭魂骨矛",
+      "Soul-Destroying Bone Spear",
+      "Soul Slayer Spear"
+    ],
+    [
+      "万骨阴煞甲",
+      "Myriad Bone Yin Sha Armor",
+      "Bone Yin Sha Armor"
+    ],
+    [
+      "四大宗族",
+      "Four Great Clans",
+      "four major clans / Four Clans"
+    ],
+    [
+      "造形境大成",
+      "Form Creation peak",
+      "Great Achievement of the Forming Realm"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Hua Zong's Mental Strength (fully absorbed)"
+    ],
+    "losses": [
+      "Myriad Beast Fruit (refined)"
+    ],
+    "places": [
+      "hideout in the wilds near Great Puppet City",
+      "Great Demon Sect"
+    ]
+  },
+  "flags": [
+    "The episode never states the result of refining the Myriad Beast Fruit. Little Mink predicts at least Form Creation peak (337.2), but no new realm is stated, so hero.realm is null.",
+    "1140.1 清竹 姑娘: as he passes out, Lin Dong seems to mistake his rescuer for Ling Qingzhu; she is Mu Qianqian.",
+    "1247.8: Lin Dong says Hua Gu won only because he was greedy for life and ran; Mu Qianqian says Lin Dong 'seriously injured' Hua Gu.",
+    "Recap runs to about 185 s."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

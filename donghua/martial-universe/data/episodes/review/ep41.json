@@ -1,0 +1,175 @@
+{
+  "ep": 41,
+  "title": "Breaking the Ancestral Symbol's Seal",
+  "summary": "Teng Lei leads Lin Dong to Yin Puppet City by a back path over Yin Puppet Mountain, hoping its Yin Sha energy will kill him, but Little Mink gets them through. At the sign of opposition Teng Sha and his elders set up the Nine Yin Devil Formation to break the treasure's seal, and Lin Dong's Destiny Spirit Symbol tells him it is the Ancestral Symbol. Nearby, Ling Qingzhu and Old Ma Yi of the Nine Heavens Taiqing Palace pass Sky Flame Mountain on another mission. The seal opens, but a remnant of the Black-Eyed Elder appears and drains the sect's experts with the Death Force. Mu Lei of the Great Demon Sect and Wu Zong of the Martial Alliance then attack to take the treasure. Teng Sha shows two high-grade Symbol Puppets and reveals that he has reached Manifestation peak, beating both men. In the end the three sects agree that nine Manifestation experts will break the seal together, and at that moment Lin Dong bursts in.",
+  "events": [
+    "Teng Lei sends Lin Dong over the Yin Sha-filled Yin Puppet Mountain; Little Mink handles the energy.",
+    "Teng Sha's sect raises the Nine Yin Devil Formation at the sign of opposition; Lin Dong's Destiny Spirit Symbol senses the Ancestral Symbol.",
+    "Ling Qingzhu and Old Ma Yi pass by; she senses strange Yuan Power but keeps to her master's task.",
+    "The seal breaks open, but the Black-Eyed Elder's afterimage appears and drains the elders with the Death Force.",
+    "Mu Lei and Wu Zong arrive; a three-sect fight breaks out and the Yin Puppet Sect brings out two high-grade Symbol Puppets.",
+    "Teng Sha reveals he is at Manifestation peak and beats Mu Lei and Wu Zong.",
+    "The three sects agree to break the seal together with nine Manifestation experts; Lin Dong charges in."
+  ],
+  "introduced": [
+    "Old Ma Yi",
+    "Wu Zong",
+    "Yin Puppet Mountain",
+    "Nine Yin Devil Formation",
+    "Nine Yin Blood Eye",
+    "Death Force",
+    "sign of opposition"
+  ],
+  "cultivation": "Teng Sha says he recently broke through to Manifestation peak. The Great Demon Sect and Martial Alliance elders are all at least Manifestation; nine Manifestation experts gather to break the seal.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "teng-lei",
+      "name": "Teng Lei"
+    },
+    {
+      "id": "teng-sha",
+      "name": "Teng Sha",
+      "realm": "Manifestation peak",
+      "quote": "我已突破至造化境大成 (1167.4)"
+    },
+    {
+      "id": "cao-zhen",
+      "name": "Cao Zhen"
+    },
+    {
+      "id": "black-eyed-elder",
+      "name": "Black-Eyed Elder",
+      "look": "a shadowy afterimage"
+    },
+    {
+      "id": "ling-qingzhu",
+      "name": "Ling Qingzhu"
+    },
+    {
+      "id": "old-ma-yi",
+      "name": "Old Ma Yi",
+      "first": true,
+      "card": 547.9
+    },
+    {
+      "id": "mu-lei",
+      "name": "Mu Lei"
+    },
+    {
+      "id": "mu-qianqian",
+      "name": "Mu Qianqian"
+    },
+    {
+      "id": "wu-zong",
+      "name": "Wu Zong",
+      "first": true,
+      "card": 913.8
+    }
+  ],
+  "terms": [
+    [
+      "阴傀山",
+      "Yin Puppet Mountain",
+      "Yinpuppet Mountain"
+    ],
+    [
+      "冲日之象",
+      "sign of opposition",
+      "opposition sign"
+    ],
+    [
+      "九阴魔玄阵",
+      "Nine Yin Devil Formation",
+      "Nine Yin Devil's Array"
+    ],
+    [
+      "九阴血眼",
+      "Nine Yin Blood Eye",
+      "Nine Yin Bloody Eyes"
+    ],
+    [
+      "地煞寒气",
+      "Earth Sha cold energy",
+      "evil chill in the earth"
+    ],
+    [
+      "本命灵符",
+      "Destiny Spirit Symbol",
+      "natal charm"
+    ],
+    [
+      "死亡之力",
+      "Death Force",
+      "death force"
+    ],
+    [
+      "麻老 / 麻衣老人",
+      "Old Ma Yi",
+      "Mr. Ma"
+    ],
+    [
+      "少宫主",
+      "Young Palace Mistress",
+      "Young Master"
+    ],
+    [
+      "天炎山",
+      "Sky Flame Mountain",
+      "Tianyan Mountain"
+    ],
+    [
+      "武宗",
+      "Wu Zong",
+      "Wu Zong"
+    ],
+    [
+      "无极玄体",
+      "Limitless Profound Body",
+      "Infinite Mysterious Body"
+    ],
+    [
+      "魔鹰裂",
+      "Demon Eagle Rend",
+      "Magic Eagle Split"
+    ],
+    [
+      "大荒郡三大宗派",
+      "three great sects of the Great Desolate Province",
+      "three major sects in Dahuang County"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [],
+    "losses": [],
+    "places": [
+      "Yin Puppet Mountain back path",
+      "Yin Puppet City"
+    ]
+  },
+  "flags": [
+    "Recap runs to about 215 s.",
+    "547.9 cue '少宫主 （麻衣老人）' reads like a caption naming Old Ma Yi; used as his card.",
+    "564.3 林老 is a slip for 麻老.",
+    "601.4 清竹姑娘 / 605.0 是我的: brief flashback of the Sky Flame tomb, not a new meeting.",
+    "Wiki formation name is 'Nine Yin Mysterious Black Devil Formation'; I shortened to the subtitle form. 天炎山 matches the earlier term 天炎山脉 Sky Flame Mountain Range.",
+    "Wu Zong's card 913.8 is Teng Sha addressing him face to face.",
+    "Who uses 无极玄体 / 魔鹰裂 (1128-1134) is not stated."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

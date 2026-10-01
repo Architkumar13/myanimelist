@@ -1,0 +1,105 @@
+{
+  "ep": 42,
+  "title": "Into the Xuanyin Crack",
+  "summary": "Lin Dong breaks the treasure's seal himself and runs off with the Ancestral Symbol, knocking Cao Zhen back with one punch. Mu Lei and Wu Zong stay out of it, and the whole Yin Puppet Sect gives chase. Lin Dong fights its high-grade Symbol Puppets with his own Symbol Puppet and the Demon Ape Transformation, then takes Teng Lei as a hostage to make Teng Sha back off. Teng Sha strikes anyway, through his own son, leaving Teng Lei half dead and Lin Dong badly hurt; Little Flame carries Lin Dong to the Xuanyin Crack, but Teng Sha keeps up with them. There Lin Dong's Great Desolate Heaven-Imprisoning Finger meets Teng Sha's Manifestation martial art and loses. With no way out, Lin Dong leads Teng Sha on and leaps into the deadly cold depths of the crack. Teng Sha orders his whole sect to guard the crack until Lin Dong is found, alive or dead.",
+  "events": [
+    "The seal breaks and Lin Dong seizes the Ancestral Symbol, punching Cao Zhen back.",
+    "Teng Sha warns Mu Lei and Wu Zong off; they hope Lin Dong escapes.",
+    "Lin Dong fights the pursuers with his Symbol Puppet and the Demon Ape Transformation.",
+    "He holds Teng Lei hostage; Teng Sha promises safe passage, then strikes through his son.",
+    "Little Flame carries the wounded Lin Dong to the Xuanyin Crack with Teng Sha close behind.",
+    "Teng Sha's Manifestation martial art beats the Great Desolate Heaven-Imprisoning Finger.",
+    "Lin Dong and his companions jump into the depths; the Yin Puppet Sect stations disciples around the crack."
+  ],
+  "introduced": [
+    "Xuanyin Crack",
+    "Manifestation Mountain Wall"
+  ],
+  "cultivation": "Teng Sha is Manifestation peak; Lin Dong is still Qi Creation and can use only a fraction of his Manifestation martial art.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Qi Creation",
+      "quote": "一个造气境的小子 (235.0)",
+      "look": "wounded in the chest"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "teng-sha",
+      "name": "Teng Sha",
+      "realm": "Manifestation peak",
+      "quote": "可是造化境大成强者 (686.4)"
+    },
+    {
+      "id": "teng-lei",
+      "name": "Teng Lei",
+      "look": "left half dead"
+    },
+    {
+      "id": "cao-zhen",
+      "name": "Cao Zhen"
+    },
+    {
+      "id": "mu-lei",
+      "name": "Mu Lei"
+    },
+    {
+      "id": "wu-zong",
+      "name": "Wu Zong"
+    }
+  ],
+  "terms": [
+    [
+      "祖符",
+      "Ancestral Symbol",
+      "ancestral talisman"
+    ],
+    [
+      "玄阴涧",
+      "Xuanyin Crack",
+      "Xuanyin Stream"
+    ],
+    [
+      "造化山壁",
+      "Manifestation Mountain Wall",
+      "Creation mountain wall"
+    ],
+    [
+      "玉石俱焚",
+      "to die together",
+      "die together"
+    ]
+  ],
+  "hero": {
+    "realm": "Qi Creation",
+    "gains": [
+      "Ancestral Symbol (the Devouring Ancestral Symbol, still unrefined)"
+    ],
+    "losses": [
+      "badly wounded"
+    ],
+    "places": [
+      "Yin Puppet City",
+      "Yin Puppet Mountain",
+      "Xuanyin Crack"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "Recap runs to about 216 s.",
+    "620.6 '林动 你我二人合力 还有逃脱的机会': speaker not identified (probably Little Mink).",
+    "玄阴涧: official English says 'Xuanyin Stream' here and 'Xuanyin Crack' in EP43-44; I used 'Xuanyin Crack'. The wiki's place is Mysterious Black Yin Mountain.",
+    "1092.0 造化山壁 is Teng Sha's technique; EP44's official English calls a Teng Sha move 'Befalling Mountains', probably the same art."
+  ]
+}

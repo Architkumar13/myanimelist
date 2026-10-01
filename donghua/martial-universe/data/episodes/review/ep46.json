@@ -1,0 +1,143 @@
+{
+  "ep": 46,
+  "title": "Old Ma Yi's Pursuit",
+  "summary": "In Lin City, Elder Lin Mu recommends Lin Dong to patriarch Lin Fan, and other elders mock the branch family. Lin Langtian is put in charge of the Lin Clan Gathering, and alone he hears a voice inside him order him to kill Lin Dong and bring it the thing Lin Dong carries. Elder Lin Zheng plans to make trouble for the Yan City branch. Lin Dong perfects the Great Sun Thunder Body, but Old Ma Yi, a Nirvana expert, catches him while hunting for the Devouring Ancestral Symbol. Lin Dong fights back with the Blood Spirit Puppet and the Power of Devouring; then he hands over an Ancestral Symbol rubbing instead of the real Symbol. Ma Yi swaps it for a Manifestation-level martial art, which turns out to be incomplete; Ling Qingzhu then arrives and kills Ma Yi for disobeying orders, even after he burns his own blood essence. Lin Dong hides and does not show himself, and he leaves for Lin City as the clan competition begins.",
+  "events": [
+    "Elder Lin Mu speaks up for Lin Dong; Lin Fan gives Lin Langtian charge of the clan competition.",
+    "A voice inside Lin Langtian orders him to kill Lin Dong and bring back what he carries.",
+    "Elder Lin Zheng promises Lin Langtian to make things hard for the Yan City branch.",
+    "After two months Lin Dong perfects the Great Sun Thunder Body.",
+    "Old Ma Yi, a Nirvana expert, attacks to search Lin Dong for the Devouring Ancestral Symbol; Lin Dong uses the Blood Spirit Puppet and the Power of Devouring.",
+    "Lin Dong tricks him with an Ancestral Symbol rubbing and gets an incomplete Manifestation-level martial art in exchange.",
+    "Ling Qingzhu kills Ma Yi for acting without orders; Lin Dong watches from hiding.",
+    "Lin Dong heads to Lin City, and the clan competition opens."
+  ],
+  "introduced": [
+    "Lin Fan",
+    "Lin Zheng",
+    "Lin City",
+    "the voice inside Lin Langtian",
+    "Taiqing Heaven-Roaming Step"
+  ],
+  "cultivation": "Lin Dong perfects the Great Sun Thunder Body and is Half-step Manifestation. Old Ma Yi is a Nirvana expert.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Half-step Manifestation",
+      "quote": "Half-step creation realm (670.6)"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "blood-spirit-puppet",
+      "name": "Blood Spirit Puppet"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian"
+    },
+    {
+      "id": "lin-mu",
+      "name": "Lin Mu"
+    },
+    {
+      "id": "lin-fan",
+      "name": "Lin Fan",
+      "first": true,
+      "card": 302.7
+    },
+    {
+      "id": "lin-zheng",
+      "name": "Lin Zheng",
+      "first": true,
+      "card": 398.6
+    },
+    {
+      "id": "old-ma-yi",
+      "name": "Old Ma Yi",
+      "realm": "Nirvana",
+      "quote": "It's the breath of a strong man in Nirvana (632.3)",
+      "look": "killed"
+    },
+    {
+      "id": "ling-qingzhu",
+      "name": "Ling Qingzhu"
+    }
+  ],
+  "terms": [
+    [
+      "林城",
+      "Lin City",
+      "Lin City"
+    ],
+    [
+      "族长",
+      "patriarch",
+      "patriarch"
+    ],
+    [
+      "大日雷体 大成",
+      "Great Sun Thunder Body, perfected",
+      "Thunder Body Dacheng"
+    ],
+    [
+      "拓印",
+      "Ancestral Symbol rubbing",
+      "rubbing of the Ancestral Seal"
+    ],
+    [
+      "",
+      "Taiqing Heaven-Roaming Step",
+      "Taiqing Tour Tianbu"
+    ],
+    [
+      "化血归元",
+      "Blood Transformation Art",
+      "Refining blood and returning to origin"
+    ],
+    [
+      "",
+      "Rakshasa",
+      "Rakshasa"
+    ],
+    [
+      "天玄大陆",
+      "Sky Profound Continent",
+      "Tianxuan Continent"
+    ]
+  ],
+  "hero": {
+    "realm": "Half-step Manifestation",
+    "gains": [
+      "Great Sun Thunder Body perfected",
+      "incomplete Taiqing Heaven-Roaming Step manual"
+    ],
+    "losses": [
+      "an Ancestral Symbol rubbing"
+    ],
+    "places": [
+      "wilderness on the way to Lin City",
+      "Lin City"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "The ep46.zh.srt file holds English text, not Chinese (it is a second English track). Names and terms were checked against earlier Chinese episodes and wiki page titles only; quotes are English lines.",
+    "Recap runs to about 210 s.",
+    "Card 302.7 is Lin Langtian greeting the patriarch; Lin Fan is named at 443.5. Card 398.6 is Lin Langtian addressing Lin Zheng face to face.",
+    "'Taiqing Tour Tianbu' (979.2) rendered as Taiqing Heaven-Roaming Step; no Chinese available.",
+    "'Refining blood and returning to origin' (1117.8) looks like 化血归元, the Blood Transformation Art of EP9.",
+    "1262.7-1268.6: unclear whether Ling Qingzhu speaks to the hidden Lin Dong or Lin Dong is thinking; I wrote only that he stays hidden.",
+    "'Lin Dong is the Ancestral Symbol holder' (1293.3) is Little Mink."
+  ]
+}

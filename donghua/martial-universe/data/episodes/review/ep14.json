@@ -1,0 +1,117 @@
+{
+  "ep": 14,
+  "title": "The Tower Battle Begins",
+  "summary": "Zi Yue escorts Lin Dong to the Symbol Master Guild on the day of the Tower Battle. Liu Long, Cao Zhu's senior brother, demands the Mysterious Ice Swords back, and Lin Dong refuses. Sky Fire City's leader Han Yun, a 4th Seal Symbol Master like Master Yan, mocks Lin Dong as a last-minute newcomer with only half a year of training. The Symbol Master Tower opens, and its pressure stops some entrants on the first floor, while each floor Lin Dong climbs makes his Mental Strength grow. On the fifth floor Liu Long and Cao Zhu ambush him and demand the swords, 20,000 Yang Yuan Stones and an apology. Lin Dong defeats them even after they merge their spirits, his Ancient Swirl Symbol drinks the mental power off their swords, and he takes Liu Long's Lihuo Sword before climbing on.",
+  "events": [
+    "Zi Yue brings Lin Dong to the guild; Zhou Tong is pointed out as the one who won the last two Tower Battles.",
+    "Liu Long introduces himself and asks for Cao Zhu's Mysterious Ice Swords; Zi Yue backs Lin Dong.",
+    "Han Yun and Master Yan trade words, and the Symbol Master Tower is opened.",
+    "Lin Dong climbs fast, gaining Mental Strength on each floor, while Zhou Tong pulls ahead.",
+    "Liu Long and Cao Zhu wait on the fifth floor to beat Lin Dong and take the swords.",
+    "Lin Dong controls three Mysterious Ice Swords and the Yuan-Shattering Shuttle at once; the pair merge their spirits and attack with the Lihuo Sword.",
+    "His Destiny Symbol absorbs the mental power on their swords; he wins and keeps the Lihuo Sword.",
+    "Han Yun expects Zhou Tong and Zi Yue to be the two on the sixth floor; Master Yan says the surprise comes last."
+  ],
+  "introduced": [
+    "Liu Long",
+    "Han Yun (named)",
+    "Lihuo Sword",
+    "Ancient Swirl Symbol"
+  ],
+  "cultivation": "Han Yun is a 4th Seal Symbol Master, like Master Yan. Zhou Tong is called a 2nd Seal Symbol Master at the peak.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "zi-yue",
+      "name": "Zi Yue"
+    },
+    {
+      "id": "liu-long",
+      "name": "Liu Long",
+      "first": true,
+      "card": 331.2
+    },
+    {
+      "id": "cao-zhu",
+      "name": "Cao Zhu"
+    },
+    {
+      "id": "zhou-tong",
+      "name": "Zhou Tong"
+    },
+    {
+      "id": "han-yun",
+      "name": "Han Yun"
+    },
+    {
+      "id": "master-yan",
+      "name": "Master Yan"
+    }
+  ],
+  "terms": [
+    [
+      "刘隆",
+      "Liu Long",
+      "Liu Long"
+    ],
+    [
+      "韩允",
+      "Han Yun",
+      "Han Yun"
+    ],
+    [
+      "精神威压",
+      "mental pressure",
+      "spiritual coercion"
+    ],
+    [
+      "精神光柱",
+      "mental light pillar",
+      "spiritual beam"
+    ],
+    [
+      "洗礼之力",
+      "baptism power",
+      "baptism"
+    ],
+    [
+      "合神",
+      "Spirit Merge",
+      "spirit combination"
+    ],
+    [
+      "离火剑",
+      "Lihuo Sword",
+      "Lihuo Sword"
+    ],
+    [
+      "古玄符印",
+      "Ancient Swirl Symbol",
+      "Ancient Profound Sigil"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Lihuo Sword (taken from Liu Long)",
+      "Mental Strength from the tower floors"
+    ],
+    "losses": [],
+    "places": [
+      "Symbol Master Guild, Yan City",
+      "Symbol Master Tower (floors 1-5)"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "Recap 141-168 is EP13 material.",
+    "Liu Long card 331.2 is his self-introduction line, not a name card.",
+    "1255 古玄符印: the wiki calls the item Lin Dong learned from the Ancient Swirl Symbol (古漩); 古玄 is probably a homophone in the Chinese track.",
+    "1308-1310: Lin Dong asks the pair for 50,000 Yang Yuan Stones; whether they pay is not shown. At 1345 he thanks them for their 'gift' and takes the Lihuo Sword.",
+    "1197 合神 is my reading of the merge move; the English is 'combine'."
+  ]
+}

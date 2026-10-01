@@ -1,0 +1,140 @@
+{
+  "ep": 37,
+  "title": "Two Creation Martial Arts",
+  "summary": "Lin Dong breaks through to Qi Creation inside the Manifestation Martial Tablet and then receives the ancient sect's Manifestation martial art. Most of the young fighters come out with nothing, but Lin Langtian also wins a Manifestation martial art. Lin Ke-er introduces Lin Dong to Elder Lin Mu of the Lin Clan, who praises him and hopes he does well at the clan competition. Lin Langtian then reveals that an ancient sect's underground palace lies under the monument, with treasure and a powerful guardian beast. The Four Great Clans, the Great Demon Sect, the Yin Puppet Sect and many others go in together. The four clans wound the guardian, an Ancient Blood Bat Dragon, with their Four Symbols formation, and it flees. Lin Dong, Little Mink and Little Flame track it down and finish it off with the Subduing Golden Platform Magic Palm and Lin Dong's Symbol Puppet, so Little Mink can take its demon spirit.",
+  "events": [
+    "Lin Dong breaks through to Qi Creation in the monument space, to the surprise of the watching crowd.",
+    "He accepts the ancient sect's inheritance and comes out with a Manifestation martial art; Lin Langtian also gets one.",
+    "Lin Ke-er introduces Lin Dong to Elder Lin Mu, who praises him ahead of the Lin Clan Gathering.",
+    "Lin Langtian announces the underground palace of the ancient sect and its guardian beast, and invites everyone to join.",
+    "The crowd breaks the formation and rushes in; the Four Great Clans wound the guardian with the Four Symbols formation.",
+    "Little Mink names the guardian an Ancient Blood Bat Dragon with true dragon blood and wants its demon spirit.",
+    "Lin Dong, Little Mink and Little Flame ambush the wounded dragon and bring it down; Little Mink and Little Flame squabble over it."
+  ],
+  "introduced": [
+    "Ancient Blood Bat Dragon",
+    "underground palace of the ancient sect",
+    "Four Symbols formation"
+  ],
+  "cultivation": "Lin Dong breaks through to Qi Creation inside the Manifestation Martial Tablet. Both he and Lin Langtian obtain Manifestation martial arts.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Qi Creation",
+      "quote": "林动竟能在此处突破至造气境 (425.9)"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian"
+    },
+    {
+      "id": "lin-ke-er",
+      "name": "Lin Ke-er"
+    },
+    {
+      "id": "lin-mu",
+      "name": "Lin Mu"
+    },
+    {
+      "id": "wang-yan",
+      "name": "Wang Yan"
+    },
+    {
+      "id": "wang-tong",
+      "name": "Wang Tong"
+    },
+    {
+      "id": "ancient-blood-bat-dragon",
+      "name": "Ancient Blood Bat Dragon",
+      "first": true,
+      "card": 1134.4
+    }
+  ],
+  "terms": [
+    [
+      "造化武学",
+      "Manifestation martial art",
+      "creation martial arts / good-luck martial arts"
+    ],
+    [
+      "造化武碑",
+      "Manifestation Martial Tablet",
+      "Manifestation Martial Tablet"
+    ],
+    [
+      "九品武学",
+      "9th-grade martial art",
+      "ninth-level martial arts"
+    ],
+    [
+      "地下宫殿",
+      "underground palace",
+      "underground palace"
+    ],
+    [
+      "守护兽",
+      "guardian beast",
+      "guardian beast"
+    ],
+    [
+      "远古血蝠龙",
+      "Ancient Blood Bat Dragon",
+      "ancient blood bat dragon"
+    ],
+    [
+      "四象大阵 / 四象杀",
+      "Four Symbols formation / Four Symbols Kill",
+      "Four images array / Four elephants kill"
+    ],
+    [
+      "金台镇魔掌",
+      "Subduing Golden Platform Magic Palm",
+      "Jintai Town Devil's Palm"
+    ],
+    [
+      "符傀",
+      "Symbol Puppet",
+      "Puppeteer"
+    ],
+    [
+      "林穆",
+      "Lin Mu",
+      "Elder Lin Mu / Uncle Mu"
+    ]
+  ],
+  "hero": {
+    "realm": "Qi Creation",
+    "gains": [
+      "Qi Creation breakthrough",
+      "Manifestation martial art from the ancient sect (named in EP38 as the Great Desolate Heaven-Imprisoning Finger)",
+      "share in the Ancient Blood Bat Dragon kill (its demon spirit goes to Little Mink)"
+    ],
+    "losses": [],
+    "places": [
+      "Manifestation Martial Tablet space",
+      "Great Desolate Ancient Tablet",
+      "underground palace of the ancient sect"
+    ]
+  },
+  "flags": [
+    "Recap of EP36 runs to about 180 s (monument space, the old master and his heir).",
+    "Lin Dong's martial art is not named in this episode; EP38 (1156.4) and EP40 (602.0) name it 大荒囚天指. The wiki synopsis says the same.",
+    "The wiki lists Tian Ze as debuting in EP37; he is not named here. The episode ends on 这是 (1418.3), which may show him; I marked his first appearance in EP38.",
+    "Wiki name for 远古血蝠龙 is 'Primordial Blood Bat Dragon'; I followed the official English 'ancient blood bat dragon' (and 远古 = Ancient as in Ancient Dragon Ape).",
+    "Little Flame is called 蠢虎 'stupid tiger' by Little Mink throughout.",
+    "Realm stage is not given ('造气境' only)."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

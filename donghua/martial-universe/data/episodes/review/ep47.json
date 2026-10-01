@@ -1,0 +1,150 @@
+{
+  "ep": 47,
+  "title": "The Lin Clan Gathering",
+  "summary": "At the Lin Clan Gathering the Yan City branch is drawn against strong clan disciples, a set-up by Elder Lin Zheng. Lin Feng and a clan fighter called Lin Mang badly beat Lin Hong and Lin Xia. Qing Tan surprises everyone by beating Lin Chen, and Lin Feng, a Qi Creation fighter, challenges her. She seals his Yuan Dan, so he secretly takes a pill and attacks with the Roaring Fire Palm. Lin Dong arrives and stops him, exposes the pill, and Lin Feng is taken away; Lin Dong then challenges Lin Langtian. Lin Zheng first makes him face the twins Lin Qing and Lin Mu, both at the top of Half-step Manifestation. Lin Dong takes them on together and beats both with a single move; Lin Langtian finally steps into the arena.",
+  "events": [
+    "The Yan City branch is drawn against top clan disciples; Lin Hong and Lin Xia are beaten badly.",
+    "Lin Xiao and Lin Zhentian see the draw was rigged.",
+    "Qing Tan beats Lin Chen; Lin Feng challenges her, and she seals his Yuan Dan.",
+    "Lin Feng takes a pill and attacks with the Roaring Fire Palm; Lin Dong steps in and stops him.",
+    "Lin Dong exposes the pill; Lin Mu has Lin Feng arrested and Qing Tan is declared the winner.",
+    "Lin Dong challenges Lin Langtian; Lin Zheng makes him face the twins Lin Qing and Lin Mu first.",
+    "Lin Dong beats both twins with one move, and Lin Langtian comes down to fight."
+  ],
+  "introduced": [
+    "Lin Feng",
+    "Lin Qing",
+    "Lin Mu (twin)",
+    "Roaring Fire Palm",
+    "Sky Shattering Devil Tablet Palm"
+  ],
+  "cultivation": "Lin Feng is Qi Creation. The twins Lin Qing and Lin Mu are at the top of Half-step Manifestation. Onlookers judge Lin Dong to be at least Half-step Manifestation.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Half-step Manifestation",
+      "quote": "he's at least in the Half Creation Phase (824.3)"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame",
+      "look": "much bigger"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan"
+    },
+    {
+      "id": "lin-hong",
+      "name": "Lin Hong"
+    },
+    {
+      "id": "lin-xia",
+      "name": "Lin Xia"
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao"
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian"
+    },
+    {
+      "id": "lin-chen",
+      "name": "Lin Chen"
+    },
+    {
+      "id": "lin-feng",
+      "name": "Lin Feng",
+      "realm": "Qi Creation",
+      "quote": "Lin Feng is a master of the Energy Creation Phase (553.1)",
+      "first": true,
+      "card": 464.0
+    },
+    {
+      "id": "lin-qing",
+      "name": "Lin Qing",
+      "realm": "Half-step Manifestation",
+      "quote": "masters in the peak of the Half Creation Phase (1046.9)",
+      "first": true,
+      "card": 1043.5
+    },
+    {
+      "id": "lin-mu-twin",
+      "name": "Lin Mu (twin)",
+      "realm": "Half-step Manifestation",
+      "quote": "masters in the peak of the Half Creation Phase (1046.9)",
+      "first": true,
+      "card": 1043.5
+    },
+    {
+      "id": "lin-zheng",
+      "name": "Lin Zheng"
+    },
+    {
+      "id": "lin-mu",
+      "name": "Lin Mu"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian"
+    }
+  ],
+  "terms": [
+    [
+      "林氏族比",
+      "Lin Clan Gathering",
+      "clan competition of the Lin Clan"
+    ],
+    [
+      "",
+      "Roaring Fire Palm",
+      "Roaring Fire Palm"
+    ],
+    [
+      "",
+      "Sky Shattering Devil Tablet Palm",
+      "Sky-wrecking Palm of Magical Tablet"
+    ],
+    [
+      "紫影九破",
+      "Purple Shadow Nine Breaks",
+      "Purple Shadow Slayers"
+    ],
+    [
+      "",
+      "Yan City branch",
+      "Yan City branch family"
+    ]
+  ],
+  "hero": {
+    "realm": "Half-step Manifestation",
+    "gains": [
+      "the right to challenge Lin Langtian"
+    ],
+    "losses": [],
+    "places": [
+      "Lin City arena"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "The ep47.zh.srt file holds English text, not Chinese (it is a second English track). Names and terms were checked against earlier Chinese episodes and wiki page titles only; quotes are English lines.",
+    "Recap runs to about 215 s.",
+    "323.4 'Lin Mang from the clan wins' against Lin Xia: a clan disciple, not the Qingyang Lin Mang (id lin-mang). Without Chinese I did not add him to the cast.",
+    "Two Lin Mus: Elder Lin Mu (林穆, id lin-mu) and the twin Lin Mu (id lin-mu-twin, wiki page Lin_Mu). Lin Zheng calls the elder 'Uncle Lin Mu' (517.7).",
+    "Card 464.0 is Lin Feng introducing himself; card 1043.5 is an onlooker naming the twins as they step up.",
+    "The twins' rank is 'peak of the Half Creation Phase'; there is no glossary string for that, so 'Half-step Manifestation'.",
+    "'Sky-wrecking Palm of Magical Tablet' (1128.3) matched to the wiki's Sky Shattering Devil Tablet Palm (the twins' art).",
+    "Mink and Flame: Little Flame appears at 896.5; Little Mink is not seen speaking."
+  ]
+}

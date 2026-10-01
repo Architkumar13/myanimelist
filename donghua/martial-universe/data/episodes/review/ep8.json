@@ -1,0 +1,155 @@
+{
+  "ep": 8,
+  "title": "The Rat in the Stone Talisman",
+  "summary": "At the Thousand Gold Auction Lin Dong sees Master Yan, now known as Yan City's strongest Symbol Master, and buys Void Spirit Grass for six hundred Yang Yuan Pills. The manager Xuan Su brings him to Master Yan and Zi Yue, and Lin Dong shows he has already condensed a Destiny Symbol. Master Yan explains that his Ancient Swirl Symbol is a rare Destiny Spirit Symbol with a power of absorption. Xuan Su asks him to fight for the Thousand Gold Association against the Blood Wolf Gang for a Celestial Dan Pool, and he agrees in exchange for a soak in the pool. Inside the Stone Talisman he meets Little Mink, a Celestial Demon Marten who hid there as a demon spirit. Little Mink explains that the talisman needs Yuan Power and that the pool can restore it, then leads him to a training place for Mental Strength.",
+  "events": [
+    "Lin Dong keeps a low profile at the auction, where Master Yan sells the Autumn Scale Sword.",
+    "He buys Void Spirit Grass, and Master Yan and Zi Yue recognise his Mental Strength.",
+    "Xuan Su leads him to Master Yan and explains Yan City's three great powers.",
+    "Lin Dong shows his Destiny Symbol; Master Yan explains the three kinds of Destiny Symbol.",
+    "Xuan Su recruits him for the Celestial Dan Pool contest against the Blood Wolf Gang.",
+    "In the Stone Talisman he meets Little Mink, who absorbed the Fire Ancestral Phantom Flower's power to save him.",
+    "Little Mink says the talisman is drained for lack of Yuan Power and agrees to teach him.",
+    "Little Mink leads him to a place to train Mental Strength."
+  ],
+  "introduced": [
+    "Xuan Su",
+    "Autumn Scale Sword",
+    "Void Spirit Grass",
+    "Celestial Dan Pool",
+    "Blood Wolf Gang",
+    "City Lord's Mansion",
+    "Destiny Spirit Symbol",
+    "Celestial Demon Marten",
+    "Fire Ancestral Phantom Flower"
+  ],
+  "cultivation": "Master Yan is a 4th Seal Symbol Master. Lin Dong has condensed a Destiny Symbol, and his Ancient Swirl Symbol is a Destiny Spirit Symbol.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "first": false
+    },
+    {
+      "id": "master-yan",
+      "name": "Master Yan",
+      "quote": "四印符师 (303.3)",
+      "first": false
+    },
+    {
+      "id": "zi-yue",
+      "name": "Zi Yue",
+      "first": false
+    },
+    {
+      "id": "xuan-su",
+      "name": "Xuan Su",
+      "quote": "是万金拍卖会的总管 萱素 (566.0-568.1)",
+      "first": true,
+      "card": 568.1
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink",
+      "quote": "大爷可是天妖貂 (1068.2)",
+      "first": false,
+      "card": 1068.2
+    }
+  ],
+  "terms": [
+    [
+      "秋鳞剑",
+      "Autumn Scale Sword",
+      "Autumn Scale Sword"
+    ],
+    [
+      "虚灵草",
+      "Void Spirit Grass",
+      "Ethereal Grass"
+    ],
+    [
+      "五品灵药",
+      "5th-grade elixir",
+      "Fifth Grade Elixir"
+    ],
+    [
+      "四印符师",
+      "4th Seal Symbol Master",
+      "Four Signs Master"
+    ],
+    [
+      "萱素 / 素总管",
+      "Xuan Su",
+      "Xuansu, Minister Su"
+    ],
+    [
+      "城主府",
+      "City Lord's Mansion",
+      "Santo's Mansion"
+    ],
+    [
+      "血狼帮",
+      "Blood Wolf Gang",
+      "Blood Wolf Gang"
+    ],
+    [
+      "本命灵符 / 本命天符",
+      "Destiny Spirit Symbol / Destiny Heaven Symbol",
+      "natal talisman"
+    ],
+    [
+      "古漩符印",
+      "Ancient Swirl Symbol",
+      "Ancient Spiral Seal"
+    ],
+    [
+      "丹仙池",
+      "Celestial Dan Pool",
+      "Danxianchi"
+    ],
+    [
+      "六星元丹",
+      "six-star Yuan Dan",
+      "six stars"
+    ],
+    [
+      "天妖貂",
+      "Celestial Demon Marten",
+      "demon mink"
+    ],
+    [
+      "火祖妖花",
+      "Fire Ancestral Phantom Flower",
+      "Fire Ancestor Demon Flower"
+    ],
+    [
+      "石符空间",
+      "Stone Talisman space",
+      "stone rune space"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Void Spirit Grass",
+      "Little Mink (ally inside the Stone Talisman)"
+    ],
+    "losses": [
+      "six hundred Yang Yuan Pills"
+    ],
+    "places": [
+      "Thousand Gold Auction, Yan City",
+      "Thousand Gold Association inner hall",
+      "Stone Talisman space"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "0-182 opening/recap.",
+    "The buyer of the Void Spirit Grass at 373.4 is not named, but EP9 (345.4) confirms Lin Dong bought it.",
+    "Little Mink (天妖貂/貂爷) was first on screen in the EP1 prologue; this is his first scene with Lin Dong.",
+    "names.txt lists Liu Tong (Yuan Gate) first in EP8; nobody of that name appears.",
+    "Official English calls Little Mink 'mouse/rat' (Lin Dong's insult 老鼠) and 'demon mink'."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "ep": 70,
+  "title": "Lin Dong Versus Lin Langtian",
+  "summary": "Lin Dong turns the Taotie's devouring back on Song Zhen and defeats him, and the brothers take the Song brothers' Nirvana Seals. Lin Dong rises to eighth place, and the top 24 teleport to Baichao Mountain. There Wu Dao's clone asks Lin Dong to join the Dao Sect, and Lin Dong asks for time to think. Liu Tong of the Yuan Gate explains the Nirvana Ranking battle, where the top three may choose their sect and past champions have all joined the Yuan Gate. The first-round draw pits Lin Dong against Lin Langtian. Lin Langtian lets a primordial spirit inside him merge with him and takes a Yimo form with ancient Yimo martial arts. Lin Dong holds him off with the Devouring Ancestral Symbol's power and the Great Desolate Heaven-Imprisoning Hand.",
+  "events": [
+    "Lin Dong devours Song Zhen's power and defeats him.",
+    "With the Song brothers' seals Lin Dong rises to eighth and reaches the final 24.",
+    "The finalists teleport to Baichao Mountain, while Western Xuan agents prepare their plan.",
+    "Wu Dao's clone invites Lin Dong to join the Dao Sect.",
+    "Liu Tong explains the rules: any means, life or death not counted.",
+    "The draw sets Lin Dong against Lin Langtian.",
+    "Lin Langtian merges with a primordial spirit and fights with Yimo martial arts.",
+    "Lin Dong counters with Devouring Power and the Great Desolate martial spirit."
+  ],
+  "introduced": [
+    "Yimo Mirror",
+    "Yimo Hand",
+    "Gathering Martial Spirits"
+  ],
+  "cultivation": "Lin Langtian merges with a primordial spirit awakened inside him and takes a Yimo form, multiplying his strength.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "su-rou",
+      "name": "Su Rou"
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling"
+    },
+    {
+      "id": "song-zhen",
+      "name": "Song Zhen"
+    },
+    {
+      "id": "qin-tian",
+      "name": "Qin Tian"
+    },
+    {
+      "id": "wu-dao",
+      "name": "Wu Dao",
+      "card": 548.2
+    },
+    {
+      "id": "liu-tong",
+      "name": "Liu Tong"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian",
+      "look": "Yimo form (caption [Bentuk Iblis Lin Langtian], ep70.id 1011.2)"
+    }
+  ],
+  "terms": [
+    [
+      "",
+      "Taotie Demon Armor",
+      "Xincan Magic Armor"
+    ],
+    [
+      "",
+      "teleportation array",
+      "teleportation array"
+    ],
+    [
+      "八大超级宗派",
+      "Eight Super Sects",
+      "eight super sects"
+    ],
+    [
+      "",
+      "Nirvana Ranking battle",
+      "Nirvana Golden List Battle"
+    ],
+    [
+      "异魔手",
+      "Yimo Hand",
+      "Otherworldly Hand"
+    ],
+    [
+      "",
+      "Yimo Soul-Shattering Palm",
+      "Otherworldly Soul-Shattering Palm"
+    ],
+    [
+      "",
+      "Yimo Beam",
+      "Demon Beam"
+    ],
+    [
+      "异魔鉴",
+      "Yimo Mirror",
+      "Otherworldly Mirror"
+    ],
+    [
+      "聚武灵",
+      "Gathering Martial Spirits",
+      "Gathering Martial Spirits"
+    ],
+    [
+      "",
+      "Dragon Roar Whirlwind Kill",
+      "Dragon Sound Whirlwind Kill"
+    ],
+    [
+      "大荒帝",
+      "Great Desolate Emperor",
+      "Great Wilderness Emperor"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "the Song brothers' Nirvana Seals",
+      "place in the final 24"
+    ],
+    "losses": [],
+    "places": [
+      "Hundred Dynasties Battle arena",
+      "teleportation array",
+      "Baichao Mountain summit"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "Wu Dao card 548.2 (ep70.en/id clock, same timing): he introduces himself to Lin Dong face to face.",
+    "252.7 id caption [Tahap Nirvana Tingkat Ketiga] appears as Lin Dong devours Song Zhen; whose realm it names is unclear (perhaps Song Zhen drained), so it is not recorded.",
+    "Lin Dong's realm is not restated; Four Yuan Nirvana since EP69.",
+    "异魔 terms are rendered 'Otherworldly' in the official English and 'Iblis Asing' in the id track; used as Yimo per the glossary. The ancient demon behind the Yimo Mirror is unnamed.",
+    "400-418: a Western Xuan group chants about their plan and says the Death Spirit General is dead (the official English has 'necromancer'); EP71-72 show the general again."
+  ]
+}

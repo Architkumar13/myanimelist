@@ -1,0 +1,139 @@
+{
+  "ep": 29,
+  "title": "The Myriad Beast Fruit",
+  "summary": "Lin Dong and Little Mink sneak into the Ancient Dragon Ape's lair, only to find it is already at Manifestation. They cannot get its blood, but they find the Myriad Beast Fruits it is growing from the blood of countless beasts. Little Mink hides the ape's brand on the fruits, and Lin Dong takes two. Ancient Sword Sect elder Gu Yan, a Qi Creation expert, corners Lin Dong and takes one fruit as payment, not knowing it still carries the ape's brand. The ape tracks the fruit to the sect's camp. The sect leader and his disciples hold it off with the Great Ancient Sword Formation. While the injured ape rests, Little Mink hypnotises it, and Lin Dong draws its blood essence before it wakes.",
+  "events": [
+    "Little Mink realises too late that the Ancient Dragon Ape has reached Manifestation.",
+    "In its lair they find the Myriad Beast Fruits, made from the blood of countless beasts.",
+    "Little Mink hides the ape's brand, and Lin Dong takes two fruits.",
+    "Gu Yan of the Ancient Sword Sect, a Qi Creation expert, demands payment, and Lin Dong hands over a branded fruit as a 'blood fruit'.",
+    "Lin Dong follows Gu Yan to the sect camp, where Gu Yan shows the fruit to the sect leader.",
+    "The ape tracks its brand to the camp, and the sect holds it off with the Great Ancient Sword Formation.",
+    "Little Mink hypnotises the wounded ape and Lin Dong draws its blood essence, but the ape starts to wake."
+  ],
+  "introduced": [
+    "Gu Yan",
+    "Liu Gu",
+    "Myriad Beast Fruit",
+    "Great Ancient Sword Formation"
+  ],
+  "cultivation": "The Ancient Dragon Ape is Manifestation; with the Myriad Beast Fruit it could rival Nirvana. Gu Yan is Qi Creation. Gu Yan hopes the fruit will raise him to Qi Creation advanced, the sect leader's realm.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "ancient-dragon-ape",
+      "name": "Ancient Dragon Ape",
+      "realm": "Manifestation",
+      "quote": "这龙猿已是造化境 (252.2)"
+    },
+    {
+      "id": "gu-yan",
+      "name": "Gu Yan",
+      "realm": "Qi Creation",
+      "quote": "造气境 (706.9)",
+      "first": true,
+      "card": 674.0
+    },
+    {
+      "id": "liu-gu",
+      "name": "Liu Gu",
+      "realm": "Qi Creation advanced",
+      "quote": "能和掌门师兄一样 迈入造气境大成 (889.2)",
+      "first": true,
+      "card": 862.7
+    }
+  ],
+  "terms": [
+    [
+      "万兽果",
+      "Myriad Beast Fruit",
+      "Beast Fruit / Myriad Beast Fruit / fruit of all beasts"
+    ],
+    [
+      "烙印",
+      "brand",
+      "brand / imprint"
+    ],
+    [
+      "血果",
+      "blood fruit",
+      "blood fruit"
+    ],
+    [
+      "龙猿精血",
+      "Dragon Ape blood essence",
+      "blood of Dragon Ape"
+    ],
+    [
+      "造化境",
+      "Manifestation",
+      "realm of good fortune"
+    ],
+    [
+      "乾坤袋",
+      "Qiankun Bag",
+      "Qiankun bag"
+    ],
+    [
+      "灵宝",
+      "Soul Treasure",
+      "Lingbao"
+    ],
+    [
+      "大古剑阵",
+      "Great Ancient Sword Formation",
+      "Bugu Sword Array / Great Ancient Sword Array"
+    ],
+    [
+      "斩天地",
+      "Split Heaven and Earth",
+      "cut the world"
+    ],
+    [
+      "归宗古剑",
+      "Ancient Sword of the Sect",
+      "Guizong ancient sword"
+    ],
+    [
+      "掌门",
+      "sect leader",
+      "head / master brother"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Myriad Beast Fruit (one kept of two)",
+      "Ancient Dragon Ape blood essence"
+    ],
+    "losses": [
+      "one Myriad Beast Fruit (given to Gu Yan)"
+    ],
+    "places": [
+      "Ancient Wasteland",
+      "Ancient Dragon Ape's lair",
+      "Ancient Sword Sect camp"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "The sect leader (掌门师兄) is never named; 'Liu Gu' is the wiki's Ancient Sword Sect leader (anime S3 EP5 = EP29).",
+    "Realm mapping: 造气境大成 is written as 'Qi Creation advanced' and 造气境小成 as 'Qi Creation initial', because the glossary lists only initial/advanced for Qi Creation. This matches the wiki (Liu Gu and Hua Gu are 'Advanced Qi Creation'). It differs from Form Creation, where 小成 = advanced and 大成 = peak. Please confirm.",
+    "727.6: Lin Dong calls the branded Myriad Beast Fruit a 'blood fruit'. Little Mink had said to give one Myriad Beast Fruit (709.4), and the brand on it leads the ape to the camp (1373.2).",
+    "Recap runs to about 178 s."
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "ep": 49,
+  "title": "The Battle of Seeds",
+  "summary": "Lin Dong arrives at the Imperial City of the Great Yan Dynasty with Lin Fan and the Lin Clan team for the Battle of Seeds, which offers only five places in the Hundred Dynasties Battle. Wang Zhong, Wang Yan's elder brother and the Wang Clan's genius, threatens Lin Dong, and the draw puts them in the same group. Lin Dong first beats Huangpu Ying. Wang Zhong then attacks with the Blood Demonic Asura Spear, which drains Yuan Power, but Lin Dong answers with the Heavy Prison Peak and finishes him with four fingers of the Great Desolate Heaven-Imprisoning Finger. Mo Ling, Lin Langtian, Du Yun, Man Shan and Lin Dong win the five places. Emperor Mo Jingtian rewards them with training in the Sacred Spirit Pool.",
+  "events": [
+    "Lin Dong and the Lin Clan reach the Imperial City; Lin Fan warns him about Wang Zhong.",
+    "Wang Zhong and Wang Yan provoke Lin Dong, and Wang Lei taunts Lin Fan about the Wang Clan's win twenty years ago.",
+    "Emperor Mo Jingtian announces five places for the Hundred Dynasties Battle and a draw into five groups.",
+    "Lin Dong draws Wang Zhong's group and defeats Huangpu Ying.",
+    "Wang Zhong fights with the Blood Demonic Asura Spear; Lin Dong counters with the Heavy Prison Peak.",
+    "Lin Dong beats Wang Zhong's Blood Demon attack with four fingers of the Great Desolate Heaven-Imprisoning Finger.",
+    "Mo Ling, Lin Langtian, Du Yun, Man Shan and Lin Dong take the five places.",
+    "The emperor grants the winners training in the Sacred Spirit Pool."
+  ],
+  "introduced": [
+    "Mo Jingtian",
+    "Mo Ling",
+    "Wang Zhong",
+    "Wang Lei",
+    "Du Yun",
+    "Man Shan",
+    "Huangpu Ying",
+    "Imperial City",
+    "Battle of Seeds",
+    "Blood Demonic Asura Spear",
+    "Heavenly Luo Sect",
+    "Barbarian King Sect",
+    "Sacred Spirit Pool"
+  ],
+  "cultivation": "Emperor Mo Jingtian is judged to be One Yuan Nirvana, stronger than Lin Fan and Wang Lei. Wang Zhong is Manifestation peak.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "lin-fan",
+      "name": "Lin Fan"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian"
+    },
+    {
+      "id": "wang-zhong",
+      "name": "Wang Zhong",
+      "realm": "Manifestation peak",
+      "quote": "造化境大成 (986.6)",
+      "first": true,
+      "card": 479.7
+    },
+    {
+      "id": "wang-yan",
+      "name": "Wang Yan"
+    },
+    {
+      "id": "wang-lei",
+      "name": "Wang Lei",
+      "first": true,
+      "card": 460.3
+    },
+    {
+      "id": "mo-jingtian",
+      "name": "Mo Jingtian",
+      "realm": "One Yuan Nirvana",
+      "quote": "陛下这气息 应该是进入一元涅槃境了 (545.2-546.6)",
+      "first": true,
+      "card": 552.4
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling",
+      "first": true,
+      "card": 682.2
+    },
+    {
+      "id": "huangpu-ying",
+      "name": "Huangpu Ying",
+      "first": true,
+      "card": 875.2
+    },
+    {
+      "id": "huangpu-jing",
+      "name": "Huangpu Jing"
+    },
+    {
+      "id": "qin-shi",
+      "name": "Qin Shi"
+    },
+    {
+      "id": "du-yun",
+      "name": "Du Yun",
+      "first": true,
+      "card": 950.7
+    },
+    {
+      "id": "man-shan",
+      "name": "Man Shan",
+      "first": true,
+      "card": 362.2
+    }
+  ],
+  "terms": [
+    [
+      "皇城",
+      "Imperial City",
+      "Imperial City"
+    ],
+    [
+      "种子选拔赛",
+      "Battle of Seeds",
+      "seed selection competition / seeding match"
+    ],
+    [
+      "王氏宗族",
+      "Wang Clan",
+      "Wang family"
+    ],
+    [
+      "天罗宗",
+      "Heavenly Luo Sect",
+      "Tianluo Sect"
+    ],
+    [
+      "蛮王宗",
+      "Barbarian King Sect",
+      "Manwang Sect"
+    ],
+    [
+      "皇甫",
+      "Huangpu Clan",
+      "Huangfu"
+    ],
+    [
+      "四大宗族",
+      "four great clans",
+      "four major clans"
+    ],
+    [
+      "重狱峰",
+      "Heavy Prison Peak",
+      "Heavy Prison Peak"
+    ],
+    [
+      "血魔修罗枪",
+      "Blood Demonic Asura Spear",
+      "Blood Demon Shura Spear"
+    ],
+    [
+      "修罗之眼",
+      "Asura Eye",
+      "Eye of Shura"
+    ],
+    [
+      "修罗血魂",
+      "Asura Blood Soul",
+      "Shura Blood Soul"
+    ],
+    [
+      "血魔灭世",
+      "Blood Demon World Destruction",
+      "The blood demon destroys the world"
+    ],
+    [
+      "六阳搬山",
+      "Six Yang Mountain Moving",
+      "Liuyang moves mountains"
+    ],
+    [
+      "重力之界",
+      "Gravity Field",
+      "The realm of gravity"
+    ],
+    [
+      "大荒囚天指",
+      "Great Desolate Heaven-Imprisoning Finger",
+      "Great Desolate Prisoner's Heavenly Finger"
+    ],
+    [
+      "圣灵潭",
+      "Sacred Spirit Pool",
+      "Holy Spirit Pool"
+    ],
+    [
+      "百朝大战",
+      "Hundred Dynasties Battle",
+      "War of Hundred Dynasties / Hundred Dynasties War"
+    ],
+    [
+      "灵宝",
+      "Soul Treasure",
+      "spiritual treasure"
+    ],
+    [
+      "涅槃境",
+      "Nirvana",
+      "nirvana realm"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "a place in the Hundred Dynasties Battle"
+    ],
+    "losses": [],
+    "places": [
+      "Imperial City",
+      "Battle of Seeds arena"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "Opening recap of earlier seasons runs to about 232 s.",
+    "986.6 造化境大成 has no clear speaker; it comes as Wang Zhong attacks, so it is taken as Wang Zhong's realm (the wiki also gives him advanced/peak Manifestation). It could instead be someone sizing up Lin Dong, who was Manifestation initial at the end of EP48.",
+    "No name cards in this show. Cards are face-to-face lines: Wang Zhong 479.7 (speaks to Lin Dong), Wang Lei 460.3 (addressed), Mo Jingtian 552.4 (speaks), Mo Ling 682.2 (speaks to his father), Huangpu Ying 875.2 (introduces himself), Du Yun 950.7 (introduces himself). Man Shan 362.2 is only being pointed out across the hall.",
+    "Mo Ling: names.txt / wiki give his debut as S1 EP5 (EP5), but 莫凌 first appears in the subtitles here and this is clearly his introduction as the Third Prince; marked first. Check.",
+    "Mo Jingtian is never named in the subtitles (陛下 / 父皇); the name comes from the wiki (Emperor of the Great Yan Empire, anime S5 EP1).",
+    "The '四大宗族' are the Lin, Wang, Qin and Huangpu clans by context; not listed on screen.",
+    "1153.6 六阳搬山 follows Lin Dong's '接下来 换我了', so probably Lin Dong's move with the Heavy Prison Peak; speaker not certain.",
+    "Lin Dong's place is announced as the last one, because the winner is decided by who wins, not who leaves the gate first (1347-1363)."
+  ]
+}

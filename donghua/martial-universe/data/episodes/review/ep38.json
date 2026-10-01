@@ -1,0 +1,143 @@
+{
+  "ep": 38,
+  "title": "The Guardian of the Ancient Sect",
+  "summary": "A terrifying guardian rises in the underground palace, at least a Five Yuan Nirvana expert, and everyone flees. The Four Great Clans force the Great Desolate Ancient Tablet's exit open early with their combined Yuan Power. At the collapsing exit Lin Langtian leaves Lin Dong behind, and it turns out the guardian is chasing Lin Langtian's stolen Qiankun Bag, which has landed with Lin Dong. Lin Dong finds it is full of Nirvana Pills. Trapped, he fights the guardian with the Demon Ape Transformation, his halberd, his Symbol Puppet, Little Mink and Little Flame. Finally he uses the Great Desolate Heaven-Imprisoning Finger, which leaves his body unable to move; the guardian, Tian Ze, recognises his sect's secret art, and the Black-Eyed Elder appears and tells him Lin Dong is his heir. Tian Ze restores Lin Dong's Yuan Power and lets him go, and Lin Dong leaves the tablet to raise his cultivation and look for the Ancestral Symbol.",
+  "events": [
+    "The guardian appears; Lin Mu and the Four Great Clans lead a retreat to the tablet's exit.",
+    "The four clans pour their Yuan Power into the tablet and force the exit open before its time.",
+    "Lin Dong saves Mu Qianqian at the collapsing exit; Lin Langtian tells him to stay and die.",
+    "The guardian was chasing Lin Langtian's Qiankun Bag from the palace; Lin Dong now holds it, and it is full of Nirvana Pills.",
+    "The other factions blame Lin Langtian for their losses and leave; Lin Dong is left facing the guardian.",
+    "Lin Dong uses everything he has, ending with the Great Desolate Heaven-Imprisoning Finger, and is left paralysed.",
+    "Tian Ze recognises the secret art; the Black-Eyed Elder says he passed the Ancestral Symbol's will to Lin Dong, and Tian Ze spares him.",
+    "Lin Dong wakes Little Mink, leaves the tablet and sets his goals: grow stronger, then find the Ancestral Symbol."
+  ],
+  "introduced": [
+    "Tian Ze",
+    "Nirvana Pill",
+    "Great Desolate Heaven-Imprisoning Finger"
+  ],
+  "cultivation": "The guardian Tian Ze is at least a Five Yuan Nirvana expert. Lin Dong's body cannot yet bear the Great Desolate Heaven-Imprisoning Finger.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "tian-ze",
+      "name": "Tian Ze",
+      "realm": "Five Yuan Nirvana",
+      "quote": "至少是五元湟槃境强者 (256.1)",
+      "first": true,
+      "card": 1267.4
+    },
+    {
+      "id": "black-eyed-elder",
+      "name": "Black-Eyed Elder"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian"
+    },
+    {
+      "id": "lin-ke-er",
+      "name": "Lin Ke-er"
+    },
+    {
+      "id": "lin-mu",
+      "name": "Lin Mu"
+    },
+    {
+      "id": "mu-qianqian",
+      "name": "Mu Qianqian"
+    },
+    {
+      "id": "teng-lei",
+      "name": "Teng Lei"
+    },
+    {
+      "id": "wang-yan",
+      "name": "Wang Yan"
+    },
+    {
+      "id": "wang-tong",
+      "name": "Wang Tong"
+    },
+    {
+      "id": "huangpu-jing",
+      "name": "Huangpu Jing"
+    }
+  ],
+  "terms": [
+    [
+      "守护者",
+      "guardian",
+      "guardian"
+    ],
+    [
+      "五元涅槃境",
+      "Five Yuan Nirvana",
+      "Five Yuan Huangpan realm"
+    ],
+    [
+      "涅槃丹",
+      "Nirvana Pill",
+      "nirvana pills"
+    ],
+    [
+      "大荒囚天指",
+      "Great Desolate Heaven-Imprisoning Finger",
+      "Heaven's Desolation Prisons Heaven's Finger"
+    ],
+    [
+      "半指撼天地",
+      "Half a Finger Shakes Heaven and Earth",
+      "Half a finger shakes the world"
+    ],
+    [
+      "天泽",
+      "Tian Ze",
+      "Tianze"
+    ],
+    [
+      "秘传功法",
+      "secret art of the sect",
+      "secret techniques"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Lin Langtian's Qiankun Bag of Nirvana Pills",
+      "first use of the Great Desolate Heaven-Imprisoning Finger",
+      "Tian Ze's recognition as the sect's heir"
+    ],
+    "losses": [],
+    "places": [
+      "underground palace of the ancient sect",
+      "Great Desolate Ancient Tablet exit",
+      "outside the Great Desolate Ancient Tablet"
+    ]
+  },
+  "flags": [
+    "Recap runs to about 205 s.",
+    "1156.4 天荒囚天指 is a slip for 大荒囚天指 (correct in EP40 602.0).",
+    "names.txt gives Tian Ze's 汉字 as 唐普; the subtitles say 天泽 (1267.4). I used 天泽.",
+    "Card 1267.4 is the Black Eyed Elder addressing Tian Ze by name face to face; there is no on-screen name card.",
+    "749.6 这是我的 and 775.9: how the bag reached Lin Dong is not spelled out; Lin Langtian demands it back and Lin Dong refuses.",
+    "871.1 '皇甫妹妹' is addressed by an unidentified young man (likely Wang Yan); 891.5 '希望你能活下来' speaker unclear (probably Lin Ke-er).",
+    "How Lin Dong leaves the tablet is skipped (1384-1402)."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

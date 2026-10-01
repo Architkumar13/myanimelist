@@ -1,0 +1,161 @@
+{
+  "ep": 4,
+  "title": "Ironwood Manor and the Yang Yuan Vein",
+  "summary": "In the duel for the cubs, Lei Li is shocked to find that Lin Dong has also reached Earthly Yuan, using the Yin Pearl's energy. Lei Li answers with the Ling Snake Palm, the 3rd-grade Thunderstorm Strike and the 4th-grade Rushing Thunder Light. Lin Dong blocks it with the Qimen Seal, a 3rd-grade fragment he mastered past its first layer, and wins Ironwood Manor for the Lin family. Months later the Lei family has wrecked the manor's woods and land before handing it over. Little Flame, now grown large, leads Lin Dong into a volcanic cave beneath it, where it eats a demon spirit and the Stone Talisman reacts to a strange flower. The cave holds a vein of Yang Yuan Stone, and Lin Dong refines Yang Yuan Pills with the talisman before the family heads to Yan City to sell the stones.",
+  "events": [
+    "Lei Li finds Lin Dong is also at Earthly Yuan.",
+    "Lei Li uses Ling Snake Palm, Thunderstorm Strike and Rushing Thunder Light.",
+    "Lin Dong's Qimen Seal stops Rushing Thunder Light and he wins Ironwood Manor.",
+    "Lei Bao, about to reach Yuan Dan, vows revenge.",
+    "Lin Dong finds the manor ruined by the Lei family; Little Flame leads him to a lava cave.",
+    "Little Flame eats a demon spirit and the Stone Talisman reacts to a flower in the cave.",
+    "The family confirms a Yang Yuan Stone vein; Lin Zhentian hopes to reach Yuan Dan with it.",
+    "Lin Dong refines Yang Yuan Pills with the talisman and plans a trip to Yan City."
+  ],
+  "introduced": [
+    "Little Flame (named)",
+    "Ling Snake Palm",
+    "Thunderstorm Strike",
+    "Rushing Thunder Light",
+    "Qimen Seal",
+    "Yang Yuan Stone",
+    "Yang Yuan Pill",
+    "Fire Ancestral Phantom Flower (unnamed)",
+    "Yan City"
+  ],
+  "cultivation": "Lin Dong has reached Earthly Yuan. Lei Bao is said to be close to Yuan Dan initial. Lin Zhentian hopes the Yang Yuan Stone will let him reach Yuan Dan.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Earthly Yuan",
+      "quote": "你竟然也是地元境 (302.4)",
+      "first": false
+    },
+    {
+      "id": "lei-li",
+      "name": "Lei Li",
+      "realm": "Earthly Yuan",
+      "quote": "不愧是地元境啊 (237.2)",
+      "first": false
+    },
+    {
+      "id": "lei-bao",
+      "name": "Lei Bao",
+      "first": false
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian",
+      "first": false
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao",
+      "first": false
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan",
+      "first": false
+    },
+    {
+      "id": "wu-yun",
+      "name": "Wu Yun",
+      "first": false
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame",
+      "quote": "小炎真喜欢你呀 (690.7)",
+      "look": "grown from a cub to a large tiger",
+      "first": false
+    }
+  ],
+  "terms": [
+    [
+      "灵蛇掌",
+      "Ling Snake Palm",
+      "Snake Palm"
+    ],
+    [
+      "雷暴击",
+      "Thunderstorm Strike",
+      "Thunderstorm"
+    ],
+    [
+      "奔雷光",
+      "Rushing Thunder Light",
+      "Ben Leiguang"
+    ],
+    [
+      "奇门印",
+      "Qimen Seal",
+      "Qimenyin"
+    ],
+    [
+      "阴煞之气",
+      "Yin Sha energy",
+      "evil spirit"
+    ],
+    [
+      "小炎",
+      "Little Flame",
+      "Xiao Yan, Xiaoyan"
+    ],
+    [
+      "妖灵",
+      "demon spirit",
+      "demon spirit"
+    ],
+    [
+      "阳元石",
+      "Yang Yuan Stone",
+      "Yangyuan stone"
+    ],
+    [
+      "阳元丹",
+      "Yang Yuan Pill",
+      "Yangyuan Pill"
+    ],
+    [
+      "阳罡之气",
+      "Yang Gang energy",
+      "yang energy, Yanggang"
+    ],
+    [
+      "炎城",
+      "Yan City",
+      "Yancheng"
+    ],
+    [
+      "小元丹境",
+      "Yuan Dan initial",
+      "Xiao Yuan Dan realm"
+    ]
+  ],
+  "hero": {
+    "realm": "Earthly Yuan",
+    "gains": [
+      "Ironwood Manor (for the Lin family)",
+      "Yang Yuan Stone vein",
+      "Yang Yuan Pills"
+    ],
+    "losses": [],
+    "places": [
+      "Qingyang Town arena",
+      "Lin family home",
+      "Ironwood Manor",
+      "volcanic cave under Ironwood Manor"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "Earthly Yuan stage not stated this episode (EP5 says late).",
+    "265.7-283.6 is Lin Xiao's earlier advice about the Yin Pearl (flashback), not a scene in the duel.",
+    "Liu Yan, Xie Qian and Lin Mang may be in crowd scenes but are not identifiable from the lines. 258.4 an unnamed uncle (三弟 ... 动儿才淬体九重吗) speaks; could be Lin Mang or Lin Ken. Lin Mang is likely the 父亲 speaker at 1156.2 with Lin Shan; uncertain.",
+    "The flower (1024.2) is not named here; EP8 names it 火祖妖花 and says Little Mink absorbed its power.",
+    "1039.6-1085 the talisman takes over; Lin Dong goes missing and returns with Yang Yuan Stone."
+  ]
+}

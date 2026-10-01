@@ -1,0 +1,150 @@
+{
+  "ep": 27,
+  "title": "Eagle Martial Dojo",
+  "summary": "The girl Lin Dong saved is Jiang Yinyin, and her father Jiang Lei runs the Eagle Martial Dojo in Eagle City. Jiang Lei agrees to guide Lin Dong out of the Mist Forest, gives him new clothes, and tells him about the Great Desolate Ancient Tablet: the ruins of an ancient sect whose seal weakens every three years. That night the Mist Leopard Alligator King, angry that the dojo killed its cub, attacks with its beasts. Lin Dong drives off two Form Creation beasts with his fists, the Subduing Golden Platform Magic Palm and his halberd. In Eagle City, Luo Shan of the Bloody Vulture Dojo brings his father Luo Jiu's challenge to a fight to the death and harasses Jiang Xue, so Lin Dong beats him. Jiang Lei is only Form Creation advanced, while Luo Jiu has reached Form Creation peak. That night Jiang Xue comes to Lin Dong and begs him to fight in her father's place.",
+  "events": [
+    "Lin Dong meets Jiang Lei, his daughters Jiang Xue and Jiang Yinyin, and the Eagle Martial Dojo disciples.",
+    "Jiang Lei tells him the Great Desolate Ancient Tablet holds an ancient sect's ruins and opens every three years; Little Mink thinks it may hold an Ancestral Symbol.",
+    "The Mist Leopard Alligator King attacks; Lin Dong drives off two Form Creation beasts and saves the dojo.",
+    "They leave the Mist Forest and reach Eagle City, at the edge of a desert with the tablet at its centre.",
+    "Luo Shan delivers Luo Jiu's challenge to a fight to the death, pesters Jiang Xue, and Lin Dong thrashes him.",
+    "Jiang Xue asks Lin Dong to fight Luo Jiu for her father."
+  ],
+  "introduced": [
+    "Jiang Lei",
+    "Jiang Xue",
+    "Luo Shan",
+    "Mist Leopard Alligator King",
+    "Eagle City",
+    "Eagle Martial Dojo",
+    "Bloody Vulture Dojo",
+    "Mist Forest",
+    "Great Desolate Ancient Tablet"
+  ],
+  "cultivation": "Jiang Lei is Form Creation advanced; Luo Jiu reached Form Creation peak half a month ago, about as strong as Wang Yan. The two beasts Lin Dong fights are Form Creation. Even Nirvana experts cannot easily break the ancient tablet's seal.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "jiang-yinyin",
+      "name": "Jiang Yinyin"
+    },
+    {
+      "id": "jiang-lei",
+      "name": "Jiang Lei",
+      "realm": "Form Creation advanced",
+      "quote": "您只是造形境小成 (1408.0)",
+      "first": true,
+      "card": 238.4
+    },
+    {
+      "id": "jiang-xue",
+      "name": "Jiang Xue",
+      "first": true,
+      "card": 264.3
+    },
+    {
+      "id": "mist-leopard-alligator-king",
+      "name": "Mist Leopard Alligator King",
+      "first": true,
+      "card": 683.7
+    },
+    {
+      "id": "luo-shan",
+      "name": "Luo Shan",
+      "first": true,
+      "card": 1149.6
+    }
+  ],
+  "terms": [
+    [
+      "姜雷",
+      "Jiang Lei",
+      "Jiang Lei"
+    ],
+    [
+      "大鹰城",
+      "Eagle City",
+      "Eagle City"
+    ],
+    [
+      "鹰之武馆",
+      "Eagle Martial Dojo",
+      "Eagle Martial Arts Hall / Eagle's Martial Arts / Great Eagle Martial Arts"
+    ],
+    [
+      "血鹫武馆",
+      "Bloody Vulture Dojo",
+      "Blood Eagle / Blood Vulture Martial Arts Hall"
+    ],
+    [
+      "迷雾森林",
+      "Mist Forest",
+      "foggy forest / Misty Forest"
+    ],
+    [
+      "迷雾豹鳄王",
+      "Mist Leopard Alligator King",
+      "Mist King Crocodile / King Leopard Crocodile"
+    ],
+    [
+      "大荒古碑",
+      "Great Desolate Ancient Tablet",
+      "Great Desolation Ancient Monument / Great Wilderness Monument"
+    ],
+    [
+      "涅槃境",
+      "Nirvana",
+      "Nirvana"
+    ],
+    [
+      "鱼鳞戟",
+      "Fish Scale Halberd",
+      "Fish scale halberd"
+    ],
+    [
+      "罗鹫",
+      "Luo Jiu",
+      "Luo Jiu / Nara Vulture"
+    ],
+    [
+      "战服",
+      "battle suit",
+      "suit"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "a battle suit from Jiang Lei"
+    ],
+    "losses": [],
+    "places": [
+      "Mist Forest",
+      "Mist Forest camp",
+      "Eagle City",
+      "Eagle Martial Dojo"
+    ]
+  },
+  "flags": [
+    "231.5, 423.1 etc. 雪儿 is rendered 'Cher' in the official English; it is Jiang Xue.",
+    "1286.2: Lin Dong calls himself 'Jiang Lei's new disciple' as a cover.",
+    "Luo Jiu is named and his realm given (1220.5, 1408.0), but he does not appear until EP28.",
+    "Mist Leopard Alligator King: the wiki title; the subtitles give 迷雾豹鳄王 / 豹鳄王. It acts as a named beast lord, so it is in the cast.",
+    "大鹰城: the official English always says 'Eagle City', so I used that; the wiki title is 'Great Eagle City'."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

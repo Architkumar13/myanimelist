@@ -1,0 +1,152 @@
+{
+  "ep": 67,
+  "title": "The Hundred Dynasties Battle Begins",
+  "summary": "The dying Lin Langtian refuses to accept defeat, and a mysterious figure offers him longer life and power if he cooperates. At Wanxiang City Lin Dong saves Su Rou of the Daqing Dynasty from Fengyun Dynasty men who want the inheritance inside her. Little Mink warns that the power in her could run wild at any time. The final stage of the Hundred Dynasties Battle begins with a test at the Nirvana Monument. Lin Dong, Lin Diao and Lin Yan take second, third and fourth in the Earth tier, while Super Dynasty fighters start in the Heaven tier with 100 points. The top 24 after three days will climb Baichao Mountain, so Lin Dong goes after Super Dynasty fighters for their Nirvana Seals. He finds Feng Cang's men hunting Su Rou again and fights Feng Cang, who is at the peak of Four Yuan Nirvana. Feng Cang brings out the Heaven-grade Soul Treasure Black Dragon Sky-Roaring Seal.",
+  "events": [
+    "A mysterious voice offers the dying Lin Langtian life and power in return for cooperation.",
+    "Lin Dong saves Su Rou from Fengyun Dynasty men who want her inheritance.",
+    "The Nirvana Monument test gives out Heaven, Earth and Human tier Nirvana Seals.",
+    "Lin Dong, Lin Diao and Lin Yan take second to fourth place in the Earth tier.",
+    "Feng Cang of the Fengyun Dynasty mocks the lower dynasties for complaining about the rules.",
+    "The battle opens: the top 24 after three days will climb Baichao Mountain.",
+    "Lin Dong rescues Su Rou from Feng Cang's group and fights Feng Cang.",
+    "Feng Cang brings out the Black Dragon Sky-Roaring Seal."
+  ],
+  "introduced": [
+    "Su Rou",
+    "Feng Cang",
+    "Daqing Dynasty",
+    "Fengyun Dynasty",
+    "Nirvana Monument",
+    "Nirvana Seal",
+    "Super Dynasty",
+    "Baichao Mountain",
+    "Black Dragon Sky-Roaring Seal"
+  ],
+  "cultivation": "Lin Dong is Three Yuan Nirvana. Feng Cang is at the peak of Four Yuan Nirvana. Onlookers judge Lin Dong's two brothers to have Four Yuan Nirvana strength.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Three Yuan Nirvana",
+      "quote": "Seorang petarung Alam Nirvana Tingkat Ketiga dari dinasti rendahan (1225.0)"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian"
+    },
+    {
+      "id": "su-rou",
+      "name": "Su Rou",
+      "first": true,
+      "card": 674.4
+    },
+    {
+      "id": "feng-cang",
+      "name": "Feng Cang",
+      "realm": "Four Yuan Nirvana",
+      "quote": "[Alam Nirvana Tingkat Keempat] (915.6); Puncak Alam Nirvana Tingkat Keempat (1312.0)",
+      "first": true,
+      "card": 913.4
+    }
+  ],
+  "terms": [
+    [
+      "百朝大战",
+      "Hundred Dynasties Battle",
+      "Hundred Dynasties War / Perang Seratus Kekaisaran"
+    ],
+    [
+      "涅槃碑",
+      "Nirvana Monument",
+      "Nirvana Monument"
+    ],
+    [
+      "涅槃印",
+      "Nirvana Seal (Heaven / Earth / Human tier)",
+      "Nirvana Seal"
+    ],
+    [
+      "",
+      "Super Dynasty",
+      "super dynasty"
+    ],
+    [
+      "",
+      "Fengyun Dynasty",
+      "Fengyun Dynasty / Wind and Cloud Dynasty"
+    ],
+    [
+      "",
+      "Daqing Dynasty",
+      "Dinasti Daqing"
+    ],
+    [
+      "百朝山",
+      "Baichao Mountain",
+      "Baichao Mountain / Gunung Seratus Kuali"
+    ],
+    [
+      "",
+      "Devouring Power",
+      "Kekuatan Pemakan"
+    ],
+    [
+      "",
+      "Ghost Wind Palm",
+      "Telapak Angin Hantu / Great Demon Wind Palm"
+    ],
+    [
+      "",
+      "Ancient Qiankun Formation",
+      "Formasi Qiankun Kuno"
+    ],
+    [
+      "黑龙啸天印",
+      "Black Dragon Sky-Roaring Seal",
+      "Black Dragon Howling Sky Seal / Segel Pengaum Langit Naga Hitam"
+    ],
+    [
+      "",
+      "Heaven-grade Soul Treasure",
+      "Celestial Spirit Treasure"
+    ],
+    [
+      "东玄域",
+      "Eastern Xuan Region",
+      "Eastern Xuan Domain"
+    ]
+  ],
+  "hero": {
+    "realm": "Three Yuan Nirvana",
+    "gains": [
+      "Earth-tier Nirvana Seal"
+    ],
+    "losses": [],
+    "places": [
+      "Wanxiang City outskirts",
+      "Nirvana Monument",
+      "Hundred Dynasties Battle arena"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "No official subtitle track; written from ep67.id.srt plus the compilation English (6783-8050). Cards use the ep67.id.srt clock.",
+    "Su Rou card 674.4 and Feng Cang card 913.4 are captions ([Su Rou, Dinasti Daqing], [Feng Cang, Dinasti Fengyun]).",
+    "840.4 caption [Pertama, Luo Tong, Kedua, Lin Dong]: the Earth tier's first place is 'Luo Tong'; not in names.txt and possibly a misread, so left out.",
+    "1419-1462: onlookers say 'he' hid his strength and is at least Four Yuan Nirvana, then 'those two also have Four Yuan Nirvana strength'. This seems to be about Little Mink and Little Flame; not recorded as their realms.",
+    "1316.3 caption [Formasi Qiankun Kuno]: who uses it is unclear.",
+    "Lin Langtian's scene: the speaker who offers the deal is unseen and unnamed."
+  ]
+}

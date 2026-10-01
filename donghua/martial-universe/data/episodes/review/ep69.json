@@ -1,0 +1,158 @@
+{
+  "ep": 69,
+  "title": "Four Yuan Nirvana",
+  "summary": "Lin Dong and his brothers wreck the Death Spirit General's body with the Black Dragon Sky-Roaring Seal, but his soul escapes. The general reports to his master, who meets Lin Langtian and tells him a bigger task awaits. Lin Dong saves Mo Ling of the Great Yan Dynasty from Heavenly Demon Dynasty disciples. Mo Ling warns that the Three Song Devils are Five Yuan Nirvana and that Lin Langtian has grown stronger and stranger. Little Flame starts his Nirvana tribulation, and Lin Dong's group guards him when the Three Song Devils arrive for Su Rou's inheritance. Su Rou opens her second seal, and Lin Dong takes on Song Zhen. Lin Dong goes through his own tribulation mid-fight and reaches Four Yuan Nirvana. Song Zhen calls on his Taotie and the Four Demonic Sects' devouring inheritance, but Lin Dong answers with the Devouring Ancestral Symbol's power.",
+  "events": [
+    "The Death Spirit General's body is destroyed by the Black Dragon Sky-Roaring Seal; his soul flees.",
+    "His master meets Lin Langtian, who offers to kill Lin Dong's group.",
+    "Lin Dong saves Mo Ling from Heavenly Demon Dynasty disciples.",
+    "Mo Ling warns them about the Three Song Devils and the changed Lin Langtian.",
+    "Little Flame begins his Nirvana tribulation while the others guard him.",
+    "Song Que, Song Zhen and Song Ba arrive and demand Su Rou's inheritance.",
+    "Lin Dong breaks through to Four Yuan Nirvana in the middle of fighting Song Zhen.",
+    "Song Zhen summons his Taotie; Lin Dong counters with Devouring Power."
+  ],
+  "introduced": [
+    "Song Zhen",
+    "Song Ba",
+    "Song Que",
+    "Heavenly Demon Dynasty",
+    "Taotie",
+    "Nirvana tribulation"
+  ],
+  "cultivation": "Lin Dong breaks through to Four Yuan Nirvana during a Nirvana tribulation in battle. The Three Song Devils are Five Yuan Nirvana. Little Flame begins his own Nirvana tribulation. The Death Spirit General is Five Yuan Nirvana.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Four Yuan Nirvana",
+      "quote": "It's just the Four Elements Nirvana Realm (1185.4)"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "su-rou",
+      "name": "Su Rou"
+    },
+    {
+      "id": "death-spirit-general",
+      "name": "Death Spirit General",
+      "realm": "Five Yuan Nirvana",
+      "quote": "Five Elements Nirvana Realm (390.7)"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian"
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling",
+      "card": 710.9
+    },
+    {
+      "id": "song-zhen",
+      "name": "Song Zhen",
+      "realm": "Five Yuan Nirvana",
+      "quote": "Song Zhenke is a Fifth-Rank Nirvana Realm cultivator (1019.4)",
+      "first": true,
+      "card": 858.6
+    },
+    {
+      "id": "song-ba",
+      "name": "Song Ba",
+      "realm": "Five Yuan Nirvana",
+      "quote": "[Tiga Setan Lagu, Tahap Nirvana Tingkat Kelima] (ep69.id 860.7)",
+      "first": true,
+      "card": 858.6
+    },
+    {
+      "id": "song-que",
+      "name": "Song Que",
+      "realm": "Five Yuan Nirvana",
+      "quote": "[Tiga Setan Lagu, Tahap Nirvana Tingkat Kelima] (ep69.id 860.7)",
+      "first": true,
+      "card": 858.6
+    }
+  ],
+  "terms": [
+    [
+      "",
+      "Ten Thousand Ghost King Body",
+      "Ten Thousand Kings Demon Body"
+    ],
+    [
+      "",
+      "Soul Separation",
+      "Soul Separation"
+    ],
+    [
+      "元神",
+      "primordial spirit",
+      "Yuan Shen / primordial spirit"
+    ],
+    [
+      "天魔王朝",
+      "Heavenly Demon Dynasty",
+      "Heavenly Demon Dynasty"
+    ],
+    [
+      "",
+      "Ten Super Dynasties",
+      "Ten Super Dynasties"
+    ],
+    [
+      "",
+      "Extreme Refining Art",
+      "Guiyuan Mad Camp / Seni Pemurnian Ekstrim"
+    ],
+    [
+      "涅槃劫",
+      "Nirvana tribulation",
+      "Nirvana tribulation"
+    ],
+    [
+      "饕餮",
+      "Taotie",
+      "Xincan"
+    ],
+    [
+      "",
+      "Taotie Demon Trident",
+      "Xincan Magic Fork"
+    ],
+    [
+      "",
+      "Heaven-Swallowing Mouth",
+      "Swallowing Heaven Mouth"
+    ]
+  ],
+  "hero": {
+    "realm": "Four Yuan Nirvana",
+    "gains": [
+      "Four Yuan Nirvana"
+    ],
+    "losses": [],
+    "places": [
+      "healing cave",
+      "Hundred Dynasties Battle arena",
+      "hideout where Little Flame undergoes his tribulation"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "Cards use the ep69.en.srt clock (same timing as the id track here). The Song brothers' caption is only in the id track (860.7 [Tiga Setan Lagu ...] / 862.2 [Song Que, Song Zhen, Song Ba]); 858.6 is the en line 'You are Lin Dong' as they confront him. Which brother is which in the frame is not clear. Mo Ling 710.9 is a self-introduction.",
+    "En 1019.4 'Song Zhenke' is a slip for Song Zhen.",
+    "430-441: Little Flame says he nearly broke through and pulled back, hurting himself; at 761-771 he cannot hold off his Nirvana tribulation any longer. His result comes in later episodes.",
+    "1089-1172: the onlookers describe Lin Dong undergoing tribulation while fighting; id caption 1168.4 [Tahap Nirvana Tingkat Keempat].",
+    "The episode ends at 1361 with 'the battle has ended' and Little Flame's name called; what happens is unclear."
+  ]
+}

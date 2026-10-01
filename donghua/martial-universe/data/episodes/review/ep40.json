@@ -1,0 +1,135 @@
+{
+  "ep": 40,
+  "title": "Blood Slayer Cao Zhen",
+  "summary": "Cao Zhen kills the beaten Elder Hua Gu and takes his Mental Strength, then turns on Lin Dong. Mu Lei explains to Mu Qianqian that Cao Zhen, the Blood Slayer, once wiped out a whole sect by himself. Lin Dong fights the Half-step Manifestation elder with the Subduing Golden Platform Magic Palm, the Demon Ape Transformation and Yuan Essence Power. He is nearly crushed until he shows Mental Energy Fire and the Great Desolate Heaven-Imprisoning Finger; Cao Zhen survives, but Little Flame grabs Teng Lei and they escape. Under threat of a memory search, Teng Lei reveals that his father will break the treasure's seal in Yin Puppet City in ten days, and that the sect has three Manifestation experts. Lin Dong also takes Teng Lei's Purple Shadow Nine Breaks. Teng Sha keeps his son's capture quiet, while Mu Lei gathers his Qi Creation experts and heads for Yin Puppet City.",
+  "events": [
+    "Cao Zhen kills Hua Gu and takes his Mental Strength.",
+    "Mu Lei tells Mu Qianqian about Cao Zhen, the Blood Slayer.",
+    "Lin Dong fights Cao Zhen with the Golden Platform palm, the Demon Ape Transformation and Yuan Essence Power, but falls behind.",
+    "He turns the fight with Mental Energy Fire and the Great Desolate Heaven-Imprisoning Finger.",
+    "Lin Dong and Little Flame carry Teng Lei off while the wounded Cao Zhen watches.",
+    "Teng Lei tells him the treasure is in Yin Puppet City, the seal will be broken in ten days, and the sect has three Manifestation experts; Lin Dong takes the Purple Shadow Nine Breaks.",
+    "Teng Sha orders silence and more guards; Mu Lei suspects something big and sets out for Yin Puppet City."
+  ],
+  "introduced": [
+    "Yin Puppet City",
+    "Bloodthirsty Demon Arm",
+    "Nine Steps Heaven-Shaking Stomp",
+    "Blood Slayer"
+  ],
+  "cultivation": "Cao Zhen is Half-step Manifestation; Lin Dong is Qi Creation. The Yin Puppet Sect has three Manifestation experts, including Teng Sha.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Qi Creation",
+      "quote": "以你半步造化的修为 竟败给了个造气境的子 (928.2)"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "cao-zhen",
+      "name": "Cao Zhen",
+      "realm": "Half-step Manifestation",
+      "quote": "不愧是半步造化境强者 (740.7)"
+    },
+    {
+      "id": "hua-gu",
+      "name": "Hua Gu",
+      "look": "killed by Cao Zhen"
+    },
+    {
+      "id": "teng-lei",
+      "name": "Teng Lei"
+    },
+    {
+      "id": "teng-sha",
+      "name": "Teng Sha"
+    },
+    {
+      "id": "mu-lei",
+      "name": "Mu Lei"
+    },
+    {
+      "id": "mu-qianqian",
+      "name": "Mu Qianqian"
+    }
+  ],
+  "terms": [
+    [
+      "血屠手",
+      "Blood Slayer",
+      "Blood Slayer"
+    ],
+    [
+      "大力归元宗",
+      "Great Strength Guiyuan Sect",
+      "Guiyuan Sect"
+    ],
+    [
+      "玄冰",
+      "Profound Ice",
+      "Ice"
+    ],
+    [
+      "嗜血魔臂",
+      "Bloodthirsty Demon Arm",
+      "Bloodthirsty Arm"
+    ],
+    [
+      "九步震天踏",
+      "Nine Steps Heaven-Shaking Stomp",
+      "Nine steps that shake the sky"
+    ],
+    [
+      "元精之力",
+      "Yuan Essence Power",
+      "The power of essence"
+    ],
+    [
+      "一指囚天地",
+      "One Finger Imprisons Heaven and Earth",
+      "one finger, prison world"
+    ],
+    [
+      "阴傀城",
+      "Yin Puppet City",
+      "Yin Puppet City"
+    ],
+    [
+      "黑瞳老人",
+      "Black-Eyed Elder",
+      "black-eyed old man"
+    ]
+  ],
+  "hero": {
+    "realm": "Qi Creation",
+    "gains": [
+      "Purple Shadow Nine Breaks (taken from Teng Lei)",
+      "Teng Lei as a hostage",
+      "news of the treasure in Yin Puppet City"
+    ],
+    "losses": [],
+    "places": [
+      "Yin Puppet Sect branch in Great Puppet City",
+      "Great Puppet City outskirts",
+      "road to Yin Puppet City"
+    ]
+  },
+  "flags": [
+    "Recap runs to about 225 s.",
+    "Who uses 玄冰 (398.7), 嗜血魔臂 (414.6) and 九步震天踏 (515.4) is not stated; the fight flow suggests Cao Zhen uses the arm and the stomp. I did not name them in viewer text.",
+    "Wiki Chinese names for the Yin Puppet city are 'Ghastly Puppet City'; the official English says Yin Puppet City consistently, so I used it.",
+    "Lin Dong reads Teng Lei's interest in the Black Eyed Elder's seal (875.8): the treasure is the Ancestral Symbol."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

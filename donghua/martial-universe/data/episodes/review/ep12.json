@@ -1,0 +1,123 @@
+{
+  "ep": 12,
+  "title": "The Death of Wei Tong",
+  "summary": "With Qing Tan held hostage, Lin Dong takes Wei Tong's Thousand Crack Palm head-on while Master Yan goes to free his family. Lin Dong hides a Materialized Spirit Needle inside his Spiral Wave, breaks through the arena's mental barrier and kills the Symbol Master holding Qing Tan. Free to fight, he hits Wei Tong with the fourth layer of the Qimen Seal, and Wei Tong begs to surrender. Lin Dong kills him anyway for what he did to his family, and Xia Wanjin stops Yue Shan from stepping in. The Lin family settles into a large house in northern Yan City with the Thousand Gold Association's help. Xia Wanjin tells Qing Tan about events in the Heavenly Yuan Mountains. Master Yan then tells Lin Dong about the ranks beyond the 5th Seal and the Symbol Master Tower, and talk turns to the tomb of a Nirvana-stage expert.",
+  "events": [
+    "Wei Tong presses Lin Dong while Qing Tan is held hostage; Master Yan goes to rescue the family.",
+    "Lin Dong hides a Materialized Spirit Needle in his Spiral Wave and kills the hostage-taker.",
+    "Lin Dong hits Wei Tong with the fourth layer of the Qimen Seal.",
+    "Wei Tong surrenders, but Lin Dong kills him; Xia Wanjin holds back Yue Shan.",
+    "The Lin family moves into a large house in Yan City.",
+    "Xia Wanjin leaves Void Spirit Grass for Lin Dong and mentions the Heavenly Yuan Mountains.",
+    "Master Yan explains the Spirit Symbol Master rank and the Symbol Master Tower.",
+    "Talk turns to a Nirvana-stage expert's tomb and a Nirvana Heart."
+  ],
+  "introduced": [
+    "Spirit Symbol Master",
+    "Symbol Master Tower",
+    "Heavenly Yuan Mountains",
+    "Nirvana Heart"
+  ],
+  "cultivation": "Lin Dong is a 2nd Seal Symbol Master. Master Yan is a 4th Seal Symbol Master and names the Spirit Symbol Master as the rank after the 5th Seal.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "first": false
+    },
+    {
+      "id": "wei-tong",
+      "name": "Wei Tong",
+      "first": false
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan",
+      "first": false
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian",
+      "first": false
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao",
+      "first": false
+    },
+    {
+      "id": "master-yan",
+      "name": "Master Yan",
+      "quote": "您可是四印符师 (1071.2)",
+      "first": false
+    },
+    {
+      "id": "xia-wanjin",
+      "name": "Xia Wanjin",
+      "first": false
+    },
+    {
+      "id": "yue-shan",
+      "name": "Yue Shan",
+      "first": false
+    }
+  ],
+  "terms": [
+    [
+      "奇门印 第四重",
+      "Qimen Seal, fourth layer",
+      "Qimenyin, Fourth"
+    ],
+    [
+      "五印符师",
+      "5th Seal Symbol Master",
+      "five seal masters"
+    ],
+    [
+      "灵符师",
+      "Spirit Symbol Master",
+      "psychic master"
+    ],
+    [
+      "符师塔",
+      "Symbol Master Tower",
+      "Rune Tower"
+    ],
+    [
+      "天元山脉",
+      "Heavenly Yuan Mountains",
+      "Tianyuan Mountains"
+    ],
+    [
+      "涅槃境",
+      "Nirvana",
+      "Nirvana"
+    ],
+    [
+      "涅槃心",
+      "Nirvana Heart",
+      "Nirvana heart"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Void Spirit Grass (from Xia Wanjin, via Qing Tan)"
+    ],
+    "losses": [],
+    "places": [
+      "Yan City arena",
+      "Master Yan's residence, Yan City"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "0-184 opening/recap.",
+    "Glossary: 天符师 is Heaven Symbol Master, but here Master Yan names the rank after the 5th Seal 灵符师 (1088.7). Recorded as Spirit Symbol Master; may need reconciling with the glossary.",
+    "1139-1269: after 符师塔 there are long cues with no text; 涅槃境强者的墓府 (1211.0), 这倒是有点意思 (1214.9) and 涅槃心 (1269.5) have unclear speakers and may be a different scene, so confidence is medium.",
+    "Xuan Su is not clearly on screen; the Thousand Gold Association's help with the house is reported by passers-by (847-850).",
+    "Who rescues the family: 248.7-255.6 someone says 我去处理 and is thanked as 大师; Lin Zhentian thanks 岩大师 at 543.7.",
+    "Lin Dong's Yuan Power realm is not restated (Yuan Dan initial since EP11)."
+  ]
+}

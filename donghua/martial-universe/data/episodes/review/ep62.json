@@ -1,0 +1,114 @@
+{
+  "ep": 62,
+  "title": "The Life and Death Reincarnation Pill",
+  "summary": "Lin Dong snatches the Life and Death Reincarnation Pill from the furnace in the pill chamber while Yan Sen's group fights for it. The furnace is coated with the power of death, and a black mist hurts those who grab at it. Little Mink says restarting the furnace could clear the death power, so Lin Dong and Little Flame start its mechanism. Lin Dong dives through the furnace's spirit fire, protected by the Stone Talisman, seizes the pill, and escapes with Devouring Thunder Palm. Little Mink says refining a body from the pill will take months, so they press on. They reach the ruins of a Tiangang Alliance sect that is guarded by a shifting formation. There they meet Mu Sha of the Youquan Dynasty. Lin Dong turns down his offer to work together, and Mu Sha swears to make him pay.",
+  "events": [
+    "Lin Dong cuts in on Yan Sen's fight over the pill furnace.",
+    "The death power on the furnace strikes those who reach for it.",
+    "Lin Dong and Little Flame restart the furnace through its mechanism.",
+    "Lin Dong seizes the Life and Death Reincarnation Pill through the spirit fire and escapes.",
+    "Little Mink says he needs months to rebuild his body from it.",
+    "They enter a Tiangang Alliance sect's ruins, where the entrance vanishes behind them.",
+    "Mu Sha of the Youquan Dynasty offers a partnership; Lin Dong refuses."
+  ],
+  "introduced": [
+    "Mu Sha",
+    "Youquan Dynasty",
+    "Tiangang Alliance",
+    "power of death"
+  ],
+  "cultivation": "Mu Sha is a Heaven Symbol Master.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "yan-sen",
+      "name": "Yan Sen"
+    },
+    {
+      "id": "mu-sha",
+      "name": "Mu Sha",
+      "first": true,
+      "card": 1189.2
+    }
+  ],
+  "terms": [
+    [
+      "死亡之力",
+      "power of death",
+      "power of death"
+    ],
+    [
+      "石符",
+      "Stone Talisman",
+      "stone talisman"
+    ],
+    [
+      "精神之火",
+      "spirit fire (alchemy)",
+      "spiritual fire for alchemy"
+    ],
+    [
+      "吞噬雷掌",
+      "Devouring Thunder Palm",
+      "Devouring Thunder Palm"
+    ],
+    [
+      "爆狼裂",
+      "Exploding Wolf Crack",
+      "Exploding Wolf Crack"
+    ],
+    [
+      "天罡联盟",
+      "Tiangang Alliance",
+      "Heavenly Gang Alliance"
+    ],
+    [
+      "幽泉王朝",
+      "Youquan Dynasty",
+      "Youquan Dynasty"
+    ],
+    [
+      "风雷印",
+      "Wind Thunder Seal",
+      "Feng Lei Yin"
+    ],
+    [
+      "阵眼",
+      "formation core",
+      "core"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Life and Death Reincarnation Pill"
+    ],
+    "losses": [],
+    "places": [
+      "pill chamber",
+      "Tiangang Alliance sect ruins"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "Recap runs to about 206 s.",
+    "Mu Sha card 1189.2: self-introduction (在下是幽泉王朝的慕沙), not a caption; clock ep62.zh/en.srt.",
+    "The wiki's Mu Sha is a different, female Palace of Darkness character; this Mu Sha is a male Youquan Dynasty Heaven Symbol Master.",
+    "Yan Sen's injured junior (365.2 阎森师兄 快给我疗伤) is unnamed.",
+    "No realm is stated for Lin Dong."
+  ]
+}

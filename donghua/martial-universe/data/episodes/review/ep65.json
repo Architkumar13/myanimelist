@@ -1,0 +1,117 @@
+{
+  "ep": 65,
+  "title": "Shi Kun Falls",
+  "summary": "Shi Kun's group reaches the Eight Extremes Sect gate, where Little Flame stands guard alone and is badly beaten. Inside, Lin Dong survives the remnant master's final move with Little Mink's help. He comes out having learned the spiritual martial art Great Desolate Heaven-Imprisoning Hand. He overpowers Shi Kun and kills him with it, then takes his Ancient Secret Key. Little Mink heals Little Flame with pills from Lin Dong's Qiankun Bag. The Ancient Keys then point the way to the Four Sect Halls, where every dynasty gathers before bronze gates. Lin Langtian, Hong Lie and You Qing accuse Lin Dong of theft and murder and demand his two keys and the pill. Lin Dong refuses and dares Lin Langtian to fight him one on one.",
+  "events": [
+    "Shi Kun's men attack Little Flame, who refuses to let anyone through the gate.",
+    "Lin Dong takes the remnant master's last move and masters the Great Desolate Heaven-Imprisoning Hand.",
+    "Lin Dong overwhelms Shi Kun and kills him.",
+    "Little Mink heals Little Flame with pills from the Qiankun Bag.",
+    "The Ancient Keys lead everyone to the bronze gates of the Four Sect Halls.",
+    "The gates react to Lin Dong's two keys; Lin Langtian, Hong Lie and You Qing demand them.",
+    "Lin Dong refuses and challenges Lin Langtian to fight alone."
+  ],
+  "introduced": [
+    "Great Desolate Heaven-Imprisoning Hand",
+    "Four Sect Halls",
+    "spiritual martial art"
+  ],
+  "cultivation": "Lin Dong gains the spiritual martial art Great Desolate Heaven-Imprisoning Hand. Shi Kun was at the peak of Two Yuan Nirvana when Lin Dong killed him.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "shi-kun",
+      "name": "Shi Kun",
+      "realm": "Two Yuan Nirvana",
+      "quote": "那可是二元涅槃巅峰强者 (1112.2)"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian"
+    },
+    {
+      "id": "hong-lie",
+      "name": "Hong Lie"
+    },
+    {
+      "id": "you-qing",
+      "name": "You Qing"
+    },
+    {
+      "id": "yan-sen",
+      "name": "Yan Sen"
+    }
+  ],
+  "terms": [
+    [
+      "灵武学",
+      "spiritual martial art",
+      "Spiritual Martial Arts"
+    ],
+    [
+      "大荒囚天手",
+      "Great Desolate Heaven-Imprisoning Hand",
+      "Great Wilderness Imprisoning Heaven Hand"
+    ],
+    [
+      "魔像裂天斩",
+      "Demon Statue Sky-Splitting Slash",
+      "Demonic Golem Sky-Splitting Slash"
+    ],
+    [
+      "双魔居合斩",
+      "Twin Demon Drawing Slash",
+      "Twin Demon Iaijutsu"
+    ],
+    [
+      "乾坤袋",
+      "Qiankun Bag",
+      "Qiankun Bag"
+    ],
+    [
+      "四宗殿",
+      "Four Sect Halls",
+      "Four Sects Hall"
+    ],
+    [
+      "铜门",
+      "bronze gate",
+      "bronze gate"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Great Desolate Heaven-Imprisoning Hand",
+      "Shi Kun's Ancient Secret Key"
+    ],
+    "losses": [],
+    "places": [
+      "Eight Extremes Sect trial ground",
+      "Eight Extremes Sect gate",
+      "Four Sect Halls"
+    ]
+  },
+  "flags": [
+    "Recap runs to about 206 s.",
+    "1224.6-1226.5: a junior (probably Yan Sen's injured man, 生死转轮丹 complaint to 洪烈师兄) asks for justice; speaker unclear.",
+    "You Qing is Mu Sha's senior sister and says Lin Dong killed someone of 'our Youquan Dynasty' (1276.6). The wiki has her in the Death Valley Empire; the subtitles win.",
+    "Lin Langtian sides with Hong Lie, fitting the hooded ally of EP61.",
+    "No new characters, so no cards."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

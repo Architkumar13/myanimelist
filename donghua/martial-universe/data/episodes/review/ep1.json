@@ -1,0 +1,193 @@
+{
+  "ep": 1,
+  "title": "The Stone Talisman",
+  "summary": "A wounded Little Mink is hunted down for the Ancestral Stone, hides it, and vows to wait for its next heir. In Qingyang Town, Lin Dong's father Lin Xiao drinks away his days, crippled years ago at a Lin Clan competition by Lin Langtian's hidden blow. Lin Dong is called the son of trash and beaten by his cousins. He wakes with his wounds healed and a strange stone talisman in his hand. Inside a dream space in the talisman, a shadow shows him a ten-ring Tong Bei Fist, and copying it lifts him to Tempered Body 3rd layer. The next day Lin Shan bullies Qing Tan over a stalk of Chiyang Grass, and Lin Dong, now at Tempered Body 4th layer, fights back.",
+  "events": [
+    "Little Mink is cornered in the Eastern Xuan Region, refuses to hand over the Ancestral Stone, and hides it for a future heir.",
+    "Lin Xiao drinks to forget being crippled by Lin Langtian; Liu Yan begs him to stop.",
+    "Lin Dong remembers the clan competition where Lin Langtian, a Yuan Dan genius of the inner clan, ruined his father.",
+    "Lin Dong is beaten and mocked as trash, then wakes healed with a stone talisman in his hand.",
+    "Qing Tan visits him at night, worried about Lin Shan and Lin Hong's bullying.",
+    "In the talisman's dream space Lin Dong copies a shadow's ten-ring Tong Bei Fist and reaches Tempered Body 3rd layer.",
+    "Lin Shan takes Qing Tan's Chiyang Grass; Lin Dong shows Tempered Body 4th layer and strikes back."
+  ],
+  "introduced": [
+    "Lin Dong",
+    "Little Mink",
+    "Lin Xiao",
+    "Liu Yan",
+    "Lin Zhentian",
+    "Lin Langtian",
+    "Qing Tan",
+    "Lin Shan",
+    "Stone Talisman",
+    "Ancestral Stone",
+    "Qingyang Town",
+    "Lin Clan",
+    "clan competition",
+    "Tong Bei Fist",
+    "Chiyang Grass",
+    "Eastern Xuan Region"
+  ],
+  "cultivation": "Lin Dong rises from Tempered Body 2nd layer to 3rd and then 4th layer. In the flashback Lin Langtian reached Earthly Yuan at ten, Heavenly Yuan at twelve and Yuan Dan at fifteen; Lin Xiao was at Heavenly Yuan before he was crippled.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Tempered Body 4th layer",
+      "quote": "淬体四重 (1277.4); 前些日子你才淬体二重 (1280.0)",
+      "first": true,
+      "card": 321.7
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink",
+      "quote": "貂爷就在这 等着你了 (141.6)",
+      "first": true,
+      "card": 141.6
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao",
+      "realm": "Heavenly Yuan",
+      "quote": "爹明明就是最强者……天元境 (325.4-329.6)",
+      "first": true,
+      "card": 293.8
+    },
+    {
+      "id": "liu-yan",
+      "name": "Liu Yan",
+      "quote": "啸哥 少喝点 (276.2)",
+      "first": true,
+      "card": 276.2
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian",
+      "quote": "犬子林啸 希望他能进入前十 (558.8)",
+      "first": true,
+      "card": 558.8
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian",
+      "realm": "Yuan Dan initial",
+      "quote": "他十岁突破淬体九重晋入地元境 十二岁晋天元境……体内结丹进入元丹境 (637.2-644.6)",
+      "first": true,
+      "card": 616.8
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan",
+      "quote": "青檀 你怎么来了 (826.0)",
+      "first": true,
+      "card": 826.0
+    },
+    {
+      "id": "lin-shan",
+      "name": "Lin Shan",
+      "quote": "林山 你不要太过分了 (1147.1)",
+      "first": true,
+      "card": 1147.1
+    }
+  ],
+  "terms": [
+    [
+      "祖石",
+      "Ancestral Stone",
+      "Zushi"
+    ],
+    [
+      "东玄域",
+      "Eastern Xuan Region",
+      "Dongxuan domain"
+    ],
+    [
+      "貂爷",
+      "Little Mink (Master Mink)",
+      "Mink, Mr. Mink"
+    ],
+    [
+      "族比",
+      "clan competition",
+      "clan comparison, race"
+    ],
+    [
+      "林氏宗族 / 内族 / 外族",
+      "Lin Clan / inner clan / outer clan",
+      "Lin clan, inner race/clan, foreign clan"
+    ],
+    [
+      "大炎郡",
+      "Great Yan Commandery",
+      "Dayan County"
+    ],
+    [
+      "淬体",
+      "Tempered Body",
+      "Body Tempering, body quenched"
+    ],
+    [
+      "地元境 / 天元境 / 元丹境",
+      "Earthly Yuan / Heavenly Yuan / Yuan Dan",
+      "Diyuan Realm, Tianyuanjing, Yuandan realm"
+    ],
+    [
+      "通背拳 (十响)",
+      "Tong Bei Fist (ten rings)",
+      "back punch, Ten Ring Tong Bei Fist"
+    ],
+    [
+      "石符",
+      "Stone Talisman",
+      "stone talisman"
+    ],
+    [
+      "符文",
+      "rune",
+      "runes"
+    ],
+    [
+      "赤阳草",
+      "Chiyang Grass",
+      "Chiyang grass, Chi Yang grass"
+    ],
+    [
+      "冰寒体质",
+      "cold physique",
+      "cold physique"
+    ],
+    [
+      "灵药",
+      "elixir",
+      "elixir"
+    ],
+    [
+      "青阳镇",
+      "Qingyang Town",
+      "(not named in English this episode)"
+    ]
+  ],
+  "hero": {
+    "realm": "Tempered Body 4th layer",
+    "gains": [
+      "Stone Talisman"
+    ],
+    "losses": [],
+    "places": [
+      "Lin family home, Qingyang Town",
+      "Stone Talisman space",
+      "mountains near Qingyang Town"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "Open-ended: 0-143 is a prologue with Little Mink; 171-240 is the opening song with empty cues.",
+    "The clan-competition scene (527-736) and the beating (338-443) are memories; Lin Zhentian's card (558.8) and Lin Langtian's (616.8) are in that flashback. No caption cues: all cards are speaking/addressed lines.",
+    "Liu Yan is never named; identified as the woman calling Lin Xiao 啸哥 (276.2).",
+    "Lin Langtian's realm is a narrated history line (entered Yuan Dan at 15), stage not given; recorded as Yuan Dan initial. Lin Xiao's Heavenly Yuan is his pre-crippling realm (329.6), stage not given.",
+    "1088.6 says Tempered Body 3rd layer after the dream; 1277.4 Lin Shan says 4th layer.",
+    "Lin Mang is mentioned (859.6, Lin Shan and Lin Hong's father) and Lin Hong is mentioned (863.0) but neither is clearly on screen; names.txt lists Lin Mang and Lin Ken in EP1."
+  ]
+}

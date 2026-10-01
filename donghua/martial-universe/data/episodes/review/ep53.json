@@ -1,0 +1,164 @@
+{
+  "ep": 53,
+  "title": "Five Fingers and a Golden Body",
+  "summary": "Lin Dong fights Jin Mu with the Demon Ape Transformation, while Jin Mu answers with the Holy Light Demon-Subduing Staff and the Saint Elephant Sky Crumbling Tackle. Lin Dong wins with four fingers, but Jin Mu traps him in the Holy Light Formation. Lin Dong uses five fingers of the Great Desolate Heaven-Imprisoning Finger for the first time and breaks it, and the Holy Light disciples flee. Lin Langtian then attacks the exhausted Lin Dong, but a strange power stops him and he leaves with a threat. Ling Qingzhu meets Yuan Cang, the Little Yuan King, and tells him the Nirvana beasts were all marked with Beast-Driving Seals. Lin Dong worries that five fingers is still too much for him. Little Mink gives him the Lesser Nirvana Golden Body and spends about ten thousand Nirvana Pills to help him forge a Nirvana Golden Body.",
+  "events": [
+    "Lin Dong uses the Demon Ape Transformation against Jin Mu's Holy Light Demon-Subduing Staff.",
+    "Jin Mu's Saint Elephant Sky Crumbling Tackle loses to four fingers of the Great Desolate Heaven-Imprisoning Finger.",
+    "Jin Mu traps Lin Dong in the Holy Light Formation; Lin Dong breaks it with five fingers and the Holy Light disciples flee.",
+    "Lin Langtian attacks Lin Dong and Little Flame, is stopped by a strange force, and leaves vowing to kill him.",
+    "Ling Qingzhu meets Yuan Cang and says someone planted Beast-Driving Seals in many Nirvana beasts.",
+    "A hidden group reports that the super sects have taken the bait.",
+    "Lin Dong practises Jin Mu's Saint Elephant Sky Crumbling Tackle.",
+    "Little Mink teaches him the Lesser Nirvana Golden Body, using up the Nirvana Pills, and Lin Dong forms the Nirvana Golden Body."
+  ],
+  "introduced": [
+    "Yuan Cang (Little Yuan King)",
+    "Saint Elephant Sky Crumbling Tackle",
+    "Holy Light Formation",
+    "Beast-Driving Seal",
+    "Lesser Nirvana Golden Body"
+  ],
+  "cultivation": "Jin Mu is Half-step Nirvana. Lin Dong uses five fingers of the Great Desolate Heaven-Imprisoning Finger for the first time but struggles to control it. He forges the Nirvana Golden Body with the Lesser Nirvana Golden Body, a Manifestation-grade body art.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "jin-mu",
+      "name": "Jin Mu",
+      "realm": "Half-step Nirvana",
+      "quote": "晋牧可是半步涅槃境强者啊 (500.4)"
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian"
+    },
+    {
+      "id": "reverend",
+      "name": "Reverend"
+    },
+    {
+      "id": "ling-qingzhu",
+      "name": "Ling Qingzhu"
+    },
+    {
+      "id": "yuan-cang",
+      "name": "Yuan Cang",
+      "first": true,
+      "card": 959.0
+    }
+  ],
+  "terms": [
+    [
+      "圣光降魔杖",
+      "Holy Light Demon-Subduing Staff",
+      "magic wand of Holy Light"
+    ],
+    [
+      "造化武学",
+      "Manifestation martial art",
+      "martial arts of creation"
+    ],
+    [
+      "中等造化武学",
+      "mid-grade Manifestation martial art",
+      "mid-level martial art"
+    ],
+    [
+      "圣象崩天撞",
+      "Saint Elephant Sky Crumbling Tackle",
+      "holy elephant collapses the sky"
+    ],
+    [
+      "圣光阵",
+      "Holy Light Formation",
+      "Holy Light Array"
+    ],
+    [
+      "魔猿变",
+      "Demon Ape Transformation",
+      "demon ape"
+    ],
+    [
+      "小元王",
+      "Little Yuan King",
+      "Xiao Yuan Wang"
+    ],
+    [
+      "驱兽印 / 兽印",
+      "Beast-Driving Seal",
+      "Beast Mark"
+    ],
+    [
+      "小涅槃金身",
+      "Lesser Nirvana Golden Body",
+      "Little Nirvana Gold body"
+    ],
+    [
+      "涅槃金身",
+      "Nirvana Golden Body",
+      "Nirvana Golden Body"
+    ],
+    [
+      "炼体功法",
+      "body-refining art",
+      "body training"
+    ],
+    [
+      "涅槃之气",
+      "Nirvana Qi",
+      "nirvana energies"
+    ],
+    [
+      "乾坤袋",
+      "Qiankun Bag",
+      "Qiankun Bag"
+    ],
+    [
+      "吞噬祖符",
+      "Devouring Ancestral Symbol",
+      "Devouring Ancestral Talisman"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Saint Elephant Sky Crumbling Tackle",
+      "Lesser Nirvana Golden Body",
+      "Nirvana Golden Body",
+      "five fingers of the Great Desolate Heaven-Imprisoning Finger"
+    ],
+    "losses": [
+      "about 10,000 Nirvana Pills"
+    ],
+    "places": [
+      "Yang City",
+      "a training spot outside Yang City"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "424.9 calls Jin Mu's strength 造化巅峰境 (Manifestation peak), while 500.4 and EP51 693.5 say Half-step Nirvana; Half-step Nirvana used.",
+    "Jin Mu's fate is not stated: after the five-finger strike his followers cry out (775-781) and flee. Lin Dong later practises his Tackle (1080-1106), which suggests he died and Lin Dong took the art; the wiki says Lin Dong kills him.",
+    "855.6 穆师: Lin Langtian calling on his inner spirit (wiki: Reverend, 'Mu Shi') after something blocks his attack. Who blocked him is not shown in the subtitles.",
+    "Yuan Cang is only 小元王殿下 here; the name is the wiki's (Little Yuan King, anime S5 EP5). Card 959.0 is Ling Qingzhu greeting him face to face.",
+    "1051.5 '超级宗派已经上钩了': speakers unnamed; EP54 ties them to the Western Xuan Region."
+  ]
+}

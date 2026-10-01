@@ -1,0 +1,120 @@
+{
+  "ep": 55,
+  "title": "The Heavenly Symbol Spirit Tree",
+  "summary": "Lin Dong finds the Heavenly Symbol Spirit Tree, but its symbol spirit fights him off. Li Pan, a Nirvana expert of the Demon Rock Dynasty, claims the tree, and Lin Dong snatches it during the fight and escapes behind the Nirvana Golden Body. He meets Mo Ling and Mu Hongling, and they hide in a chamber whose Yuan Essence Power formation holds what looks like the Ancient Secret Key, though Lin Dong thinks it is too easy. When Chen Mu, Li Pan and the Xuanbing Dynasty arrive, Lin Dong throws a key to Hua Yun to set them against each other. The hall's statues then wake as Nirvana-level stone puppets, and Lin Dong sends his friends away. Little Mink smells the real key inside one statue.",
+  "events": [
+    "Lin Dong finds the Heavenly Symbol Spirit Tree, but its symbol spirit drives him back.",
+    "Li Pan of the Demon Rock Dynasty claims the tree; Lin Dong takes it during the fight.",
+    "Lin Dong holds off Li Pan with the Nirvana Golden Body and escapes with Little Flame.",
+    "Mo Ling and Mu Hongling join him, and they hide from Demon Rock guards.",
+    "They find a Yuan Essence Power formation holding what looks like the Ancient Secret Key.",
+    "Chen Mu, Li Pan and Hua Yun's group corner them; Lin Dong throws the key to Hua Yun and the two dynasties fight.",
+    "The statues wake as stone puppets; Lin Dong sends Mo Ling and Mu Hongling away and stays.",
+    "Little Mink smells the real Ancient Secret Key inside a statue."
+  ],
+  "introduced": [
+    "Li Pan",
+    "symbol spirit",
+    "stone puppets"
+  ],
+  "cultivation": "Li Pan is a Nirvana expert. The stone puppets are at least Nirvana.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "li-pan",
+      "name": "Li Pan",
+      "realm": "Nirvana",
+      "quote": "这家伙 也是个涅槃境强者 (336.6-337.8)",
+      "first": true,
+      "card": 853.2
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling"
+    },
+    {
+      "id": "mu-hongling",
+      "name": "Mu Hongling"
+    },
+    {
+      "id": "chen-mu",
+      "name": "Chen Mu"
+    },
+    {
+      "id": "hua-yun",
+      "name": "Hua Yun"
+    }
+  ],
+  "terms": [
+    [
+      "符灵",
+      "symbol spirit",
+      "talisman"
+    ],
+    [
+      "灵识",
+      "spiritual awareness",
+      "spiritual consciousness"
+    ],
+    [
+      "灵傀",
+      "spirit puppet",
+      "Spiritual Puppet"
+    ],
+    [
+      "元精之力",
+      "Yuan Essence Power",
+      "power of the Yuanjing / essence"
+    ],
+    [
+      "远古秘藏",
+      "Ancient Treasure Trove",
+      "ancient secret treasure"
+    ],
+    [
+      "石傀",
+      "stone puppet",
+      "stone puppets"
+    ],
+    [
+      "元力感应",
+      "Yuan Power sense",
+      "energy sensing"
+    ]
+  ],
+  "hero": {
+    "realm": "Manifestation",
+    "gains": [
+      "Heavenly Symbol Spirit Tree"
+    ],
+    "losses": [],
+    "places": [
+      "lower level of the Leiyan Valley treasure",
+      "hidden chamber with the key formation",
+      "statue hall"
+    ]
+  },
+  "flags": [
+    "Recap runs about 170-209 s.",
+    "Li Pan is first on screen at 330 (unnamed) and named at 853.2 when Chen Mu addresses him; card 853.2. Wiki debut S5 EP6 = EP54, but no Li Pan is named there; marked first here.",
+    "360.2 '一个区区造化境的小子' is Li Pan calling Lin Dong Manifestation (stage not given); hero realm set to 'Manifestation'.",
+    "512.6-513.8 '这是 灵傀': whose spirit puppet is unclear (probably Lin Dong's Blood Spirit Puppet appearing).",
+    "910.0 '华云兄 远古秘钥已经到手 接着': Lin Dong tossing the decoy key to Hua Yun; the speaker is presumably Lin Dong.",
+    "Mu Hongling's 'Yuan Power sense' (584.5) is a cover for hidden strength, revealed in EP56."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

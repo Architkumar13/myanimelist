@@ -1,0 +1,157 @@
+{
+  "ep": 35,
+  "title": "The Previous Master",
+  "summary": "Lin Dong's Destiny Symbol leads him to a hall where Elder Cao of the Yin Puppet Sect is binding a high-grade Symbol Puppet, and Lin Dong forces Cao to give it up. Teng Lei arrives and fights Mu Qianqian, thinking she has it. Lin Dong drags Cao down through the Nine Underworld Cold Qi, but the altar below is empty, because the Yin Puppet Sect's master took the treasure three years ago. Inside a black stone pillar, Lin Dong meets the previous master of the Devouring Ancestral Symbol. The old man tests him with his memories, approves of him, and gives him the means to break the Ancestral Symbol's seal, warning that its power comes with a duty. Back outside, Lin Dong turns the high-grade Symbol Puppet on Teng Lei and his Yin Puppet Formation and drives them off. Mu Qianqian then tells him about the Manifestation Martial Tablet.",
+  "events": [
+    "Lin Dong catches Elder Cao binding a high-grade Symbol Puppet and forces him to give it up.",
+    "Teng Lei accuses Mu Qianqian of taking the puppet, and their groups fight.",
+    "Lin Dong takes Cao down through the Nine Underworld Cold Qi to an empty altar; Cao says the Yin Puppet Sect's master took the treasure three years ago.",
+    "Through a black stone pillar Lin Dong meets the previous master of the Devouring Ancestral Symbol, who recognises Little Mink as a Celestial Demon Marten.",
+    "The old man tests Lin Dong with his memories, approves of him, and gives him what he needs to break the Ancestral Symbol's seal.",
+    "Lin Dong leaves Cao behind as promised, then crushes Teng Lei's Yin Puppet Formation with the high-grade Symbol Puppet, which burns through his Pure Yuan Pills.",
+    "Mu Qianqian tells him about the Manifestation Martial Tablet, where Manifestation-grade martial arts can be won."
+  ],
+  "introduced": [
+    "Elder Cao",
+    "Black-Eyed Elder",
+    "high-grade Symbol Puppet",
+    "Nine Underworld Cold Qi",
+    "Manifestation Martial Tablet"
+  ],
+  "cultivation": "Only Manifestation experts can normally pass the Nine Underworld Cold Qi. The previous master of the Devouring Ancestral Symbol approves Lin Dong. The high-grade Symbol Puppet runs on Pure Yuan Pills and drains them fast.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "elder-cao",
+      "name": "Elder Cao",
+      "first": true,
+      "card": 292.7
+    },
+    {
+      "id": "teng-lei",
+      "name": "Teng Lei"
+    },
+    {
+      "id": "mu-qianqian",
+      "name": "Mu Qianqian"
+    },
+    {
+      "id": "black-eyed-elder",
+      "name": "Black-Eyed Elder",
+      "first": true,
+      "card": 812.8
+    }
+  ],
+  "terms": [
+    [
+      "高等符傀",
+      "high-grade Symbol Puppet",
+      "high-level talisman puppet / High Rune"
+    ],
+    [
+      "精神烙印",
+      "spiritual imprint",
+      "spiritual imprint"
+    ],
+    [
+      "曹长老",
+      "Elder Cao",
+      "Elder Cao"
+    ],
+    [
+      "魔刹掌",
+      "Devil Rakshasa Palm",
+      "Magic palm"
+    ],
+    [
+      "大魔甲胄",
+      "Great Demon Armor",
+      "Great Demon Armor"
+    ],
+    [
+      "九幽寒气",
+      "Nine Underworld Cold Qi",
+      "cold air of Jiuyou"
+    ],
+    [
+      "祭坛",
+      "altar",
+      "altar"
+    ],
+    [
+      "吞噬祖符",
+      "Devouring Ancestral Symbol",
+      "Devour Ancestral Talisman"
+    ],
+    [
+      "天妖貂",
+      "Celestial Demon Marten",
+      "Sky Demon Sable"
+    ],
+    [
+      "符石",
+      "Stone Talisman",
+      "runestone"
+    ],
+    [
+      "阴傀大阵",
+      "Yin Puppet Formation",
+      "Yin puppet array"
+    ],
+    [
+      "阴魔杀",
+      "Yin Devil Kill",
+      "Shaman"
+    ],
+    [
+      "造化武碑",
+      "Manifestation Martial Tablet",
+      "Good Fortune Monument / Stele"
+    ],
+    [
+      "造化级的武学",
+      "Manifestation-grade martial art",
+      "Good fortune level martial arts"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "high-grade Symbol Puppet",
+      "the previous master's seal-breaking gift for the Devouring Ancestral Symbol"
+    ],
+    "losses": [
+      "most of his Pure Yuan Pills (burned by the puppet)"
+    ],
+    "places": [
+      "ancient sect hall inside the tablet",
+      "Nine Underworld Cold Qi shaft",
+      "empty altar",
+      "space inside the black stone pillar",
+      "ancient sect hall (fight with Teng Lei)"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "The old man is never named in this episode; he calls himself the previous master of the Devouring Ancestral Symbol (837.1). In EP36 Little Mink calls the same elder 黑瞳师尊 (1179.4), which is the wiki's Black-Eyed Elder (names.txt EP35).",
+    "870-918 is the test: flashback lines from earlier seasons (Lin Langtian's 蝼蚁, Ling Qingzhu's farewell, children mocking Lin Dong's father). Those people are not in the cast.",
+    "955.2 去: the object the elder gives Lin Dong is not named; he says to use it to break the Devouring Ancestral Symbol's seal (959.4).",
+    "928.2 我的符石: Lin Dong means his Stone Talisman (石符); the characters are reversed in this line.",
+    "Elder Cao is the one who goes down with Lin Dong and complains about it (550.7, 592.2); he is left behind at 1054.4.",
+    "Card 292.7 is Elder Cao's first face-to-face line to Lin Dong; 261.4 is where he is named."
+  ]
+}

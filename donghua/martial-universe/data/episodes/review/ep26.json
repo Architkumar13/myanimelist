@@ -1,0 +1,155 @@
+{
+  "ep": 26,
+  "title": "Copper Thunder Body",
+  "summary": "Di Teng chases Lin Dong through the forest for the Thunder Source, then seals off the woods. Lin Dong finds Little Flame lying beside the dead Thunder Source Crystal Beast, whose essence is reshaping its body. While Little Flame recovers, Lin Dong refines the Thunder Source, forms the Copper Thunder Body and breaks through to Form Creation. Di Teng teams up with his rival Liu Kui, another Form Creation expert, but Lin Dong holds them off with his halberd and reveals that he is a 4th Seal Symbol Master. Little Flame wakes up evolved and turns the fight, and the two old men pay Lin Dong 100,000 Pure Yuan Pills each to let them go. At the edge of Great Desolate Province he gets lost in a misty forest and saves a little girl from a beast.",
+  "events": [
+    "Lin Dong escapes Di Teng, who sends everyone to search the forest.",
+    "Little Flame has killed the Thunder Source Crystal Beast, and the beast's essence is reshaping its body.",
+    "Lin Dong hides and refines the Thunder Source, forming the Copper Thunder Body and reaching Form Creation.",
+    "Liu Kui appears and agrees to help Di Teng in exchange for a share of the Thunder Source.",
+    "Lin Dong fights both of them with his halberd arts and a Huasheng Symbol Formation, showing he is a 4th Seal Symbol Master.",
+    "Little Flame wakes up evolved; Di Teng and Liu Kui give up and pay 100,000 Pure Yuan Pills each.",
+    "Lost in a misty forest for two days, Lin Dong saves a little girl from a beast."
+  ],
+  "introduced": [
+    "Liu Kui",
+    "Jiang Yinyin",
+    "Liu Family"
+  ],
+  "cultivation": "Lin Dong refines the Thunder Source, forms the Copper Thunder Body (first layer of the Great Sun Thunder Body) and breaks through to Form Creation. He is a 4th Seal Symbol Master. Di Teng and Liu Kui are both Form Creation. Little Mink expects the evolved Little Flame to reach at least Form Creation. Di Teng judges that Lin Dong can stand up to Form Creation peak fighters.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Form Creation",
+      "quote": "就算你现在是造形境又如何 (800.6)"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame",
+      "look": "evolved form after absorbing the crystal beast's essence; Lin Dong finds it handsome, Little Mink calls it ugly; it can change size"
+    },
+    {
+      "id": "di-teng",
+      "name": "Di Teng",
+      "realm": "Form Creation",
+      "quote": "我们二人 可都是造形境强者 (803.1)"
+    },
+    {
+      "id": "di-yun",
+      "name": "Di Yun"
+    },
+    {
+      "id": "liu-kui",
+      "name": "Liu Kui",
+      "realm": "Form Creation",
+      "quote": "我们二人 可都是造形境强者 (803.1)",
+      "first": true,
+      "card": 670.5
+    },
+    {
+      "id": "jiang-yinyin",
+      "name": "Jiang Yinyin",
+      "first": true,
+      "card": 1241.6
+    }
+  ],
+  "terms": [
+    [
+      "重山刀",
+      "Heavy Mountain Blade",
+      "heavy mountain knife"
+    ],
+    [
+      "天鳞戟法",
+      "Heavenly Scales Halberd Art",
+      "Tianlin Halberd Method / Sky scale halberd method"
+    ],
+    [
+      "化蛟戟",
+      "Flood Dragon Halberd",
+      "Huajiao Ji"
+    ],
+    [
+      "金台镇魔掌",
+      "Subduing Golden Platform Magic Palm",
+      "Jintai town magic palm"
+    ],
+    [
+      "小阴风掌",
+      "Little Yin Wind Palm",
+      "Xiaoyinfeng Palm"
+    ],
+    [
+      "大炎空掌",
+      "Great Flame Void Palm",
+      "Great Flame Empty Palm"
+    ],
+    [
+      "血源残指",
+      "Blood Source Remnant Finger",
+      "Bloodborne Remnant Finger"
+    ],
+    [
+      "黑魔掌刃",
+      "Black Devil Palm Blade",
+      "Dark Blade"
+    ],
+    [
+      "四印符师",
+      "4th Seal Symbol Master",
+      "Siyinfu master"
+    ],
+    [
+      "化生符阵",
+      "Huasheng Symbol Formation",
+      "Transformation rune"
+    ],
+    [
+      "万化炎",
+      "Myriad Transformation Flame",
+      "Wan Huayan"
+    ],
+    [
+      "上乘武学",
+      "superior martial art",
+      "superior martial arts"
+    ],
+    [
+      "柳老鬼",
+      "Liu Kui",
+      "old ghost willow"
+    ]
+  ],
+  "hero": {
+    "realm": "Form Creation",
+    "gains": [
+      "Copper Thunder Body",
+      "200,000 Pure Yuan Pills (100,000 each from Di Teng and Liu Kui)"
+    ],
+    "losses": [
+      "Thunder Source (refined)"
+    ],
+    "places": [
+      "forest in Dayang Province",
+      "Little Flame's clearing by the dead crystal beast",
+      "misty forest at the edge of Great Desolate Province"
+    ]
+  },
+  "flags": [
+    "155.5: the recap gives Di Teng's goal as 造化境, but EP25 (1049.8) says 造气境. I followed EP25 (Qi Creation).",
+    "Liu Kui is only called 柳老鬼 (old ghost Liu) in the subtitles; the full name comes from the wiki (names.txt EP26 Liu Kui). names.txt also lists a 'Liu Gui' first in EP26 (wiki S3 EP2, Form Creation initial). That is probably the same man under a second wiki page; I used liu-kui only.",
+    "Which side uses which named move in the 846-913 exchange is not fully clear. 金台镇魔掌 is Lin Dong's (the Wang family palm he already used in EP23). 小阴风掌 and 大炎空掌 belong to the two old men, and 血源残指 and 黑魔掌刃 are probably Liu Kui's. I kept the summary general.",
+    "236.0 and 750.6 重山刀: probably Di Teng's blade art, but the speaker is unclear.",
+    "No stage is given for Lin Dong's new Form Creation realm, so I left it as plain 'Form Creation' (fresh breakthrough, so it is presumably initial).",
+    "Jiang Yinyin is not named until EP27 (199.9); card 1241.6 is her face-to-face line to Lin Dong."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "ep": 34,
+  "title": "Jade Thunder Body",
+  "summary": "Inside the Great Desolate Ancient Tablet, Lin Dong finds a vast space left by an ancient sect, abandoned for thousands of years. An underground beast drags him into quicksand tunnels and splits him from Little Flame. To escape, he and Little Mink jump through a Yin Wind Formation whose winds nearly tear him apart but push his Great Sun Thunder Body up to the Jade Thunder Body. Past the barrier lies an ancient disciple's body, and Lin Dong sees flashes of his memories: disciples fighting a terrible force, and an old man holding a black rune, which Little Mink says is the Ancestral Symbol. The body also leaves him a Nirvana Pill. Gu Yan of the Ancient Sword Sect has caught Little Flame. Lin Dong takes a full blow from him to save it, punches him over the edge of a chasm and leaves him hanging there.",
+  "events": [
+    "The tablet opens into a huge space made by the ancient sect, thick with Yuan Power.",
+    "An underground beast attacks; Lin Dong falls through quicksand into tunnels and loses Little Flame.",
+    "He and Little Mink leap through a Yin Wind Formation, and he forms the Jade Thunder Body.",
+    "They find an ancient disciple's body; Lin Dong sees his memories of a battle and of an old man with a black rune.",
+    "Little Mink says the black rune is the Ancestral Symbol and that it is inside the tablet space; Lin Dong gets a Nirvana Pill.",
+    "Gu Yan has captured Little Flame; Lin Dong takes his blow, frees Little Flame and punches Gu Yan over a chasm's edge, leaving him there."
+  ],
+  "introduced": [
+    "Jade Thunder Body",
+    "Yin Wind Formation",
+    "Nirvana Pill"
+  ],
+  "cultivation": "Lin Dong's Great Sun Thunder Body advances from the Copper Thunder Body to the Jade Thunder Body. The Nirvana Pill is made only by Nirvana experts and will help him when he nears Nirvana.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "gu-yan",
+      "name": "Gu Yan"
+    }
+  ],
+  "terms": [
+    [
+      "古碑空间",
+      "ancient tablet space",
+      "monument space"
+    ],
+    [
+      "远古宗派",
+      "ancient sect",
+      "ancient sect"
+    ],
+    [
+      "流沙",
+      "quicksand",
+      "quicksand"
+    ],
+    [
+      "阴风阵",
+      "Yin Wind Formation",
+      "windy / wind gust"
+    ],
+    [
+      "玉雷体",
+      "Jade Thunder Body",
+      "Yuleite / jade thunder body"
+    ],
+    [
+      "元神",
+      "soul",
+      "(untranslated: 'already dead')"
+    ],
+    [
+      "黑色符文",
+      "black rune",
+      "black rune"
+    ],
+    [
+      "涅槃丹",
+      "Nirvana Pill",
+      "Nirvana pill"
+    ],
+    [
+      "吞狼断山掌",
+      "Devouring Wolf Breaking Mountain Palm",
+      "Wolf Swallowing Broken Mountain Palm"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Jade Thunder Body",
+      "Nirvana Pill"
+    ],
+    "losses": [],
+    "places": [
+      "inside the Great Desolate Ancient Tablet",
+      "quicksand tunnels",
+      "Yin Wind Formation",
+      "ancient disciple's resting place",
+      "chasm edge where Gu Yan holds Little Flame"
+    ]
+  },
+  "flags": [
+    "The subtitles name the Jade Thunder Body (661.0, 692.8) but do not describe how it looks; no 'look' is recorded.",
+    "1159.4 '林动 快拉我上来' is Gu Yan hanging over the edge after Lin Dong's punch. Lin Dong leaves him, saying he brought it on himself (1180.2); whether Gu Yan falls is not shown in the subtitles.",
+    "1140.4 吞狼断山掌 is Gu Yan's move; the wiki has 'Devouring Wolf Breaking Mountain Arm' (Ancient Sword Sect). I used 'Palm' to match 掌.",
+    "Recap runs to about 175 s."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

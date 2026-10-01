@@ -1,0 +1,78 @@
+{
+  "ep": 21,
+  "title": "The Nirvana Heart",
+  "summary": "In the tomb master's palace, Ling Qingzhu tells Lin Dong the Nirvana Heart is not for him, and he says he only came to see it. She opens its seal with ease and starts absorbing it, while Lin Dong bows at the coffin and reads the tomb master's last words. The master chose cultivation over the woman he loved, so his legacy can only be absorbed by two people who love each other. The Nirvana power backlashes, and Ling Qingzhu asks for Lin Dong's Yuan Dan and tries to take it by force when he refuses. The tomb master's remnant soul then appears, angry at the shattered coffin, and attacks her. Lin Dong begs him to spare her, and the master pushes the two of them together into the Nirvana power so they absorb it as a pair. As thanks for the bow, the master also teaches Lin Dong the technique of the Ancient Heavenly Scales Halberd, and outside, the great formation lifts for Lin Langtian's group.",
+  "events": [
+    "Ling Qingzhu meets Lin Dong at the Nirvana Heart; he says he will not compete and she gives her name.",
+    "She breaks the Nirvana Heart's seal and begins absorbing it.",
+    "Lin Dong bows at the tomb master's coffin and reads that his legacy needs two people with feelings for each other.",
+    "The Nirvana power backlashes; Ling Qingzhu asks for Lin Dong's Yuan Dan, he refuses, and she attacks.",
+    "The tomb master's remnant soul appears and overpowers Ling Qingzhu.",
+    "Lin Dong pleads for her; the master forces them to absorb the Nirvana power together.",
+    "The master teaches Lin Dong the Ancient Heavenly Scales Halberd technique.",
+    "The great formation opens, and Lin Langtian's group heads for the main chamber."
+  ],
+  "introduced": [
+    "Master of the Tomb (remnant soul)",
+    "Ling Qingzhu (named)"
+  ],
+  "cultivation": "Lin Dong and Ling Qingzhu absorb the Nirvana Heart's power together. No realm is stated this episode.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "ling-qingzhu",
+      "name": "Ling Qingzhu"
+    },
+    {
+      "id": "master-of-the-tomb",
+      "name": "Master of the Tomb",
+      "first": true,
+      "card": 867.0
+    }
+  ],
+  "terms": [
+    [
+      "元灵",
+      "remnant soul",
+      "Yuanling / remnant spirit"
+    ],
+    [
+      "涅槃之力",
+      "Nirvana power",
+      "power of Nirvana"
+    ],
+    [
+      "天鳞古戟功法",
+      "Ancient Heavenly Scales Halberd technique",
+      "skills of the ancient halberd"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "share of the Nirvana Heart's power",
+      "Ancient Heavenly Scales Halberd technique (taught by the tomb master)"
+    ],
+    "losses": [],
+    "places": [
+      "tomb master's palace",
+      "a space made by the tomb master"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "The file includes the opening song (52-114) and ending song (1361-1446) lyrics; ignore them.",
+    "Recap 143-193 is EP20 material.",
+    "Master of the Tomb card 867.0 is where Lin Dong asks 你是 and he answers 墓府之主 (869-871); his statue appears in EP19. names.txt lists him with no donghua episode.",
+    "What happens inside the master's space (1119-1250) is shown with almost no dialogue; the summary says only that they absorb the power together.",
+    "No realm is stated; EP22 opens with Lin Dong at Yuan Dan perfect."
+  ]
+}

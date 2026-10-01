@@ -1,0 +1,161 @@
+{
+  "ep": 66,
+  "title": "The Green Dragon Hall",
+  "summary": "Lin Langtian, Hong Lie and You Qing attack Lin Dong together, and Little Flame is hurt blocking Lin Langtian. Little Mink gives Lin Dong the Demon Dragon Hound's demon soul, and he uses it to summon the true soul of the Ancient Heavenly Crocodile, which crushes Hong Lie and You Qing. Lin Dong beats Lin Langtian's spiritual martial art with the Great Desolate Heaven-Imprisoning Hand, but Lin Langtian flees. Behind the bronze gate is the Green Dragon Hall, where the remnant shadow of Qing Zhi, the Green Dragon King, tests Lin Dong. Qing Zhi learns that Hei Tong passed on the Devouring Ancestral Symbol and gives Lin Dong the Green Heaven Materialized Dragon Skill. After three months in the hall's pill store, Lin Dong reaches Three Yuan Nirvana, and Little Mink regains a body in human form. On the way out an elder of a Super Sect sends them to Wanxiang City.",
+  "events": [
+    "Lin Langtian, Hong Lie and You Qing attack Lin Dong together; Little Flame is hurt.",
+    "Lin Dong uses the hound's demon soul to summon the Ancient Heavenly Crocodile's true soul.",
+    "Lin Dong defeats Lin Langtian's spiritual martial art, and Lin Langtian flees crying to a Master Mu for help.",
+    "In the Green Dragon Hall, Qing Zhi's remnant shadow tests Lin Dong with Heavenly Dragon Energy.",
+    "Qing Zhi gives him the Green Heaven Materialized Dragon Skill out of regard for Hei Tong.",
+    "Three months later Lin Dong breaks through to Two and then Three Yuan Nirvana.",
+    "Little Mink rebuilds his body in human form; Little Flame returns stronger.",
+    "An elder sends them to Wanxiang City, the Super Sects' selection ground."
+  ],
+  "introduced": [
+    "Qing Zhi",
+    "Green Dragon Hall",
+    "Green Heaven Materialized Dragon Skill",
+    "Ancient Heavenly Crocodile",
+    "Wanxiang City",
+    "Super Sect",
+    "Nirvana Ranking"
+  ],
+  "cultivation": "Lin Dong breaks through to Two Yuan Nirvana and then Three Yuan Nirvana after three months in the pill store. Little Mink restores his physical body in human form.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Three Yuan Nirvana",
+      "quote": "[Alam Nirvana Ketiga] / Alam Nirvana Ketiga (1093.4, 1103.4)"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink",
+      "look": "takes human form as a young man; caption [Lin Diao]",
+      "card": 1132.7
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian"
+    },
+    {
+      "id": "hong-lie",
+      "name": "Hong Lie"
+    },
+    {
+      "id": "you-qing",
+      "name": "You Qing"
+    },
+    {
+      "id": "qing-zhi",
+      "name": "Qing Zhi",
+      "first": true,
+      "card": 747.0
+    },
+    {
+      "id": "wu-dao",
+      "name": "Wu Dao",
+      "first": true,
+      "card": 1302.7
+    }
+  ],
+  "terms": [
+    [
+      "",
+      "Ancient Heavenly Crocodile",
+      "Ancient Sky Crocodile / ancient celestial crocodile"
+    ],
+    [
+      "妖魂",
+      "demon soul",
+      "Demonic Spirit"
+    ],
+    [
+      "灵宝",
+      "Soul Treasure",
+      "Lingbao / magic weapon"
+    ],
+    [
+      "青龙殿",
+      "Green Dragon Hall",
+      "Azure Dragon Palace"
+    ],
+    [
+      "青雉",
+      "Qing Zhi, the Green Dragon King",
+      "Aokiji"
+    ],
+    [
+      "吞噬祖符",
+      "Devouring Ancestral Symbol",
+      "devouring ancestral symbols"
+    ],
+    [
+      "黑瞳",
+      "Hei Tong",
+      "Kurohime / Black Eyes"
+    ],
+    [
+      "",
+      "Heavenly Dragon Energy",
+      "aura of the Heavenly Dragon"
+    ],
+    [
+      "",
+      "Green Heaven Materialized Dragon Skill",
+      "Azure Dragon Transformation Technique"
+    ],
+    [
+      "万象城",
+      "Wanxiang City",
+      "MixC"
+    ],
+    [
+      "超级宗派",
+      "Super Sect",
+      "super sect"
+    ],
+    [
+      "涅槃榜",
+      "Nirvana Ranking",
+      "Nirvana List"
+    ],
+    [
+      "林貂",
+      "Lin Diao (Little Mink's human name)",
+      "Lin Diao (caption)"
+    ]
+  ],
+  "hero": {
+    "realm": "Three Yuan Nirvana",
+    "gains": [
+      "Green Heaven Materialized Dragon Skill",
+      "Three Yuan Nirvana"
+    ],
+    "losses": [],
+    "places": [
+      "Four Sect Halls",
+      "Green Dragon Hall",
+      "Green Dragon Hall pill store",
+      "Ancient Battlefield road out of the halls"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "No official subtitle track; written from ep66.id.srt plus the compilation English (s6-compilation-ep65-68.en.txt, 5600-6770). Cards use the ep66.id.srt clock.",
+    "Qing Zhi card 747.0 is a caption ([Qing Zhi, Raja Naga Hijau]). Little Mink card 1132.7 is the caption [Lin Diao] on his new human form. Wu Dao card 1302.7: the elder asks Lin Dong's name face to face, not a caption.",
+    "The elder is unnamed here; EP70 (544-551) has Lin Dong recognise him, and he names himself Wu Dao of the Dao Sect. names.txt gives Wu Dao's first episode as 68 (his first caption).",
+    "Lin Langtian's spiritual martial art (436.2) is garbled: id 'Seni Bela Diri yang Menghancurkan Surga', compilation 'Martial Sect Reincarnation Technique'. Unnamed in the text.",
+    "524.0 'Guru Mu, tolonglah aku!' / 5925.2 'Master Mu, help me': Lin Langtian calls a Master Mu as he escapes; who that is goes unexplained.",
+    "940.8 caption [Gerbang Harimau Ganas] (Fierce Tiger Gate) seems to be where Little Flame trains; not used in viewer text.",
+    "The Ancient Heavenly Crocodile is not new to Lin Dong; it is left out of cast."
+  ]
+}

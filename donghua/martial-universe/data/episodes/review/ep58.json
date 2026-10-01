@@ -1,0 +1,109 @@
+{
+  "ep": 58,
+  "title": "The Mighty Earthsplitting Tiger",
+  "summary": "Lin Dong hits Shi Xuan with five fingers of the Great Desolate Heaven-Imprisoning Finger, but Shi Xuan's counter leaves Little Flame badly hurt, and the Ancient Secret Key teleports them back to Yang City. Little Mink says only the essence blood of a related tiger can save Little Flame, so Lin Dong goes after the One Yuan Nirvana Mighty Earthsplitting Tiger in the Demon Forest. On Little Mink's advice he combines Mental Strength with Devouring Power and creates the Devouring Thunder Palm. The tiger can speak and hates humans because the Demon Rock Dynasty killed its cubs, but it agrees to give its blood. The blood carries the Heavenly Demonic Tiger bloodline, which will either take Little Flame into Nirvana or kill him. Little Flame begins to absorb it, and Shi Xuan tracks them down.",
+  "events": [
+    "Lin Dong's five fingers cannot finish Shi Xuan, whose seal badly wounds Little Flame.",
+    "The Ancient Secret Key teleports the group back to Yang City.",
+    "Little Mink says Little Flame needs blood from a tiger of a related bloodline.",
+    "Lin Dong leaves Mo Ling in Yang City and goes to the Demon Forest.",
+    "He fights the One Yuan Nirvana tiger and invents the Devouring Thunder Palm.",
+    "The tiger speaks, angry about its slain cubs, and agrees to help Little Flame.",
+    "Its blood carries the Heavenly Demonic Tiger bloodline; Little Flame starts to absorb it.",
+    "Shi Xuan finds Lin Dong's hiding place."
+  ],
+  "introduced": [
+    "Devouring Thunder Palm",
+    "Heavenly Demonic Tiger tribe",
+    "Demon Statue Sky-Shaking Seal"
+  ],
+  "cultivation": "The Mighty Earthsplitting Tiger is One Yuan Nirvana. If Little Flame fuses its Heavenly Demonic Tiger bloodline, he will heal and leap into Nirvana; if he fails he dies.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "shi-xuan",
+      "name": "Shi Xuan",
+      "realm": "One Yuan Nirvana",
+      "quote": "你竟能将一元涅槃境的强者击败 (291.6)"
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling"
+    },
+    {
+      "id": "mighty-earthsplitting-tiger",
+      "name": "Mighty Earthsplitting Tiger",
+      "realm": "One Yuan Nirvana",
+      "quote": "未曾想这头裂地虎 已是一元涅槃境 (804.1-805.4)",
+      "first": true,
+      "card": 1095.9
+    }
+  ],
+  "terms": [
+    [
+      "魔像震天印",
+      "Demon Statue Sky-Shaking Seal",
+      "Magic statue / sky-shaking seal"
+    ],
+    [
+      "吞噬雷掌",
+      "Devouring Thunder Palm",
+      "Swallowing Thunder Palm"
+    ],
+    [
+      "天魔虎族",
+      "Heavenly Demonic Tiger tribe",
+      "Demon Tiger Clan"
+    ],
+    [
+      "三大兽族",
+      "three great beast tribes",
+      "three major beast tribes"
+    ],
+    [
+      "精血",
+      "essence blood",
+      "essence and blood"
+    ],
+    [
+      "一元涅槃",
+      "One Yuan Nirvana",
+      "One-Yuan Nirvana"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Devouring Thunder Palm",
+      "Mighty Earthsplitting Tiger's essence blood (for Little Flame)"
+    ],
+    "losses": [],
+    "places": [
+      "near Demon Rock City",
+      "Yang City",
+      "Demon Forest",
+      "hidden spot in the Demon Forest"
+    ]
+  },
+  "flags": [
+    "Recap runs about 169-217 s.",
+    "291.6 '你竟能将一元涅槃境的强者击败' is said after Lin Dong's five-finger strike, but Shi Xuan is not beaten (295.0 '恐怕没那么容易').",
+    "The tiger's card 1095.9 is its first spoken line, to Little Mink.",
+    "The wiki has a separate Groundbreaking Thunder Tiger; 大力裂地虎 here matches the wiki's Mighty Earthsplitting Tiger (One Yuan Nirvana)."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

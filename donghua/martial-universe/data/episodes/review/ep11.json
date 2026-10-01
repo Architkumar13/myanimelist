@@ -1,0 +1,135 @@
+{
+  "ep": 11,
+  "title": "Yuan Dan Before the Duel",
+  "summary": "Five days before the duel, Lin Dong uses the Three Yang Art and the Stone Talisman to open twenty-two meridians. He then absorbs the Yin Yang Pearls and forms an eight-star Yuan Dan, double his grandfather's four stars, and also becomes a 2nd Seal Symbol Master. Xuan Su brings his grandfather, father and Qing Tan, who have quietly come to Yan City, and he shows Lin Xiao his new Yuan Dan initial strength. In the arena Wei Tong is shocked by Lin Dong's progress. Lin Dong holds his own with the Yuan-Shattering Shuttle and the Spiral Wave against Wei Tong's Thousand Crack Palm, even though a mental barrier stops him flying away. Then a Blood Wolf Gang Symbol Master seizes Qing Tan as a hostage, and Wei Tong strikes the distracted Lin Dong.",
+  "events": [
+    "Lin Dong opens twenty-two meridians with the Three Yang Art and the Stone Talisman.",
+    "The Yin Yang Pearls give him an eight-star Yuan Dan at Yuan Dan initial; he also reaches the 2nd Seal.",
+    "Wu Yun escorts Qing Tan; the family reunites with Lin Dong in Yan City through Xuan Su.",
+    "Lin Dong tests his father with the Pure Yuan Finger, and Lin Xiao sees he is at Yuan Dan initial.",
+    "The duel begins at the Yan City arena, watched by Yue Shan and Xia Wanjin.",
+    "Wei Tong uses Breaking Kill Fist and Thousand Crack Palm; Lin Dong answers with the shuttle and Spiral Wave.",
+    "A Blood Wolf Gang Symbol Master takes Qing Tan hostage, and Wei Tong strikes Lin Dong."
+  ],
+  "introduced": [
+    "eight-star Yuan Dan",
+    "Pure Yuan Finger",
+    "Breaking Kill Fist",
+    "Thousand Crack Palm",
+    "arena mental barrier"
+  ],
+  "cultivation": "Lin Dong forms an eight-star Yuan Dan and reaches Yuan Dan initial; he also becomes a 2nd Seal Symbol Master, with mental strength said to match a 3rd Seal. Wei Tong is at Yuan Dan advanced.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Yuan Dan initial",
+      "quote": "八星元丹 (438.2); 你晋入小元丹境了 (798.9)",
+      "first": false
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan",
+      "first": false
+    },
+    {
+      "id": "wu-yun",
+      "name": "Wu Yun",
+      "first": false
+    },
+    {
+      "id": "xuan-su",
+      "name": "Xuan Su",
+      "first": false
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian",
+      "first": false
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao",
+      "first": false
+    },
+    {
+      "id": "xia-wanjin",
+      "name": "Xia Wanjin",
+      "first": false
+    },
+    {
+      "id": "wei-tong",
+      "name": "Wei Tong",
+      "realm": "Yuan Dan advanced",
+      "quote": "到底是元丹境小圆满强者的攻击 (1144.8)",
+      "first": false
+    }
+  ],
+  "terms": [
+    [
+      "八星元丹",
+      "eight-star Yuan Dan",
+      "Eight Star Yuan Dan"
+    ],
+    [
+      "阴阳交泰",
+      "union of Yin and Yang",
+      "Yin and Yang"
+    ],
+    [
+      "二印符师",
+      "2nd Seal Symbol Master",
+      "second sealer, Second Signer"
+    ],
+    [
+      "纯元指",
+      "Pure Yuan Finger",
+      "pure meta"
+    ],
+    [
+      "破杀拳",
+      "Breaking Kill Fist",
+      "Shashaquan"
+    ],
+    [
+      "千裂掌",
+      "Thousand Crack Palm",
+      "Thousand Crack Palm"
+    ],
+    [
+      "纯元罡气",
+      "pure Yuan Gang energy",
+      "pure Yuan Gang Qi"
+    ],
+    [
+      "生死斗",
+      "fight to the death",
+      "life and death"
+    ]
+  ],
+  "hero": {
+    "realm": "Yuan Dan initial",
+    "gains": [
+      "twenty-two opened meridians",
+      "eight-star Yuan Dan",
+      "2nd Seal Symbol Master"
+    ],
+    "losses": [
+      "Yin Yang Pearls (used)"
+    ],
+    "places": [
+      "training room, Yan City",
+      "Thousand Gold Association lodgings for the Lin family",
+      "Yan City arena"
+    ]
+  },
+  "flags": [
+    "0-173 opening/recap.",
+    "772.3-774.6 the Chun Yuan Finger line reads as Lin Dong telling his father to take his finger (父亲 is odd from Lin Dong, who uses 爹); speaker order unclear.",
+    "Yue Shan is mentioned (902.2) but not clearly on screen. 1190-1197 the speaker comparing his mental strength to a 3rd Seal is probably Master Yan or Xia Wanjin in the stands; Master Yan is confirmed present in EP12.",
+    "1334.7 the hostage-taker is called the Blood Wolf Gang's Symbol Master second only to Gu Ying; Gu Ying was Blood Cloth Sect. He is unnamed.",
+    "1357-1367: the episode ends on a cliffhanger after Wei Tong's strike."
+  ],
+  "changes": []
+}

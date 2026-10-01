@@ -1,0 +1,151 @@
+{
+  "ep": 39,
+  "title": "Trouble at the Yin Puppet Sect's Door",
+  "summary": "Teng Sha, master of the Yin Puppet Sect, leaves seclusion at Manifestation peak and orders his elders home to break the seal on a treasure the sect took from the ancient tablet. Lin Dong forms Mental Energy Fire, Little Mink takes in the Blood Bat Dragon's demon spirit, and Little Flame condenses a demon spirit of its own. The Ancestral Symbol was taken by the Yin Puppet Sect's master, so Lin Dong goes to the sect in Great Puppet City and calls Teng Lei out. He beats Elder Hua Gu, then holds off Teng Lei's 9th-grade Purple Shadow Nine Breaks and the sect's Yin Puppet Demon Gathering Formation with the Demon Ape Transformation and the new Jade Thunder Body. The fight is a diversion. Little Mink and Little Flame search the sect through a secret passage, but find no word of the Ancestral Symbol. Mu Qianqian and her father Mu Lei come to watch; as they leave, Cao Zhen, a Half-step Manifestation elder, comes out of seclusion.",
+  "events": [
+    "Teng Sha leaves seclusion at Manifestation peak and calls his elders back to break the treasure's seal.",
+    "Lin Dong forms Mental Energy Fire; Little Mink glimpses his old human form, and Little Flame condenses a demon spirit.",
+    "Lin Dong turns up at the Yin Puppet Sect's gate in Great Puppet City and calls out Teng Lei.",
+    "He beats Hua Gu, who wants revenge for his son Hua Zong.",
+    "Teng Lei fights with the 9th-grade Purple Shadow Nine Breaks; Lin Dong answers with the Demon Ape Transformation and the Jade Thunder Body.",
+    "Teng Lei has his disciples start the Yin Puppet Demon Gathering Formation, and Lin Dong breaks it with his halberd.",
+    "Little Mink and Little Flame search a secret passage but find nothing about the Ancestral Symbol.",
+    "Mu Qianqian and Mu Lei of the Great Demon Sect watch; Cao Zhen appears at Half-step Manifestation."
+  ],
+  "introduced": [
+    "Teng Sha",
+    "Mu Lei",
+    "Cao Zhen",
+    "Purple Shadow Nine Breaks",
+    "Yin Puppet Demon Gathering Formation",
+    "Jade Thunder Body"
+  ],
+  "cultivation": "Teng Sha has reached Manifestation peak. Cao Zhen is Half-step Manifestation. Lin Dong forms Mental Energy Fire and shows the Jade Thunder Body. Little Flame condenses a demon spirit.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "look": "Jade Thunder Body: a jade-coloured glow over the body"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "teng-sha",
+      "name": "Teng Sha",
+      "realm": "Manifestation peak",
+      "quote": "老夫已是迈入造化境大成 (278.3)",
+      "first": true,
+      "card": 245.3
+    },
+    {
+      "id": "teng-lei",
+      "name": "Teng Lei"
+    },
+    {
+      "id": "hua-gu",
+      "name": "Hua Gu"
+    },
+    {
+      "id": "mu-qianqian",
+      "name": "Mu Qianqian"
+    },
+    {
+      "id": "mu-lei",
+      "name": "Mu Lei",
+      "first": true,
+      "card": 831.6
+    },
+    {
+      "id": "cao-zhen",
+      "name": "Cao Zhen",
+      "realm": "Half-step Manifestation",
+      "quote": "半步造化境 (1266.3)",
+      "first": true,
+      "card": 1258.5
+    }
+  ],
+  "terms": [
+    [
+      "造化境大成",
+      "Manifestation peak",
+      "Great State of Creation Realm"
+    ],
+    [
+      "精神之火",
+      "Mental Energy Fire",
+      "spiritual fire"
+    ],
+    [
+      "妖灵",
+      "demon spirit",
+      "demon spirit"
+    ],
+    [
+      "紫影九破",
+      "Purple Shadow Nine Breaks",
+      "Purple Shadow Nine Breaks"
+    ],
+    [
+      "阴傀聚魔阵",
+      "Yin Puppet Demon Gathering Formation",
+      "Yin Kui Demon Gathering Array"
+    ],
+    [
+      "玉雷体",
+      "Jade Thunder Body",
+      "Jade Thunder Body"
+    ],
+    [
+      "高等符傀",
+      "high-grade Symbol Puppet",
+      "high-level talisman ghost"
+    ],
+    [
+      "腾刹 / 滕刹",
+      "Teng Sha",
+      "sect master / Teng Cha"
+    ],
+    [
+      "曹震",
+      "Cao Zhen",
+      "Uncle Cao Zhen"
+    ],
+    [
+      "慕雷",
+      "Mu Lei",
+      "master / Dad"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Mental Energy Fire",
+      "Jade Thunder Body"
+    ],
+    "losses": [],
+    "places": [
+      "outside the Great Desolate Ancient Tablet",
+      "Great Puppet City",
+      "Yin Puppet Sect branch in Great Puppet City"
+    ]
+  },
+  "flags": [
+    "Recap runs to about 205 s.",
+    "Coordinator mapping 大成 = peak used for 造化境大成.",
+    "Teng Sha's name is written 腾刹 and 滕刹 in different lines; Teng Lei is 腾儡/滕儡 (the official English says 'Teng Kui' several times). I used the wiki names Teng Sha and Teng Lei.",
+    "The Yin Puppet Sect's main seat is a separate Yin Puppet City (EP40); this fight is at its branch in Great Puppet City.",
+    "Mu Lei is not named this episode (called 宗主 / 爹); EP41 names him 慕雷. Card 831.6 is Mu Qianqian addressing him face to face.",
+    "1258.5: the speaker who has been in seclusion a year is Cao Zhen (EP40 244.1 confirms); card is his own line, no name card.",
+    "332.9 精神之火 speaker not shown in subtitles; EP40 575.0 confirms Lin Dong has it."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

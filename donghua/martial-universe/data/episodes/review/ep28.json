@@ -1,0 +1,159 @@
+{
+  "ep": 28,
+  "title": "Fight to the Death",
+  "summary": "Lin Dong agrees to help the Jiang family and enters the fight to the death as a new Eagle Martial Dojo disciple, facing Luo Jiu, who is Form Creation peak. Luo Jiu attacks with Mental Strength, a low-grade Soul Treasure hammer and the Demon Ape Transformation, but Lin Dong beats him with the Subduing Golden Platform Magic Palm and the Heavenly Dragon Halberd. Luo Jiu gives up, and the Bloody Vulture Dojo is ordered out of Eagle City. Lin Dong slips away without saying goodbye, but Jiang Xue catches up with him on the road to see him off. Among Luo Jiu's things he finds a bone slip with the Demon Ape Transformation, which Little Mink says is far stronger with pure demon ape blood. In the Ancient Wasteland, two Ancient Sword Sect disciples try to rob him. Then an Ancient Dragon Ape appears, and its blood is just what the Demon Ape Transformation needs.",
+  "events": [
+    "Jiang Xue asks Lin Dong to help, and he agrees because the Jiangs treated him as a friend.",
+    "At the arena, Lin Dong fights in Jiang Lei's place against Luo Jiu, who is Form Creation peak.",
+    "Luo Jiu uses Mental Strength, a low-grade Soul Treasure hammer and the Demon Ape Transformation, but Lin Dong wins with the Subduing Golden Platform Magic Palm and the Heavenly Dragon Halberd.",
+    "Luo Jiu gives up, and the Bloody Vulture Dojo is driven out of Eagle City.",
+    "Lin Dong leaves quietly; Jiang Xue catches up with him on the road to say goodbye.",
+    "He finds Luo Jiu's Pure Yuan Pills and the bone slip for the Demon Ape Transformation.",
+    "In the Ancient Wasteland, Ancient Sword Sect disciples demand a toll, and an Ancient Dragon Ape appears."
+  ],
+  "introduced": [
+    "Luo Jiu",
+    "Ancient Dragon Ape",
+    "Ancient Sword Sect",
+    "Ancient Wasteland",
+    "Demon Ape Transformation bone slip",
+    "Purple Cloud Fruit"
+  ],
+  "cultivation": "Luo Jiu is Form Creation peak and also trains Mental Strength. His Demon Ape Transformation uses ordinary demon ape blood; Little Mink says Ancient Dragon Ape blood would make it far stronger.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "jiang-xue",
+      "name": "Jiang Xue"
+    },
+    {
+      "id": "jiang-lei",
+      "name": "Jiang Lei"
+    },
+    {
+      "id": "jiang-yinyin",
+      "name": "Jiang Yinyin"
+    },
+    {
+      "id": "luo-shan",
+      "name": "Luo Shan"
+    },
+    {
+      "id": "luo-jiu",
+      "name": "Luo Jiu",
+      "realm": "Form Creation peak",
+      "quote": "罗鹫果然是造形境大成强者 (376.6)",
+      "first": true,
+      "card": 351.7
+    },
+    {
+      "id": "ancient-dragon-ape",
+      "name": "Ancient Dragon Ape",
+      "first": true,
+      "card": 1320.6
+    }
+  ],
+  "terms": [
+    [
+      "轰天锤",
+      "Sky-Rumbling Hammer",
+      "Sky hammer"
+    ],
+    [
+      "碎元梭",
+      "Yuan-Shattering Shuttle",
+      "broken element shuttle"
+    ],
+    [
+      "天地锤",
+      "Heaven and Earth Hammers",
+      "Heaven and earth hammer"
+    ],
+    [
+      "低级灵宝",
+      "low-grade Soul Treasure",
+      "low-level Lingbao"
+    ],
+    [
+      "魔猿变",
+      "Demon Ape Transformation",
+      "magic ape transformation"
+    ],
+    [
+      "大力魔猿锤",
+      "Great Strength Demon Ape Hammer",
+      "Great Ape Hammer"
+    ],
+    [
+      "天龙戟",
+      "Heavenly Dragon Halberd",
+      "Dragon Halberd"
+    ],
+    [
+      "精神力",
+      "Mental Strength",
+      "mental strength / mental power"
+    ],
+    [
+      "骨片",
+      "bone slip",
+      "bone"
+    ],
+    [
+      "紫云果",
+      "Purple Cloud Fruit",
+      "purple cloud fruit"
+    ],
+    [
+      "远古废涧",
+      "Ancient Wasteland",
+      "ancient waste stream"
+    ],
+    [
+      "古剑门",
+      "Ancient Sword Sect",
+      "ancient sword gate"
+    ],
+    [
+      "远古龙猿",
+      "Ancient Dragon Ape",
+      "ancient dragon / Ancient Dragon Ape"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Luo Jiu's Pure Yuan Pills",
+      "Demon Ape Transformation bone slip"
+    ],
+    "losses": [],
+    "places": [
+      "Eagle Martial Dojo",
+      "arena in Eagle City",
+      "desert road",
+      "Ancient Wasteland"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "Recap runs to about 178 s.",
+    "1124.6: Lin Dong ends up with Luo Jiu's Pure Yuan Pills and bone slip; the episode does not show how he got them (presumably Luo Jiu's Qiankun Bag after the fight).",
+    "1027.7 桃花债 is Little Mink teasing Lin Dong about Jiang Xue.",
+    "The two Ancient Sword Sect disciples are not named.",
+    "889.0: who tells the Luo family never to show their faces in Eagle City again is unclear (Lin Dong or Jiang Lei), so the text just says they are ordered out."
+  ]
+}

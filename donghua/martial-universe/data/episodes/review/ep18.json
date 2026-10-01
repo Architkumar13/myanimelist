@@ -1,0 +1,210 @@
+{
+  "ep": 18,
+  "title": "Gathering at the Ancient Tomb",
+  "summary": "Lin Ke-er's party sets out into the Sky Flame Mountain Range with Lin Dong, Little Flame and the boastful Lin Chen. Lin Ke-er explains that only experts of the three Creation realms can break the tomb's seal, and that the clan's young representative Lin Langtian will come to do it. At night, Song Dao of the Blade Slaughter Gang raids the camp, and Lin Ke-er cuts down his men with a Soul Treasure sword. Lin Dong beats Song Dao, a Yuan Dan perfect fighter, with the Qimen Seal and Myriad Transformation Flame, and with Little Mink's help breaks the Yuan Dan he throws. At the tomb, the Wang Clan's Wang Pan and Wang Yan, the Qin Clan's Qin Shi, and Lin Langtian, flying in at Qi Creation, gather. Ling Qingzhu of the Nine Heavens Taiqing Palace comes for the Huangpu Clan, and the young experts break the seal together. Everyone rushes into the tomb after the Nirvana Heart.",
+  "events": [
+    "Lin Dong leaves home for the tomb with Lin Ke-er's party, including Lin Chen.",
+    "Lin Ke-er says only experts of the three Creation realms can break the seal, and Lin Langtian will come.",
+    "Song Dao's Blade Slaughter Gang raids the camp; Lin Ke-er's Soul Treasure sword kills his men.",
+    "Lin Dong defeats Song Dao and shatters his Yuan Dan, leaving him crippled.",
+    "Lin Ke-er scolds Lin Chen for looking down on side-branch members.",
+    "At the tomb camp, Wang Pan, Lin Langtian, Wang Yan and Qin Shi arrive; Lin Dong sees how far behind he is.",
+    "Ling Qingzhu arrives for the Huangpu Clan; the seal is broken and everyone rushes in."
+  ],
+  "introduced": [
+    "Song Dao",
+    "Blade Slaughter Gang",
+    "Wang Pan",
+    "Wang Yan",
+    "Qin Shi",
+    "Ling Qingzhu",
+    "Soul Treasure",
+    "Great Luo Golden Spear",
+    "Phoenix Luan Bird",
+    "Wang Clan",
+    "Qin Clan",
+    "Huangpu Clan",
+    "Fire Python Tiger"
+  ],
+  "cultivation": "Song Dao is Yuan Dan perfect, and Lin Dong is Yuan Dan advanced. Lin Langtian is already at Qi Creation. Wang Yan and Qin Shi are at Form Creation.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Yuan Dan advanced",
+      "quote": "区区一个小圆满 也敢与我硬碰硬 (635.0)"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "lin-ke-er",
+      "name": "Lin Ke-er"
+    },
+    {
+      "id": "lin-chen",
+      "name": "Lin Chen"
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian"
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao"
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan"
+    },
+    {
+      "id": "song-dao",
+      "name": "Song Dao",
+      "realm": "Yuan Dan perfect",
+      "quote": "元丹境大圆满 (482.6)",
+      "first": true,
+      "card": 489.4
+    },
+    {
+      "id": "wang-pan",
+      "name": "Wang Pan",
+      "first": true,
+      "card": 978.8
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian",
+      "realm": "Qi Creation",
+      "quote": "这小子 恐怕早已是造气境了 (1067.0)"
+    },
+    {
+      "id": "wang-yan",
+      "name": "Wang Yan",
+      "realm": "Form Creation",
+      "quote": "这王炎的实力 应该是造形境 (1102.0)",
+      "first": true,
+      "card": 1087.0
+    },
+    {
+      "id": "qin-shi",
+      "name": "Qin Shi",
+      "realm": "Form Creation",
+      "quote": "又是一个造形境 (1157.0)",
+      "first": true,
+      "card": 1164.0
+    },
+    {
+      "id": "ling-qingzhu",
+      "name": "Ling Qingzhu",
+      "first": true,
+      "card": 1244.0
+    }
+  ],
+  "terms": [
+    [
+      "造化三境",
+      "the three Creation realms",
+      "Three Realms of Creation"
+    ],
+    [
+      "火蟒虎",
+      "Fire Python Tiger",
+      "fire python tiger"
+    ],
+    [
+      "刀屠帮",
+      "Blade Slaughter Gang",
+      "Knife Gang"
+    ],
+    [
+      "宋刀",
+      "Song Dao",
+      "Song Dao"
+    ],
+    [
+      "灵宝",
+      "Soul Treasure",
+      "Lingbao"
+    ],
+    [
+      "灵符师",
+      "Spirit Symbol Master",
+      "psychic talisman master"
+    ],
+    [
+      "纯元指",
+      "Pure Yuan Finger",
+      "pure element finger"
+    ],
+    [
+      "五虎断刀掌",
+      "Five Tiger Splitting Palm",
+      "five tigers broken knife palm"
+    ],
+    [
+      "造气境",
+      "Qi Creation",
+      "Qi-making realm"
+    ],
+    [
+      "造形境",
+      "Form Creation",
+      "shaping realm"
+    ],
+    [
+      "王氏宗族",
+      "Wang Clan",
+      "Wang clan"
+    ],
+    [
+      "秦氏宗族",
+      "Qin Clan",
+      "Qin clan"
+    ],
+    [
+      "皇甫家族",
+      "Huangpu Clan",
+      "Huangfu family"
+    ],
+    [
+      "凤鸾鸟",
+      "Phoenix Luan Bird",
+      "Fengluan bird"
+    ],
+    [
+      "大罗金枪",
+      "Great Luo Golden Spear",
+      "Daluo golden gun"
+    ],
+    [
+      "九天太清宫",
+      "Nine Heavens Taiqing Palace",
+      "Nine Heavens Taiqing Palace"
+    ]
+  ],
+  "hero": {
+    "realm": "Yuan Dan advanced",
+    "gains": [],
+    "losses": [],
+    "places": [
+      "Lin Family residence, Yan City",
+      "Sky Flame Mountain Range",
+      "camp outside the ancient tomb"
+    ]
+  },
+  "flags": [
+    "Recap 141-190 is EP17 material.",
+    "446 bandits call Little Flame a 火蟒虎 (Fire Python Tiger), matching the wiki's species for Little Flame.",
+    "Card times are speaking/addressed lines, not name cards: Song Dao 489.4 (self-introduction), Wang Pan 978.8 (named as he arrives; on screen but silent), Wang Yan 1087.0, Qin Shi 1164.0 (Wang Yan addresses him), Ling Qingzhu 1244.0 (speaking to Lin Langtian).",
+    "Lin Ke-er invokes Lin Langtian at 387, and he arrives on screen at 1040-1060.",
+    "Lin Dong's 1196 line says he had broken through to 3rd Seal and 小圆满 (Yuan Dan advanced), which agrees with EP17.",
+    "724-728: Song Dao throws out his Yuan Dan and Little Mink lends a hand; how is shown, not said."
+  ],
+  "changes": []
+}

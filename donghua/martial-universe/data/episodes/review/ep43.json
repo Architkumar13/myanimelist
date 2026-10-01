@@ -1,0 +1,139 @@
+{
+  "ep": 43,
+  "title": "The Devouring Ancestral Symbol's Test",
+  "summary": "Lin Dong wakes deep in the Xuanyin Crack, where the Stone Talisman shielded him from the Earth Sha cold. Little Mink spends 200,000 Pure Yuan Pills on a formation that cleans the cold out of the Yuan Power, and Lin Dong heals in four hours. He then opens the seal and sends his mind into the Devouring Ancestral Symbol, guided by the Black-Eyed Elder's voice. The Symbol's spirit shuts him in endless darkness and then tempts him with a dream of a peaceful home with Qing Tan, his father and grandfather. Lin Dong chooses to go on, merges with the Power of Devouring and becomes the Symbol's heir; he is told the world will be his responsibility when a destined calamity comes. Six months pass outside, with Little Mink guarding his body and fending off an Eight Eye Earth Devil Spider; Lin Dong comes out with Mental Strength at least at advanced Spirit Symbol Master. Meanwhile the Yin Puppet Sect sets an ambush for Little Flame, which has spent the six months killing its men.",
+  "events": [
+    "Lin Dong wakes in the Xuanyin Crack; the Stone Talisman protected him.",
+    "Little Mink spends 200,000 Pure Yuan Pills on an essence-refining formation and Lin Dong heals.",
+    "Lin Dong opens the Devouring Ancestral Symbol and enters it with his mind.",
+    "The Symbol's spirit traps him in darkness, then shows him a dream of home with Qing Tan, Lin Xiao and Lin Zhentian.",
+    "He leaves the dream, merges with the Power of Devouring and is accepted as the Symbol's heir.",
+    "Little Mink guards his body for six months and lures off an Eight Eye Earth Devil Spider.",
+    "Lin Dong wakes with Mental Strength of at least an advanced Spirit Symbol Master.",
+    "The Yin Puppet Sect lays an ambush for Little Flame."
+  ],
+  "introduced": [
+    "Devouring Ancestral Symbol spirit",
+    "Power of Devouring",
+    "Eight Eye Earth Devil Spider",
+    "essence-refining formation"
+  ],
+  "cultivation": "Lin Dong refines the Devouring Ancestral Symbol. Little Mink says his Mental Strength is now at least that of an advanced Spirit Symbol Master.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "black-eyed-elder",
+      "name": "Black-Eyed Elder"
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan",
+      "look": "appears only in Lin Dong's dream"
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao",
+      "look": "dream only"
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian",
+      "look": "dream only"
+    },
+    {
+      "id": "ling-qingzhu",
+      "name": "Ling Qingzhu",
+      "look": "dream only"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian",
+      "look": "dream only"
+    },
+    {
+      "id": "eight-eye-earth-devil-spider",
+      "name": "Eight Eye Earth Devil Spider",
+      "first": true,
+      "card": 1179.4
+    }
+  ],
+  "terms": [
+    [
+      "吞噬祖符",
+      "Devouring Ancestral Symbol",
+      "Devouring Ancestral Seal"
+    ],
+    [
+      "吞噬之力",
+      "Power of Devouring",
+      "Power of Devouring"
+    ],
+    [
+      "",
+      "essence-refining formation",
+      "Essence-refining Formation"
+    ],
+    [
+      "纯元丹",
+      "Pure Yuan Pill",
+      "pure spiritual pills"
+    ],
+    [
+      "",
+      "Fire Ancestral Symbol",
+      "Ancestral Seal of Fire"
+    ],
+    [
+      "",
+      "Eight Eye Earth Devil Spider",
+      "Eight-Eye Devil Spider"
+    ],
+    [
+      "灵符师",
+      "Spirit Symbol Master",
+      "Spiritual Seal Master"
+    ],
+    [
+      "",
+      "destined calamity",
+      "Destined Destruction"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Devouring Ancestral Symbol (refined; Lin Dong is its heir)",
+      "Power of Devouring",
+      "Mental Strength at advanced Spirit Symbol Master level"
+    ],
+    "losses": [
+      "200,000 Pure Yuan Pills"
+    ],
+    "places": [
+      "Xuanyin Crack depths",
+      "inside the Devouring Ancestral Symbol"
+    ]
+  },
+  "flags": [
+    "The ep43.zh.srt file holds English text, not Chinese (it is a second English track). Names and terms were checked against earlier Chinese episodes and wiki page titles only; quotes are English lines.",
+    "Recap runs to about 215 s.",
+    "'advanced Spiritual Seal Master' (1285.2): mapped to Soul Symbol Master (灵符师, as in EP30).",
+    "Eight Eye Earth Devil Spider uses the wiki title; official English 'Eight-Eye Devil Spider'. Card 1179.4 is Little Mink naming it face to face.",
+    "Two English cues credit Diao/Mink with lines that fit Lin Dong (676.7 'Thanks. Diao.'), just line splitting."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

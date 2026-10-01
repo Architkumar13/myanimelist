@@ -1,0 +1,108 @@
+{
+  "ep": 15,
+  "title": "Onto the Eighth Floor",
+  "summary": "Zhou Tong, now a 3rd Seal Symbol Master, reaches the seventh floor of the Symbol Master Tower and leaves Zi Yue stuck on the sixth. Lin Dong passes her and breaks through to the seventh floor, where he and Zhou Tong fight with Mental Arrows, the Qimen Seal and a Ten Thousand Arrows Formation. Before the eighth floor, lightning snakes strike their Destiny Symbols, and Zhou Tong stops to save his own. Lin Dong pushes on, lets his Destiny Symbol devour the lightning's mental power, and becomes the first to reach the eighth floor in many years. There he finds the Qi-grade Huasheng Symbol Formation, but his Mental Strength is still too weak to use it. Meanwhile intruders strike Ironwood Manor and scout the Lin Family. Zi Yue and Zhou Tong leave the tower, Zhou Tong admits Lin Dong won, and Sky Fire City goes home.",
+  "events": [
+    "Zhou Tong enters the seventh floor and tells Zi Yue that Yan City will lose again.",
+    "Lin Dong reaches the sixth floor, takes over from Zi Yue, and also breaks through to the seventh.",
+    "Lin Dong and Zhou Tong duel on the seventh floor and race for the eighth.",
+    "Lightning snakes attack their Destiny Symbols; Zhou Tong pulls back to repair his.",
+    "Lin Dong refuses to quit; his Destiny Symbol devours the lightning snakes' mental power and he enters the eighth floor.",
+    "Intruders break into Ironwood Manor and watch the Lin Family; Lin Zhentian keeps everyone home and does not call Lin Dong back.",
+    "On the eighth floor Lin Dong finds the Huasheng Symbol Formation and decides to try for 3rd Seal there.",
+    "Zhou Tong comes out and admits defeat; Yan City keeps the Symbol Master Tower and Sky Fire City leaves."
+  ],
+  "introduced": [
+    "Huasheng Symbol Formation (Huasheng Light, Huasheng Blue Wave, Myriad Transformation Flame)",
+    "Mental Arrow",
+    "Ten Thousand Arrows Formation"
+  ],
+  "cultivation": "Zhou Tong is a 3rd Seal Symbol Master. Lin Dong is still a 2nd Seal Symbol Master and reaches the eighth floor, which even 3rd Seal Symbol Masters rarely reach.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "zhou-tong",
+      "name": "Zhou Tong"
+    },
+    {
+      "id": "zi-yue",
+      "name": "Zi Yue"
+    },
+    {
+      "id": "han-yun",
+      "name": "Han Yun"
+    },
+    {
+      "id": "master-yan",
+      "name": "Master Yan"
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian"
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao"
+    }
+  ],
+  "terms": [
+    [
+      "精神箭",
+      "Mental Arrow",
+      "spiritual arrow"
+    ],
+    [
+      "万箭阵",
+      "Ten Thousand Arrows Formation",
+      "ten thousand arrows array"
+    ],
+    [
+      "雷蛇",
+      "lightning snakes",
+      "thunder snake"
+    ],
+    [
+      "化生符阵",
+      "Huasheng Symbol Formation",
+      "Huasheng Talisman Array"
+    ],
+    [
+      "化生光",
+      "Huasheng Light",
+      "Huasheng Light"
+    ],
+    [
+      "化生碧波",
+      "Huasheng Blue Wave",
+      "Huasheng Blue Wave"
+    ],
+    [
+      "万化炎",
+      "Myriad Transformation Flame",
+      "Wanhua Yan"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Huasheng Symbol Formation (Qi-grade Secret Spirit Skill, not yet usable)",
+      "Mental Strength from the lightning snakes"
+    ],
+    "losses": [],
+    "places": [
+      "Symbol Master Tower (floors 5-8)"
+    ]
+  },
+  "flags": [
+    "Recap 141-178 is EP14 material.",
+    "884-903 are flashback lines from EP13 (Lin Dong's promise to Master Yan, Lin Zhentian's warning).",
+    "999 the Chinese has 符石塔, a slip for 符师塔.",
+    "Who casts the 奇门印 (609) and 万箭阵 (617) is my reading from context: Lin Dong uses the Qimen Seal, and the arrow formation seems to be Zhou Tong's.",
+    "Lin Dong is still inside the tower when the episode ends; the 'win' is declared from Zhou Tong's report (1340-1351)."
+  ],
+  "changes": []
+}

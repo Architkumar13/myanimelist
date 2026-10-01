@@ -1,0 +1,181 @@
+{
+  "ep": 17,
+  "title": "Qing Tan's Fiend Devil Body",
+  "summary": "With Gui Yan dead, the Lin Family is secure in Yan City, and Lin Dong trains for the Lin Clan Gathering two years away. Qing Tan's cold poison flares, and Little Mink explains that she has a Fiend Devil Body, which rejects Yang energy and must condense a Yin Dan instead of a Yuan Dan. Without a very Yin treasure to speed this up, she could lose her mind. At the Thousand Gold Association, Xuan Su gives Lin Dong a Blood Vermillion Devil Fruit for becoming a 3rd Seal Symbol Master. She also tells him about a Nirvana expert's ancient tomb found in the Sky Flame Mountain Range, which may hold Extreme Yin Dragon Saliva. Lin Dong humiliates Lin Chen, a bullying Lin Clan youth, and so wins Lin Ke-er's permission to join the clan's tomb party. That night he eats the fruit and reaches Yuan Dan advanced.",
+  "events": [
+    "The Lin Family settles in Yan City; Lin Dong vows to beat Lin Langtian and bring the family back to the clan.",
+    "Lin Zhentian hears the Lin Clan is sending people to the Sky Flame Mountain Range.",
+    "Qing Tan's cold poison flares; Little Mink names her Fiend Devil Body and says she needs a very Yin treasure to form a Yin Dan.",
+    "Xuan Su gives Lin Dong a Blood Vermillion Devil Fruit and tells him about the Nirvana tomb and Extreme Yin Dragon Saliva.",
+    "Little Mink explains the Nirvana Heart and agrees to help, if Lin Dong helps it seize things that restore its demon spirit.",
+    "Lin Chen beats Lin Hong; Lin Dong beats Lin Chen with the Mysterious Ice Swords and the Qimen Seal.",
+    "Lin Ke-er agrees to take Lin Dong to the tomb.",
+    "Lin Dong eats the Blood Vermillion Devil Fruit and reaches Yuan Dan advanced."
+  ],
+  "introduced": [
+    "Lin Ke-er",
+    "Lin Chen",
+    "Fiend Devil Body",
+    "Yin Dan",
+    "Blood Vermillion Devil Fruit",
+    "Extreme Yin Dragon Saliva",
+    "Nirvana Heart",
+    "Sky Flame Mountain Range",
+    "Four Great Clans"
+  ],
+  "cultivation": "Lin Dong reaches Yuan Dan advanced after eating the Blood Vermillion Devil Fruit. Lin Chen is Yuan Dan advanced.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Yuan Dan advanced",
+      "quote": "不愧是元丹境小圆满 (1311.3)"
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian"
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao"
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "xuan-su",
+      "name": "Xuan Su"
+    },
+    {
+      "id": "lin-hong",
+      "name": "Lin Hong"
+    },
+    {
+      "id": "lin-chen",
+      "name": "Lin Chen",
+      "realm": "Yuan Dan advanced",
+      "quote": "元丹境小圆满 (918.0)",
+      "first": true,
+      "card": 839.0
+    },
+    {
+      "id": "lin-ke-er",
+      "name": "Lin Ke-er",
+      "first": true,
+      "card": 850.2
+    }
+  ],
+  "terms": [
+    [
+      "族比",
+      "Lin Clan Gathering",
+      "clan competition"
+    ],
+    [
+      "天炎山脉",
+      "Sky Flame Mountain Range",
+      "Tianyan Mountains"
+    ],
+    [
+      "阴煞体质",
+      "Yin Sha constitution",
+      "Yinsha physique"
+    ],
+    [
+      "煞魔之体",
+      "Fiend Devil Body",
+      "Evil Demon Body"
+    ],
+    [
+      "阴丹",
+      "Yin Dan",
+      "Yin Dan"
+    ],
+    [
+      "万金商会",
+      "Thousand Gold Association",
+      "Wanjin Chamber of Commerce"
+    ],
+    [
+      "妖血朱果",
+      "Blood Vermillion Devil Fruit",
+      "Demon Blood Vermilion Fruit"
+    ],
+    [
+      "六品灵药",
+      "6th grade elixir",
+      "sixth-grade elixir"
+    ],
+    [
+      "涅槃境",
+      "Nirvana",
+      "Nirvana Realm"
+    ],
+    [
+      "四大宗族",
+      "Four Great Clans",
+      "four major clans"
+    ],
+    [
+      "极煞阴龙涎",
+      "Extreme Yin Dragon Saliva",
+      "Jisha Yinlong Saliva"
+    ],
+    [
+      "涅槃心",
+      "Nirvana Heart",
+      "Nirvana heart"
+    ],
+    [
+      "造化境",
+      "Manifestation",
+      "Creation Realm"
+    ],
+    [
+      "妖灵",
+      "Demon Spirit",
+      "demon spirit"
+    ],
+    [
+      "破玉手",
+      "Jade Destruction Hand",
+      "jade-breaking hand"
+    ],
+    [
+      "碎玉爪",
+      "Jade Shattering Claw",
+      "broken jade claw"
+    ]
+  ],
+  "hero": {
+    "realm": "Yuan Dan advanced",
+    "gains": [
+      "Blood Vermillion Devil Fruit (eaten)",
+      "a place in the Lin Clan's tomb party"
+    ],
+    "losses": [],
+    "places": [
+      "Lin Family residence, Yan City",
+      "Thousand Gold Association, Yan City",
+      "Lin Family residence, Yan City"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "Recap 141-174 is EP16 material.",
+    "Lin Chen is only named in EP18 (300); his card 839.0 is a line where he speaks to Lin Dong face to face. Lin Ke-er is named at 1171; her card 850.2 is Lin Zhentian addressing her (林姑娘).",
+    "Xuan Su is 萱素 in the Chinese track.",
+    "煞魔之体 has no wiki page; 'Fiend Devil Body' is a plain translation.",
+    "Lin Chen's 元丹境小圆满 (918) is Lin Dong's reading of his aura."
+  ]
+}

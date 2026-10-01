@@ -1,0 +1,152 @@
+{
+  "ep": 54,
+  "title": "Leiyan Valley",
+  "summary": "Ling Qingzhu and Yuan Cang track down an intruder from the Western Xuan Region, who blows himself up rather than answer. In Yang City, Mu Hongling tells Lin Dong and Mo Ling about an ancient treasure in Leiyan Valley that includes a Heavenly Symbol Spirit Tree, which can lift a Spirit Symbol Master to Heaven Symbol Master. They go together, though Little Mink warns that she is hiding something. In the valley the Demon Rock Dynasty's Chen Mu drives off Hua Yun of the Xuanbing Dynasty. Lin Dong pushes past Hua Yun's men with the Nirvana Golden Body and five fingers, and Hua Yun lets him in, planning to strike later for the Ancient Secret Key. Inside, Lin Dong and Little Flame search the lower level for the tree, and the ground starts to shake.",
+  "events": [
+    "A Western Xuan Region intruder attacks Yuan Cang and Ling Qingzhu and blows himself up.",
+    "Lin Dong returns to Yang City, where Mo Ling asks to be called by name.",
+    "Mu Hongling invites them to Leiyan Valley for the treasure and the Heavenly Symbol Spirit Tree.",
+    "At the valley Chen Mu of the Demon Rock Dynasty forces Hua Yun of the Xuanbing Dynasty to withdraw.",
+    "Lin Dong fights Hua Yun with the Nirvana Golden Body and five fingers, and Hua Yun lets him through.",
+    "Hua Yun reveals the Xuanbing Dynasty's goal is the Ancient Secret Key.",
+    "Lin Dong and Little Flame go to the lower level while Mo Ling and Mu Hongling search above; an earthquake strikes."
+  ],
+  "introduced": [
+    "Chen Mu",
+    "Hua Yun",
+    "Demon Rock Dynasty",
+    "Xuanbing Dynasty",
+    "Leiyan Valley",
+    "Heavenly Symbol Spirit Tree",
+    "Ancient Secret Key",
+    "Western Xuan Region"
+  ],
+  "cultivation": "Lin Dong is at Manifestation peak. Chen Mu and Hua Yun are both Nirvana experts.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Manifestation peak",
+      "quote": "那小子能以造化境大成的修为 (1183.8)"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "ling-qingzhu",
+      "name": "Ling Qingzhu"
+    },
+    {
+      "id": "yuan-cang",
+      "name": "Yuan Cang"
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling"
+    },
+    {
+      "id": "mu-hongling",
+      "name": "Mu Hongling"
+    },
+    {
+      "id": "chen-mu",
+      "name": "Chen Mu",
+      "realm": "Nirvana",
+      "quote": "又一个涅槃境强者 (920.5)",
+      "first": true,
+      "card": 918.1
+    },
+    {
+      "id": "hua-yun",
+      "name": "Hua Yun",
+      "realm": "Nirvana",
+      "quote": "那是 涅槃境强者 (894.0)",
+      "first": true,
+      "card": 1121.6
+    }
+  ],
+  "terms": [
+    [
+      "西玄域",
+      "Western Xuan Region",
+      "Xuanyu / Xixuanyu"
+    ],
+    [
+      "雷岩谷",
+      "Leiyan Valley",
+      "Leiyan Valley / Thunder Rock Valley"
+    ],
+    [
+      "远古宝藏",
+      "ancient treasure",
+      "ancient treasure"
+    ],
+    [
+      "天符灵树",
+      "Heavenly Symbol Spirit Tree",
+      "Tianfu Lingshu / Heavenly Talisman Spirit Tree"
+    ],
+    [
+      "天符师",
+      "Heaven Symbol Master",
+      "Tianfu Master"
+    ],
+    [
+      "灵符师",
+      "Spirit Symbol Master",
+      "spiritual teacher"
+    ],
+    [
+      "高级王朝",
+      "high-level dynasties",
+      "senior dynasties"
+    ],
+    [
+      "魔岩王朝",
+      "Demon Rock Dynasty",
+      "Magic Rock / Demon Rock Dynasty"
+    ],
+    [
+      "玄冰王朝",
+      "Xuanbing Dynasty",
+      "Xuanbing Dynasty"
+    ],
+    [
+      "魔极冰山",
+      "Demon Extreme Iceberg",
+      "Magic Iceberg"
+    ],
+    [
+      "远古秘钥",
+      "Ancient Secret Key",
+      "ancient secret key"
+    ]
+  ],
+  "hero": {
+    "realm": "Manifestation peak",
+    "gains": [],
+    "losses": [],
+    "places": [
+      "Yang City",
+      "Leiyan Valley",
+      "inside the Leiyan Valley treasure"
+    ]
+  },
+  "flags": [
+    "Recap runs about 169-216 s.",
+    "894.0 '那是 涅槃境强者' comes just before Hua Yun is named (909.8); taken as Hua Yun. 920.5 '又一个涅槃境强者' is said as Chen Mu is named.",
+    "Cards: Chen Mu 918.1 (addressed by a Moyan disciple, on the field); Hua Yun 1121.6 (introduces himself to Lin Dong).",
+    "Moyan Dynasty follows the glossary; the official English says Demon Rock / Magic Rock Dynasty and the wiki Devil Cliff Empire. Xuanbing Dynasty is the official English; the wiki says Millennium Ice Empire.",
+    "Wiki lists Li Pan's debut as S5 EP6 (EP54), but he is only named in EP55; any Moyan disciple here is unnamed."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct.",
+    "Realm 大成 mapped to 'peak' per the coordinator's rule (初入 initial, 小成 advanced, 大成 peak)."
+  ]
+}

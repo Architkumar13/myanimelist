@@ -1,0 +1,110 @@
+{
+  "ep": 19,
+  "title": "Pure Yuan Pills and the Ancient Heavenly Scales Halberd",
+  "summary": "Inside the ancient tomb, Little Mink leads Lin Dong away from the crowd and down a side passage. Lin Dong opens a stone door with Mental Strength and finds a hoard of Pure Yuan Pills, 23,000 in all, while Little Mink eats a store of Demon Spirits that it says will restore half its strength. They seal a jade door behind them, escape through a back way, and leave pursuers to a demon beast. Lin Ke-er and Wang Pan agree to break open six Soul Treasures together, but Wang Pan plans to betray her. When the seal breaks, Lin Dong takes the half-finished spear-shaped treasure Little Mink chose and binds it with his blood essence: the Ancient Heavenly Scales Halberd. Wang Pan attacks him for it, and Lin Ke-er protects Lin Dong as a member of the Lin Clan. Lin Dong then goes off alone to look for the Extreme Yin Dragon Saliva.",
+  "events": [
+    "The young experts scatter into the tomb past the tomb master's statue.",
+    "Little Mink sniffs out a sealed room; Lin Dong opens it with Mental Strength and collects Pure Yuan Pills in his Qiankun Bag.",
+    "Little Mink devours a store of Demon Spirits.",
+    "Lin Dong holds the jade door shut with Mental Strength, then escapes and leaves the looters to a demon beast.",
+    "Lin Ke-er and Wang Pan agree to break open six Soul Treasures and split them; Wang Pan secretly orders his men to rob the Lin side.",
+    "Lin Dong snatches the spear-shaped Soul Treasure, outruns two Yuan Dan perfect pursuers and binds it with blood essence.",
+    "Wang Pan demands it back; Lin Ke-er stands up for Lin Dong.",
+    "Lin Dong leaves Lin Ke-er's group to search for the Extreme Yin Dragon Saliva."
+  ],
+  "introduced": [
+    "Pure Yuan Pill",
+    "Demon Spirit",
+    "Ancient Heavenly Scales Halberd",
+    "blood essence binding"
+  ],
+  "cultivation": "Two of Wang Pan's men chasing Lin Dong are Yuan Dan perfect. No new realm is stated for Lin Dong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "lin-ke-er",
+      "name": "Lin Ke-er"
+    },
+    {
+      "id": "lin-chen",
+      "name": "Lin Chen"
+    },
+    {
+      "id": "wang-pan",
+      "name": "Wang Pan"
+    }
+  ],
+  "terms": [
+    [
+      "古墓府",
+      "ancient tomb",
+      "ancient tomb"
+    ],
+    [
+      "纯元丹",
+      "Pure Yuan Pill",
+      "pure Yuan Dan / pure yuan pills"
+    ],
+    [
+      "阳元丹",
+      "Yang Yuan Pill",
+      "Yang Yuan Pill"
+    ],
+    [
+      "乾坤袋",
+      "Qiankun Bag",
+      "universe bag"
+    ],
+    [
+      "妖灵",
+      "Demon Spirit",
+      "ghost / demon spirit"
+    ],
+    [
+      "中级灵宝",
+      "mid-grade Soul Treasure",
+      "intermediate Lingbao"
+    ],
+    [
+      "精血",
+      "blood essence",
+      "essence blood"
+    ],
+    [
+      "天鳞古戟",
+      "Ancient Heavenly Scales Halberd",
+      "Skyscale Ancient Halberd"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "23,000 Pure Yuan Pills",
+      "Ancient Heavenly Scales Halberd (unfinished mid-grade Soul Treasure, bound with blood essence)"
+    ],
+    "losses": [],
+    "places": [
+      "ancient tomb, Sky Flame Mountain Range"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "Recap 142-190 is EP18 material.",
+    "597-612: Little Mink scolds someone for eating its Demon Spirits; the likeliest target is Little Flame.",
+    "876 says 23,000 Pure Yuan Pills equal 2.3 million Yang Yuan Pills.",
+    "The six-Soul-Treasure scene (748-845) is Lin Ke-er's group with Lin Chen; Lin Dong watches from hiding (949).",
+    "Lin Dong's realm is not stated; hero.realm null (EP18: Yuan Dan advanced)."
+  ]
+}

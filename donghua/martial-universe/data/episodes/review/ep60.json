@@ -1,0 +1,151 @@
+{
+  "ep": 60,
+  "title": "The Pill River",
+  "summary": "Lin Dong learns there are four Ancient Secret Keys, and Mo Ling parts ways so he will not slow them down. Lin Dong robs the Sky Eagle Dynasty men who come for his bounty, while Lin Yan fights with a staff technique from Little Mink, and learns the other keys are held by the Youquan, Primordial and Demon Rock dynasties. Little Mink leads them to a ruined clan site, where the Stone Talisman repairs its formation and shuts Wang Lie of the Sky Eagle Dynasty outside. Inside is a river of Nirvana Pills, and Lin Dong dives straight into his Nirvana Tribulation. Wang Lie returns with Zheng Hei Zhu and Chen Ku, all One Yuan Nirvana, and breaks in. By then Lin Dong has passed the tribulation, and he beats all three with five fingers and leaves as One Yuan Nirvana.",
+  "events": [
+    "Lin Dong hears there are four Ancient Secret Keys; Mo Ling leaves the group.",
+    "Sky Eagle Dynasty men attack for the Demon Rock bounty; Lin Yan fights with Little Mink's staff technique.",
+    "The captives say the other keys belong to the Youquan, Primordial and Demon Rock dynasties.",
+    "Little Mink finds a ruined clan site, and the Stone Talisman repairs its formation.",
+    "Wang Lie of the Sky Eagle Dynasty is shut out behind the sealed stone gate.",
+    "Inside, a river of Nirvana Pills; Lin Dong starts his Nirvana Tribulation at once.",
+    "Wang Lie, Zheng Hei Zhu and Chen Ku break in; Lin Dong, through the tribulation, beats them with five fingers.",
+    "The site collapses, and Lin Dong leaves as One Yuan Nirvana."
+  ],
+  "introduced": [
+    "Wang Lie",
+    "Zheng Hei Zhu",
+    "Chen Ku",
+    "Sky Eagle Dynasty",
+    "Youquan Dynasty",
+    "Primordial Dynasty",
+    "Pill River"
+  ],
+  "cultivation": "Lin Dong starts at Half-step Nirvana, passes the Nirvana Tribulation in the Pill River and reaches One Yuan Nirvana. Wang Lie, Zheng Hei Zhu and Chen Ku are each One Yuan Nirvana.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "One Yuan Nirvana",
+      "quote": "终于是成功晋级了一元涅槃境了 (1354.2)"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling"
+    },
+    {
+      "id": "wang-lie",
+      "name": "Wang Lie",
+      "realm": "One Yuan Nirvana",
+      "quote": "我们三人都是一元涅槃境强者 (1210.7)",
+      "first": true,
+      "card": 816.4
+    },
+    {
+      "id": "zheng-hei-zhu",
+      "name": "Zheng Hei Zhu",
+      "realm": "One Yuan Nirvana",
+      "quote": "我们三人都是一元涅槃境强者 (1210.7)",
+      "first": true,
+      "card": 1039.4
+    },
+    {
+      "id": "chen-ku",
+      "name": "Chen Ku",
+      "realm": "One Yuan Nirvana",
+      "quote": "我们三人都是一元涅槃境强者 (1210.7)",
+      "first": true,
+      "card": 1040.2
+    }
+  ],
+  "terms": [
+    [
+      "天鹰王朝",
+      "Sky Eagle Dynasty",
+      "Eagle Dynasty"
+    ],
+    [
+      "幽泉王朝",
+      "Youquan Dynasty",
+      "Youquan Dynasty"
+    ],
+    [
+      "洪荒王朝",
+      "Primordial Dynasty",
+      "prehistoric dynasty"
+    ],
+    [
+      "蛮熊王朝",
+      "Manxiong Dynasty",
+      "Barbarian Bear Dynasty"
+    ],
+    [
+      "铜雀王朝",
+      "Tongque Dynasty",
+      "(cut off)"
+    ],
+    [
+      "通缉",
+      "bounty",
+      "wanted"
+    ],
+    [
+      "棍法",
+      "staff technique",
+      "stick method"
+    ],
+    [
+      "宗族遗迹",
+      "clan ruins",
+      "clan relics"
+    ],
+    [
+      "丹河 / 丹藏",
+      "Pill River / pill store",
+      "Dan River / Danzang"
+    ],
+    [
+      "丹灵",
+      "pill spirit",
+      "elixir / Dan Ling"
+    ],
+    [
+      "鹰空破",
+      "Eagle Sky Break",
+      "Eagle sky break"
+    ]
+  ],
+  "hero": {
+    "realm": "One Yuan Nirvana",
+    "gains": [
+      "Nirvana Pills and Qiankun Bags from the Sky Eagle men",
+      "One Yuan Nirvana"
+    ],
+    "losses": [],
+    "places": [
+      "Demon Forest",
+      "road to the Ancient Treasure Trove",
+      "ruined clan site",
+      "Pill River chamber"
+    ]
+  },
+  "flags": [
+    "Recap runs about 170-217 s.",
+    "359.2 '一个半步涅槃境的小子' (Sky Eagle man about Lin Dong) is the first time Lin Dong is called Half-step Nirvana; the step up from Manifestation peak (EP54) is not shown in EP55-59.",
+    "Zheng Hei Zhu is only 黑柱兄 (1039.4); full name from the wiki (anime S5 EP12). Wang Lie card 816.4 is a Sky Eagle disciple addressing him; Chen Ku 1040.2 addressed by name.",
+    "823.1: Wang Lie calls the Manxiong (蛮熊) and Tongque (铜雀) dynasties for help, so Zheng Hei Zhu and Chen Ku presumably belong to them (which to which is not said). The wiki puts Chen Ku in the Corpse Empire, which contradicts this.",
+    "Honghuang Dynasty: official English 'prehistoric dynasty'; wiki Prehistoric Empire. Pinyin used per the glossary's X Dynasty rule."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

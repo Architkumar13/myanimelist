@@ -20,7 +20,7 @@
       <section class="hero">
         <img class="hero-img" src="${esc(SH.base + SH.hero)}" alt="${esc(H.heroAlt)}" fetchpriority="high">
         <div class="hero-copy">
-          <h1 class="hero-title" lang="zh">${SH.zh}</h1>
+          <h1 class="hero-title" lang="zh" style="--n:${[...SH.zh].length}">${SH.zh}</h1>
           <p class="hero-sub">${esc(SH.title)}, explained</p>
           <p>${H.lede}</p>
         </div>

@@ -1,0 +1,176 @@
+{
+  "ep": 48,
+  "title": "Champion of the Lin Clan",
+  "summary": "Lin Dong and Lin Langtian fight at full strength; Lin Langtian is at Manifestation, though not yet at its peak. Lin Dong matches his Great Heavenly Phoenix Seal and Hand of the Universal Emperor with the Great Sun Thunder Body, his Mental Strength and the Great Desolate techniques. When Lin Langtian draws power from the thing inside him, Lin Dong answers with the Power of Devouring, until patriarch Lin Fan, a Nirvana expert, stops the fight before Lin City is wrecked. Lin Fan names Lin Dong champion, and the Yan City branch returns to the clan. In private Lin Fan tells him about the Hundred Dynasties Battle and the super sects, and asks him to compete for the Great Yan Dynasty's places next month alongside Lin Langtian. In the clan's treasure vault Lin Zheng's ally Lin Zhi turns the formations on him. Lin Dong has the Blood Spirit Puppet smash the formation eye, binds the Earth-grade Heavy Prison Peak and reaches Manifestation initial; after an argument with Qing Tan, he sails for the Imperial City.",
+  "events": [
+    "Lin Dong fights Lin Langtian; Lin Langtian is Manifestation but not at its peak.",
+    "They trade Manifestation martial arts; Lin Dong's Mental Strength presses Lin Langtian back.",
+    "Lin Langtian draws power from the thing inside him; Lin Dong uses the Power of Devouring; Lin Fan stops the fight.",
+    "Lin Fan names Lin Dong champion and tells him about the Hundred Dynasties Battle and the super sects.",
+    "In the treasure vault, Lin Zhi and Lin Zheng turn the formations on Lin Dong; the Blood Spirit Puppet destroys the formation eye.",
+    "Lin Dong binds the Heavy Prison Peak with his blood essence and the Stone Talisman, and reaches Manifestation initial in a month.",
+    "Qing Tan begs to come along and is hurt when he refuses; Lin Dong and Lin Langtian set off for the Imperial City."
+  ],
+  "introduced": [
+    "Lin Zhi",
+    "Heavy Prison Peak",
+    "Great Heavenly Phoenix Seal",
+    "Hand of the Universal Emperor",
+    "super sects",
+    "Imperial City",
+    "Lin Clan treasure vault"
+  ],
+  "cultivation": "Lin Langtian is Manifestation, not yet peak. Lin Fan is Nirvana. Lin Dong's Mental Strength matches an advanced Spirit Symbol Master, and after a month in the treasure vault he reaches Manifestation initial.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Manifestation initial",
+      "quote": "you have advanced to the primary phase of the Creation Phase (1748.7)"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "blood-spirit-puppet",
+      "name": "Blood Spirit Puppet"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian",
+      "realm": "Manifestation",
+      "quote": "The Peak of the Creation Phase. (No.) Lin Langtian hasn't reached the Peak. (302.9)"
+    },
+    {
+      "id": "lin-fan",
+      "name": "Lin Fan",
+      "realm": "Nirvana",
+      "quote": "You are a master of the Nirvana Phase. (850.1)"
+    },
+    {
+      "id": "lin-mu",
+      "name": "Lin Mu"
+    },
+    {
+      "id": "lin-zheng",
+      "name": "Lin Zheng"
+    },
+    {
+      "id": "lin-zhi",
+      "name": "Lin Zhi",
+      "first": true,
+      "card": 1160.5
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan"
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao"
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian"
+    }
+  ],
+  "terms": [
+    [
+      "",
+      "Great Heavenly Phoenix Seal",
+      "Gigantic Pheonix Seal"
+    ],
+    [
+      "",
+      "Hand of the Universal Emperor",
+      "Inescapable Imperial Hands"
+    ],
+    [
+      "",
+      "Great Desolate Sea-Splitting Seal",
+      "Dahuang Sea-separating Seal"
+    ],
+    [
+      "元精之力",
+      "Yuan Essence Power",
+      "Mental and Spiritual Power"
+    ],
+    [
+      "",
+      "Mirror of Spiritual Chakra",
+      "Mirror of Spiritual Cakra"
+    ],
+    [
+      "",
+      "super sect",
+      "super clans"
+    ],
+    [
+      "东玄域",
+      "Eastern Xuan Region",
+      "East Continent"
+    ],
+    [
+      "",
+      "Xuan Region",
+      "Mystic Region"
+    ],
+    [
+      "",
+      "Lin Clan treasure vault",
+      "treasure vault"
+    ],
+    [
+      "",
+      "Earth-grade Soul Treasure",
+      "Earth-Level Spirit Treasure"
+    ],
+    [
+      "",
+      "Heavy Prison Peak",
+      "Heavy-weight Peak of Prison"
+    ],
+    [
+      "",
+      "Imperial City",
+      "Imperial City"
+    ]
+  ],
+  "hero": {
+    "realm": "Manifestation initial",
+    "gains": [
+      "Lin Clan Gathering championship",
+      "Heavy Prison Peak (Earth-grade Soul Treasure)",
+      "Manifestation initial",
+      "a place in the Great Yan Dynasty's Hundred Dynasties Battle selection"
+    ],
+    "losses": [],
+    "places": [
+      "Lin City arena",
+      "Lin Fan's hall",
+      "Lin Clan treasure vault",
+      "Lin City",
+      "ship to the Imperial City"
+    ]
+  },
+  "flags": [
+    "The ep48.zh.srt file holds English text, not Chinese (it is a second English track). Names and terms were checked against earlier Chinese episodes and wiki page titles only; quotes are English lines.",
+    "Recap runs to about 210 s.",
+    "'primary phase of the Creation Phase' read as Manifestation initial; in this English track 'Creation Phase' = 造化 (Half Creation = Half-step Manifestation).",
+    "Technique names use wiki titles: Great Heavenly Phoenix Seal, Hand of the Universal Emperor (Lin Langtian's), Heavy Prison Peak.",
+    "'Mirror of Spiritual Cakra, Reverse the Sky and Earth' (604.8): user not stated.",
+    "'Mystic Region ... four continents' (882.0): the wiki calls it the Xuan Region with East/West/South/North Xuan Continents; the earlier glossary term is Eastern Xuan Region.",
+    "939.5 'Lin Qingzhu' is a slip for Ling Qingzhu.",
+    "Card 1160.5 is Lin Mu addressing Lin Zhi face to face.",
+    "End (2048.1): someone says 'Qingtan, shall we?'; probably her senior from EP45, not shown clearly in subtitles."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "ep": 36,
+  "title": "The Manifestation Martial Tablet",
+  "summary": "Before the Manifestation Martial Tablet, the strongest fighters compete for its ten seats. Lin Langtian, now Half-step Manifestation, takes one at once, and Wang Yan sits only because the Wang Clan backs him. When Lin Dong steps up, Wang Tong attacks him, but Lin Dong wins his seat with the Demon Ape Transformation, the Heavenly Dragon Halberd, his high-grade Symbol Puppet and the Jade Thunder Body. The tablet carries the seated fighters into a space full of the ancient sect's martial arts. Lin Dong and Little Mink chase the tablet's soul, which shows them memories of the creatures that destroyed the ancient sect. The black-eyed elder appears and calls Lin Dong his heir. The elder's young disciple leads Lin Dong to a store of Manifestation-grade martial arts, but she tells him he must learn one strange art in particular.",
+  "events": [
+    "Fighters gather before the Manifestation Martial Tablet to compete for its ten seats.",
+    "Lin Langtian, Half-step Manifestation, takes a seat; Wang Yan takes one with the Wang Clan's backing.",
+    "Lin Dong claims a seat, and Wang Tong attacks him for it.",
+    "Lin Dong beats Wang Tong with the Demon Ape Transformation, the Heavenly Dragon Halberd, the high-grade Symbol Puppet and the Jade Thunder Body.",
+    "The tablet starts, and the seated fighters enter its martial arts space; Lin Dong finds only lesser arts, such as a 6th-grade palm.",
+    "Lin Dong and Little Mink catch the tablet's soul and flee from memories of the beings that destroyed the ancient sect.",
+    "The black-eyed elder names Lin Dong his heir, and his disciple leads Lin Dong to the Manifestation martial arts."
+  ],
+  "introduced": [
+    "Green Tiger Sect",
+    "Tang Sect",
+    "Tablet Soul",
+    "Heavenly Net Palm"
+  ],
+  "cultivation": "Lin Langtian is Half-step Manifestation. Little Mink says a Manifestation-grade martial art from the tablet would let Lin Dong stand against him. Wang Tong is Qi Creation advanced (EP33).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian",
+      "realm": "Half-step Manifestation",
+      "quote": "半步造化境 (352.8)"
+    },
+    {
+      "id": "lin-mu",
+      "name": "Lin Mu"
+    },
+    {
+      "id": "wang-yan",
+      "name": "Wang Yan"
+    },
+    {
+      "id": "wang-tong",
+      "name": "Wang Tong"
+    },
+    {
+      "id": "qin-shi",
+      "name": "Qin Shi"
+    },
+    {
+      "id": "mu-qianqian",
+      "name": "Mu Qianqian"
+    },
+    {
+      "id": "black-eyed-elder",
+      "name": "Black-Eyed Elder"
+    },
+    {
+      "id": null,
+      "name": "the Black-Eyed Elder's disciple",
+      "first": true,
+      "card": 1143.5
+    }
+  ],
+  "terms": [
+    [
+      "席位",
+      "seat",
+      "seat"
+    ],
+    [
+      "半步造化境",
+      "Half-step Manifestation",
+      "half-step fortune"
+    ],
+    [
+      "造化武学",
+      "Manifestation martial art",
+      "Good Fortune Martial Arts"
+    ],
+    [
+      "王统",
+      "Wang Tong",
+      "Wang Tong"
+    ],
+    [
+      "青虎门",
+      "Green Tiger Sect",
+      "Qinghumen"
+    ],
+    [
+      "唐门",
+      "Tang Sect",
+      "Tangmen"
+    ],
+    [
+      "六品武学",
+      "6th-grade martial art",
+      "Sixth Grade Martial Arts"
+    ],
+    [
+      "天罗掌",
+      "Heavenly Net Palm",
+      "Tian Luo Zhang"
+    ],
+    [
+      "碑魂",
+      "Tablet Soul",
+      "soul of Wu Bei / Monument soul"
+    ],
+    [
+      "传承者",
+      "heir",
+      "heir / inheritor"
+    ],
+    [
+      "黑瞳师尊",
+      "the black-eyed master",
+      "black-eyed master"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "a seat at the Manifestation Martial Tablet",
+      "named heir by the Black-Eyed Elder"
+    ],
+    "losses": [],
+    "places": [
+      "before the Manifestation Martial Tablet",
+      "martial arts space inside the tablet",
+      "the elder's store of Manifestation martial arts"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "352.8 半步造化境 comes right after Lin Langtian takes his seat, and the onlookers praise him (366.0), so the realm is his.",
+    "The girl is never named. Whether she is the tablet soul they caught (1024-1037) is not clear: the soul cries 'let me go', and later a girl greets the elder as 师尊 and leads Lin Dong away. I used a generic cast entry with id null.",
+    "443.3 '我站在这里 王兄应该没有意见吧' is another heir taking a seat (unattributed, probably Qin Shi or Huangpu Jing); the wiki seat order lists Lin Langtian, Wang Yan, Qin Shi, Huangpu Jing, Mu Qianqian, Teng Lei, ... Lin Dong 9th. The subtitles do not give the order.",
+    "Teng Lei and Huangpu Jing are not clearly on screen in the subtitles here.",
+    "1260.5: the episode ends before the art is named; the wiki says it is the Great Desolate Heaven-Imprisoning Finger (glossary 大荒囚天指), likely in EP37."
+  ]
+}

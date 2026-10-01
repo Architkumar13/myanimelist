@@ -1,0 +1,145 @@
+{
+  "ep": 10,
+  "title": "Yin Yang Pearls",
+  "summary": "The winners enter the Celestial Dan Pool to absorb its Yin and Yang energy. Lin Dong uses the Qingyuan Art his grandfather taught him, but it is far too slow, and Little Mink offers a better method in return for a favour. With the Qi-Transforming Spirit Vortex he absorbs a huge amount of energy, reaches Heavenly Yuan late and restores the Stone Talisman. At the bottom of the pool he finds the demon spirit of a wounded Demonic Jade Water Python guarding Yin Yang Pearls. Little Mink uses Lin Dong's Yuan Power to swallow it, then goes to sleep. Afterward Xia Wanjin makes Lin Dong an honorary elder of the Thousand Gold Association, and Xuan Su gives him the Three Yang Art to help him prepare for Wei Tong.",
+  "events": [
+    "Lin Dong, Zi Yue and Liu Yi enter the Celestial Dan Pool.",
+    "Lin Dong uses the Qingyuan Art, which Lin Zhentian taught him, and absorbs too slowly.",
+    "Little Mink teaches him the Qi-Transforming Spirit Vortex, and he reaches Heavenly Yuan late.",
+    "At the pool bottom they find a Demonic Jade Water Python's demon spirit guarding Yin Yang Pearls.",
+    "Little Mink swallows the python spirit using Lin Dong's Yuan Power, then sleeps.",
+    "Lin Dong tells Xia Wanjin about the duel and becomes an honorary elder of the Thousand Gold Association.",
+    "Xuan Su gives him the Three Yang Art, which opens fifteen meridians."
+  ],
+  "introduced": [
+    "Qingyuan Art",
+    "Qi-Transforming Spirit Vortex",
+    "Demonic Jade Water Python",
+    "Yin Yang Pearl",
+    "Three Yang Art",
+    "Celestial Demon's Mouth"
+  ],
+  "cultivation": "Lin Dong reaches Heavenly Yuan late. The python spirit is equal to Yuan Dan perfect even while wounded. Wei Tong is at Yuan Dan advanced.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Heavenly Yuan late",
+      "quote": "天元境后期 (524.8); 我才刚刚步入天元境后期 (689.8)",
+      "first": false
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink",
+      "first": false
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian",
+      "quote": "我这就把我林家绝学青元功 传授于你 (276.8)",
+      "first": false
+    },
+    {
+      "id": "zi-yue",
+      "name": "Zi Yue",
+      "first": false
+    },
+    {
+      "id": "liu-yi",
+      "name": "Liu Yi",
+      "first": false
+    },
+    {
+      "id": "xia-wanjin",
+      "name": "Xia Wanjin",
+      "quote": "那魏通可是元丹境小圆满的强者 (1120.7)",
+      "first": false
+    },
+    {
+      "id": "xuan-su",
+      "name": "Xuan Su",
+      "quote": "以后叫我素姐就好 (1275.0)",
+      "first": false
+    },
+    {
+      "id": "demonic-jade-water-python",
+      "name": "Demonic Jade Water Python",
+      "realm": "Yuan Dan perfect",
+      "quote": "相当于人类元丹境大圆满的实力吧 (615.4)",
+      "first": true,
+      "card": 597.0
+    }
+  ],
+  "terms": [
+    [
+      "青元功",
+      "Qingyuan Art",
+      "Qing Yuan Gong, Qingyuan Kungfu"
+    ],
+    [
+      "化气精旋",
+      "Qi-Transforming Spirit Vortex",
+      "Huaqi Jingxuan"
+    ],
+    [
+      "碧水妖蟒",
+      "Demonic Jade Water Python",
+      "Azure python, blue water demon python"
+    ],
+    [
+      "阴阳珠",
+      "Yin Yang Pearl",
+      "Yin Yang Pearl, yin-yang beads"
+    ],
+    [
+      "阴阳二气",
+      "Yin and Yang energy",
+      "yin and yang"
+    ],
+    [
+      "天妖之口",
+      "Celestial Demon's Mouth",
+      "the mouth of the demon"
+    ],
+    [
+      "供奉",
+      "honorary elder",
+      "enshrined"
+    ],
+    [
+      "三阳决",
+      "Three Yang Art",
+      "Sanyang Jue"
+    ],
+    [
+      "经脉",
+      "meridians",
+      "meridians"
+    ]
+  ],
+  "hero": {
+    "realm": "Heavenly Yuan late",
+    "gains": [
+      "Qingyuan Art",
+      "Qi-Transforming Spirit Vortex",
+      "Yin Yang Pearls",
+      "Three Yang Art",
+      "honorary elder of the Thousand Gold Association"
+    ],
+    "losses": [],
+    "places": [
+      "Celestial Dan Pool",
+      "cave at the bottom of the pool",
+      "Celestial Dan Pool shore"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "0-182 opening/recap.",
+    "Lin Zhentian teaching the Qingyuan Art (275.6-297.8) is a flashback.",
+    "The python's realm is an equivalence for a demon spirit; recorded as Yuan Dan perfect.",
+    "1088.5-1090.8 the speaker who says she won her round is Zi Yue (implied).",
+    "1315-1322: Lin Dong prepares to use the new items; continued in EP11."
+  ]
+}

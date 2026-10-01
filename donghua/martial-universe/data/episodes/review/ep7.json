@@ -1,0 +1,117 @@
+{
+  "ep": 7,
+  "title": "The Wager with Wei Tong",
+  "summary": "After the banquet the Lei and Xie families collapse, but the Blood Cloth Sect comes for revenge for Gu Ying. Its master Wei Tong, at Yuan Dan advanced, demands Gu Ying's killer, Ironwood Manor and the Lin family's submission. Lin Dong steps forward, flies out of reach with mental strength and threatens to vanish and train in secret if the sect attacks. He offers a wager instead, and Wei Tong agrees to a fight to the death at the Yan City arena in two months, with Blood Cloth Sect spies watching the family. Lin Dong sets out alone for Yan City with a hundred Yang Yuan Pills from his grandfather, leaving Wu Yun to watch over Qing Tan and Little Flame. He also needs a way to restore the Stone Talisman, whose power has faded, and he gets new clothes to enter the Thousand Gold Auction.",
+  "events": [
+    "The Stone Talisman's power fails just as the Blood Cloth Sect reaches the Lin home.",
+    "Lin Zhentian sends Lin Ken and Lin Mang off with the juniors and faces Wei Tong.",
+    "Wei Tong demands Gu Ying's killer, Ironwood Manor and the Lin family's surrender.",
+    "Lin Dong admits killing Gu Ying and flies above the sect's archers with mental strength.",
+    "Lin Dong proposes a duel; Wei Tong sets it for two months later at the Yan City arena.",
+    "Lin Zhentian gives Lin Dong a hundred Yang Yuan Pills; Wu Yun promises to guard Qing Tan.",
+    "In Yan City Lin Dong buys new clothes to attend the Thousand Gold Auction."
+  ],
+  "introduced": [
+    "Wei Tong",
+    "Lin Ken",
+    "Yan City arena",
+    "Thousand Gold Auction"
+  ],
+  "cultivation": "Wei Tong is at Yuan Dan advanced, said to match a 3rd Seal Symbol Master. Lin Zhentian is at Yuan Dan initial. Lin Dong is a 1st Seal Symbol Master and aims to reach the 2nd Seal in two months.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "first": false
+    },
+    {
+      "id": "wei-tong",
+      "name": "Wei Tong",
+      "realm": "Yuan Dan advanced",
+      "quote": "怎可能是我元丹境小圆满的对手 (417.6-419.8)",
+      "first": true,
+      "card": 341.4
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian",
+      "realm": "Yuan Dan initial",
+      "quote": "凭你小元丹境的实力 (417.6)",
+      "first": false
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao",
+      "first": false
+    },
+    {
+      "id": "lin-ken",
+      "name": "Lin Ken",
+      "quote": "林肯 林莽 你们速速带小辈们逃离 (255.9-257.3)",
+      "first": true,
+      "card": 255.9
+    },
+    {
+      "id": "lin-mang",
+      "name": "Lin Mang",
+      "first": false
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan",
+      "first": false
+    },
+    {
+      "id": "wu-yun",
+      "name": "Wu Yun",
+      "first": false
+    }
+  ],
+  "terms": [
+    [
+      "血衣门门主",
+      "Blood Cloth Sect master",
+      "door master, sect master"
+    ],
+    [
+      "御空而行",
+      "flying through the air",
+      "fly in the sky"
+    ],
+    [
+      "炎城角斗场",
+      "Yan City arena",
+      "Yancheng arena"
+    ],
+    [
+      "万金拍卖会",
+      "Thousand Gold Auction",
+      "Wanjin auction"
+    ],
+    [
+      "三印符师",
+      "3rd Seal Symbol Master",
+      "three seals"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "a hundred Yang Yuan Pills"
+    ],
+    "losses": [],
+    "places": [
+      "Lin family home, Qingyang Town",
+      "road to Yan City",
+      "Yan City"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "0-175 opening; 175-193 is a narrated bridge.",
+    "Lin Mang is written 林莽 at 256.6 (homophone of 林蟒).",
+    "Lin Ken's card 255.9 is Lin Zhentian addressing him; names.txt lists Lin Ken first in EP1, but this is the first time he is named on screen (he is mentioned as 大伯 in EP5).",
+    "Lin Dong's realm is not restated."
+  ]
+}

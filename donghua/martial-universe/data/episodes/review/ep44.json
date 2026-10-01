@@ -1,0 +1,164 @@
+{
+  "ep": 44,
+  "title": "The Fall of the Yin Puppet Sect",
+  "summary": "Using the Devouring Ancestral Symbol to turn the crack's cold into Yuan Power, Lin Dong jumps from Qi Creation to Half-step Manifestation. Little Mink warns him not to push his Yuan Dan further; he learns that Teng Sha has captured Little Flame and means to turn it into a beast puppet. Teng Sha is hosting the sects of the Great Desolate Province to form an alliance when Lin Dong bursts in; he kills Cao Zhen in one move, and the other sects refuse to get involved. Lin Dong presses Teng Sha with his halberd, the Purple Shadow Nine Breaks, the Great Desolate Sea-Splitting Seal and the Great Desolate Heaven-Imprisoning Finger. Then he breaks Teng Sha's last move and the sect's protective formation with the Power of Devouring and kills him, seeing some of his memories. Not far away, Ling Qingzhu finds a sabotaged formation for the Hundred Dynasties Battle, and Old Ma Yi stays behind. Mu Lei thanks Lin Dong with Pure Yuan Pills and a robe, and Mu Qianqian agrees to look after the Eagle Martial Dojo.",
+  "events": [
+    "Lin Dong reaches Half-step Manifestation in the Xuanyin Crack with the Devouring Ancestral Symbol.",
+    "He learns Little Flame was captured and taken to the Yin Puppet Sect.",
+    "Teng Sha proposes an alliance of the Great Desolate Province sects; Mu Lei and Wu Zong hold back.",
+    "Lin Dong arrives, frees Little Flame, kills Cao Zhen in one move and tells the other sects to stay out.",
+    "He beats Teng Sha at Manifestation peak with his halberd, the Great Desolate techniques and the Power of Devouring.",
+    "He devours the Yin Puppet Sect's protective formation, kills Teng Sha and sees some of his memories.",
+    "Ling Qingzhu inspects Hundred Dynasties Battle formations around the Ancient Battlefield; Old Ma Yi stays to watch one.",
+    "Mu Lei rewards Lin Dong; Lin Dong asks Mu Qianqian to protect the Eagle Martial Dojo and leaves for the Lin Clan Gathering."
+  ],
+  "introduced": [
+    "Great Desolate Sea-Splitting Seal",
+    "Four Halberds as One",
+    "Yin Puppet Blood Skull Seal",
+    "Sect Protecting Grand Formation",
+    "Aohuang Sect",
+    "Azure Dragon Sect"
+  ],
+  "cultivation": "Lin Dong breaks through from Qi Creation to Half-step Manifestation. Teng Sha is Manifestation peak. Cao Zhen was Half-step Manifestation.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Half-step Manifestation",
+      "quote": "Half Creation Phase. (227.4); Lin Dong is only in the Half Creation Phase (768.4)"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "teng-sha",
+      "name": "Teng Sha",
+      "realm": "Manifestation peak",
+      "quote": "The Peak of the Creation Phase is not as powerful as I thought (777.0)",
+      "look": "killed"
+    },
+    {
+      "id": "cao-zhen",
+      "name": "Cao Zhen",
+      "look": "killed"
+    },
+    {
+      "id": "teng-lei",
+      "name": "Teng Lei"
+    },
+    {
+      "id": "mu-lei",
+      "name": "Mu Lei"
+    },
+    {
+      "id": "mu-qianqian",
+      "name": "Mu Qianqian"
+    },
+    {
+      "id": "wu-zong",
+      "name": "Wu Zong"
+    },
+    {
+      "id": "ling-qingzhu",
+      "name": "Ling Qingzhu"
+    },
+    {
+      "id": "old-ma-yi",
+      "name": "Old Ma Yi"
+    }
+  ],
+  "terms": [
+    [
+      "半步造化",
+      "Half-step Manifestation",
+      "Half Creation Phase"
+    ],
+    [
+      "大荒郡",
+      "Great Desolate Province",
+      "Dahuang County"
+    ],
+    [
+      "",
+      "Aohuang Sect / Azure Dragon Sect / Barrenland Explorers / Sky-breaking Sect",
+      "same"
+    ],
+    [
+      "",
+      "beast puppet",
+      "animal puppet"
+    ],
+    [
+      "",
+      "Four Halberds as One",
+      "Four Halberds as One"
+    ],
+    [
+      "",
+      "Great Desolate Sea-Splitting Seal",
+      "Dahuang Sea-separating Seal"
+    ],
+    [
+      "大荒囚天指",
+      "Great Desolate Heaven-Imprisoning Finger",
+      "Dahuang World-suppressing Finger"
+    ],
+    [
+      "",
+      "Yin Puppet Blood Skull Seal",
+      "Yin Puppet Bloody Skull Seal"
+    ],
+    [
+      "",
+      "Sect Protecting Grand Formation",
+      "Sect Protecting Grand Formation"
+    ],
+    [
+      "百朝大战",
+      "Hundred Dynasties Battle",
+      "Hundred Dynasty Battle"
+    ],
+    [
+      "远古战场",
+      "Ancient Battlefield",
+      "ancient battlefield"
+    ],
+    [
+      "鹰之武馆 / 大鹰城",
+      "Eagle Martial Dojo / Eagle City",
+      "Eagle's Martial Arts Hall in Daying City"
+    ]
+  ],
+  "hero": {
+    "realm": "Half-step Manifestation",
+    "gains": [
+      "Half-step Manifestation",
+      "Little Flame back",
+      "some of Teng Sha's memories",
+      "Pure Yuan Pills and a robe from Mu Lei"
+    ],
+    "losses": [],
+    "places": [
+      "Xuanyin Crack",
+      "Yin Puppet City"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "The ep44.zh.srt file holds English text, not Chinese (it is a second English track). Names and terms were checked against earlier Chinese episodes and wiki page titles only; quotes are English lines.",
+    "Recap runs to about 215 s.",
+    "'Peak of the Creation Phase' (250.4): Lin Dong talks of using the cold to reach Manifestation peak; Little Mink stops him. Not a stated realm.",
+    "Great Desolate Sea-Splitting Seal: wiki title is 'Great Desolate Ocean Splitting Seal' (pseudo-Manifestation art). 786.6 follows a Teng Sha line, but the seal is Lin Dong's art in EP45 (850.7) and EP48 (441.3).",
+    "Teng Lei, 1199-1233: he seems to turn on his father and beg Lin Dong for mercy; Teng Sha calls him a traitor. His fate is unclear; EP45 1246.4 still has a 'Young Lord' alive.",
+    "'Purple Shadow Slayers' (739.5) = Purple Shadow Nine Breaks (紫影九破, EP39-40)."
+  ]
+}

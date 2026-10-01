@@ -1,0 +1,136 @@
+{
+  "ep": 45,
+  "title": "The Blood Spirit Puppet",
+  "summary": "In Yan City, Lin Xia beats Lin Hong in a family trial, and Lin Xiao tells Lin Zhentian the young ones are ready for the Lin Clan Gathering. Qing Tan has trained in the mountains for a year with a mysterious senior and reached Qi Creation; she chooses to stay with her family, and the senior gives her a sect token to call on later. From Teng Sha's memories, Lin Dong goes to Yin Puppet Mountain and finds a sealed Blood Spirit Puppet, as strong as a Nirvana expert but hungry for blood. Little Mink and Little Flame hold it off while Lin Dong struggles to work the Stone Talisman. In the end he uses the Power of Devouring on the cold energy, seals the puppet inside the Stone Talisman and makes a contract with it. He heads home for the clan competition in three months, aiming to perfect the Great Sun Thunder Body on the way. Meanwhile a strong old man questions the Yin Puppet Sect's survivors and sets out after Lin Dong.",
+  "events": [
+    "Lin Xia beats Lin Hong in a Yan City family trial before the clan competition.",
+    "Qing Tan returns at Qi Creation after a year with a senior, declines to leave her family and receives a sect token.",
+    "Lin Dong finds the Blood Spirit Puppet sealed deep in Yin Puppet Mountain.",
+    "Little Mink explains spirit puppets and suggests sealing it in the Stone Talisman.",
+    "The puppet breaks loose; Little Mink and Little Flame stall it while Lin Dong uses the Great Desolate Sea-Splitting Seal and the Stone Talisman.",
+    "With the Power of Devouring he seals the puppet in the Stone Talisman and makes a contract with it.",
+    "Lin Dong sets off for the clan competition; an old man hunts the Yin Puppet Sect's survivors for news of him."
+  ],
+  "introduced": [
+    "Lin Xia",
+    "Blood Spirit Puppet",
+    "spirit puppet",
+    "Qing Tan's sect token"
+  ],
+  "cultivation": "Qing Tan has reached Qi Creation. Lin Xia and Lin Hong are at the peak of Yuan Dan. A Blood Spirit Puppet matches a Nirvana expert. Little Mink guesses Lin Langtian has reached Manifestation peak.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "blood-spirit-puppet",
+      "name": "Blood Spirit Puppet",
+      "first": true,
+      "card": 532.2
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan",
+      "realm": "Qi Creation",
+      "quote": "now, she is a master of the Energy Creation Phase (346.9)"
+    },
+    {
+      "id": null,
+      "name": "Qing Tan's senior",
+      "first": true,
+      "card": 386.6
+    },
+    {
+      "id": "lin-xia",
+      "name": "Lin Xia",
+      "realm": "Yuan Dan perfect",
+      "quote": "both Lin Xia and Lin Hong are in the Fully Complete Primordial Spirit Phase (254.9)",
+      "first": true,
+      "card": 230.5
+    },
+    {
+      "id": "lin-hong",
+      "name": "Lin Hong",
+      "realm": "Yuan Dan perfect",
+      "quote": "Fully Complete Primordial Spirit Phase (256.4)"
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao"
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian"
+    },
+    {
+      "id": "old-ma-yi",
+      "name": "Old Ma Yi"
+    }
+  ],
+  "terms": [
+    [
+      "",
+      "Blood Spirit Puppet",
+      "bloody spirit puppet"
+    ],
+    [
+      "",
+      "spirit puppet",
+      "spirit puppet"
+    ],
+    [
+      "",
+      "Yin Puppet Mountain",
+      "Mount Yinkui"
+    ],
+    [
+      "石符",
+      "Stone Talisman",
+      "stone seal"
+    ],
+    [
+      "大日雷体",
+      "Great Sun Thunder Body",
+      "Solar Thunder Body"
+    ],
+    [
+      "族比",
+      "clan competition",
+      "clan competition"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Blood Spirit Puppet (sealed in the Stone Talisman under contract)"
+    ],
+    "losses": [],
+    "places": [
+      "Yin Puppet Mountain",
+      "road home"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "The ep45.zh.srt file holds English text, not Chinese (it is a second English track). Names and terms were checked against earlier Chinese episodes and wiki page titles only; quotes are English lines.",
+    "Recap runs to about 210 s.",
+    "224.8 'Lin Xia. (Lin Hong)' and 230.5 '(Lin Xia)' are speaker labels in brackets, not name cards; card 230.5 is Lin Xia speaking.",
+    "'Fully Complete Primordial Spirit Phase' read as Yuan Dan perfect (元丹大圆满); 'Energy Creation Phase' = Qi Creation.",
+    "301.2 'Thank you, Uncle Lin Mu' in the Yan City trial: unclear if this is the clan elder Lin Mu or a family uncle; I left him out.",
+    "Qing Tan's senior is never named; card 386.6 is the senior speaking to her.",
+    "The old man at 1227-1282 is not named; EP46 shows Old Ma Yi tracking Lin Dong, so it is probably him.",
+    "1189.5 'the past two years' is an English line; time scale not checked against Chinese."
+  ]
+}

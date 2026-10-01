@@ -1,0 +1,4617 @@
+[
+  {
+    "id": "lin-dong",
+    "name": "Lin Dong",
+    "zh": "林动",
+    "aka": [],
+    "wiki": "Lin Dong",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Lin Family (Qingyang)",
+    "side": "ally",
+    "intro": "Lin Dong is the son of Lin Xiao from the side branch of the Lin family in Qingyang Town, mocked as the son of trash until a Stone Talisman starts him on the path of cultivation. He vows to beat Lin Langtian, who crippled his father, and by EP72 he holds the Devouring Ancestral Symbol, wins the Hundred Dynasties Battle and joins the Dao Sect.",
+    "power": [
+      {
+        "ep": 1,
+        "realm": "Tempered Body 4th layer",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 2,
+        "realm": "Tempered Body 7th layer",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 3,
+        "realm": "Tempered Body 9th layer",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 4,
+        "realm": "Earthly Yuan",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 5,
+        "realm": "Heavenly Yuan",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 10,
+        "realm": "Heavenly Yuan late",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 11,
+        "realm": "Yuan Dan initial",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 17,
+        "realm": "Yuan Dan advanced",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 18,
+        "realm": "Yuan Dan advanced",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 22,
+        "realm": "Yuan Dan perfect",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 26,
+        "realm": "Form Creation",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 37,
+        "realm": "Qi Creation",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 40,
+        "realm": "Qi Creation",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 42,
+        "realm": "Qi Creation",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 44,
+        "realm": "Half-step Manifestation",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 46,
+        "realm": "Half-step Manifestation",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 47,
+        "realm": "Half-step Manifestation",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 48,
+        "realm": "Manifestation initial",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 54,
+        "realm": "Manifestation peak",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 60,
+        "realm": "One Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 61,
+        "realm": "One Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 66,
+        "realm": "Three Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 67,
+        "realm": "Three Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 68,
+        "realm": "Three Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 69,
+        "realm": "Four Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "Qingyang Town",
+        "desc": "A teenage boy of the Lin family's side branch",
+        "why": "First appearance",
+        "card": {
+          "ep": 1,
+          "t": 321.7
+        }
+      },
+      {
+        "ep": 25,
+        "label": "Season 3",
+        "desc": "Travelling alone to Great Desolate Province, in the Season 3 art style",
+        "why": "New studio art style",
+        "card": {
+          "ep": 25,
+          "t": 741.9
+        }
+      },
+      {
+        "ep": 30,
+        "label": "Demon Ape Transformation",
+        "desc": "An ape form, unlike Luo Jiu's, from Ancient Dragon Ape blood",
+        "why": "Masters the Demon Ape Transformation",
+        "card": {
+          "ep": 30,
+          "t": 511.5
+        }
+      },
+      {
+        "ep": 37,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 37,
+          "t": 619.2
+        }
+      },
+      {
+        "ep": 39,
+        "label": "Jade Thunder Body",
+        "desc": "A jade-coloured glow over his body",
+        "why": "Shows the Jade Thunder Body",
+        "card": {
+          "ep": 39,
+          "t": 1145.5
+        }
+      },
+      {
+        "ep": 61,
+        "label": "Season 6",
+        "desc": "One Yuan Nirvana key holder in the Ancient Battlefield, in the Season 6 art style",
+        "why": "New studio art style",
+        "card": {
+          "ep": 61,
+          "t": 355.2
+        }
+      },
+      {
+        "ep": 71,
+        "label": "Dragon form",
+        "desc": "Takes dragon form with the Green Dragon's spirit",
+        "why": "Green Heaven Materialized Dragon Skill",
+        "card": {
+          "ep": 71,
+          "t": 639.4
+        }
+      }
+    ],
+    "arc": [
+      {
+        "ep": 1,
+        "text": "A Stone Talisman heals him and starts his cultivation; he fights back against his bullying cousins."
+      },
+      {
+        "ep": 12,
+        "text": "Kills Wei Tong in a fight to the death in Yan City."
+      },
+      {
+        "ep": 22,
+        "text": "Walks out of the tomb hall under Lin Langtian's Qi Creation pressure and vows revenge."
+      },
+      {
+        "ep": 43,
+        "text": "Merges with the Power of Devouring and becomes the Devouring Ancestral Symbol's heir."
+      },
+      {
+        "ep": 48,
+        "text": "Fights Lin Langtian at the Lin Clan Gathering and is named champion."
+      },
+      {
+        "ep": 72,
+        "text": "Breaks the Heaven-Sealing Formation Diagram, wins the Hundred Dynasties Battle and joins the Dao Sect."
+      }
+    ]
+  },
+  {
+    "id": "little-mink",
+    "name": "Little Mink",
+    "zh": "小貂",
+    "aka": [
+      "Mink",
+      "Master Mink",
+      "Lin Diao",
+      "Celestial Demon Marten"
+    ],
+    "wiki": "Celestial Demon Marten",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Lin Dong's side",
+    "side": "ally",
+    "intro": "Little Mink is a Celestial Demon Marten who survives as a demon spirit inside the Stone Talisman, waiting for its next heir. Boastful and greedy for demon spirits, he becomes Lin Dong's teacher and partner, swears brotherhood with him in EP59 and rebuilds a human body as Lin Diao in EP66.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "Prologue",
+        "desc": "A wounded marten hunted for the Ancestral Stone",
+        "why": "First appearance",
+        "card": {
+          "ep": 1,
+          "t": 141.6
+        }
+      },
+      {
+        "ep": 16,
+        "label": "True colours",
+        "desc": "Wakes with a changed colour, which he calls his true form",
+        "why": "Wakes in the tower's hidden space",
+        "card": {
+          "ep": 16,
+          "t": 493.7
+        }
+      },
+      {
+        "ep": 25,
+        "label": "Season 3",
+        "desc": "As seen in Season 3",
+        "why": "New studio art style",
+        "card": {
+          "ep": 25,
+          "t": 547.3
+        }
+      },
+      {
+        "ep": 32,
+        "label": "Demon spirit form",
+        "desc": "Fights Hua Gu in his demon spirit form",
+        "why": "Comes out to guard Lin Dong",
+        "card": {
+          "ep": 32,
+          "t": 638.2
+        }
+      },
+      {
+        "ep": 37,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 37,
+          "t": 1144.2
+        }
+      },
+      {
+        "ep": 61,
+        "label": "Season 6",
+        "desc": "As seen in Season 6",
+        "why": "New studio art style",
+        "card": {
+          "ep": 61,
+          "t": 918.6
+        }
+      },
+      {
+        "ep": 66,
+        "label": "Lin Diao",
+        "desc": "Human form as a young man",
+        "why": "Rebuilds a body in the Green Dragon Hall",
+        "card": {
+          "ep": 66,
+          "t": 1132.7
+        }
+      }
+    ],
+    "arc": [
+      {
+        "ep": 1,
+        "text": "Hunted for the Ancestral Stone, he hides it and waits for its next heir."
+      },
+      {
+        "ep": 8,
+        "text": "Meets Lin Dong inside the Stone Talisman and agrees to teach him."
+      },
+      {
+        "ep": 16,
+        "text": "Wakes in his true colours and tells Lin Dong about the eight Ancestral Symbols."
+      },
+      {
+        "ep": 59,
+        "text": "Swears brotherhood with Lin Dong and Lin Yan, insisting on being the eldest."
+      },
+      {
+        "ep": 66,
+        "text": "Rebuilds a body and takes human form as Lin Diao."
+      }
+    ]
+  },
+  {
+    "id": "lin-langtian",
+    "name": "Lin Langtian",
+    "zh": "林琅天",
+    "aka": [],
+    "wiki": "Lin Langtian",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Lin Clan",
+    "side": "enemy",
+    "intro": "Lin Langtian is the Lin Clan's young genius who crippled Lin Xiao with a hidden blow at a clan competition years ago. He treats Lin Dong as an ant, loses to him at the Lin Clan Gathering (EP48) and on Baichao Mountain (EP71), and draws on a spirit inside him that gives him a Yimo form.",
+    "power": [
+      {
+        "ep": 1,
+        "realm": "Yuan Dan initial",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 18,
+        "realm": "Qi Creation",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 22,
+        "realm": "Qi Creation",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 36,
+        "realm": "Half-step Manifestation",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 48,
+        "realm": "Manifestation",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "Clan competition (flashback)",
+        "desc": "The teenage Yuan Dan genius of the inner clan, years earlier",
+        "why": "First appearance, in Lin Dong's memory",
+        "card": {
+          "ep": 1,
+          "t": 616.8
+        }
+      },
+      {
+        "ep": 18,
+        "label": "The tomb",
+        "desc": "Flies in at Qi Creation for the Lin Clan",
+        "why": "Arrives at the Nirvana expert's tomb",
+        "card": {
+          "ep": 18,
+          "t": 1087.0
+        }
+      },
+      {
+        "ep": 33,
+        "label": "Season 3",
+        "desc": "As seen in Season 3",
+        "why": "New studio art style",
+        "card": {
+          "ep": 33,
+          "t": 635.0
+        }
+      },
+      {
+        "ep": 37,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 37,
+          "t": 401.2
+        }
+      },
+      {
+        "ep": 65,
+        "label": "Season 6",
+        "desc": "As seen in Season 6",
+        "why": "New studio art style",
+        "card": {
+          "ep": 65,
+          "t": 1167.6
+        }
+      },
+      {
+        "ep": 70,
+        "label": "Yimo form",
+        "desc": "Yimo form after merging with the primordial spirit inside him",
+        "why": "Merges with the spirit on Baichao Mountain",
+        "card": {
+          "ep": 70,
+          "t": 1011.2
+        }
+      }
+    ],
+    "arc": [
+      {
+        "ep": 1,
+        "text": "Years earlier, cripples Lin Xiao with a hidden blow at the clan competition."
+      },
+      {
+        "ep": 22,
+        "text": "Forces Lin Dong to crawl out of the tomb hall under his pressure."
+      },
+      {
+        "ep": 46,
+        "text": "A voice inside him orders him to kill Lin Dong."
+      },
+      {
+        "ep": 48,
+        "text": "Loses to Lin Dong at the Lin Clan Gathering until Lin Fan stops the fight."
+      },
+      {
+        "ep": 70,
+        "text": "Merges with the spirit inside him and fights Lin Dong in a Yimo form."
+      },
+      {
+        "ep": 71,
+        "text": "Beaten, he crushes a token that seals Baichao Mountain."
+      }
+    ]
+  },
+  {
+    "id": "lin-zhentian",
+    "name": "Lin Zhentian",
+    "zh": "林震天",
+    "aka": [],
+    "wiki": "Lin Zhentian",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Lin Family (Qingyang)",
+    "side": "ally",
+    "intro": "Lin Zhentian is Lin Dong's grandfather and head of the Lin family in Qingyang Town. He moves the family to Yan City, reaches Yuan Dan in EP6, and in EP72 the Lin Clan makes him a Supreme Elder.",
+    "power": [
+      {
+        "ep": 6,
+        "realm": "Yuan Dan initial",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 7,
+        "realm": "Yuan Dan initial",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "Qingyang Town",
+        "desc": "Head of the Lin family in Qingyang Town",
+        "why": "First appearance",
+        "card": {
+          "ep": 2,
+          "t": 952.9
+        }
+      },
+      {
+        "ep": 45,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 45,
+          "t": 246.2
+        }
+      }
+    ],
+    "arc": [
+      {
+        "ep": 4,
+        "text": "The Lin family wins Ironwood Manor and its Yang Yuan Stone vein."
+      },
+      {
+        "ep": 6,
+        "text": "Breaks through to Yuan Dan initial with a four-star Yuan Dan."
+      },
+      {
+        "ep": 12,
+        "text": "Settles the family in Yan City."
+      },
+      {
+        "ep": 72,
+        "text": "The Lin Clan makes him a Supreme Elder."
+      }
+    ]
+  },
+  {
+    "id": "lin-xiao",
+    "name": "Lin Xiao",
+    "zh": "林啸",
+    "aka": [],
+    "wiki": "Lin Xiao",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Lin Family (Qingyang)",
+    "side": "ally",
+    "intro": "Lin Xiao is Lin Dong's father, once a Heavenly Yuan fighter, who was crippled by Lin Langtian at a clan competition and took to drink. Lin Dong's rise gives him hope, and he recovers to Heavenly Yuan by EP6.",
+    "power": [
+      {
+        "ep": 1,
+        "realm": "Heavenly Yuan",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 6,
+        "realm": "Heavenly Yuan",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "Qingyang Town",
+        "desc": "Lin Dong's father, drinking away his days",
+        "why": "First appearance",
+        "card": {
+          "ep": 1,
+          "t": 293.8
+        }
+      },
+      {
+        "ep": 45,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 45,
+          "t": 247.9
+        }
+      }
+    ],
+    "arc": [
+      {
+        "ep": 1,
+        "text": "Crippled years ago by Lin Langtian, he drinks away his days."
+      },
+      {
+        "ep": 2,
+        "text": "Teaches Lin Dong the Eight Desolation Palm."
+      },
+      {
+        "ep": 6,
+        "text": "Has recovered to Heavenly Yuan."
+      },
+      {
+        "ep": 48,
+        "text": "Returns to the Lin Clan with the Yan City branch after Lin Dong's win."
+      }
+    ]
+  },
+  {
+    "id": "qing-tan",
+    "name": "Qing Tan",
+    "zh": "青檀",
+    "aka": [],
+    "wiki": "Qing Tan",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Lin Family (Qingyang)",
+    "side": "ally",
+    "intro": "Qing Tan is Lin Dong's adopted younger sister, who suffers from a cold poison that turns out to be a Fiend Devil Body. With the Extreme Yin Dragon Saliva Lin Dong brings her, she condenses a Yin Dan in EP24, and she returns at Qi Creation for the Lin Clan Gathering.",
+    "power": [
+      {
+        "ep": 24,
+        "realm": "Yuan Dan perfect",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 45,
+        "realm": "Qi Creation",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "Qingyang Town",
+        "desc": "Lin Dong's young adopted sister",
+        "why": "First appearance",
+        "card": {
+          "ep": 1,
+          "t": 826.0
+        }
+      },
+      {
+        "ep": 24,
+        "label": "Yin Dan",
+        "desc": "Changed after condensing her Yin Dan and mastering the Fiend Devil Qi",
+        "why": "Fiend Devil Body awakens",
+        "card": {
+          "ep": 24,
+          "t": 1403.9
+        }
+      },
+      {
+        "ep": 45,
+        "label": "Seasons 4-5",
+        "desc": "Back at Qi Creation after a year of training with a senior",
+        "why": "New studio art style and time skip",
+        "card": {
+          "ep": 45,
+          "t": 343.4
+        }
+      }
+    ],
+    "arc": [
+      {
+        "ep": 2,
+        "text": "The Stone Talisman draws out her cold poison; she keeps the secret."
+      },
+      {
+        "ep": 17,
+        "text": "Little Mink names her condition a Fiend Devil Body."
+      },
+      {
+        "ep": 24,
+        "text": "Condenses her Yin Dan with the Extreme Yin Dragon Saliva and reaches Yuan Dan perfect."
+      },
+      {
+        "ep": 45,
+        "text": "Returns at Qi Creation after a year with a senior and chooses to stay with her family."
+      },
+      {
+        "ep": 47,
+        "text": "Beats Lin Chen and seals Lin Feng's Yuan Dan at the Lin Clan Gathering."
+      }
+    ]
+  },
+  {
+    "id": "lin-shan",
+    "name": "Lin Shan",
+    "zh": "林山",
+    "aka": [],
+    "wiki": "Lin Shan",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Lin Family (Qingyang)",
+    "side": "rival",
+    "intro": "Lin Shan is Lin Dong's cousin, Lin Mang's son, who bullies him and Qing Tan in Qingyang Town. Lin Dong strikes back in EP1 and floors him with the Tong Bei Fist in EP2.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "As introduced",
+        "desc": "As first seen in EP 1",
+        "why": "First appearance",
+        "card": {
+          "ep": 1,
+          "t": 1147.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "liu-yan",
+    "name": "Liu Yan",
+    "zh": "柳妍",
+    "aka": [],
+    "wiki": "Liu Yan",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Lin Family (Qingyang)",
+    "side": "ally",
+    "intro": "Liu Yan is Lin Dong's mother and Lin Xiao's wife. In EP1 she begs her husband to stop drinking.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "As introduced",
+        "desc": "Lin Dong's mother",
+        "why": "First appearance",
+        "card": {
+          "ep": 1,
+          "t": 276.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "lin-hong",
+    "name": "Lin Hong",
+    "zh": "林宏",
+    "aka": [],
+    "wiki": "Lin Hong",
+    "ep": 2,
+    "mentionEp": 1,
+    "group": "Lin Family (Qingyang)",
+    "side": "ally",
+    "intro": "Lin Hong is Lin Dong's cousin and Lin Shan's brother, who mocks Lin Xiao's household and is beaten by Lin Dong at the family competition in EP2. Later he fights for the Yan City branch at the Lin Clan Gathering, where he is badly beaten.",
+    "power": [
+      {
+        "ep": 2,
+        "realm": "Tempered Body 7th layer",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 45,
+        "realm": "Yuan Dan perfect",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "As introduced",
+        "desc": "As first seen in EP 2",
+        "why": "First appearance",
+        "card": {
+          "ep": 2,
+          "t": 214.4
+        }
+      },
+      {
+        "ep": 45,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 45,
+          "t": 224.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "lei-bao",
+    "name": "Lei Bao",
+    "zh": "雷豹",
+    "aka": [],
+    "wiki": "Lei Bao",
+    "ep": 2,
+    "mentionEp": null,
+    "group": "Qingyang Town",
+    "side": "enemy",
+    "intro": "Lei Bao is head of the Lei Family in Qingyang Town and Lei Li's father. He loses Ironwood Manor to the Lin family in EP4 and keeps plotting against them, reaching Yuan Dan initial by EP6.",
+    "power": [
+      {
+        "ep": 6,
+        "realm": "Yuan Dan initial",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "As introduced",
+        "desc": "As first seen in EP 2",
+        "why": "First appearance",
+        "card": {
+          "ep": 2,
+          "t": 1330.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "lei-li",
+    "name": "Lei Li",
+    "zh": "雷力",
+    "aka": [],
+    "wiki": "Lei Li",
+    "ep": 2,
+    "mentionEp": null,
+    "group": "Qingyang Town",
+    "side": "enemy",
+    "intro": "Lei Li is Lei Bao's son, the strongest youth in Qingyang Town at Earthly Yuan and Xie Yingying's fiancé. He kicks Wu Yun into the tiger's den at the Hunting Battle and loses Ironwood Manor to Lin Dong in their duel in EP4.",
+    "power": [
+      {
+        "ep": 2,
+        "realm": "Earthly Yuan",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 3,
+        "realm": "Earthly Yuan",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 4,
+        "realm": "Earthly Yuan",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "As introduced",
+        "desc": "As first seen in EP 2",
+        "why": "First appearance",
+        "card": {
+          "ep": 2,
+          "t": 1349.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "lin-mang",
+    "name": "Lin Mang",
+    "zh": "林蟒",
+    "aka": [],
+    "wiki": "Lin Mang",
+    "ep": 2,
+    "mentionEp": 1,
+    "group": "Lin Family (Qingyang)",
+    "side": "neutral",
+    "intro": "Lin Mang is Lin Dong's uncle and the father of Lin Shan and Lin Hong. He greets Lin Xiao with a jibe in EP2, and in EP7 Lin Zhentian sends him off with the juniors when the Blood Cloth Sect arrives.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "As introduced",
+        "desc": "As first seen in EP 2",
+        "why": "First appearance",
+        "card": {
+          "ep": 2,
+          "t": 728.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "little-flame",
+    "name": "Little Flame",
+    "zh": "小炎",
+    "aka": [
+      "Lin Yan",
+      "Xiao Yan"
+    ],
+    "wiki": "Little Flame",
+    "ep": 3,
+    "mentionEp": null,
+    "group": "Lin Dong's side",
+    "side": "ally",
+    "intro": "Little Flame is the sickly Fire Python Tiger cub Lin Dong takes from the Hunting Battle in EP3. He grows into Lin Dong's loyal fighting partner, evolves on beast essences and blood, passes the Nirvana Tribulation in EP59, takes human form and is named Lin Yan, Lin Dong's sworn brother.",
+    "power": [
+      {
+        "ep": 59,
+        "realm": "Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 3,
+        "label": "Cub",
+        "desc": "A sickly Fire Python Tiger cub",
+        "why": "First appearance",
+        "card": {
+          "ep": 3,
+          "t": 1194.2
+        }
+      },
+      {
+        "ep": 4,
+        "label": "Grown tiger",
+        "desc": "Grown from a cub to a large tiger",
+        "why": "Grows up at Ironwood Manor",
+        "card": {
+          "ep": 4,
+          "t": 690.7
+        }
+      },
+      {
+        "ep": 25,
+        "label": "Season 3",
+        "desc": "As seen in Season 3",
+        "why": "New studio art style",
+        "card": {
+          "ep": 25,
+          "t": 740.9
+        }
+      },
+      {
+        "ep": 26,
+        "label": "Evolved",
+        "desc": "Evolved form after taking in the Thunder Source Crystal Beast's essence; can change size",
+        "why": "Evolves on the crystal beast's essence",
+        "card": {
+          "ep": 26,
+          "t": 977.7
+        }
+      },
+      {
+        "ep": 37,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 37,
+          "t": 1198.2
+        }
+      },
+      {
+        "ep": 59,
+        "label": "Lin Yan",
+        "desc": "Human form as a young man",
+        "why": "Passes the Nirvana Tribulation",
+        "card": {
+          "ep": 59,
+          "t": 1073.2
+        }
+      },
+      {
+        "ep": 61,
+        "label": "Season 6",
+        "desc": "Lin Yan in human form, in the Season 6 art style",
+        "why": "New studio art style",
+        "card": {
+          "ep": 61,
+          "t": 466.5
+        }
+      }
+    ],
+    "arc": [
+      {
+        "ep": 3,
+        "text": "Lin Dong picks him, the sickly cub, in the Fire Python Tiger's den."
+      },
+      {
+        "ep": 26,
+        "text": "Evolves on the Thunder Source Crystal Beast's essence."
+      },
+      {
+        "ep": 44,
+        "text": "Captured by the Yin Puppet Sect and freed by Lin Dong."
+      },
+      {
+        "ep": 58,
+        "text": "Badly wounded by Shi Xuan; takes the Mighty Earthsplitting Tiger's blood."
+      },
+      {
+        "ep": 59,
+        "text": "Passes the Nirvana Tribulation, takes human form and is named Lin Yan."
+      }
+    ]
+  },
+  {
+    "id": "wu-yun",
+    "name": "Wu Yun",
+    "zh": "吴云",
+    "aka": [],
+    "wiki": "Wu Yun",
+    "ep": 3,
+    "mentionEp": null,
+    "group": "Qingyang Town",
+    "side": "ally",
+    "intro": "Wu Yun is the young master of the Raging Blade Dojo, who teams up with Lin Dong at the Hunting Battle and is kicked into the tiger's den by Lei Li. He later guards Qing Tan and Little Flame while Lin Dong is in Yan City.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 3,
+        "label": "As introduced",
+        "desc": "As first seen in EP 3",
+        "why": "First appearance",
+        "card": {
+          "ep": 3,
+          "t": 270.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "xie-qian",
+    "name": "Xie Qian",
+    "zh": "谢谦",
+    "aka": [],
+    "wiki": "Xie Qian",
+    "ep": 3,
+    "mentionEp": null,
+    "group": "Qingyang Town",
+    "side": "enemy",
+    "intro": "Xie Qian is head of the Xie Family in Qingyang Town, allied with Lei Bao against the Lin family. He is at the Hunting Battle and the Lei family's ambush banquet.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 3,
+        "label": "As introduced",
+        "desc": "As first seen in EP 3",
+        "why": "First appearance",
+        "card": {
+          "ep": 3,
+          "t": 265.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "luo-cheng",
+    "name": "Luo Cheng",
+    "zh": "罗城",
+    "aka": [],
+    "wiki": "Luo Cheng",
+    "ep": 3,
+    "mentionEp": null,
+    "group": "Qingyang Town",
+    "side": "neutral",
+    "intro": "Luo Cheng is master of the Raging Blade Dojo, where Wu Yun is the young master. He attends the Hunting Battle and is invited to the Lei family's banquet along with the Lin family.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 3,
+        "label": "As introduced",
+        "desc": "As first seen in EP 3",
+        "why": "First appearance",
+        "card": {
+          "ep": 3,
+          "t": 259.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "xie-yingying",
+    "name": "Xie Yingying",
+    "zh": "谢盈盈",
+    "aka": [],
+    "wiki": "Xie Yingying",
+    "ep": 3,
+    "mentionEp": null,
+    "group": "Qingyang Town",
+    "side": "enemy",
+    "intro": "Xie Yingying is the young lady of the Xie Family and Lei Li's fiancée. Before the Hunting Battle she slaps Qing Tan and tries to take her Yin Pearl necklace, and Lin Dong slaps her back.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 3,
+        "label": "As introduced",
+        "desc": "As first seen in EP 3",
+        "why": "First appearance",
+        "card": {
+          "ep": 3,
+          "t": 310.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "fire-python-tiger",
+    "name": "Fire Python Tiger",
+    "zh": "火蟒虎",
+    "aka": [
+      "tigress"
+    ],
+    "wiki": null,
+    "ep": 3,
+    "mentionEp": null,
+    "group": "Demon beasts",
+    "side": "neutral",
+    "intro": "The Fire Python Tiger is the wounded tigress hunted in the Hunting Battle, as strong as a Heavenly Yuan fighter. She dies guarding two cubs, and Lin Dong takes the sickly one, Little Flame.",
+    "power": [
+      {
+        "ep": 3,
+        "realm": "Heavenly Yuan",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 3,
+        "label": "As introduced",
+        "desc": "A badly wounded tigress guarding two cubs",
+        "why": "First appearance",
+        "card": {
+          "ep": 3,
+          "t": 527.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "zi-yue",
+    "name": "Zi Yue",
+    "zh": "紫月",
+    "aka": [],
+    "wiki": "Zi Yue",
+    "ep": 5,
+    "mentionEp": null,
+    "group": "Symbol Masters",
+    "side": "ally",
+    "intro": "Zi Yue is Master Yan's student, a Heavenly Yuan Symbol Master who first quarrels with Lin Dong over an ancient wood fragment. She fights beside him for the Thousand Gold Association in EP9 and for Yan City in the Tower Battle.",
+    "power": [
+      {
+        "ep": 9,
+        "realm": "Heavenly Yuan late",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 5,
+        "label": "As introduced",
+        "desc": "As first seen in EP 5",
+        "why": "First appearance",
+        "card": {
+          "ep": 5,
+          "t": 584.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "master-yan",
+    "name": "Master Yan",
+    "zh": "岩大师",
+    "aka": [
+      "Yan Xuan",
+      "Grand Master Yan"
+    ],
+    "wiki": "Yan Xuan",
+    "ep": 5,
+    "mentionEp": null,
+    "group": "Symbol Masters",
+    "side": "mentor",
+    "intro": "Master Yan is a 4th Seal Symbol Master, Yan City's strongest, who explains Symbol Masters to Lin Dong and gives him the Divine Movement Chapter. He backs Lin Dong at the Yan City Symbol Master Guild and sends him into the Tower Battle against Sky Fire City.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 5,
+        "label": "As introduced",
+        "desc": "As first seen in EP 5",
+        "why": "First appearance",
+        "card": {
+          "ep": 5,
+          "t": 629.8
+        }
+      }
+    ],
+    "arc": [
+      {
+        "ep": 5,
+        "text": "Explains Symbol Masters to Lin Dong and gives him a book."
+      },
+      {
+        "ep": 8,
+        "text": "Explains Lin Dong's Ancient Swirl Symbol."
+      },
+      {
+        "ep": 12,
+        "text": "Rescues the Lin family from the hostage-takers."
+      },
+      {
+        "ep": 13,
+        "text": "Asks Lin Dong to fight for Yan City in the Tower Battle."
+      }
+    ]
+  },
+  {
+    "id": "wu-sha",
+    "name": "Wu Sha",
+    "zh": "乌煞",
+    "aka": [],
+    "wiki": "Wu Sha",
+    "ep": 5,
+    "mentionEp": null,
+    "group": "Qingyang Town",
+    "side": "enemy",
+    "intro": "Wu Sha is the second chief of the Black Dragon Stockade, a Heavenly Yuan fighter. He attacks Ironwood Manor in EP5, and Lin Dong kills him after breaking through to Heavenly Yuan in the fight.",
+    "power": [
+      {
+        "ep": 5,
+        "realm": "Heavenly Yuan",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 5,
+        "label": "As introduced",
+        "desc": "As first seen in EP 5",
+        "why": "First appearance",
+        "card": {
+          "ep": 5,
+          "t": 755.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "gu-ying",
+    "name": "Gu Ying",
+    "zh": "古影",
+    "aka": [
+      "Grand Master Gu Ying"
+    ],
+    "wiki": "Grand Master Gu Ying",
+    "ep": 6,
+    "mentionEp": null,
+    "group": "Yan City",
+    "side": "enemy",
+    "intro": "Gu Ying is vice-master of the Blood Cloth Sect and a 2nd Seal Symbol Master who sides with the Lei family at their banquet in EP6. Lin Dong's Ancient Swirl Symbol absorbs his Destiny Symbol, and Lin Dong kills him.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 6,
+        "label": "As introduced",
+        "desc": "As first seen in EP 6",
+        "why": "First appearance",
+        "card": {
+          "ep": 6,
+          "t": 865.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "wei-tong",
+    "name": "Wei Tong",
+    "zh": "魏通",
+    "aka": [],
+    "wiki": "Wei Tong",
+    "ep": 7,
+    "mentionEp": null,
+    "group": "Yan City",
+    "side": "enemy",
+    "intro": "Wei Tong is master of the Blood Cloth Sect, at Yuan Dan advanced, who comes for revenge for Gu Ying in EP7. Lin Dong agrees to a fight to the death with him at the Yan City arena and kills him in EP12.",
+    "power": [
+      {
+        "ep": 7,
+        "realm": "Yuan Dan advanced",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 11,
+        "realm": "Yuan Dan advanced",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 7,
+        "label": "As introduced",
+        "desc": "As first seen in EP 7",
+        "why": "First appearance",
+        "card": {
+          "ep": 7,
+          "t": 341.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "lin-ken",
+    "name": "Lin Ken",
+    "zh": "林肯",
+    "aka": [],
+    "wiki": "Lin Ken",
+    "ep": 7,
+    "mentionEp": 5,
+    "group": "Lin Family (Qingyang)",
+    "side": "ally",
+    "intro": "Lin Ken is Lin Dong's eldest uncle. In EP7 Lin Zhentian tells him and Lin Mang to flee with the juniors when the Blood Cloth Sect arrives.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 7,
+        "label": "As introduced",
+        "desc": "As first seen in EP 7",
+        "why": "First appearance",
+        "card": {
+          "ep": 7,
+          "t": 255.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "xuan-su",
+    "name": "Xuan Su",
+    "zh": "萱素",
+    "aka": [
+      "Sister Su",
+      "Manager Su"
+    ],
+    "wiki": "Xuan Su",
+    "ep": 8,
+    "mentionEp": null,
+    "group": "Yan City",
+    "side": "ally",
+    "intro": "Xuan Su is the manager of the Thousand Gold Auction and Xia Wanjin's sister-in-law. She recruits Lin Dong for the Celestial Dan Pool contest, gives him the Three Yang Art, and later tells him about the Nirvana expert's tomb.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 8,
+        "label": "As introduced",
+        "desc": "As first seen in EP 8",
+        "why": "First appearance",
+        "card": {
+          "ep": 8,
+          "t": 568.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "xia-wanjin",
+    "name": "Xia Wanjin",
+    "zh": "夏万金",
+    "aka": [],
+    "wiki": "Xia Wanjin",
+    "ep": 9,
+    "mentionEp": null,
+    "group": "Yan City",
+    "side": "ally",
+    "intro": "Xia Wanjin is the young-looking head of the Thousand Gold Association, at Yuan Dan perfect. After the Celestial Dan Pool contest he makes Lin Dong an honorary elder, and he holds back Yue Shan when Lin Dong kills Wei Tong.",
+    "power": [
+      {
+        "ep": 9,
+        "realm": "Yuan Dan perfect",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 9,
+        "label": "As introduced",
+        "desc": "As first seen in EP 9",
+        "why": "First appearance",
+        "card": {
+          "ep": 9,
+          "t": 519.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "liu-yi",
+    "name": "Liu Yi",
+    "zh": "柳毅",
+    "aka": [],
+    "wiki": "Liu Yi",
+    "ep": 9,
+    "mentionEp": null,
+    "group": "Yan City",
+    "side": "ally",
+    "intro": "Liu Yi is a Heavenly Yuan late fighter who represents the Thousand Gold Association in the Celestial Dan Pool contest. He loses his round to Yue Feng and enters the pool with Lin Dong and Zi Yue.",
+    "power": [
+      {
+        "ep": 9,
+        "realm": "Heavenly Yuan late",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 9,
+        "label": "As introduced",
+        "desc": "As first seen in EP 9",
+        "why": "First appearance",
+        "card": {
+          "ep": 9,
+          "t": 451.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "yue-shan",
+    "name": "Yue Shan",
+    "zh": "岳山",
+    "aka": [],
+    "wiki": "Yue Shan",
+    "ep": 9,
+    "mentionEp": null,
+    "group": "Yan City",
+    "side": "rival",
+    "intro": "Yue Shan is leader of the Blood Wolf Gang, at Yuan Dan perfect, the Thousand Gold Association's rival for the Celestial Dan Pool. He accepts his loss in EP9 and is held back by Xia Wanjin when Lin Dong kills Wei Tong.",
+    "power": [
+      {
+        "ep": 9,
+        "realm": "Yuan Dan perfect",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 9,
+        "label": "As introduced",
+        "desc": "As first seen in EP 9",
+        "why": "First appearance",
+        "card": {
+          "ep": 9,
+          "t": 663.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "yue-ling",
+    "name": "Yue Ling",
+    "zh": "岳灵",
+    "aka": [],
+    "wiki": "Yue Ling",
+    "ep": 9,
+    "mentionEp": null,
+    "group": "Yan City",
+    "side": "rival",
+    "intro": "Yue Ling is a Blood Wolf Gang fighter at Heavenly Yuan late. Zi Yue beats her in the first round of the Celestial Dan Pool contest.",
+    "power": [
+      {
+        "ep": 9,
+        "realm": "Heavenly Yuan late",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 9,
+        "label": "As introduced",
+        "desc": "As first seen in EP 9",
+        "why": "First appearance",
+        "card": {
+          "ep": 9,
+          "t": 732.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "yue-feng",
+    "name": "Yue Feng",
+    "zh": "岳风",
+    "aka": [],
+    "wiki": "Yue Feng",
+    "ep": 9,
+    "mentionEp": null,
+    "group": "Yan City",
+    "side": "rival",
+    "intro": "Yue Feng is a Blood Wolf Gang fighter at Heavenly Yuan late. He beats Liu Yi with the Heavy Shadow Spear in the Celestial Dan Pool contest.",
+    "power": [
+      {
+        "ep": 9,
+        "realm": "Heavenly Yuan late",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 9,
+        "label": "As introduced",
+        "desc": "As first seen in EP 9",
+        "why": "First appearance",
+        "card": {
+          "ep": 9,
+          "t": 820.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "jiang-li",
+    "name": "Jiang Li",
+    "zh": "姜立",
+    "aka": [],
+    "wiki": "Jiang Li",
+    "ep": 9,
+    "mentionEp": null,
+    "group": "Yan City",
+    "side": "rival",
+    "intro": "Jiang Li is a fighter hired by the Blood Wolf Gang for the Celestial Dan Pool contest. He uses the Blood Transformation Art to reach Yuan Dan for a short time, but Lin Dong beats him with the Spiral Wave.",
+    "power": [
+      {
+        "ep": 9,
+        "realm": "Heavenly Yuan late",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 9,
+        "label": "As introduced",
+        "desc": "As first seen in EP 9",
+        "why": "First appearance",
+        "card": {
+          "ep": 9,
+          "t": 937.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "demonic-jade-water-python",
+    "name": "Demonic Jade Water Python",
+    "zh": "碧水妖蟒",
+    "aka": [],
+    "wiki": null,
+    "ep": 10,
+    "mentionEp": null,
+    "group": "Demon beasts",
+    "side": "neutral",
+    "intro": "The Demonic Jade Water Python is the wounded demon spirit at the bottom of the Celestial Dan Pool, guarding the Yin Yang Pearls with strength equal to Yuan Dan perfect. Little Mink swallows it using Lin Dong's Yuan Power.",
+    "power": [
+      {
+        "ep": 10,
+        "realm": "Yuan Dan perfect",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 10,
+        "label": "As introduced",
+        "desc": "A wounded python's demon spirit at the bottom of the pool",
+        "why": "First appearance",
+        "card": {
+          "ep": 10,
+          "t": 597.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "han-yun",
+    "name": "Han Yun",
+    "zh": "韩允",
+    "aka": [],
+    "wiki": "Han Yun",
+    "ep": 13,
+    "mentionEp": null,
+    "group": "Symbol Masters",
+    "side": "rival",
+    "intro": "Han Yun is the 4th Seal Symbol Master who leads Sky Fire City's Symbol Masters, the winners of the last two Tower Battles. He mocks Lin Dong as a newcomer, and Sky Fire City goes home beaten in EP15.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 13,
+        "label": "As introduced",
+        "desc": "As first seen in EP 13",
+        "why": "First appearance",
+        "card": {
+          "ep": 13,
+          "t": 794.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "zhou-tong",
+    "name": "Zhou Tong",
+    "zh": "周通",
+    "aka": [],
+    "wiki": "Zhou Tong",
+    "ep": 13,
+    "mentionEp": null,
+    "group": "Symbol Masters",
+    "side": "rival",
+    "intro": "Zhou Tong is Han Yun's top disciple, Sky Fire City's best young Symbol Master. He reaches the 3rd Seal during the Tower Battle, but pulls back from the eighth floor and admits Lin Dong won.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 13,
+        "label": "As introduced",
+        "desc": "As first seen in EP 13",
+        "why": "First appearance",
+        "card": {
+          "ep": 13,
+          "t": 828.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "cao-zhu",
+    "name": "Cao Zhu",
+    "zh": "曹铸",
+    "aka": [],
+    "wiki": "Cao Zhu",
+    "ep": 13,
+    "mentionEp": null,
+    "group": "Symbol Masters",
+    "side": "rival",
+    "intro": "Cao Zhu is a Sky Fire City disciple and 2nd Seal Symbol Master sent to probe Yan City's symbol masters. Lin Dong beats him in EP13 and keeps his Mysterious Ice Swords, and beats him again in the tower.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 13,
+        "label": "As introduced",
+        "desc": "As first seen in EP 13",
+        "why": "First appearance",
+        "card": {
+          "ep": 13,
+          "t": 802.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "liu-long",
+    "name": "Liu Long",
+    "zh": "刘隆",
+    "aka": [],
+    "wiki": "Liu Long",
+    "ep": 14,
+    "mentionEp": null,
+    "group": "Symbol Masters",
+    "side": "rival",
+    "intro": "Liu Long is Cao Zhu's senior brother from Sky Fire City. He ambushes Lin Dong with Cao Zhu on the tower's fifth floor to take back the Mysterious Ice Swords, and loses his own Lihuo Sword instead.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 14,
+        "label": "As introduced",
+        "desc": "As first seen in EP 14",
+        "why": "First appearance",
+        "card": {
+          "ep": 14,
+          "t": 331.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "gui-yan",
+    "name": "Gui Yan",
+    "zh": "鬼阎",
+    "aka": [],
+    "wiki": "Gui Yan",
+    "ep": 16,
+    "mentionEp": null,
+    "group": "Yan City",
+    "side": "enemy",
+    "intro": "Gui Yan is the leader of the Ghost Blade Sect, called the strongest Yuan Dan advanced fighter in Yan City. He seizes the Lin family's Yang Yuan Stone vein and tries to kill them all, and Lin Dong kills him with Huasheng Light in EP16.",
+    "power": [
+      {
+        "ep": 16,
+        "realm": "Yuan Dan advanced",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 16,
+        "label": "As introduced",
+        "desc": "As first seen in EP 16",
+        "why": "First appearance",
+        "card": {
+          "ep": 16,
+          "t": 1152.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "lin-ke-er",
+    "name": "Lin Ke-er",
+    "zh": "林可儿",
+    "aka": [
+      "Sister Ke-er"
+    ],
+    "wiki": "Lin Ke-er",
+    "ep": 17,
+    "mentionEp": null,
+    "group": "Lin Clan",
+    "side": "ally",
+    "intro": "Lin Ke-er is a Lin Clan woman who leads the clan's party to the Nirvana expert's tomb and lets Lin Dong join after he beats Lin Chen. She stands up for him as a member of the clan against the Wang Clan and introduces him to Elder Lin Mu.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 17,
+        "label": "As introduced",
+        "desc": "As first seen in EP 17",
+        "why": "First appearance",
+        "card": {
+          "ep": 17,
+          "t": 850.2
+        }
+      },
+      {
+        "ep": 33,
+        "label": "Season 3",
+        "desc": "As seen in Season 3",
+        "why": "New studio art style",
+        "card": {
+          "ep": 33,
+          "t": 621.5
+        }
+      },
+      {
+        "ep": 37,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 37,
+          "t": 609.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "lin-chen",
+    "name": "Lin Chen",
+    "zh": "林尘",
+    "aka": [],
+    "wiki": "Lin Chen (Lin Clan)",
+    "ep": 17,
+    "mentionEp": null,
+    "group": "Lin Clan",
+    "side": "rival",
+    "intro": "Lin Chen is a boastful Lin Clan youth at Yuan Dan advanced who beats Lin Hong in Yan City and is humiliated by Lin Dong in EP17. At the Lin Clan Gathering Qing Tan beats him.",
+    "power": [
+      {
+        "ep": 17,
+        "realm": "Yuan Dan advanced",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 17,
+        "label": "As introduced",
+        "desc": "As first seen in EP 17",
+        "why": "First appearance",
+        "card": {
+          "ep": 17,
+          "t": 839.0
+        }
+      },
+      {
+        "ep": 47,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 47,
+          "t": 413.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "ling-qingzhu",
+    "name": "Ling Qingzhu",
+    "zh": "绫清竹",
+    "aka": [
+      "Young Palace Mistress"
+    ],
+    "wiki": "Ling Qingzhu",
+    "ep": 18,
+    "mentionEp": null,
+    "group": "Super Sects",
+    "side": "ally",
+    "intro": "Ling Qingzhu is the young palace mistress of the Nine Heavens Taiqing Palace. The tomb master forces her and Lin Dong to absorb the Nirvana Heart together in EP21; she tries to kill him for it, but later saves him from Elder Shen, kills Old Ma Yi and drives off Zheng Zhong at the Hundred Dynasties Battle.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 18,
+        "label": "As introduced",
+        "desc": "As first seen in EP 18",
+        "why": "First appearance",
+        "card": {
+          "ep": 18,
+          "t": 1244.0
+        }
+      },
+      {
+        "ep": 41,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 41,
+          "t": 556.3
+        }
+      },
+      {
+        "ep": 72,
+        "label": "Season 6",
+        "desc": "As seen in Season 6",
+        "why": "New studio art style",
+        "card": {
+          "ep": 72,
+          "t": 1269.2
+        }
+      }
+    ],
+    "arc": [
+      {
+        "ep": 21,
+        "text": "Forced by the tomb master to absorb the Nirvana Heart together with Lin Dong."
+      },
+      {
+        "ep": 24,
+        "text": "Saves Lin Dong from Elder Shen and swears him to secrecy."
+      },
+      {
+        "ep": 46,
+        "text": "Kills Old Ma Yi for hunting Lin Dong against orders."
+      },
+      {
+        "ep": 52,
+        "text": "Kills the Nine Yuan Nirvana beast behind the beast tide."
+      },
+      {
+        "ep": 72,
+        "text": "Arrives on Baichao Mountain and drives Zheng Zhong off."
+      }
+    ]
+  },
+  {
+    "id": "wang-yan",
+    "name": "Wang Yan",
+    "zh": "王炎",
+    "aka": [],
+    "wiki": "Wang Yan",
+    "ep": 18,
+    "mentionEp": null,
+    "group": "Four Great Clans",
+    "side": "enemy",
+    "intro": "Wang Yan is a young genius of the Wang Clan who claims Lin Dong's halberd after the tomb and ambushes him for it in EP23. Lin Dong beats him at the Great Desolate Ancient Tablet with the Wang family's own palm art.",
+    "power": [
+      {
+        "ep": 18,
+        "realm": "Form Creation",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 23,
+        "realm": "Form Creation",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 33,
+        "realm": "Qi Creation initial",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 18,
+        "label": "As introduced",
+        "desc": "As first seen in EP 18",
+        "why": "First appearance",
+        "card": {
+          "ep": 18,
+          "t": 1087.0
+        }
+      },
+      {
+        "ep": 33,
+        "label": "Season 3",
+        "desc": "As seen in Season 3",
+        "why": "New studio art style",
+        "card": {
+          "ep": 33,
+          "t": 683.4
+        }
+      },
+      {
+        "ep": 37,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 37,
+          "t": 335.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "qin-shi",
+    "name": "Qin Shi",
+    "zh": "秦世",
+    "aka": [],
+    "wiki": "Qin Shi",
+    "ep": 18,
+    "mentionEp": null,
+    "group": "Four Great Clans",
+    "side": "neutral",
+    "intro": "Qin Shi is the Qin Clan's young representative, a Form Creation fighter at the Nirvana expert's tomb. He turns up again with the Four Great Clans at the Great Desolate Ancient Tablet.",
+    "power": [
+      {
+        "ep": 18,
+        "realm": "Form Creation",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 18,
+        "label": "As introduced",
+        "desc": "As first seen in EP 18",
+        "why": "First appearance",
+        "card": {
+          "ep": 18,
+          "t": 1164.0
+        }
+      },
+      {
+        "ep": 33,
+        "label": "Season 3",
+        "desc": "As seen in Season 3",
+        "why": "New studio art style",
+        "card": {
+          "ep": 33,
+          "t": 635.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "wang-pan",
+    "name": "Wang Pan",
+    "zh": "王盘",
+    "aka": [],
+    "wiki": "Wang Pan",
+    "ep": 18,
+    "mentionEp": null,
+    "group": "Four Great Clans",
+    "side": "enemy",
+    "intro": "Wang Pan is a Wang Clan youth who agrees to split six Soul Treasures with Lin Ke-er in the tomb but plans to rob her. He accuses Lin Dong of stealing the Ancient Heavenly Scales Halberd.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 18,
+        "label": "As introduced",
+        "desc": "As first seen in EP 18",
+        "why": "First appearance",
+        "card": {
+          "ep": 18,
+          "t": 978.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "song-dao",
+    "name": "Song Dao",
+    "zh": "宋刀",
+    "aka": [],
+    "wiki": "Song Dao",
+    "ep": 18,
+    "mentionEp": null,
+    "group": "Yan City",
+    "side": "enemy",
+    "intro": "Song Dao is the boss of the Blade Slaughter Gang, a Yuan Dan perfect fighter who raids the Lin Clan's camp on the way to the tomb. Lin Dong beats him and shatters his Yuan Dan.",
+    "power": [
+      {
+        "ep": 18,
+        "realm": "Yuan Dan perfect",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 18,
+        "label": "As introduced",
+        "desc": "As first seen in EP 18",
+        "why": "First appearance",
+        "card": {
+          "ep": 18,
+          "t": 489.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "master-of-the-tomb",
+    "name": "Master of the Tomb",
+    "zh": "墓府之主",
+    "aka": [],
+    "wiki": "Master of the Tomb",
+    "ep": 21,
+    "mentionEp": null,
+    "group": "Ancient sects",
+    "side": "mentor",
+    "intro": "The Master of the Tomb is the Nirvana expert whose remnant soul guards the Nirvana Heart. Moved by Lin Dong's bow at his coffin, he makes him and Ling Qingzhu absorb its power together and teaches him the Ancient Heavenly Scales Halberd technique.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 21,
+        "label": "As introduced",
+        "desc": "The tomb master's remnant soul",
+        "why": "First appearance",
+        "card": {
+          "ep": 21,
+          "t": 867.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "elder-shen",
+    "name": "Elder Shen",
+    "zh": "沈老",
+    "aka": [
+      "Old Shen"
+    ],
+    "wiki": "Elder Shen",
+    "ep": 23,
+    "mentionEp": null,
+    "group": "Four Great Clans",
+    "side": "enemy",
+    "intro": "Elder Shen is Wang Yan's guardian. He nearly kills Lin Dong with the Black Light Blade in EP24 until Ling Qingzhu steps in.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 23,
+        "label": "As introduced",
+        "desc": "As first seen in EP 23",
+        "why": "First appearance",
+        "card": {
+          "ep": 23,
+          "t": 1260.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "di-yun",
+    "name": "Di Yun",
+    "zh": "",
+    "aka": [],
+    "wiki": "Di Yun",
+    "ep": 25,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "rival",
+    "intro": "Di Yun is the young master of the Di Family of Dayang Province, who tries to catch Little Flame in EP25. Lin Dong beats him and takes his Green Yuan Spear.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 25,
+        "label": "As introduced",
+        "desc": "As first seen in EP 25",
+        "why": "First appearance",
+        "card": {
+          "ep": 25,
+          "t": 743.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "di-teng",
+    "name": "Di Teng",
+    "zh": "狄腾",
+    "aka": [],
+    "wiki": "Di Teng",
+    "ep": 25,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "rival",
+    "intro": "Di Teng is head of the Di Family and Di Yun's father, at Form Creation advanced. He buys back his son's spear, then chases Lin Dong for the Thunder Source he snatched, and in the end pays him to be let go.",
+    "power": [
+      {
+        "ep": 25,
+        "realm": "Form Creation advanced",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 26,
+        "realm": "Form Creation",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 25,
+        "label": "As introduced",
+        "desc": "As first seen in EP 25",
+        "why": "First appearance",
+        "card": {
+          "ep": 25,
+          "t": 904.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "uncle-cao",
+    "name": "Uncle Cao",
+    "zh": "曹叔",
+    "aka": [
+      "Cao"
+    ],
+    "wiki": "Cao",
+    "ep": 25,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "neutral",
+    "intro": "Uncle Cao is a Di Family retainer who travels with Di Yun. He asks Lin Dong to stay when Lin Dong frees Little Flame in EP25.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 25,
+        "label": "As introduced",
+        "desc": "As first seen in EP 25",
+        "why": "First appearance",
+        "card": {
+          "ep": 25,
+          "t": 788.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "jiang-yinyin",
+    "name": "Jiang Yinyin",
+    "zh": "姜茵茵",
+    "aka": [],
+    "wiki": "Jiang Yinyin",
+    "ep": 26,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "ally",
+    "intro": "Jiang Yinyin is Jiang Lei's younger daughter, the little girl Lin Dong saves from a beast in the Mist Forest in EP26.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 26,
+        "label": "As introduced",
+        "desc": "A little girl lost in the Mist Forest",
+        "why": "First appearance",
+        "card": {
+          "ep": 26,
+          "t": 1241.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "liu-kui",
+    "name": "Liu Kui",
+    "zh": "",
+    "aka": [
+      "Old Ghost Liu"
+    ],
+    "wiki": "Liu Kui",
+    "ep": 26,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "rival",
+    "intro": "Liu Kui is a Form Creation expert and Di Teng's rival, called 'old ghost Liu'. He joins Di Teng against Lin Dong for a share of the Thunder Source, and both pay to be let go when Little Flame wakes evolved.",
+    "power": [
+      {
+        "ep": 26,
+        "realm": "Form Creation",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 26,
+        "label": "As introduced",
+        "desc": "As first seen in EP 26",
+        "why": "First appearance",
+        "card": {
+          "ep": 26,
+          "t": 670.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "jiang-lei",
+    "name": "Jiang Lei",
+    "zh": "姜雷",
+    "aka": [],
+    "wiki": "Jiang Lei",
+    "ep": 27,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "ally",
+    "intro": "Jiang Lei is master of the Eagle Martial Dojo in Eagle City, at Form Creation advanced. He guides Lin Dong out of the Mist Forest and tells him about the Great Desolate Ancient Tablet, and Lin Dong fights Luo Jiu in his place.",
+    "power": [
+      {
+        "ep": 27,
+        "realm": "Form Creation advanced",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 27,
+        "label": "As introduced",
+        "desc": "As first seen in EP 27",
+        "why": "First appearance",
+        "card": {
+          "ep": 27,
+          "t": 238.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "jiang-xue",
+    "name": "Jiang Xue",
+    "zh": "姜雪",
+    "aka": [
+      "Xue'er"
+    ],
+    "wiki": "Jiang Xue",
+    "ep": 27,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "ally",
+    "intro": "Jiang Xue is Jiang Lei's elder daughter, who begs Lin Dong to fight Luo Jiu for her father. She catches up with him on the road to say goodbye in EP28.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 27,
+        "label": "As introduced",
+        "desc": "As first seen in EP 27",
+        "why": "First appearance",
+        "card": {
+          "ep": 27,
+          "t": 264.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "luo-shan",
+    "name": "Luo Shan",
+    "zh": "罗山",
+    "aka": [],
+    "wiki": "Luo Shan",
+    "ep": 27,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "enemy",
+    "intro": "Luo Shan is Luo Jiu's son from the Bloody Vulture Dojo, who brings his father's challenge to the Eagle Martial Dojo and pesters Jiang Xue. Lin Dong beats him in EP27.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 27,
+        "label": "As introduced",
+        "desc": "As first seen in EP 27",
+        "why": "First appearance",
+        "card": {
+          "ep": 27,
+          "t": 1149.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "mist-leopard-alligator-king",
+    "name": "Mist Leopard Alligator King",
+    "zh": "迷雾豹鳄王",
+    "aka": [],
+    "wiki": null,
+    "ep": 27,
+    "mentionEp": null,
+    "group": "Demon beasts",
+    "side": "enemy",
+    "intro": "The Mist Leopard Alligator King is a beast lord of the Mist Forest that attacks the Eagle Martial Dojo's camp in EP27 to avenge its cub. Lin Dong drives off its two Form Creation beasts.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 27,
+        "label": "As introduced",
+        "desc": "A beast lord of the Mist Forest",
+        "why": "First appearance",
+        "card": {
+          "ep": 27,
+          "t": 683.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "ancient-dragon-ape",
+    "name": "Ancient Dragon Ape",
+    "zh": "远古龙猿",
+    "aka": [],
+    "wiki": null,
+    "ep": 28,
+    "mentionEp": null,
+    "group": "Demon beasts",
+    "side": "neutral",
+    "intro": "The Ancient Dragon Ape is a Manifestation-level beast in the Ancient Wasteland that grows the Myriad Beast Fruits. Little Mink hypnotises it so Lin Dong can draw its blood essence, which perfects his Demon Ape Transformation.",
+    "power": [
+      {
+        "ep": 29,
+        "realm": "Manifestation",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 28,
+        "label": "As introduced",
+        "desc": "A huge Manifestation-level ape",
+        "why": "First appearance",
+        "card": {
+          "ep": 28,
+          "t": 1320.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "luo-jiu",
+    "name": "Luo Jiu",
+    "zh": "罗鹫",
+    "aka": [],
+    "wiki": "Luo Jiu",
+    "ep": 28,
+    "mentionEp": 27,
+    "group": "Great Desolate Province",
+    "side": "enemy",
+    "intro": "Luo Jiu is master of the Bloody Vulture Dojo, at Form Creation peak, who challenges Jiang Lei to a fight to the death. Lin Dong beats him in EP28 and takes his Demon Ape Transformation bone slip.",
+    "power": [
+      {
+        "ep": 28,
+        "realm": "Form Creation peak",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 28,
+        "label": "As introduced",
+        "desc": "As first seen in EP 28",
+        "why": "First appearance",
+        "card": {
+          "ep": 28,
+          "t": 351.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "gu-yan",
+    "name": "Gu Yan",
+    "zh": "古岩",
+    "aka": [],
+    "wiki": "Gu Yan",
+    "ep": 29,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "enemy",
+    "intro": "Gu Yan is a Qi Creation elder of the Ancient Sword Sect who takes a branded Myriad Beast Fruit from Lin Dong, bringing the Ancient Dragon Ape down on his sect. In the tablet he captures Little Flame, and Lin Dong punches him over a chasm's edge in EP34.",
+    "power": [
+      {
+        "ep": 29,
+        "realm": "Qi Creation",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 30,
+        "realm": "Qi Creation",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 29,
+        "label": "As introduced",
+        "desc": "As first seen in EP 29",
+        "why": "First appearance",
+        "card": {
+          "ep": 29,
+          "t": 674.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "liu-gu",
+    "name": "Liu Gu",
+    "zh": "",
+    "aka": [
+      "Ancient Sword Sect leader"
+    ],
+    "wiki": "Liu Gu",
+    "ep": 29,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "neutral",
+    "intro": "Liu Gu is the leader of the Ancient Sword Sect, at Qi Creation advanced. His sect holds off the Ancient Dragon Ape with the Great Ancient Sword Formation when it tracks Gu Yan's fruit to their camp.",
+    "power": [
+      {
+        "ep": 29,
+        "realm": "Qi Creation advanced",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 29,
+        "label": "As introduced",
+        "desc": "As first seen in EP 29",
+        "why": "First appearance",
+        "card": {
+          "ep": 29,
+          "t": 862.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "mu-qianqian",
+    "name": "Mu Qianqian",
+    "zh": "慕芊芊",
+    "aka": [],
+    "wiki": "Mu Qianqian",
+    "ep": 30,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "ally",
+    "intro": "Mu Qianqian is the daughter of Mu Lei of the Great Demon Sect, a charming Qi Creation fighter Lin Dong meets at the Great Puppet City auction. She rescues him after his fight with Hua Gu, meets him again at the Great Desolate Ancient Tablet, and agrees to protect the Eagle Martial Dojo for him.",
+    "power": [
+      {
+        "ep": 30,
+        "realm": "Qi Creation initial",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 30,
+        "label": "As introduced",
+        "desc": "As first seen in EP 30",
+        "why": "First appearance",
+        "card": {
+          "ep": 30,
+          "t": 1390.5
+        }
+      },
+      {
+        "ep": 38,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 38,
+          "t": 640.5
+        }
+      }
+    ],
+    "arc": [
+      {
+        "ep": 30,
+        "text": "Meets Lin Dong at the Great Puppet City auction."
+      },
+      {
+        "ep": 32,
+        "text": "Rescues him after his fight with Hua Gu and invites him to the Great Demon Sect."
+      },
+      {
+        "ep": 35,
+        "text": "Tells him about the Manifestation Martial Tablet."
+      },
+      {
+        "ep": 44,
+        "text": "Agrees to look after the Eagle Martial Dojo."
+      }
+    ]
+  },
+  {
+    "id": "hua-zong",
+    "name": "Hua Zong",
+    "zh": "华宗",
+    "aka": [],
+    "wiki": "Hua Zong",
+    "ep": 30,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "enemy",
+    "intro": "Hua Zong is a protector of the Yin Puppet Sect and Hua Gu's son, a Spirit Symbol Master. He tries to force Lin Dong to sell his halberd, ambushes him, and dies in EP31 when his own Mental Strength drain backfires.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 30,
+        "label": "As introduced",
+        "desc": "As first seen in EP 30",
+        "why": "First appearance",
+        "card": {
+          "ep": 30,
+          "t": 1691.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "grand-master-cheng",
+    "name": "Grand Master Cheng",
+    "zh": "程大师",
+    "aka": [],
+    "wiki": "Grand Master Cheng",
+    "ep": 30,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "neutral",
+    "intro": "Grand Master Cheng is a Symbol Master at the Thousand Treasure Tower in Great Puppet City. In EP30 he refines Lin Dong's halberd into a high-grade Soul Treasure with Mental Energy Fire.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 30,
+        "label": "As introduced",
+        "desc": "As first seen in EP 30",
+        "why": "First appearance",
+        "card": {
+          "ep": 30,
+          "t": 1488.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "hua-gu",
+    "name": "Hua Gu",
+    "zh": "华骨",
+    "aka": [],
+    "wiki": "Hua Gu",
+    "ep": 31,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "enemy",
+    "intro": "Hua Gu is a Qi Creation advanced elder of the Yin Puppet Sect and Hua Zong's father, who swears revenge for his son. Lin Dong wounds him in EP32 and beats him at the sect's gate, and Cao Zhen kills him in EP40.",
+    "power": [
+      {
+        "ep": 32,
+        "realm": "Qi Creation advanced",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 31,
+        "label": "As introduced",
+        "desc": "As first seen in EP 31",
+        "why": "First appearance",
+        "card": {
+          "ep": 31,
+          "t": 212.5
+        }
+      },
+      {
+        "ep": 39,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 39,
+          "t": 708.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "teng-lei",
+    "name": "Teng Lei",
+    "zh": "腾儡",
+    "aka": [
+      "Teng Kui"
+    ],
+    "wiki": "Teng Lei",
+    "ep": 33,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "enemy",
+    "intro": "Teng Lei is the young master of the Yin Puppet Sect and Teng Sha's son. He attacks Lin Dong at the Great Desolate Ancient Tablet, is captured and leads him to Yin Puppet City, and is struck half dead by his own father in EP42.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 33,
+        "label": "As introduced",
+        "desc": "As first seen in EP 33",
+        "why": "First appearance",
+        "card": {
+          "ep": 33,
+          "t": 421.0
+        }
+      },
+      {
+        "ep": 38,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 38,
+          "t": 627.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "lin-mu",
+    "name": "Lin Mu",
+    "zh": "林穆",
+    "aka": [
+      "Elder Lin Mu",
+      "Uncle Mu"
+    ],
+    "wiki": "Lin Mu (Elder)",
+    "ep": 33,
+    "mentionEp": null,
+    "group": "Lin Clan",
+    "side": "ally",
+    "intro": "Lin Mu is a Lin Clan elder who stops Lin Langtian from seizing Lin Dong at the Great Desolate Ancient Tablet. He praises Lin Dong, recommends him to the patriarch and has Lin Feng arrested for cheating at the Lin Clan Gathering.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 33,
+        "label": "As introduced",
+        "desc": "As first seen in EP 33",
+        "why": "First appearance",
+        "card": {
+          "ep": 33,
+          "t": 1172.8
+        }
+      },
+      {
+        "ep": 37,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 37,
+          "t": 620.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "wang-tong",
+    "name": "Wang Tong",
+    "zh": "王统",
+    "aka": [
+      "Uncle Tong"
+    ],
+    "wiki": "Wang Tong",
+    "ep": 33,
+    "mentionEp": null,
+    "group": "Four Great Clans",
+    "side": "enemy",
+    "intro": "Wang Tong is a Wang Clan elder at Qi Creation advanced who guards Wang Yan. He attacks Lin Dong over a seat at the Manifestation Martial Tablet in EP36 and loses.",
+    "power": [
+      {
+        "ep": 33,
+        "realm": "Qi Creation advanced",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 33,
+        "label": "As introduced",
+        "desc": "As first seen in EP 33",
+        "why": "First appearance",
+        "card": {
+          "ep": 33,
+          "t": 779.0
+        }
+      },
+      {
+        "ep": 37,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 37,
+          "t": 333.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "huangpu-jing",
+    "name": "Huangpu Jing",
+    "zh": "皇甫静",
+    "aka": [
+      "Huangfu Jing"
+    ],
+    "wiki": "Huangpu Jing",
+    "ep": 33,
+    "mentionEp": null,
+    "group": "Four Great Clans",
+    "side": "neutral",
+    "intro": "Huangpu Jing is the Huangpu Clan's young representative at the Great Desolate Ancient Tablet. She loses to Du Yun at the Battle of Seeds in EP49.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 33,
+        "label": "As introduced",
+        "desc": "As first seen in EP 33",
+        "why": "First appearance",
+        "card": {
+          "ep": 33,
+          "t": 690.8
+        }
+      },
+      {
+        "ep": 38,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 49,
+          "t": 952.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "black-eyed-elder",
+    "name": "Black-Eyed Elder",
+    "zh": "黑瞳老人",
+    "aka": [
+      "Hei Tong"
+    ],
+    "wiki": "Black Eyed Elder",
+    "ep": 35,
+    "mentionEp": null,
+    "group": "Ancient sects",
+    "side": "mentor",
+    "intro": "The Black-Eyed Elder is the previous master of the Devouring Ancestral Symbol, met as a remnant in the Great Desolate Ancient Tablet. He tests Lin Dong, names him his heir and gives him what he needs to break the Symbol's seal.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 35,
+        "label": "As introduced",
+        "desc": "An old man met inside a black stone pillar",
+        "why": "First appearance",
+        "card": {
+          "ep": 35,
+          "t": 812.8
+        }
+      },
+      {
+        "ep": 38,
+        "label": "Seasons 4-5",
+        "desc": "As seen in Season 4",
+        "why": "New studio art style",
+        "card": {
+          "ep": 38,
+          "t": 1267.4
+        }
+      },
+      {
+        "ep": 41,
+        "label": "Afterimage",
+        "desc": "A shadowy afterimage over the broken seal",
+        "why": "His remnant appears when the seal opens",
+        "card": {
+          "ep": 41,
+          "t": 727.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "elder-cao",
+    "name": "Elder Cao",
+    "zh": "曹长老",
+    "aka": [],
+    "wiki": "Elder Cao",
+    "ep": 35,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "enemy",
+    "intro": "Elder Cao is a Yin Puppet Sect elder whom Lin Dong catches binding a high-grade Symbol Puppet in the ancient tablet. Lin Dong forces him to give it up and drags him down through the Nine Underworld Cold Qi.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 35,
+        "label": "As introduced",
+        "desc": "As first seen in EP 35",
+        "why": "First appearance",
+        "card": {
+          "ep": 35,
+          "t": 292.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "ancient-blood-bat-dragon",
+    "name": "Ancient Blood Bat Dragon",
+    "zh": "远古血蝠龙",
+    "aka": [
+      "Primordial Blood Bat Dragon"
+    ],
+    "wiki": "Primordial Blood Bat Dragon",
+    "ep": 37,
+    "mentionEp": null,
+    "group": "Demon beasts",
+    "side": "enemy",
+    "intro": "The Ancient Blood Bat Dragon is the guardian beast of the ancient sect's underground palace. The Four Great Clans wound it, and Lin Dong, Little Mink and Little Flame finish it off in EP37 so Little Mink can take its demon spirit.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 37,
+        "label": "As introduced",
+        "desc": "A dragon-like guardian beast with true dragon blood",
+        "why": "First appearance",
+        "card": {
+          "ep": 37,
+          "t": 1134.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "tian-ze",
+    "name": "Tian Ze",
+    "zh": "天泽",
+    "aka": [
+      "Tang Pu"
+    ],
+    "wiki": "Tian Ze",
+    "ep": 38,
+    "mentionEp": null,
+    "group": "Ancient sects",
+    "side": "neutral",
+    "intro": "Tian Ze is the guardian of the ancient sect's underground palace, at least a Five Yuan Nirvana expert. He recognises the Great Desolate Heaven-Imprisoning Finger and spares Lin Dong when the Black-Eyed Elder names him the heir.",
+    "power": [
+      {
+        "ep": 38,
+        "realm": "Five Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 38,
+        "label": "As introduced",
+        "desc": "The underground palace's guardian",
+        "why": "First appearance",
+        "card": {
+          "ep": 38,
+          "t": 1267.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "teng-sha",
+    "name": "Teng Sha",
+    "zh": "腾刹",
+    "aka": [],
+    "wiki": "Teng Sha",
+    "ep": 39,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "enemy",
+    "intro": "Teng Sha is master of the Yin Puppet Sect, at Manifestation peak, who took the Devouring Ancestral Symbol from the ancient tablet. He chases Lin Dong into the Xuanyin Crack, and Lin Dong kills him in EP44.",
+    "power": [
+      {
+        "ep": 39,
+        "realm": "Manifestation peak",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 41,
+        "realm": "Manifestation peak",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 42,
+        "realm": "Manifestation peak",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 44,
+        "realm": "Manifestation peak",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 39,
+        "label": "As introduced",
+        "desc": "As first seen in EP 39",
+        "why": "First appearance",
+        "card": {
+          "ep": 39,
+          "t": 245.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "mu-lei",
+    "name": "Mu Lei",
+    "zh": "慕雷",
+    "aka": [],
+    "wiki": "Mu Lei",
+    "ep": 39,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "ally",
+    "intro": "Mu Lei is the master of the Great Demon Sect and Mu Qianqian's father. He contests the Ancestral Symbol with Teng Sha, then rewards Lin Dong after the Yin Puppet Sect falls.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 39,
+        "label": "As introduced",
+        "desc": "As first seen in EP 39",
+        "why": "First appearance",
+        "card": {
+          "ep": 39,
+          "t": 831.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "cao-zhen",
+    "name": "Cao Zhen",
+    "zh": "曹震",
+    "aka": [],
+    "wiki": "Cao Zhen",
+    "ep": 39,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "enemy",
+    "intro": "Cao Zhen, the Blood Slayer, is a Half-step Manifestation elder of the Yin Puppet Sect who once wiped out a sect alone. He kills Hua Gu and fights Lin Dong in EP40, and Lin Dong kills him with one move in EP44.",
+    "power": [
+      {
+        "ep": 39,
+        "realm": "Half-step Manifestation",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 40,
+        "realm": "Half-step Manifestation",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 39,
+        "label": "As introduced",
+        "desc": "As first seen in EP 39",
+        "why": "First appearance",
+        "card": {
+          "ep": 39,
+          "t": 1258.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "old-ma-yi",
+    "name": "Old Ma Yi",
+    "zh": "麻衣老人",
+    "aka": [
+      "Elder Ma"
+    ],
+    "wiki": "Old Ma Yi",
+    "ep": 41,
+    "mentionEp": null,
+    "group": "Super Sects",
+    "side": "enemy",
+    "intro": "Old Ma Yi is a Nirvana elder of the Nine Heavens Taiqing Palace who travels with Ling Qingzhu. He hunts Lin Dong for the Devouring Ancestral Symbol against orders, and Ling Qingzhu kills him in EP46.",
+    "power": [
+      {
+        "ep": 46,
+        "realm": "Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 41,
+        "label": "As introduced",
+        "desc": "As first seen in EP 41",
+        "why": "First appearance",
+        "card": {
+          "ep": 41,
+          "t": 547.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "wu-zong",
+    "name": "Wu Zong",
+    "zh": "武宗",
+    "aka": [],
+    "wiki": "Wu Zong",
+    "ep": 41,
+    "mentionEp": null,
+    "group": "Great Desolate Province",
+    "side": "neutral",
+    "intro": "Wu Zong is a leader of the Martial Alliance who joins Mu Lei in contesting the Ancestral Symbol at Yin Puppet City. Teng Sha beats them both, and later he stays out of Lin Dong's fight with the sect.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 41,
+        "label": "As introduced",
+        "desc": "As first seen in EP 41",
+        "why": "First appearance",
+        "card": {
+          "ep": 41,
+          "t": 913.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "eight-eye-earth-devil-spider",
+    "name": "Eight Eye Earth Devil Spider",
+    "zh": "",
+    "aka": [
+      "Eight-Eye Devil Spider"
+    ],
+    "wiki": null,
+    "ep": 43,
+    "mentionEp": null,
+    "group": "Demon beasts",
+    "side": "enemy",
+    "intro": "The Eight Eye Earth Devil Spider is a beast in the depths of the Xuanyin Crack. Little Mink lures it away while guarding Lin Dong's body for six months.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 43,
+        "label": "As introduced",
+        "desc": "A huge eight-eyed spider",
+        "why": "First appearance",
+        "card": {
+          "ep": 43,
+          "t": 1179.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "blood-spirit-puppet",
+    "name": "Blood Spirit Puppet",
+    "zh": "血灵傀",
+    "aka": [],
+    "wiki": null,
+    "ep": 45,
+    "mentionEp": null,
+    "group": "Lin Dong's side",
+    "side": "ally",
+    "intro": "The Blood Spirit Puppet is a spirit puppet as strong as a Nirvana expert, sealed in Yin Puppet Mountain and hungry for blood. Lin Dong seals it in the Stone Talisman and makes a contract with it in EP45, and it fights for him from then on.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 45,
+        "label": "As introduced",
+        "desc": "A blood-hungry spirit puppet sealed in Yin Puppet Mountain",
+        "why": "First appearance",
+        "card": {
+          "ep": 45,
+          "t": 532.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "lin-xia",
+    "name": "Lin Xia",
+    "zh": "林霞",
+    "aka": [],
+    "wiki": "Lin Xia",
+    "ep": 45,
+    "mentionEp": null,
+    "group": "Lin Family (Qingyang)",
+    "side": "ally",
+    "intro": "Lin Xia is a Yuan Dan perfect cousin of the Yan City branch who beats Lin Hong in a family trial. She is badly beaten at the Lin Clan Gathering.",
+    "power": [
+      {
+        "ep": 45,
+        "realm": "Yuan Dan perfect",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 45,
+        "label": "As introduced",
+        "desc": "As first seen in EP 45",
+        "why": "First appearance",
+        "card": {
+          "ep": 45,
+          "t": 230.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "lin-fan",
+    "name": "Lin Fan",
+    "zh": "林梵",
+    "aka": [
+      "Patriarch"
+    ],
+    "wiki": "Lin Fan",
+    "ep": 46,
+    "mentionEp": null,
+    "group": "Lin Clan",
+    "side": "ally",
+    "intro": "Lin Fan is the Lin Clan's patriarch, a Nirvana expert. He stops Lin Dong's fight with Lin Langtian, names Lin Dong champion and brings him to the Battle of Seeds in the Imperial City.",
+    "power": [
+      {
+        "ep": 48,
+        "realm": "Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 46,
+        "label": "As introduced",
+        "desc": "As first seen in EP 46",
+        "why": "First appearance",
+        "card": {
+          "ep": 46,
+          "t": 302.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "lin-zheng",
+    "name": "Lin Zheng",
+    "zh": "",
+    "aka": [],
+    "wiki": "Lin Zheng",
+    "ep": 46,
+    "mentionEp": null,
+    "group": "Lin Clan",
+    "side": "enemy",
+    "intro": "Lin Zheng is a Lin Clan elder on Lin Langtian's side who rigs the Lin Clan Gathering draw against the Yan City branch. With Lin Zhi he turns the treasure vault's formations on Lin Dong.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 46,
+        "label": "As introduced",
+        "desc": "As first seen in EP 46",
+        "why": "First appearance",
+        "card": {
+          "ep": 46,
+          "t": 398.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "lin-feng",
+    "name": "Lin Feng",
+    "zh": "",
+    "aka": [],
+    "wiki": "Lin Feng",
+    "ep": 47,
+    "mentionEp": null,
+    "group": "Lin Clan",
+    "side": "enemy",
+    "intro": "Lin Feng is a Qi Creation fighter of the Lin Clan who beats Lin Hong and challenges Qing Tan at the Lin Clan Gathering. When she seals his Yuan Dan he secretly takes a pill, and Lin Dong exposes him.",
+    "power": [
+      {
+        "ep": 47,
+        "realm": "Qi Creation",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 47,
+        "label": "As introduced",
+        "desc": "As first seen in EP 47",
+        "why": "First appearance",
+        "card": {
+          "ep": 47,
+          "t": 464.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "lin-qing",
+    "name": "Lin Qing",
+    "zh": "",
+    "aka": [],
+    "wiki": "Lin Qing",
+    "ep": 47,
+    "mentionEp": null,
+    "group": "Lin Clan",
+    "side": "rival",
+    "intro": "Lin Qing is one of the Lin Clan twins, at the peak of Half-step Manifestation, whom Lin Zheng sets against Lin Dong before he can face Lin Langtian. Lin Dong beats both twins with one move.",
+    "power": [
+      {
+        "ep": 47,
+        "realm": "Half-step Manifestation",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 47,
+        "label": "As introduced",
+        "desc": "As first seen in EP 47",
+        "why": "First appearance",
+        "card": {
+          "ep": 47,
+          "t": 1043.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "lin-mu-twin",
+    "name": "Lin Mu (twin)",
+    "zh": "",
+    "aka": [],
+    "wiki": "Lin Mu",
+    "ep": 47,
+    "mentionEp": null,
+    "group": "Lin Clan",
+    "side": "rival",
+    "intro": "Lin Mu is Lin Qing's twin brother, not the elder of the same name, at the peak of Half-step Manifestation. Lin Dong beats both twins with one move at the Lin Clan Gathering.",
+    "power": [
+      {
+        "ep": 47,
+        "realm": "Half-step Manifestation",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 47,
+        "label": "As introduced",
+        "desc": "As first seen in EP 47",
+        "why": "First appearance",
+        "card": {
+          "ep": 47,
+          "t": 1043.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "lin-zhi",
+    "name": "Lin Zhi",
+    "zh": "",
+    "aka": [],
+    "wiki": "Lin Zhi",
+    "ep": 48,
+    "mentionEp": null,
+    "group": "Lin Clan",
+    "side": "enemy",
+    "intro": "Lin Zhi is a Lin Clan elder who opens the treasure vault for Lin Dong, then turns its formations on him with Lin Zheng. The Blood Spirit Puppet smashes the formation eye.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 48,
+        "label": "As introduced",
+        "desc": "As first seen in EP 48",
+        "why": "First appearance",
+        "card": {
+          "ep": 48,
+          "t": 1160.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "mo-ling",
+    "name": "Mo Ling",
+    "zh": "莫凌",
+    "aka": [
+      "Third Prince"
+    ],
+    "wiki": "Mo Ling",
+    "ep": 49,
+    "mentionEp": null,
+    "group": "Great Yan Dynasty",
+    "side": "ally",
+    "intro": "Mo Ling is the Third Prince of the Great Yan Dynasty and Mo Jingtian's son, who wins a place in the Hundred Dynasties Battle. He becomes Lin Dong's friend in the Ancient Battlefield, is captured by the Demon Rock Dynasty in EP56, and is saved again by Lin Dong in EP69.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 49,
+        "label": "As introduced",
+        "desc": "The Third Prince of the Great Yan Dynasty",
+        "why": "First appearance",
+        "card": {
+          "ep": 49,
+          "t": 682.2
+        }
+      },
+      {
+        "ep": 69,
+        "label": "Season 6",
+        "desc": "As seen in Season 6",
+        "why": "New studio art style",
+        "card": {
+          "ep": 69,
+          "t": 710.9
+        }
+      }
+    ],
+    "arc": [
+      {
+        "ep": 49,
+        "text": "Wins the first of Great Yan's five places in the Battle of Seeds."
+      },
+      {
+        "ep": 54,
+        "text": "Goes with Lin Dong and Mu Hongling to Leiyan Valley."
+      },
+      {
+        "ep": 57,
+        "text": "Captured by the Demon Rock Dynasty and traded back by Lin Dong."
+      },
+      {
+        "ep": 69,
+        "text": "Saved by Lin Dong from Heavenly Demon Dynasty disciples."
+      }
+    ]
+  },
+  {
+    "id": "mo-jingtian",
+    "name": "Mo Jingtian",
+    "zh": "",
+    "aka": [
+      "Emperor of the Great Yan Dynasty"
+    ],
+    "wiki": "Mo Jingtian",
+    "ep": 49,
+    "mentionEp": null,
+    "group": "Great Yan Dynasty",
+    "side": "ally",
+    "intro": "Mo Jingtian is the emperor of the Great Yan Dynasty, judged to be One Yuan Nirvana. He holds the Battle of Seeds, lets Lin Dong keep the crocodile bone spear and tells Mo Ling to befriend him.",
+    "power": [
+      {
+        "ep": 49,
+        "realm": "One Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 49,
+        "label": "As introduced",
+        "desc": "The emperor of the Great Yan Dynasty",
+        "why": "First appearance",
+        "card": {
+          "ep": 49,
+          "t": 552.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "du-yun",
+    "name": "Du Yun",
+    "zh": "杜云",
+    "aka": [],
+    "wiki": "Du Yun",
+    "ep": 49,
+    "mentionEp": null,
+    "group": "Great Yan Dynasty",
+    "side": "ally",
+    "intro": "Du Yun is a swordsman of the Heavenly Luo Sect who wins a Great Yan place in the Hundred Dynasties Battle, beating Huangpu Jing. The Holy Light Dynasty strikes him down in Yang City in EP52.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 49,
+        "label": "As introduced",
+        "desc": "As first seen in EP 49",
+        "why": "First appearance",
+        "card": {
+          "ep": 49,
+          "t": 950.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "man-shan",
+    "name": "Man Shan",
+    "zh": "蛮山",
+    "aka": [],
+    "wiki": "Man Shan",
+    "ep": 49,
+    "mentionEp": null,
+    "group": "Great Yan Dynasty",
+    "side": "ally",
+    "intro": "Man Shan is a fighter of the Barbarian King Sect who wins a Great Yan place in the Hundred Dynasties Battle. The Holy Light Dynasty strikes him down in Yang City in EP52.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 49,
+        "label": "As introduced",
+        "desc": "As first seen in EP 49",
+        "why": "First appearance",
+        "card": {
+          "ep": 49,
+          "t": 362.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "wang-zhong",
+    "name": "Wang Zhong",
+    "zh": "王钟",
+    "aka": [],
+    "wiki": "Wang Zhong",
+    "ep": 49,
+    "mentionEp": null,
+    "group": "Four Great Clans",
+    "side": "enemy",
+    "intro": "Wang Zhong is Wang Yan's elder brother and the Wang Clan's genius, at Manifestation peak. He threatens Lin Dong at the Battle of Seeds, and Lin Dong beats him with four fingers of the Great Desolate Heaven-Imprisoning Finger.",
+    "power": [
+      {
+        "ep": 49,
+        "realm": "Manifestation peak",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 49,
+        "label": "As introduced",
+        "desc": "As first seen in EP 49",
+        "why": "First appearance",
+        "card": {
+          "ep": 49,
+          "t": 479.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "wang-lei",
+    "name": "Wang Lei",
+    "zh": "王雷",
+    "aka": [],
+    "wiki": "Wang Lei",
+    "ep": 49,
+    "mentionEp": null,
+    "group": "Four Great Clans",
+    "side": "rival",
+    "intro": "Wang Lei is the patriarch of the Wang Clan, who taunts Lin Fan at the Battle of Seeds about the Wang Clan's win twenty years earlier.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 49,
+        "label": "As introduced",
+        "desc": "As first seen in EP 49",
+        "why": "First appearance",
+        "card": {
+          "ep": 49,
+          "t": 460.3
+        }
+      }
+    ]
+  },
+  {
+    "id": "huangpu-ying",
+    "name": "Huangpu Ying",
+    "zh": "皇甫影",
+    "aka": [
+      "Huangfu Ying"
+    ],
+    "wiki": "Huangpu Ying",
+    "ep": 49,
+    "mentionEp": null,
+    "group": "Four Great Clans",
+    "side": "rival",
+    "intro": "Huangpu Ying is a Huangpu Clan fighter who challenges Lin Dong in the Battle of Seeds and is Lin Dong's first win there.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 49,
+        "label": "As introduced",
+        "desc": "As first seen in EP 49",
+        "why": "First appearance",
+        "card": {
+          "ep": 49,
+          "t": 875.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "reverend",
+    "name": "Reverend",
+    "zh": "穆师",
+    "aka": [
+      "Master Mu",
+      "Mu Shi"
+    ],
+    "wiki": "Reverend",
+    "ep": 50,
+    "mentionEp": null,
+    "group": "Yimo and Western Xuan",
+    "side": "enemy",
+    "intro": "The Reverend is the Yuan Spirit hidden inside Lin Langtian, which fights Little Mink at the bottom of the Sacred Spirit Pool in EP50. Lin Langtian calls him Master Mu and leans on his power.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 50,
+        "label": "As introduced",
+        "desc": "A Yuan Spirit hidden inside Lin Langtian",
+        "why": "First appearance",
+        "card": {
+          "ep": 50,
+          "t": 512.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "ancient-heavenly-crocodile",
+    "name": "Ancient Heavenly Crocodile",
+    "zh": "远古天鳄",
+    "aka": [],
+    "wiki": null,
+    "ep": 50,
+    "mentionEp": null,
+    "group": "Demon beasts",
+    "side": "neutral",
+    "intro": "The Ancient Heavenly Crocodile was a beast beyond Nirvana whose skeleton and remnant soul lie under the Sacred Spirit Pool. Little Mink devours its soul, Lin Dong takes its bone spear, and in EP66 he summons its true soul in battle.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 50,
+        "label": "As introduced",
+        "desc": "A giant crocodile skeleton with a remnant soul",
+        "why": "First appearance",
+        "card": {
+          "ep": 50,
+          "t": 903.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "shen-qing",
+    "name": "Shen Qing",
+    "zh": "沈清",
+    "aka": [],
+    "wiki": "Shen Qing",
+    "ep": 50,
+    "mentionEp": null,
+    "group": "Super Sects",
+    "side": "neutral",
+    "intro": "Shen Qing is Ling Qingzhu's master in the Nine Heavens Taiqing Palace. In EP50 she sends Ling Qingzhu to look into strange activity in the Ancient Battlefield.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 50,
+        "label": "As introduced",
+        "desc": "As first seen in EP 50",
+        "why": "First appearance",
+        "card": {
+          "ep": 50,
+          "t": 1589.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "mu-hongling",
+    "name": "Mu Hongling",
+    "zh": "穆红绫",
+    "aka": [],
+    "wiki": "Mu Hongling",
+    "ep": 51,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "rival",
+    "intro": "Mu Hongling is a young woman Lin Dong saves from a beast tide in Yang City in EP51. She leads him and Mo Ling to the treasure in Leiyan Valley, then reveals hidden strength and takes the Ancient Secret Key from him.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 51,
+        "label": "As introduced",
+        "desc": "As first seen in EP 51",
+        "why": "First appearance",
+        "card": {
+          "ep": 51,
+          "t": 1013.6
+        }
+      }
+    ],
+    "arc": [
+      {
+        "ep": 51,
+        "text": "Lin Dong saves her in Yang City's beast tide."
+      },
+      {
+        "ep": 54,
+        "text": "Leads Lin Dong and Mo Ling to the treasure in Leiyan Valley."
+      },
+      {
+        "ep": 56,
+        "text": "Reveals hidden strength, admits she used Lin Dong, and takes the Ancient Secret Key."
+      }
+    ]
+  },
+  {
+    "id": "jin-mu",
+    "name": "Jin Mu",
+    "zh": "晋牧",
+    "aka": [],
+    "wiki": "Jin Mu",
+    "ep": 51,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "enemy",
+    "intro": "Jin Mu is a Half-step Nirvana fighter of the Holy Light Dynasty who holds Yang City and charges Nirvana Pills to enter. He orders Lin Dong killed, and Lin Dong beats him with five fingers of the Great Desolate Heaven-Imprisoning Finger in EP53.",
+    "power": [
+      {
+        "ep": 51,
+        "realm": "Half-step Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 53,
+        "realm": "Half-step Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 51,
+        "label": "As introduced",
+        "desc": "As first seen in EP 51",
+        "why": "First appearance",
+        "card": {
+          "ep": 51,
+          "t": 666.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "xia-huang",
+    "name": "Xia Huang",
+    "zh": "夏荒",
+    "aka": [],
+    "wiki": "Xia Huang",
+    "ep": 51,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "enemy",
+    "intro": "Xia Huang is Jin Mu's junior in the Holy Light Dynasty, ordered to get rid of Lin Dong during the beast tide. His men try to take Lin Dong's Soul Treasure on the second wall.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 51,
+        "label": "As introduced",
+        "desc": "As first seen in EP 51",
+        "why": "First appearance",
+        "card": {
+          "ep": 51,
+          "t": 1276.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "yuan-cang",
+    "name": "Yuan Cang",
+    "zh": "",
+    "aka": [
+      "Little Yuan King"
+    ],
+    "wiki": "Yuan Cang",
+    "ep": 53,
+    "mentionEp": null,
+    "group": "Super Sects",
+    "side": "neutral",
+    "intro": "Yuan Cang, the Little Yuan King, works with Ling Qingzhu in the Ancient Battlefield. She tells him the Nirvana beasts were driven by Beast-Driving Seals, and they hunt a Western Xuan intruder in EP54.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 53,
+        "label": "As introduced",
+        "desc": "As first seen in EP 53",
+        "why": "First appearance",
+        "card": {
+          "ep": 53,
+          "t": 959.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "chen-mu",
+    "name": "Chen Mu",
+    "zh": "陈墓",
+    "aka": [],
+    "wiki": "Chen Mu",
+    "ep": 54,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "enemy",
+    "intro": "Chen Mu is a Nirvana expert of the Demon Rock Dynasty who fights for the treasure in Leiyan Valley and captures Mo Ling. Lin Dong beats him with the Wind Thunder Seal at the prisoner exchange in EP57.",
+    "power": [
+      {
+        "ep": 54,
+        "realm": "Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 54,
+        "label": "As introduced",
+        "desc": "As first seen in EP 54",
+        "why": "First appearance",
+        "card": {
+          "ep": 54,
+          "t": 918.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "hua-yun",
+    "name": "Hua Yun",
+    "zh": "华云",
+    "aka": [],
+    "wiki": "Hua Yun",
+    "ep": 54,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "rival",
+    "intro": "Hua Yun is a Nirvana expert of the Xuanbing Dynasty who is after the Ancient Secret Key in Leiyan Valley. Lin Dong throws him a decoy key to set him against the Demon Rock Dynasty.",
+    "power": [
+      {
+        "ep": 54,
+        "realm": "Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 54,
+        "label": "As introduced",
+        "desc": "As first seen in EP 54",
+        "why": "First appearance",
+        "card": {
+          "ep": 54,
+          "t": 1121.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "li-pan",
+    "name": "Li Pan",
+    "zh": "李盘",
+    "aka": [],
+    "wiki": "Li Pan",
+    "ep": 55,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "enemy",
+    "intro": "Li Pan is a Nirvana expert of the Demon Rock Dynasty who claims the Heavenly Symbol Spirit Tree, which Lin Dong snatches from him. Lin Dong later traps his group behind a mental barrier and trades them for Mo Ling.",
+    "power": [
+      {
+        "ep": 55,
+        "realm": "Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 55,
+        "label": "As introduced",
+        "desc": "As first seen in EP 55",
+        "why": "First appearance",
+        "card": {
+          "ep": 55,
+          "t": 853.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "shi-xuan",
+    "name": "Shi Xuan",
+    "zh": "石轩",
+    "aka": [],
+    "wiki": "Shi Xuan",
+    "ep": 57,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "enemy",
+    "intro": "Shi Xuan is a One Yuan Nirvana expert of the Demon Rock Dynasty who hides his aura and overpowers Lin Dong after the prisoner exchange. He badly wounds Little Flame and is killed in EP59 by the Mighty Earthsplitting Tiger and the newly human Little Flame.",
+    "power": [
+      {
+        "ep": 57,
+        "realm": "One Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 58,
+        "realm": "One Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 59,
+        "realm": "One Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 57,
+        "label": "As introduced",
+        "desc": "As first seen in EP 57",
+        "why": "First appearance",
+        "card": {
+          "ep": 57,
+          "t": 1132.8
+        }
+      }
+    ]
+  },
+  {
+    "id": "mighty-earthsplitting-tiger",
+    "name": "Mighty Earthsplitting Tiger",
+    "zh": "大力裂地虎",
+    "aka": [],
+    "wiki": null,
+    "ep": 58,
+    "mentionEp": null,
+    "group": "Demon beasts",
+    "side": "ally",
+    "intro": "The Mighty Earthsplitting Tiger is a One Yuan Nirvana tiger of the Demon Forest that hates humans because the Demon Rock Dynasty killed its cubs. It gives its blood to save Little Flame and helps finish Shi Xuan.",
+    "power": [
+      {
+        "ep": 58,
+        "realm": "One Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 58,
+        "label": "As introduced",
+        "desc": "A huge tiger that can speak",
+        "why": "First appearance",
+        "card": {
+          "ep": 58,
+          "t": 1095.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "shi-kun",
+    "name": "Shi Kun",
+    "zh": "石坤",
+    "aka": [],
+    "wiki": "Shi Kun",
+    "ep": 59,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "enemy",
+    "intro": "Shi Kun is the Demon Rock Dynasty's senior brother and Shi Xuan's brother, at the peak of Two Yuan Nirvana. He puts a bounty of a million Nirvana Pills on Lin Dong, and Lin Dong kills him in EP65 with the Great Desolate Heaven-Imprisoning Hand.",
+    "power": [
+      {
+        "ep": 61,
+        "realm": "Two Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 65,
+        "realm": "Two Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 59,
+        "label": "As introduced",
+        "desc": "As first seen in EP 59",
+        "why": "First appearance",
+        "card": {
+          "ep": 59,
+          "t": 1224.6
+        }
+      },
+      {
+        "ep": 61,
+        "label": "Season 6",
+        "desc": "As seen in Season 6",
+        "why": "New studio art style",
+        "card": {
+          "ep": 61,
+          "t": 254.5
+        }
+      }
+    ]
+  },
+  {
+    "id": "wang-lie",
+    "name": "Wang Lie",
+    "zh": "王裂",
+    "aka": [],
+    "wiki": "Wang Lie",
+    "ep": 60,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "enemy",
+    "intro": "Wang Lie is a One Yuan Nirvana fighter of the Sky Eagle Dynasty who hunts Lin Dong for the bounty. He breaks into the Pill River site with Zheng Hei Zhu and Chen Ku, and Lin Dong beats all three in EP60.",
+    "power": [
+      {
+        "ep": 60,
+        "realm": "One Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 60,
+        "label": "As introduced",
+        "desc": "As first seen in EP 60",
+        "why": "First appearance",
+        "card": {
+          "ep": 60,
+          "t": 816.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "zheng-hei-zhu",
+    "name": "Zheng Hei Zhu",
+    "zh": "",
+    "aka": [
+      "Hei Zhu"
+    ],
+    "wiki": "Zheng Hei Zhu",
+    "ep": 60,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "enemy",
+    "intro": "Zheng Hei Zhu is a One Yuan Nirvana fighter whom Wang Lie calls in to hunt Lin Dong. Lin Dong beats him, Wang Lie and Chen Ku after passing his Nirvana Tribulation in EP60.",
+    "power": [
+      {
+        "ep": 60,
+        "realm": "One Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 60,
+        "label": "As introduced",
+        "desc": "As first seen in EP 60",
+        "why": "First appearance",
+        "card": {
+          "ep": 60,
+          "t": 1039.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "chen-ku",
+    "name": "Chen Ku",
+    "zh": "陈枯",
+    "aka": [],
+    "wiki": "Chen Ku",
+    "ep": 60,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "enemy",
+    "intro": "Chen Ku is a One Yuan Nirvana fighter whom Wang Lie calls in to hunt Lin Dong. Lin Dong beats him, Wang Lie and Zheng Hei Zhu in EP60.",
+    "power": [
+      {
+        "ep": 60,
+        "realm": "One Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 60,
+        "label": "As introduced",
+        "desc": "As first seen in EP 60",
+        "why": "First appearance",
+        "card": {
+          "ep": 60,
+          "t": 1040.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "hong-lie",
+    "name": "Hong Lie",
+    "zh": "洪烈",
+    "aka": [],
+    "wiki": "Hong Lie",
+    "ep": 61,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "enemy",
+    "intro": "Hong Lie of the Primordial Dynasty holds one of the four Ancient Secret Keys and brings Lin Langtian in as a hidden ally. He joins the attack on Lin Dong at the Four Sect Halls and is crushed by the Ancient Heavenly Crocodile's soul in EP66.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 61,
+        "label": "As introduced",
+        "desc": "As first seen in EP 61",
+        "why": "First appearance",
+        "card": {
+          "ep": 61,
+          "t": 261.9
+        }
+      }
+    ]
+  },
+  {
+    "id": "you-qing",
+    "name": "You Qing",
+    "zh": "幽情",
+    "aka": [],
+    "wiki": "You Qing",
+    "ep": 61,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "enemy",
+    "intro": "You Qing of the Youquan Dynasty is a key holder at the Ancient Treasure Trove and Mu Sha's senior sister. She joins Lin Langtian and Hong Lie against Lin Dong and is crushed with Hong Lie in EP66.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 61,
+        "label": "As introduced",
+        "desc": "As first seen in EP 61",
+        "why": "First appearance",
+        "card": {
+          "ep": 61,
+          "t": 674.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "yan-sen",
+    "name": "Yan Sen",
+    "zh": "阎森",
+    "aka": [],
+    "wiki": "Yan Sen",
+    "ep": 61,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "rival",
+    "intro": "Yan Sen leads a group fighting over the Life and Death Reincarnation Pill in the Ancient Treasure Trove's pill chamber. Lin Dong snatches the pill from under them in EP62.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 61,
+        "label": "As introduced",
+        "desc": "As first seen in EP 61",
+        "why": "First appearance",
+        "card": {
+          "ep": 61,
+          "t": 1104.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "mu-sha",
+    "name": "Mu Sha",
+    "zh": "慕沙",
+    "aka": [],
+    "wiki": null,
+    "ep": 62,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "enemy",
+    "intro": "Mu Sha is a Heaven Symbol Master of the Youquan Dynasty whose partnership Lin Dong refuses. He ambushes Lin Dong in the Eight Extremes Sect ruins and seizes the Primordial Demon Dragon Hound, and dies in EP64 after burning out his Mental Strength.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 62,
+        "label": "As introduced",
+        "desc": "As first seen in EP 62",
+        "why": "First appearance",
+        "card": {
+          "ep": 62,
+          "t": 1189.2
+        }
+      }
+    ]
+  },
+  {
+    "id": "demon-dragon-hound",
+    "name": "Primordial Demon Dragon Hound",
+    "zh": "洪荒魔龙犬",
+    "aka": [
+      "Prehistoric Demon Dragon Dog"
+    ],
+    "wiki": "Prehistoric Demon Dragon Dog",
+    "ep": 63,
+    "mentionEp": null,
+    "group": "Demon beasts",
+    "side": "neutral",
+    "intro": "The Primordial Demon Dragon Hound is the guardian beast of the Eight Extremes Sect, which Mu Sha tries to control. Little Mink calms it and keeps its last wisp of soul, which Lin Dong uses to summon the Ancient Heavenly Crocodile in EP66.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 63,
+        "label": "As introduced",
+        "desc": "The Eight Extremes Sect's guardian beast",
+        "why": "First appearance",
+        "card": {
+          "ep": 63,
+          "t": 1203.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "wu-dao",
+    "name": "Wu Dao",
+    "zh": "悟道",
+    "aka": [],
+    "wiki": "Wu Dao",
+    "ep": 66,
+    "mentionEp": null,
+    "group": "Super Sects",
+    "side": "ally",
+    "intro": "Wu Dao is an elder of the Dao Sect, one of the Super Sects, who sends Lin Dong's group to Wanxiang City in EP66. His clone invites Lin Dong to join the Dao Sect, which Lin Dong does in EP72.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 66,
+        "label": "As introduced",
+        "desc": "A Dao Sect elder",
+        "why": "First appearance",
+        "card": {
+          "ep": 66,
+          "t": 1302.7
+        }
+      }
+    ]
+  },
+  {
+    "id": "qing-zhi",
+    "name": "Qing Zhi",
+    "zh": "青雉",
+    "aka": [
+      "Green Dragon King"
+    ],
+    "wiki": "Qing Zhi",
+    "ep": 66,
+    "mentionEp": null,
+    "group": "Ancient sects",
+    "side": "mentor",
+    "intro": "Qing Zhi, the Green Dragon King, left a remnant shadow in the Green Dragon Hall. Out of regard for Hei Tong, he gives Lin Dong the Green Heaven Materialized Dragon Skill in EP66.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 66,
+        "label": "As introduced",
+        "desc": "A remnant shadow in the Green Dragon Hall",
+        "why": "First appearance",
+        "card": {
+          "ep": 66,
+          "t": 747.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "su-rou",
+    "name": "Su Rou",
+    "zh": "",
+    "aka": [],
+    "wiki": "Su Rou",
+    "ep": 67,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "ally",
+    "intro": "Su Rou of the Daqing Dynasty carries an inheritance that the Fengyun Dynasty and the Three Song Devils want. Lin Dong saves her in EP67, and she joins his group and opens her inheritance's seals to protect him.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 67,
+        "label": "As introduced",
+        "desc": "As first seen in EP 67",
+        "why": "First appearance",
+        "card": {
+          "ep": 67,
+          "t": 674.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "feng-cang",
+    "name": "Feng Cang",
+    "zh": "",
+    "aka": [],
+    "wiki": "Feng Cang",
+    "ep": 67,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "enemy",
+    "intro": "Feng Cang is a Fengyun Dynasty fighter at the peak of Four Yuan Nirvana who hunts Su Rou. Lin Dong kills him in EP68 and takes his Black Dragon Sky-Roaring Seal.",
+    "power": [
+      {
+        "ep": 67,
+        "realm": "Four Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 67,
+        "label": "As introduced",
+        "desc": "As first seen in EP 67",
+        "why": "First appearance",
+        "card": {
+          "ep": 67,
+          "t": 913.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "liu-tong",
+    "name": "Liu Tong",
+    "zh": "刘通",
+    "aka": [],
+    "wiki": "Liu Tong",
+    "ep": 68,
+    "mentionEp": null,
+    "group": "Super Sects",
+    "side": "neutral",
+    "intro": "Liu Tong is a steward of the Yuan Gate who explains the Nirvana Ranking battle on Baichao Mountain. Zheng Zhong appears before him in EP71, and Lin Dong turns down the Yuan Gate in EP72.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 68,
+        "label": "As introduced",
+        "desc": "As first seen in EP 68",
+        "why": "First appearance",
+        "card": {
+          "ep": 68,
+          "t": 654.4
+        }
+      }
+    ]
+  },
+  {
+    "id": "death-spirit-general",
+    "name": "Death Spirit General",
+    "zh": "",
+    "aka": [],
+    "wiki": "Death Spirit General",
+    "ep": 68,
+    "mentionEp": null,
+    "group": "Yimo and Western Xuan",
+    "side": "enemy",
+    "intro": "The Death Spirit General is a Western Xuan Region fighter who attacks Lin Dong's group in EP68. His body is destroyed, but he comes back stronger on Baichao Mountain, and Lin Dong fights him to break the Heaven-Sealing Formation Diagram.",
+    "power": [
+      {
+        "ep": 68,
+        "realm": "Five Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 69,
+        "realm": "Five Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      },
+      {
+        "ep": 71,
+        "realm": "Seven Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 68,
+        "label": "As introduced",
+        "desc": "As first seen in EP 68",
+        "why": "First appearance",
+        "card": {
+          "ep": 68,
+          "t": 934.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "qin-tian",
+    "name": "Qin Tian",
+    "zh": "秦天",
+    "aka": [],
+    "wiki": "Qin Tian",
+    "ep": 68,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "rival",
+    "intro": "Qin Tian of the Tianyuan Dynasty is first in the Heaven tier at Six Yuan Nirvana. He gives the injured Lin Dong medicine, warns him about the Three Song Devils and promises to fight him on Baichao Mountain.",
+    "power": [
+      {
+        "ep": 68,
+        "realm": "Six Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 68,
+        "label": "As introduced",
+        "desc": "As first seen in EP 68",
+        "why": "First appearance",
+        "card": {
+          "ep": 68,
+          "t": 739.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "song-zhen",
+    "name": "Song Zhen",
+    "zh": "",
+    "aka": [
+      "Three Song Devils"
+    ],
+    "wiki": "Song Zhen",
+    "ep": 69,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "enemy",
+    "intro": "Song Zhen is one of the Three Song Devils, Five Yuan Nirvana brothers who come for Su Rou's inheritance. Lin Dong breaks through to Four Yuan Nirvana mid-fight and defeats him by turning his Taotie's devouring back on him.",
+    "power": [
+      {
+        "ep": 69,
+        "realm": "Five Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 69,
+        "label": "As introduced",
+        "desc": "As first seen in EP 69",
+        "why": "First appearance",
+        "card": {
+          "ep": 69,
+          "t": 858.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "song-ba",
+    "name": "Song Ba",
+    "zh": "",
+    "aka": [
+      "Three Song Devils"
+    ],
+    "wiki": "Song Ba",
+    "ep": 69,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "enemy",
+    "intro": "Song Ba is one of the Three Song Devils, Five Yuan Nirvana fighters who come for Su Rou's inheritance in EP69.",
+    "power": [
+      {
+        "ep": 69,
+        "realm": "Five Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 69,
+        "label": "As introduced",
+        "desc": "As first seen in EP 69",
+        "why": "First appearance",
+        "card": {
+          "ep": 69,
+          "t": 858.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "song-que",
+    "name": "Song Que",
+    "zh": "",
+    "aka": [
+      "Three Song Devils"
+    ],
+    "wiki": "Song Que (Sky Devil Empire)",
+    "ep": 69,
+    "mentionEp": null,
+    "group": "Hundred Dynasties",
+    "side": "enemy",
+    "intro": "Song Que is one of the Three Song Devils, Five Yuan Nirvana fighters who come for Su Rou's inheritance in EP69.",
+    "power": [
+      {
+        "ep": 69,
+        "realm": "Five Yuan Nirvana",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 69,
+        "label": "As introduced",
+        "desc": "As first seen in EP 69",
+        "why": "First appearance",
+        "card": {
+          "ep": 69,
+          "t": 858.6
+        }
+      }
+    ]
+  },
+  {
+    "id": "zheng-zhong",
+    "name": "Zheng Zhong",
+    "zh": "郑钟",
+    "aka": [],
+    "wiki": null,
+    "ep": 71,
+    "mentionEp": null,
+    "group": "Yimo and Western Xuan",
+    "side": "enemy",
+    "intro": "Zheng Zhong is a Profound Life expert of the Western Xuan Region whose Heaven-Sealing Formation Diagram seals Baichao Mountain and drags the Ancient Battlefield west. Lin Dong strikes his primordial spirit, and he retreats when Ling Qingzhu arrives in EP72.",
+    "power": [
+      {
+        "ep": 72,
+        "realm": "Profound Life",
+        "detail": "stated on screen",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 71,
+        "label": "As introduced",
+        "desc": "As first seen in EP 71",
+        "why": "First appearance",
+        "card": {
+          "ep": 71,
+          "t": 978.1
+        }
+      }
+    ]
+  }
+]

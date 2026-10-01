@@ -1,0 +1,129 @@
+{
+  "ep": 31,
+  "title": "Yuan Essence Power",
+  "summary": "Hua Zong's father gives him a Symbol Puppet for the Great Desolate Ancient Tablet, and Hua Zong has his men watch Lin Dong's inn. Lin Dong wakes the prayer mat by pouring in Yuan Power and Mental Strength together, and its rare formation fuses them into Yuan Essence Power. Leaving Great Puppet City, he is ambushed by Hua Zong and two Form Creation peak followers who want his halberd, and Little Flame leads the followers away. Hua Zong is a Spirit Symbol Master, and his puppet and Mysterious Earth Armor shrug off Lin Dong's attacks until Yuan Essence Power breaks the armor. When Hua Zong tries to drain Lin Dong's Mental Strength, the technique backfires and kills him. Hua Zong's father swears to cut Lin Dong to pieces.",
+  "events": [
+    "Hua Zong's father gives him a Symbol Puppet fused with his own Mental Strength.",
+    "Lin Dong opens the prayer mat by feeding it Yuan Power and Mental Strength in balance and gains Yuan Essence Power.",
+    "Leaving Great Puppet City, he is ambushed by Hua Zong and two Form Creation peak men.",
+    "Little Flame carries Lin Dong's scent away and draws the followers off.",
+    "Hua Zong fights with his Symbol Puppet, many Soul Treasures and the Mysterious Earth Armor.",
+    "Lin Dong smashes the armor with Yuan Essence Power; Hua Zong's draining technique backfires and he dies.",
+    "Lin Dong is left with two clashing Mental Strengths inside him, and Hua Zong's father vows revenge."
+  ],
+  "introduced": [
+    "Hua Gu",
+    "Symbol Puppet",
+    "Yuan Essence Power"
+  ],
+  "cultivation": "Lin Dong gains Yuan Essence Power, a fusion of Yuan Power and Mental Strength, from the prayer mat's formation. Hua Zong's two followers are Form Creation peak. Lin Dong takes in Hua Zong's gloomy Mental Strength and must refine it.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "hua-zong",
+      "name": "Hua Zong"
+    },
+    {
+      "id": "hua-gu",
+      "name": "Hua Gu",
+      "first": true,
+      "card": 212.5
+    }
+  ],
+  "terms": [
+    [
+      "符傀",
+      "Symbol Puppet",
+      "talisman puppet / rune"
+    ],
+    [
+      "中等符傀",
+      "mid-grade Symbol Puppet",
+      "medium rune puppet"
+    ],
+    [
+      "元精之力",
+      "Yuan Essence Power",
+      "power of essence"
+    ],
+    [
+      "元力",
+      "Yuan Power",
+      "Yuanli / elemental power"
+    ],
+    [
+      "奇门印",
+      "Qimen Seal",
+      "Qimenyin"
+    ],
+    [
+      "冰玄剑",
+      "Mysterious Ice Sword",
+      "Mysterious Ice Sword"
+    ],
+    [
+      "鱼鳞戟 / 蟒鳞戟",
+      "Fish Scale Halberd / Python Scale Halberd",
+      "Fish scale halberd / python scale halberd"
+    ],
+    [
+      "骨灵印",
+      "Bone Spirit Seal",
+      "Bone Seal"
+    ],
+    [
+      "阴傀大法",
+      "Yin Puppet Art",
+      "Yin Puppet Dafa"
+    ],
+    [
+      "蚀精骨印",
+      "Essence-Eroding Bone Seal",
+      "Bone Imprint"
+    ],
+    [
+      "灵符师",
+      "Spirit Symbol Master",
+      "talisman"
+    ],
+    [
+      "护法",
+      "protector",
+      "Dharma protector / guardian"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Yuan Essence Power",
+      "Hua Zong's Mental Strength (absorbed, not yet refined)"
+    ],
+    "losses": [],
+    "places": [
+      "inn in Great Puppet City",
+      "road outside Great Puppet City",
+      "forest hideout"
+    ]
+  },
+  "flags": [
+    "Hua Zong's father is not named here (宗儿, 爹); EP32 (235.4) names him 华骨长老, the wiki's Hua Gu. The opening scene (206-262) has a son receive the puppet for the ancient tablet. It is presumably Hua Zong, since he uses a Symbol Puppet later, but the subtitles do not name him there.",
+    "1091.2 冰玄剑 and 1104.8 '你的精神力 我就收下了': probably Hua Zong's sword and his Mental Strength absorption, with Lin Dong's Myriad Transformation Flame being absorbed (1110.2). The speaker split is unclear.",
+    "624.9 两个造形境大成 is Lin Dong sizing up Hua Zong's two followers; no realm is stated for Hua Zong himself.",
+    "Recap runs to about 175 s."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

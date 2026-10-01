@@ -1,0 +1,94 @@
+{
+  "ep": 22,
+  "title": "Lin Langtian's Pressure",
+  "summary": "Lin Dong wakes at Yuan Dan perfect, and the furious Ling Qingzhu attacks him for disgracing her but stops short of killing him. Qin Shi, Wang Yan and Lin Langtian break in, see that the Nirvana Heart is taken, and Ling Qingzhu turns aside Wang Yan's invitation and leaves. Wang Yan accuses Lin Dong of stealing the Wang Clan's Soul Treasure, and Lin Ke-er says Wang Pan is lying. Lin Langtian learns Lin Dong is from a side branch and orders him to hand the halberd to Wang Yan and apologize to Wang Pan. When Lin Dong refuses, Lin Langtian offers to forget it if Lin Dong can walk out of the main hall under his Qi Creation pressure. Thinking of Qing Tan and his family, Lin Dong crawls and stands through the pressure and makes it out. He swears to repay this a hundredfold, and Lin Langtian admits this ant is not ordinary.",
+  "events": [
+    "Lin Dong finds he is Yuan Dan perfect; Ling Qingzhu attacks him for what happened in the tomb.",
+    "Qin Shi, Wang Yan and Lin Langtian arrive; Ling Qingzhu downplays the fight.",
+    "Ling Qingzhu turns down Wang Yan's invitation and leaves after Lin Dong concedes a rematch.",
+    "Wang Yan and Wang Pan claim the Ancient Heavenly Scales Halberd; Lin Ke-er and others back Lin Dong.",
+    "Lin Langtian orders Lin Dong to give up the halberd and apologize; Lin Dong refuses.",
+    "Lin Langtian dares him to walk out of the main hall under his Qi Creation pressure.",
+    "Lin Dong pushes through the pressure and walks out, vowing revenge."
+  ],
+  "introduced": [
+    "Qi Creation pressure"
+  ],
+  "cultivation": "Lin Dong is now Yuan Dan perfect. Lin Langtian is at Qi Creation.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Yuan Dan perfect",
+      "quote": "我已经是 元丹境大圆满 (238.0)"
+    },
+    {
+      "id": "ling-qingzhu",
+      "name": "Ling Qingzhu"
+    },
+    {
+      "id": "qin-shi",
+      "name": "Qin Shi"
+    },
+    {
+      "id": "wang-yan",
+      "name": "Wang Yan"
+    },
+    {
+      "id": "wang-pan",
+      "name": "Wang Pan"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian",
+      "realm": "Qi Creation",
+      "quote": "这就是真正的造气境吗 (846.0)"
+    },
+    {
+      "id": "lin-ke-er",
+      "name": "Lin Ke-er"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    }
+  ],
+  "terms": [
+    [
+      "气息压迫",
+      "aura pressure",
+      "breath oppression"
+    ],
+    [
+      "分家",
+      "side branch",
+      "branch family"
+    ],
+    [
+      "九天太清宫",
+      "Nine Heavens Taiqing Palace",
+      "Jiutian Taiqing Palace"
+    ]
+  ],
+  "hero": {
+    "realm": "Yuan Dan perfect",
+    "gains": [
+      "Yuan Dan perfect"
+    ],
+    "losses": [],
+    "places": [
+      "tomb master's palace",
+      "main hall of the ancient tomb"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "Recap 141-195 is EP21 material.",
+    "238-243: the subtitles do not mark speakers. 我已经是元丹境大圆满 fits Lin Dong noticing his own breakthrough; the next line, 林动 今天我必取你性命, is Ling Qingzhu's.",
+    "402 someone among the arrivals reads Lin Dong as Yuan Dan perfect.",
+    "487 Wang Yan mentions his elder brother (家兄) without naming him.",
+    "1152-1194 are flashback lines (Qing Tan, Lin Zhentian) from EP13/17/18.",
+    "The arrivals at 374 are Qin Shi, Wang Yan and their followers (秦某 450, 王某 487); Lin Langtian arrives at 552."
+  ]
+}

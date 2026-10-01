@@ -1,0 +1,166 @@
+{
+  "ep": 3,
+  "title": "The Hunting Battle",
+  "summary": "The Hunting Battle begins: each side must take a scale from a Fire Python Tiger, a beast as strong as a Heavenly Yuan fighter. Before it starts, Xie Yingying slaps Qing Tan and tries to take the Yin Pearl necklace Lin Dong gave her, and Lin Dong slaps her back, angering her fiancé Lei Li. In the forest Lin Dong agrees to work with Wu Yun, young master of the Raging Blade Dojo. Wu Yun grabs a scale but falls into Lei Li's trap, and Lei Li kicks him into the tiger's den; Lin Dong jumps in after him. Inside, the dying tigress turns out to be guarding two cubs, and Lin Dong picks the sickly one. Back in the arena Lei Bao stakes Ironwood Manor on a final duel between Lin Dong and Lei Li for the cubs, and Lin Dong accepts.",
+  "events": [
+    "Lin Zhentian meets Luo Cheng, Lei Bao and Xie Qian at the Hunting Battle; the target is the Fire Python Tiger.",
+    "Xie Yingying bullies Qing Tan over her Yin Pearl necklace; Lin Dong slaps her and Lei Li threatens him.",
+    "Wu Yun steps in, then offers Lin Dong an alliance in the forest.",
+    "Lin Dong holds off Earthly Yuan Lei Li while Wu Yun takes a scale.",
+    "Lei Li traps Wu Yun and kicks him into the tiger's cave; Lin Dong jumps after him.",
+    "The tigress dies guarding two cubs; Wu Yun lets Lin Dong choose, and he takes the sickly one.",
+    "They return alive with the cubs; Lei Bao stakes Ironwood Manor on a duel with Lei Li for them."
+  ],
+  "introduced": [
+    "Fire Python Tiger",
+    "Luo Cheng",
+    "Xie Qian",
+    "Wu Yun",
+    "Xie Yingying",
+    "Little Flame (as a cub)",
+    "Yin Pearl",
+    "Ironwood Manor",
+    "Hunting King"
+  ],
+  "cultivation": "Lin Dong reached Tempered Body 9th layer half a month before the hunt. Lei Li is at Earthly Yuan. The Fire Python Tiger is equal to a Heavenly Yuan fighter.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Tempered Body 9th layer",
+      "quote": "虽说半个月前你已经淬体九重了 (216.2)",
+      "first": false
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan",
+      "first": false
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian",
+      "first": false
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao",
+      "first": false
+    },
+    {
+      "id": "luo-cheng",
+      "name": "Luo Cheng",
+      "quote": "这便是狂刀武馆馆长罗城 (259.2)",
+      "first": true,
+      "card": 259.2
+    },
+    {
+      "id": "lei-bao",
+      "name": "Lei Bao",
+      "quote": "雷家家主雷豹 (262.9)",
+      "first": false
+    },
+    {
+      "id": "xie-qian",
+      "name": "Xie Qian",
+      "quote": "谢家家主谢谦 (265.7)",
+      "first": true,
+      "card": 265.7
+    },
+    {
+      "id": "wu-yun",
+      "name": "Wu Yun",
+      "quote": "那是狂刀武馆少馆主吴云 (270.0)",
+      "first": true,
+      "card": 270.0
+    },
+    {
+      "id": "xie-yingying",
+      "name": "Xie Yingying",
+      "quote": "刚才你打了谢盈盈 (491.9)",
+      "first": true,
+      "card": 310.4
+    },
+    {
+      "id": "lei-li",
+      "name": "Lei Li",
+      "realm": "Earthly Yuan",
+      "quote": "听说雷力已经地元境了 (252.5)",
+      "first": false
+    },
+    {
+      "id": "fire-python-tiger",
+      "name": "Fire Python Tiger",
+      "realm": "Heavenly Yuan",
+      "quote": "火蟒虎可是相当于天元境的武者 (200.2)",
+      "first": true,
+      "card": 527.1
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame",
+      "quote": "我要这只 (1194.2)",
+      "look": "a sickly Fire Python Tiger cub",
+      "first": true,
+      "card": 1194.2
+    }
+  ],
+  "terms": [
+    [
+      "火蟒虎",
+      "Fire Python Tiger",
+      "fire python tiger"
+    ],
+    [
+      "狩猎王",
+      "Hunting King",
+      "hunting king"
+    ],
+    [
+      "阴珠",
+      "Yin Pearl",
+      "Yinzhu necklace"
+    ],
+    [
+      "铁木庄",
+      "Ironwood Manor",
+      "Tiemuzhuang"
+    ],
+    [
+      "妖兽",
+      "demon beast",
+      "monster"
+    ],
+    [
+      "罗城",
+      "Luo Cheng",
+      "Luo Cheng, Luocheng"
+    ],
+    [
+      "狂刀武馆",
+      "Raging Blade Dojo",
+      "Crazy Sword Martial Arts, Frenzied Sword Martial Arts School"
+    ]
+  ],
+  "hero": {
+    "realm": "Tempered Body 9th layer",
+    "gains": [
+      "Little Flame (Fire Python Tiger cub)"
+    ],
+    "losses": [],
+    "places": [
+      "Hunting Battle arena",
+      "hunting forest",
+      "Fire Python Tiger's cave",
+      "Hunting Battle arena"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "0-193 is opening and recap.",
+    "Lin Dong's 9th layer is stated as reached half a month earlier (216.2), so the hero realm entering this episode is 9th layer; there is a time skip of months after EP2.",
+    "Lei Bao was first on screen in EP2 (at the Lei house). Introductions at 259-270 are spoken by Lin Zhentian, not caption cards.",
+    "The cub is not yet named Little Flame here (named 小炎 in EP4); it is the cub Lin Dong picks at 1194.2.",
+    "The Fire Python Tiger's realm is an equivalence (相当于天元境), not a human realm."
+  ]
+}

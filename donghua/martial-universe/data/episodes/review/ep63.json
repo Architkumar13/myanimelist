@@ -1,0 +1,102 @@
+{
+  "ep": 63,
+  "title": "The Eight Extremes Sect",
+  "summary": "Spirits chase Lin Dong, Little Flame and Little Mink through the ruins into a hall full of stone statues. Lin Dong hears voices and links his Mental Strength with the statues. He learns that this was the Eight Extremes Sect, whose disciples fought the same monsters seen in the Great Desolate Ancient Tablet. They turned themselves to stone to power the Nirvana Heaven-Burning Array, with one statue as its core. Brute force fails, but the Stone Talisman breaks the core and the array ends. Mu Sha then ambushes them and uses a Spirit Driving Art to control the statues. When Lin Dong presses him, the formation's end wakes the sect's guardian beast, a Primordial Demon Dragon Hound, and Mu Sha seizes control of it.",
+  "events": [
+    "Spirits chase the group into a dead end and then a hall of stone statues.",
+    "Lin Dong's Mental Strength links with the statues and shows him the Eight Extremes Sect's last battle.",
+    "The disciples sacrificed themselves to the Nirvana Heaven-Burning Array.",
+    "The Stone Talisman breaks the array's core statue and frees the sect's disciples.",
+    "Mu Sha ambushes them and drives the statues with a Spirit Driving Art.",
+    "Lin Dong attacks Mu Sha directly, since he can use only one Mental Strength skill at a time.",
+    "A Primordial Demon Dragon Hound, the sect's guardian beast, wakes and Mu Sha takes control of it."
+  ],
+  "introduced": [
+    "Eight Extremes Sect",
+    "Nirvana Heaven-Burning Array",
+    "Spirit Driving Art",
+    "Primordial Demon Dragon Hound"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "mu-sha",
+      "name": "Mu Sha"
+    },
+    {
+      "id": "demon-dragon-hound",
+      "name": "Primordial Demon Dragon Hound",
+      "first": true,
+      "card": 1203.1
+    }
+  ],
+  "terms": [
+    [
+      "八极宗",
+      "Eight Extremes Sect",
+      "Bajiquan Sect / Eight Extremes Sect"
+    ],
+    [
+      "大荒古碑",
+      "Great Desolate Ancient Tablet",
+      "Great Wilderness Ancient Stele"
+    ],
+    [
+      "涅槃焚天阵",
+      "Nirvana Heaven-Burning Array",
+      "Nirvana Burning Heaven Array"
+    ],
+    [
+      "异魔",
+      "Yimo",
+      "demons"
+    ],
+    [
+      "驱灵术",
+      "Spirit Driving Art",
+      "spirit-exorcising technique"
+    ],
+    [
+      "洪荒魔龙犬",
+      "Primordial Demon Dragon Hound",
+      "Primordial Demonic Dragon Hound"
+    ],
+    [
+      "残魂",
+      "remnant soul",
+      "remnant soul"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [],
+    "losses": [],
+    "places": [
+      "Tiangang Alliance sect ruins",
+      "hall of stone statues (Eight Extremes Sect)"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "Recap runs to about 230 s.",
+    "Little Mink calls Little Flame 蠢虎 'stupid tiger' (482.7), so Little Flame is a tiger; Little Flame calls Lin Dong 大哥 and Little Mink 二哥.",
+    "The chant at 511-530 names the foe as 异魔 (official 'demons'); used as Yimo.",
+    "Dragon Hound card 1203.1: the line naming it, not a caption; clock ep63.zh/en.srt.",
+    "No realm is stated for Lin Dong."
+  ]
+}

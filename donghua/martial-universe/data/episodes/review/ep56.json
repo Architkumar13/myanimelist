@@ -1,0 +1,106 @@
+{
+  "ep": 56,
+  "title": "A Heaven Symbol Master",
+  "summary": "Lin Dong smashes the statue and takes the real Ancient Secret Key, while the Demon Rock Dynasty captures Mo Ling outside. The key carries Lin Dong into a separate space, where Mu Hongling reveals her hidden strength and admits she used him. She subdues the Blood Spirit Puppet and Little Flame and takes the key, but the key sends her away. Lin Dong then refines the Heavenly Symbol Spirit Tree, and the remnant soul of the key's former owner tries to take his body. Little Mink tears it apart with devouring power, and Lin Dong becomes a Heaven Symbol Master. Little Mink reminds him of his promise to help restore Little Mink's true body.",
+  "events": [
+    "Lin Dong and Little Flame break the statue and get the real Ancient Secret Key.",
+    "Mu Hongling attacks, and the Demon Rock Dynasty captures Mo Ling.",
+    "The key carries Lin Dong into a separate space where Mu Hongling confronts him.",
+    "Mu Hongling admits using him, beats the Blood Spirit Puppet and Little Flame, and takes the key.",
+    "The key absorbs Lin Dong's Yuan Power and sends Mu Hongling away.",
+    "Lin Dong refines the Heavenly Symbol Spirit Tree; the old remnant soul tries to seize his body.",
+    "Little Mink destroys the remnant soul with devouring power, and Lin Dong becomes a Heaven Symbol Master."
+  ],
+  "introduced": [
+    "independent space",
+    "remnant soul of the key's owner"
+  ],
+  "cultivation": "Lin Dong refines the Heavenly Symbol Spirit Tree and becomes a Heaven Symbol Master.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "mu-hongling",
+      "name": "Mu Hongling"
+    },
+    {
+      "id": "chen-mu",
+      "name": "Chen Mu"
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling"
+    }
+  ],
+  "terms": [
+    [
+      "精元之力",
+      "Yuan Essence Power",
+      "power of essence"
+    ],
+    [
+      "独立的空间",
+      "independent space",
+      "independent space"
+    ],
+    [
+      "精神空间",
+      "spiritual space",
+      "spiritual space"
+    ],
+    [
+      "残魂",
+      "remnant soul",
+      "soul"
+    ],
+    [
+      "吞噬之道",
+      "Way of Devouring",
+      "The Way of Devouring"
+    ],
+    [
+      "天妖貂一族",
+      "Celestial Demon Marten clan",
+      "Tian Yao Diao clan"
+    ],
+    [
+      "真身",
+      "true body",
+      "true body"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Ancient Secret Key",
+      "Heaven Symbol Master"
+    ],
+    "losses": [
+      "Heavenly Symbol Spirit Tree (refined)"
+    ],
+    "places": [
+      "statue hall, Leiyan Valley",
+      "independent space inside the key"
+    ]
+  },
+  "flags": [
+    "Recap runs about 169-217 s.",
+    "407.2 精元之力 (reversed order of 元精之力) taken as Yuan Essence Power.",
+    "Mu Hongling's realm is not stated, only that she hid her cultivation (642.4).",
+    "Lin Dong's seal rank as Heaven Symbol Master is not given (1305.1)."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

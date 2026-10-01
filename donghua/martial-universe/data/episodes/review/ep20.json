@@ -1,0 +1,92 @@
+{
+  "ep": 20,
+  "title": "Symbol Puppets and the Sea of Fire",
+  "summary": "Little Mink leads Lin Dong and Little Flame through a maze formation whose stone walls close in. They escape by running straight at what looks like a dead end. Beyond it lie wrecked low-grade Symbol Puppets and an icy lake, and Lin Dong uses Mental Strength to take the Extreme Yin Dragon Saliva for Qing Tan. A working low-grade Symbol Puppet attacks, and Lin Dong destroys it by striking the symbol formation on its body with Myriad Transformation Flame and the Mysterious Ice Swords. He then binds an intact mid-grade Symbol Puppet, said to rival the three Creation realms, though each strike costs 2,000 Pure Yuan Pills. Leaving Little Flame behind, Lin Dong and Little Mink cross a sea of fire full of fire dragons and jump into the lava, which turns out to be an illusion. They pass Lin Langtian trapped in the formation and reach the tomb master's palace and the Nirvana Heart, where a voice warns Lin Dong off.",
+  "events": [
+    "The maze formation's walls close in; Lin Dong escapes by trusting the path that looks false.",
+    "He finds broken low-grade Symbol Puppets and learns that Mental Strength can make one obey.",
+    "Lin Dong collects the Extreme Yin Dragon Saliva from an icy lake with Mental Strength.",
+    "A low-grade Symbol Puppet attacks; he destroys it by hitting its symbol formation.",
+    "He binds an intact mid-grade Symbol Puppet that runs on 2,000 Pure Yuan Pills per strike.",
+    "In the sea of fire, Lin Dong kills fire dragons with Myriad Transformation Flame and the halberd, then jumps into the illusory lava.",
+    "He sees Lin Langtian stuck in the formation and reaches the tomb master's palace and the Nirvana Heart."
+  ],
+  "introduced": [
+    "Symbol Puppet (low-grade, mid-grade)",
+    "maze formation",
+    "sea of fire formation"
+  ],
+  "cultivation": "A low-grade Symbol Puppet can easily kill a Yuan Dan perfect fighter. A mid-grade Symbol Puppet rivals the three Creation realms, and one strike equals a Form Creation expert's.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian"
+    }
+  ],
+  "terms": [
+    [
+      "法阵",
+      "formation",
+      "array"
+    ],
+    [
+      "阵眼",
+      "formation eye",
+      "eye of the array"
+    ],
+    [
+      "符傀",
+      "Symbol Puppet",
+      "rune puppet"
+    ],
+    [
+      "下等符傀 / 中等符傀",
+      "low-grade / mid-grade Symbol Puppet",
+      "lower / intermediate rune puppet"
+    ],
+    [
+      "火海大阵",
+      "sea of fire formation",
+      "sea of fire array"
+    ],
+    [
+      "火龙",
+      "fire dragon",
+      "fire dragon"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Extreme Yin Dragon Saliva",
+      "mid-grade Symbol Puppet"
+    ],
+    "losses": [],
+    "places": [
+      "ancient tomb: maze formation",
+      "ancient tomb: icy lake chamber",
+      "ancient tomb: sea of fire",
+      "tomb master's palace"
+    ]
+  },
+  "flags": [
+    "Recap 143-192 is EP19 material.",
+    "1092 Little Mink tells Lin Dong to channel Yuan Power into the halberd; he has not learned its technique yet (603).",
+    "1375 the closing line 这里不是你能来的地方 sets up Ling Qingzhu in EP21; the speaker is not shown here.",
+    "Lin Dong's realm is not stated; hero.realm null."
+  ],
+  "changes": []
+}

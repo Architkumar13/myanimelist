@@ -1,0 +1,148 @@
+{
+  "ep": 71,
+  "title": "The Western Xuan Plot",
+  "summary": "Lin Langtian burns his primordial spirit to fuel his martial spirit, but Lin Dong blocks him with the Green Dragon Immovable Bell. Lin Dong taunts him into striking the bell, using that force to summon the Green Dragon's spirit and take dragon form. Remembering how Lin Langtian crippled his father, Lin Dong overwhelms him. Losing, Lin Langtian crushes a token and triggers a hidden formation that seals Baichao Mountain in a Space Prison. Zheng Zhong of the Western Xuan Region appears before Liu Tong of the Yuan Gate. His Heaven-Sealing Formation Diagram is pulling the whole Ancient Battlefield toward the Western Xuan Region. The Death Spirit General returns stronger, kills three Five Yuan Nirvana fighters at once, and orders everyone to submit as pill slaves.",
+  "events": [
+    "Lin Langtian sacrifices his primordial spirit to power his martial spirit.",
+    "Lin Dong blocks with the Green Dragon Immovable Bell and goads Lin Langtian into ringing it.",
+    "The bell calls the Green Dragon spirit, and Lin Dong takes dragon form.",
+    "Lin Dong overwhelms Lin Langtian, remembering his crippled father.",
+    "Lin Langtian crushes a token and sets off a hidden formation over the mountain.",
+    "Zheng Zhong of the Western Xuan Region reveals a plan to move the Ancient Battlefield west.",
+    "The Heaven-Sealing Formation Diagram cuts the mountain off from the outside.",
+    "The revived Death Spirit General kills three Five Yuan Nirvana fighters and demands surrender."
+  ],
+  "introduced": [
+    "Zheng Zhong",
+    "Heaven-Sealing Formation Diagram",
+    "Space Prison",
+    "Pure Yuan Treasure"
+  ],
+  "cultivation": "The revived Death Spirit General is at least Seven Yuan Nirvana. One of the fighters who attacks the Western Xuan side is Six Yuan Nirvana.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian"
+    },
+    {
+      "id": "qin-tian",
+      "name": "Qin Tian"
+    },
+    {
+      "id": "liu-tong",
+      "name": "Liu Tong",
+      "card": 978.1
+    },
+    {
+      "id": "zheng-zhong",
+      "name": "Zheng Zhong",
+      "first": true,
+      "card": 978.1
+    },
+    {
+      "id": "death-spirit-general",
+      "name": "Death Spirit General",
+      "realm": "Seven Yuan Nirvana",
+      "quote": "他至少 是七元涅躲境 (1189.7-1190.4)"
+    }
+  ],
+  "terms": [
+    [
+      "元神祭祀",
+      "Primordial Spirit Sacrifice",
+      "Yuan Shen Sacrifice"
+    ],
+    [
+      "青龙盾",
+      "Green Dragon Shield",
+      "Azure Dragon Shield"
+    ],
+    [
+      "青龙不动钟",
+      "Green Dragon Immovable Bell",
+      "Azure Dragon Immovable Bell"
+    ],
+    [
+      "化龙决",
+      "Dragon Transformation (Green Heaven Materialized Dragon Skill)",
+      "Dragon Transformation Technique"
+    ],
+    [
+      "龙灵",
+      "dragon spirit",
+      "Dragon Spirit"
+    ],
+    [
+      "空间囚牢",
+      "Space Prison",
+      "Space Prison"
+    ],
+    [
+      "元门执事",
+      "Yuan Gate steward",
+      "Yuanmen Steward"
+    ],
+    [
+      "郑钟",
+      "Zheng Zhong",
+      "Zheng Zhong"
+    ],
+    [
+      "西玄域",
+      "Western Xuan Region",
+      "Western Gen area / Western Xuan Domain"
+    ],
+    [
+      "封天阵图",
+      "Heaven-Sealing Formation Diagram",
+      "Heaven-Sealing Formation Diagram"
+    ],
+    [
+      "纯元至宝",
+      "Pure Yuan Treasure",
+      "Pure Yuan Treasure"
+    ],
+    [
+      "元神传信",
+      "primordial spirit message",
+      "Spiritual Communication"
+    ],
+    [
+      "丹奴",
+      "pill slave",
+      "Danu"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [],
+    "losses": [],
+    "places": [
+      "Baichao Mountain summit"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "ep71.zh.srt exists (hard-sub OCR with typos: 涅躲 = 涅槃, 馨餐兽 = 饕餮兽). align_subs uses the zh/en clock; the id track matches it.",
+    "Zheng Zhong card 978.1 is an id caption [Zheng Zhong, Wilayah Xuan Barat]; the same cue names Liu Tong (元门执事刘通) as he speaks, so both share 978.1.",
+    "Lin Langtian's fate after the blast (899 要自爆) is not shown; he says everyone will be buried with him.",
+    "1138.3 六元涅槃境 is said as someone attacks the Western Xuan side; probably Qin Tian (Six Yuan in EP68) but not named, so not recorded as his realm.",
+    "1165.8 是他 then the Death Spirit General speaks; 1207 says he was revived from a wisp of primordial spirit. His Seven Yuan Nirvana is an onlooker's estimate ('at least').",
+    "Lin Dong's realm is not restated."
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "ep": 52,
+  "title": "The Second Wall",
+  "summary": "On the second wall Lin Dong and Little Flame charge out into the beast tide while Xia Huang's men hold back. A huge pressure then rolls in from a demon beast of at least Nine Yuan Nirvana, and a swarm of insects drives the defenders back. Xia Huang's men try to take Lin Dong's Soul Treasure, and he fights through them. An Earth Demon Scorpion at Manifestation peak attacks the wall. Lin Dong's Blood Spirit Puppet goes wild on the evil qi, so he recalls it with the Stone Talisman and kills the scorpion with the Great Desolate Heaven-Imprisoning Finger. Ling Qingzhu kills the Nine Yuan Nirvana beast and finds that someone was driving it with a seal. When the tide ends, the Holy Light Dynasty strikes down Du Yun and Man Shan to take the Nirvana Pills, and Lin Dong steps up to fight Jin Mu.",
+  "events": [
+    "Lin Dong and Little Flame charge into the beasts outside the wall.",
+    "A Nine Yuan Nirvana beast's pressure is felt, and an insect swarm breaks the first wall.",
+    "Xia Huang's men try to seize Lin Dong's Soul Treasure; he fights them off and returns to the second wall.",
+    "The Blood Spirit Puppet runs wild absorbing evil qi; Lin Dong takes it back with the Stone Talisman.",
+    "Lin Dong kills the Earth Demon Scorpion with the Great Desolate Heaven-Imprisoning Finger, and Little Flame eats its Nirvana Pill.",
+    "Ling Qingzhu kills the Nine Yuan Nirvana beast and records the seal used to drive it.",
+    "The Holy Light Dynasty attacks Du Yun and Man Shan for the spoils, and Lin Dong faces Jin Mu."
+  ],
+  "introduced": [
+    "Earth Demon Scorpion",
+    "Blood Spirit Puppet",
+    "Holy Light Shield",
+    "Holy Light Seal"
+  ],
+  "cultivation": "The beast behind the tide is at least Nine Yuan Nirvana. The Earth Demon Scorpion is at Manifestation peak.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling"
+    },
+    {
+      "id": "xia-huang",
+      "name": "Xia Huang"
+    },
+    {
+      "id": "mu-hongling",
+      "name": "Mu Hongling"
+    },
+    {
+      "id": "du-yun",
+      "name": "Du Yun"
+    },
+    {
+      "id": "man-shan",
+      "name": "Man Shan"
+    },
+    {
+      "id": "jin-mu",
+      "name": "Jin Mu"
+    },
+    {
+      "id": "ling-qingzhu",
+      "name": "Ling Qingzhu"
+    }
+  ],
+  "terms": [
+    [
+      "九元涅槃",
+      "Nine Yuan Nirvana",
+      "Nine Yuan Nirvana"
+    ],
+    [
+      "地魔蝎",
+      "Earth Demon Scorpion",
+      "scorpion"
+    ],
+    [
+      "血灵傀",
+      "Blood Spirit Puppet",
+      "Blood Spirit Puppet"
+    ],
+    [
+      "石符",
+      "Stone Talisman",
+      "stone talisman"
+    ],
+    [
+      "圣光印",
+      "Holy Light Seal",
+      "Holy Light Seal"
+    ],
+    [
+      "圣光鼓",
+      "Holy Light Drum",
+      "Holy Light Drum"
+    ],
+    [
+      "圣光盾",
+      "Holy Light Shield",
+      "Holy Light Shield"
+    ],
+    [
+      "紫影九破",
+      "Purple Shadow Nine Breaks",
+      "Purple Shadow Jiupo"
+    ],
+    [
+      "少宫主",
+      "young palace mistress",
+      "young palace master"
+    ],
+    [
+      "法印",
+      "seal",
+      "seal"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Earth Demon Scorpion's Nirvana Pill (for Little Flame)",
+      "Nirvana Pills from the tide"
+    ],
+    "losses": [],
+    "places": [
+      "Yang City, second wall",
+      "outside the walls",
+      "Yang City"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "From this episode the English track is merged across cues and offset by about one line; meaning taken from the Chinese track.",
+    "Recap runs about 169-215 s.",
+    "Xia Huang's end is unclear: he chases Lin Dong (683.8-689.6) and is not heard from again. The wiki says Lin Dong kills him.",
+    "862.2 紫影九破: user not clear (possibly Mo Ling).",
+    "The 少宫主 who kills the Nine Yuan Nirvana beast (956-1109) is unnamed here; EP53 (973.6) confirms she is Ling Qingzhu.",
+    "Du Yun and Man Shan are struck down by the Holy Light Dynasty (1161-1199); 1250.3 '杜云和蛮山的仇一定要报' could mean injured or killed. The wiki has them alive later.",
+    "Where the Blood Spirit Puppet came from is not said here."
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "ep": 57,
+  "title": "The Prisoner Exchange",
+  "summary": "Lin Dong finds Mo Ling's sword with a message: bring the Ancient Secret Key to Demon Rock City within five days or Mo Ling dies. Chen Mu sends Li Pan to hunt a Mighty Earthsplitting Tiger in the Demon Forest, and Lin Dong traps Li Pan's group behind a mental barrier only a Heaven Symbol Master could make. He offers to swap them for Mo Ling. At the exchange Chen Mu offers him a guest elder post for the key, then attacks once Mo Ling is free, and Lin Dong beats him with the Wind Thunder Seal. Then Shi Xuan, a One Yuan Nirvana expert who had hidden his aura, steps in. Lin Dong fights him with the Saint Elephant Sky Crumbling Tackle and the Demon Ape Transformation, but Shi Xuan proves stronger.",
+  "events": [
+    "Lin Dong finds Mo Ling's sword and the Demon Rock Dynasty's demand.",
+    "Mo Ling refuses to reveal his group's camp; Chen Mu sends Li Pan after a Mighty Earthsplitting Tiger.",
+    "Lin Dong seals Li Pan's group behind a mental barrier and captures them.",
+    "A freed disciple carries Lin Dong's offer to swap Li Pan's group for Mo Ling.",
+    "Chen Mu brings Mo Ling without telling Shi Xuan, who is in seclusion.",
+    "After the swap Chen Mu attacks, and Lin Dong beats him with the Wind Thunder Seal.",
+    "Shi Xuan, One Yuan Nirvana, reveals himself and overpowers Lin Dong."
+  ],
+  "introduced": [
+    "Shi Xuan",
+    "Demon Rock City",
+    "Demon Forest",
+    "Mighty Earthsplitting Tiger",
+    "Wind Thunder Seal",
+    "mental barrier"
+  ],
+  "cultivation": "Shi Xuan is One Yuan Nirvana. Lin Dong is now a Heaven Symbol Master and can make a mental barrier.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling"
+    },
+    {
+      "id": "chen-mu",
+      "name": "Chen Mu"
+    },
+    {
+      "id": "li-pan",
+      "name": "Li Pan"
+    },
+    {
+      "id": "shi-xuan",
+      "name": "Shi Xuan",
+      "realm": "One Yuan Nirvana",
+      "quote": "这是 一元涅槃强者 (1142.9-1144.5)",
+      "first": true,
+      "card": 1132.8
+    }
+  ],
+  "terms": [
+    [
+      "魔岩城",
+      "Moyan City",
+      "Demon Rock City"
+    ],
+    [
+      "魔妖林",
+      "Demon Forest",
+      "Demonic Forest"
+    ],
+    [
+      "大力裂地虎",
+      "Mighty Earthsplitting Tiger",
+      "powerful earth-cracking tiger"
+    ],
+    [
+      "精神壁垒",
+      "mental barrier",
+      "mental barrier / spiritual barrier"
+    ],
+    [
+      "客卿",
+      "guest elder",
+      "guest"
+    ],
+    [
+      "魔像无极斩",
+      "Demon Statue Limitless Slash",
+      "Demonic Image Wuji Slashing"
+    ],
+    [
+      "风雷印",
+      "Wind Thunder Seal",
+      "Thunder Seal / Wind Thunder Seal"
+    ],
+    [
+      "魔印镇山拳",
+      "Demon Seal Mountain-Suppressing Fist",
+      "Demon Seal to suppress the mountain fist"
+    ],
+    [
+      "闭关",
+      "seclusion",
+      "retreat"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Wind Thunder Seal",
+      "Mo Ling freed"
+    ],
+    "losses": [],
+    "places": [
+      "Leiyan Valley",
+      "Demon Forest",
+      "exchange site near Demon Rock City"
+    ]
+  },
+  "flags": [
+    "Recap runs about 169-222 s.",
+    "Card 1132.8 for Shi Xuan is a Moyan disciple calling him 石轩师兄 as he appears; no name card.",
+    "887.7-889.2 '什么 还给你' and 898.1 '那小子的精神力': Chen Mu's attack seems to be turned back on him; unclear.",
+    "1004.9 魔像无极斩 is presumably Chen Mu's; 1273.9 魔印镇山拳 is presumably Shi Xuan's.",
+    "Wind Thunder Seal first appears here; the episode does not say where Lin Dong learned it."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

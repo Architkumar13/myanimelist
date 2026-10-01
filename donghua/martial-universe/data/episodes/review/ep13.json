@@ -1,0 +1,187 @@
+{
+  "ep": 13,
+  "title": "Ambush on the Road and the Tower Battle Challenge",
+  "summary": "Masked raiders ambush a Lin Family convoy carrying Yang Yuan Stones from Ironwood Manor, and Lin Dong holds them off with the Qimen Seal while Lin Hong leads everyone home. Lin Zhentian decides the family is being targeted and halts the shipments, since the Lin Family is still new and weak in Yan City. Lin Dong fails again to become a 3rd Seal Symbol Master, and Qing Tan hides that her hands are cold again. Master Yan asks him to join Zi Yue in the Tower Battle, because the Yan City Symbol Master Guild has lost the Symbol Master Tower contest to Sky Fire City twice in a row. At the guild, Sky Fire City disciple Cao Zhu humiliates the local symbol masters, and Lin Dong beats him when his Destiny Symbol swallows Cao Zhu's mental attacks. Lin Dong keeps Cao Zhu's Mysterious Ice Swords as a prize and finds his own Mental Strength has grown.",
+  "events": [
+    "Raiders ambush the Lin Family's Yang Yuan Stone convoy; Lin Dong covers Lin Hong's retreat with the Qimen Seal.",
+    "Lin Zhentian suspends shipments from Ironwood Manor and tells the family to keep a low profile.",
+    "Lin Dong fails to reach 3rd Seal Symbol Master; Qing Tan's hands are cold, but she denies the cold poison is back.",
+    "Zi Yue tests Lin Dong at the Symbol Master Guild before Master Yan stops the fight.",
+    "Master Yan explains the Tower Battle against Sky Fire City and the Qi-grade Secret Spirit Skill said to lie on the tower's eighth floor.",
+    "Sky Fire City's master sends Cao Zhu ahead to probe Yan City's young symbol masters, with Zhou Tong as his main hope.",
+    "Lin Dong defeats Cao Zhu; his Destiny Symbol absorbs Cao Zhu's mental power, and he takes the Mysterious Ice Swords.",
+    "Cao Zhu reports back to his master and to Zhou Tong."
+  ],
+  "introduced": [
+    "Cao Zhu",
+    "Zhou Tong",
+    "Han Yun (on screen, not yet named)",
+    "Sky Fire City",
+    "Symbol Master Tower",
+    "Tower Battle",
+    "Ironwood Manor",
+    "Mysterious Ice Sword",
+    "Destiny Symbol"
+  ],
+  "cultivation": "Lin Dong is a 2nd Seal Symbol Master and fails again to become a 3rd Seal Symbol Master. Zhou Tong is at the peak of 2nd Seal Symbol Master. Cao Zhu is a 2nd Seal Symbol Master.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "quote": "你已是二印符师 (870.6)"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "lin-hong",
+      "name": "Lin Hong"
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian"
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao"
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan"
+    },
+    {
+      "id": "master-yan",
+      "name": "Master Yan"
+    },
+    {
+      "id": "zi-yue",
+      "name": "Zi Yue"
+    },
+    {
+      "id": "han-yun",
+      "name": "Han Yun",
+      "first": true,
+      "card": 794.8
+    },
+    {
+      "id": "cao-zhu",
+      "name": "Cao Zhu",
+      "first": true,
+      "card": 802.2
+    },
+    {
+      "id": "zhou-tong",
+      "name": "Zhou Tong",
+      "first": true,
+      "card": 828.8
+    }
+  ],
+  "terms": [
+    [
+      "奇门印",
+      "Qimen Seal",
+      "Qimenyin"
+    ],
+    [
+      "阳元石",
+      "Yang Yuan Stone",
+      "Yangyuan stone"
+    ],
+    [
+      "铁木庄",
+      "Ironwood Manor",
+      "Ironwood"
+    ],
+    [
+      "符师会",
+      "Symbol Master Guild",
+      "Talisman Society / talisman club"
+    ],
+    [
+      "塔斗",
+      "Tower Battle",
+      "tower bucket / tower fight"
+    ],
+    [
+      "符师塔",
+      "Symbol Master Tower",
+      "Rune Tower / Talisman Tower"
+    ],
+    [
+      "天火城",
+      "Sky Fire City",
+      "Sky Fire City / Skyfire City / Tianhuo City"
+    ],
+    [
+      "化神针",
+      "Materialized Spirit Needle",
+      "Huashen Needle"
+    ],
+    [
+      "精神护盾",
+      "Mental Shield",
+      "Spiritual Shield"
+    ],
+    [
+      "碎元梭",
+      "Yuan-Shattering Shuttle",
+      "broken element shuttle"
+    ],
+    [
+      "气级精神秘技",
+      "Qi-grade Secret Spirit Skill",
+      "air level magic"
+    ],
+    [
+      "冰玄剑",
+      "Mysterious Ice Sword",
+      "Mysterious Ice Sword / Bingxuan Sword"
+    ],
+    [
+      "本命灵符",
+      "Destiny Symbol",
+      "natal talisman"
+    ],
+    [
+      "寒毒",
+      "cold poison",
+      "cold poison"
+    ],
+    [
+      "符师",
+      "Symbol Master",
+      "talisman master"
+    ],
+    [
+      "精神力",
+      "Mental Strength",
+      "mental strength / spiritual power"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Mysterious Ice Swords (three, taken from Cao Zhu)",
+      "Mental Strength absorbed from Cao Zhu"
+    ],
+    "losses": [],
+    "places": [
+      "road from Ironwood Manor",
+      "Lin Family residence, Yan City",
+      "Symbol Master Guild, Yan City"
+    ]
+  },
+  "flags": [
+    "No recap at the start; the episode opens straight on the ambush (166-340).",
+    "No on-screen name cards in the subtitle tracks. Card times are lines where the person is addressed or speaking: Han Yun 794.8 (Sky Fire City's master speaking, named only in EP14 at 473), Cao Zhu 802.2 (addressed), Zhou Tong 828.8 (addressed).",
+    "Zi Yue is 紫月 in the subtitles; names.txt has 籽月.",
+    "1264.7 mentions Lin Dong earlier beat 魏通 (Wei Tong); not on screen here.",
+    "Ending 1365-1373: someone says 周通 你 and then 大师兄 你没事吧; it is unclear whether Zhou Tong is hurt or is the one acting. Left out of the summary.",
+    "Lin Dong's Yuan realm is not stated this episode, so hero.realm is null."
+  ],
+  "changes": [
+    "Wiki episode pages for Season 2 are empty stubs; everything here comes from the subtitles."
+  ]
+}

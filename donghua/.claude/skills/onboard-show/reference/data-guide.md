@@ -250,3 +250,7 @@ Render with `PY tools/portraits.py <id> [<char> …]` and look at every result.
 "tgr": { "dir": "the-great-ruler", "index": [{"url": "https://animekhor.org/anime/<s1>/", "offset": 0},
                                              {"url": "https://animekhor.org/anime/<s2>/", "offset": 52}], "subs": "ocr" }
 ```
+
+Optional `"youtube": "data/episodes/youtube.json"` (a path inside the show folder to `{"<episode>": "<video id>"}`):
+when the studio posts official uploads, `animekhor.py` takes subtitles (`en` plus `zh` where present) and stills from
+them, and falls back to the AnimeKhor copy for episodes not listed. Martial Universe (`mu`) is the example.

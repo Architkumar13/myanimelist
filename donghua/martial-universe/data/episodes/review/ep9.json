@@ -1,0 +1,178 @@
+{
+  "ep": 9,
+  "title": "The Celestial Dan Pool Contest",
+  "summary": "Little Mink sets Lin Dong on the Mental Grindstone, which crushes and rebuilds his Mental Strength, and he lasts ten turns on the first try. On contest day Lin Dong meets Liu Yi and Xia Wanjin, the young-looking head of the Thousand Gold Association, who is at Yuan Dan perfect like Blood Wolf Gang leader Yue Shan. Zi Yue beats Yue Ling in the first round, but Yue Feng's Heavy Shadow Spear defeats Liu Yi. In the deciding round Lin Dong faces Jiang Li, a hired fighter at Heavenly Yuan late. Jiang Li uses the Blood Transformation Art to reach Yuan Dan for a short time. Lin Dong answers with Little Mink's Spiral Wave and wins the pool for the Thousand Gold Association.",
+  "events": [
+    "Lin Dong survives the Mental Grindstone ten times; Little Mink promises him the Spiral Wave.",
+    "Twenty days before the Wei Tong duel, he meets Liu Yi and Xia Wanjin at the Thousand Gold Association.",
+    "At the pool, Yue Shan of the Blood Wolf Gang brings Yue Ling, Yue Feng and the hired Jiang Li.",
+    "Zi Yue defeats Yue Ling with mental strength.",
+    "Yue Feng beats Liu Yi with the Heavy Shadow Spear at its fourth level.",
+    "Jiang Li uses the Blood Transformation Art to reach Yuan Dan.",
+    "Lin Dong defeats him with the Spiral Wave, and Yue Shan accepts the loss."
+  ],
+  "introduced": [
+    "Mental Grindstone",
+    "Spiral Wave",
+    "Liu Yi",
+    "Xia Wanjin",
+    "Yue Shan",
+    "Yue Ling",
+    "Yue Feng",
+    "Jiang Li",
+    "Heavy Shadow Spear",
+    "Blood Transformation Art"
+  ],
+  "cultivation": "Xia Wanjin and Yue Shan are at Yuan Dan perfect. Zi Yue, Liu Yi, Yue Ling, Yue Feng and Jiang Li are at Heavenly Yuan late. Jiang Li briefly reaches Yuan Dan with the Blood Transformation Art. Lin Dong's mental strength is said to match a 2nd Seal Symbol Master.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "first": false
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink",
+      "first": false
+    },
+    {
+      "id": "xuan-su",
+      "name": "Xuan Su",
+      "first": false
+    },
+    {
+      "id": "zi-yue",
+      "name": "Zi Yue",
+      "realm": "Heavenly Yuan late",
+      "quote": "紫月和柳毅都是天元境后期的高手 (582.0)",
+      "first": false
+    },
+    {
+      "id": "liu-yi",
+      "name": "Liu Yi",
+      "realm": "Heavenly Yuan late",
+      "quote": "在下柳毅 (451.2); 紫月和柳毅都是天元境后期的高手 (582.0)",
+      "first": true,
+      "card": 451.2
+    },
+    {
+      "id": "xia-wanjin",
+      "name": "Xia Wanjin",
+      "realm": "Yuan Dan perfect",
+      "quote": "夏万金会长 (519.2); 可有着元丹境大圆满的实力呢 (527.6)",
+      "first": true,
+      "card": 519.2
+    },
+    {
+      "id": "yue-shan",
+      "name": "Yue Shan",
+      "realm": "Yuan Dan perfect",
+      "quote": "我岳山 (663.0); 都是元丹境大圆满的高手 (679.3)",
+      "first": true,
+      "card": 663.0
+    },
+    {
+      "id": "yue-ling",
+      "name": "Yue Ling",
+      "realm": "Heavenly Yuan late",
+      "quote": "岳灵岳风 也都是天元境后期的实力 (690.4-691.6)",
+      "first": true,
+      "card": 732.8
+    },
+    {
+      "id": "yue-feng",
+      "name": "Yue Feng",
+      "realm": "Heavenly Yuan late",
+      "quote": "岳灵岳风 也都是天元境后期的实力 (690.4-691.6)",
+      "first": true,
+      "card": 820.1
+    },
+    {
+      "id": "jiang-li",
+      "name": "Jiang Li",
+      "realm": "Heavenly Yuan late",
+      "quote": "天元境后期 (1024.5); 他的实力将暂时提升至小元丹境了 (1136.8)",
+      "first": true,
+      "card": 937.5
+    }
+  ],
+  "terms": [
+    [
+      "精神磨盘",
+      "Mental Grindstone",
+      "mental grinder"
+    ],
+    [
+      "尖螺波",
+      "Spiral Wave",
+      "Spiral wave"
+    ],
+    [
+      "精级精神秘籍",
+      "elite-grade mental secret art",
+      "elite secret book"
+    ],
+    [
+      "夏万金",
+      "Xia Wanjin",
+      "President Xia Wanjin"
+    ],
+    [
+      "岳山 / 岳灵 / 岳风",
+      "Yue Shan / Yue Ling / Yue Feng",
+      "Yue Shan / Yue Ling / Yue Feng"
+    ],
+    [
+      "柳毅",
+      "Liu Yi",
+      "Liu Yi"
+    ],
+    [
+      "姜立",
+      "Jiang Li",
+      "Jiang Li"
+    ],
+    [
+      "重影枪",
+      "Heavy Shadow Spear",
+      "ghost gun"
+    ],
+    [
+      "化血归元功",
+      "Blood Transformation Art",
+      "Transforming blood and returning to the original source"
+    ],
+    [
+      "化血手",
+      "Blood Transformation Hand",
+      "bloody hand"
+    ],
+    [
+      "元丹境大圆满",
+      "Yuan Dan perfect",
+      "Yuan Dan Realm Dzogchen"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Spiral Wave",
+      "Mental Grindstone training"
+    ],
+    "losses": [],
+    "places": [
+      "Stone Talisman space",
+      "Thousand Gold Association, Yan City",
+      "Celestial Dan Pool, mountains east of Yan City"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "0-173 opening/recap.",
+    "Lin Dong's realm is not stated; Xuan Su says he is a 1st Seal Symbol Master (558.2) and Xia Wanjin says he matches a 2nd Seal (1318.5).",
+    "555.0 Xuan Su calls Xia Wanjin 姐夫 (brother-in-law).",
+    "Jiang Li's boosted realm is temporary (小元丹境, 1136.8); his cast realm stays Heavenly Yuan late.",
+    "Official English for 尖螺波 is consistently 'Spiral wave', so Spiral Wave is used."
+  ]
+}

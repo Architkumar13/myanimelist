@@ -1,0 +1,197 @@
+{
+  "ep": 5,
+  "title": "Master Yan and Wu Sha",
+  "summary": "Lin Dong goes with his grandfather and father to Yan City to sell Yang Yuan Stone in secret. At the Mysterious Objects Tower he trades nine Yang Yuan Pills for a Qiankun Bag and tries to buy an ancient divine wood fragment, but Zi Yue claims it. Her master, Master Yan, stops the quarrel with mental strength, explains Symbol Masters, invites Lin Dong to be his student and gives him a book. Lin Dong declines for now to protect the Stone Talisman's secret, then learns the Black Dragon Stockade has attacked the Lin family home and Ironwood Manor. At the manor he fights the second chief Wu Sha, a Heavenly Yuan fighter, while Qing Tan and Little Flame hold the gate. Beaten down with his Yuan Power spent, Lin Dong breaks through to Heavenly Yuan, kills Wu Sha, and Lei Bao vows to bring in outside help.",
+  "events": [
+    "Lei Bao and Xie Qian learn the Lin family is selling Yang Yuan Stone and plot an attack.",
+    "Lin Dong buys a Qiankun Bag at the Mysterious Objects Tower for nine Yang Yuan Pills.",
+    "Zi Yue disputes the ancient wood fragment; Master Yan intervenes, offers to teach Lin Dong and gives him a book.",
+    "Lin Shan brings word that the Black Dragon Stockade has surrounded the Lin home.",
+    "Lin Dong rushes to Ironwood Manor and fights Wu Sha, who uses Wind-Tearing Hand and the Yuan-Shattering Shuttle.",
+    "Lin Dong uses the Qimen Seal up to its third layer, then breaks through to Heavenly Yuan.",
+    "Lin Dong kills Wu Sha; the Lei family is alarmed and Lei Bao plans to fetch a stronger ally."
+  ],
+  "introduced": [
+    "Master Yan",
+    "Zi Yue",
+    "Wu Sha",
+    "Black Dragon Stockade",
+    "Mysterious Objects Tower",
+    "Qiankun Bag",
+    "ancient divine wood fragment",
+    "Symbol Master",
+    "Mental Strength",
+    "Thousand Gold Association",
+    "Wind-Tearing Hand",
+    "Yuan-Shattering Shuttle"
+  ],
+  "cultivation": "Wu Sha is at Heavenly Yuan. Lin Dong is at Earthly Yuan late, then breaks through to Heavenly Yuan during the fight. Lei Bao is close to Yuan Dan initial.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Heavenly Yuan",
+      "quote": "竟已是地元境后期 (944.6); 感应到了天元境的突破之机 (1133.9)",
+      "first": false
+    },
+    {
+      "id": "master-yan",
+      "name": "Master Yan",
+      "quote": "你可知道什么是符师 (631.1)",
+      "first": true,
+      "card": 629.8
+    },
+    {
+      "id": "zi-yue",
+      "name": "Zi Yue",
+      "quote": "紫月就放他一马 (584.0)",
+      "first": true,
+      "card": 584.0
+    },
+    {
+      "id": "wu-sha",
+      "name": "Wu Sha",
+      "realm": "Heavenly Yuan",
+      "quote": "果然是天元境 (871.2); 吃了我天元境的一掌 (909.3)",
+      "first": true,
+      "card": 755.4
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian",
+      "first": false
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao",
+      "first": false
+    },
+    {
+      "id": "lin-shan",
+      "name": "Lin Shan",
+      "first": false
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan",
+      "first": false
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame",
+      "first": false
+    },
+    {
+      "id": "lei-bao",
+      "name": "Lei Bao",
+      "quote": "快要突破到小元丹境了吧 (1375.2)",
+      "first": false
+    },
+    {
+      "id": "xie-qian",
+      "name": "Xie Qian",
+      "first": false
+    }
+  ],
+  "terms": [
+    [
+      "奇物楼",
+      "Mysterious Objects Tower",
+      "Oddities House, House of Odd Objects"
+    ],
+    [
+      "乾坤袋",
+      "Qiankun Bag",
+      "universe bag, Qiankun bag"
+    ],
+    [
+      "乾坤木",
+      "Qiankun Wood",
+      "Qiankun Wood"
+    ],
+    [
+      "二印符师",
+      "2nd Seal Symbol Master",
+      "second seal talisman master"
+    ],
+    [
+      "上古神木的碎片 (古木)",
+      "ancient divine wood fragment",
+      "fragment of an ancient god tree, Shenmu"
+    ],
+    [
+      "精神力",
+      "Mental Strength",
+      "spiritual talent, mental strength"
+    ],
+    [
+      "符师",
+      "Symbol Master",
+      "talisman, Talisman Master"
+    ],
+    [
+      "万金商会",
+      "Thousand Gold Association",
+      "Wanjin Chamber of Commerce"
+    ],
+    [
+      "黑龙寨",
+      "Black Dragon Stockade",
+      "Heilongzhai"
+    ],
+    [
+      "二当家 / 三当家",
+      "second chief / third chief",
+      "second master / third master"
+    ],
+    [
+      "撕风手",
+      "Wind-Tearing Hand",
+      "Windbreaker"
+    ],
+    [
+      "碎元梭",
+      "Yuan-Shattering Shuttle",
+      "broken Yuanshuo"
+    ],
+    [
+      "岩大师",
+      "Master Yan",
+      "(unnamed this episode; 'Grandmaster')"
+    ],
+    [
+      "紫月",
+      "Zi Yue",
+      "Ziyue"
+    ]
+  ],
+  "hero": {
+    "realm": "Heavenly Yuan",
+    "gains": [
+      "Qiankun Bag",
+      "ancient divine wood fragment",
+      "Divine Movement Chapter (book from Master Yan)",
+      "Yuan-Shattering Shuttle"
+    ],
+    "losses": [
+      "nine Yang Yuan Pills"
+    ],
+    "places": [
+      "Yan City",
+      "Mysterious Objects Tower",
+      "road back to Qingyang Town",
+      "Ironwood Manor"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "0-177 opening/recap.",
+    "Master Yan is not named in this episode (called 大师/师父); EP6 names him 岩大师. Card 629.8 is him addressing Lin Dong.",
+    "Zi Yue's name is 紫月 in the subtitles; names.txt has 籽月. Same English.",
+    "Purchase of the ancient wood is implied: Zi Yue lets him go (580.8) and EP6 calls it 上次收来的古木. The book (698.2) is named 神动篇 in EP6; the shuttle is Wu Sha's, which Lin Dong controls in EP6.",
+    "The Heavenly Yuan stage after the breakthrough is not stated.",
+    "names.txt lists Mo Ling (Dao Sect) first in EP5; nobody of that name appears in the subtitles.",
+    "1372.6 someone calls Lei Bao 爷爷 (grandfather) at the Lei house, though EP6 has Lei Bao call Lei Li 我儿; the speaker is unclear, so Lei Li is not in cast."
+  ]
+}

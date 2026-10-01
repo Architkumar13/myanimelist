@@ -1,0 +1,175 @@
+{
+  "ep": 25,
+  "title": "The Thunder Source",
+  "summary": "On the road to Great Desolate Province, Lin Dong trains the Great Sun Thunder Body and calls down lightning on a snowy peak, but one meridian is still closed, so he cannot form the Copper Thunder Body. Di Yun of the Di Family tries to catch Little Flame, and when Lin Dong steps in, Di Yun attacks him with his Green Yuan Spear. Lin Dong takes the spear. Di Teng, Di Yun's father, is at Form Creation advanced, and he pays Lin Dong 20,000 Pure Yuan Pills to get it back. Lin Dong overhears that Di Teng is hunting a Thunder Source Crystal Beast, whose Thunder Source could finish his Copper Thunder Body. He follows the Di Family. When the beast breaks through that night, he snatches the Thunder Source from under Di Teng's nose.",
+  "events": [
+    "Lin Dong and Little Flame kill Devil Alligator Leopards while he trains the Great Sun Thunder Body.",
+    "He draws down lightning on a snowy peak, and his Destiny Symbol absorbs it, but the Copper Thunder Body still will not form.",
+    "Di Yun's men tie up Little Flame; Lin Dong frees it, refuses to sell it, beats Di Yun and takes his Green Yuan Spear.",
+    "Di Teng arrives and pays 20,000 Pure Yuan Pills for the spear; Lin Dong leaves without giving his name.",
+    "Little Mink explains that the Thunder Source Crystal Beast is weak right after it advances, and that its Thunder Source can complete the Copper Thunder Body.",
+    "That night the beast advances, Di Teng fights it, and Lin Dong grabs the Thunder Source and runs."
+  ],
+  "introduced": [
+    "Di Teng",
+    "Di Yun",
+    "Uncle Cao",
+    "Di Family",
+    "Dayang Province",
+    "Great Sun Thunder Body",
+    "Copper Thunder Body",
+    "Green Yuan Spear",
+    "Thunder Source Crystal Beast",
+    "Thunder Source",
+    "Pure Yuan Pill"
+  ],
+  "cultivation": "Lin Dong is close to Form Creation (Di Teng). Di Teng is Form Creation advanced and wants the Thunder Source to reach Qi Creation. The Thunder Source Crystal Beast is as strong as a Qi Creation expert. Little Mink is still far from the Manifestation realms.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "quote": "这小子实力已快进入造形境 (967.6)"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "di-yun",
+      "name": "Di Yun",
+      "first": true,
+      "card": 743.4
+    },
+    {
+      "id": "uncle-cao",
+      "name": "Uncle Cao",
+      "first": true,
+      "card": 788.4
+    },
+    {
+      "id": "di-teng",
+      "name": "Di Teng",
+      "realm": "Form Creation advanced",
+      "quote": "造形境小成 (896.0)",
+      "first": true,
+      "card": 904.4
+    }
+  ],
+  "terms": [
+    [
+      "大日雷体",
+      "Great Sun Thunder Body",
+      "Great Sun Thunder Body / solar thunderbolt"
+    ],
+    [
+      "铜雷体",
+      "Copper Thunder Body",
+      "Copper Thunder Body / bronze thunder body / copper mine body"
+    ],
+    [
+      "魔鳄豹",
+      "Devil Alligator Leopard",
+      "crocodile and leopard"
+    ],
+    [
+      "本命灵符",
+      "Destiny Symbol",
+      "the talisman"
+    ],
+    [
+      "火蟒虎",
+      "Fire Python Tiger",
+      "fire python tiger"
+    ],
+    [
+      "大荒郡",
+      "Great Desolate Province",
+      "Dahuang County"
+    ],
+    [
+      "大阳郡",
+      "Dayang Province",
+      "Dayang County"
+    ],
+    [
+      "狄家",
+      "Di Family",
+      "Dijia / Di's family"
+    ],
+    [
+      "青光杀",
+      "Green Light Kill",
+      "blue light killing"
+    ],
+    [
+      "青元枪",
+      "Green Yuan Spear",
+      "Qingyuan gun / green spear"
+    ],
+    [
+      "纯元丹",
+      "Pure Yuan Pill",
+      "pure yuan pills"
+    ],
+    [
+      "雷源晶兽",
+      "Thunder Source Crystal Beast",
+      "Lightning Crystal Beast / thunder source crystal beast"
+    ],
+    [
+      "雷源",
+      "Thunder Source",
+      "Lei Yuan / source of thunder"
+    ],
+    [
+      "祖符",
+      "Ancestral Symbol",
+      "ancestral charm"
+    ],
+    [
+      "造形境",
+      "Form Creation",
+      "Shaping / realm of creation"
+    ],
+    [
+      "造气境",
+      "Qi Creation",
+      "atmosphere / air-creating environment"
+    ],
+    [
+      "造化三境",
+      "the three Creation realms",
+      "Three Realms of Fortune"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Thunder Source",
+      "20,000 Pure Yuan Pills"
+    ],
+    "losses": [],
+    "places": [
+      "forest on the road to Great Desolate Province",
+      "snowy peak (lightning training)",
+      "forest den of the Thunder Source Crystal Beast"
+    ]
+  },
+  "flags": [
+    "The Chinese subtitle file starts at 280.6 s, about two and a half minutes later than the other episodes. The opening (the first fight with the Devil Alligator Leopards) may have no dialogue, or its lines may be missing.",
+    "Di Yun is never named in this episode; he is only called 少爷 (young master). The name comes from the wiki and names.txt (first EP25).",
+    "Uncle Cao (曹叔) matches the wiki's Di Family member 'Cao'. I used the id uncle-cao to keep him apart from Elder Cao of the Yin Puppet Sect (EP35).",
+    "Card times are face-to-face speaking lines, not name cards; this episode has no caption cards.",
+    "644.5 造化三境 is Lin Dong asking Little Mink when he will recover to the Manifestation realms; it is not a stated realm.",
+    "大荒郡: the official English always says 'Dahuang County'; I used 'Great Desolate Province' (wiki title, and what the EP24 review uses).",
+    "792.6 大阳郡: the official English says 'Dayang County'; the wiki calls it 'Dayan Province'. I used 'Dayang Province' (correct pinyin, with 郡 = Province as in Great Desolate Province)."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

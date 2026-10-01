@@ -1,0 +1,184 @@
+{
+  "ep": 50,
+  "title": "The Ancient Heavenly Crocodile",
+  "summary": "In the Sacred Spirit Pool, Lin Dong and Little Mink sense the remains of an Ancient Heavenly Crocodile at the bottom and dive for its essence blood, though the emperor has forbidden it. Lin Langtian follows, and the Yuan Spirit inside him fights Little Mink until the sealing formation breaks and Lin Langtian leaves Lin Dong to die. Lin Dong falls into an earth-fire vent, where the crocodile's remnant soul wakes in its skeleton. He distracts it while Little Mink drags the soul out and devours it, and Lin Dong takes the crocodile's bone spear Soul Treasure and essence blood. On the surface Lin Langtian has blamed him, but the emperor believes Lin Dong and lets him keep the spear. Little Flame starts evolving on the crocodile blood, and Ling Qingzhu's master sends her to the Ancient Battlefield.",
+  "events": [
+    "The emperor sends the five into the Sacred Spirit Pool and forbids them to go to the bottom.",
+    "Lin Dong feels his Ancient Dragon Ape essence blood grow, and Little Mink senses a beast stronger than Nirvana below.",
+    "At the bottom Lin Langtian attacks; his inner Yuan Spirit fights Little Mink with the Energy Gathering Technique.",
+    "Lin Langtian's Great Heavenly Phoenix Seal meets Lin Dong's Great Desolate Ocean Splitting Seal and the formation breaks.",
+    "Lin Dong falls into an earth-fire vent and fights the crocodile skeleton with the Heavenly Scales Halberd Art.",
+    "Little Mink pulls out the remnant soul and absorbs it with Devouring Power; Lin Dong finds the crocodile's bone spear.",
+    "Lin Langtian blames Lin Dong; the emperor tells the crocodile's history and lets Lin Dong keep the spear.",
+    "Little Flame absorbs the crocodile blood, and Ling Qingzhu is sent to look into strange activity in the Ancient Battlefield."
+  ],
+  "introduced": [
+    "Ancient Heavenly Crocodile",
+    "Heavenly Crocodile Bone Spear",
+    "Reverend",
+    "Shen Qing",
+    "Energy Gathering Technique",
+    "Nirvana Tribulation"
+  ],
+  "cultivation": "Little Mink says the Ancient Heavenly Crocodile was beyond Nirvana. Demon beasts that enter Nirvana and survive the Nirvana Tribulation can take human form. Little Flame begins evolving after taking the crocodile's essence blood.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "lin-langtian",
+      "name": "Lin Langtian"
+    },
+    {
+      "id": "reverend",
+      "name": "Reverend",
+      "first": true,
+      "card": 512.4
+    },
+    {
+      "id": "ancient-heavenly-crocodile",
+      "name": "Ancient Heavenly Crocodile",
+      "first": true,
+      "card": 903.2
+    },
+    {
+      "id": "mo-jingtian",
+      "name": "Mo Jingtian"
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling"
+    },
+    {
+      "id": "lin-fan",
+      "name": "Lin Fan"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "ling-qingzhu",
+      "name": "Ling Qingzhu"
+    },
+    {
+      "id": "shen-qing",
+      "name": "Shen Qing",
+      "first": true,
+      "card": 1589.7
+    }
+  ],
+  "terms": [
+    [
+      "远古天鳄",
+      "Ancient Heavenly Crocodile",
+      "ancient crocodile"
+    ],
+    [
+      "骨枪 / 本命灵宝",
+      "Heavenly Crocodile Bone Spear (natal Soul Treasure)",
+      "bone gun / natal spiritual treasure"
+    ],
+    [
+      "地阶灵宝",
+      "Earth-grade Soul Treasure",
+      "spiritual treasure of the land class"
+    ],
+    [
+      "龙猿精血",
+      "Ancient Dragon Ape essence blood",
+      "dragon ape essence and blood"
+    ],
+    [
+      "元灵 / 元神",
+      "Yuan Spirit",
+      "Yuanling / soul"
+    ],
+    [
+      "妖灵",
+      "demon spirit",
+      "demon spirit"
+    ],
+    [
+      "聚能诀",
+      "Energy Gathering Technique",
+      "Energy Gathering Technique"
+    ],
+    [
+      "大天凰印",
+      "Great Heavenly Phoenix Seal",
+      "Great Sky Phoenix Seal"
+    ],
+    [
+      "大荒分海印",
+      "Great Desolate Ocean Splitting Seal",
+      "Great wilderness divides the sea seal"
+    ],
+    [
+      "天鳞戟法",
+      "Heavenly Scales Halberd Art",
+      "Sky Scale Halberd Technique"
+    ],
+    [
+      "吞噬之力",
+      "Devouring Power",
+      "Devouring Power"
+    ],
+    [
+      "地火口",
+      "earth-fire vent",
+      "fire vent"
+    ],
+    [
+      "涅槃劫",
+      "Nirvana Tribulation",
+      "Nirvana Tribulation"
+    ],
+    [
+      "远古战场",
+      "Ancient Battlefield",
+      "ancient battlefield"
+    ],
+    [
+      "东玄域",
+      "Eastern Xuan Region",
+      "Dongxuan Territory"
+    ],
+    [
+      "天妖貂",
+      "Celestial Demon Marten",
+      "Everyday demon mink"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Heavenly Crocodile Bone Spear",
+      "Ancient Heavenly Crocodile essence blood"
+    ],
+    "losses": [],
+    "places": [
+      "Sacred Spirit Pool",
+      "bottom of the Sacred Spirit Pool",
+      "earth-fire vent under the pool",
+      "Imperial City"
+    ]
+  },
+  "flags": [
+    "Recap of EP49 runs about 169-218 s.",
+    "Lin Langtian's inner Yuan Spirit is not named here; the wiki calls him Reverend (Lin Langtian calls him 穆师 in EP53, 855.6). Card 512.4 is the spirit speaking to Little Mink; no name card.",
+    "Ling Qingzhu's master is only 师尊 here; the wiki names her Shen Qing (anime S5 EP2). Card 1589.7 is the master addressing Ling Qingzhu face to face.",
+    "692.1 '你的妖灵我就收下了' is the Yuan Spirit speaking (about Little Mink); 697.0 什么 and 705.8 are Little Mink's reply.",
+    "1499.8-1541.9 call Little Flame 蠢虎 (stupid tiger), so Little Flame is a tiger.",
+    "Ancient Heavenly Crocodile card 903.2 is Little Mink saying the soul has awakened; it is a skeleton, not a face."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}

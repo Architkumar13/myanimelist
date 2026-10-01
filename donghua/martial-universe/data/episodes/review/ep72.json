@@ -1,0 +1,144 @@
+{
+  "ep": 72,
+  "title": "Champion of the Hundred Dynasties",
+  "summary": "Lin Dong decides to destroy the core of the Heaven-Sealing Formation Diagram. He fights the revived Death Spirit General with Little Flame's help and passes three wind and thunder tribulations, rising from 1st Seal to 4th Seal Heaven Symbol Master. Using the Devouring Ancestral Symbol and the Stone Talisman, he takes in the tribulation lightning, then turns it and the Black Dragon Sky-Roaring Seal on the formation core. The others join in, and to cover them Lin Dong strikes the wisp of Zheng Zhong's primordial spirit with Heavenly Dragon Energy. Ling Qingzhu of the Nine Heavens Taiqing Palace arrives, and Zheng Zhong retreats. The Super Sects make Lin Dong champion, and he turns down the Yuan Gate to join the Dao Sect. A month later the Lin Clan honours Lin Zhentian and the Yan City branch.",
+  "events": [
+    "Lin Dong goes after the formation core and fights the Death Spirit General.",
+    "He passes three wind and thunder tribulations and becomes a 4th Seal Heaven Symbol Master.",
+    "He takes in the lightning with the Devouring Ancestral Symbol and the Stone Talisman and breaks the core.",
+    "Everyone attacks the core; Lin Dong strikes Zheng Zhong's primordial spirit to break the Space Prison.",
+    "Ling Qingzhu of the Nine Heavens Taiqing Palace drives Zheng Zhong off.",
+    "Lin Dong is named champion and chooses the Dao Sect over the Yuan Gate.",
+    "The Lin Clan raises Lin Zhentian to Supreme Elder and honours the Yan City branch."
+  ],
+  "introduced": [
+    "wind and thunder tribulation",
+    "Heaven-Sealing Talisman",
+    "Eight Super Sects"
+  ],
+  "cultivation": "Lin Dong passes three wind and thunder tribulations and rises from 1st Seal to 2nd, 3rd and then 4th Seal Heaven Symbol Master. Zheng Zhong is at the Profound Life stage.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "death-spirit-general",
+      "name": "Death Spirit General"
+    },
+    {
+      "id": "zheng-zhong",
+      "name": "Zheng Zhong",
+      "realm": "Profound Life",
+      "quote": "That's the Life Profound Realm! (797.9)"
+    },
+    {
+      "id": "liu-tong",
+      "name": "Liu Tong"
+    },
+    {
+      "id": "ling-qingzhu",
+      "name": "Ling Qingzhu",
+      "card": 1269.2
+    },
+    {
+      "id": "su-rou",
+      "name": "Su Rou"
+    }
+  ],
+  "terms": [
+    [
+      "",
+      "Green Dragon Fist",
+      "Azure Dragon Fist"
+    ],
+    [
+      "风雷劫",
+      "wind and thunder tribulation",
+      "wind and thunder tribulation"
+    ],
+    [
+      "",
+      "Heaven-Sealing Talisman",
+      "Locking Heaven Talisman / Jimat Penyegel Surga"
+    ],
+    [
+      "",
+      "Heavenly Demon Tiger-Taming Staff",
+      "Heavenly Demon Tiger-Taming Staff"
+    ],
+    [
+      "",
+      "Sky-Splitting Lock",
+      "Sky-Splitting Lock"
+    ],
+    [
+      "",
+      "Heavenly Dragon Energy",
+      "Heavenly Dragon Qi"
+    ],
+    [
+      "",
+      "Green Dragon Bite",
+      "Azure Dragon Bites"
+    ],
+    [
+      "生玄境",
+      "Profound Life",
+      "Life Profound Realm"
+    ],
+    [
+      "",
+      "Primordial Palace",
+      "Primordial Palace / Aula Primordial"
+    ],
+    [
+      "符宗",
+      "Symbol Sect",
+      "Fu Zong"
+    ],
+    [
+      "",
+      "Ten Thousand Puppet Sect",
+      "Wan Kuimen"
+    ],
+    [
+      "",
+      "Supreme Elder",
+      "Supreme Elder of the Clan"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "4th Seal Heaven Symbol Master",
+      "Hundred Dynasties Battle championship",
+      "place in the Dao Sect"
+    ],
+    "losses": [],
+    "places": [
+      "Baichao Mountain summit"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "Symbol Master steps are id captions: 405.4 [Master Simbol Surga Segel Kedua], 523.2 [Ketiga], 610.2 [Keempat], with tribulation captions 327.4, 424.2, 570.0. The en track has only 415.3 'Second Seal Celestial Talisman Master'.",
+    "797.9 'That's the Life Profound Realm!': most likely about Zheng Zhong, as Lin Dong's brothers plan to distract him. Little Mink or Little Flame could be the subject (802.2 'test the effect after the breakthrough'), so it is uncertain.",
+    "828.6 Heavenly Demon Tiger-Taming Staff and 831.2 Sky-Splitting Lock: users unclear (probably Little Flame and Little Mink).",
+    "Ling Qingzhu card 1269.2 (ep72.en.srt): Lin Dong addresses her by name; not a caption.",
+    "The Lin Clan scene (1421-1526) names Lin Zhentian, Lin Xiao and Lin Ken, but they are mentioned rather than shown, so they are left out of cast.",
+    "The Lin Clan gossips assume Lin Langtian was chosen; his fate after EP71 is still not shown.",
+    "Lin Dong's Nirvana realm is not restated (Four Yuan Nirvana since EP69)."
+  ]
+}

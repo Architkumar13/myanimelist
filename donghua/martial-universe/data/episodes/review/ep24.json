@@ -1,0 +1,111 @@
+{
+  "ep": 24,
+  "title": "Qing Tan's Yin Dan and the Road to Great Desolate Province",
+  "summary": "Elder Shen attacks, and Little Mink spends its newly restored power through the Stone Talisman, using Pure Yuan Pills, to hold him off and tells Lin Dong to run. When Elder Shen's Black Light Blade is about to kill him, Ling Qingzhu saves him, and Wang Yan calls Elder Shen off. She makes Lin Dong swear never to speak of the tomb and warns that the secret could destroy even the Lin Clan. When he says he will one day be worthy of her, she tells him to first earn a place in the Hundred Dynasties Battle. Back in Yan City, Lin Dong uses the Extreme Yin Dragon Saliva to help Qing Tan condense her Yin Dan. He burns away the Fiend Devil Qi with Myriad Transformation Flame until Qing Tan masters it herself. Her cold poison is gone, she leaps to Yuan Dan perfect, and Lin Dong sets out for Great Desolate Province, promising to return for the Lin Clan Gathering in two years.",
+  "events": [
+    "Elder Shen attacks; Little Mink burns its restored power through the Stone Talisman to blunt him.",
+    "Lin Dong uses the halberd against Elder Shen's Black Light Blade and is nearly killed.",
+    "Ling Qingzhu saves Lin Dong; Wang Yan tells Elder Shen not to chase.",
+    "Ling Qingzhu swears Lin Dong to secrecy and mentions the Hundred Dynasties Battle.",
+    "In Yan City, Lin Dong uses the Extreme Yin Dragon Saliva to help Qing Tan form her Yin Dan.",
+    "The Fiend Devil Qi takes shape; Lin Dong drives it back with Myriad Transformation Flame, and Qing Tan subdues it.",
+    "Qing Tan's cold poison is cured and she breaks through to Yuan Dan perfect.",
+    "Lin Dong leaves Yan City for Great Desolate Province."
+  ],
+  "introduced": [
+    "Hundred Dynasties Battle",
+    "Fiend Devil Qi",
+    "Great Desolate Province",
+    "Black Light Blade"
+  ],
+  "cultivation": "Qing Tan condenses her Yin Dan and breaks through to Yuan Dan perfect at once.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "elder-shen",
+      "name": "Elder Shen"
+    },
+    {
+      "id": "wang-yan",
+      "name": "Wang Yan"
+    },
+    {
+      "id": "ling-qingzhu",
+      "name": "Ling Qingzhu"
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan",
+      "realm": "Yuan Dan perfect",
+      "quote": "竟一瞬间 便已冲破了元丹境大圆满 (1311.8)",
+      "look": "her appearance changes after the Fiend Devil Body awakens"
+    }
+  ],
+  "terms": [
+    [
+      "石符",
+      "Stone Talisman",
+      "stone talisman"
+    ],
+    [
+      "乌光刃 切天地",
+      "Black Light Blade: Heaven-Cutting",
+      "black light blade, cut heaven and earth"
+    ],
+    [
+      "百朝之战",
+      "Hundred Dynasties Battle",
+      "Battle of Hundred Dynasties"
+    ],
+    [
+      "林氏宗族",
+      "Lin Clan",
+      "Lin clan"
+    ],
+    [
+      "阴煞之气",
+      "Yin Sha energy",
+      "Yinsha Qi"
+    ],
+    [
+      "煞魔之气",
+      "Fiend Devil Qi",
+      "evil demon qi"
+    ],
+    [
+      "大荒郡",
+      "Great Desolate Province",
+      "Dahuang County"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [],
+    "losses": [
+      "Pure Yuan Pills fed into the Stone Talisman for Little Mink's strike",
+      "Extreme Yin Dragon Saliva (used on Qing Tan)"
+    ],
+    "places": [
+      "Sky Flame Mountain Range",
+      "Lin Family residence, Yan City",
+      "road to Great Desolate Province"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "Recap 142-192 is EP23 material.",
+    "497-506: Wang Yan tells Elder Shen not to chase, since he knows who the rescuer is and no one can stop her.",
+    "1311.8 冲破了元丹境大圆满 could read as 'broke past' Yuan Dan perfect; Lin Dong then says she has almost surpassed him (1414), so Yuan Dan perfect is used.",
+    "Qing Tan's 'look' change is inferred from Lin Dong's reaction (1400: 这真的是之前的那个青檀吗); confirm on the frame.",
+    "Lin Dong's realm is not restated (EP22: Yuan Dan perfect); hero.realm null.",
+    "EP25 opens directly on new training (大日雷体), so EP24 ends the season."
+  ]
+}

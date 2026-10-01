@@ -1,0 +1,162 @@
+{
+  "ep": 2,
+  "title": "Lin Dong Wins the Clan Competition",
+  "summary": "Lin Dong floors Lin Shan with a seven-ring Tong Bei Fist, and Lin Hong steps in, mocks the family and says he will win the clan competition and claim Qing Tan as his wife. Lin Xiao sees his son's progress and teaches him the Eight Desolation Palm. When Qing Tan's cold poison flares, the Stone Talisman absorbs the cold and condenses it into a bead. At the competition Lin Hong beats Qing Tan and is about to be named winner when Lin Dong arrives and challenges him. Lin Dong shows a ten-ring Tong Bei Fist, a better Eight Desolation Palm and Tempered Body 7th layer, and wins. The elders then plan for the Hunting Battle against the Lei and Xie families, while Lei Bao boasts that his son Lei Li has reached Earthly Yuan.",
+  "events": [
+    "Lin Dong beats Lin Shan with a seven-ring Tong Bei Fist.",
+    "Lin Hong mocks Lin Xiao and says he will win Qing Tan at the clan competition.",
+    "Lin Xiao teaches Lin Dong the 2nd-grade Eight Desolation Palm.",
+    "The Stone Talisman draws out Qing Tan's cold poison and condenses it into a bead; she keeps the secret.",
+    "Lin Dong reaches Tempered Body 6th layer and arrives late to the competition.",
+    "Lin Hong defeats Qing Tan; Lin Dong challenges him and wins at Tempered Body 7th layer.",
+    "The elders choose Lin Dong for the Hunting Battle against the allied Lei and Xie families.",
+    "Lei Bao and Lei Li, now at Earthly Yuan, plan to crush him."
+  ],
+  "introduced": [
+    "Lin Hong",
+    "Lin Mang",
+    "Lei Bao",
+    "Lei Li",
+    "Eight Desolation Palm",
+    "cold poison",
+    "Hunting Battle",
+    "Lei Family",
+    "Xie Family",
+    "Raging Blade Dojo",
+    "Qingyang Town"
+  ],
+  "cultivation": "Lin Dong reaches Tempered Body 6th layer and reveals Tempered Body 7th layer in the final. Lin Hong is at Tempered Body 7th layer. Lei Li has reached Earthly Yuan.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Tempered Body 7th layer",
+      "quote": "不只是你达到了淬体七重 (1118.4)",
+      "first": false
+    },
+    {
+      "id": "lin-hong",
+      "name": "Lin Hong",
+      "realm": "Tempered Body 7th layer",
+      "quote": "林宏可是淬体七重 (460.3)",
+      "first": true,
+      "card": 214.4
+    },
+    {
+      "id": "lin-shan",
+      "name": "Lin Shan",
+      "first": false
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan",
+      "first": false
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao",
+      "first": false
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian",
+      "first": false
+    },
+    {
+      "id": "lin-mang",
+      "name": "Lin Mang",
+      "quote": "三弟 这次怎么舍得离开你那窝棚了 (728.0)",
+      "first": true,
+      "card": 728.0
+    },
+    {
+      "id": "lei-bao",
+      "name": "Lei Bao",
+      "quote": "力儿修炼到地元境了 (1336.0)",
+      "first": true,
+      "card": 1330.1
+    },
+    {
+      "id": "lei-li",
+      "name": "Lei Li",
+      "realm": "Earthly Yuan",
+      "quote": "力儿修炼到地元境了 (1336.0)",
+      "first": true,
+      "card": 1349.9
+    }
+  ],
+  "terms": [
+    [
+      "八荒掌",
+      "Eight Desolation Palm",
+      "Bahuang Palm"
+    ],
+    [
+      "二品武学 / 一品武学",
+      "2nd-grade / 1st-grade martial art",
+      "second-grade / first-grade martial art"
+    ],
+    [
+      "寒毒",
+      "cold poison",
+      "cold poison"
+    ],
+    [
+      "原力种子",
+      "Yuan Power seed",
+      "Force Seed"
+    ],
+    [
+      "雷家 / 谢家",
+      "Lei Family / Xie Family",
+      "Lei family, Xie family"
+    ],
+    [
+      "狂刀武馆",
+      "Raging Blade Dojo",
+      "Crazy Sword Martial Arts"
+    ],
+    [
+      "狩猎战",
+      "Hunting Battle",
+      "hunt, hunting battles"
+    ],
+    [
+      "青阳镇",
+      "Qingyang Town",
+      "Qingyang Town"
+    ],
+    [
+      "元力",
+      "Yuan Power",
+      "Yuanli"
+    ],
+    [
+      "阴气",
+      "Yin Energy",
+      "yin energy"
+    ]
+  ],
+  "hero": {
+    "realm": "Tempered Body 7th layer",
+    "gains": [
+      "Eight Desolation Palm"
+    ],
+    "losses": [],
+    "places": [
+      "mountains near Qingyang Town",
+      "Lin family bamboo grove",
+      "Stone Talisman space",
+      "Lin family competition arena"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "0-129 is the opening and recap of EP1.",
+    "Lin Mang identified as the 二哥 who greets Lin Xiao (728.0-732.6); he is never named on screen this episode. One of the cheering uncles in the EP1 flashback may also be him.",
+    "1355.1 an unnamed speaker at the Lei house says she will help 哥 (Lei Li); names.txt lists Xie Yingying first in EP2, so this may be her. Not added to cast.",
+    "830.3-855.0 the speaker sequence around Lin Shan's arena wins is unclear.",
+    "The cold bead (544.0) is presumably the Yin Pearl named in EP3-4; not named here."
+  ]
+}

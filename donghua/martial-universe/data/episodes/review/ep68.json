@@ -1,0 +1,175 @@
+{
+  "ep": 68,
+  "title": "Feng Cang Falls",
+  "summary": "Lin Dong faces Feng Cang's Black Dragon Sky-Roaring Seal with the Green Heaven Materialized Dragon Skill's scale shield and Immovable Bell, then kills him. He takes the seal and Feng Cang's Nirvana Seal and jumps from the Earth tier to the Heaven tier. Super Sect elders, among them Liu Tong of the Yuan Gate and Wu Dao of the Dao Sect, take notice. Qin Tian of the Tianyuan Dynasty, first in the Heaven tier, gives the injured Lin Dong medicine and warns him about the Three Song Devils. Su Rou joins the group, and Lin Dong hides in a cave to heal and break through. A Death Spirit General from the Western Xuan Region attacks to silence them, and Little Mink and Little Flame hold him off. Su Rou opens her inheritance's second seal to protect Lin Dong, who comes out and strikes with the Black Dragon Sky-Roaring Seal.",
+  "events": [
+    "Lin Dong blocks the Black Dragon Sky-Roaring Seal with the Green Dragon scale shield and Immovable Bell.",
+    "Lin Dong kills Feng Cang and takes the seal and his Nirvana Seal.",
+    "Lin Dong rises to the Heaven tier; Super Sect elders watch.",
+    "Su Rou offers her seals in thanks and joins Lin Dong, Lin Diao and Lin Yan.",
+    "Qin Tian gives Lin Dong medicine and promises to fight him on Baichao Mountain.",
+    "A Death Spirit General of the Western Xuan Region attacks while Lin Dong breaks through in a cave.",
+    "Su Rou opens her inheritance's second seal to defend Lin Dong.",
+    "Lin Dong comes out and uses the Black Dragon Sky-Roaring Seal on the attackers."
+  ],
+  "introduced": [
+    "Qin Tian",
+    "Tianyuan Dynasty",
+    "Death Spirit General",
+    "Western Xuan Region",
+    "Four Demonic Sects",
+    "Three Song Devils"
+  ],
+  "cultivation": "Lin Dong is Three Yuan Nirvana. Qin Tian is Six Yuan Nirvana. The Death Spirit General is Five Yuan Nirvana. Su Rou can now bear two layers of her inheritance's seals. Lin Dong's breakthrough attempt in the cave is cut short.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "realm": "Three Yuan Nirvana",
+      "quote": "Three Realms Nirvana Hidden Realm (308.8)"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "feng-cang",
+      "name": "Feng Cang"
+    },
+    {
+      "id": "su-rou",
+      "name": "Su Rou"
+    },
+    {
+      "id": "liu-tong",
+      "name": "Liu Tong",
+      "card": 654.4
+    },
+    {
+      "id": "wu-dao",
+      "name": "Wu Dao",
+      "card": 661.9
+    },
+    {
+      "id": "qin-tian",
+      "name": "Qin Tian",
+      "realm": "Six Yuan Nirvana",
+      "quote": "[Alam Nirvana Tingkat Keenam] (ep68.id 740.0)",
+      "first": true,
+      "card": 739.0
+    },
+    {
+      "id": "death-spirit-general",
+      "name": "Death Spirit General",
+      "realm": "Five Yuan Nirvana",
+      "quote": "In reality, you are only at the Fifth Element Nirvana Realm (946.9)",
+      "first": true,
+      "card": 934.1
+    }
+  ],
+  "terms": [
+    [
+      "",
+      "Green Dragon Scale Shield",
+      "Azure Scale Shield"
+    ],
+    [
+      "",
+      "Green Dragon Immovable Bell",
+      "Azure Dragon Immovable Bell"
+    ],
+    [
+      "",
+      "Heaven tier / Earth tier",
+      "Heavenly Ranking / Earth Ranking"
+    ],
+    [
+      "",
+      "Tianyuan Dynasty",
+      "Tianyuan Dynasty"
+    ],
+    [
+      "元门",
+      "Yuan Gate",
+      "Yuan Sect / Yuanmen"
+    ],
+    [
+      "九天太清宫",
+      "Nine Heavens Taiqing Palace",
+      "Penatua Istana Tertinggi Sembilan Surga (caption)"
+    ],
+    [
+      "符宗",
+      "Symbol Sect",
+      "Sekte Jimat (caption)"
+    ],
+    [
+      "",
+      "Sword Sect",
+      "Sekte Pedang (caption)"
+    ],
+    [
+      "",
+      "Four Demonic Sects",
+      "four major demonic sects"
+    ],
+    [
+      "",
+      "Three Song Devils",
+      "three demons of the Song family"
+    ],
+    [
+      "",
+      "Death Spirit General",
+      "Jenderal Jiwa Kematian (caption)"
+    ],
+    [
+      "西玄域",
+      "Western Xuan Region",
+      "Wilayah Xuan Barat"
+    ],
+    [
+      "",
+      "Netherworld Ghost Curtain",
+      "Yama's Ghost Curtain"
+    ],
+    [
+      "",
+      "Death Mark",
+      "Death Mark / Segel Setan Kematian"
+    ],
+    [
+      "",
+      "Ten Thousand Ghost Claw",
+      "Mankitsume / Cakar Sepuluh Ribu Hantu"
+    ]
+  ],
+  "hero": {
+    "realm": "Three Yuan Nirvana",
+    "gains": [
+      "Black Dragon Sky-Roaring Seal",
+      "Feng Cang's Nirvana Seal",
+      "Heaven-tier ranking",
+      "medicine from Qin Tian"
+    ],
+    "losses": [],
+    "places": [
+      "Hundred Dynasties Battle arena",
+      "healing cave"
+    ]
+  },
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ],
+  "flags": [
+    "Cards use the ep68.en.srt clock; the id track runs on the same timing here (737.2 matches). The id captions are the evidence: Liu Tong [Liu Tong, Sekte Yuan] 654.4, Wu Dao [Wu Dao, Sekte Dao] 661.9, Qin Tian [Alam Nirvana Tingkat Keenam] 740.0 (en 739.0 'Tianyuan Dynasty'), Death Spirit General caption 935.5 (en 934.1 his line).",
+    "793.0 '(Hongling.)' then 'when I win ... only I am worthy of you': an inner monologue about Mu Hongling; the speaker is not named.",
+    "Su Rou's line 591.6 is Lin Dong's: he has a younger sister about her age (Qing Tan).",
+    "Recap runs to about 206 s; the Feng Cang fight continues from EP67."
+  ]
+}

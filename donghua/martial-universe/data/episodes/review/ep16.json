@@ -1,0 +1,142 @@
+{
+  "ep": 16,
+  "title": "The Hidden Space and Gui Yan",
+  "summary": "After 24 days on the eighth floor, Lin Dong becomes a 3rd Seal Symbol Master and uses Huasheng Light for the first time. His Destiny Symbol is pulled into the tower's legendary hidden space, where Little Mink finally wakes, with a new colour that it calls its true form. Little Mink explains the eight Ancestral Symbols, formed by the rules of heaven and earth, and says the room holds only a rubbing of one. The rubbing gives Lin Dong's Destiny Symbol a map of the Great Yan Dynasty showing the locations of two Ancestral Symbols, which Little Mink tells him to keep secret. Qing Tan arrives at the guild to say masked men are attacking the Lin Family. At home, Ghost Blade Sect leader Gui Yan forces Lin Zhentian to hand over the Yang Yuan Stone vein and then tries to kill everyone. Lin Dong kills Gui Yan with Huasheng Light, and the Lin Family no longer fears anyone in Yan City.",
+  "events": [
+    "Master Yan waits 24 days while Lin Dong breaks through to 3rd Seal Symbol Master on the eighth floor.",
+    "Lin Dong tests Huasheng Light; his Destiny Symbol is drawn into a hidden space no one had entered in a hundred years.",
+    "Little Mink wakes up and explains the eight Ancestral Symbols.",
+    "An Ancestral Symbol rubbing marks two Ancestral Symbol locations on a map of the Great Yan Dynasty in Lin Dong's Destiny Symbol.",
+    "Qing Tan reaches the guild with news of an attack; Lin Dong leaves with Zi Yue.",
+    "Gui Yan takes the Yang Yuan Stone vein from Lin Zhentian, then tries to wipe out the Lin Family.",
+    "Lin Dong fights Gui Yan and kills him with Huasheng Light; the Ghost Blade Sect men flee."
+  ],
+  "introduced": [
+    "Gui Yan",
+    "Ghost Blade Sect",
+    "Ancestral Symbol",
+    "Ancestral Symbol rubbing",
+    "Sky Profound Continent",
+    "Lin Clan Gathering"
+  ],
+  "cultivation": "Lin Dong becomes a 3rd Seal Symbol Master. Gui Yan is called Yan City's strongest at Yuan Dan advanced.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "master-yan",
+      "name": "Master Yan"
+    },
+    {
+      "id": "zi-yue",
+      "name": "Zi Yue"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink",
+      "look": "wakes with a changed colour, which it calls its true form"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame"
+    },
+    {
+      "id": "qing-tan",
+      "name": "Qing Tan"
+    },
+    {
+      "id": "lin-zhentian",
+      "name": "Lin Zhentian"
+    },
+    {
+      "id": "lin-xiao",
+      "name": "Lin Xiao"
+    },
+    {
+      "id": "gui-yan",
+      "name": "Gui Yan",
+      "realm": "Yuan Dan advanced",
+      "quote": "这鬼刀鬼阎 号称炎城元丹境小圆满第一人 (1211.0)",
+      "first": true,
+      "card": 1152.4
+    }
+  ],
+  "terms": [
+    [
+      "祖符",
+      "Ancestral Symbol",
+      "ancestral talisman"
+    ],
+    [
+      "拓印",
+      "Ancestral Symbol rubbing",
+      "rubbing"
+    ],
+    [
+      "天玄大陆",
+      "Sky Profound Continent",
+      "Tianxuan Continent"
+    ],
+    [
+      "林氏族比 / 宗族族会",
+      "Lin Clan Gathering",
+      "Lin clan competition"
+    ],
+    [
+      "隐藏空间",
+      "hidden space",
+      "hidden space"
+    ],
+    [
+      "鬼刀门",
+      "Ghost Blade Sect",
+      "Ghost Sword Gate"
+    ],
+    [
+      "鬼阎",
+      "Gui Yan",
+      "Gui Yan"
+    ],
+    [
+      "鬼斩",
+      "Ghost Slash",
+      "ghost cut"
+    ],
+    [
+      "鬼影刀",
+      "Ghost Shadow Blade",
+      "ghost shadow knife"
+    ],
+    [
+      "大炎王朝",
+      "Great Yan Dynasty",
+      "Great Yan Dynasty"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "3rd Seal Symbol Master",
+      "locations of two Ancestral Symbols (held in his Destiny Symbol)",
+      "Little Mink awake again"
+    ],
+    "losses": [],
+    "places": [
+      "Symbol Master Tower, eighth floor",
+      "hidden space in the Symbol Master Tower",
+      "Symbol Master Guild, Yan City",
+      "Lin Family residence, Yan City"
+    ]
+  },
+  "changes": [],
+  "flags": [
+    "Recap 144-176 is EP15 material.",
+    "1200-1207 are flashback lines from the EP13 ambush.",
+    "Gui Yan card 1152.4 is a line where he names himself (我鬼阎办事); Lin Zhentian addresses him at 1142.",
+    "Gui Yan's 元丹境小圆满 is mapped to 'Yuan Dan advanced' (小圆满 sits between 小元丹境 initial and 大圆满 perfect in this show).",
+    "天玄大陆: the wiki gives 'Sky Profound Continent' for it; the official English varies."
+  ]
+}

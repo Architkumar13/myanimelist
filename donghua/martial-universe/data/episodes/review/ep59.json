@@ -1,0 +1,91 @@
+{
+  "ep": 59,
+  "title": "Lin Yan",
+  "summary": "Demon Rock Dynasty disciples arrive, and Lin Dong leads them away while Little Flame keeps absorbing the tiger's blood. Shi Xuan sees through the trick and turns back, so Lin Dong races after him. Lin Dong throws everything at Shi Xuan, the Demon Ape Transformation, the Wind Thunder Seal, five fingers and the Devouring Thunder Palm, but is beaten down. Then the Mighty Earthsplitting Tiger steps in, and Little Flame returns in human form, and together they finish Shi Xuan. Little Flame has passed the Nirvana Tribulation. Lin Dong names him Lin Yan and they become sworn brothers, with Little Mink insisting on being the eldest. The Demon Rock Dynasty's senior brother learns that Lin Dong killed Shi Xuan and took the key, and puts a bounty of one million Nirvana Pills on him.",
+  "events": [
+    "The Demon Rock pursuers arrive; Lin Dong draws them away from Little Flame.",
+    "Shi Xuan stops the chase and heads back to Little Flame.",
+    "Lin Dong fights Shi Xuan with every technique he has and is overwhelmed.",
+    "The Mighty Earthsplitting Tiger joins in, and Little Flame appears in human form to defend him.",
+    "Shi Xuan is killed.",
+    "Little Flame has passed the Nirvana Tribulation; Lin Dong names him Lin Yan and they swear brotherhood with Little Mink.",
+    "The Demon Rock Dynasty offers one million Nirvana Pills for Lin Dong, dead or alive."
+  ],
+  "introduced": [
+    "Lin Yan (Little Flame's human name)",
+    "Shi Kun"
+  ],
+  "cultivation": "Little Flame passes the Nirvana Tribulation, enters Nirvana and takes human form. Shi Xuan was One Yuan Nirvana.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong"
+    },
+    {
+      "id": "little-mink",
+      "name": "Little Mink"
+    },
+    {
+      "id": "little-flame",
+      "name": "Little Flame",
+      "realm": "Nirvana",
+      "quote": "这蠢虎 如今已是突破了涅槃劫 (1059.8-1060.9)",
+      "look": "now takes human form as a young man"
+    },
+    {
+      "id": "shi-xuan",
+      "name": "Shi Xuan",
+      "realm": "One Yuan Nirvana",
+      "quote": "石轩师兄可是一元涅槃境的强者 (1233.9)"
+    },
+    {
+      "id": "mighty-earthsplitting-tiger",
+      "name": "Mighty Earthsplitting Tiger"
+    },
+    {
+      "id": "shi-kun",
+      "name": "Shi Kun",
+      "first": true,
+      "card": 1224.6
+    }
+  ],
+  "terms": [
+    [
+      "林炎",
+      "Lin Yan",
+      "Lin Yan"
+    ],
+    [
+      "大哥 / 二哥",
+      "eldest brother / second brother",
+      "big brother / second brother"
+    ],
+    [
+      "超级王朝",
+      "super dynasty",
+      "super dynasty"
+    ]
+  ],
+  "hero": {
+    "realm": null,
+    "gains": [
+      "Little Flame in human form (Lin Yan) as sworn brother"
+    ],
+    "losses": [],
+    "places": [
+      "Demon Forest"
+    ]
+  },
+  "flags": [
+    "Recap runs about 169-218 s.",
+    "How Shi Xuan dies is not spelled out (889-1007 has no dialogue); afterwards the tiger is credited with saving them (1019.3) and 1137.4 confirms Shi Xuan is dead. The Moyan Dynasty blames Lin Dong.",
+    "816.4 '你是什么人' is Shi Xuan to the newcomer; 833-837 '谁敢动我主人' is Little Flame in human form.",
+    "The Moyan senior brother (大师兄, 1212-1279) is unnamed; the wiki's Shi Kun (anime S5 EP11 = EP59) fits. Card 1224.6 is his first spoken line.",
+    "1183.5 '差点把这个给忘了': Lin Dong picks something up (perhaps Shi Xuan's Qiankun Bag); not shown in the subtitles.",
+    "Little Flame keeps id little-flame; he is now also called Lin Yan (林炎)."
+  ],
+  "changes": [
+    "First review for this episode; no older summary to correct."
+  ]
+}
