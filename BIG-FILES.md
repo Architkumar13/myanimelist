@@ -1,7 +1,7 @@
 # Big files: what's not in this folder, and how to get it back
 
-This folder is shared without about 2 GB of large, rebuildable files so it stays small (about 0.6 GB,
-most of it git history). The donghua site works fully without them: every portrait, poster, card picture and
+This folder is shared without about 2 GB of large, rebuildable files so it stays small (about 0.3 GB,
+half of it git history). The donghua site works fully without them: every portrait, poster, card picture and
 article picture is included. What's missing is the extra **gallery** pictures at the bottom of Library articles,
 and the animation in a few dozen animated pictures (they're shown as stills).
 
