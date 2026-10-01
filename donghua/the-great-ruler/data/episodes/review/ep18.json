@@ -1,0 +1,123 @@
+{
+  "ep": 18,
+  "title": "The seeded place and Northern Heaven",
+  "summary": "Liu Qingtian interrupts the seeded-place duel, accusing Mu Chen of trying to kill Liu Mubai and pushing for a draw, but Mr. Hao rules that Liu Mubai, knocked off the stage by his own father's intervention, has lost, and Mu Chen takes the seeded place. Mr. Hao names the others who earned places, including Hong Ling, Tang Qian'er, Liu Mubai and, as an exception for his courage, Mo Ling; Qian'er and Hong Ling go to the all-female Phoenix Spiritual Academy. Mu Chen asks about Ji Xuan and Luo Li, both rated King level on the Spiritual Land; hearing Luo Li chose the Northern Heaven Spiritual Academy, he remembers their promise and chooses it too. Liu Qingtian decides to destroy Mu Realm within the two months before the students leave. In Mu Chen's Sea of Chi, Jiu You, trapped by the black paper he found on the Spiritual Land, sneers that he is only at Spiritual Rotation but softens when he says he won't take her spirit. Wen Ling reports the Level 2 Spirit Collecting Formation working and gives Mu Chen, now at 18 spiritual seals, the 20-seal Nine Heavens Thunder Spiritual Formation, just as news comes that General Chen Xiong has been killed at the border.",
+  "events": [
+    "Liu Qingtian interferes; Mr. Hao gives Mu Chen the win and the seeded place",
+    "Places are announced; Mo Ling gets one as an exception",
+    "Tang Qian'er and Hong Ling choose the Phoenix Spiritual Academy; Liu Mubai the Holy Spiritual Academy",
+    "Mu Chen asks about Ji Xuan and Luo Li and chooses the Northern Heaven Spiritual Academy",
+    "Liu Qingtian plans to wipe out Mu Realm",
+    "Jiu You and Mu Chen talk inside his Sea of Chi about the black paper",
+    "Wen Ling gives Mu Chen the Nine Heavens Thunder Spiritual Formation",
+    "General Chen Xiong is killed at the border"
+  ],
+  "introduced": [
+    "Phoenix Spiritual Academy",
+    "Blue Sky Spiritual Academy",
+    "Holy Spiritual Academy",
+    "Martial Spiritual Academy",
+    "Northern Heaven Spiritual Academy",
+    "King level (Spiritual Land rating)",
+    "black paper",
+    "Nine Heavens Thunder Spiritual Formation",
+    "Luo Li (flashback)",
+    "Ji Xuan (named)"
+  ],
+  "cultivation": "Jiu You calls Mu Chen 'a weak person who is just at the Spiritual Ring Level' (Spiritual Rotation, reached in EP13). Mu Chen can form 18 spiritual seals; the Nine Heavens Thunder Spiritual Formation needs 20 and can stop anyone at Spiritual Rotation. Wen Ling plans to become a Level 2 spiritual formation master.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Spiritual Rotation",
+      "quote": "I won't choose a weak person who is just at the Spiritual Ring Level. (766, Jiu You about Mu Chen) / Eighteen spiritual seals. (948)",
+      "t": 766.0,
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "quote": "Her name is Luo Li. Luo Li was also rated as the King level... The Northern Heaven Spiritual Academy. (476-488); Spiritual Land flashback (498-547)",
+      "look": "flashback, on the Spiritual Land",
+      "first": true
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan",
+      "quote": "you must have heard of the name Ji Xuan... he was rated as the King level... The Holy Spiritual Academy. (450-470)",
+      "look": "mentioned only"
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "first": false
+    },
+    {
+      "id": "liu-qingtian",
+      "name": "Liu Qingtian",
+      "first": false
+    },
+    {
+      "id": "liu-mubai",
+      "name": "Liu Mubai",
+      "first": false
+    },
+    {
+      "id": "mister-hao",
+      "name": "Mister Hao",
+      "first": false
+    },
+    {
+      "id": "principal-xiao",
+      "name": "Principal Xiao",
+      "first": false
+    },
+    {
+      "id": "mu-feng",
+      "name": "Mu Feng",
+      "first": false
+    },
+    {
+      "id": "zhou-ye",
+      "name": "Zhou Ye",
+      "first": false
+    },
+    {
+      "id": "wen-ling",
+      "name": "Wen Ling",
+      "first": false
+    },
+    {
+      "id": "tang-qian-er",
+      "name": "Tang Qian'er",
+      "first": false
+    },
+    {
+      "id": "hong-ling",
+      "name": "Hong Ling",
+      "first": false
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling",
+      "first": false
+    },
+    {
+      "id": "chen-xiong",
+      "name": "Chen Xiong",
+      "look": "reported killed at the border (998-1000)"
+    }
+  ],
+  "changes": [
+    "Guide gives only the EP15-18 arc title; EP18 is the seeded-place ruling, the academy choices and the start of Liu Qingtian's attack on Mu Realm.",
+    "Luo Li is first seen (in a Spiritual Land flashback) and Ji Xuan first named here; the roster puts Luo Li's first episode at 25 and Ji Xuan's at 60."
+  ],
+  "flags": [
+    "0-170 s: the opening is covered by watermark junk in the OCR; the end of the seeded-place fight is not readable.",
+    "766 s: 'just at the Spiritual Ring Level' is Jiu You's sneer at Mu Chen; no phase given.",
+    "971-976 s: 'no one at the Spiritual Ring Level can stop it; even those in the early stage of the Divine Soul Level' describe the formation, not a person.",
+    "333-342 s: other place winners are named only once: Chen Fan, Huo Yun, Huang Yuan (not in the roster).",
+    "842-883 s: Jiu You appears to replay Mu Chen's memories of the Chen Tong fight; lines repeat EP16 dialogue."
+  ]
+}

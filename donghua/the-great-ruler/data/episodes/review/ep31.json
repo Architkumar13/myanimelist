@@ -1,0 +1,100 @@
+{
+  "ep": 31,
+  "title": "Reunion with Luo Li",
+  "summary": "Qin Zheng, Wu Hu and Xie Guan track Mu Chen down, but Luo Li arrives and strikes Wu Hu; the three know she was already at Heavenly Fusion when she finished the Spiritual Land. A flashback shows the Spiritual Land, where Luo Li promised to guard Mu Chen's back and he was expelled. Reunited, Luo Li leaves the trio to him; they sneer that absorbing the spirit only raised him to middle Spirit while they are at late Spirit, but he beats all three at once with the Dragon Elephant Formation cast in the Heart Formation state. He shares their seals with Ye Qingling's group, Luo Li gives Ye Qingling the spirit of the Unicorn, 87th on the Earth list, and Luo Li tells him Wen Qingxuan won the Spirit Crown while she wounded Ji Xuan, and that Ji Xuan's follower Yang Hong also chose the Northern Heaven Spiritual Academy. At the Northern Heaven Palace site, eighth-level seals do nothing, but Luo Li's ninth-level seal summons the palace.",
+  "events": [
+    "The trio corners Mu Chen; Luo Li arrives and strikes Wu Hu.",
+    "Flashback: Luo Li's promise in the Spiritual Land and Mu Chen's expulsion.",
+    "Mu Chen and Luo Li reunite.",
+    "Mu Chen, now at middle Spirit, defeats the three late-Spirit pursuers with the Dragon Elephant Formation.",
+    "He shares the Level 8 seals; Luo Li gives Ye Qingling a Unicorn spirit.",
+    "Luo Li reports Wen Qingxuan took the Spirit Crown and Yang Hong has joined the academy.",
+    "Luo Li's ninth-level seal summons the Northern Heaven Palace."
+  ],
+  "introduced": [
+    "Wu Hu",
+    "Wen Qingxuan (named)",
+    "Unicorn (87th on the Earth list)",
+    "Dragon Elephant Suppress"
+  ],
+  "cultivation": "Mu Chen has reached Spirit, Middle Phase after the spirits and the blood connection. Qin Zheng, Wu Hu and Xie Guan are at Spirit, Late Phase. Luo Li was already at Heavenly Fusion when the Spiritual Land ended.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Spirit, Middle Phase",
+      "quote": "It seems you've absorbed the spirit. How come you only advanced to the middle stage of the Divine Soul Level? (540-542)",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "realm": "Heavenly Fusion",
+      "quote": "When Luo Li finished the Spiritual Land, she was already at the Fusion of Heaven Level. (146-147)",
+      "first": false
+    },
+    {
+      "id": "qin-zheng",
+      "name": "Qin Zheng",
+      "realm": "Spirit, Late Phase",
+      "quote": "You are no match for the three of us, who are all at the late stage of the Divine Soul Level. (546-548)",
+      "first": false
+    },
+    {
+      "id": "wu-hu",
+      "name": "Wu Hu",
+      "realm": "Spirit, Late Phase",
+      "quote": "...the three of us, who are all at the late stage of the Divine Soul Level. (548)",
+      "first": false
+    },
+    {
+      "id": "xie-guan",
+      "name": "Xie Guan",
+      "realm": "Spirit, Late Phase",
+      "quote": "...the three of us, who are all at the late stage of the Divine Soul Level. (548)",
+      "first": false
+    },
+    {
+      "id": "ye-qingling",
+      "name": "Ye Qingling",
+      "first": false
+    },
+    {
+      "id": "chu-qi",
+      "name": "Chu Qi",
+      "first": false
+    },
+    {
+      "id": "ye-sun-er",
+      "name": "Ye Sun'er",
+      "first": false
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling",
+      "first": false
+    },
+    {
+      "id": "wen-qingxuan",
+      "name": "Wen Qingxuan",
+      "quote": "The spiritual crown of the Spiritual Land ended up in Wen Qingxuan's hands. (857-858) - mention only",
+      "first": false
+    },
+    {
+      "id": "yang-hong",
+      "name": "Yang Hong",
+      "quote": "mention only (872)",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Confirms guide's Spirit, Middle Phase at EP31."
+  ],
+  "flags": [
+    "548: the trio is not named in the same line; Qin Zheng (EP30 362, EP31 711), Wu Hu (118) and Xie Guan (EP29 234) are the named pursuers, so the late-Spirit realm is assigned to all three with medium confidence.",
+    "776-798: speakers in the Unicorn spirit exchange are not tagged; read as Luo Li giving it to Ye Qingling, then Chu Qi promising to hunt one for Luo Li.",
+    "730: Chu Qi's 'Do we know each other?' exchange is with Luo Li.",
+    "Luo Li at Heavenly Fusion here (EP31) is earlier than the roster's first Luo Li realm (EP42, Heavenly Fusion Late) - consistent, not a regression."
+  ]
+}

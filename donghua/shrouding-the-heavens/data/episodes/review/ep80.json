@@ -1,0 +1,55 @@
+{
+  "ep": 80,
+  "title": "Purifying the Forbidden Zone",
+  "summary": "The battle deep in the Taichu Ancient Mine comes to a head around Great Emperor Heng Yu's old forging site. Still disguised as the Daoist Gu Feng, Ye Fan uses his Source arts to purify the monster of the forbidden zone and repair its broken Dao runes, and he saves the Yaochi Holy Maiden along the way. He comes out of the ordeal with Blood Red Phoenix Gold, a treasure many covet, but badly drained. The Yaochi Holy Maiden and the Yaoguang Holy Son both come away impressed by 'Gu Feng', and the stage is set for the party to leave the forbidden zone.",
+  "events": [
+    "The fight at Heng Yu's forging site in the Taichu Ancient Mine comes to a head",
+    "Ye Fan, as Daoist Gu Feng, purifies the forbidden zone's monster",
+    "He repairs the zone's Dao runes with Source arts",
+    "He saves the Yaochi Holy Maiden",
+    "He wins Blood Red Phoenix Gold but is left weakened"
+  ],
+  "introduced": [
+    "Blood Red Phoenix Gold"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": "Disguised as Gu Feng",
+      "first": false
+    },
+    {
+      "id": "yaochi-holy-maiden",
+      "name": "Yaochi Holy Maiden",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yaoguang-holy-son",
+      "name": "Holy Son of Yaoguang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Rebuilt from EP79's ending and EP81's opening dialogue; no copy of EP80 is reachable. EP81's '[PRATINJAU EPISODE SEBELUMNYA]' block (2:27-3:36) carries no subtitle text and EP79 has no preview, so the evidence is EP81's post-recap lines.",
+    "EP81 4:14-4:18 ('Master Daoist telah memurnikan Monster di area terlarang, memperbaiki Dao Rune, dan menyelamatkanku') supports the purification, rune repair and rescue.",
+    "EP81 6:34-6:39 ('Blood Red Phoenix Gold didambakan banyak orang. Dengan kondisi Master Daoist saat ini, sulit untuk meninggalkan tempat ini') supports the treasure and Ye Fan's weakened state.",
+    "Dropped the old 'divine furnace suppresses a true demon' framing and 'Chen Huaiyuan dies': neither is confirmed by any neighbouring subtitle."
+  ],
+  "flags": [
+    "Whether the 'monster' is the 'true demon' of the old summary, and whether the divine furnace is used, can't be checked.",
+    "Chen Huaiyuan is never named in EP78, EP79 or EP81; his death here is unverified.",
+    "The Yaoguang Holy Son's presence is inferred from EP81's opening, where he is already with the party; his role in EP80 is unknown.",
+    "How Ye Fan obtains the Blood Red Phoenix Gold isn't shown in the neighbours."
+  ]
+}

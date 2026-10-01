@@ -1,0 +1,66 @@
+{
+  "ep": 50,
+  "title": "The Great Meru Demonic Pillar",
+  "summary": "Bai Xuan overwhelms Su Xuan, mocking her middle-phase Heavenly Transformation, while the black demonic pillar in the cave awakens, breaks space and pours its evil aura into Mu Chen. The team flees to the surface, but Bai Xuan catches them; Su Xuan, An Ran and Mu Kui stay to hold him off so Su Ling'er can get Mu Chen away. Inside, Jiuyou helps Mu Chen use the power the black paper turned into to subdue the pillar, which bears the words Great Xumi Demonic Pillar. Bai Xuan breaks through the others' Heavy Wood Shield, Dragon and Serpent Killing and Mountain of Heavy Water. Mu Chen decides to borrow the pillar's remaining evil aura, sends Su Ling'er away and calls out to Bai Xuan that he has everything Bai Xuan wants.",
+  "events": [
+    "Bai Xuan fights Su Xuan",
+    "The demonic pillar breaks space and infects Mu Chen with evil aura",
+    "The team escapes; Bai Xuan catches up",
+    "Su Xuan, An Ran and Mu Kui stay behind to stall him",
+    "Mu Chen and Jiuyou subdue the pillar with the black paper's power; it reads 'Great Xumi Demonic Pillar'",
+    "Bai Xuan beats down the three seniors",
+    "Mu Chen turns back to face Bai Xuan"
+  ],
+  "introduced": [
+    "Great Meru Demonic Pillar (subs: Great Xumi Demonic Pillar)",
+    "Blood Sea",
+    "Spirit Reaping Spear",
+    "Soul Suppression by Blood Python",
+    "Heavy Wood Shield",
+    "Dragon and Serpent Killing",
+    "Mountain of Heavy Water"
+  ],
+  "cultivation": "Su Xuan: Heavenly Transformation, Middle Phase (Bai Xuan). No change for Mu Chen; he starts drawing on the pillar's evil aura.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "su-xuan",
+      "name": "Su Xuan",
+      "realm": "Heavenly Transformation, Middle Phase",
+      "quote": "You're just at the middle stage of the Transformation of Heaven Level,",
+      "t": 28.5
+    },
+    {
+      "id": "bai-xuan",
+      "name": "Bai Xuan"
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen"
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You"
+    },
+    {
+      "id": "su-ling-er",
+      "name": "Su Ling'er"
+    },
+    {
+      "id": "an-ran",
+      "name": "An Ran"
+    },
+    {
+      "id": "mu-kui",
+      "name": "Mu Kui"
+    }
+  ],
+  "changes": [
+    "The pillar's subtitle name 'Great Xumi Demonic Pillar' maps to the site's Great Meru Demonic Pillar."
+  ],
+  "flags": [
+    "536: 'is the datura flower reacting?' makes no sense in context; the object is 'an ancient divine scripture' and the power 'transformed by the black paper' (651), so it probably refers to the black paper. Garbled translation.",
+    "Which attack belongs to whom (740-768) is inferred: Soul Suppression by Blood Python to Bai Xuan, Heavy Wood Shield to Mu Kui (wood attribute), Dragon and Serpent Killing to An Ran (the rings), Mountain of Heavy Water to Su Xuan.",
+    "The pillar episode ordering is confusing in the subtitles (the pillar 'came out too' at 190, then is subdued at 535-666)."
+  ]
+}

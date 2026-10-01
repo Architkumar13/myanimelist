@@ -1,0 +1,72 @@
+{
+  "ep": 85,
+  "title": "The Wood God Guard and Zhen Qing's end",
+  "summary": "Inside the Realm of Ten Thousand Trees, Mu Chen's Thunder Summoning Art clashes with Xia Hou's Nine Stars Piercing the Sun, while Luo Li finds the barrier's central meridian and blocks it with a divine artifact. Zhen Qing then turns on his ally and drains Xia Hou dry, and the Holy Son dies as 'nourishment' for the awakening Wood God Guard, whose strength approaches Sovereign level. Zhen Qing boasts that the drained teams, including Mu Fengyang, are now puppets, but Mu Chen works out that their divine souls are only locked by a seal that has to keep drawing power. Mu Chen takes a near-Sovereign blow, comprehends the Wood God Seal and reverses it, freeing everyone. The freed Phoenix and Desolate fighters turn on Zhen Qing, who self-destructs to take them with him, and the teams flee the hall. Luo Li takes the Wood God Guard away with them.",
+  "events": [
+    "Mu Chen (Thunder Summoning Art) vs Xia Hou (Nine Stars Piercing the Sun)",
+    "Luo Li blocks the barrier's central meridian with a divine artifact",
+    "Zhen Qing drains Xia Hou to death and awakens the Wood God Guard",
+    "Mu Chen realises the 'puppets' only have locked divine souls",
+    "Mu Chen survives a near-Sovereign blow and reverses the Wood God Seal",
+    "The freed teams attack Zhen Qing, who self-destructs",
+    "Everyone escapes the hall; Luo Li takes the Wood God Guard"
+  ],
+  "introduced": [
+    "Wood God Guard",
+    "Wood God Seal",
+    "Nine Stars Piercing the Sun",
+    "Thunder Summoning Art"
+  ],
+  "cultivation": "The awakened Wood God Guard's strength 'might approach the Supreme Lord Level' (near Sovereign). No named character's realm is stated.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": null,
+      "name": "Wood God Guard (Zhen Qing's)",
+      "realm": "near Sovereign",
+      "quote": "The Wood God Guard' strength might approach the Supreme Lord Level.",
+      "t": 550.0,
+      "first": true
+    },
+    {
+      "id": "zhen-qing",
+      "name": "Zhen Qing"
+    },
+    {
+      "id": "xia-hou",
+      "name": "Xia Hou",
+      "look": "killed, drained by Zhen Qing"
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen"
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li"
+    },
+    {
+      "id": "mu-fengyang",
+      "name": "Mu Fengyang"
+    },
+    {
+      "id": "zhao-qingshan",
+      "name": "Zhao Qingshan"
+    },
+    {
+      "id": "tang-mei-er",
+      "name": "Tang Mei'er"
+    },
+    {
+      "id": "liu-ying",
+      "name": "Liu Ying"
+    }
+  ],
+  "changes": [
+    "The guide's 'Mu Chen vs Divine God Guard' is the Wood God Guard; the win comes from reversing the Wood God Seal, not from beating the guard outright."
+  ],
+  "flags": [
+    "468 s: 'even if you pass the Tribulation of the Divine Soul, you won't be a match' is a comparison, not anyone's realm.",
+    "1027-1056 s is a preview of EP86 (Wu Yingying's revenge, the Ji Xuan story, Mo Yu's deal with Cao Gang)."
+  ]
+}

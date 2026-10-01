@@ -1,0 +1,60 @@
+{
+  "ep": 67,
+  "title": "Mo Longzi's Dragon-transforming Blood Art",
+  "summary": "The four duels to the death between North Heaven's students and Mo Longzi's bounty-list fighters continue in the Fog Valley. Mu Chen forces his Spiritual Eye open in the middle of the fighting, though it takes time to work. As the fights turn against North Heaven, the students risk everything to come to one another's aid. Mo Longzi unleashes the Dragon Demon Palace's secret technique, the Dragon-transforming Blood Art, and vows to send them all to hell together. By the end Shen Cangsheng, Li Xuantong and Luo Li are all wounded, and Mu Chen wonders whether he has any choice left but to use his hidden trump card.",
+  "events": [
+    "The four duels against the bounty-list fighters continue in the Fog Valley",
+    "Mu Chen forces his Spiritual Eye open, though it takes time to work",
+    "North Heaven's students risk everything to help one another",
+    "Mo Longzi uses the Dragon Demon Palace's secret Dragon-transforming Blood Art",
+    "Mo Longzi vows to send them all to hell together",
+    "Shen Cangsheng, Li Xuantong and Luo Li are left wounded",
+    "Mu Chen weighs using his hidden trump card"
+  ],
+  "introduced": [
+    "Dragon-transforming Blood Art"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "quote": "It takes time to activate, even after forcibly opening my Spiritual Eye. / Do I really have no choice... but to use it? (EP68 recap, 145-172 s)",
+      "first": false
+    },
+    {
+      "id": "mo-longzi",
+      "name": "Mo Longzi",
+      "quote": "Could it be the secret technique of the Dragon Demon Palace: the Dragon-transforming Blood Art? / You can all keep each other company on the way to hell. (EP68 recap, 161-169 s)",
+      "first": false
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "first": false
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    }
+  ],
+  "changes": [
+    "No subtitles exist for EP67. Rebuilt from the EP68 recap (145-172 s), the end of EP66 (subtitles stop at about 846 s mid-fight, with no preview), the EP66 and EP68 reviews, and the guide entry ('The moment of team spirit's explosion').",
+    "Guide: 'The moment of team spirit's explosion' is kept as the students risking everything for one another; the recap lines 'Senior! I will also risk it all' and 'You shouldn't have come to save me' support it."
+  ],
+  "flags": [
+    "EP68 recap 145-148 s: 'It takes time to activate, even after forcibly opening my Spiritual Eye' is read as Mu Chen (the Spiritual Eye is his); what he is activating is not said.",
+    "EP68 recap 150-161 s: 'Senior! I will also risk it all', 'You shouldn't have come to save me' and 'Don't worry, already completed' have no named speakers.",
+    "EP68 recap 161-169 s: the Dragon-transforming Blood Art and the 'way to hell' threat are read as Mo Longzi, who uses the art in EP68.",
+    "The results of the Mu Chen vs Wu Jia, Luo Li vs Mu Gu and Li Xuantong vs Gui Xiong duels are not shown in the evidence and are not recorded.",
+    "The wounded state of Shen Cangsheng, Li Xuantong and Luo Li comes from the opening of EP68 (after the recap), not from EP67 footage.",
+    "The 'hidden trump card' is the Great Meru Demonic Pillar's power, which Mu Chen uses in EP68; EP67 only has him weighing it."
+  ]
+}

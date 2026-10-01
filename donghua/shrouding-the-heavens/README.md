@@ -19,7 +19,7 @@ python3 scripts/build_episodes.py    # data/episodes/*.json -> site/data/episode
 python3 scripts/build_cast.py        # data/characters/ -> site/data/cast.js (the People pages)
 ```
 
-**People pages.** `data/characters/roster.json` is the donghua cast (107 people, in order of first on-screen appearance) with a realm timeline and every look change, each tagged with its episode. Sources and doubts are in `data/characters/SOURCES.md`. `data/characters/picks.json` records which still is used for each look: a frame from the official channel (EP1–50, re-grabbed at 1080p), a frame from a fan re-upload of an episode's preview clip, or a fan-wiki picture. Picks marked `"manual"` were chosen by hand. The portraits in `site/img/cast/` come from the face-matching scripts in `scripts/stills/`. Those need yt-dlp, OpenCV and ffmpeg in `/tmp/ytenv` and working files in `/tmp/stills`, so treat them as a record of how the pictures were made rather than a one-command rebuild. 5 looks still have no clear still (the Crocodile Ancestor, Zhang Ziling, Lingxu's master, the Sun Holy Emperor and the Thousand-Armed Divine Demon) and show a placeholder. Picks of kind `ak` are frames from the full episodes on AnimeKhor.
+**People pages.** `data/characters/roster.json` is the donghua cast (107 people, in order of first on-screen appearance) with a realm timeline and every look change, each tagged with its episode. Sources and doubts are in `data/characters/SOURCES.md`. `data/characters/picks.json` records which still is used for each look: a frame from the official channel (EP1–50, re-grabbed at 1080p), a frame from a fan re-upload of an episode's preview clip, or a fan-wiki picture. Picks marked `"manual"` were chosen by hand. The portraits in `site/img/cast/` are rendered by `scripts/stills/render.py` (run with `../.tools/venv/bin/python`). The source frames and face-match data from the first pass are kept in `cache/stills/`, so re-rendering doesn't need the old downloads. The other scripts in `scripts/stills/` (scan, label, autopick, preview downloads) are a record of that first pass over the official channel's EP1–50 and the preview clips. 5 looks still have no clear still (the Crocodile Ancestor, Zhang Ziling, Lingxu's master, the Sun Holy Emperor and the Thousand-Armed Divine Demon) and show a placeholder. Picks of kind `ak` are frames from the full episodes on AnimeKhor.
 
 Hand-curated content (realms, tiers, factions, eras, journey, terms, milestones) lives in `site/data/world.js`; each item carries the episode it first appears in, shown as a label.
 
@@ -27,7 +27,7 @@ Episode summaries for EP1–50 were written from the official English subtitles.
 
 `scripts/apply_subs_review.py` applied the review to the cast: first appearances, realms from on-screen name cards, and Ye Fan's realm timeline after EP50.
 
-`scripts/stills/animekhor.py` fetches an episode's subtitles (`subs N`) or a 1080p frame (`still N T`). Times follow the subtitle clock. It needs `pip install "yt-dlp[default,curl-cffi]"` in `/tmp/ytenv`, because Dailymotion throttles clients that don't look like a browser.
+The AnimeKhor tools are shared by every show and live in `../tools/` (see `../README.md`). New episodes go through the `new-episode` skill.
 
 Wiki text and pictures come from the [fan wiki](https://shrouding-the-heavens.fandom.com/) (text CC BY-SA; the pictures are stills and art from the donghua, whose rights belong to their owners). Fine for personal use; think twice before publishing the site publicly with them.
 

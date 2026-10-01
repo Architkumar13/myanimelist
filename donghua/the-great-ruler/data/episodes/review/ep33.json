@@ -1,0 +1,128 @@
+{
+  "ep": 33,
+  "title": "The Divine Soul Ranking",
+  "summary": "An Ran shows the freshmen the Divine Soul Ranking, which pays daily spirit value to its top ten and is gamed by people on the verge of Heavenly Fusion, and the Heavenly Ranking for students of the three Heaven stages, headed by Shen Cangsheng, with Li Xuantong second, Wang Zhong eighth and Zhou Fan tenth. Mu Chen sees Bing Qing of the Ice Spirit Race, Mu Kui, and his Spiritual Land rival Yang Hong, who mocks him for being only at middle Spirit; they agree to settle it at the freshmen assembly. Mu Chen spends his spirit value on a First Class dormitory to share with Luo Li. To afford the 20,000 Divine Soul Pill that Luo Li says will take him to late Spirit, he enters the Divine Soul Ranking and takes third place from Mo Lun, earning enough to buy it. He sees that the Dragon Fish of Beiming essence and blood costs 7 million, and a clerk asks whether Luo Li is of the Luo God Race; she will not say. Mu Chen heads into the Thunder Realm to refine the pill.",
+  "events": [
+    "An Ran explains the Divine Soul Ranking and the Heavenly Ranking; Shen Cangsheng is first.",
+    "Bing Qing, Mu Kui and Yang Hong are pointed out; Yang Hong taunts Mu Chen.",
+    "The freshmen dormitory sits on a Level 4 Spirit Collecting Formation; Mu Chen and Luo Li take a First Class dormitory.",
+    "Luo Li finds the Divine Soul Pill (20,000 spirit value) for Mu Chen.",
+    "Mu Chen takes third place on the Divine Soul Ranking from Mo Lun.",
+    "The Dragon Fish of Beiming essence and blood is listed at 7 million.",
+    "Mu Chen buys the Divine Soul Pill and goes to the Thunder Realm; Luo Li goes to a Level 5 Spirit Collecting Formation."
+  ],
+  "introduced": [
+    "Divine Soul Ranking",
+    "Heavenly Ranking",
+    "Shen Cangsheng",
+    "Li Xuantong (named)",
+    "Wang Zhong (Heavenly Ranking 8th)",
+    "Zhou Fan",
+    "Bing Qing",
+    "Ice Spirit Race",
+    "Mu Kui",
+    "Yang Hong",
+    "Mo Lun",
+    "Hall of Spirit Value",
+    "Spirit Collecting Formation",
+    "Thunder Realm",
+    "Thunder Pearl",
+    "Divine Soul Pill",
+    "Luo God Race"
+  ],
+  "cultivation": "Mu Chen is at Spirit, Middle Phase; the Divine Soul Pill is meant to take him to Spirit, Late Phase. The Heavenly Ranking is open only to those in the three Heaven stages.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Spirit, Middle Phase",
+      "quote": "Why are you only at the middle stage of the Divine Soul Level? (218)",
+      "first": false
+    },
+    {
+      "id": "yang-hong",
+      "name": "Yang Hong",
+      "quote": "So what if your level is higher than me? I can still defeat you. (231) - Yang Hong is above middle Spirit, stage not stated",
+      "first": true,
+      "card": 187.0
+    },
+    {
+      "id": "mu-kui",
+      "name": "Mu Kui",
+      "first": true,
+      "card": 178.5
+    },
+    {
+      "id": "bing-qing",
+      "name": "Bing Qing",
+      "quote": "She is a genius of the Ice Spirit Race. (154)",
+      "first": true
+    },
+    {
+      "id": "mo-lun",
+      "name": "Mo Lun",
+      "quote": "Mo Lun, the third place in the Divine Soul Ranking. (696)",
+      "first": true,
+      "card": 713.5
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "quote": "[the first in the Heavenly Ranking Shen Cangsheng] (109.5)",
+      "first": true,
+      "card": 109.5
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "quote": "The second in the Heavenly Ranking. Li Xuantong. (103-104) - name only",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Wang Zhong (Heavenly Ranking)",
+      "quote": "The eighth in the Heavenly Ranking. Wang Zhong. (100-102)",
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Zhou Fan",
+      "quote": "The tenth in the Heavenly Ranking. Zhou Fan. (98-99)",
+      "first": true
+    },
+    {
+      "id": "an-ran",
+      "name": "An Ran",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "first": false
+    },
+    {
+      "id": "luo-tianshen",
+      "name": "Luo Tianshen",
+      "quote": "Who is the Luo Tianshen to you? (884) - mention only",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Shen Cangsheng is shown by caption here (roster first EP52), and Li Xuantong is named (roster first EP35)."
+  ],
+  "flags": [
+    "236-238: 'I heard you defeated the senior students of the Divine Soul Level with the strength of the middle stage of the Fusion of Heaven Level' is garbled; the fight was Mu Chen at middle Spirit beating An Ran at Heavenly Fusion. The realms are swapped; not recorded.",
+    "Yang Hong's realm is only implied as higher than middle Spirit (231); the roster's 'Heavenly Fusion, Initial Phase' at EP33 is not stated in these subs.",
+    "680 vs 696: 'He can reach the fourth place' then 'replace Mo Lun, the third place'; EP34 confirms third.",
+    "Wang Zhong here is the Northern Heaven Heavenly Ranking's eighth, not the roster's wang-zhong-iii (Saint Academy); left id null.",
+    "650.5: '[Mu Chen]' is his name appearing on the ranking, not a character card.",
+    "Mo Lun's realm is not stated; being on the Divine Soul Ranking suggests Spirit but the same scene warns some are already near Heavenly Fusion.",
+    "737: after the ranking his card shows 24,100; after the pill, 4,100 (875)."
+  ]
+}

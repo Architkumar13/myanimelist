@@ -1,0 +1,75 @@
+{
+  "ep": 83,
+  "title": "Three academies ally in the Demon Forest",
+  "summary": "Vines ambush North Heaven and the Desolate team, and Liu Ying's recklessness gets his team, and Mu Fengyang, poisoned before Mu Chen draws the poison out the same way he once treated Shen Cangsheng. They reach Xia Hou just as he attacks the weakened Phoenix team, and Mu Chen steps in to protect Tang Mei'er. Mu Chen then treats the Phoenix girls' poison, and Tang Mei'er offers half her points and proposes a temporary alliance of North Heaven, Phoenix and Desolate. Mu Chen agrees on the condition that nobody acts on impulse. Meanwhile the hidden Wood-clan harvester, working with Xia Hou, lets a Demonic Spirit Tree bloom as a bait trap, and the greedy teams who rush to its 'Spiritual Fruits' are drained. Mu Chen senses the fake and stays out, and the alliance enters the Divine Wood Palace Ruins, where he finds the real Celestial Spirit Tree and runs into Wu Yingying.",
+  "events": [
+    "Vine ambush; Liu Ying's team and Mu Fengyang are poisoned and Mu Chen detoxifies them",
+    "Xia Hou attacks the weakened Phoenix team; Mu Chen protects Tang Mei'er",
+    "A dying Phoenix member's wish that her team reach the finals",
+    "Tang Mei'er offers half her points; North Heaven, Phoenix and Desolate form a temporary alliance",
+    "The harvester and Xia Hou use a Demonic Spirit Tree to lure and drain other teams",
+    "Mu Chen senses the trap and holds the alliance back",
+    "The alliance enters the Divine Wood Palace Ruins and splits up; Mu Chen finds the real Celestial Spirit Tree and Wu Yingying"
+  ],
+  "introduced": [
+    "Celestial Spirit Tree",
+    "Demonic Spirit Tree",
+    "Divine Wood Palace Ruins",
+    "Demon Forest"
+  ],
+  "cultivation": "The subs say the Spiritual Fruit helps Heavenly Completion cultivators pass the Human Body Disaster. No new realm is stated for a named character.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen"
+    },
+    {
+      "id": "tang-mei-er",
+      "name": "Tang Mei'er"
+    },
+    {
+      "id": "xia-hou",
+      "name": "Xia Hou"
+    },
+    {
+      "id": "zhen-qing",
+      "name": "Zhen Qing",
+      "look": "unnamed Wood-clan harvester"
+    },
+    {
+      "id": "liu-ying",
+      "name": "Liu Ying"
+    },
+    {
+      "id": "wu-yingying",
+      "name": "Wu Yingying"
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li"
+    },
+    {
+      "id": "mu-fengyang",
+      "name": "Mu Fengyang"
+    },
+    {
+      "id": "zhao-qingshan",
+      "name": "Zhao Qingshan"
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan",
+      "look": "mentioned only"
+    }
+  ],
+  "changes": [
+    "The alliance is proposed by Tang Mei'er after Mu Chen saves her team from Xia Hou; the guide's order (rescue, then alliance) holds."
+  ],
+  "flags": [
+    "145-172 s is a recap of EP82; 1116 s onward is a preview of EP84-85.",
+    "150 s (recap) restates that Mu Chen is at late Heavenly Completion and that his opponent has passed the Spiritual Energy Disaster; not re-recorded.",
+    "488-508 s: who hands Mu Chen an item ('This should be returned to you') and who died is not clear from the subs.",
+    "1045 s: 'You big scoundrel!' is Wu Yingying (confirmed by EP84)."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "ep": 166,
+  "title": "The North Sea Eye",
+  "summary": "The battle inside the Goddess Furnace continues. Pushed against Yi Qingwu and the spirit of the Guanghan Palace, with its Seven Forbidden Domain, Ye Fan briefly touches the legendary God Forbidden Domain, a state no one in human form can truly enter and only those standing at the Eight Forbidden Domains can glimpse for a moment. The Sun Holy Emperor's divine will leaves him nine ancient characters and a lingering blessing. When the battle at the North Sea ends, the Goddess Furnace has been exposed to the world and Li Tian's name is ruined. Ye Fan is cast into the North Sea Eye, a prison built to hold saints, and the Sun Holy Emperor's blessing lets him break out of it.",
+  "events": [
+    "The fight inside the Goddess Furnace goes on against Yi Qingwu and the Guanghan spirit",
+    "Ye Fan briefly touches the God Forbidden Domain",
+    "The Sun Holy Emperor's divine will gives Ye Fan nine ancient characters",
+    "The battle of the North Sea ends and the Goddess Furnace is revealed to the world",
+    "Ye Fan is sealed in the North Sea Eye, a prison for saints",
+    "The Sun Holy Emperor's blessing lets him break free"
+  ],
+  "introduced": [
+    "North Sea Eye",
+    "God Forbidden Domain",
+    "Nine ancient characters"
+  ],
+  "cultivation": "Ye Fan briefly touches the God Forbidden Domain, which lets its user skip nine minor levels.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "yi-qingwu",
+      "name": "Yi Qingwu",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "li-tian",
+      "name": "Li Tian",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "sun-holy-emperor",
+      "name": "Sun Holy Emperor",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Rebuilt from EP165's ending, EP167 and EP168; no copy of EP166 is reachable. EP167's '[RINGKASAN EPISODE SEBELUMNYA]' block (0:00-0:30) carries no subtitle text.",
+    "EP167 0:57-1:25: during his fight with Yi Qingwu Ye Fan briefly touched the God Forbidden Domain ('Alam Terlarang Dewa Abadi'), which only those at the Eight Forbidden Domains can glimpse and which skips nine minor levels, thanks to the Sun Holy Emperor's blessing.",
+    "EP167 9:19-9:22: the nine ancient characters are 'hadiah dari kesadaran ilahi Kaisar Suci Matahari'.",
+    "EP167 14:06-14:16: after the North Sea battle the Goddess Furnace appeared in the world and Li Tian has been branded a pervert for four years.",
+    "EP168 3:15-3:36: Ye Fan escaped the North Sea Eye, 'penjara bagi orang-orang kudus', protected by the Sun Holy Emperor's remaining blessing (the Golden Crow First Prince calls it a curse).",
+    "Dropped the Fusang branch from this episode: Ye Fan already found a young Fusang branch in EP165. Dropped 'carved on his brow' and Tanggu sinking into the North Sea Eye, which no neighbour confirms. The 'Dao Severing' cultivation note was an unconfirmed outside claim and is removed."
+  ],
+  "flags": [
+    "The breakout itself may fall at the very start of EP167 (0:38 'Pecah!', 0:46 'Wilayah Terlarang Sang Dewa').",
+    "Whether Ye Fan and Yi Qingwu go through the Human Desire tribulation and make a pact is unconfirmed. EP168 11:48-12:01 has Ye Fan say 'pada saat kritis, dia akan berpihak pada kita' and refuse to say what happened four years ago, which fits some understanding between them.",
+    "Priest San Que may die here: EP169 18:46 ('Biksu San Que ternyata belum meninggal') implies he was thought dead. Unconfirmed.",
+    "Lu Ya survives the North Sea (he returns in EP168-169)."
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "ep": 63,
+  "title": "The Rescue Team Sets Out",
+  "summary": "The Blood Cry Bell, carried only by the Heavenly Ranking's top ten, reports that Mo Longzi and top bounty-list names have trapped Shen Cangsheng and Li Xuantong in the Fog Valley. Because of a pact with the Dragon Demon Palace that elders will not interfere in the younger generation's fights, Tai Cang sends Mo You with the Penalty Hall and assigns Mu Chen, Luo Li and Su Xuan to Lin Zheng's rescue team. Mu Chen explains to Luo Li that Ling Xi's interest is the pagoda inside him, linked to her lost memories and his mother. Ling Xi leaves her bamboo grove to give him a Level 5 spiritual formation she drew for a life-or-death moment. The briefing profiles Chi Yu (7th), Mao Jiang (8th), Teng Long (6th), Gui Xiong (4th), Mu Gu (3rd), Wu Jia (5th, a formation master) and Mo Longzi, while the Dragon Demon Palace plots to reclaim the Great Xumi Demonic Pillar from Mu Chen. In the Fog Valley a Void Formation Arts array scatters the team.",
+  "events": [
+    "The Blood Cry Bell reports Shen Cangsheng and Li Xuantong trapped.",
+    "The elders cannot intervene; Mo You sends the Penalty Hall with Mu Chen, Luo Li and Su Xuan.",
+    "Mu Chen clears up Luo Li's jealousy over Ling Xi.",
+    "Ling Xi gives Mu Chen a Level 5 spiritual formation.",
+    "Briefing on the bounty-list fighters.",
+    "The Dragon Demon Palace aims to retake the Great Xumi Demonic Pillar.",
+    "A formation scatters the team in the Fog Valley."
+  ],
+  "introduced": [
+    "Mao Jiang",
+    "Gui Xiong",
+    "Mu Gu",
+    "Wu Jia",
+    "West Wasteland",
+    "Void Formation Arts",
+    "Dragon Demon Palace plan (venom basin / Gu king)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "ye-sun-er",
+      "name": "Ye Sun'er",
+      "first": false
+    },
+    {
+      "id": "ling-xi",
+      "name": "Ling Xi",
+      "first": false
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "mo-you",
+      "name": "Mo You",
+      "first": false
+    },
+    {
+      "id": "su-xuan",
+      "name": "Su Xuan",
+      "first": false
+    },
+    {
+      "id": "lin-zheng",
+      "name": "Lin Zheng",
+      "first": false
+    },
+    {
+      "id": "zhou-qingshan",
+      "name": "Zhou Qingshan",
+      "first": false
+    },
+    {
+      "id": "gu-tianyan",
+      "name": "Gu Tianyan",
+      "first": false
+    },
+    {
+      "id": "chi-yu",
+      "name": "Chi Yu",
+      "quote": "ranks 7th on the bounty list (562)",
+      "first": false
+    },
+    {
+      "id": "mao-jiang",
+      "name": "Mao Jiang",
+      "quote": "ranks 8th on the bounty list (579)",
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Teng Long",
+      "quote": "ranks 6th on the bounty list (604.5)",
+      "first": false
+    },
+    {
+      "id": "gui-xiong",
+      "name": "Gui Xiong",
+      "quote": "ranks 4th on the bounty list (616)",
+      "first": true
+    },
+    {
+      "id": "mu-gu",
+      "name": "Mu Gu",
+      "quote": "ranks 3rd on the bounty list (631)",
+      "first": true
+    },
+    {
+      "id": "wu-jia",
+      "name": "Wu Jia",
+      "quote": "ranks 5th on the bounty list (655); a spiritual formation master",
+      "first": true
+    },
+    {
+      "id": "mo-longzi",
+      "name": "Mo Longzi",
+      "first": false
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "first": false
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "604.5: Teng Long 6th here vs 5th in EP62 (778.5).",
+    "No realms stated; bounty ranks only.",
+    "836-864: speakers of the formation lines unclear (Lin Zheng / Wu Jia / Luo Li)."
+  ]
+}

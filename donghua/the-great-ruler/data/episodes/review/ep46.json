@@ -1,0 +1,70 @@
+{
+  "ep": 46,
+  "title": "The Flame Immortal Lotus",
+  "summary": "Bai Dong springs his ambush and admits White Dragon City belongs to the Dragon Demon Palace; Mu Chen, facing Elder Qiu at initial-phase Heavenly Transformation, escapes by leaping into the magma pool, protected by the Jiuyou Flames. Two hundred metres down he finds a Flame Immortal Lotus guarded by the Flame-Devouring Python King, as strong as a middle-phase Heavenly Transformation expert. Jiuyou comes out in her original form, scares it off and takes a White Dragon Token from it for him, and he refines the lotus seed, which burns out the fire poison and lifts him to middle-phase Heavenly Fusion. He kills the two guards Bai Dong left behind. Elsewhere An Ran finds the Dragon and Serpent Spiritual Rings in a stone hall and is attacked by two brothers of the Lion and Tiger Gang, both near Heavenly Transformation, who take the Serpent ring; Mu Chen arrives to help her.",
+  "events": [
+    "Bai Dong ambushes Mu Chen; Elder Qiu attacks",
+    "Mu Chen jumps into the magma to escape",
+    "He finds the Flame Immortal Lotus and the Flame-Devouring Python King",
+    "Jiuyou appears in her true form and hands him the White Dragon Token",
+    "Refining the lotus seed takes him to middle-phase Heavenly Fusion",
+    "Mu Chen kills Bai Dong's two lookouts",
+    "An Ran takes the Dragon and Serpent Spiritual Rings and is attacked by the Lion and Tiger Gang; Mu Chen arrives"
+  ],
+  "introduced": [
+    "Flame-Devouring Python King",
+    "White Dragon Token",
+    "Dragon and Serpent Spiritual Rings",
+    "Black Dragon Spear (Elder Qiu's move)",
+    "Stone Hall"
+  ],
+  "cultivation": "Mu Chen breaks through to Heavenly Fusion, Middle Phase after refining the Flame Immortal Lotus seed. Elder Qiu: Heavenly Transformation, Initial Phase. Flame-Devouring Python King: as strong as Heavenly Transformation, Middle Phase. The two Lion and Tiger Gang brothers are at 'quasi-Heavenly Transformation' (the peak just below it).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Fusion, Middle Phase",
+      "quote": "The middle stage of the Fusion of Heaven Level? Why did he advance so quickly?",
+      "t": 618.0,
+      "note": "Earlier the guards call him 'just at the early stage of the Fusion of Heaven Level' (581.0); breakthrough follows the lotus seed"
+    },
+    {
+      "id": "elder-qiu",
+      "name": "Elder Qiu",
+      "realm": "Heavenly Transformation, Initial Phase",
+      "quote": "He's at the early stage of the Transformation of Heaven Level.",
+      "t": 83.0
+    },
+    {
+      "id": null,
+      "name": "Flame-Devouring Python King",
+      "realm": "Heavenly Transformation, Middle Phase",
+      "quote": "is as strong as someone at the middle stage of the Transformation of Heaven Level.",
+      "t": 364.5,
+      "first": true,
+      "card": 354.5
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "look": "Appears outside Mu Chen in her original giant bird form"
+    },
+    {
+      "id": "bai-dong",
+      "name": "Bai Dong"
+    },
+    {
+      "id": "an-ran",
+      "name": "An Ran"
+    }
+  ],
+  "changes": [
+    "Guide's Heavenly Fusion, middle phase at episode 46 is confirmed, with the cause (the Flame Immortal Lotus seed)."
+  ],
+  "flags": [
+    "220: 'even those at the Transformation of Heaven Level can't resist the fire poison' is a comparison, not anyone's realm.",
+    "841: the Lion and Tiger Gang brothers say 'Both of us are at the quasi-Transformation of Heaven Level'. They are unnamed in the subtitles (wiki: the regiment's leaders are Cheng Hu and Cheng Shi), so they are left out of cast.",
+    "Jiuyou's form change: 'You've recovered so well that you can transform into your original form?' (476)."
+  ]
+}

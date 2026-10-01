@@ -1,0 +1,91 @@
+{
+  "ep": 60,
+  "title": "Mu Chen vs Xue Shi",
+  "summary": "Mu Chen, fresh from the infusion, returns to the arena, sees Luo Li hurt, and challenges Xue Shi, whom he recognises as middle-phase Heavenly Completion. Xue Shi uses Blood Shadow Killing Formation, Blood River to Heaven and the Blood Divine Armor, and his blood qi drains his opponent's spiritual power; the Supreme Cauldron side cannot believe Mu Chen is only at late Heavenly Transformation. Mu Chen breaks the armor from inside and out with the new Constellation Sutra of Four Gods and the Lightning Fist, knocking Xue Shi out of bounds. When Xue Shi attacks his back, Mu Chen hits him with Dark God Thunder poison; Fei Qingsong steps in, Tai Cang faces him down, and Supreme Cauldron leaves vowing revenge at the Spiritual Academy Competition. Mu Chen is hailed as third on the Heavenly Ranking. Tai Cang warns of stronger rivals such as Ji Xuan, who appears briefly, while Shen Cangsheng and Li Xuantong keep chasing Mo Longzi.",
+  "events": [
+    "Mu Chen returns and challenges Xue Shi.",
+    "Xue Shi's blood arts and Blood Divine Armor press him.",
+    "Onlookers note Mu Chen is only at late Heavenly Transformation.",
+    "Mu Chen's Lightning Fist knocks Xue Shi out of the ring.",
+    "Xue Shi's sneak attack is punished with thunder poison; Fei Qingsong and Tai Cang clash.",
+    "Tai Cang names Ji Xuan as a future opponent; Ji Xuan appears.",
+    "Shen Cangsheng and Li Xuantong close in on Mo Longzi."
+  ],
+  "introduced": [
+    "Blood Shadow Killing Formation",
+    "Blood River to Heaven",
+    "Blood Divine Armor",
+    "Blood Divine Spirit-Breaking Seal",
+    "Lightning Fist",
+    "Spiritual Academy Competition"
+  ],
+  "cultivation": "Mu Chen: Heavenly Transformation, Late Phase, after the infusion ('he has made another breakthrough'). Xue Shi confirmed at middle Heavenly Completion.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Transformation, Late Phase",
+      "quote": "Is this guy really just at the late stage of the Transformation of Heaven Level? (318.5); 'After only a few days he has made another breakthrough.' (313.5)",
+      "first": false
+    },
+    {
+      "id": "xue-shi",
+      "name": "Xue Shi",
+      "realm": "Heavenly Completion, Middle Phase",
+      "quote": "The middle stage of the Completion of Heaven Level? (149) - Mu Chen sizing him up",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "fei-qingsong",
+      "name": "Fei Qingsong",
+      "first": false
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "su-xuan",
+      "name": "Su Xuan",
+      "first": false
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan",
+      "quote": "'such as Ji Xuan.' (845) / 'Finally, we'll meet face to face.' (848.5)",
+      "first": true
+    },
+    {
+      "id": "mo-longzi",
+      "name": "Mo Longzi",
+      "first": false
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "first": false
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Mu Chen's late Heavenly Transformation is first stated here, not EP59 as the roster has it."
+  ],
+  "flags": [
+    "354.5: 'Even before reaching the Transformation of Heaven Level, he went toe-to-toe with Mo Longzi' - past comparison, not a new realm.",
+    "783.5: 'third on the Heavenly Ranking' - a ranking, not a realm.",
+    "848.5: Ji Xuan's first on-screen glimpse (no name card); roster first ep 60 matches.",
+    "924-953: [In the Next Episode] preview of EP61 (Ling Xi).",
+    "0-37: recap of EP59."
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "ep": 69,
+  "title": "The Dragon Demon Brand and Mu Chen's bet",
+  "summary": "The dean and the three Elders of the Celestial Seat praise Mu Chen, then set up a formation to erase the Dragon Demon Brand the Black Dragon Sovereign planted on the Great Sumeru Demonic Pillar. The brand lets the Dragon Demon Palace descend; the Black Dragon Sovereign tries to blow up the formation and free the Pillar until Lord Beiming, the Northern Sea Dragon, freezes him and drives him off. The retreating Palace learns that Beiming is a ninth-grade Sovereign close to Earth Sovereign, and that Master Wuliang has agreed to work with them through the Holy Spiritual Academy, aiming at the Holy Spirit Mountain Trial in a month. Tai Cang explains that the trial's Holy Spirit Baptism helps geniuses survive the Three Sovereign Disasters, but refuses to send Mu Chen, who is only at the late phase of Heavenly Transformation. Mu Chen bets the dean and elders that he can reach Heavenly Completion within a month. Ling Xi finds their spiritual power resonates, begins pouring hers into him in her courtyard pool, and recovers a memory of being taken in as a beggar child by 'Aunt Jing', who gave her the Yin volume of the art and saved the Yang volume for her son.",
+  "events": [
+    "The elders praise Mu Chen for the rescue",
+    "The dean and elders try to erase the Dragon Demon Brand on the Pillar",
+    "The Black Dragon Sovereign descends and tries to free the Pillar",
+    "Lord Beiming freezes him and drives the Dragon Demon Palace off",
+    "The Palace learns Master Wuliang will cooperate, via the Holy Spiritual Academy",
+    "Tai Cang explains the Holy Spirit Mountain Trial and the Three Tribulations",
+    "Mu Chen bets he will reach Heavenly Completion within a month",
+    "Ling Xi starts transferring power to him and remembers Aunt Jing"
+  ],
+  "introduced": [
+    "Elders of the Celestial Seat",
+    "Dragon Demon Brand",
+    "Holy Spirit Mountain Trial",
+    "Holy Spirit Baptism",
+    "Three Tribulations (Physical Body, Spiritual Power, Triple Divine Soul)",
+    "Ling Xi Courtyard",
+    "Yin and Yang volumes of the Great Buddha Art"
+  ],
+  "cultivation": "Mu Chen is at the late phase of Heavenly Transformation (subs: Transformation of Heaven Level). Lord Beiming (the Northern Sea Dragon) is called a ninth-grade Sovereign 'about to become an Earth Supreme Lord'. The Three Tribulations named here are the Three Sovereign Disasters.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Transformation, Late Phase",
+      "quote": "Mu Chen, you're only at the late stage of the Transformation of Heaven Level. (673-674) / You just reached the late stage of the Transformation of Heaven Level. (716)",
+      "t": 674.0,
+      "first": false
+    },
+    {
+      "id": "northern-sea-dragon",
+      "name": "Northern Sea Dragon",
+      "realm": "Sovereign, 9th Grade",
+      "quote": "If it weren't for the Dragon Fish of Beiming, the Ninth-Rank Supreme Lord... (479) / He is about to become an Earth Supreme Lord. (496)",
+      "t": 479.0,
+      "first": false
+    },
+    {
+      "id": "black-dragon-sovereign",
+      "name": "Black Dragon Sovereign",
+      "realm": "Sovereign",
+      "quote": "the Black Dragon Supreme Lord planted a Dragon Demon Brand (227)",
+      "t": 227.0,
+      "first": false
+    },
+    {
+      "id": "ling-xi",
+      "name": "Ling Xi",
+      "first": false
+    },
+    {
+      "id": "qing-yanjing",
+      "name": "Qing Yanjing",
+      "quote": "From now on, call me Aunt Jing. (897-899)",
+      "look": "in Ling Xi's memory"
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "zhu-tian",
+      "name": "Zhu Tian",
+      "quote": "Elder Zhutian, you flatter me. (211)",
+      "first": false
+    },
+    {
+      "id": "old-ancestor-wu-liang",
+      "name": "Old Ancestor Wu Liang",
+      "look": "mentioned only, as Master Wuliang"
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "look": "mentioned only"
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "look": "mentioned only"
+    }
+  ],
+  "changes": [
+    "Guide: consistent. Adds Lord Beiming's intervention, the Wuliang alliance and the realm facts."
+  ],
+  "flags": [
+    "479/496 s: the Northern Sea Dragon is a ninth-grade Sovereign 'about to become an Earth Supreme Lord'. The roster has him as Earth Sovereign from EP54, which would put him backwards here; EP75 again says Ninth-Rank Supreme Lord, and EP80 (half a year later) calls him an Earth Sovereign. The EP54 roster entry is likely wrong, or he breaks through between EP79 and EP80.",
+    "508 s: the messenger who conveys Master Wuliang's promise is not named (Holy Spiritual Academy side).",
+    "588-591 s: 'geniuses advance smoothly until the late stage of the Completion of Heaven Level' is general, not a statement about anyone.",
+    "905 s: Ling Xi's line 'I finally... remember you' ends the flashback."
+  ]
+}

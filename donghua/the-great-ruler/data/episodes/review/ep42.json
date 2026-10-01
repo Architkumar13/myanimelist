@@ -1,0 +1,87 @@
+{
+  "ep": 42,
+  "title": "Li Xuantong's challenge",
+  "summary": "Back at the Luo Club, Su Ling'er turns up looking for Mu Chen, fights Luo Li instead, and the two become friends; Luo Li has also taken 83rd on the Heavenly Ranking, which people read as late-phase Heavenly Fusion. Mu Chen gives Luo Li a spiritual lotus seed, stabilises his new realm, and forms the White Tiger Divine Seal of the Constellation Sutra of Four Gods with the black paper's help. Xu Qingqing storms the club, slaps Sun'er and injures Mo Ling; Mu Chen slaps her back, and her brother Xu Huang, clearly at Heavenly Transformation, arrives to avenge her. Li Xuantong steps in and Xu Huang backs off, but Li Xuantong's deadline is up: Mu Chen refuses to leave Luo Li and accepts a duel in three days, then confesses to Luo Li. On the day, Su Xuan and He Yao, fourth on the Heavenly Ranking, are among the crowd, and Li Xuantong offers to count it a win if Mu Chen blocks three moves.",
+  "events": [
+    "Su Ling'er meets and fights Luo Li; they become friends",
+    "Luo Li takes 83rd on the Heavenly Ranking",
+    "Mu Chen forms the White Tiger Divine Seal",
+    "Xu Qingqing slaps Sun'er and hurts Mo Ling; Mu Chen slaps her",
+    "Xu Huang confronts Mu Chen; Li Xuantong intervenes",
+    "Mu Chen accepts Li Xuantong's duel and confesses to Luo Li",
+    "Duel day: Li Xuantong sets the three-move rule"
+  ],
+  "introduced": [
+    "He Yao",
+    "White Tiger Divine Seal",
+    "Luo Club (wiki: Goddess Luo Association)",
+    "Heaven-Level mission (mentioned by He Yao to Su Xuan)"
+  ],
+  "cultivation": "Luo Li: Heavenly Fusion, Late Phase (inferred by an onlooker from her top-100 Heavenly Ranking place). Mu Chen: Heavenly Fusion, Initial Phase, stabilised by the lotus seed. Xu Huang: Heavenly Transformation (no phase).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Fusion, Initial Phase",
+      "quote": "It has stabilized the early stage of the Fusion of Heaven Level so quickly.",
+      "t": 174.5
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "realm": "Heavenly Fusion, Late Phase",
+      "quote": "Looks like Luo Li has reached the late stage of the Fusion of Heaven Level.",
+      "t": 128.0
+    },
+    {
+      "id": "xu-huang",
+      "name": "Xu Huang",
+      "realm": "Heavenly Transformation",
+      "quote": "Xu Huang has obviously reached the Transformation of Heaven Level.",
+      "t": 594.5
+    },
+    {
+      "id": "he-yao",
+      "name": "He Yao",
+      "first": true,
+      "card": 927.5,
+      "note": "Ranks fourth on the Heavenly Ranking"
+    },
+    {
+      "id": "su-ling-er",
+      "name": "Su Ling'er"
+    },
+    {
+      "id": "su-xuan",
+      "name": "Su Xuan"
+    },
+    {
+      "id": "xu-qingqing",
+      "name": "Xu Qingqing"
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "note": "Ranks second on the Heavenly Ranking"
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling",
+      "note": "Injured by Xu Qingqing (mentioned)"
+    },
+    {
+      "id": "ye-sun-er",
+      "name": "Ye Sun'er",
+      "note": "Called 'Sun'er'; slapped by Xu Qingqing"
+    }
+  ],
+  "changes": [
+    "Roster gives Xu Huang 'Heavenly Transformation, Initial Phase' (wiki); the subtitles only say Heavenly Transformation."
+  ],
+  "flags": [
+    "Luo Li's realm is an onlooker's inference from her ranking (124-128), not a direct statement.",
+    "'Sun'er' is OCR'd as 'Sunter'/'Sunfer'; mapped to Ye Sun'er on the roster (medium confidence).",
+    "'Lue Club' at 416 read as Luo Club."
+  ]
+}

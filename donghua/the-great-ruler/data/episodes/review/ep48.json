@@ -1,0 +1,94 @@
+{
+  "ep": 48,
+  "title": "Bai Xuan and the Supreme Lords",
+  "summary": "Bai Dong finds Mu Chen again and sends Elder Qiu after him, so Mu Chen sends An Ran to find Su Xuan while he stalls. At middle-phase Heavenly Fusion he holds off Elder Qiu's Demon Dragon arts, then strikes at Bai Dong to force out a hidden expert: Bai Xuan, governor of White Dragon City, at middle-phase Heavenly Transformation. Su Xuan's team arrives in time, exposes Bai Xuan as a member of the Dragon Demon Palace, and he vows to kill Mu Chen once he has the sacred object. The factions combine to break the White Dragon Sovereign's barrier, and a residual image of the White Dragon Sovereign appears and shrugs off their attacks. Bai Xuan calls him a traitor to the Dragon Demon Palace and summons a doppelganger of the Black Dragon Sovereign.",
+  "events": [
+    "An Ran goes for help while Mu Chen stalls Elder Qiu",
+    "Mu Chen blocks Elder Qiu and hits Bai Dong to draw out a hidden expert",
+    "Bai Xuan reveals himself",
+    "Su Xuan's team arrives and names Bai Xuan a Dragon Demon Palace man",
+    "Everyone attacks the White Dragon Sovereign's barrier",
+    "The White Dragon Sovereign's residual image appears",
+    "Bai Xuan summons the Black Dragon Sovereign's doppelganger"
+  ],
+  "introduced": [
+    "Demon Dragon's Heaven-Breaking Claw",
+    "Demon Dragon's Heaven Collapsing Fist",
+    "Sacred object",
+    "Black Dragon Sovereign (as 'Black Dragon Supreme Lord')"
+  ],
+  "cultivation": "Mu Chen: Heavenly Fusion, Middle Phase. Elder Qiu: Heavenly Transformation, Initial Phase. Bai Xuan: Heavenly Transformation, Middle Phase (as he shows it; he reveals more in EP49). Su Xuan: Heavenly Transformation, Middle Phase.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Fusion, Middle Phase",
+      "quote": "He's just at the middle stage of the Fusion of Heaven Level, right?",
+      "t": 175.5
+    },
+    {
+      "id": "elder-qiu",
+      "name": "Elder Qiu",
+      "realm": "Heavenly Transformation, Initial Phase",
+      "quote": "He is a powerful man at the early stage of the Transformation of Heaven Level.",
+      "t": 170.0
+    },
+    {
+      "id": "bai-xuan",
+      "name": "Bai Xuan",
+      "realm": "Heavenly Transformation, Middle Phase",
+      "quote": "He's at the middle stage of the Transformation of Heaven Level.",
+      "t": 324.5
+    },
+    {
+      "id": "su-xuan",
+      "name": "Su Xuan",
+      "realm": "Heavenly Transformation, Middle Phase",
+      "quote": "She's at the middle stage of the Transformation of Heaven Level.",
+      "t": 419.0
+    },
+    {
+      "id": "white-dragon-sovereign",
+      "name": "White Dragon Sovereign",
+      "realm": "Sovereign",
+      "quote": "That is... White Dragon Supreme Lord.",
+      "t": 713.0,
+      "look": "A residual image formed from his spiritual power",
+      "card": 706.0
+    },
+    {
+      "id": "black-dragon-sovereign",
+      "name": "Black Dragon Sovereign",
+      "realm": "Sovereign",
+      "quote": "Greetings, Black Dragon Supreme Lord.",
+      "t": 868.5,
+      "look": "A doppelganger (projection), not his real body",
+      "first": true
+    },
+    {
+      "id": "bai-dong",
+      "name": "Bai Dong"
+    },
+    {
+      "id": "an-ran",
+      "name": "An Ran"
+    },
+    {
+      "id": "su-ling-er",
+      "name": "Su Ling'er"
+    },
+    {
+      "id": "mu-kui",
+      "name": "Mu Kui"
+    }
+  ],
+  "changes": [
+    "Roster first ep for the Black Dragon Sovereign is 71; his doppelganger is summoned here and carded at the start of EP49."
+  ],
+  "flags": [
+    "Bai Xuan's middle phase here is what he shows; in EP49 he reveals late phase, so treat middle as concealment rather than his true realm.",
+    "'Supreme Lord' = Sovereign; the Sovereign entries are 'Sovereign' with no grade given.",
+    "861 'Supreme Lord's doppelganger' has a trailing 'l' that may be a half-read caption bracket."
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "ep": 73,
+  "title": "The Heavenly Sovereign's remains",
+  "summary": "The black paper seals the fragment of the ancient Heavenly Sovereign's remains that was driving the Tornado, and as it fades Liu Ying, Zhou Xuan and Dong Yuan close in on Mu Chen while Xia Youran tries to hold them. Wen Busheng steps in to help, and Mu Chen escapes with a fast movement technique. The fragment opens the Heavenly Sovereign's Remains Realm, where its essence blood nearly bursts Mu Chen's body before flowing into the black paper; his Thunder Body advances to its second pattern, and he learns the black paper is the sealing page of the Immortal Scroll, which shows him a fragment of the Indestructible Solar Body and promises the Primordial Immortal Body, fourth of the 99 Supreme Dharma Bodies, if he finds all four pages. Meanwhile Ji Xuan trades barbs with Luo Li about friendship and power, and his grandfather tells the Holy Son to keep his mind on the plan. On the Nine Heavens Stairway, Mo Xingtian holds the top while Tai Cang and Ling Xi wait; Mu Chen arrives with the Dragon Soaring stage of the Dragon Soaring Art, climbs past everyone who tries to stop him, joins Wen Busheng, and faces Liu Ying's challenge before Mo Xingtian calls his allies to the summit.",
+  "events": [
+    "The black paper seals the Heavenly Sovereign's remains fragment",
+    "Liu Ying, Zhou Xuan and Dong Yuan try to take it; Wen Busheng and Xia Youran help Mu Chen escape",
+    "In the Remains Realm the essence blood flows into the black paper; the Thunder Body reaches the second pattern",
+    "The black paper is revealed as the Immortal Scroll's sealing page; a glimpse of the Indestructible Solar Body",
+    "Ji Xuan and Luo Li argue; his grandfather steadies him",
+    "Mu Chen climbs the Nine Heavens Stairway with the Dragon Soaring Art",
+    "Liu Ying blocks him at the second level; Mo Xingtian takes his allies to the summit"
+  ],
+  "introduced": [
+    "Heavenly Sovereign's Remains Realm",
+    "Immortal Scroll",
+    "Indestructible Solar Body (Great Solar Undying Body)",
+    "Primordial Immortal Body",
+    "Supreme Dharma Bodies",
+    "Nine Heavens Stairway",
+    "Dragon Soaring Art",
+    "Tianyuan Step",
+    "Wind Riding Orb"
+  ],
+  "cultivation": "No realm restated. Mu Chen's Thunder Body advances to the second pattern. The Primordial Immortal Body is said to rank 4th among the 99 Supreme Dharma Bodies.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "look": "Thunder Body second pattern (664); Dragon Soaring Art card (869.5)",
+      "first": false
+    },
+    {
+      "id": "wen-busheng",
+      "name": "Wen Busheng",
+      "first": false
+    },
+    {
+      "id": "xia-youran",
+      "name": "Xia Youran",
+      "first": false
+    },
+    {
+      "id": "liu-ying",
+      "name": "Liu Ying",
+      "first": false
+    },
+    {
+      "id": "zhou-xuan",
+      "name": "Zhou Xuan",
+      "first": false
+    },
+    {
+      "id": "dong-yuan",
+      "name": "Dong Yuan",
+      "first": false
+    },
+    {
+      "id": "mo-xingtian",
+      "name": "Mo Xingtian",
+      "first": false
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "ling-xi",
+      "name": "Ling Xi",
+      "first": false
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "black-dragon-sovereign",
+      "name": "Black Dragon Sovereign",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Guide: 'Great Solar Undying Body is revealed' - the subs call it the Indestructible Solar Body and show only a fragment of it through the Immortal Scroll."
+  ],
+  "flags": [
+    "442-617 s: the speakers in the 'flaw / missing piece' argument are read as Ji Xuan and Luo Li (they share the Spiritual Land past); not named on screen.",
+    "869-898 s: the stairway level captions ('Ninth', 'Sixth', 'Fourth', 'Third Level') mark the tiers he climbs past; 'the second level' appears to be near the top.",
+    "1084 s onward is the next-episode preview (Dragon-Devouring Demon Spear; 'Mo Xingtian hasn't merely passed the Tribulation of the Physical Body'). Not recorded for this episode."
+  ]
+}

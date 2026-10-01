@@ -1,0 +1,88 @@
+{
+  "ep": 66,
+  "title": "Four One-on-One Duels",
+  "summary": "Mo Longzi dismisses Mu Chen as merely Heavenly Transformation, sparing him only because the Dragon Demon Palace needs the Great Xumi Demonic Pillar, and boasts he will prove the palace has more than Mo Xingtian. The two sides agree to four duels to the death: Luo Li takes Mu Gu, Mu Chen takes Wu Jia, Shen Cangsheng faces Mo Longzi, and Li Xuantong takes Gui Xiong. Mu Gu flees to buy time and Luo Li chases him. Mu Chen easily breaks Wu Jia's formations, having trained against Ling Xi's, and matches him in close combat, then sees through the Nine Mountains and Rivers Formation, which Wu Jia says has killed 13 Heavenly Completion experts. Mo Longzi mocks Shen Cangsheng as the first on the Heavenly Ranking, and Shen answers with the Judgment Divine Art and the Spear of Judgment.",
+  "events": [
+    "Mo Longzi taunts Mu Chen's Heavenly Transformation level.",
+    "Four one-on-one duels are agreed.",
+    "Mu Gu flees from Luo Li to stall.",
+    "Mu Chen breaks Wu Jia's formations and his Golden Bell Formation.",
+    "Mu Chen sees through the Nine Mountains and Rivers Formation.",
+    "Shen Cangsheng uses the Judgment Divine Art against Mo Longzi."
+  ],
+  "introduced": [
+    "Golden Bell Formation",
+    "Nine Mountains and Rivers Formation",
+    "Judgment Divine Art",
+    "Spear of Judgment",
+    "Demon Dragon Hunter (Shen Cangsheng's epithet)"
+  ],
+  "cultivation": "Mu Chen: Heavenly Transformation (Mo Longzi).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Transformation",
+      "quote": "You're just at the Transformation of Heaven Level. Don't overestimate yourself. (84) - Mo Longzi to Mu Chen",
+      "first": false
+    },
+    {
+      "id": "mo-longzi",
+      "name": "Mo Longzi",
+      "first": false
+    },
+    {
+      "id": "wu-jia",
+      "name": "Wu Jia",
+      "quote": "'My Nine Mountains and Rivers Formation has trapped and killed 13 powerful people at the Completion of Heaven Level.' (467-471.5) - victims' level, not his",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "mu-gu",
+      "name": "Mu Gu",
+      "first": false
+    },
+    {
+      "id": "gui-xiong",
+      "name": "Gui Xiong",
+      "first": false
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "first": false
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "first": false
+    },
+    {
+      "id": "mo-xingtian",
+      "name": "Mo Xingtian",
+      "quote": "mentioned only (109)",
+      "first": false
+    },
+    {
+      "id": "ling-xi",
+      "name": "Ling Xi",
+      "quote": "mentioned only",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Guide lists Mu Chen vs Wu Jia, Luo Li vs Mu Gu, Shen Cangsheng vs Mo Longzi, Li Xuantong vs Gui Xiong: the pairings are set up at 157-166 (Li Xuantong vs Gui Xiong is by elimination)."
+  ],
+  "flags": [
+    "226: 'You hold the sixth place on the bounty list. How come all you've got is defense?' - addressed to a defender in the chase; Mu Gu is 3rd per EP63 and Teng Long 6th, so either the target or the rank is wrong.",
+    "840: 'We won!' right after Mo Longzi's 'Is this your limit?' - who is winning is unclear; episode ends mid-fight.",
+    "Subtitles end at ~846s; the fight results continue in EP67.",
+    "0-37: recap of EP65."
+  ]
+}

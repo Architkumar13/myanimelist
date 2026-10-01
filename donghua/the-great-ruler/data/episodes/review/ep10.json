@@ -1,0 +1,102 @@
+{
+  "ep": 10,
+  "title": "Liu Zong, Wen Ling and the Dark Abyss",
+  "summary": "Liu Zong, second head of Liu Realm and a Spirit-level fighter, corners Mu Chen for the copper piece until Zhou Ye arrives, alerted by a letter Mu Chen sent through Tan Qingshan. At home Mu Chen, at the middle phase of Spiritual Movement, shows Mu Feng the piece; Mu Feng recognises the Jiuyou Bird, 11th on the earth list of beasts, and the piece reveals that it failed an evolution and fell somewhere. Liu Qingtian orders his men into the Dark Abyss to take the bird. Mu Feng agrees to take Mu Chen only if he reaches late-phase Spiritual Movement before they leave, and tells him the Great Buddha Art resonates with his mother's bloodline. At Mu Realm's Spirit Collecting Formation Square, the Level 1 spiritual formation master Wen Ling watches Mu Chen form five spiritual seals on his first try and gives him two formation maps. Mu Chen reaches late-phase Spiritual Movement, and the Mu party enters the Dark Abyss, where Liu Qingtian is waiting.",
+  "events": [
+    "Zhou Ye saves Mu Chen from Liu Zong",
+    "Mu Feng identifies the copper piece's totem as the Jiuyou Bird",
+    "Liu Qingtian orders an expedition to the Dark Abyss",
+    "Mu Feng sets Mu Chen the late-phase Spiritual Movement condition",
+    "Wen Ling teaches spiritual seals; Mu Chen forms five at once",
+    "Mu Chen reaches late-phase Spiritual Movement",
+    "Mu Realm enters the Dark Abyss and meets Liu Qingtian"
+  ],
+  "introduced": [
+    "Liu Zong",
+    "Wen Ling",
+    "Jiuyou Bird (named)",
+    "earth list of beasts",
+    "spiritual seals",
+    "Spirit Trapping Formation",
+    "Soul Captivating Formation",
+    "Level 2 Spirit Collecting Formation (planned)",
+    "Dark Abyss"
+  ],
+  "cultivation": "Mu Chen is at the middle phase of Spiritual Movement early in the episode and reaches the late phase before the expedition. Liu Zong is at Spirit (subs: Divine Soul Level). Wen Ling is a Level 1 spiritual formation master; Mu Chen forms five spiritual seals on his first attempt.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Spiritual Movement, Late Phase",
+      "quote": "At least I'm at the middle stage of the Spiritual Movement Level. (154) / Finally. I have reached the late stage of the Spiritual Movement Level. (752-754) / You've reached the late stage of the Spiritual Movement Level? (857)",
+      "t": 754.0,
+      "first": false
+    },
+    {
+      "id": "liu-zong",
+      "name": "Liu Zong",
+      "realm": "Spirit",
+      "quote": "Liu Zong is at the Divine Soul Level. (160, Mu Feng) / Isn't he the second head of Liu Realm? (76)",
+      "t": 160.0,
+      "first": false
+    },
+    {
+      "id": "wen-ling",
+      "name": "Wen Ling",
+      "quote": "Mr. Wen Ling, a Level 1 spiritual formation master. (532)",
+      "card": 534.0,
+      "first": true
+    },
+    {
+      "id": "liu-qingtian",
+      "name": "Liu Qingtian",
+      "quote": "Liu Qingtian. / Mu Feng. You still have a sharp nose. (932-937)",
+      "first": false
+    },
+    {
+      "id": "chen-xiong",
+      "name": "Chen Xiong",
+      "quote": "Chen Xiong, the general guarding the border, has come back. (836)",
+      "look": "mentioned only"
+    },
+    {
+      "id": "zhou-ye",
+      "name": "Zhou Ye",
+      "first": false
+    },
+    {
+      "id": "mu-feng",
+      "name": "Mu Feng",
+      "first": false
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "look": "mentioned only (Jiuyou Bird, 11th on the earth list of beasts)"
+    },
+    {
+      "id": "dragonfire-bird",
+      "name": "Dragonfire Bird",
+      "quote": "Dragon Flame Eagle that takes the 85th ranking on the earth list of beasts (228)"
+    },
+    {
+      "id": "tan-qingshan",
+      "name": "Tan Qingshan",
+      "look": "mentioned only"
+    },
+    {
+      "id": "qing-yanjing",
+      "name": "Qing Yanjing",
+      "look": "mentioned only, as 'Jing'"
+    }
+  ],
+  "changes": [
+    "Confirms the guide's late-phase Spiritual Movement in EP10; adds that he starts the episode at the middle phase and breaks through before the Dark Abyss trip.",
+    "Guide calls EP10-13 the Black Eerie Swamp; in EP10 most of the action is at Mu Realm and they only enter the Dark Abyss at the end."
+  ],
+  "flags": [
+    "892-895 s: 'even those who are at the Spiritual Ring Level can't resist the miasma' is a comparison.",
+    "Liu Qingtian's scene at 288-344 has him and Liu Zong ('Brother') planning the Dark Abyss trip; the roster lists his first episode as 9 (EP9 has no subtitles to check)."
+  ]
+}

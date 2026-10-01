@@ -1,0 +1,85 @@
+{
+  "ep": 22,
+  "title": "Borrowing the Jiuyou Bird's Power",
+  "summary": "In Liu Realm's square, Liu Jingshan crushes the combined lords Mu Feng, Tang Shan, Hong Ling (Senior) and the Luo Realm lord with the Wind and Fire Spiritual Wave. Watching from hiding, Zhou Ye wants to take Mu Chen away, but Mu Chen refuses to abandon his father. He bargains with the Jiuyou Bird: he will ease the flower cage's suppression and owe her a promise if she lends him her power. When Liu Jingshan moves to kill the lords and their children, Mu Chen intervenes with power at the Heavenly Fusion level borrowed from her, and trades blows with him (Mountain God Art and Mountain Moving Fist against the Spiritual Emperor's Finger). Liu Jingshan says the power is not Mu Chen's own and prepares the Land Subduing Mountain.",
+  "events": [
+    "Liu Jingshan defeats the four allied lords; Tang Shan is hurt.",
+    "Zhou Ye urges retreat; Mu Chen refuses to leave his father.",
+    "Mu Chen strikes a deal with the Jiuyou Bird, who asks for one more promise in return.",
+    "Liu Jingshan's Wave and Mountain Smashing Palm floors the lords; Mu Feng orders Zhou Ye to take the children away.",
+    "Mu Chen appears with Heavenly Fusion-level power and blocks Liu Jingshan.",
+    "Onlookers and Mu Feng are stunned; Liu Jingshan says the power is borrowed.",
+    "Liu Jingshan unleashes the Mountain God Art: Land Subduing Mountain."
+  ],
+  "introduced": [
+    "Wind and Fire Spiritual Wave",
+    "Mountain God Art",
+    "Spiritual Emperor's Finger"
+  ],
+  "cultivation": "Mu Chen temporarily fights at Heavenly Fusion strength using the Jiuyou Bird's power; his own realm is still Spiritual Rotation, Late Phase (confirmed EP23). Liu Jingshan is at Heavenly Fusion.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "liu-jingshan",
+      "name": "Liu Jingshan",
+      "realm": "Heavenly Fusion",
+      "quote": "Liu Jingshan, ... he has reached the Fusion of Heaven Level. (160-166)",
+      "first": false
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "quote": "That brat of Mu Realm is at the Fusion of Heaven Level. (670) - temporary, borrowed from the Jiuyou Bird",
+      "look": "Surges with the Jiuyou Bird's borrowed power",
+      "first": false
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "quote": "I can kill him with one attack in my prime. (298)",
+      "first": false
+    },
+    {
+      "id": "mu-feng",
+      "name": "Mu Feng",
+      "quote": "I can't believe Chen has reached the level that I couldn't reach. (809)",
+      "first": false
+    },
+    {
+      "id": "zhou-ye",
+      "name": "Zhou Ye",
+      "first": false
+    },
+    {
+      "id": "tang-shan",
+      "name": "Tang Shan",
+      "first": false
+    },
+    {
+      "id": "hong-ling-senior",
+      "name": "Hong Ling (Senior)",
+      "first": false
+    },
+    {
+      "id": "tang-qian-er",
+      "name": "Tang Qian'er",
+      "first": false
+    },
+    {
+      "id": "hong-ling",
+      "name": "Hong Ling",
+      "first": false
+    },
+    {
+      "id": "liu-qingtian",
+      "name": "Liu Qingtian",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "670-678: Mu Chen at 'Fusion of Heaven Level' is borrowed power, not his realm; do not record Heavenly Fusion for him here (EP23 112/123 confirm Spiritual Ring late stage and 'only temporarily').",
+    "809: Mu Feng's line implies he is below Heavenly Fusion (see EP24 504).",
+    "358: '@ian'er' = Qian'er (Tang Qian'er)."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "ep": 43,
+  "title": "Three moves",
+  "summary": "Li Xuantong opens with the Lingxuan Jade Palm, the move that made him famous, and Mu Chen blocks it with the Senluo Death Mark and the pagoda. Li Xuantong's second move is the Yixuan Finger of his Divine-category Tianxuan Divine Art, which Mu Chen meets with the White Tiger Divine Seal of the Constellation Sutra of Four Gods. For the third move Mu Chen asks to attack, builds the Level 4 Demon Lotus Spirit-Slaying Formation from spiritual seals, and breaks through Li Xuantong's Tianxuan Compass, so Li Xuantong concedes. Afterwards Li Xuantong tells him about Luo Li's burden: she is heir of the declining Luo race, one of the four divine races of the Western Heavenly Realm, and her dying grandfather Luo Tianshen will call her back within five years to take the inheritance and try for the Sovereign Stage. He also mentions Flame Emperor, the lower-world man whose help once saved the Luo race. Mu Chen promises Luo Li he will become as strong as Flame Emperor.",
+  "events": [
+    "Li Xuantong's Lingxuan Jade Palm; Mu Chen blocks",
+    "Tianxuan Divine Art's Yixuan Finger vs the White Tiger Divine Seal",
+    "Mu Chen takes the third move as attacker with the Level 4 Demon Lotus Spirit-Slaying Formation",
+    "Li Xuantong's Tianxuan Compass breaks and he concedes",
+    "Li Xuantong tells Mu Chen about the Luo race, Luo Tianshen and Flame Emperor",
+    "Mu Chen vows to Luo Li to become as strong as Flame Emperor"
+  ],
+  "introduced": [
+    "Lingxuan Jade Palm",
+    "Tianxuan Divine Art",
+    "Yixuan Finger",
+    "Tianxuan Compass",
+    "Demon Lotus Spirit-Slaying Formation (Level 4)",
+    "Luo race (Luo God Clan)",
+    "Four divine races",
+    "Western Heavenly Realm",
+    "Power race",
+    "Flame Emperor (mentioned)",
+    "Flame Spirit Race",
+    "Infinite Flame Realm"
+  ],
+  "cultivation": "Mu Chen: Heavenly Fusion, Initial Phase (onlooker). Luo Li is expected to try for the Sovereign Stage ('Supreme Lord Level') when she inherits. A Flame Spirit Race ancestor is described as a Heavenly Sovereign ('Heavenly Supreme Lord Level').",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Fusion, Initial Phase",
+      "quote": "He's just at the early stage of the Fusion of Heaven Level.",
+      "t": 402.5
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong"
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li"
+    },
+    {
+      "id": "su-xuan",
+      "name": "Su Xuan"
+    },
+    {
+      "id": "su-ling-er",
+      "name": "Su Ling'er"
+    },
+    {
+      "id": "luo-tianshen",
+      "name": "Luo Tianshen",
+      "note": "Mentioned: Luo Li's grandfather, 'will die soon'"
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "note": "Mentioned only as 'Flame Emperor'"
+    }
+  ],
+  "changes": [
+    "Luo Tianshen and Flame Emperor (Xiao Yan) are first named here, in exposition."
+  ],
+  "flags": [
+    "939: Luo Li will 'reach the Supreme Lord Level' - a future goal, not her current realm.",
+    "970: 'the Flame Spirit Race's ancestor at the Heavenly Supreme Lord Level' is an unnamed figure.",
+    "'the lion has aged' (784) is a metaphor for Luo Tianshen, not a beast."
+  ]
+}

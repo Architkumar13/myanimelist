@@ -1,0 +1,104 @@
+{
+  "ep": 53,
+  "title": "He Yao's Betrayal",
+  "summary": "In the Infinite Flame Realm the Flame Emperor Xiao Yan asks his mentor Yao Chen how to help the struggling Luo race, which has fought the Blood race for thousands of years; he already has someone in mind who is close to Luo Tianshen's granddaughter. At the Northern Heaven Spiritual Academy, Dean Tai Cang opens the hunting battle in the Spiritual Light Realm: the three students with the most Spirit Crystals may challenge the Three Generals of the Penalty Hall, and the winners receive the Spiritual Light Infusion from the academy's guardian, Lord Dragon Fish of Beiming. He Yao and his men torture Luo Club members for Mu Chen's location and attack Ye Sun'er; Luo Li rescues her but is poisoned. He Yao reveals he has colluded with the Holy Spiritual Academy, calls North Heaven's creed a joke and says Mu Chen is his pledge of allegiance, sent with greetings from Ji Xuan. Mu Chen arrives, uses the Thunder Body, and He Yao, claiming to be half a step into Heavenly Completion, summons the Heavenly Demon Crane.",
+  "events": [
+    "Xiao Yan (Flame Emperor) consults Yao Chen about the Luo race's troubles.",
+    "Dean Tai Cang opens the hunting battle; top three may challenge the Three Generals of the Penalty Hall for the Spiritual Light Infusion.",
+    "He Yao's group attacks Ye Sun'er and poisons Luo Li.",
+    "He Yao reveals he works for the Holy Spiritual Academy and Ji Xuan.",
+    "Mu Chen arrives and uses the Thunder Body against He Yao.",
+    "He Yao claims half-step Heavenly Completion and summons the Heavenly Demon Crane."
+  ],
+  "introduced": [
+    "Xiao Yan (Flame Emperor)",
+    "Yao Chen",
+    "Spiritual Light Realm",
+    "Spiritual Light Infusion",
+    "Three Generals of the Penalty Hall",
+    "Spirit King",
+    "Lord Dragon Fish of Beiming",
+    "Luo Club",
+    "Thunder Body",
+    "Heavenly Demon Crane",
+    "5 ancient races and 4 divine races"
+  ],
+  "cultivation": "He Yao claims to be half a step into Heavenly Completion (i.e. peak Heavenly Transformation). No new realm stated for Mu Chen.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": true,
+      "card": 46.5
+    },
+    {
+      "id": "yao-chen",
+      "name": "Yao Chen",
+      "first": true,
+      "card": 55.5
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "he-yao",
+      "name": "He Yao",
+      "realm": "Heavenly Transformation, Peak of Late Phase (half-step Heavenly Completion)",
+      "quote": "Today, I'll show you what half a step into the Completion of Heaven Level means! (1052.5)",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Heavenly Demon Crane",
+      "quote": "[Heavenly Demon Crane: the 26th on the earth list of beasts] - rank, not a realm",
+      "first": true,
+      "card": 1116.5
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "look": "Dark, evil-aura form while fighting He Yao ('Mu Chen is so powerful after turning dark!' 1089)",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "ye-sun-er",
+      "name": "Ye Sun'er",
+      "first": false
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan",
+      "quote": "mentioned only: 'Your old rival on the Spiritual Land asked me to say hello to you!' (972)",
+      "first": false
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "quote": "mentioned: 'Even Shen Cangsheng failed to master the Thunder Body.' (1028)",
+      "first": false
+    },
+    {
+      "id": "luo-tianshen",
+      "name": "Luo Tianshen",
+      "quote": "mentioned only",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Guide says He Yao is killed this episode; the kill is not shown here (fight ends on the Heavenly Demon Crane). EP54 confirms 'He Yao is dead.'"
+  ],
+  "flags": [
+    "0-255: OCR garbage (credits/opening); ignored.",
+    "1052: He Yao's 'half a step into the Completion of Heaven Level' is his own boast; recorded as peak Heavenly Transformation.",
+    "1116: Heavenly Demon Crane card gives a beast-list rank, not a realm.",
+    "142.5: 'She is quite close to the granddaughter of Chief Luo' - Xiao Yan's candidate is unnamed here; EP54 shows it is Xiao Xiao."
+  ]
+}

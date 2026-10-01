@@ -1,0 +1,69 @@
+{
+  "ep": 40,
+  "title": "Heavenly Fusion",
+  "summary": "Mu Chen pays 4,000 spirit value a day to cultivate in the Level 6 Spirit Collecting Formation and dives to the bottom of its lake, where Jiuyou helps him merge the Jiuyou Flames into his spiritual power through their bloodline and compress them into a spark. Su Ling'er tracks him down; he first concedes, then fights her whip to a standstill that ends with the two of them tied together, and she leaves humiliated. On Jiuyou's advice he stops forcing his divine soul and breaks through to the Heavenly Fusion Stage. A spiritual tide is coming that will fruit the Heavenly Spiritual Lotus, whose seeds stabilise new power, so he joins the hunt. There he runs into Su Ling'er again, her rival Xu Qingqing, and Huo Feng, boss of the Qinghong Club, who demands that Mu Chen return Mo Lun's spirit value; Mu Chen refuses.",
+  "events": [
+    "Mu Chen enters the Level 6 Spirit Collecting Formation",
+    "Jiuyou merges the Jiuyou Flames into his spiritual power at the lake bottom",
+    "Su Ling'er challenges him; the fight ends with them tangled in her whip",
+    "Mu Chen breaks through to Heavenly Fusion",
+    "He heads for the Heavenly Spiritual Lotus to stabilise the new realm",
+    "Xu Qingqing and Huo Feng appear; Huo Feng demands Mo Lun's spirit value back"
+  ],
+  "introduced": [
+    "Xu Qingqing",
+    "Huo Feng",
+    "Qinghong Club (wiki: Azure Red Community)",
+    "Heavenly Spiritual Lotus",
+    "Spiritual lotus seeds",
+    "Spiritual tide"
+  ],
+  "cultivation": "Mu Chen breaks through from Spirit to Heavenly Fusion, Initial Phase, after merging the Jiuyou Flames. Mu Chen judges Su Ling'er 'about to reach the late stage' of Heavenly Fusion, i.e. Heavenly Fusion, Middle Phase.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Fusion, Initial Phase",
+      "quote": "I just reached the Fusion of Heaven Level.",
+      "t": 834.5,
+      "note": "Breakthrough scene 774-806; 'The Fusion of Heaven Level is indeed amazing.' at 804.0"
+    },
+    {
+      "id": "su-ling-er",
+      "name": "Su Ling'er",
+      "realm": "Heavenly Fusion, Middle Phase",
+      "quote": "she is about to reach the late stage of the Fusion of Heaven Level.",
+      "t": 488.0
+    },
+    {
+      "id": "xu-qingqing",
+      "name": "Xu Qingqing",
+      "first": true,
+      "card": 873.5
+    },
+    {
+      "id": "huo-feng",
+      "name": "Huo Feng",
+      "first": true,
+      "card": 890.0,
+      "note": "Boss of the Qinghong Club"
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You"
+    },
+    {
+      "id": "mo-lun",
+      "name": "Mo Lun",
+      "note": "Mentioned"
+    }
+  ],
+  "changes": [
+    "Guide's Heavenly Fusion, initial phase at episode 40 is confirmed.",
+    "Xu Qingqing's name card is in this episode (roster first ep 41)."
+  ],
+  "flags": [
+    "486-488 'she is about to reach the late stage' is Mu Chen's estimate; recorded as Middle Phase."
+  ]
+}

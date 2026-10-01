@@ -1,0 +1,101 @@
+{
+  "ep": 77,
+  "title": "Defend North Heaven to the death",
+  "summary": "Mu Chen chooses to fight the Yellow Dragon Sovereign rather than run, and Luo Li arrives to stand with him; the Sovereign says Beiming is blocked above the Nine Heavens and no help is coming. At the North Heaven Gate, once every freshman is inside, three old elders spring a formation on the three attacking Sovereigns and destroy their own divine souls to hold them, teaching the freshmen a final lesson that the strong exist to protect others, under the academy motto 'A blazing sun exists to shine, while the rising sun is destined to climb ever higher'. Fei Qingsong flees the trap and turns on those shut outside, and Shen Cangsheng and Li Xuantong prepare to fight side by side against a Sovereign, with Mu Gu present. The Yellow Dragon Sovereign plays with Mu Chen and Luo Li, giving them 30 minutes to scratch him; Mu Chen calls on his Four Gods and on Jiu You, and the black paper seals the Sovereign for an instant, long enough for a strike that wounds him. As the Sovereign moves to kill them both, Qing Yanjing's power appears: 'How dare you touch my child.'",
+  "events": [
+    "Mu Chen decides to fight the Yellow Dragon Sovereign; Luo Li joins him",
+    "All freshmen reach safety inside the North Heaven Gate",
+    "Three elders trap the attacking Sovereigns and self-destruct their divine souls",
+    "The elders' final lesson and the academy motto",
+    "Fei Qingsong escapes and attacks those left outside",
+    "Mu Chen and Luo Li take the Yellow Dragon Sovereign's 30-minute bet",
+    "The black paper seals the Sovereign for an instant and he is wounded",
+    "Qing Yanjing intervenes to protect Mu Chen"
+  ],
+  "introduced": [
+    "North Heaven academy motto"
+  ],
+  "cultivation": "The Yellow Dragon Sovereign and the three attackers at the North Heaven Gate (including Fei Qingsong) are Sovereigns (subs: Supreme Lords).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "yellow-dragon-sovereign",
+      "name": "Yellow Dragon Sovereign",
+      "realm": "Sovereign",
+      "quote": "A Supreme Lord. I've never truly faced such a strong opponent before. (189-194) / trying to escape from a Supreme Lord is pure fantasy (722)",
+      "t": 189.0,
+      "first": false
+    },
+    {
+      "id": "fei-qingsong",
+      "name": "Fei Qingsong",
+      "realm": "Sovereign",
+      "quote": "With us three Supreme Lords, forcibly opening the North Heaven Gate is only a matter of time. (384-388) / Fei Qingsong! I alone can't break the North Heaven Gate (613-614)",
+      "t": 384.0,
+      "first": false
+    },
+    {
+      "id": "qing-yanjing",
+      "name": "Qing Yanjing",
+      "quote": "Child, no rush... How dare you touch my child. (1083-1101)",
+      "first": false
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "first": false
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "first": false
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "first": false
+    },
+    {
+      "id": "mu-gu",
+      "name": "Mu Gu",
+      "quote": "Mu Gu, Dean Fei is even better at running away than you. (670-672)",
+      "first": false
+    },
+    {
+      "id": "ling-xi",
+      "name": "Ling Xi",
+      "quote": "If my guess is right, he should be like me, at the Supreme Lord Level. Move aside. (934-938)",
+      "first": false
+    },
+    {
+      "id": "northern-sea-dragon",
+      "name": "Northern Sea Dragon",
+      "look": "mentioned: 'Beiming is blocked above the Nine Heavens' (266)"
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "look": "mentioned: the Blood Soul Bell (260)"
+    }
+  ],
+  "changes": [
+    "Guide: consistent (Mu Chen and Luo Li vs the Yellow Dragon Sovereign; his mother arrives). Adds the elders' self-sacrifice at the North Heaven Gate."
+  ],
+  "flags": [
+    "384 s: 'us three Supreme Lords' is said by the attackers at the gate; Fei Qingsong is the one named among them, so he is recorded as a Sovereign (medium).",
+    "932-942 s: the speaker who says 'he should be like me, at the Supreme Lord Level' and forces past a blocker is read as Ling Xi (Sovereign since EP71); not named. The EP78 recap renders it 'it's the Supreme Lord Level'.",
+    "360-560 s: the three old elders who self-destruct are not named (they speak of 'your elders of the Penalty Hall'); Cao Xiu from EP76 may be one of them.",
+    "794-798 s: 'Sparrow. Kitten. Snake. Turtle.' is the Sovereign mocking Mu Chen's Four Gods.",
+    "1108 s onward is the next-episode preview ('a mere first-rank Supreme Lord'); the grade is recorded in EP78."
+  ]
+}

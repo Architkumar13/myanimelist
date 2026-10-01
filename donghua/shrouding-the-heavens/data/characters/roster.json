@@ -334,9 +334,10 @@
       {
         "ep": 159,
         "label": "After years adrift",
-        "desc": "Arrives in Ziwei years later (biologically late 20s per the wiki); no separate redesign confirmed.",
+        "desc": "Arrives in Ziwei years later.",
         "why": "time-skip in space",
-        "conf": "low"
+        "conf": "low",
+        "note": "biologically late 20s per the wiki; no separate redesign confirmed"
       },
       {
         "ep": 171,
@@ -669,8 +670,9 @@
         "ep": 29,
         "label": "Young again as a cultivator",
         "desc": "Youthful again in cultivator clothes.",
-        "why": "youth restored by cultivating (not confirmed on screen)",
-        "conf": "low"
+        "why": "youth restored by cultivating",
+        "conf": "low",
+        "note": "not confirmed on screen"
       }
     ],
     "arc": [
@@ -723,8 +725,9 @@
         "ep": 28,
         "label": "Young again as a Yanxia disciple",
         "desc": "Youthful again in cultivator clothes.",
-        "why": "youth restored by cultivating (not confirmed on screen)",
-        "conf": "low"
+        "why": "youth restored by cultivating",
+        "conf": "low",
+        "note": "not confirmed on screen"
       }
     ],
     "arc": [
@@ -761,8 +764,8 @@
       {
         "ep": 32,
         "realm": "Life Spring",
-        "detail": "wiki lists Life Spring; not stated on screen",
-        "conf": "low"
+        "conf": "low",
+        "note": "wiki lists Life Spring; not stated on screen"
       }
     ],
     "looks": [
@@ -783,8 +786,9 @@
         "ep": 26,
         "label": "Young again as a Yuding disciple",
         "desc": "Youthful again in cultivator clothes.",
-        "why": "youth restored by cultivating (not confirmed on screen)",
-        "conf": "low"
+        "why": "youth restored by cultivating",
+        "conf": "low",
+        "note": "not confirmed on screen"
       }
     ],
     "arc": [
@@ -843,8 +847,9 @@
         "ep": 29,
         "label": "Young again as a cultivator",
         "desc": "Youthful again in cultivator clothes.",
-        "why": "youth restored by cultivating (not confirmed on screen)",
-        "conf": "low"
+        "why": "youth restored by cultivating",
+        "conf": "low",
+        "note": "not confirmed on screen"
       }
     ],
     "arc": [
@@ -997,14 +1002,15 @@
       {
         "ep": 90,
         "realm": "Unknown",
-        "detail": "freed from the demon will, keeping the demon power (novel: a Four Poles-level body)",
-        "conf": "low"
+        "detail": "freed from the demon will, keeping the demon power",
+        "conf": "low",
+        "note": "novel: a Four Poles-level body"
       },
       {
         "ep": 146,
         "realm": "Dragon Transformation",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -1039,8 +1045,8 @@
         "ep": 76,
         "label": "Hiding, still possessed",
         "desc": "Still in the demon look while recovering in a hidden space of the Lihuo Sect.",
-        "why": "anime-original scene",
-        "conf": "high"
+        "conf": "high",
+        "note": "anime-original scene"
       },
       {
         "ep": 106,
@@ -1094,8 +1100,9 @@
       {
         "ep": 4,
         "realm": "Unknown",
-        "detail": "a sealed ancient monster; the wiki calls it a Great Saint (novel)",
-        "conf": "low"
+        "detail": "a sealed ancient monster",
+        "conf": "low",
+        "note": "the wiki calls it a Great Saint (novel)"
       }
     ],
     "looks": [
@@ -1174,8 +1181,8 @@
       {
         "ep": 33,
         "realm": "Other Shore",
-        "detail": "wiki cites EP33; the novel places him lower (Divine Bridge) - unconfirmed",
-        "conf": "low"
+        "conf": "low",
+        "note": "wiki cites EP33; the novel places him lower (Divine Bridge) - unconfirmed"
       }
     ],
     "looks": [
@@ -1260,8 +1267,9 @@
       {
         "ep": 7,
         "realm": "Unknown",
-        "detail": "Yuding elder; the wiki lists Divine Bridge (novel)",
-        "conf": "low"
+        "detail": "Yuding elder",
+        "conf": "low",
+        "note": "the wiki lists Divine Bridge (novel)"
       }
     ],
     "looks": [
@@ -1296,8 +1304,9 @@
       {
         "ep": 7,
         "realm": "Unknown",
-        "detail": "Ziyang elder (Wheel-and-Sea realm per wiki)",
-        "conf": "low"
+        "detail": "Ziyang elder",
+        "conf": "low",
+        "note": "Wheel-and-Sea realm per wiki"
       }
     ],
     "looks": [
@@ -1421,8 +1430,9 @@
       {
         "ep": 8,
         "realm": "Unknown",
-        "detail": "Lingxu's master; notes place Lingxu's master at Dao Palace (novel)",
-        "conf": "low"
+        "detail": "Lingxu's master",
+        "conf": "low",
+        "note": "notes place Lingxu's master at Dao Palace (novel)"
       }
     ],
     "looks": [
@@ -1496,8 +1506,9 @@
       {
         "ep": 8,
         "realm": "Unknown",
-        "detail": "Yaoguang core disciple; the wiki places her at Four Poles (novel)",
-        "conf": "low"
+        "detail": "Yaoguang core disciple",
+        "conf": "low",
+        "note": "the wiki places her at Four Poles (novel)"
       }
     ],
     "looks": [
@@ -1537,8 +1548,9 @@
       {
         "ep": 37,
         "realm": "Dao Palace",
-        "detail": "stated to have entered the Dao Palace realm",
-        "conf": "high"
+        "detail": "has entered the Dao Palace realm",
+        "conf": "high",
+        "note": "stated"
       }
     ],
     "looks": [
@@ -1594,8 +1606,9 @@
       {
         "ep": 38,
         "realm": "Four Poles",
-        "detail": "stated Four Extremes realm; manifests the Golden Lotus in the Bitter Sea vision (EP40)",
-        "conf": "high"
+        "detail": "in the Four Extremes realm; manifests the Golden Lotus in the Bitter Sea vision (EP40)",
+        "conf": "high",
+        "note": "stated"
       }
     ],
     "looks": [
@@ -1644,8 +1657,8 @@
       {
         "ep": 16,
         "realm": "Other Shore",
-        "detail": "wiki lists Other Shore (Paramita)",
-        "conf": "low"
+        "conf": "low",
+        "note": "wiki lists Other Shore (Paramita)"
       },
       {
         "ep": 29,
@@ -1699,8 +1712,8 @@
       {
         "ep": 16,
         "realm": "Other Shore",
-        "detail": "wiki lists Other Shore (Paramita)",
-        "conf": "low"
+        "conf": "low",
+        "note": "wiki lists Other Shore (Paramita)"
       },
       {
         "ep": 29,
@@ -1759,8 +1772,8 @@
       {
         "ep": 108,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -1800,8 +1813,9 @@
       {
         "ep": 17,
         "realm": "Unknown",
-        "detail": "never stated on screen; clearly far stronger than he acts (wiki: Divine Bridge at the start, novel)",
-        "conf": "low"
+        "detail": "clearly far stronger than he acts",
+        "conf": "low",
+        "note": "never stated on screen; wiki: Divine Bridge at the start, novel"
       }
     ],
     "looks": [
@@ -1820,9 +1834,8 @@
       },
       {
         "ep": 100,
-        "label": "Lightning-scorched",
-        "desc": "Beaten up and blackened by heavenly lightning.",
-        "why": "struck by heavenly thunder",
+        "label": "Battered after the teleport",
+        "desc": "Worse for wear after his tampered teleport formation goes wrong.",
         "conf": "medium"
       }
     ],
@@ -1845,7 +1858,11 @@
       },
       {
         "ep": 99,
-        "text": "Impersonates Ye Fan with a clone; struck by heavenly lightning (EP100)."
+        "text": "Sells fake news of Ye Fan's whereabouts, using a clone that wears Ye Fan's face."
+      },
+      {
+        "ep": 100,
+        "text": "Loses everything he swindled when his tampered teleport formation goes wrong."
       },
       {
         "ep": 183,
@@ -1864,7 +1881,7 @@
     "ep": 18,
     "group": "Jiang family",
     "side": "enemy",
-    "intro": "A Jiang family cultivator at the Demon Emperor's tomb (the wiki identifies him as the Jiang pursuer who later hunts Ye Fan).",
+    "intro": "A Jiang family cultivator at the Demon Emperor's tomb.",
     "power": [
       {
         "ep": 22,
@@ -1899,7 +1916,8 @@
         "ep": 30,
         "text": "Beaten and humiliated by Ye Fan inside the Forbidden Land."
       }
-    ]
+    ],
+    "note": "intro: the wiki identifies him as the Jiang pursuer who later hunts Ye Fan"
   },
   {
     "id": "old-jiang",
@@ -2136,8 +2154,8 @@
       {
         "ep": 28,
         "realm": "Immortal Platform",
-        "detail": "the on-screen caption says Immortal Platform without a Heaven; novel: Saint-level",
-        "conf": "medium"
+        "conf": "medium",
+        "note": "the on-screen caption says Immortal Platform without a Heaven; novel: Saint-level"
       }
     ],
     "looks": [
@@ -2206,8 +2224,9 @@
       {
         "ep": 31,
         "realm": "Unknown",
-        "detail": "nearly immortal; destroys the elders' forbidden artifacts. Wiki: Saint (novel)",
-        "conf": "low"
+        "detail": "nearly immortal; destroys the elders' forbidden artifacts",
+        "conf": "low",
+        "note": "Wiki: Saint (novel)"
       }
     ],
     "looks": [
@@ -2241,8 +2260,9 @@
       {
         "ep": 33,
         "realm": "Unknown",
-        "detail": "a senior Wheel-and-Sea elder; the wiki lists Other Shore (novel)",
-        "conf": "low"
+        "detail": "a senior Wheel-and-Sea elder",
+        "conf": "low",
+        "note": "the wiki lists Other Shore (novel)"
       }
     ],
     "looks": [
@@ -2281,14 +2301,15 @@
       {
         "ep": 40,
         "realm": "Four Poles",
-        "detail": "wiki cites the donghua; manifests the Bright Moon over the Sea vision",
-        "conf": "medium"
+        "detail": "manifests the Bright Moon over the Sea vision",
+        "conf": "medium",
+        "note": "wiki cites the donghua"
       },
       {
         "ep": 57,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -2336,8 +2357,9 @@
       {
         "ep": 41,
         "realm": "Dao Palace",
-        "detail": "wiki cites the donghua; Ye Fan seals her divine power",
-        "conf": "medium"
+        "detail": "Ye Fan seals her divine power",
+        "conf": "medium",
+        "note": "wiki cites the donghua"
       },
       {
         "ep": 49,
@@ -2348,8 +2370,8 @@
       {
         "ep": 98,
         "realm": "Dao Palace",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       },
       {
         "ep": 119,
@@ -2362,8 +2384,9 @@
       {
         "ep": 41,
         "label": "Original model: braids and short skirt",
-        "desc": "Twin braids and a very short skirt (mocked by fans as a 'village girl' look).",
-        "conf": "high"
+        "desc": "Twin braids and a very short skirt.",
+        "conf": "high",
+        "note": "mocked by fans as a 'village girl' look"
       },
       {
         "ep": 57,
@@ -2457,8 +2480,8 @@
       {
         "ep": 47,
         "realm": "Unknown",
-        "detail": "wiki lists Four Poles (novel)",
-        "conf": "low"
+        "conf": "low",
+        "note": "wiki lists Four Poles (novel)"
       }
     ],
     "looks": [
@@ -2499,8 +2522,9 @@
       {
         "ep": 53,
         "realm": "Immortal Platform",
-        "detail": "true strength shown (wiki); novel: 3rd Heaven King",
-        "conf": "medium"
+        "detail": "true strength shown",
+        "conf": "medium",
+        "note": "wiki; novel: 3rd Heaven King"
       }
     ],
     "looks": [
@@ -2526,6 +2550,51 @@
     ]
   },
   {
+    "id": "chen-feng-star-peak",
+    "name": "Chen Feng",
+    "zh": null,
+    "aka": [
+      "Senior Brother Chen (Star Peak)",
+      "Senior Chen Feng"
+    ],
+    "wiki": null,
+    "ep": 52,
+    "mentionEp": 51,
+    "group": "Taixuan Sect",
+    "side": "rival",
+    "intro": "A senior brother of Taixuan's Star Peak who comes to punish Ye Fan for the Star Peak disciples he has hurt. Not the Yuding Chen Feng of EP27.",
+    "power": [
+      {
+        "ep": 52,
+        "realm": "Other Shore",
+        "conf": "medium",
+        "note": "stated in dialogue"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 52,
+        "label": "Star Peak senior brother",
+        "desc": "Young man in Taixuan Star Peak robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 52,
+        "text": "Demands Ye Fan kneel and attacks with star-power treasures and his natal star, the Big Dipper, exposing Ye Fan as Divine Bridge."
+      },
+      {
+        "ep": 53,
+        "text": "Overwhelmed once Ye Fan triggers the Jie Secret; Ye Fan spares his life."
+      }
+    ],
+    "card": {
+      "ep": 52,
+      "t": 495.16
+    },
+    "cardType": "dialogue"
+  },
+  {
     "id": "ji-hong",
     "name": "Ji Hong",
     "zh": "姬洪",
@@ -2541,8 +2610,8 @@
       {
         "ep": 53,
         "realm": "Immortal Platform",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -2581,8 +2650,8 @@
       {
         "ep": 123,
         "realm": "Dragon Transformation",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -2629,14 +2698,14 @@
       {
         "ep": 55,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       },
       {
         "ep": 177,
         "realm": "Immortal Platform early",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -2680,14 +2749,14 @@
       {
         "ep": 55,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       },
       {
         "ep": 132,
         "realm": "Dragon Transformation",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -2728,8 +2797,8 @@
       {
         "ep": 55,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -2760,8 +2829,8 @@
       {
         "ep": 55,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -2779,6 +2848,46 @@
     ]
   },
   {
+    "id": "jiang-ming",
+    "name": "Jiang Ming",
+    "zh": null,
+    "aka": [],
+    "wiki": "Jiang Ming",
+    "ep": 55,
+    "group": "Jiang family",
+    "side": "neutral",
+    "intro": "An envoy of the ancient Jiang family at Taixuan who confronts Ji Hong and Yaoguang over the Saint's cocoon.",
+    "power": [
+      {
+        "ep": 55,
+        "realm": "Unknown",
+        "conf": "low",
+        "note": "name card gives no realm"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 55,
+        "label": "Jiang family envoy",
+        "desc": "Senior Jiang clan representative in Jiang robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 55,
+        "text": "Proposes that the young generation decide who takes the cocoon home."
+      },
+      {
+        "ep": 57,
+        "text": "Invites Ye Fan to the Northern Region, naming a Jiang connection."
+      }
+    ],
+    "card": {
+      "ep": 55,
+      "t": 320.52
+    }
+  },
+  {
     "id": "nangong-zheng",
     "name": "Nangong Zheng",
     "zh": "南宫正",
@@ -2794,8 +2903,9 @@
       {
         "ep": 58,
         "realm": "Immortal Platform 2nd Heaven",
-        "detail": "called a Great Power; wiki: peak 2nd Heaven (novel)",
-        "conf": "medium"
+        "detail": "called a Great Power",
+        "conf": "medium",
+        "note": "wiki: peak 2nd Heaven (novel)"
       }
     ],
     "looks": [
@@ -2856,6 +2966,46 @@
     ]
   },
   {
+    "id": "ji-ren",
+    "name": "Ji Ren",
+    "zh": null,
+    "aka": [],
+    "wiki": "Ji Ren",
+    "ep": 59,
+    "group": "Ji family",
+    "side": "neutral",
+    "intro": "A Dao Palace servant of the ancient Ji family who arrives at Imperial Water Gorge as Ye Fan and Ziyue are ambushed.",
+    "power": [
+      {
+        "ep": 59,
+        "realm": "Dao Palace",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 59,
+        "label": "Ji family retainer",
+        "desc": "Ji family servant in Ji robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 60,
+        "text": "On Ji Hui's orders, ambushes Ye Fan to 'take back' the Void technique; tricked into absorbing Xuanhuang Qi and begs for his life."
+      },
+      {
+        "ep": 61,
+        "text": "Confirmed dead; Ji Hui blames Ye Fan, who uses his refined Heavenly Glory Net."
+      }
+    ],
+    "card": {
+      "ep": 59,
+      "t": 1142.64
+    }
+  },
+  {
     "id": "ji-hui",
     "name": "Ji Hui",
     "zh": "姬慧",
@@ -2871,8 +3021,8 @@
       {
         "ep": 60,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -2894,6 +3044,88 @@
     ]
   },
   {
+    "id": "yaoguang-holy-lord",
+    "name": "Yaoguang Holy Lord",
+    "zh": null,
+    "aka": [
+      "Holy Master of Yaoguang",
+      "Lord of Yaoguang Holy Land"
+    ],
+    "wiki": null,
+    "ep": 62,
+    "group": "Yaoguang Holy Land",
+    "side": "neutral",
+    "intro": "The Immortal Platform lord of Yaoguang Holy Land, who joins the Ji family in besieging the Peacock King at Xuanyuan Valley.",
+    "power": [
+      {
+        "ep": 62,
+        "realm": "Immortal Platform",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 62,
+        "label": "Yaoguang Holy Lord",
+        "desc": "Stately holy-land master in Yaoguang robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 62,
+        "text": "Lays siege to the Peacock King with the Ji family."
+      },
+      {
+        "ep": 77,
+        "text": "Agrees to help the Yaochi Holy Maiden re-seal the Taichu mine stones and offers his Holy Son and Holy Maiden."
+      }
+    ],
+    "card": {
+      "ep": 62,
+      "t": 335.44
+    }
+  },
+  {
+    "id": "lao-dawei",
+    "name": "Lao Dawei",
+    "zh": null,
+    "aka": [
+      "Chatterbox",
+      "Lao Daogui"
+    ],
+    "wiki": "Lao Dawei",
+    "ep": 66,
+    "group": "Wanderers",
+    "side": "ally",
+    "intro": "A chatty miner of two and a half years in Yaoguang's source mines who befriends Ye Fan and tells him about the Northern Territory.",
+    "power": [
+      {
+        "ep": 66,
+        "realm": "Unknown",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 66,
+        "label": "Talkative miner",
+        "desc": "Worn-out miner in labourer's clothes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 66,
+        "text": "Catches Ye Fan refining Source Stones, then dies in the evil-source disaster searching for his lost eyes."
+      }
+    ],
+    "card": {
+      "ep": 66,
+      "t": 382.16
+    },
+    "cardType": "dialogue"
+  },
+  {
     "id": "tu-fei",
     "name": "Tu Fei",
     "zh": "涂飞",
@@ -2910,22 +3142,23 @@
       {
         "ep": 67,
         "realm": "Dao Palace",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       },
       {
         "ep": 95,
         "realm": "Dao Palace",
-        "detail": "wiki: Spleen treasury",
-        "conf": "low"
+        "conf": "low",
+        "note": "wiki: Spleen treasury"
       }
     ],
     "looks": [
       {
         "ep": 67,
         "label": "Bandit look",
-        "desc": "Scruffy bandit-style young man (official concept art).",
-        "conf": "high"
+        "desc": "Scruffy bandit-style young man.",
+        "conf": "high",
+        "note": "official concept art"
       },
       {
         "ep": 180,
@@ -2959,6 +3192,96 @@
     ]
   },
   {
+    "id": "yaoguang-elder-li",
+    "name": "Elder Li",
+    "zh": "李长老",
+    "aka": [
+      "Elder Li of Yaoguang",
+      "Penatua Li"
+    ],
+    "wiki": "Elder Li",
+    "ep": 67,
+    "group": "Yaoguang Holy Land",
+    "side": "enemy",
+    "intro": "A Yaoguang elder overseeing the source mines, who praises Ye Fan's nerve after he survives the cursed gallery. Not Li Ruoyu of Taixuan.",
+    "power": [
+      {
+        "ep": 67,
+        "realm": "Four Poles",
+        "detail": "threatens Ye Fan with a Four Poles strike",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 67,
+        "label": "Yaoguang mine elder",
+        "desc": "Elderly Yaoguang overseer in holy-land robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 67,
+        "text": "Orders Ye Fan to survive a Four Poles strike or be crippled and kept mining, then clashes with the bandit Jiang Yi."
+      }
+    ],
+    "card": {
+      "ep": 67,
+      "t": 249.56
+    }
+  },
+  {
+    "id": "jiang-yi",
+    "name": "Jiang Yi",
+    "zh": "姜义",
+    "aka": [
+      "Ninth Great Bandit",
+      "Senior Jiang Yi",
+      "old thief"
+    ],
+    "wiki": "Jiang Yi",
+    "ep": 67,
+    "group": "Wanderers",
+    "side": "neutral",
+    "intro": "Ninth of the Thirteen Great Bandits and a deserter from the Jiang family, who raids Yaoguang's mine.",
+    "power": [
+      {
+        "ep": 67,
+        "realm": "Unknown",
+        "detail": "ninth-ranked Great Bandit",
+        "conf": "low",
+        "note": "name card gives only 'Bandit rank 9' (the wiki calls him the 13th bandit)"
+      },
+      {
+        "ep": 134,
+        "realm": "Dragon Transformation",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 67,
+        "label": "Old bandit",
+        "desc": "Grizzled old bandit."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 67,
+        "text": "Raids Yaoguang's mine and fights its elders with the Jiang family's Eight Gods Brutal Force."
+      },
+      {
+        "ep": 134,
+        "text": "Comes to Liuxiang Island to fight the Jiang 13th Grand Elder over Ye Fan's cauldron."
+      }
+    ],
+    "card": {
+      "ep": 67,
+      "t": 333.24
+    }
+  },
+  {
     "id": "lei-bo",
     "name": "Lei Bo",
     "zh": "雷勃",
@@ -2972,14 +3295,14 @@
       {
         "ep": 68,
         "realm": "Unknown",
-        "detail": "wiki lists the Wheel-and-Sea realm (novel)",
-        "conf": "low"
+        "conf": "low",
+        "note": "wiki lists the Wheel-and-Sea realm (novel)"
       },
       {
         "ep": 74,
         "realm": "Divine Bridge",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3016,14 +3339,14 @@
       {
         "ep": 68,
         "realm": "Unknown",
-        "detail": "wiki lists the Wheel-and-Sea realm (novel)",
-        "conf": "low"
+        "conf": "low",
+        "note": "wiki lists the Wheel-and-Sea realm (novel)"
       },
       {
         "ep": 74,
         "realm": "Divine Bridge",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3057,8 +3380,8 @@
       {
         "ep": 68,
         "realm": "Mortal",
-        "detail": "wiki",
-        "conf": "low"
+        "conf": "low",
+        "note": "wiki"
       }
     ],
     "looks": [
@@ -3127,23 +3450,26 @@
       {
         "ep": 70,
         "realm": "Unknown",
-        "detail": "sealed under Purple Mountain; his name card calls him a God King",
-        "conf": "high"
+        "detail": "sealed under Purple Mountain; known as the God King",
+        "conf": "high",
+        "note": "his name card calls him a God King"
       },
       {
         "ep": 110,
         "realm": "Immortal Platform",
-        "detail": "not stated; kills a 3rd-Heaven king and 13 Holy Lords, so at least 3rd-4th Heaven",
-        "conf": "low"
+        "detail": "kills a 3rd-Heaven King and 13 Holy Lords",
+        "conf": "low",
+        "note": "realm not stated; inferred at least 3rd-4th Heaven"
       }
     ],
     "looks": [
       {
         "ep": 70,
         "label": "Sealed Divine King",
-        "desc": "Withered and sealed beneath Purple Mountain; captioned 'Jiang Taixu, God King'.",
+        "desc": "Withered and sealed beneath Purple Mountain.",
         "why": "sealed and near death",
-        "conf": "medium"
+        "conf": "medium",
+        "note": "captioned 'Jiang Taixu, God King'"
       },
       {
         "ep": 110,
@@ -3164,10 +3490,139 @@
       },
       {
         "ep": 112,
-        "text": "Ye Fan survives his Four Poles tribulation only with Jiang Taixu's blood (per site notes)."
+        "text": "Ye Fan survives his Four Poles tribulation only with Jiang Taixu's blood."
       }
     ],
-    "mentionEp": 68
+    "mentionEp": 68,
+    "note": "arc EP112: per site notes"
+  },
+  {
+    "id": "liu-chengen",
+    "name": "Liu Cheng'en",
+    "zh": null,
+    "aka": [
+      "Young Master Liu"
+    ],
+    "wiki": null,
+    "ep": 73,
+    "group": "Holy lands & sects",
+    "side": "enemy",
+    "intro": "A young master of the Qingxia Sect at the stone-gambling workshop.",
+    "power": [
+      {
+        "ep": 73,
+        "realm": "Unknown",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 73,
+        "label": "Qingxia young master",
+        "desc": "Arrogant young man in Qingxia Sect robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 73,
+        "text": "Wins a 50 kg bet by secretly switching stones."
+      },
+      {
+        "ep": 74,
+        "text": "Reported killed by Ye Fan's group."
+      }
+    ],
+    "card": {
+      "ep": 73,
+      "t": 435.36
+    }
+  },
+  {
+    "id": "qingxia-sect-master",
+    "name": "Qingxia Sect Master",
+    "zh": null,
+    "aka": [
+      "Leader of the Qingxia Sect"
+    ],
+    "wiki": "Qingxia Sect Master",
+    "ep": 75,
+    "group": "Holy lands & sects",
+    "side": "enemy",
+    "intro": "The Dao Palace master of the Qingxia Sect, who comes with ten elders to punish Ye Fan.",
+    "power": [
+      {
+        "ep": 75,
+        "realm": "Dao Palace",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 75,
+        "label": "Qingxia Sect Master",
+        "desc": "Middle-aged sect master in Qingxia robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 75,
+        "text": "Beaten when Ye Fan turns the sect's combined Black Lotus attack back with the Dou Secret; his sect becomes the 'Mining Sect'."
+      }
+    ],
+    "card": {
+      "ep": 75,
+      "t": 237.6
+    }
+  },
+  {
+    "id": "lihuo-sect-master",
+    "name": "Lihuo Sect Master",
+    "zh": null,
+    "aka": [
+      "Master of the Lihuo Sect"
+    ],
+    "wiki": "Lihuo Sect Master",
+    "ep": 75,
+    "group": "Holy lands & sects",
+    "side": "enemy",
+    "intro": "The master of the Lihuo Sect, to which the Qingxia Sect paid tribute.",
+    "power": [
+      {
+        "ep": 75,
+        "realm": "Dao Palace",
+        "conf": "high",
+        "note": "stated on screen"
+      },
+      {
+        "ep": 76,
+        "realm": "Dao Palace",
+        "detail": "level 3",
+        "conf": "medium",
+        "note": "stated in dialogue"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 75,
+        "label": "Lihuo Sect Master",
+        "desc": "Sect master in fire-coloured Lihuo robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 75,
+        "text": "Sees through Ye Fan's 'Qingxia tribute' disguise and seals the hall."
+      },
+      {
+        "ep": 76,
+        "text": "Beaten by Ye Fan's new Fire Phoenix Seal; Ye Fan takes the sect's bronze furnace."
+      }
+    ],
+    "card": {
+      "ep": 75,
+      "t": 975.72
+    }
   },
   {
     "id": "yaochi-holy-maiden",
@@ -3186,8 +3641,8 @@
       {
         "ep": 77,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3200,13 +3655,14 @@
     "arc": [
       {
         "ep": 79,
-        "text": "Saves Ye Fan in the Taichu Ancient Mine arc (per preview headline)."
+        "text": "Pushes into the Taichu Ancient Mine alongside Ye Fan, disguised as Gu Feng, who ends up saving her."
       },
       {
         "ep": 135,
         "text": "Invites Ye Fan to the Yaochi Grand Gathering."
       }
-    ]
+    ],
+    "note": "arc EP79: was 'Saves Ye Fan in the Taichu Ancient Mine arc (per preview headline).'; EP81 4:14-4:18 says Gu Feng saved her"
   },
   {
     "id": "old-sabre",
@@ -3238,6 +3694,45 @@
     "arc": []
   },
   {
+    "id": "li-desheng",
+    "name": "Li Desheng",
+    "zh": null,
+    "aka": [],
+    "wiki": "Li Desheng",
+    "ep": 78,
+    "group": "Wanderers",
+    "side": "neutral",
+    "intro": "A member of Old Sabre's small party heading into the Taichu Ancient Mine, born with a Nether Eye in his left eye.",
+    "power": [
+      {
+        "ep": 78,
+        "realm": "Unknown",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 78,
+        "label": "Mine explorer",
+        "desc": "Explorer in travelling clothes; his left eye is a Nether Eye."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 78,
+        "text": "Sees a corpse hanging from the mine's starry 'ceiling' with his Nether Eye."
+      },
+      {
+        "ep": 79,
+        "text": "Stays with the party inside the mine and talks of his family's ancestral tomb."
+      }
+    ],
+    "card": {
+      "ep": 78,
+      "t": 343.48
+    }
+  },
+  {
     "id": "hei-huang",
     "name": "Hei Huang",
     "zh": "黑皇",
@@ -3257,17 +3752,18 @@
       {
         "ep": 81,
         "realm": "Unknown",
-        "detail": "a master of formations whose real strength is unclear",
-        "conf": "low"
+        "detail": "a master of formations",
+        "conf": "low",
+        "note": "real strength is unclear"
       }
     ],
     "looks": [
       {
         "ep": 81,
         "label": "Small black dog",
-        "desc": "Small, fluffy black dog with a big mouth and a gold bell on his collar (the novel's is ox-sized).",
-        "why": "the donghua shrinks him",
-        "conf": "high"
+        "desc": "Small, fluffy black dog with a big mouth and a gold bell on his collar.",
+        "conf": "high",
+        "note": "the novel's is ox-sized; the donghua shrinks him"
       },
       {
         "ep": 132,
@@ -3305,6 +3801,119 @@
     ]
   },
   {
+    "id": "situ-feng",
+    "name": "Situ Feng",
+    "zh": null,
+    "aka": [],
+    "wiki": "Situ Feng",
+    "ep": 83,
+    "group": "Holy lands & sects",
+    "side": "enemy",
+    "intro": "The leader of the Cloud Swan Sect in Quzhou, who boasts that he would slap Ye Fan to death for the Ji bounty.",
+    "power": [
+      {
+        "ep": 83,
+        "realm": "Dao Palace",
+        "detail": "level 3",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 83,
+        "label": "Cloud Swan Sect leader",
+        "desc": "Boastful young man in sect robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 83,
+        "text": "Brags about the bounty on Ye Fan in the Yunduan Mountains just before the Ji recruiters arrive."
+      }
+    ],
+    "card": {
+      "ep": 83,
+      "t": 843.76
+    }
+  },
+  {
+    "id": "ji-yunfeng",
+    "name": "Ji Yunfeng",
+    "zh": null,
+    "aka": [],
+    "wiki": "Ji Yunfeng",
+    "ep": 83,
+    "group": "Ji family",
+    "side": "enemy",
+    "intro": "A Dao Palace disciple of the ancient Ji family who comes to Quzhou on Ji Hui's orders to pick heroes for the Ji Heroes Conference. Not the EP16 Ji elder.",
+    "power": [
+      {
+        "ep": 83,
+        "realm": "Dao Palace",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 83,
+        "label": "Ji disciple",
+        "desc": "Young man in Ji family robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 83,
+        "text": "Announces the Ji Heroes Conference and brands Ye Fan a demon-race collaborator."
+      },
+      {
+        "ep": 84,
+        "text": "Fights Ye Fan with the Void Hand Seal and Sky-Cutting Finger; the Ji side is flattened by Ye Fan's cauldron."
+      }
+    ],
+    "card": {
+      "ep": 83,
+      "t": 868.32
+    }
+  },
+  {
+    "id": "ji-yunlin",
+    "name": "Ji Yunlin",
+    "zh": null,
+    "aka": [],
+    "wiki": "Ji Yunlin",
+    "ep": 83,
+    "group": "Ji family",
+    "side": "enemy",
+    "intro": "A Dao Palace disciple of the ancient Ji family who comes to Quzhou with Ji Yunfeng to recruit for the Ji Heroes Conference.",
+    "power": [
+      {
+        "ep": 83,
+        "realm": "Dao Palace",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 83,
+        "label": "Ji disciple",
+        "desc": "Young man in Ji family robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 83,
+        "text": "Runs the selection for the Ji Heroes Conference and joins the fight once Ye Fan reveals himself."
+      }
+    ],
+    "card": {
+      "ep": 83,
+      "t": 897.92
+    }
+  },
+  {
     "id": "jin-chi",
     "name": "Jin Chi",
     "zh": "金池",
@@ -3321,8 +3930,8 @@
       {
         "ep": 84,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3357,8 +3966,8 @@
       {
         "ep": 84,
         "realm": "Dao Palace",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3376,6 +3985,97 @@
     ]
   },
   {
+    "id": "jin-yan",
+    "name": "Jin Yan",
+    "zh": null,
+    "aka": [],
+    "wiki": "Jin Yan",
+    "ep": 84,
+    "group": "Demon race",
+    "side": "enemy",
+    "intro": "A demon commander in Demon City who tries to execute Ye Fan's group on arrival.",
+    "power": [
+      {
+        "ep": 84,
+        "realm": "Other Shore",
+        "conf": "high",
+        "note": "stated on screen"
+      },
+      {
+        "ep": 95,
+        "realm": "Dao Palace",
+        "conf": "high",
+        "note": "captioned Dao Palace; progress or a caption slip against EP84's Other Shore"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 84,
+        "label": "Demon commander",
+        "desc": "Demon-race officer in armour."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 84,
+        "text": "Backs down at the Azure Dragon King's token, then recognises Ye Fan from the wanted lists."
+      },
+      {
+        "ep": 91,
+        "text": "Exposed for arresting them to win Qing Yi's hand; demoted to Jin Chi's guard."
+      },
+      {
+        "ep": 96,
+        "text": "Made by Jin Chi to kneel and apologise to the Ji family."
+      }
+    ],
+    "card": {
+      "ep": 84,
+      "t": 819.76
+    }
+  },
+  {
+    "id": "elder-niu",
+    "name": "Elder Niu",
+    "zh": null,
+    "aka": [
+      "Old Niu"
+    ],
+    "wiki": "Elder Niu",
+    "ep": 84,
+    "group": "Demon race",
+    "side": "neutral",
+    "intro": "A demon-race elder who runs the Demon City arena where Qin Yao's admirers fight 'by the rules'.",
+    "power": [
+      {
+        "ep": 84,
+        "realm": "Unknown",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 84,
+        "label": "Demon arena elder",
+        "desc": "Demon-race elder presiding over the arena."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 84,
+        "text": "Drags Ye Fan into his arena, where Ye Fan beats Ku Zhu."
+      },
+      {
+        "ep": 91,
+        "text": "Helps question Tu Fei with the Azure Emperor's truth wine."
+      }
+    ],
+    "card": {
+      "ep": 84,
+      "t": 946.04
+    }
+  },
+  {
     "id": "qing-yi",
     "name": "Qing Yi",
     "zh": "青衣",
@@ -3391,8 +4091,8 @@
       {
         "ep": 85,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3418,8 +4118,8 @@
       {
         "ep": 93,
         "realm": "Dao Palace",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3450,8 +4150,8 @@
       {
         "ep": 93,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3485,8 +4185,8 @@
       {
         "ep": 94,
         "realm": "Immortal Platform",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3542,14 +4242,14 @@
       {
         "ep": 99,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       },
       {
         "ep": 114,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3581,14 +4281,14 @@
       {
         "ep": 99,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       },
       {
         "ep": 101,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3623,8 +4323,8 @@
       {
         "ep": 102,
         "realm": "Immortal Platform",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       },
       {
         "ep": 139,
@@ -3635,8 +4335,8 @@
       {
         "ep": 182,
         "realm": "Immortal Platform 3rd Heaven",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3670,14 +4370,14 @@
       {
         "ep": 103,
         "realm": "Dao Palace",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       },
       {
         "ep": 177,
         "realm": "Immortal Platform 2nd Heaven",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3730,8 +4430,8 @@
       {
         "ep": 103,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3762,8 +4462,8 @@
       {
         "ep": 103,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3791,8 +4491,8 @@
       {
         "ep": 103,
         "realm": "Dao Palace",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3815,6 +4515,90 @@
     ]
   },
   {
+    "id": "tuoba-chang",
+    "name": "Tuoba Chang",
+    "zh": "拓跋昌",
+    "aka": [
+      "Tuoba Cheng",
+      "Brother Tuoba"
+    ],
+    "wiki": "Tuoba Chang",
+    "ep": 103,
+    "group": "Holy lands & sects",
+    "side": "rival",
+    "intro": "A famous source-arts prodigy of the ancient Tuoba family whom Ye Fan (as Gu Feng) meets on the boat to the Holy City.",
+    "power": [
+      {
+        "ep": 103,
+        "realm": "Unknown",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 103,
+        "label": "Tuoba heir",
+        "desc": "Refined young source master with a strange right hand."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 104,
+        "text": "Wins his match by swapping stones with the Golden-Red Divine Hand; faces Gu Feng in the final."
+      },
+      {
+        "ep": 105,
+        "text": "Loses the three-round final; Gu Feng shatters his divine sense and he loses his memory."
+      }
+    ],
+    "card": {
+      "ep": 103,
+      "t": 490.04
+    }
+  },
+  {
+    "id": "li-rui",
+    "name": "Li Rui",
+    "zh": null,
+    "aka": [
+      "Yaoguang Holy Son candidate"
+    ],
+    "wiki": null,
+    "ep": 106,
+    "group": "Yaoguang Holy Land",
+    "side": "enemy",
+    "intro": "Yaoguang's future Holy Son, who called loudest for Ye Fan's death and was wounded by Pang Bo.",
+    "power": [
+      {
+        "ep": 106,
+        "realm": "Unknown",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 106,
+        "label": "Yaoguang Holy Son candidate",
+        "desc": "Young man in Yaoguang robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 106,
+        "text": "Run down by the 'Holy Hunter' team and begs for mercy."
+      },
+      {
+        "ep": 138,
+        "text": "Reappears in the Holy Body Killing Alliance."
+      }
+    ],
+    "card": {
+      "ep": 138,
+      "t": 577.16
+    },
+    "note": "arc EP106: whether he is killed or sealed is unclear"
+  },
+  {
     "id": "zi-xia",
     "name": "Zi Xia",
     "zh": "紫霞",
@@ -3832,8 +4616,8 @@
       {
         "ep": 107,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3866,8 +4650,8 @@
       {
         "ep": 108,
         "realm": "Immortal Platform 2nd Heaven",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3897,8 +4681,8 @@
       {
         "ep": 109,
         "realm": "Immortal Platform 2nd Heaven",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -3948,6 +4732,131 @@
         "text": "Covers up the fact that Ye Fan's wounds have healed."
       }
     ]
+  },
+  {
+    "id": "dark-night-king",
+    "name": "Dark Night King",
+    "zh": "暗夜君王",
+    "aka": [
+      "Raja Kegelapan",
+      "Twin King of Zhongzhou"
+    ],
+    "wiki": "Dark Night King",
+    "ep": 110,
+    "group": "Central States",
+    "side": "enemy",
+    "intro": "One of the Central States' Twin Kings of 4,000 years ago, whose brother Jiang Taixu killed, come to destroy the Jiang clan.",
+    "power": [
+      {
+        "ep": 110,
+        "realm": "Immortal Platform 3rd Heaven",
+        "detail": "said to have cut his Dao and become a King",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 110,
+        "label": "Twin King",
+        "desc": "Imposing ancient king in a Sage's battle robe."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 110,
+        "text": "Attacks the Jiang clan as Jiang Taixu revives; trapped in the Divine King Holy Land and killed by Taixu."
+      }
+    ],
+    "card": {
+      "ep": 110,
+      "t": 580.48
+    }
+  },
+  {
+    "id": "golden-winged-peng-king",
+    "name": "Old Golden-Winged Peng King",
+    "zh": null,
+    "aka": [
+      "Old Peng King",
+      "Golden-Winged Peng King"
+    ],
+    "wiki": null,
+    "ep": 111,
+    "group": "Demon race",
+    "side": "neutral",
+    "intro": "An old demon king of the Golden-Winged Peng line who comes to the Jiang clan to demand the prodigies Ye Fan sealed, Jin Chi among them.",
+    "power": [
+      {
+        "ep": 111,
+        "realm": "Immortal Platform 2nd Heaven",
+        "conf": "high",
+        "note": "captioned 'Immortal Platform Level 2'"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 111,
+        "label": "Old Peng King",
+        "desc": "Old demon king of the Golden-Winged Peng clan."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 111,
+        "text": "Demands the sealed prodigies; Jiang Taixu has them all released."
+      },
+      {
+        "ep": 128,
+        "text": "Stops Ye Fan from killing the defeated Jin Chi and takes him home."
+      }
+    ],
+    "card": {
+      "ep": 111,
+      "t": 474.32
+    }
+  },
+  {
+    "id": "feng-lie",
+    "name": "Feng Lie",
+    "zh": null,
+    "aka": [
+      "Young Master Feng Lie"
+    ],
+    "wiki": null,
+    "ep": 111,
+    "group": "Holy lands & sects",
+    "side": "rival",
+    "intro": "Young master of the Feng clan and Feng Fenghuang's brother, who brings three million catties of source as a dowry.",
+    "power": [
+      {
+        "ep": 111,
+        "realm": "Unknown",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 111,
+        "label": "Feng clan young master",
+        "desc": "Proud young noble in Feng clan robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 111,
+        "text": "Picks a fight when Ye Fan refuses the marriage, loses, and leaves the source anyway as his future brother-in-law."
+      },
+      {
+        "ep": 117,
+        "text": "Present as the Feng Holy Lord apologises for Feng Fenghuang's refusal."
+      }
+    ],
+    "card": {
+      "ep": 111,
+      "t": 964.64
+    },
+    "cardType": "dialogue"
   },
   {
     "id": "nangong-qi",
@@ -4001,8 +4910,8 @@
       {
         "ep": 116,
         "realm": "Unknown",
-        "detail": "wiki: Half-Step Great Power at the start (novel)",
-        "conf": "low"
+        "conf": "low",
+        "note": "wiki: Half-Step Great Power at the start (novel)"
       }
     ],
     "looks": [
@@ -4036,8 +4945,8 @@
       {
         "ep": 117,
         "realm": "Four Poles",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4056,6 +4965,170 @@
     "mentionEp": 111
   },
   {
+    "id": "ye-huiling",
+    "name": "Ye Huiling",
+    "zh": null,
+    "aka": [
+      "Ye Hulling"
+    ],
+    "wiki": "Ye Huiling",
+    "ep": 118,
+    "group": "Central States",
+    "side": "neutral",
+    "intro": "One of the young kings of the Central States, travelling to the Forbidden Zone with Wang Chongxiao on a fifteen-day boat.",
+    "power": [
+      {
+        "ep": 118,
+        "realm": "Four Poles",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 118,
+        "label": "Central States young king",
+        "desc": "Young woman in a blue dress."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 118,
+        "text": "Watches Wang Chongxiao's clash with Ye Fan on the boat."
+      }
+    ],
+    "card": {
+      "ep": 118,
+      "t": 581.64
+    }
+  },
+  {
+    "id": "wang-chongxiao",
+    "name": "Wang Chongxiao",
+    "zh": null,
+    "aka": [
+      "Young King Wang"
+    ],
+    "wiki": "Wang Chongxiao",
+    "ep": 118,
+    "group": "Central States",
+    "side": "rival",
+    "intro": "A young king of the Central States heading for the Forbidden Zone on the same boat as Ye Fan.",
+    "power": [
+      {
+        "ep": 118,
+        "realm": "Four Poles",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 118,
+        "label": "Central States young king",
+        "desc": "Haughty young man in rich Central States robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 118,
+        "text": "Crushes Xu Yueming with his Death King Gate, then has his holy weapons shattered by Ye Fan and withdraws."
+      },
+      {
+        "ep": 119,
+        "text": "Ye Fan borrows his face as a disguise."
+      },
+      {
+        "ep": 122,
+        "text": "Taunted by Ye Fan at Hua Yunfei's Star Peak banquet."
+      }
+    ],
+    "card": {
+      "ep": 118,
+      "t": 584.68
+    }
+  },
+  {
+    "id": "guhua-emperor",
+    "name": "Guhua Emperor",
+    "zh": null,
+    "aka": [
+      "Emperor of the Guhua Dynasty"
+    ],
+    "wiki": null,
+    "ep": 119,
+    "group": "Central States",
+    "side": "neutral",
+    "intro": "The dying emperor of the Guhua Dynasty, one of the Four Great Immortal Dynasties of the Central States, come to the Ancient Forbidden Land for immortality medicine.",
+    "power": [
+      {
+        "ep": 119,
+        "realm": "Immortal Platform 2nd Heaven",
+        "conf": "high",
+        "note": "captioned 'Immortal Platform Level 2'"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 119,
+        "label": "Guhua emperor",
+        "desc": "Aged emperor in a divine robe."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 119,
+        "text": "Ignores his Imperial Uncle, walks into the Forbidden Land and dies there."
+      }
+    ],
+    "card": {
+      "ep": 119,
+      "t": 783.84
+    }
+  },
+  {
+    "id": "yin-yang-holy-maiden",
+    "name": "Yin-Yang Holy Maiden",
+    "zh": null,
+    "aka": [
+      "Holy Maiden of the Yin-Yang Sect",
+      "Saintess of the Yin-Yang Sect"
+    ],
+    "wiki": null,
+    "ep": 119,
+    "group": "Holy lands & sects",
+    "side": "enemy",
+    "intro": "The Holy Maiden of the Yin-Yang Sect, among the powers gathered at Yan Capital outside the Ancient Forbidden Land.",
+    "power": [
+      {
+        "ep": 119,
+        "realm": "Unknown",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 119,
+        "label": "Yin-Yang Holy Maiden",
+        "desc": "Young woman in Yin-Yang Sect robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 125,
+        "text": "Hunts Ye Fan with the sect's elders; her Seven-Coloured Star Sand blocks his fire, but his Divine Beating Whip strikes her mind."
+      },
+      {
+        "ep": 130,
+        "text": "Her death at Ye Fan's hands is confirmed."
+      }
+    ],
+    "card": {
+      "ep": 119,
+      "t": 248.08
+    }
+  },
+  {
     "id": "wang-yangzhan",
     "name": "Wang Yangzhan",
     "zh": "王养战",
@@ -4072,8 +5145,8 @@
       {
         "ep": 125,
         "realm": "Immortal Platform",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4140,6 +5213,439 @@
     ]
   },
   {
+    "id": "zhao-fa",
+    "name": "Zhao Fa",
+    "zh": null,
+    "aka": [],
+    "wiki": null,
+    "ep": 127,
+    "group": "Holy lands & sects",
+    "side": "enemy",
+    "intro": "A member of the Ziwei Sect (not the Ziwei star field) whom Ye Fan meets on Feng Clan Island, offering him medicine.",
+    "power": [
+      {
+        "ep": 127,
+        "realm": "Unknown",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 127,
+        "label": "Ziwei Sect man",
+        "desc": "Smooth-talking man in Ziwei Sect robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 127,
+        "text": "Tries to trade for Ye Fan's Dragon-Patterned Black Gold Sword and attacks when refused; Ye Fan beats his men."
+      },
+      {
+        "ep": 130,
+        "text": "Brings the Ziwei Sect Master to demand the sword, and is blamed by him after the Old Madman appears."
+      }
+    ],
+    "card": {
+      "ep": 127,
+      "t": 430.16
+    }
+  },
+  {
+    "id": "yin-yang-holy-son",
+    "name": "Yin-Yang Holy Son",
+    "zh": null,
+    "aka": [
+      "Holy Son of the Yin-Yang Sect"
+    ],
+    "wiki": null,
+    "ep": 130,
+    "group": "Holy lands & sects",
+    "side": "enemy",
+    "intro": "The newly emerged Holy Son of the Yin-Yang Sect, armed with the sect's Yin-Yang sword to avenge the Holy Maiden.",
+    "power": [
+      {
+        "ep": 130,
+        "realm": "Unknown",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 130,
+        "label": "Yin-Yang Holy Son",
+        "desc": "Young man in Yin-Yang Sect robes with the Yin-Yang sword."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 130,
+        "text": "Ambushes Ye Fan near the Holy Cliff with the Yin-Yang Divine Diagram and is killed by his Taiji Divine Diagram."
+      }
+    ],
+    "card": {
+      "ep": 130,
+      "t": 574.84
+    },
+    "cardType": "dialogue"
+  },
+  {
+    "id": "taiyang-king",
+    "name": "Taiyang King",
+    "zh": null,
+    "aka": [
+      "Sun King",
+      "Twin King of the Central States"
+    ],
+    "wiki": null,
+    "ep": 132,
+    "group": "Central States",
+    "side": "enemy",
+    "intro": "One of the Twin Kings of the Central States, who come to the Holy City over An Miaoyi's refusal to dance.",
+    "power": [
+      {
+        "ep": 132,
+        "realm": "Four Poles",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 132,
+        "label": "Twin King",
+        "desc": "Proud young king of the Central States."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 133,
+        "text": "Attacks An Miaoyi; Ye Fan shatters his Bitter Sea, crippling him, and spares him at her request."
+      }
+    ],
+    "card": {
+      "ep": 132,
+      "t": 1119.44
+    }
+  },
+  {
+    "id": "gao-linfeng",
+    "name": "Gao Linfeng",
+    "zh": null,
+    "aka": [
+      "Younger Twin King"
+    ],
+    "wiki": null,
+    "ep": 132,
+    "group": "Central States",
+    "side": "enemy",
+    "intro": "The younger of the Central States' Twin Kings, arriving at the Holy City with the Taiyang King.",
+    "power": [
+      {
+        "ep": 132,
+        "realm": "Four Poles",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 132,
+        "label": "Younger Twin King",
+        "desc": "Young king of the Central States."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 133,
+        "text": "Fights Ye Fan beside the Taiyang King and their beast slave, and is spared at An Miaoyi's request."
+      }
+    ],
+    "card": {
+      "ep": 132,
+      "t": 1116.8
+    }
+  },
+  {
+    "id": "jiang-huairen",
+    "name": "Jiang Huairen",
+    "zh": null,
+    "aka": [
+      "Brother Huairen",
+      "Jiang Yi's grandson"
+    ],
+    "wiki": null,
+    "ep": 133,
+    "group": "Wanderers",
+    "side": "ally",
+    "intro": "The grandson of the bandit Jiang Yi, a third-generation bandit and sworn brother of Tu Fei and Li Heishui.",
+    "power": [
+      {
+        "ep": 133,
+        "realm": "Unknown",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 133,
+        "label": "Third-generation bandit",
+        "desc": "Brash young bandit."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 133,
+        "text": "Offers to help Ye Fan take his cauldron back from the Jiang family."
+      },
+      {
+        "ep": 134,
+        "text": "Storms Liuxiang Island with Ye Fan and wields Jiang Yi's Divine Wood Token."
+      },
+      {
+        "ep": 171,
+        "text": "Listed by Li Heishui among the fallen."
+      }
+    ],
+    "card": {
+      "ep": 134,
+      "t": 216.16
+    },
+    "cardType": "dialogue"
+  },
+  {
+    "id": "jiang-huaian",
+    "name": "Jiang Huai'an",
+    "zh": null,
+    "aka": [
+      "Jiang Huaian"
+    ],
+    "wiki": null,
+    "ep": 134,
+    "group": "Jiang family",
+    "side": "enemy",
+    "intro": "A Dragon Transformation member of the ancient Jiang family who covers for Jiang Yichen.",
+    "power": [
+      {
+        "ep": 134,
+        "realm": "Dragon Transformation",
+        "conf": "high",
+        "note": "stated on screen"
+      },
+      {
+        "ep": 135,
+        "realm": "Dragon Transformation",
+        "detail": "Wheel Sea shattered, Dao Palace intact",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 134,
+        "label": "Jiang clan elder",
+        "desc": "Jiang clansman in family robes."
+      },
+      {
+        "ep": 135,
+        "label": "Sealed in a latrine",
+        "desc": "Crippled and sealed away.",
+        "why": "Ye Fan seals him in a latrine for a hundred years"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 134,
+        "text": "Leaks the cauldron's return to the Wanchu and Zifu Holy Sons."
+      },
+      {
+        "ep": 135,
+        "text": "Ye Fan breaks his Wheel Sea and seals him in a latrine for a hundred years."
+      }
+    ],
+    "card": {
+      "ep": 134,
+      "t": 318.04
+    }
+  },
+  {
+    "id": "ouyang-ye",
+    "name": "Ouyang Ye",
+    "zh": null,
+    "aka": [
+      "Master Ouyang",
+      "Senior Ouyang"
+    ],
+    "wiki": null,
+    "ep": 135,
+    "group": "Holy lands & sects",
+    "side": "neutral",
+    "intro": "A master of the Source Master family at Yaochi, said to be close to the level of an Earth Source Master.",
+    "power": [
+      {
+        "ep": 135,
+        "realm": "Unknown",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 135,
+        "label": "Old source master",
+        "desc": "Crafty old source master."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 135,
+        "text": "Seals one King Stone but flees the Nine-Aperture Human Stone and sabotages Ye Fan's patterns."
+      },
+      {
+        "ep": 136,
+        "text": "Ye Fan makes him trigger the Ancient True Demon Domain."
+      },
+      {
+        "ep": 152,
+        "text": "Flatters Ye Fan at Qinling while plotting to take his Heaven Source Scripture."
+      }
+    ],
+    "card": {
+      "ep": 135,
+      "t": 745.76
+    }
+  },
+  {
+    "id": "wanchu-holy-lord",
+    "name": "Wanchu Holy Lord",
+    "zh": null,
+    "aka": [
+      "Wanchu Sovereign"
+    ],
+    "wiki": null,
+    "ep": 135,
+    "group": "Holy lands & sects",
+    "side": "enemy",
+    "intro": "The Immortal Platform lord of Wanchu Holy Land, watching Ye Fan at the Yaochi Grand Gathering.",
+    "power": [
+      {
+        "ep": 135,
+        "realm": "Immortal Platform",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 135,
+        "label": "Wanchu Holy Lord",
+        "desc": "Holy-land master in Wanchu robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 136,
+        "text": "Accuses Ye Fan of being the Ruthless heir and is shut in the Ancient True Demon Domain; his death is confirmed in EP139."
+      }
+    ],
+    "card": {
+      "ep": 135,
+      "t": 644.88
+    }
+  },
+  {
+    "id": "queen-mother-of-the-west",
+    "name": "Queen Mother of the West",
+    "zh": null,
+    "aka": [
+      "Ibu Suri Barat",
+      "Queen Mother of Yaochi"
+    ],
+    "wiki": null,
+    "ep": 136,
+    "mentionEp": 132,
+    "group": "Holy lands & sects",
+    "side": "neutral",
+    "intro": "The present Immortal Platform head of Yaochi Holy Land, bearing the title of the Queen Mother of the West; not the ancient Great Emperor of the same title.",
+    "power": [
+      {
+        "ep": 136,
+        "realm": "Immortal Platform",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 136,
+        "label": "Queen Mother of Yaochi",
+        "desc": "Dignified woman in Yaochi robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 136,
+        "text": "Thanks Ye Fan for helping reseal the King Stones but warns she can't protect him outside Yaochi."
+      },
+      {
+        "ep": 139,
+        "text": "Won't openly take sides, but suppresses Wang Zheng with the Xihuang Pagoda."
+      },
+      {
+        "ep": 140,
+        "text": "Recommends Ye Fan to the Qishi Academy."
+      }
+    ],
+    "card": {
+      "ep": 136,
+      "t": 244.12
+    }
+  },
+  {
+    "id": "ou-luotian",
+    "name": "Ou Luotian",
+    "zh": null,
+    "aka": [
+      "Ou Yetian",
+      "Wanchu Holy Lord's younger brother"
+    ],
+    "wiki": null,
+    "ep": 136,
+    "group": "Holy lands & sects",
+    "side": "enemy",
+    "intro": "The Wanchu Holy Lord's younger brother, an Immortal Platform master.",
+    "power": [
+      {
+        "ep": 136,
+        "realm": "Immortal Platform",
+        "detail": "the Holy Lord's younger brother",
+        "conf": "high",
+        "note": "captioned only as the Holy Lord's younger brother"
+      },
+      {
+        "ep": 139,
+        "realm": "Immortal Platform 2nd Heaven",
+        "conf": "high",
+        "note": "captioned 'Immortal Platform Level 2'"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 136,
+        "label": "Wanchu Holy Lord's brother",
+        "desc": "Holy-land master in Wanchu robes."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 139,
+        "text": "Demands Ye Fan's death for the Dragon Nest deaths and is killed by the Peacock King in two moves."
+      }
+    ],
+    "card": {
+      "ep": 139,
+      "t": 233.72
+    }
+  },
+  {
     "id": "dongfang-taiyi",
     "name": "Dongfang Taiyi",
     "zh": "东方太一",
@@ -4156,14 +5662,15 @@
       {
         "ep": 137,
         "realm": "Saint",
-        "detail": "a sealed ancient saint; the wiki calls him a peak Great Saint (novel)",
-        "conf": "low"
+        "detail": "a sealed ancient saint",
+        "conf": "low",
+        "note": "the wiki calls him a peak Great Saint (novel)"
       },
       {
         "ep": 162,
         "realm": "Great Saint",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4236,8 +5743,8 @@
       {
         "ep": 139,
         "realm": "Immortal Platform",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4270,8 +5777,8 @@
       {
         "ep": 141,
         "realm": "Dragon Transformation",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4309,14 +5816,14 @@
       {
         "ep": 141,
         "realm": "Dragon Transformation",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       },
       {
         "ep": 172,
         "realm": "Immortal Platform 2nd Heaven",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4338,6 +5845,44 @@
     ]
   },
   {
+    "id": "xiao-mingyuan",
+    "name": "Xiao Mingyuan",
+    "zh": null,
+    "aka": [
+      "Brother Mingyuan"
+    ],
+    "wiki": null,
+    "ep": 141,
+    "group": "Central States",
+    "side": "enemy",
+    "intro": "Elder Xiao's grandson in the Anping Kingdom, angered when Ye Fan picks Lu City, the Xiao clan's old fief.",
+    "power": [
+      {
+        "ep": 141,
+        "realm": "Dragon Transformation",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 141,
+        "label": "Xiao clan heir",
+        "desc": "Cruel young noble of the Xiao clan."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 143,
+        "text": "Returns with a healed Yan Yunluan for revenge and tries to blood-sacrifice Lu City; Ye Fan kills him."
+      }
+    ],
+    "card": {
+      "ep": 141,
+      "t": 432.0
+    }
+  },
+  {
     "id": "qi-huoshui",
     "name": "Qi Huoshui",
     "zh": "齐祸水",
@@ -4356,8 +5901,8 @@
       {
         "ep": 142,
         "realm": "Dragon Transformation",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4373,6 +5918,117 @@
         "text": "Beaten by Ye Fan and made his maid."
       }
     ]
+  },
+  {
+    "id": "yan-yunluan",
+    "name": "Yan Yunluan",
+    "zh": "烟云乱",
+    "aka": [],
+    "wiki": "Yan Yunluan",
+    "ep": 142,
+    "group": "Central States",
+    "side": "rival",
+    "intro": "An arrogant Dragon Transformation genius who claims the Heaven-Earth-Human seals and the Wanshang Bow as his.",
+    "power": [
+      {
+        "ep": 142,
+        "realm": "Dragon Transformation",
+        "conf": "high",
+        "note": "stated on screen"
+      },
+      {
+        "ep": 143,
+        "realm": "Dragon Transformation",
+        "detail": "breaks through a level mid-fight",
+        "conf": "medium",
+        "note": "level not stated"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 142,
+        "label": "Arrogant genius",
+        "desc": "Haughty young cultivator with a great bow."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 142,
+        "text": "Beaten by Ye Fan with his own bow."
+      },
+      {
+        "ep": 143,
+        "text": "Returns with Xiao Mingyuan; Ye Fan takes over his heavenly tribulation to reach Dragon Transformation."
+      }
+    ],
+    "card": {
+      "ep": 142,
+      "t": 907.36
+    }
+  },
+  {
+    "id": "blind-old-man-of-heaven",
+    "name": "Blind Old Man of Heaven",
+    "zh": null,
+    "aka": [
+      "Blind Heaven Old Man",
+      "Blind old man",
+      "Second Great Bandit of the Northern Plains"
+    ],
+    "wiki": null,
+    "ep": 144,
+    "group": "Wanderers",
+    "side": "neutral",
+    "intro": "A blind old map-seller who sells maps of the Immortal Burial Ground and leads Ye Fan's group inside.",
+    "power": [
+      {
+        "ep": 144,
+        "realm": "Unknown",
+        "detail": "strength unreadable",
+        "conf": "low"
+      },
+      {
+        "ep": 145,
+        "realm": "Immortal Platform",
+        "conf": "high",
+        "note": "stated on screen"
+      },
+      {
+        "ep": 182,
+        "realm": "Immortal Platform 3rd Heaven",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 144,
+        "label": "Blind map-seller",
+        "desc": "Blind old man hawking maps."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 144,
+        "text": "Uses the crowds he sold maps to as trap-clearers and leads a chant that pacifies the God's Thought."
+      },
+      {
+        "ep": 145,
+        "text": "Reveals himself as the Second Great Bandit of the Northern Plains."
+      },
+      {
+        "ep": 182,
+        "text": "Joins Ye Fan and Duan De in exploring Purple Mountain."
+      },
+      {
+        "ep": 183,
+        "text": "Gives Ye Fan Wu Shi's jade so he can get out."
+      }
+    ],
+    "card": {
+      "ep": 144,
+      "t": 305.32
+    }
   },
   {
     "id": "wang-teng",
@@ -4396,14 +6052,14 @@
       {
         "ep": 156,
         "realm": "Immortal Platform",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       },
       {
         "ep": 177,
         "realm": "Immortal Platform 2nd Heaven",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4430,9 +6086,58 @@
       },
       {
         "ep": 157,
-        "text": "Killed by Ye Fan in the movie 'Fighting Wang Teng with the Coffin' (between EP156 and EP157)."
+        "text": "Ye Fan defeats him in the movie 'Fighting Wang Teng with the Coffin', set between EP156 and EP157."
       }
-    ]
+    ],
+    "note": "Earlier text said he was killed in the movie, but he is on screen at 2nd Heaven in EP177."
+  },
+  {
+    "id": "wang-chong",
+    "name": "Wang Chong",
+    "zh": "王冲",
+    "aka": [],
+    "wiki": "Wang Chong",
+    "ep": 145,
+    "group": "Central States",
+    "side": "enemy",
+    "intro": "A Dragon Transformation prodigy of the Northern Plains Wang clan, sent when the Xiao clan asks the Wang family for help.",
+    "power": [
+      {
+        "ep": 145,
+        "realm": "Dragon Transformation",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 145,
+        "label": "Wang clan prodigy",
+        "desc": "Proud young noble of the Wang clan."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 145,
+        "text": "Attacks with a king-grade war chariot; crushed by Ye Fan, who takes it. Wang Teng's divine sense saves him."
+      },
+      {
+        "ep": 146,
+        "text": "Scolded and confined for a year by Wang Teng."
+      },
+      {
+        "ep": 152,
+        "text": "Enters Qinling with a holy talisman and turns on Ye Fan at the dragon marrow."
+      },
+      {
+        "ep": 153,
+        "text": "Fights Ye Fan again with a Luan Gu Emperor talisman."
+      }
+    ],
+    "card": {
+      "ep": 145,
+      "t": 887.92
+    }
   },
   {
     "id": "azure-emperor",
@@ -4486,8 +6191,8 @@
       {
         "ep": 155,
         "realm": "Unknown",
-        "detail": "wiki: Immortal Platform (novel)",
-        "conf": "low"
+        "conf": "low",
+        "note": "wiki: Immortal Platform (novel)"
       }
     ],
     "looks": [
@@ -4536,7 +6241,7 @@
     "arc": [
       {
         "ep": 166,
-        "text": "Gives Ye Fan a Fusang branch and carves nine emperor characters on his brow."
+        "text": "His lingering divine will passes nine ancient characters and a blessing to Ye Fan."
       },
       {
         "ep": 167,
@@ -4558,8 +6263,8 @@
       {
         "ep": 159,
         "realm": "Unknown",
-        "detail": "wiki: Immortal Platform (novel)",
-        "conf": "low"
+        "conf": "low",
+        "note": "wiki: Immortal Platform (novel)"
       }
     ],
     "looks": [
@@ -4592,8 +6297,8 @@
       {
         "ep": 160,
         "realm": "Unknown",
-        "detail": "wiki: Immortal Platform (novel)",
-        "conf": "low"
+        "conf": "low",
+        "note": "wiki: Immortal Platform (novel)"
       }
     ],
     "looks": [
@@ -4619,6 +6324,44 @@
     ]
   },
   {
+    "id": "golden-crow-ninth-prince",
+    "name": "Golden Crow Ninth Prince",
+    "zh": null,
+    "aka": [
+      "Ninth Prince"
+    ],
+    "wiki": null,
+    "ep": 160,
+    "group": "Ziwei star field",
+    "side": "enemy",
+    "intro": "A prince of Ziwei's Golden Crow clan, who with his Sixth Brother decides to shelter at home as the ancient clans approach.",
+    "power": [
+      {
+        "ep": 160,
+        "realm": "Immortal Platform 2nd Heaven",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 160,
+        "label": "Golden Crow prince",
+        "desc": "Golden Crow clan prince."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 163,
+        "text": "Beaten by Ye Fan in a duel at Sky Wolf Palace's feast; his death is implied."
+      }
+    ],
+    "card": {
+      "ep": 160,
+      "t": 345.81
+    }
+  },
+  {
     "id": "thousand-armed-divine-demon",
     "name": "Thousand-Armed Divine Demon",
     "zh": "千臂神魔",
@@ -4632,8 +6375,8 @@
       {
         "ep": 161,
         "realm": "Great Saint",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4652,6 +6395,44 @@
     "mentionEp": 160
   },
   {
+    "id": "golden-crow-first-prince",
+    "name": "Golden Crow First Prince",
+    "zh": null,
+    "aka": [
+      "First Crown Prince of the Golden Crows"
+    ],
+    "wiki": null,
+    "ep": 161,
+    "group": "Ziwei star field",
+    "side": "neutral",
+    "intro": "The Golden Crow clan's First Crown Prince, who watches from a cliff as the ancient clans' warship arrives and chooses to stay out.",
+    "power": [
+      {
+        "ep": 161,
+        "realm": "Immortal Platform 2nd Heaven",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 161,
+        "label": "Golden Crow crown prince",
+        "desc": "Regal Golden Crow prince."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 168,
+        "text": "Learns Ye Fan escaped the North Sea Eye and vows to finish what Lu Ya could not."
+      }
+    ],
+    "card": {
+      "ep": 161,
+      "t": 224.41
+    }
+  },
+  {
     "id": "yin-tiande",
     "name": "Yin Tiande",
     "zh": "殷天德",
@@ -4668,8 +6449,8 @@
       {
         "ep": 162,
         "realm": "Immortal Platform",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4703,8 +6484,8 @@
       {
         "ep": 163,
         "realm": "Immortal Platform",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4738,14 +6519,14 @@
       {
         "ep": 163,
         "realm": "Unknown",
-        "detail": "wiki: Immortal Platform (novel)",
-        "conf": "low"
+        "conf": "low",
+        "note": "wiki: Immortal Platform (novel)"
       },
       {
         "ep": 165,
         "realm": "Immortal Platform 2nd Heaven",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4778,8 +6559,8 @@
       {
         "ep": 164,
         "realm": "Immortal Platform 2nd Heaven middle stage",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4805,6 +6586,94 @@
     ]
   },
   {
+    "id": "heavenly-demon-granny",
+    "name": "Heavenly Demon Granny",
+    "zh": null,
+    "aka": [
+      "Granny"
+    ],
+    "wiki": null,
+    "ep": 164,
+    "group": "Ziwei star field",
+    "side": "enemy",
+    "intro": "An old demoness of Ziwei who joins the scramble for the map fragments and wants Ye Fan's Holy Body blood.",
+    "power": [
+      {
+        "ep": 164,
+        "realm": "Immortal Platform 3rd Heaven",
+        "detail": "early stage (on her clone)",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 164,
+        "label": "Eight-armed incarnation",
+        "desc": "Eight-armed clone of the old demoness."
+      },
+      {
+        "ep": 164,
+        "label": "True body",
+        "desc": "The Granny in her true body.",
+        "why": "her real body ambushes them nine days later"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 164,
+        "text": "Her true body ambushes Ye Fan's group and is killed by the Goddess Furnace; they loot her treasures."
+      }
+    ],
+    "card": {
+      "ep": 164,
+      "t": 530.73
+    }
+  },
+  {
+    "id": "taiyin-divine-son",
+    "name": "Taiyin Divine Son",
+    "zh": null,
+    "aka": [
+      "Tai Yin Divine Son"
+    ],
+    "wiki": null,
+    "ep": 164,
+    "mentionEp": 163,
+    "group": "Ziwei star field",
+    "side": "enemy",
+    "intro": "A young power of Ziwei in Yin Tiande's circle, who ambushes Ye Fan with the Heavenly Demon Granny.",
+    "power": [
+      {
+        "ep": 164,
+        "realm": "Immortal Platform",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 164,
+        "label": "Taiyin Divine Son",
+        "desc": "Young master of the Taiyin (moon) path."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 165,
+        "text": "Joins Lu Ya and Priest San Que in joining the 36 map fragments."
+      },
+      {
+        "ep": 167,
+        "text": "Attacks Ye Fan with a skull weapon of an Ancient Moon Queen descendant; Ye Fan seals it with Immortal Exile and takes it."
+      }
+    ],
+    "card": {
+      "ep": 164,
+      "t": 1037.33
+    }
+  },
+  {
     "id": "ye-tong",
     "name": "Ye Tong",
     "zh": "叶瞳",
@@ -4820,8 +6689,9 @@
       {
         "ep": 167,
         "realm": "Unknown",
-        "detail": "a young beginner (wiki: Wheel-and-Sea)",
-        "conf": "low"
+        "detail": "a young beginner",
+        "conf": "low",
+        "note": "wiki: Wheel-and-Sea"
       }
     ],
     "looks": [
@@ -4856,8 +6726,8 @@
       {
         "ep": 167,
         "realm": "Immortal Platform",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4875,6 +6745,134 @@
     ]
   },
   {
+    "id": "golden-crow-king",
+    "name": "Golden Crow King",
+    "zh": null,
+    "aka": [],
+    "wiki": null,
+    "ep": 168,
+    "group": "Ziwei star field",
+    "side": "enemy",
+    "intro": "The king of Ziwei's Golden Crow clan, first seen as a dharma body whom Lu Ya asks for the forbidden Ten Golden Crows pill.",
+    "power": [
+      {
+        "ep": 170,
+        "realm": "Immortal Platform 3rd Heaven",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 168,
+        "label": "Dharma body",
+        "desc": "Towering golden-crow dharma body of the king."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 169,
+        "text": "His projection scolds Lu Ya, says he cut 60% of the pill's effect, and declares the karma settled."
+      },
+      {
+        "ep": 170,
+        "text": "Appears at Ascension Immortal Cliff to seize the Divine Spirit Ancient Scripture."
+      }
+    ],
+    "card": {
+      "ep": 168,
+      "t": 765.93
+    }
+  },
+  {
+    "id": "qing-niu",
+    "name": "Qing Niu",
+    "zh": null,
+    "aka": [
+      "Divine Ox King",
+      "Green Ox"
+    ],
+    "wiki": "Divine Ox King",
+    "ep": 170,
+    "group": "Ziwei star field",
+    "side": "enemy",
+    "intro": "The Divine Ox King, Laozi's green ox mount, summoned by Yin Tiande with a Qin-era seal script.",
+    "power": [
+      {
+        "ep": 170,
+        "realm": "Immortal Platform 3rd Heaven",
+        "detail": "summoned only for an hour",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 170,
+        "label": "Green ox",
+        "desc": "Shining green divine ox."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 170,
+        "text": "Fights for Yin Tiande in the scramble for the Divine Spirit Ancient Scripture."
+      }
+    ],
+    "card": {
+      "ep": 170,
+      "t": 545.21
+    }
+  },
+  {
+    "id": "dongfang-man",
+    "name": "Dongfang Man",
+    "zh": null,
+    "aka": [],
+    "wiki": "Dongfang Man",
+    "ep": 171,
+    "group": "Central States",
+    "side": "ally",
+    "intro": "Dongfang Ye's younger brother, leading the barbarian tribe's hopeless last stand against the Wang clan at the Tushi Mountains.",
+    "power": [
+      {
+        "ep": 171,
+        "realm": "Immortal Platform 2nd Heaven",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 171,
+        "label": "Barbarian warrior",
+        "desc": "Muscular young barbarian warrior."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 171,
+        "text": "Saved when Ye Fan kills the Wang 13th Elder."
+      },
+      {
+        "ep": 173,
+        "text": "Leads the blood sacrifice to blow the Qiongtian war horn and wake the tribe."
+      },
+      {
+        "ep": 177,
+        "text": "Ye Fan promises to take him to kill Zi Tianfeng."
+      },
+      {
+        "ep": 181,
+        "text": "Takes Ye Fan to the wounded Li Heishui."
+      }
+    ],
+    "card": {
+      "ep": 171,
+      "t": 870.29
+    }
+  },
+  {
     "id": "wang-chengkun",
     "name": "Wang Chengkun",
     "zh": "王成坤",
@@ -4890,8 +6888,8 @@
       {
         "ep": 172,
         "realm": "Immortal Platform 2nd Heaven",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4909,6 +6907,79 @@
     ]
   },
   {
+    "id": "wang-chengtian",
+    "name": "Wang Chengtian",
+    "zh": "王承天",
+    "aka": [],
+    "wiki": "Wang Chengtian",
+    "ep": 173,
+    "group": "Central States",
+    "side": "enemy",
+    "intro": "An elder of the Northern Plains Wang clan who swears a blood oath to avenge the beheaded family head.",
+    "power": [
+      {
+        "ep": 173,
+        "realm": "Immortal Platform 2nd Heaven",
+        "detail": "level 9",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 173,
+        "label": "Wang clan elder",
+        "desc": "Stern Wang clan elder."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 173,
+        "text": "Leads a hundred thousand Wang cavalry into the barbarian heartland and faces Ye Fan."
+      }
+    ],
+    "card": {
+      "ep": 173,
+      "t": 219.2
+    }
+  },
+  {
+    "id": "wang-lie",
+    "name": "Wang Lie",
+    "zh": "王烈",
+    "aka": [],
+    "wiki": "Wang Lie",
+    "ep": 174,
+    "group": "Central States",
+    "side": "enemy",
+    "intro": "An ancient of the Northern Plains Wang clan with 3,700 years of cultivation, who comes out of seclusion as the barbarians attack.",
+    "power": [
+      {
+        "ep": 174,
+        "realm": "Immortal Platform 3rd Heaven",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 174,
+        "label": "Wang ancient",
+        "desc": "Aged Wang clan ancestor."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 174,
+        "text": "Ye Fan copies his Beast King Fist and kills him with the Six-Path Samsara Fist."
+      }
+    ],
+    "card": {
+      "ep": 174,
+      "t": 637.46
+    }
+  },
+  {
     "id": "barbarian-king",
     "name": "Barbarian King",
     "zh": "蛮王",
@@ -4924,8 +6995,8 @@
       {
         "ep": 175,
         "realm": "Immortal Platform 3rd Heaven",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4938,9 +7009,47 @@
     "arc": [
       {
         "ep": 176,
-        "text": "Kills the Wang clan's Dark Demon King."
+        "text": "Warns Ye Fan about the North Pole once the Wang clan has fallen."
       }
     ]
+  },
+  {
+    "id": "dark-demon-king",
+    "name": "Dark Demon King",
+    "zh": null,
+    "aka": [
+      "Wang clan founding ancestor"
+    ],
+    "wiki": null,
+    "ep": 175,
+    "group": "Central States",
+    "side": "enemy",
+    "intro": "The Wang clan's founding ancestor, a Dark Body who survived the end of his lifespan by sealing himself in Divine Source for 1,500 years.",
+    "power": [
+      {
+        "ep": 175,
+        "realm": "Immortal Platform 3rd Heaven",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 175,
+        "label": "Sealed ancestor",
+        "desc": "Ancient Wang clan ancestor emerging from his Divine Source seal."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 175,
+        "text": "Holds off the Barbarian King until Ye Fan cuts him off from his Divine Source, then spends his remaining life on a North Pole Immortal Light."
+      }
+    ],
+    "card": {
+      "ep": 175,
+      "t": 63.63
+    }
   },
   {
     "id": "heavenly-emperor-son",
@@ -4959,8 +7068,8 @@
       {
         "ep": 181,
         "realm": "Immortal Platform 2nd Heaven",
-        "detail": "stated on screen",
-        "conf": "high"
+        "conf": "high",
+        "note": "stated on screen"
       }
     ],
     "looks": [
@@ -4971,5 +7080,47 @@
       }
     ],
     "arc": []
+  },
+  {
+    "id": "divine-spirit-valley-ancestral-king",
+    "name": "Divine Spirit Valley Ancestral King",
+    "zh": null,
+    "aka": [
+      "Ancestral King"
+    ],
+    "wiki": null,
+    "ep": 182,
+    "group": "Ancient clans",
+    "side": "enemy",
+    "intro": "The Saint-realm Ancestral King of Divine Spirit Valley, Zi Tianfeng's clan.",
+    "power": [
+      {
+        "ep": 182,
+        "realm": "Saint",
+        "conf": "high",
+        "note": "stated on screen"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 182,
+        "label": "Ancestral King",
+        "desc": "Ancient-clan Saint on his throne."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 182,
+        "text": "Shaken by a jade record of the 'Mad Emperor' killing three Great Saints."
+      },
+      {
+        "ep": 183,
+        "text": "Held back by his elders until the Heavenly Emperor's Son orders the barbarian tribe destroyed."
+      }
+    ],
+    "card": {
+      "ep": 182,
+      "t": 569.6
+    }
   }
 ]

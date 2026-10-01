@@ -1,0 +1,95 @@
+{
+  "ep": 59,
+  "title": "Three Flowers and the White Dragon Sovereign",
+  "summary": "Beiming conducts Mu Chen's infusion with his own method, Three Flowers Gather at the Crown, expecting him to bloom one flower at most. Xue Shi introduces himself as a royal of the Blood race, taunts Luo Li that Luo Tianshen has only two or three years left and that the Blood race will slaughter the Luo race once no Earth Sovereign remains, and accuses her of running from her duty. Inside Mu Chen, the White Dragon Spiritual Pearl opens, and the White Dragon Sovereign's remnant will shows his homeland devoured by an evil race from beyond the realm. Mu Chen declines to drain the pearl's power, so the Sovereign grants him a technique and tells him of the Martial Ancestor Lin Dong; Mu Chen promises one day to drive the evil race from the Sovereign's plane. Xue Shi traps Luo Li in an illusion of her dying clansmen and beats her, then mocks North Heaven. Mu Chen blooms a second and then a third flower.",
+  "events": [
+    "Beiming starts the Three Flowers Gather at the Crown infusion.",
+    "Xue Shi of the Blood race royal family taunts Luo Li about Luo Tianshen and the Luo race.",
+    "The White Dragon Spiritual Pearl opens; the White Dragon Sovereign shows his destroyed homeland.",
+    "The Sovereign grants Mu Chen a technique and speaks of the Martial Ancestor Lin Dong.",
+    "Mu Chen promises to reclaim the Sovereign's homeland.",
+    "Xue Shi's illusion breaks Luo Li and he beats her.",
+    "Mu Chen blooms three flowers."
+  ],
+  "introduced": [
+    "Three Flowers Gather at the Crown",
+    "Blood race",
+    "Western Heavenly Realm",
+    "White Dragon Spiritual Pearl Space",
+    "evil race from beyond the realm",
+    "Lin Dong (Martial Ancestor)",
+    "Martial Realm",
+    "Blood tide / blood river arts"
+  ],
+  "cultivation": "Mu Chen blooms all three flowers in the infusion (no realm named until EP60). Luo Tianshen is implied to be the Luo race's only Earth Sovereign.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "look": "Three flowers gathered at the crown during the infusion",
+      "first": false
+    },
+    {
+      "id": "northern-sea-dragon",
+      "name": "Northern Sea Dragon (Lord Dragon Fish of Beiming)",
+      "first": false
+    },
+    {
+      "id": "xue-shi",
+      "name": "Xue Shi",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "luo-tianshen",
+      "name": "Luo Tianshen",
+      "realm": "Earth Sovereign (implied)",
+      "quote": "When Luo Tianshen dies, and your race doesn't have anyone at the Earth Supreme Lord Realm... (205.5-207.5)",
+      "first": false
+    },
+    {
+      "id": "white-dragon-sovereign",
+      "name": "White Dragon Sovereign",
+      "realm": "Sovereign (by title; remnant will)",
+      "quote": "the White Dragon Supreme Lord? (340) / I am but a wisp of remnant will. (562.5)",
+      "first": false
+    },
+    {
+      "id": "lin-dong",
+      "name": "Lin Dong",
+      "quote": "[Martial Ancestor, Lin Dong] (648.5) - no realm",
+      "first": true,
+      "card": 648.5
+    },
+    {
+      "id": "fei-qingsong",
+      "name": "Fei Qingsong",
+      "first": false
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "mo-longzi",
+      "name": "Mo Longzi",
+      "quote": "'Mo Longzi, you can't escape!' (1017.5) - chased by Shen Cangsheng and Li Xuantong",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Roster (fan wiki) has Mu Chen at late Heavenly Transformation from EP59; the subtitles first state it in EP60."
+  ],
+  "flags": [
+    "207.5: Luo Tianshen's Earth Sovereign rank is implied by Xue Shi's line, not stated outright.",
+    "340: 'White Dragon Supreme Lord' is a title; recorded as Sovereign, but the grade is not given.",
+    "1017: Mo Longzi appears in a cutaway; roster first appearance is EP67.",
+    "0-36: recap of EP58."
+  ]
+}

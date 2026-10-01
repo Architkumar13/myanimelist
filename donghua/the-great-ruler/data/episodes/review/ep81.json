@@ -1,0 +1,161 @@
+{
+  "ep": 81,
+  "title": "The Spiritual Academy Competition begins",
+  "summary": "The teams are teleported onto the Relic Continent, and name cards introduce the rival captains: Wen Qingxuan of the Phoenix Spiritual Academy with Pin'er and Le'er, Liu Qingyun of the Blue Sky Academy, and Wu Yingying and Wu Ling of the Martial Spiritual Academy. North Heaven starts with only 10 points, so Mu Chen sends Mu Fengyang out to shout about a team with 500 points. Once the greedy teams gather, Luo Li and Zhao Qingshan seal the valley and take everyone's points. The team then tracks Liu Ying, whose Desolate Spiritual Academy team is under siege by four teams including Qiu Beihai and Shen Jun of Blue Sky. Mu Chen beats both Human Body Disaster cultivators with his body alone, even though Qiu Beihai sneers that he is only at late Heavenly Completion. Liu Ying hands over a jade slip about ruins holding Spiritual Fruits that help people pass the Human Body Disaster, and agrees to cooperate under Mu Chen's 'pig-farming' threat. Elsewhere Xiao Yan tells Yao Chen that Xun'er's bloodline reacted to the Ancient Pagoda Clan, and that Futu Xuan thinks the two share an origin.",
+  "events": [
+    "Teams arrive on the Relic Continent; the Phoenix, Holy, Blue Sky and Martial captains are introduced by name cards",
+    "North Heaven draws 10 points; Mu Fengyang lures teams with a fake 500-point claim and the team takes all their points",
+    "The leaderboard: 1. Phoenix (Wen Qingxuan), 2. Holy (Ji Xuan), 3. Martial (Wu Ling)",
+    "The team tracks Liu Ying, who is besieged by four teams",
+    "Mu Chen defeats Qiu Beihai and Shen Jun; Luo Li, Mu Fengyang and Zhao Qingshan beat the rest",
+    "Liu Ying gives up the jade slip about the relic ruins and agrees to cooperate",
+    "Xiao Yan and Yao Chen discuss Xun'er's bloodline reacting to the Ancient Pagoda Clan"
+  ],
+  "introduced": [
+    "Relic Continent",
+    "Wen Qingxuan",
+    "Pin'er",
+    "Le'er",
+    "Liu Qingyun",
+    "Wu Yingying",
+    "Wu Ling",
+    "Qiu Beihai",
+    "Shen Jun",
+    "Phoenix Spiritual Academy",
+    "Blue Sky Spiritual Academy",
+    "Martial Spiritual Academy",
+    "Desolate Spiritual Academy",
+    "Invincible Academy (captain Wen Busheng)",
+    "Ancient Pagoda Clan",
+    "Xun'er (mentioned)"
+  ],
+  "cultivation": "Name cards: Wen Qingxuan at the peak of the Spiritual Energy Disaster; Pin'er, Le'er and Liu Qingyun at the Spiritual Energy Disaster; Wu Ling at the middle phase of it; Wu Yingying at the peak of the Human Body Disaster; Qiu Beihai and Shen Jun at the Human Body Disaster. Mu Chen is still at late Heavenly Completion. Liu Ying passed the Human Body Disaster half a year ago.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Completion, Late Phase",
+      "quote": "Without the Spiritual Land infusion, you're merely at the late stage of the Completion of Heaven Level.",
+      "t": 821.0
+    },
+    {
+      "id": "wen-qingxuan",
+      "name": "Wen Qingxuan",
+      "realm": "Three Sovereign Disasters, Spiritual Energy Disaster, Peak of Late Phase",
+      "quote": "[Wen Qingxuan, Phoenix Spiritual Academy, Peak Level of Tribulation of Spiritual Power]",
+      "t": 215.5,
+      "card": 215.5,
+      "first": true
+    },
+    {
+      "id": "pin-er",
+      "name": "Pin'er",
+      "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+      "quote": "[Pin'er, Phoenix Spiritual Academy, Tribulation of Spiritual Power]",
+      "t": 222.5,
+      "card": 222.5,
+      "first": true
+    },
+    {
+      "id": "le-er",
+      "name": "Le'er",
+      "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+      "quote": "[Le'er, Phoenix Spiritual Academy, Tribulation of Spiritual Power]",
+      "t": 227.0,
+      "card": 227.0,
+      "first": true
+    },
+    {
+      "id": "liu-qingyun",
+      "name": "Liu Qingyun",
+      "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+      "quote": "[Liu Qingyun, Blue Sky Spiritual Academy, Tribulation of Spiritual Power]",
+      "t": 266.5,
+      "card": 266.5,
+      "first": true
+    },
+    {
+      "id": "wu-yingying",
+      "name": "Wu Yingying",
+      "realm": "Three Sovereign Disasters, Human Body Disaster, Peak of Late Phase",
+      "quote": "[Wu Yingying, Martial Spiritual Academy, Peak Level of Tribulation of the Physical Body]",
+      "t": 284.0,
+      "card": 284.0,
+      "first": true
+    },
+    {
+      "id": "wu-ling",
+      "name": "Wu Ling",
+      "realm": "Three Sovereign Disasters, Spiritual Energy Disaster, Middle Phase",
+      "quote": "[Wu Ling, Martial Spiritual Academy, Middle Phase of Tribulation of Spiritual Power]",
+      "t": 302.0,
+      "card": 302.0,
+      "first": true
+    },
+    {
+      "id": "qiu-beihai",
+      "name": "Qiu Beihai",
+      "realm": "Three Sovereign Disasters, Human Body Disaster",
+      "quote": "[Qiu Beihai & Shen Jun, Blue Sky Spiritual Academy, Tribulation of the Physical Body] / 'even though I've passed the Tribulation of the Physical Body'",
+      "t": 666.5,
+      "card": 666.5,
+      "first": true
+    },
+    {
+      "id": "shen-jun",
+      "name": "Shen Jun",
+      "realm": "Three Sovereign Disasters, Human Body Disaster",
+      "quote": "[Qiu Beihai & Shen Jun, Blue Sky Spiritual Academy, Tribulation of the Physical Body]",
+      "t": 666.5,
+      "card": 666.5,
+      "first": true
+    },
+    {
+      "id": "liu-ying",
+      "name": "Liu Ying",
+      "realm": "Three Sovereign Disasters, Human Body Disaster",
+      "quote": "Liu Ying is quite capable. He passed the Tribulation of the Physical Body half a year ago.",
+      "t": 1030.0
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan"
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li"
+    },
+    {
+      "id": "mu-fengyang",
+      "name": "Mu Fengyang"
+    },
+    {
+      "id": "zhao-qingshan",
+      "name": "Zhao Qingshan"
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan"
+    },
+    {
+      "id": "yao-chen",
+      "name": "Yao Chen"
+    },
+    {
+      "id": "futu-xuan",
+      "name": "Futu Xuan",
+      "look": "mentioned only"
+    }
+  ],
+  "changes": [
+    "Guide said 'Flame Emperor visits the Ancient Buddha Clan': the subs say the reaction came from the Ancient Pagoda Clan, and Xiao Yan went to see Futu Xuan there.",
+    "Added the name cards and the Liu Ying rescue and cooperation, which the guide left out."
+  ],
+  "flags": [
+    "Leaderboard captions are OCR-garbled: 'Martial Spirtual Academy, Captain Dong Tong' (#10) and 'Ten-Fist Academy, Captain Hu/An Bugui' (#11) are uncertain readings. The wiki has a Deng Tong at the Martial academy.",
+    "284 s: Wu Yingying's card is missing its opening bracket in the OCR but reads cleanly.",
+    "586 s: 'Holy Sons ... have at least passed the Tribulation of Spiritual Power' is a general statement about Holy Spiritual Academy captains, not one person's realm.",
+    "1196 s onward is the next-episode preview."
+  ]
+}

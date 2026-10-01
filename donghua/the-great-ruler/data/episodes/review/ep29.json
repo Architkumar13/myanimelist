@@ -1,0 +1,74 @@
+{
+  "ep": 29,
+  "title": "Two Heaven-level Beasts in the Ice Valley",
+  "summary": "Chu Qi describes the Ice Valley and its guardian, and Mu Chen identifies it from the sketch as the Frost Spirit Dragon, 73rd on the Earth list of beasts, whose full strength after three sheddings rivals late Heavenly Fusion; he reasons it is probably still at early Heavenly Fusion. The Jiuyou Bird urges him to take its essence now that he is at Spirit. Only Spirit-level fighters go in, leaving Ye Sun'er and Mo Ling behind. A crowd, including Xie Guan, is waiting; the dragon comes out, fights at early Heavenly Fusion strength and eliminates many attackers before being worn down. Then a second heaven-level beast, the Flame Spirit Lizard, 70th on the Earth list, bursts from underground, beats the tired dragon, and chases it as it flees. Mu Chen decides to take both beasts with the Jiuyou Bird's help, and the others race after him.",
+  "events": [
+    "Chu Qi's sketch lets Mu Chen identify the Frost Spirit Dragon.",
+    "The Jiuyou Bird encourages Mu Chen to refine a heaven-level beast's essence.",
+    "Sun'er and Mo Ling stay behind; only Spirit-level fighters go.",
+    "Many seekers, including Xie Guan, gather at the Ice Valley.",
+    "The Frost Spirit Dragon emerges at early Heavenly Fusion strength and scatters its attackers.",
+    "The Flame Spirit Lizard erupts from underground and overpowers the dragon.",
+    "Mu Chen goes after both beasts; rivals follow."
+  ],
+  "introduced": [
+    "Frost Spirit Dragon (Mysterious Spirithail Dragon)",
+    "Flame Spirit Lizard (Geocentric Flame Jalapura)",
+    "heaven-level spiritual beasts",
+    "Xie Guan"
+  ],
+  "cultivation": "Mu Chen is at Spirit. The Frost Spirit Dragon shows early Heavenly Fusion strength.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Spirit",
+      "quote": "Kid, ... You've reached the Divine Soul Level. (112-115)",
+      "first": false
+    },
+    {
+      "id": "mysterious-spirithail-dragon",
+      "name": "Mysterious Spirithail Dragon",
+      "realm": "Heavenly Fusion, Initial Phase",
+      "quote": "Indeed, it has the strength of the early-stage Fusion of Heaven Level. (346)",
+      "first": true,
+      "card": 340.5
+    },
+    {
+      "id": "geocentric-flame-jalapura",
+      "name": "Geocentric Flame Jalapura",
+      "quote": "[70th place on the earth list of beasts Flame Spirit Lizard] (664)",
+      "first": true,
+      "card": 664.0
+    },
+    {
+      "id": "xie-guan",
+      "name": "Xie Guan",
+      "quote": "Even Xie Guan and a few others came. (234)",
+      "first": true
+    },
+    {
+      "id": "chu-qi",
+      "name": "Chu Qi",
+      "first": false
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "first": false
+    },
+    {
+      "id": "ye-qingling",
+      "name": "Ye Qingling",
+      "first": false
+    }
+  ],
+  "changes": [
+    "The subs' 'Frost Spirit Dragon' (73rd) and 'Flame Spirit Lizard' (70th) are the roster's Mysterious Spirithail Dragon and Geocentric Flame Jalapura."
+  ],
+  "flags": [
+    "150: 'rivals top-tier late-stage Fusion of Heaven Level experts' describes a mature Frost Spirit Dragon, not this one.",
+    "86: the top 50 heaven-level beasts at maturity rival Heavenly Transformation or Heavenly Completion - general lore."
+  ]
+}

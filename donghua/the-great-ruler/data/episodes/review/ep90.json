@@ -1,0 +1,79 @@
+{
+  "ep": 90,
+  "title": "Xue Tiandu and the Wood God Trial",
+  "summary": "At the Wood God Mountain Ruins, Wen Qingxuan confronts the First Holy Son of the Holy Spiritual Academy, who betrayed her and stole Phoenix's Wood God Tablet, and who now openly courts the strongest side. Xue Tiandu, fourth prince of the Blood race, comes with the Supreme Cauldron team and asks for a marriage alliance with Luo Li, saying Luo race elders support it. Mu Chen calls him a 'Blood Toad' and says anyone who wants her has to step over him first. A third party proposes that the fifteen-level trial settle it, and Mu Chen refuses to treat Luo Li as a wager. Wu Yingying turns up again to the team's amusement before the teams offer their Wood God Tablets and are teleported in pairs. Mu Chen and Luo Li are paired, Wen Qingxuan is paired with a self-styled 'nobody', and Xue Tiandu with an Alliance member. The first levels are easy, but by the sixth the guards reach Heavenly Completion and then the peak of the Human Body Disaster. One team that tries to quit dies when the corrupted core refuses to stop the trial.",
+  "events": [
+    "Mu Chen and Luo Li speculate about the ancient war with the evil race from beyond the realm",
+    "Wen Qingxuan faces the First Holy Son who betrayed her",
+    "Xue Tiandu of the Blood race demands a marriage alliance with Luo Li; Mu Chen rejects him",
+    "A wager on the fifteen-level trial is proposed and Mu Chen refuses to treat Luo Li as a stake",
+    "Wu Yingying reappears",
+    "The Wood God Tablets are offered and the participants are teleported in pairs",
+    "The levels escalate; Room Mao tries to quit and perishes because the core is corrupted"
+  ],
+  "introduced": [
+    "Wood God Mountain Ruins",
+    "Xue Tiandu",
+    "Blood race",
+    "Supreme Cauldron Spiritual Academy",
+    "Wood God Trial (15 levels)"
+  ],
+  "cultivation": "Xue Tiandu's name card: peak of the Spiritual Energy Disaster. Trial guards scale from Heavenly Fusion, through early Heavenly Completion at level 6, to the peak of the Human Body Disaster.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xue-tiandu",
+      "name": "Xue Tiandu",
+      "realm": "Three Sovereign Disasters, Spiritual Energy Disaster, Peak of Late Phase",
+      "quote": "[Xue Tiandu, Peak Level of Tribulation of Spiritual Power]",
+      "t": 269.5,
+      "card": 269.5,
+      "first": true
+    },
+    {
+      "id": "wang-zhong-iii",
+      "name": "Wang Zhong (III)",
+      "look": "the 'First Holy Son' of the Holy Spiritual Academy; not named on screen this episode"
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen"
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li"
+    },
+    {
+      "id": "wen-qingxuan",
+      "name": "Wen Qingxuan"
+    },
+    {
+      "id": "wu-yingying",
+      "name": "Wu Yingying"
+    },
+    {
+      "id": "mo-yu",
+      "name": "Mo Yu",
+      "look": "probably Wen Qingxuan's trial partner"
+    },
+    {
+      "id": null,
+      "name": "Qin Tui",
+      "look": "probably Xue Tiandu's trial partner"
+    },
+    {
+      "id": "pin-er",
+      "name": "Pin'er"
+    }
+  ],
+  "changes": [
+    "Guide: Xue Tiandu forces the marriage issue and Mu Chen rejects it: confirmed. Added the First Holy Son's betrayal and the trial's rules."
+  ],
+  "flags": [
+    "144-242 s: the 'First Holy Son' is not named here. Later lines ('an ally like Wang Zhong and the First Holy Son', 700 s; 'She was allies with Wang Zhong before', EP92 893 s) and the wiki (Wang Zhong III = head of the Four Holy Sons) identify him as Wang Zhong, not Ji Xuan.",
+    "669-705 s and 732 s: the speakers in the pairings are not named. Wen Qingxuan's partner ('a nobody like me... humble background') fits Mo Yu, the 'Second Brother'. Xue Tiandu's partner ('I didn't have fate with my second brother') fits the Alliance's third brother (Qin Tui). Both are inferred.",
+    "818 s: 'We've passed the Tribulation of the Physical Body. It's not hard for us' has no clear speaker (maybe Pin'er's pair, 847 s); not recorded.",
+    "879 s: 'This Wood God Guard already has the strength of the peak level of the Tribulation of the Physical Body' is about a trial guard.",
+    "958 s onward overlaps EP91."
+  ]
+}

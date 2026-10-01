@@ -1,0 +1,97 @@
+{
+  "ep": 3,
+  "title": "Mu Chen defeats Liu Yang",
+  "summary": "Hong Ling looks after the beaten Tan Qingshan while Liu Yang taunts Mu Chen, sure that his middle-phase Spiritual Movement beats Mu Chen's initial phase. Liu Mubai and Hong Ling watch from the stands. Mu Chen reads Liu Yang's attacks, and when Liu Yang uses the Liu family's Flame Palm he turns to the Great Buddha Art and breaks through to the middle phase of Spiritual Movement mid-fight, then wins. Liu Yang tries to use the Spirit Destruction Bead; Mu Chen snatches it, Liu Mubai asks for it back, and Master Mo exposes it. Master Mo and Master Xi debate stripping Liu Yang of his promotion, but Mu Chen keeps the bead as Liu Yang's apology and lets the matter drop. Mu Chen, Tan Qingshan, Liu Yang and the other Spiritual Movement students of the Earth class are promoted to the Heaven class. Liu Ming reports that Blood Slaughter is hiding in the North Spiritual Plain.",
+  "events": [
+    "Hong Ling tends to Tan Qingshan; Liu Yang wins the round against him",
+    "Mu Chen vs Liu Yang: the crowd notes Liu Yang's middle phase against Mu Chen's initial phase",
+    "Liu Yang uses the Flame Palm; Mu Chen answers with the Great Buddha Art",
+    "Mu Chen breaks through to middle-phase Spiritual Movement and wins",
+    "Liu Yang pulls out the Spirit Destruction Bead; Mu Chen takes it and keeps it as an apology",
+    "Dean Xiao announces the Earth students promoted to the Heaven class",
+    "Liu Ming learns Blood Slaughter is in the North Spiritual Plain"
+  ],
+  "introduced": [
+    "Flame Palm",
+    "Earth and Heaven classes (East and West Academy)",
+    "North Spiritual Plain",
+    "Liu Ming"
+  ],
+  "cultivation": "Mu Chen breaks through from the initial to the middle phase of Spiritual Movement during the Liu Yang fight. Liu Yang is at the middle phase of Spiritual Movement.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Spiritual Movement, Middle Phase",
+      "quote": "The middle stage of the Spiritual Movement Level? What? Mu Chen has reached the middle stage of the Spiritual Movement Level? Didn't he just reach the early stage... (375-380)",
+      "t": 375.0,
+      "first": false
+    },
+    {
+      "id": "liu-yang",
+      "name": "Liu Yang",
+      "realm": "Spiritual Movement, Middle Phase",
+      "quote": "Liu Yang is already at the middle stage of the Spiritual Movement Level. (90) / Liu Yang has reached the middle stage of the Spiritual Movement Level (106)",
+      "t": 90.0,
+      "first": false
+    },
+    {
+      "id": "hong-ling",
+      "name": "Hong Ling",
+      "card": 8.5,
+      "first": false
+    },
+    {
+      "id": "liu-ming",
+      "name": "Liu Ming",
+      "quote": "Greetings, Master San. (822) [Liu Ming] (838.5)",
+      "card": 838.5,
+      "first": true
+    },
+    {
+      "id": "tan-qingshan",
+      "name": "Tan Qingshan",
+      "first": false
+    },
+    {
+      "id": "liu-mubai",
+      "name": "Liu Mubai",
+      "first": false
+    },
+    {
+      "id": "tang-qian-er",
+      "name": "Tang Qian'er",
+      "first": false
+    },
+    {
+      "id": "teacher-mo",
+      "name": "Teacher Mo",
+      "first": false
+    },
+    {
+      "id": "teacher-xi",
+      "name": "Teacher Xi",
+      "first": false
+    },
+    {
+      "id": "principal-xiao",
+      "name": "Principal Xiao",
+      "first": false
+    },
+    {
+      "id": "xue-tu",
+      "name": "Xue Tu",
+      "look": "mentioned only, as 'the Blood Slaughter' (836)"
+    }
+  ],
+  "changes": [
+    "Confirms the guide: Mu Chen reaches middle-phase Spiritual Movement in EP3 against Liu Yang.",
+    "Adds the Spirit Destruction Bead incident and the promotion to the Heaven class."
+  ],
+  "flags": [
+    "617 s: 'even a master at the Spiritual Ring Level will get seriously hurt' by the bead is a comparison, not a realm.",
+    "8.5 s: Hong Ling's name card is in this episode; the roster puts her first episode at 2, which may be right if she is on screen unnamed there.",
+    "822-838 s: 'Master San' is Liu Ming (the third leader of Liu Realm, confirmed in EP8)."
+  ]
+}

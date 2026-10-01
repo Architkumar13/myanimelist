@@ -1,0 +1,43 @@
+{
+  "ep": 47,
+  "title": "The White Dragon Token",
+  "summary": "Mu Chen, now at middle-phase Heavenly Fusion to An Ran's surprise, offers the Lion and Tiger Gang a one-on-one duel for her ring. He beats their vice-captain with the pagoda, holds him hostage and trades him for the Serpent Spiritual Ring. A giant statue guarding the Dragon Tomb comes to life and chases them, drawn at first by the rings and then by the White Dragon Token, which grows hot in Mu Chen's hand. Mu Chen lures the statue away alone and, on a gamble, pours spiritual power into the token, which absorbs the statue and puts it under his control. They conclude the token belonged to the White Dragon Sovereign. Feeling the pressure of a Sovereign in the depths, Mu Chen swears he will reach that level one day.",
+  "events": [
+    "An Ran notices Mu Chen has reached middle-phase Heavenly Fusion",
+    "Mu Chen beats the Lion and Tiger Gang's vice-captain one-on-one",
+    "He trades the hostage for An Ran's Serpent Spiritual Ring",
+    "The Dragon Tomb statue awakens and chases them",
+    "The White Dragon Token absorbs and controls the statue",
+    "Mu Chen senses a Sovereign's pressure and vows to reach the Sovereign Stage"
+  ],
+  "introduced": [
+    "Dragon Tomb",
+    "Statue guard",
+    "Heavenly Lion Slash"
+  ],
+  "cultivation": "Mu Chen: Heavenly Fusion, Middle Phase. His opponent is at quasi-Heavenly Transformation. An Ran says only a Heavenly Transformation expert can contend with the statue.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Fusion, Middle Phase",
+      "quote": "You're just at the middle stage of the Fusion of Heaven Level.",
+      "t": 70.5
+    },
+    {
+      "id": "an-ran",
+      "name": "An Ran"
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "162: 'He's just at the quasi-Transformation of Heaven Level' is Mu Chen sizing up the unnamed vice-captain, not his own realm.",
+    "542: 'only someone at the Transformation of Heaven Level can contend with the statue' is a comparison.",
+    "816-836: 'People below the Supreme Lord Level are all nobodies' is Mu Chen's reflection; no realm change."
+  ]
+}

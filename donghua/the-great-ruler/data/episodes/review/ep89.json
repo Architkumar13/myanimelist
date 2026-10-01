@@ -1,0 +1,83 @@
+{
+  "ep": 89,
+  "title": "The trading town",
+  "summary": "On the way to the real Divine Wood Palace ruins, Wen Qingxuan says the minor divine art in a Wood God Tablet could gravely wound a first-grade Sovereign, but is hard to use. She takes North Heaven into the Relic Continent's trading town, where she makes a show of holding Mu Chen's hand, and later buys him a combat spiritual pill and the formation map of the level-5 Small Thousand Sword Spiritual Formation as an 'investment'. Mu Fengyang and Zhao Qingshan lose at a rigged Alliance gambling table run by Mr. Qin, and Mu Chen breaks its hidden spiritual formations, laid by the Alliance boss Xiao Huang, to win their way out. At the Star Hall of the Infinite Flame Realm, Xiao Xiao reports that Blood race spies have bribed Luo race elders to back a marriage between Luo Li and the Blood race. Xiao Yan and Yao Chen recall how Qing Yanjing of the Ancient Pagoda Clan refused a match with Mohe Tian and chose a man of low standing. The Alliance brothers then set off for Wood God Mountain.",
+  "events": [
+    "Wen Qingxuan explains the Wood God Tablet's minor divine art",
+    "Arrival at the trading town; Wen Qingxuan holds Mu Chen's hand for show",
+    "Wen Qingxuan explains the three sources of top alchemy: the Pill race, the Ancient Myriad Grassland and the Infinite Flame Realm",
+    "Star Hall: Xiao Xiao reports the Blood race's bribes to the Luo race; Xiao Yan and Yao Chen speak of Qing Yanjing and Mohe Tian",
+    "Mu Chen breaks the rigged gambling formations of Mr. Qin's table",
+    "At the auction Wen Qingxuan buys a combat pill and the Small Thousand Sword Spiritual Formation for Mu Chen",
+    "Wen Qingxuan explains the token-burning rule for the top 8",
+    "The Alliance heads for Wood God Mountain"
+  ],
+  "introduced": [
+    "trading town on the Relic Continent",
+    "Star Hall of the Infinite Flame Realm",
+    "Small Thousand Sword Spiritual Formation",
+    "Mohe Tian (mentioned)",
+    "Xiao Huang (mentioned)",
+    "Pill race",
+    "Ancient Myriad Grassland"
+  ],
+  "cultivation": "A Wood God Tablet's minor divine art can gravely wound a first-grade Sovereign. No named character's realm is stated.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wen-qingxuan",
+      "name": "Wen Qingxuan"
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen"
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li"
+    },
+    {
+      "id": "mu-fengyang",
+      "name": "Mu Fengyang"
+    },
+    {
+      "id": "zhao-qingshan",
+      "name": "Zhao Qingshan"
+    },
+    {
+      "id": null,
+      "name": "Qin Tui",
+      "look": "'Mr. Qin' / 'Master San' at the gambling table"
+    },
+    {
+      "id": "xiao-xiao",
+      "name": "Xiao Xiao"
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan"
+    },
+    {
+      "id": "yao-chen",
+      "name": "Yao Chen"
+    },
+    {
+      "id": "qing-yanjing",
+      "name": "Qing Yanjing",
+      "look": "mentioned only"
+    },
+    {
+      "id": "mo-yu",
+      "name": "Mo Yu",
+      "look": "probably the 'Second Brother' heading to Wood God Mountain"
+    }
+  ],
+  "changes": [
+    "Guide: 'Xiao Yan, Yao Chen and Xiao Xiao discuss Luo Li's marriage': confirmed, plus the Qing Yanjing and Mohe Tian parallel. Added the gambling den and the auction."
+  ],
+  "flags": [
+    "566 s 'I, Mr. Qin' and 542 s 'Master San' (the third master) point to Qin Tui from EP88's card as the Alliance's third in command.",
+    "408 s: 'Mohe Tian' is the donghua's spelling of the wiki's Maha Tian.",
+    "985 s onward is a preview of EP90 (Xue Tiandu's introduction)."
+  ]
+}

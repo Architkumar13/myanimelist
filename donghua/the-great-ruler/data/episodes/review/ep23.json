@@ -1,0 +1,72 @@
+{
+  "ep": 23,
+  "title": "Demon Lotus against the Double-headed Demon Dog",
+  "summary": "Powered by the Jiuyou Bird, Mu Chen forges a fourth Senluo Death Mark and breaks Liu Jingshan's Mountain God Art, but she warns the borrowed Heavenly Fusion power will tear his body apart if the fight drags on. Liu Jingshan summons the spirit of his Double-headed Demon Dog, 98th on the Earth list of beasts, and fuses with it at the cost of his own cultivation. Using the Heart Formation state to dodge while laying seals, Mu Chen completes the Level 3 Demon Lotus Spirit-Slaying Formation. It overcomes Liu Jingshan's Black Dragon Wind and Fire Execution, and when the old man tries to flee Mu Chen kills him. The lords marvel that Mu Realm has such a trump card, and Mu Chen collapses at his limit.",
+  "events": [
+    "Mu Chen forges extra Senluo Death Marks and breaks the Land Subduing Mountain.",
+    "Liu Jingshan says Mu Chen's own power is only late Spiritual Rotation and tries to outlast the borrowed power.",
+    "Liu Jingshan summons the Double-headed Demon Dog's spirit, then fuses body and spirit.",
+    "Mu Chen dodges in the Heart Formation state while forging seals, as he did in an earlier fight.",
+    "The Demon Lotus Spirit-Slaying Formation is activated.",
+    "Liu Jingshan's Black Dragon Wind and Fire Execution fails; he tries to escape and is killed.",
+    "The lords acknowledge Mu Feng's son; Mu Chen is at his physical limit."
+  ],
+  "introduced": [
+    "Double-headed Demon Dog (Double-Headed Hellhound)",
+    "Black Dragon Wind and Fire Execution",
+    "Swimming Fish Arts"
+  ],
+  "cultivation": "Mu Chen's own realm is Spiritual Rotation, Late Phase; the Jiuyou Bird's power lifts him to Heavenly Fusion only temporarily. Liu Jingshan (Heavenly Fusion) dies.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Spiritual Rotation, Late Phase",
+      "quote": "But with your power at the late stage of the Spiritual Ring Level, you can't bear the external power for a long time. (112)",
+      "first": false
+    },
+    {
+      "id": "liu-jingshan",
+      "name": "Liu Jingshan",
+      "realm": "Heavenly Fusion",
+      "quote": "He's a master at the Fusion of Heaven Level: ... he was still no match for Mu Chen. (897)",
+      "first": false
+    },
+    {
+      "id": "double-headed-hellhound",
+      "name": "Double-Headed Hellhound",
+      "quote": "[No. 98 on the earth list of beasts, Double-headed Demon Dog] (164.5)",
+      "first": true,
+      "card": 164.5
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "quote": "My power can only help you reach the Fusion of Heaven Level temporarily. (123)",
+      "first": false
+    },
+    {
+      "id": "liu-qingtian",
+      "name": "Liu Qingtian",
+      "first": false
+    },
+    {
+      "id": "mu-feng",
+      "name": "Mu Feng",
+      "first": false
+    },
+    {
+      "id": "zhou-ye",
+      "name": "Zhou Ye",
+      "first": false
+    }
+  ],
+  "changes": [
+    "The subs' 'Double-headed Demon Dog' is the roster's Double-Headed Hellhound (98th on the Earth list)."
+  ],
+  "flags": [
+    "844-896: the kill happens off-line; 'Is Liu Jingshan gone just like that?' and EP24 'After you killed Liu Jingshan' confirm he dies.",
+    "100-104, 442-448: a Liu speaker says 'Brother. Father is...' - read as Liu Qingtian's sibling (possibly Liu Zong) speaking of Liu Jingshan; not identified."
+  ]
+}

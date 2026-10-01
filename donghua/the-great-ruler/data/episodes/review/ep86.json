@@ -1,0 +1,83 @@
+{
+  "ep": 86,
+  "title": "Ninth on the leaderboard, and the Spiritual Land story",
+  "summary": "North Heaven gets out of the collapsing Divine Wood Palace and repairs part of the Wood God Guard's functions, which yields the Wood God Armor, a top-grade spirit artifact that Mu Fengyang takes. The Wood God Tablet shows this ruin was one of six halls of the Divine Wood Palace, and that each tablet leads to the main hall and treasures such as the Nine-Yang Ganoderma. Collecting the fading points puts North Heaven ninth on the leaderboard. That prompts Mu Chen to tell his team, and Ji Xuan to tell Cao Gang, how Mu Chen and Luo Li went from hunter and hunted to a couple on the Spiritual Land. Liu Ying repays his debt privately and agrees to spread rumours for Mu Chen before parting. Mo Yu of the Alliance of Academies offers Ji Xuan a deal, and Ji Xuan lets the Alliance ambush and remove his rival Holy Son Cao Gang ('one Holy Son is enough'). Wu Yingying, still furious, is talked into spreading scandal about Mu Chen, and the rumour grows that 'Captain Mu is vicious while Mu Fengyang is invincible.'",
+  "events": [
+    "Escape from the Divine Wood Palace; the Wood God Armor (top-grade spirit artifact) goes to Mu Fengyang",
+    "The Wood God Tablet reveals six halls and a main hall holding treasures like the Nine-Yang Ganoderma",
+    "North Heaven appears ninth on the leaderboard",
+    "Mu Chen and Ji Xuan each tell the Spiritual Land story of Mu Chen, Luo Li and the black paper",
+    "Liu Ying repays his debt and agrees to spread rumours for Mu Chen",
+    "Mo Yu of the Alliance of Academies deals with Ji Xuan; Cao Gang is betrayed and ambushed",
+    "Tang Mei'er is asked to help build Mu Fengyang's name; Wu Yingying plots to spread scandal",
+    "Rumours spread about Mu Chen and the 'invincible' Mu Fengyang"
+  ],
+  "introduced": [
+    "Wood God Armor",
+    "Wood God Tablet",
+    "six halls of the Divine Wood Palace",
+    "Mo Yu",
+    "Alliance of Academies",
+    "Anying Chamber of Commerce (as heard)"
+  ],
+  "cultivation": "Mu Chen plans to use the Spiritual Fruit to break through. No realm is stated this episode.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "mo-yu",
+      "name": "Mo Yu",
+      "first": true
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan"
+    },
+    {
+      "id": "cao-gang",
+      "name": "Cao Gang",
+      "look": "ambushed by the Alliance with Ji Xuan's consent"
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen"
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li"
+    },
+    {
+      "id": "mu-fengyang",
+      "name": "Mu Fengyang"
+    },
+    {
+      "id": "zhao-qingshan",
+      "name": "Zhao Qingshan"
+    },
+    {
+      "id": "liu-ying",
+      "name": "Liu Ying"
+    },
+    {
+      "id": "tang-mei-er",
+      "name": "Tang Mei'er"
+    },
+    {
+      "id": "wu-yingying",
+      "name": "Wu Yingying"
+    },
+    {
+      "id": "wen-qingxuan",
+      "name": "Wen Qingxuan",
+      "look": "flashback, Spirit Crown on the Spiritual Land"
+    }
+  ],
+  "changes": [
+    "The guide's 'the Treasure Hunt ended with the deaths of Xia Hou and Zhen Qing' belongs to EP85; this episode is the aftermath.",
+    "Added Mo Yu, the Alliance deal and Ji Xuan's betrayal of Cao Gang."
+  ],
+  "flags": [
+    "240 s: 'Our captain ranks second. Cao Gang is in third place' is the Holy Spiritual Academy's view of the board; North Heaven is ninth (306 s).",
+    "1001-1024 s is a preview of EP87 (the 'ordinary Tribulation of the Physical Body' line and 'I, Chuan Shu'); not counted here.",
+    "768 s: 'Anying Chamber of Commerce' is probably an OCR slip for the Jiuxia Chamber of Commerce named in EP81-82 (Liu Ying's backer)."
+  ]
+}

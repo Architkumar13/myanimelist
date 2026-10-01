@@ -1,0 +1,70 @@
+{
+  "ep": 74,
+  "title": "Final showdown with Mo Xingtian",
+  "summary": "On the summit of Holy Spirit Mountain, Mu Chen and Mo Xingtian of the Dragon Demon Palace begin their final showdown, while Xia Youran and Wen Busheng hold off Liu Ying, Dong Yuan and Zhou Xuan, the three Mo Xingtian brought up with him. Mo Xingtian draws the Dragon-Devouring Demon Spear, the Dragon Demon Palace's peerless spirit artifact, and shows he is well beyond merely passing the Human Body Disaster. Mu Chen answers by turning the palace's own ultimate treasure, the Great Meru Demonic Pillar, against its prized prodigy, and tells Mo Xingtian that after years on North Heaven's bounty list it is time he answered for it. The watchers are reminded that the Holy Spirit Baptism, like the Spiritual Academy Competition, is a contest among prodigies, and they wonder whether Mu Chen can win and how many trump cards he still has.",
+  "events": [
+    "Mu Chen and Mo Xingtian begin their final showdown on the summit",
+    "Xia Youran and Wen Busheng block Liu Ying, Dong Yuan and Zhou Xuan",
+    "Mo Xingtian draws the Dragon-Devouring Demon Spear",
+    "Mo Xingtian shows strength beyond the Human Body Disaster",
+    "Mu Chen turns the Great Meru Demonic Pillar against the Dragon Demon Palace's prodigy",
+    "Mu Chen calls Mo Xingtian to account for his years on the bounty list",
+    "The watchers wonder how many trump cards Mu Chen still has"
+  ],
+  "introduced": [
+    "Dragon-Devouring Demon Spear"
+  ],
+  "cultivation": "Mo Xingtian proves to be further along than just past the Human Body Disaster.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "quote": "You've been on our academy's bounty list for so many years. It's time you answered for it. (EP73 preview, 1102-1106 s)",
+      "first": false
+    },
+    {
+      "id": "mo-xingtian",
+      "name": "Mo Xingtian",
+      "quote": "Looks like Mo Xingtian hasn't merely passed the Tribulation of the Physical Body. (EP73 preview, 1096-1099 s)",
+      "first": false
+    },
+    {
+      "id": "xia-youran",
+      "name": "Xia Youran",
+      "first": false
+    },
+    {
+      "id": "wen-busheng",
+      "name": "Wen Busheng",
+      "first": false
+    },
+    {
+      "id": "liu-ying",
+      "name": "Liu Ying",
+      "first": false
+    },
+    {
+      "id": "dong-yuan",
+      "name": "Dong Yuan",
+      "first": false
+    },
+    {
+      "id": "zhou-xuan",
+      "name": "Zhou Xuan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "No subtitles exist for EP74. Rebuilt from the EP73 preview (1084-1111 s), the EP75 recap (145-149 s), the EP73 and EP75 reviews, and the guide entry.",
+    "Guide: 'Final showdown! Mu Chen faces off against Mo Xingtian. Meanwhile, Xia Youran + Wen Busheng block the trio (Liu Ying, Dong Yuan, Zhou Xuan)' is consistent with the EP73 ending (Mo Xingtian takes the three to the summit) and the EP75 opening (Xia Youran and Wen Busheng trap Liu Ying and Dong Yuan)."
+  ],
+  "flags": [
+    "EP73 preview 1084-1087 s: 'Using the Dragon Demon Palace's ultimate treasure against its own prized prodigy' does not name the treasure; read as the Great Meru Demonic Pillar, which EP68 calls the treasure of the Dragon Demon Palace.",
+    "EP73 preview 1096-1099 s: 'hasn't merely passed the Tribulation of the Physical Body' puts Mo Xingtian past the Human Body Disaster but names no higher realm; the power rows are left to the realm scripts.",
+    "EP73 preview 1102-1106 s: the bounty-list line is read as Mu Chen to Mo Xingtian; speaker not named.",
+    "EP75 recap 145-149 s: 'Whether it is the Holy Spiritual Baptism or the Spiritual Academy Competition, they are contests among prodigies' has no named speaker.",
+    "Mu Chen's own realm is not stated in the evidence for this episode; EP75 has Mo Xingtian call him initial-phase Heavenly Completion.",
+    "How the fight ends (Mo Xingtian's death) is EP75 and is not recorded here."
+  ]
+}

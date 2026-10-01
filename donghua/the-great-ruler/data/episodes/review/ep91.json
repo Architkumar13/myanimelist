@@ -1,0 +1,67 @@
+{
+  "ep": 91,
+  "title": "The black paper purifies the trial",
+  "summary": "The trial's rooms keep escalating toward Spirit Disaster-level foes, and teams that choose the green orb's extra reward instead of the red orb's recovery die. Mu Chen and Luo Li break into the formation core, the Wood God Mountain Trial Core, where the remnant soul of the ancient Wood race says evil energy has corrupted the inheritance. Mu Chen uses his black paper, a sealing page, to purify it and stop Room Chen, Room Shen and Room Hai. With one stop left, he has to choose between his ally Wen Qingxuan and Wu Yingying, whose partner, the First Holy Son, is using her as a shield and betting that Mu Chen will save her. Mu Chen saves Wu Yingying, while Wen Qingxuan's partner fakes an injury and leaves her fighting alone. The remnant soul tells Mu Chen the green-orb rewards repair and upgrade a Wood God Guard. He takes that shortcut with the guard he already owns, climbs to the final level and faces a Half-step Sovereign guard.",
+  "events": [
+    "The green-orb and red-orb choices; the teams that take the extra reward die",
+    "Mu Chen and Luo Li reach the Wood God Mountain Trial Core",
+    "The Wood race's remnant soul explains the evil-energy corruption",
+    "The black paper (sealing page) purifies the core and stops three rooms",
+    "One stop left: Mu Chen saves Wu Yingying rather than Wen Qingxuan",
+    "Wen Qingxuan's partner abandons her; Xue Tiandu uses his partner as a shield",
+    "Mu Chen upgrades his Wood God Guard with the green-orb rewards and reaches the final level"
+  ],
+  "introduced": [
+    "Wood God Mountain Trial Core",
+    "remnant soul of the ancient Wood race",
+    "Heavenly Wood Divine Wheel"
+  ],
+  "cultivation": "Trial difficulty is described in Spirit Disaster terms ('Tribulation of the Single, Double, Triple Divine Soul'); one guard is at the peak of the Spiritual Energy Disaster; the final guard is a Half-step Sovereign. No named character's realm is stated.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen"
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li"
+    },
+    {
+      "id": "wen-qingxuan",
+      "name": "Wen Qingxuan"
+    },
+    {
+      "id": "wu-yingying",
+      "name": "Wu Yingying"
+    },
+    {
+      "id": "wang-zhong-iii",
+      "name": "Wang Zhong (III)",
+      "look": "'First Holy Son', Wu Yingying's trial partner"
+    },
+    {
+      "id": "xue-tiandu",
+      "name": "Xue Tiandu"
+    },
+    {
+      "id": "mo-yu",
+      "name": "Mo Yu",
+      "look": "probably Wen Qingxuan's partner, who fakes an injury"
+    },
+    {
+      "id": null,
+      "name": "Qin Tui",
+      "look": "probably Xue Tiandu's partner ('Big Brother' is what he calls Xue Tiandu)"
+    }
+  ],
+  "changes": [
+    "Guide: 'purifies the evil energy from Fiend Clans': the subs say evil energy from the race beyond the realm corrupting the Wood race's trial. Added the choice between Wen Qingxuan and Wu Yingying."
+  ],
+  "flags": [
+    "114, 440 and 820 s: 'Tribulation of the Single/Double/Triple Divine Soul' describe trial levels (Spirit Disaster grades), not any person.",
+    "489 s: 'The new wood is just at the Peak Level of Tribulation of Spiritual Power' is a trial guard.",
+    "Speaker attributions in the paired rooms are inferred: Wu Yingying calls her partner 'First Holy Son' at 688 s.",
+    "972 s onward overlaps EP92's opening."
+  ]
+}

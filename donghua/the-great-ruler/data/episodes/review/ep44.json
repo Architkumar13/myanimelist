@@ -1,0 +1,121 @@
+{
+  "ep": 44,
+  "title": "White Dragon City",
+  "summary": "Su Xuan, third on the Heavenly Ranking, invites Mu Chen onto her team for a Heaven-level mission to explore a celestial treasure in the White Dragon Hill, worth at least 1.5 million spirit value each, with Su Ling'er, An Ran and the freshman Mu Kui. He Yao, fourth on the Heavenly Ranking, tries to buy Mu Chen's place because he knows a top master died there; Mu Chen refuses. On the road the team hears that Shen Cangsheng is hunting Mo Longzi, second on the academy's bounty list. In White Dragon City they attend the Jiuxia Chamber of Commerce auction run by Bi Sheng, where Su Ling'er outbids the young master Bai Dong, guarded by Elder Qiu, for a Spiritual Formation Ball and gives it to Mu Chen. Bai Dong then buys the White Dragon Jade Pillar, left by the White Dragon Sovereign, for ten million spirit coins. His father Bai Xuan, governor of the city, guesses Su Xuan is at middle-phase Heavenly Transformation and orders the Dragon Demon Guards to kill the team.",
+  "events": [
+    "Su Xuan invites Mu Chen on the Heaven-level mission",
+    "He Yao tries to buy Mu Chen's place and is refused",
+    "Mu Chen says goodbye to Luo Li",
+    "Shen Cangsheng's hunt for Mo Longzi is mentioned on the road",
+    "Auction: Su Ling'er beats Bai Dong to the Spiritual Formation Ball",
+    "Bai Dong buys the White Dragon Jade Pillar",
+    "Bai Xuan orders the Dragon Demon Guards to kill the students"
+  ],
+  "introduced": [
+    "White Dragon Hill",
+    "White Dragon City",
+    "Bai Dong",
+    "Elder Qiu",
+    "Bi Sheng",
+    "Bai Xuan",
+    "Jiuxia Chamber of Commerce (wiki: Nine Summers Chamber of Commerce)",
+    "Tiangang Sword Sect",
+    "Lion and Tiger Gang (wiki: Lion Tiger Regiment)",
+    "Spiritual Formation Ball",
+    "White Dragon Jade Pillar",
+    "White Dragon Sovereign (named as 'White Dragon Supreme Lord')",
+    "Dragon Demon Guards",
+    "Bounty list",
+    "Mission Hall"
+  ],
+  "cultivation": "Mu Chen: Heavenly Fusion, Initial Phase (He Yao). Elder Qiu: Heavenly Transformation, Initial Phase (card scene). Su Xuan: Heavenly Transformation, Middle Phase (Bai Dong's estimate).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Fusion, Initial Phase",
+      "quote": "you're just a freshman at the early stage of the Fusion of Heaven Level.",
+      "t": 329.5
+    },
+    {
+      "id": "su-xuan",
+      "name": "Su Xuan",
+      "realm": "Heavenly Transformation, Middle Phase",
+      "quote": "she's at the middle stage of the Transformation of Heaven Level.",
+      "t": 1031.0
+    },
+    {
+      "id": "elder-qiu",
+      "name": "Elder Qiu",
+      "realm": "Heavenly Transformation, Initial Phase",
+      "quote": "is possibly at the early stage of the Transformation of Heaven Level. [Elder Qiu of White Dragon City]",
+      "t": 639.0,
+      "first": true,
+      "card": 639.0
+    },
+    {
+      "id": "bai-dong",
+      "name": "Bai Dong",
+      "first": true,
+      "card": 630.5
+    },
+    {
+      "id": "bi-sheng",
+      "name": "Bi Sheng",
+      "first": true,
+      "card": 651.0
+    },
+    {
+      "id": "bai-xuan",
+      "name": "Bai Xuan",
+      "first": true,
+      "card": 1001.0
+    },
+    {
+      "id": "he-yao",
+      "name": "He Yao"
+    },
+    {
+      "id": "su-ling-er",
+      "name": "Su Ling'er"
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li"
+    },
+    {
+      "id": "an-ran",
+      "name": "An Ran",
+      "note": "Named as a team member"
+    },
+    {
+      "id": "mu-kui",
+      "name": "Mu Kui",
+      "note": "Named as a team member"
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "note": "Mentioned: first on the Heavenly Ranking"
+    },
+    {
+      "id": "mo-longzi",
+      "name": "Mo Longzi",
+      "note": "Mentioned: second on the bounty list"
+    },
+    {
+      "id": "white-dragon-sovereign",
+      "name": "White Dragon Sovereign",
+      "note": "Mentioned as 'White Dragon Supreme Lord'"
+    }
+  ],
+  "changes": [
+    "Guide's 'White Dragon Sovereign's treasury' block starts here; the mission's team and the auction are now concrete."
+  ],
+  "flags": [
+    "'Supreme Lord' in these subtitles is the Sovereign Stage ('Heavenly Supreme Lord' = Heavenly Sovereign).",
+    "Su Xuan's realm is Bai Dong's guess ('I'm afraid she's at...'); later episodes repeat it.",
+    "Tiangang Sword Sect is probably the wiki's Heavenly Dipper Sword Sect (天罡); unconfirmed."
+  ]
+}

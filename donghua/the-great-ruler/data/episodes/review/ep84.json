@@ -1,0 +1,78 @@
+{
+  "ep": 84,
+  "title": "Treasure hunt in the Divine Wood Palace",
+  "summary": "Wu Yingying accuses Mu Chen of an old wrong from the Spiritual Land while a Greenwood Beast at the Spiritual Energy Disaster guards the Celestial Spirit Tree. Mu Chen fends off the beast and takes the whole tree rather than a share of the fruit, which enrages Wu Yingying. Mu Fengyang throws the real Spiritual Fruit to Xia Hou to shift the chaos onto him, and Xia Hou's Holy team and Tang Mei'er's Phoenix team clash. Xia Hou tries to kill for the treasure with the Divine Art Inscription, then admits he is working with the hidden team. Their leader, from the Wood Spirit Academy, steps out with three lifeless puppets and opens the Realm of Ten Thousand Trees, which starts draining everyone's spiritual power. Xia Hou fights Mu Chen and Luo Li inside the barrier with his Stellar Art, while Luo Li resists the draining vines.",
+  "events": [
+    "Wu Yingying confronts Mu Chen over the Spiritual Land",
+    "A Greenwood Beast (Spiritual Energy Disaster) guards the Celestial Spirit Tree",
+    "Mu Chen takes the whole tree; Wu Yingying is furious",
+    "Mu Fengyang passes the real Spiritual Fruit to Xia Hou to redirect the fight",
+    "Xia Hou is exposed as working with the hidden Wood Spirit Academy team",
+    "The Realm of Ten Thousand Trees opens and drains everyone's spiritual power",
+    "Xia Hou fights Mu Chen and Luo Li with the Stellar Art; Luo Li uses the Four Gods Heaven Sealing Seal"
+  ],
+  "introduced": [
+    "Greenwood Beast",
+    "Wood Spirit Academy",
+    "Realm of Ten Thousand Trees",
+    "Divine Art Inscription (top-grade spirit artifact)",
+    "Stellar Art",
+    "Four Gods Heaven Sealing Seal"
+  ],
+  "cultivation": "Greenwood Beast name card: Spiritual Energy Disaster. Xia Hou is again described at the Spiritual Energy Disaster level.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": null,
+      "name": "Greenwood Beast",
+      "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+      "quote": "[Greenwood Beast, Tribulation of Spiritual Power] / 'A guardian beast at the level of Tribulation of Spiritual Power?'",
+      "t": 94.0,
+      "card": 94.0,
+      "first": true
+    },
+    {
+      "id": "xia-hou",
+      "name": "Xia Hou",
+      "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+      "quote": "Xia Hou truly lives up to the reputation of someone at the level of Tribulation of Spiritual Power.",
+      "t": 590.0
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen"
+    },
+    {
+      "id": "wu-yingying",
+      "name": "Wu Yingying"
+    },
+    {
+      "id": "zhen-qing",
+      "name": "Zhen Qing",
+      "look": "Wood Spirit Academy leader, with three lifeless puppets"
+    },
+    {
+      "id": "tang-mei-er",
+      "name": "Tang Mei'er"
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li"
+    },
+    {
+      "id": "mu-fengyang",
+      "name": "Mu Fengyang"
+    },
+    {
+      "id": "liu-ying",
+      "name": "Liu Ying"
+    }
+  ],
+  "changes": [
+    "The guide said 'Xia Hou in collusion with Zhen Qing': confirmed. Added the Greenwood Beast and the tree grab."
+  ],
+  "flags": [
+    "Short file (about 15 minutes). 0-33 s is a recap; roughly 860 s onward overlaps the start of EP85 and looks like a preview.",
+    "Zhen Qing is not named in this episode (he says 'our Wood Spirit Academy'); his name comes in EP85."
+  ]
+}

@@ -15,13 +15,29 @@ KEEP = ("ep", "epEnd", "arc", "title", "summary", "events", "introduced", "culti
 
 def main():
     merged = {}
-    for f in sorted(SRC.glob("*.json")):
+    # subtitle-checked reviews (from-reviews.json) always win over the older fan-wiki log
+    for f in sorted(SRC.glob("*.json"), key=lambda f: (f.name == "from-reviews.json", f.name)):
         for e in json.loads(f.read_text()):
             e = {k: e[k] for k in KEEP if e.get(k) not in (None, "", [], False)}
             key = e["ep"]
             if key in merged and not merged[key].get("arc") and e.get("arc"):
                 continue
             merged[key] = e
+    # A grouped entry (ep..epEnd) only keeps the episodes that have no single-episode entry of their own,
+    # split into runs, so the guide never lists the same episode twice.
+    singles = {k for k, e in merged.items() if not e.get("epEnd")}
+    for k in [k for k, e in merged.items() if e.get("epEnd")]:
+        e = merged.pop(k)
+        run = []
+        for n in range(e["ep"], e["epEnd"] + 2):
+            if n <= e["epEnd"] and n not in singles:
+                run.append(n); continue
+            if run:
+                part = dict(e, ep=run[0])
+                if len(run) > 1: part["epEnd"] = run[-1]
+                else: part.pop("epEnd", None)
+                merged.setdefault(run[0], part)
+            run = []
     episodes = [merged[k] for k in sorted(merged)]
     OUT.write_text("// Built by scripts/build_episodes.py from data/episodes/*.json.\nwindow.EPISODES = "
                    + json.dumps(episodes, ensure_ascii=False, separators=(",", ":")) + ";\n")

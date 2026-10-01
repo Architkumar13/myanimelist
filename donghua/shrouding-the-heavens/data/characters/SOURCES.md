@@ -121,3 +121,7 @@ The Indonesian AnimeKhor subtitles were read for every episode except EP80, 100,
 - Ye Fan: after EP50 his timeline now follows the subtitles. The Dao Palace organ names and source amounts were dropped because the show never states them, and his 2nd Heaven is EP159, not EP167.
 - Known gaps: about 40 named people who appear on screen aren't in the roster yet (e.g. Wang Chongxiao, the Old Golden-Winged Peng King, the Dark Night King, the Queen Mother of the West, the Blind Old Man of Heaven, Star Peak's Chen Feng). They're listed in the review files' `cast` entries.
 - Recurring machine-translation slips in these subtitles: "Kamu penggemar" is Ye Fan, "kamu Fei" is Tu Fei, and "Raja Gagak Kecil" is Jin Chi.
+
+## Added October 2026
+
+50 characters were added from the subtitle review's name cards (`added-2026-10.json` lists each one with its card time), bringing the roster to 157. Their pictures are frames from the full episodes on AnimeKhor, taken at the name card. Each was checked against the whole cast by face similarity, so a frame showing Ye Fan or a neighbour is rejected. Chen Feng (Star Peak) and Lao Dawei have no clear on-screen frame and show a placeholder.

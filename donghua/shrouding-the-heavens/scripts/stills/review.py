@@ -1,4 +1,4 @@
-"""Contact sheets of rendered portraits, labelled id:look@ep, for eyeballing (writes /tmp/stills/review_N.jpg)."""
+"""Contact sheets of rendered portraits, labelled id:look@ep, for eyeballing (writes cache/stills/review_N.jpg)."""
 import json, pathlib, sys
 from PIL import Image, ImageDraw, ImageFont
 PROJ = pathlib.Path(__file__).resolve().parents[2]
@@ -20,5 +20,5 @@ for n in range(0, len(items), per):
         if f: S.paste(Image.open(f).resize((w - 4, h)), (x + 2, y))
         else: d.rectangle([x + 2, y, x + w - 2, y + h], fill="#ccc")
         d.text((x + 3, y + h + 1), lab, fill="black", font=font)
-    S.save(f"/tmp/stills/review_{n // per}.jpg", quality=85)
+    S.save(PROJ / f"cache/stills/review_{n // per}.jpg", quality=85)
 print((len(items) + per - 1) // per, "sheets")

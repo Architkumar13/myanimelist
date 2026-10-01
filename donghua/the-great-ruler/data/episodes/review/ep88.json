@@ -1,0 +1,85 @@
+{
+  "ep": 88,
+  "title": "Mu Chen breaks through; Wen Qingxuan's alliance",
+  "summary": "Mu Fengyang, bow broken and armor gone, keeps standing in front of Zhao Qingshan until Mu Chen comes out of seclusion, now past the Human Body Disaster. The Alliance attackers sneer that he has only just passed it and charge with the Heaven-Suppressing Stele, then break and run. Wen Qingxuan arrives, offers her team's whole point total to take Luo Li into Phoenix, and fights North Heaven until she hears that Mu Chen saved Tang Mei'er's team. She warns them that the Alliance of Academies, the underground point-trading ring captained in public by Mo Yu of the Ghost Spiritual Academy, has been paid by Ji Xuan to kill Mu Chen. North Heaven and Phoenix form an alliance. At the trading town, Ji Xuan rebukes Mo Yu for failing, hands over Cao Gang's Wood God Tablet, and is pointed to the Blood race's fourth prince Xue Tiandu, who has an old grudge with Luo Li.",
+  "events": [
+    "Mu Fengyang shields Zhao Qingshan to the last",
+    "Mu Chen emerges from seclusion past the Human Body Disaster and routs the Alliance attackers",
+    "Wen Qingxuan tries to take Luo Li into Phoenix and fights North Heaven",
+    "Wen Qingxuan explains the Alliance of Academies and its deal with Ji Xuan",
+    "Qin Tui of the Alliance collects debts from small teams at the trading town",
+    "North Heaven and Phoenix ally",
+    "Ji Xuan gives Mo Yu Cao Gang's Wood God Tablet and is told about Xue Tiandu"
+  ],
+  "introduced": [
+    "Qin Tui",
+    "Ghost Spiritual Academy",
+    "Heaven-Suppressing Stele",
+    "Xue Tiandu (mentioned)"
+  ],
+  "cultivation": "Mu Chen breaks through in seclusion to the Human Body Disaster, the first of the Three Sovereign Disasters; an Alliance leader says he 'just passed the Tribulation of the Physical Body'. Qin Tui's name card: Spiritual Energy Disaster. Luo Li shared the seclusion, but her new realm is not stated.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Three Sovereign Disasters, Human Body Disaster",
+      "quote": "He just passed the Tribulation of the Physical Body. No big deal.",
+      "t": 325.5,
+      "look": "breakthrough in seclusion (EP86-88); emerges at about 298 s"
+    },
+    {
+      "id": null,
+      "name": "Qin Tui",
+      "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+      "quote": "[Qin Tui, Tribulation of Spiritual Power]",
+      "t": 662.0,
+      "card": 662.0,
+      "first": true
+    },
+    {
+      "id": "wen-qingxuan",
+      "name": "Wen Qingxuan"
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li"
+    },
+    {
+      "id": "mu-fengyang",
+      "name": "Mu Fengyang"
+    },
+    {
+      "id": "zhao-qingshan",
+      "name": "Zhao Qingshan"
+    },
+    {
+      "id": "mo-yu",
+      "name": "Mo Yu"
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan"
+    },
+    {
+      "id": "chen-xi",
+      "name": "Chen Xi"
+    },
+    {
+      "id": "xue-tiandu",
+      "name": "Xue Tiandu",
+      "look": "mentioned only"
+    }
+  ],
+  "changes": [
+    "The guide says Mu Chen and Luo Li kill Chen Xi here. The subs show the Alliance attackers breaking and fleeing ('Run!', 397 s) but do not name who dies; the wiki says Chen Xi dies in EP88.",
+    "Wen Qingxuan 'tries to steal Luo Li': confirmed (448 s), followed by the North Heaven and Phoenix alliance."
+  ],
+  "flags": [
+    "325 s: the 'he just passed' line is said about Mu Chen by the attacking Alliance leader. It is the only direct statement of the breakthrough in this episode, and EP92 confirms it in his own words.",
+    "384 s: 'Tribulation of Spiritual Power?' is an exclamation with no clear subject; not recorded.",
+    "Luo Li's breakthrough is implied (joint seclusion, 'Luo Li. Come out.' at 412 s) but no realm is said for her. The roster's EP88 'Three Sovereign Disasters' for her is not confirmed by the subs.",
+    "Qin Tui is the subs' spelling. The wiki's Alliance leaders are Xiao Huang, Mo Yu, Qin Feng and Liu Xiong, so 'Qin Tui' may be the wiki's Qin Feng.",
+    "952 s onward is labelled [In the Next Episode]."
+  ]
+}

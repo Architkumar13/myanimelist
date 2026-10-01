@@ -1,0 +1,79 @@
+{
+  "ep": 56,
+  "title": "Mu Chen vs Gu Tianyan",
+  "summary": "Following Shen Cangsheng's advice, Mu Chen dodges Gu Tianyan to wear down his temper, then switches to a head-on fight, saying there are people he must protect. Gu Tianyan agrees to settle it in one move; with the Thunder Body and the Black Tortoise Divine Seal Mu Chen withstands the Heavenly Flame Dragon Halberd, and Gu Tianyan admits defeat. Dean Tai Cang declares the hunting battle won, with Mu Chen, Shen Cangsheng and Li Xuantong as North Heaven's representatives, and sets the Spiritual Light Infusion for three days later. Shen Cangsheng tells Li Xuantong he has no chance with Luo Li, and they agree to hunt down Mo Longzi after the infusion. Luo Li scolds Mu Chen for fighting so desperately and stays with him through the night. Jiu You wakes Mu Chen: she will attempt the Thunder Tribulation again.",
+  "events": [
+    "Mu Chen dodges Gu Tianyan per Shen Cangsheng's plan.",
+    "He switches to fighting head-on.",
+    "They settle it in one move; Mu Chen withstands the Heavenly Flame Dragon Halberd.",
+    "Gu Tianyan admits defeat; Tai Cang declares the hunting battle over.",
+    "Shen Cangsheng and Li Xuantong plan to hunt Mo Longzi.",
+    "Luo Li stays with the injured Mu Chen.",
+    "Jiu You announces a new Thunder Tribulation."
+  ],
+  "introduced": [
+    "Dark God Thunder Tribulation"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "gu-tianyan",
+      "name": "Gu Tianyan",
+      "first": false
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "first": false
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "mo-you",
+      "name": "Mo You",
+      "first": false
+    },
+    {
+      "id": "zhu-tian",
+      "name": "Zhu Tian",
+      "first": false
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "first": false
+    },
+    {
+      "id": "mo-longzi",
+      "name": "Mo Longzi",
+      "quote": "mentioned only",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "No realm statements this episode.",
+    "877: 'Brother, are you here for Luo Li?' - speaker unnamed (someone addressing Li Xuantong).",
+    "962-1000: Dark God Thunder Tribulation lines are a preview of EP57.",
+    "0-33: recap of EP55."
+  ]
+}

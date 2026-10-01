@@ -1,0 +1,85 @@
+{
+  "ep": 24,
+  "title": "Farewell to the North Spiritual Territory",
+  "summary": "Mu Chen wakes after days in a coma to hear from Tang Qian'er that killing Liu Jingshan ended the Meeting of the Nine Realms and made Mu Realm the strongest power in the territory. The Jiuyou Bird, weakened in spirit form, sets her price for the loan: essence and blood of the Dragon Fish of Beiming, a beast on the Heaven list that the Northern Heaven Spiritual Academy holds, and Mu Chen promises to get it. He tells Mu Feng how her spirit entered him in the Dark Abyss; Mu Feng gives him the Level 2 Golden Wheel Spirit Cracking Formation map and says he himself is on the threshold of Heavenly Fusion. After farewells to Mu Feng, Zhou Ye and Tang Shan, Mu Chen joins Dean Xiao and Mr. Hao at the North Spiritual Academy, parts with Tang Qian'er, who is bound for the Phoenix Spiritual Academy, and steps into the transmission formation for the Northern Heaven Spiritual Academy, thinking of Luo Li.",
+  "events": [
+    "Mu Chen wakes; Tang Qian'er recounts the aftermath and his fame.",
+    "The Jiuyou Bird names her price: Dragon Fish of Beiming essence and blood, kept by the Northern Heaven Spiritual Academy.",
+    "Mu Chen finds his spiritual energy spent but his absorption improved.",
+    "He tells Mu Feng about the Jiuyou Bird's spirit; Mu Feng gives him the Golden Wheel Spirit Cracking Formation (Level 2).",
+    "Mu Feng says he is close to Heavenly Fusion; farewells with Zhou Ye and Tang Shan.",
+    "At the academy, classmates marvel; Tang Qian'er heads for the Phoenix Spiritual Academy.",
+    "Mr. Hao explains the five academies will set a real test; everyone enters the transmission formations."
+  ],
+  "introduced": [
+    "Dragon Fish of Beiming",
+    "Golden Wheel Spirit Cracking Formation",
+    "Transmission Formation"
+  ],
+  "cultivation": "Mu Feng says he has reached the threshold of Heavenly Fusion (so he is at the top of Spirit). No new realm for Mu Chen.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-feng",
+      "name": "Mu Feng",
+      "realm": "Spirit",
+      "quote": "I think I have reached the threshold of the Fusion of Heaven Level. If I keep practicing for a while, I should be able to advance to the Fusion of Heaven Level. (504-508)",
+      "first": false
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "quote": "Chen, your current power is as strong as that of someone at the Divine Soul Level. (335) - a comparison, not his realm",
+      "first": false
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "first": false
+    },
+    {
+      "id": "tang-qian-er",
+      "name": "Tang Qian'er",
+      "first": false
+    },
+    {
+      "id": "zhou-ye",
+      "name": "Zhou Ye",
+      "first": false
+    },
+    {
+      "id": "tang-shan",
+      "name": "Tang Shan",
+      "first": false
+    },
+    {
+      "id": "principal-xiao",
+      "name": "Principal Xiao",
+      "first": false
+    },
+    {
+      "id": "mister-hao",
+      "name": "Mister Hao",
+      "first": false
+    },
+    {
+      "id": "hong-ling",
+      "name": "Hong Ling",
+      "first": false
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Adds the Jiuyou Bird's condition (Dragon Fish of Beiming essence and blood), which drives later episodes."
+  ],
+  "flags": [
+    "330-337: Mu Feng's 'as strong as someone at the Divine Soul Level' is a comparison; Mu Chen is still Spiritual Rotation, Late Phase.",
+    "848: 'Huo Yun' is probably Hong Ling (OCR/translation slip).",
+    "878-881: 'One day, I will defeat you and revive Liu Realm' - speaker not named, likely Liu Mubai.",
+    "In Mu Feng's recap (355) the subs say the Jiuyou Bird 'exploded after its evolution failed'."
+  ]
+}

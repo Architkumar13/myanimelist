@@ -1,0 +1,97 @@
+{
+  "ep": 8,
+  "title": "Blood Slaughter and the Silver-Horned Panther Dragon",
+  "summary": "In the North Spiritual Plain, the adult Silver-Horned Panther Dragon, an advanced Spirit-level beast, turns up as Mu Chen fights for Jade Spirit fruits. Blood Slaughter, the fugitive who wounded the young panther dragon, demands the fruits; Mu Chen tricks him and leads him to the enraged adult, which kills him. From the body Mu Chen takes a Mustard Bracelet holding a copper piece whose totem, a beast he cannot name, frightens him. Liu Mubai and his uncle Liu Ming, third leader of Liu Realm, track Blood Slaughter and find the Senluo Death Mark on the corpse. Mu Chen reaches Tang Qian'er's group as they are overwhelmed by beasts and saves them with the spirit of the King of Ice Spirit Apes. Liu Ming tries to search him, but Master Mo, a Spirit-level instructor, drives the Liu party off. Mu Chen shares out the Jade Spirit fruits with the friends he met, including a girl from Jiulong Fortress.",
+  "events": [
+    "The adult Silver-Horned Panther Dragon appears while Mu Chen gathers Jade Spirit fruits",
+    "Blood Slaughter tries to rob Mu Chen and is killed by the panther dragon",
+    "Mu Chen takes the Mustard Bracelet and finds a copper piece with a frightening beast totem",
+    "Liu Mubai and Liu Ming find the Senluo Death Mark on Blood Slaughter's body",
+    "Mu Chen rescues Qian'er's group with the spirit of the King of Ice Spirit Apes",
+    "Liu Ming tries to search Mu Chen; Master Mo sends the Liu party away",
+    "The Jade Spirit fruits are shared out"
+  ],
+  "introduced": [
+    "Jade Spirit fruits",
+    "Mustard Bracelet",
+    "copper piece (Jiuyou Bird totem)",
+    "King of Ice Spirit Apes (spirit)",
+    "Thunder Fist"
+  ],
+  "cultivation": "The Silver-Horned Panther Dragon is an advanced spiritual beast at Spirit (subs: Divine Soul Level). Master Mo is at Spirit. Mu Chen's realm is not restated.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "silver-horned-panther-dragon",
+      "name": "Silver-Horned Panther Dragon",
+      "realm": "Spirit",
+      "quote": "An advanced spiritual beast at the Divine Soul Level. Could that little silver horn dragon leopard be its baby? (44-52)",
+      "t": 44.0,
+      "first": false
+    },
+    {
+      "id": "teacher-mo",
+      "name": "Teacher Mo",
+      "realm": "Spirit",
+      "quote": "Master Mo. He is at the Divine Soul Level. Damn it. (840-844, the Liu side as Master Mo arrives)",
+      "t": 842.0,
+      "first": false
+    },
+    {
+      "id": "xue-tu",
+      "name": "Xue Tu",
+      "quote": "Judging from the footprints, Blood Slaughter is badly injured (460); killed by the panther dragon (~396)",
+      "look": "dies this episode",
+      "first": false
+    },
+    {
+      "id": "liu-ming",
+      "name": "Liu Ming",
+      "quote": "This is my uncle. He is also the third leader of Liu Realm. (750-752)",
+      "first": false
+    },
+    {
+      "id": "one-horned-panther-dragon",
+      "name": "One-Horned Panther Dragon",
+      "look": "mentioned: the wounded 'little silver horn dragon leopard'"
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "liu-mubai",
+      "name": "Liu Mubai",
+      "first": false
+    },
+    {
+      "id": "tang-qian-er",
+      "name": "Tang Qian'er",
+      "first": false
+    },
+    {
+      "id": "lin-zhong",
+      "name": "Lin Zhong",
+      "quote": "Lin Zhong! Thunder Fist! (612-616)",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "King of Ice Spirit Apes",
+      "quote": "[The King of Ice Spirit Apes, The Spirit of the Spiritual Beast] (695.5)",
+      "card": 695.5
+    }
+  ],
+  "changes": [
+    "Guide lumps EP5-9 as the North Spiritual Plain; EP8 is the Blood Slaughter/copper-piece episode that sets up the Jiuyou Bird hunt."
+  ],
+  "flags": [
+    "840-844 s: the 'He is at the Divine Soul Level' line follows 'Master Mo.' and reads as the Liu side sizing up Master Mo; recorded for Teacher Mo (medium).",
+    "146 s: Blood Slaughter is 'stronger than the King of Ice Spirit Apes' - a comparison, no realm recorded.",
+    "695.5 s: the King of Ice Spirit Apes card marks the beast spirit Mu Chen uses; this beast is not in the roster (and is not the Conflagration Ape King).",
+    "916-921 s: 'marry into Jiulong Fortress' / 'you female bandit' - the Jiulong Fortress girl is probably Lei Yin, but she is not named here.",
+    "612 s: 'Lin Zhong!' then 'Thunder Fist!' - Lin Zhong appears to fight beside Qian'er's group; the exact speaker is unclear.",
+    "Subs call the Silver-Horned Panther Dragon 'silver horn dragon leopard' and Xue Tu 'Blood Slaughter'."
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "sth": {
+    "dir": "shrouding-the-heavens",
+    "pattern": "https://animekhor.org/shrouding-the-heavens-episode-{n}-subtitles-english-indonesian/",
+    "subs": "id"
+  },
+  "tgr": {
+    "dir": "the-great-ruler",
+    "index": [
+      {
+        "url": "https://animekhor.org/anime/the-great-ruler-3d/",
+        "offset": 0
+      },
+      {
+        "url": "https://animekhor.org/anime/the-great-ruler-season-2/",
+        "offset": 52
+      }
+    ],
+    "subs": "ocr"
+  },
+  "jd": {
+    "dir": "jade-dynasty",
+    "index": [
+      {
+        "url": "https://animekhor.org/anime/jade-dynasty-zhu-xian/",
+        "offset": 0
+      },
+      {
+        "url": "https://animekhor.org/anime/jade-dynasty-season-2/",
+        "offset": 26
+      },
+      {
+        "url": "https://animekhor.org/anime/jade-dynasty-season-3/",
+        "offset": 52
+      },
+      {
+        "url": "https://animekhor.org/anime/jade-dynasty-final-season/",
+        "offset": 78
+      }
+    ],
+    "subs": "id"
+  },
+  "ri": {
+    "dir": "renegade-immortal",
+    "index": [{"url": "https://animekhor.org/anime/renegade-immortal/", "offset": 0}],
+    "subs": "id"
+  },
+  "mu": {
+    "dir": "martial-universe",
+    "index": [
+      {"url": "https://animekhor.org/anime/martial-universe-season-1/", "offset": 0},
+      {"url": "https://animekhor.org/anime/martial-universe-season-3/", "offset": 24},
+      {"url": "https://animekhor.org/anime/martial-universe-season-4/", "offset": 36},
+      {"url": "https://animekhor.org/anime/martial-universe-season-5/", "offset": 48},
+      {"url": "https://animekhor.org/anime/martial-universe-season-6/", "offset": 60}
+    ],
+    "youtube": "data/episodes/youtube.json",
+    "subs": "id"
+  },
+  "btth": {
+    "dir": "battle-through-the-heavens",
+    "index": [
+      {
+        "url": "https://animekhor.org/anime/battle-through-the-heavens-three-year-agreement/",
+        "offset": 56
+      },
+      {
+        "url": "https://animekhor.org/anime/battle-through-the-heavens-5th-season/",
+        "offset": 69
+      }
+    ],
+    "youtube": "data/episodes/youtube.json",
+    "subs": "id"
+  }
+}

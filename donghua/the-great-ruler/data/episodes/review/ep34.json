@@ -1,0 +1,81 @@
+{
+  "ep": 34,
+  "title": "The Thunder Realm and the Luo Club",
+  "summary": "In the Thunder Realm, whose ten floors grow stronger toward a top floor meant for Heavenly Transformation, Mu Chen climbs to the third floor, refines the Divine Soul Pill with the thunder and reaches late Spirit. Sensing a breakthrough in the Great Buddha Art, he forces his way through the light curtain to the fourth floor, meant for Heavenly Fusion, draws the thunder onto himself, and brings the Great Buddha Art to its conversion level: 'Transform my body into a pagoda.' Meanwhile Mo Lun, the man he displaced on the Divine Soul Ranking, brings Qinghong Club members to the freshmen dormitory hurts several freshmen, and confronts Mo Ling and Ye Sun'er. Warned by An Ran, Mu Chen returns, defeats Mo Lun's Golden Flame Finger and Golden Flame Horn, and fines him 200,000 spirit value, which he shares among the freshmen. Hearing that Yang Hong and Mu Kui have formed the Flying Dragon Club and the Iron Wood Gang, the freshmen found the Luo Club with Mu Chen and Luo Li in charge.",
+  "events": [
+    "Mu Chen climbs the Thunder Realm to the third floor.",
+    "He refines the Divine Soul Pill and reaches the late stage of Spirit.",
+    "He breaks through the light curtain to the fourth floor, meant for Heavenly Fusion.",
+    "The Great Buddha Art reaches the conversion level.",
+    "Mo Lun and the Qinghong Club attack freshmen looking for Mu Chen.",
+    "Mu Chen defeats Mo Lun and takes 200,000 spirit value as compensation.",
+    "The freshmen found the Luo Club."
+  ],
+  "introduced": [
+    "Qinghong Club",
+    "Flying Dragon Club (Yang Hong)",
+    "Iron Wood Gang (Mu Kui)",
+    "Luo Club",
+    "Golden Flame Finger",
+    "Golden Flame Horn",
+    "Swords Slash"
+  ],
+  "cultivation": "Mu Chen reaches Spirit, Late Phase in the Thunder Realm, and the Great Buddha Art reaches its conversion level.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Spirit, Late Phase",
+      "quote": "I've finally reached the late stage of the Divine Soul Level. (192) / You've reached the late stage of the Divine Soul Level? (902)",
+      "first": false
+    },
+    {
+      "id": "mo-lun",
+      "name": "Mo Lun",
+      "quote": "So he is Mo Lun, who occupied the third place on the Divine Soul Ranking list before. (338)",
+      "first": false
+    },
+    {
+      "id": "an-ran",
+      "name": "An Ran",
+      "quote": "Congratulations. It seems you have advanced. (569-570) - said to Mu Chen",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling",
+      "first": false
+    },
+    {
+      "id": "ye-sun-er",
+      "name": "Ye Sun'er",
+      "first": false
+    },
+    {
+      "id": "yang-hong",
+      "name": "Yang Hong",
+      "quote": "mention only (924)",
+      "first": false
+    },
+    {
+      "id": "mu-kui",
+      "name": "Mu Kui",
+      "quote": "mention only (924)",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Confirms guide's Spirit, Late Phase at EP34."
+  ],
+  "flags": [
+    "264-268: 'comparable to someone at the early stage of the Fusion of Heaven Level' is an onlooker's comparison; Mu Chen's realm is late Spirit.",
+    "Mo Lun's realm is not stated.",
+    "911: '@inghong' = Qinghong (OCR)."
+  ]
+}

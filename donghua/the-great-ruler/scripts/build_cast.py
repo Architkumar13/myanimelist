@@ -1,8 +1,13 @@
 """Characters who appear in the donghua -> site/data/cast.js.
 
-Reads site/data/wiki.js (run build_wiki.py first) and cache/wiki/*Cultivation.json
-for realm-by-episode rows. Final novel realms are not copied onto episode 1.
+With data/characters/roster.json present (the subtitle-checked cast), builds from that: realms by episode,
+looks, and portraits from site/img/cast/{id}-{look}.jpg when they exist (tools/portraits.py), else the wiki picture.
+Without it, falls back to the fan wiki: site/data/wiki.js plus cache/wiki/*Cultivation.json for realm-by-episode rows.
+
+  build_cast.py          build site/data/cast.js
+  build_cast.py --seed   write data/characters/roster.json from the wiki, as a starting point to correct
 """
+import sys
 import json
 import pathlib
 import re
@@ -23,7 +28,7 @@ def level_of(realm):
         ("human body", 7), ("spiritual energy disaster", 7), ("spirit disaster", 7), ("three sovereign", 7),
         ("heavenly completion", 6), ("heavenly transformation", 5), ("heavenly fusion", 4),
         ("spirit stage", 3), ("divine soul", 3), ("spiritual rotation", 2), ("spiritual wheel", 2),
-        ("spiritual movement", 1), ("sensing", 0), ("sovereign", 8),
+        ("spiritual ring", 2), ("spiritual movement", 1), ("spirit", 3), ("sensing", 0), ("sovereign", 8),
     ):
         if name in r:
             return i
@@ -76,7 +81,7 @@ def timeline(wikitext):
     return out
 
 
-def main():
+def from_wiki():
     raw = (ROOT / "site/data/wiki.js").read_text().split("window.WIKI = ", 1)[1].rstrip()
     if raw.endswith(";"):
         raw = raw[:-1]
@@ -128,7 +133,35 @@ def main():
             "intro": blurb, "power": power, "looks": [look],
         })
     cast.sort(key=lambda c: (c["ep"], c["name"]))
-    js = "// Built by scripts/build_cast.py from the fan wiki. Do not edit by hand.\n"
+    return cast
+
+
+def from_roster(roster):
+    cast = []
+    for c in roster:
+        looks = []
+        for li, l in enumerate(c["looks"]):
+            look = {k: v for k, v in l.items() if k in ("ep", "label", "desc", "why")}
+            if (ROOT / f"site/img/cast/{c['id']}-{li}.jpg").exists():
+                look.update(img=f"img/cast/{c['id']}-{li}.jpg", src=l.get("src", "Full episode"))
+            elif l.get("img"):
+                look.update(img=l["img"], src="Fan wiki")
+            looks.append(look)
+        power = [{k: v for k, v in {**p, "lvl": level_of(p["realm"])}.items() if v is not None} for p in c["power"]]
+        cast.append({**{k: c[k] for k in c if k not in ("looks", "power", "card", "cardType")}, "power": power, "looks": looks})
+    return cast
+
+
+def main():
+    rf = ROOT / "data/characters/roster.json"
+    if "--seed" in sys.argv:
+        seed = [{**c, "power": [{k: v for k, v in p.items() if k != "lvl"} for p in c["power"]]} for c in from_wiki()]
+        rf.parent.mkdir(parents=True, exist_ok=True)
+        rf.write_text(json.dumps(seed, ensure_ascii=False, indent=2))
+        print(len(seed), "characters seeded into", rf)
+        return
+    cast = from_roster(json.loads(rf.read_text())) if rf.exists() else from_wiki()
+    js = "// Built by scripts/build_cast.py. Do not edit by hand.\n"
     js += "window.CAST_LEVELS = " + json.dumps(LEVELS) + ";\n"
     js += "window.CAST = " + json.dumps(cast, ensure_ascii=False, separators=(",", ":")) + ";\n"
     (ROOT / "site/data/cast.js").write_text(js)

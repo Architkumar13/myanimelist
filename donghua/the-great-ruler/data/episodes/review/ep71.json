@@ -1,0 +1,124 @@
+{
+  "ep": 71,
+  "title": "Holy Spiritual City",
+  "summary": "Tai Cang and the elders lead Mu Chen to Holy Spirit Mountain, with Ling Xi and Luo Li along; Shen Cangsheng promises him a match for the top of the Heavenly Ranking when he returns, and the trial will be broadcast back to the academy. At the Holy Spiritual Pavilion in wind-powered Holy Spiritual City, Xia Youran of the Jiuxia Chamber of Commerce greets Mu Chen, who reached Heavenly Completion within a month, and warns him how hard the Three Tribulations are. Liu Ying of the Anying Chamber, who claims to be her fiance, and his friend Zhou Xuan of Mount Xuanyin Sect pick a fight; Dong Yuan of the Tianyuan Chamber watches. Mo Xingtian of the Dragon Demon Palace arrives to kill Mu Chen, and Ling Xi reveals herself as a Sovereign, sending him flying until the Black Dragon Sovereign steps in and the two sides back off before the baptism. That night Luo Li warns Mu Chen that Mo Xingtian has already passed the Human Body Disaster and that Liu Ying and Zhou Xuan are close to it.",
+  "events": [
+    "The North Heaven party sets out; Shen Cangsheng promises Mu Chen a ranking match",
+    "Arrival at Holy Spiritual City and the Holy Spiritual Pavilion",
+    "Xia Youran introduces herself and the Three Tribulations",
+    "Liu Ying and Zhou Xuan confront Mu Chen over Xia Youran",
+    "Mo Xingtian arrives to kill Mu Chen",
+    "Ling Xi, revealed as a Sovereign, beats him back; the Black Dragon Sovereign intervenes",
+    "Luo Li briefs Mu Chen on his rivals; Mu Chen recalls his promise to bring his mother back"
+  ],
+  "introduced": [
+    "Holy Spiritual City",
+    "Holy Spiritual Pavilion",
+    "Space Gales",
+    "Jiuxia Chamber of Commerce",
+    "Anying Chamber of Commerce",
+    "Tianyuan Chamber of Commerce",
+    "Mount Xuanyin Sect",
+    "Heaven Cauldron Sect",
+    "Xia Youran",
+    "Liu Ying",
+    "Zhou Xuan",
+    "Dong Yuan",
+    "Mo Xingtian",
+    "Wen Busheng (named)"
+  ],
+  "cultivation": "Mu Chen is at the initial phase of Heavenly Completion. Ling Xi is revealed as a Sovereign (subs: Supreme Lord). Mo Xingtian has passed the Human Body Disaster (subs: Tribulation of the Physical Body). Liu Ying and Zhou Xuan once failed the Human Body Disaster and are said to have the strength to pass it.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Completion, Initial Phase",
+      "quote": "He is already at the Completion of Heaven Level. (444) / How is he only at the early stage of the Completion of Heaven Level? (569)",
+      "t": 569.0,
+      "first": false
+    },
+    {
+      "id": "ling-xi",
+      "name": "Ling Xi",
+      "realm": "Sovereign",
+      "quote": "Those below the Supreme Lord Level are all ants... is actually.. a Supreme Lord. She's actually a Supreme Lord! So young. (715-725)",
+      "t": 722.0,
+      "first": false
+    },
+    {
+      "id": "mo-xingtian",
+      "name": "Mo Xingtian",
+      "realm": "Three Sovereign Disasters, Human Body Disaster",
+      "quote": "This time, Mo Xingtian has already passed the Tribulation of the Physical Body. (916-917, Luo Li)",
+      "t": 917.0,
+      "card": 609.5,
+      "first": true
+    },
+    {
+      "id": "liu-ying",
+      "name": "Liu Ying",
+      "realm": "Three Sovereign Disasters, Human Body Disaster",
+      "quote": "Even top talents such as Liu Ying from Anying Chamber of Commerce and Zhou Xuan from Mount Xuanyin Sect once failed the Tribulation of the Physical Body. (482-488) / These people all have the strength to pass the Tribulation of the Physical Body (934)",
+      "t": 488.0,
+      "card": 482.5,
+      "first": true
+    },
+    {
+      "id": "zhou-xuan",
+      "name": "Zhou Xuan",
+      "realm": "Three Sovereign Disasters, Human Body Disaster",
+      "quote": "Zhou Xuan from Mount Xuanyin Sect once failed the Tribulation of the Physical Body. (485-488)",
+      "t": 488.0,
+      "card": 486.5,
+      "first": true
+    },
+    {
+      "id": "xia-youran",
+      "name": "Xia Youran",
+      "card": 404.5,
+      "first": true
+    },
+    {
+      "id": "dong-yuan",
+      "name": "Dong Yuan",
+      "card": 559.0,
+      "first": true
+    },
+    {
+      "id": "black-dragon-sovereign",
+      "name": "Black Dragon Sovereign",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "first": false
+    },
+    {
+      "id": "wen-busheng",
+      "name": "Wen Busheng",
+      "look": "mentioned only: 'Wen Busheng from Heaven Cauldron Sect' (518)"
+    }
+  ],
+  "changes": [
+    "Guide: consistent (the Black Dragon Sovereign steps in after Ling Xi's attack on Mo Xingtian). Adds Ling Xi's Sovereign reveal and the rivals' realms."
+  ],
+  "flags": [
+    "482-488 s: Liu Ying and Zhou Xuan 'once failed the Tribulation of the Physical Body' - recorded as being at the Human Body Disaster stage (attempted, not yet passed). EP81 shows Liu Ying past it.",
+    "466 s: Xia Youran's 'You two probably haven't experienced the Tribulation of the Physical Body yet' implies she has, but her realm is not stated.",
+    "Subs: Dong Yuan's card reads 'Tianyuan Chamber of Commerce & Nine Cauldrons Academy'; Liu Ying's 'Anying Chamber of Commerce & Desolate Spiritual Academy'; Wen Busheng is said to be from 'Heaven Cauldron Sect' (the roster intro says the Undefeated Spiritual Academy).",
+    "752 s: 'You must be the Elder from North Heaven who is proficient in spiritual formations' is the Black Dragon Sovereign to Ling Xi.",
+    "1025 s onward is the next-episode preview."
+  ]
+}

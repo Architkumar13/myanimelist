@@ -1,0 +1,62 @@
+{
+  "ep": 100,
+  "title": "Duan De Loses Everything",
+  "summary": "Ye Fan and Hei Huang follow Duan De after his fake-Ye-Fan scheme, and the teleport formation Ye Fan tampered with turns his escape through the void into a disaster. Duan De ends up stripped of everything he gained: the source he collected from the bounty hunters goes to Ye Fan, and the hunters still blame him for it. Ye Fan does not get away clean either. Yaoguang's Gu Litian catches him with his Eternal Sealing Powder, a poison that seals divine power, and Ye Fan is left on the run with his strength draining away and Yaoguang pursuers closing in.",
+  "events": [
+    "Ye Fan and Hei Huang tail Duan De",
+    "Duan De's tampered teleport through the void goes wrong",
+    "Ye Fan takes the source Duan De swindled from the bounty hunters",
+    "Gu Litian hits Ye Fan with Eternal Sealing Powder",
+    "Weakened, Ye Fan flees Yaoguang's pursuers"
+  ],
+  "introduced": [],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "hei-huang",
+      "name": "Hei Huang",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "duan-de",
+      "name": "Duan De",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "gu-litian",
+      "name": "Gu Litian",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Rebuilt from EP99's ending and EP101's opening; no copy of EP100 is reachable. EP101's recap block (2:26-3:27) has no subtitle text and EP99 ends without a preview.",
+    "EP99 18:03-18:42: Ye Fan wants to see Duan De's face 'crossing the void' and tells Hei Huang to watch where 'the fat cow' goes.",
+    "EP101 3:32-3:52: Duan De rages that Ye Fan ('Sialan Kamu Fan!') cost him everything; the hunters demand their Source Stones back and are told 'Batu Sumber Anda semuanya dirampok oleh Ye Fan'.",
+    "EP101 4:55-6:35 and 9:07-9:11: Ye Fan is nearly out of divine power and hunted by Yaoguang men; Gu Litian says no one hit by his Eternal Sealing Powder can escape.",
+    "Dropped 'Duan De is struck by heavenly lightning': nothing in EP99 or EP101 mentions lightning."
+  ],
+  "flags": [
+    "The heavenly-lightning claim (old summary, roster look for Duan De at EP100) is unverified.",
+    "Exactly how Ye Fan gets the source from Duan De, and where Gu Litian poisons him, isn't shown in the neighbours.",
+    "EP101 7:52-7:54 ('Mereka hanya terkena dampaknya, kamu adalah target utamanya') suggests Hei Huang and others were also caught by the powder.",
+    "Eternal Sealing Powder is first named in EP101, so it stays in EP101's 'introduced'."
+  ]
+}

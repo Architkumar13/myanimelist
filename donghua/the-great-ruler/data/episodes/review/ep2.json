@@ -1,0 +1,117 @@
+{
+  "ep": 2,
+  "title": "The Great Buddha Art",
+  "summary": "At Mu Realm, Zhou Ye wants to hit back at Liu Realm for its border raids, but Mu Feng holds him off: Liu Realm is still stronger, and its lord Liu Qingtian is at Spirit like Mu Feng. Mu Chen comes home at the initial phase of Spiritual Movement and says he has agreed to fight Liu Yang, second young lord of Liu Realm, in the upcoming exam. In the Spiritual Art Room he passes over the Flame Dragon Art and picks the unranked Great Buddha Art, which Mu Feng reveals his mother Jing left for him. He trains it, and Mu Feng has his Spirit-level Dragon Flame Eagle, held down to initial-phase Spiritual Movement, test him for three moves. Liu Mubai gives Liu Yang a Spirit Destruction Bead as a last resort. At the North Spiritual Academy exam Mu Chen is late, so Tan Qingshan, newly at Spiritual Movement, takes on Liu Yang himself and is beaten badly, until Mu Chen arrives and steps in.",
+  "events": [
+    "Zhou Ye and Mu Feng argue over Liu Realm's border raids; Liu Qingtian is said to be at Spirit",
+    "Mu Chen returns home at initial-phase Spiritual Movement and explains the Liu Yang challenge",
+    "In the Spiritual Art Room he chooses the unranked Great Buddha Art, left by his mother",
+    "Mu Chen draws his first thread of Great Buddha Art spiritual power",
+    "Liu Mubai gives Liu Yang the Spirit Destruction Bead",
+    "Mu Chen takes three moves from Mu Feng's restricted Dragon Flame Eagle",
+    "At the exam Tan Qingshan fights Liu Yang in Mu Chen's place and is beaten",
+    "Mu Chen arrives: 'Your opponent is me'"
+  ],
+  "introduced": [
+    "Mu Realm",
+    "Great Buddha Art",
+    "Flame Dragon Art",
+    "Fire Cloud Art",
+    "Spiritual Art Room",
+    "Spirit Destruction Bead",
+    "Dragon Flame Eagle",
+    "Sea of Chi",
+    "Mountain Fist"
+  ],
+  "cultivation": "Mu Chen at the initial phase of Spiritual Movement (subs: early stage of the Spiritual Movement Level). Mu Feng and Liu Qingtian at Spirit (subs: Divine Soul Level). Mu Feng's Dragon Flame Eagle carries the spirit of a Spirit-level beast, restricted to initial Spiritual Movement for the test. Tan Qingshan has just reached Spiritual Movement.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Spiritual Movement, Initial Phase",
+      "quote": "You have reached the early stage of the Spiritual Movement Level. (81.5) / I'm just at the Spiritual Movement Level. (520.5)",
+      "t": 81.5,
+      "first": false
+    },
+    {
+      "id": "mu-feng",
+      "name": "Mu Feng",
+      "realm": "Spirit",
+      "quote": "You're at the Divine Soul Level. (519, Mu Chen to his father)",
+      "t": 519.0,
+      "card": 17.5,
+      "first": true
+    },
+    {
+      "id": "liu-qingtian",
+      "name": "Liu Qingtian",
+      "realm": "Spirit",
+      "quote": "But Liu Qingtian, the current lord of Liu Realm, is at the same Divine Soul Level as you. (35-37.5, Zhou Ye to Mu Feng)",
+      "t": 37.5,
+      "look": "mentioned only"
+    },
+    {
+      "id": "dragonfire-bird",
+      "name": "Dragonfire Bird",
+      "realm": "Spirit",
+      "quote": "It is indeed the spirit of a spiritual beast of the Divine Soul Level. Even though its power has been restricted at the early stage of the Spiritual Movement Level... (587.5-589.5)",
+      "t": 587.5,
+      "card": 532.5,
+      "first": true
+    },
+    {
+      "id": "tan-qingshan",
+      "name": "Tan Qingshan",
+      "realm": "Spiritual Movement",
+      "quote": "I didn't expect Tan Qingshan to be at the Spiritual Movement Level. (804.5) / I finally reached the Spiritual Movement Level. (830)",
+      "t": 804.5,
+      "first": false
+    },
+    {
+      "id": "zhou-ye",
+      "name": "Zhou Ye",
+      "first": true
+    },
+    {
+      "id": "liu-yang",
+      "name": "Liu Yang",
+      "first": false
+    },
+    {
+      "id": "liu-mubai",
+      "name": "Liu Mubai",
+      "first": false
+    },
+    {
+      "id": "tang-qian-er",
+      "name": "Tang Qian'er",
+      "first": false
+    },
+    {
+      "id": "principal-xiao",
+      "name": "Principal Xiao",
+      "first": false
+    },
+    {
+      "id": "qing-yanjing",
+      "name": "Qing Yanjing",
+      "look": "mentioned only, as 'Jing', Mu Chen's mother (273)"
+    },
+    {
+      "id": "liu-jingshan",
+      "name": "Liu Jingshan",
+      "look": "mentioned only, as Liu Realm's ancestor (24.5)"
+    }
+  ],
+  "changes": [
+    "Guide groups EP2-3 as the academy competition with the Liu Yang fight: in EP2 Mu Chen only picks the Great Buddha Art and arrives at the end; Tan Qingshan is the one who fights Liu Yang here, and the Mu Chen vs Liu Yang match is EP3."
+  ],
+  "flags": [
+    "37.5 s: 'the same Divine Soul Level as you' is Zhou Ye to Mu Feng, so it states both Liu Qingtian's and Mu Feng's realm.",
+    "587.5 s: the Divine Soul Level is the rank of the beast whose spirit Mu Feng absorbed (the Dragon Flame Eagle); its test power was restricted to initial Spiritual Movement, not recorded as its realm.",
+    "411 s: the Spirit Destruction Bead 'can cause serious injuries to those at the Spiritual Ring Level' is a comparison, not anyone's realm.",
+    "'Dragon Flame Eagle' (subs) is mapped to the roster's Dragonfire Bird, Mu Feng's absorbed beast.",
+    "Subs call the Spiritual Road 'Spiritual Land' and the Northern Spiritual Realm 'North Spiritual Territory'."
+  ]
+}

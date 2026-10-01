@@ -1,0 +1,118 @@
+{
+  "ep": 54,
+  "title": "The Spirit King's Hoard",
+  "summary": "Xiao Xiao, the Flame Emperor's daughter, emerges from seclusion in the Infinite Flame Realm; Xiao Yan gives her a 'fun mission', but Yao Chen's rule is no leaving before she reaches Sovereign, which she says she has almost reached. At the academy the elders learn He Yao is dead, and Su Xuan and Xu Huang were injured challenging the Spirit King, leaving Mu Chen, still last in the Spirit Crystal rankings, as North Heaven's hope. Mu Chen treats Luo Li's poison and learns Ji Xuan was behind He Yao. He and Luo Li come to the aid of Zhao Qingshan's group against the Spirit King, a Heavenly Completion beast; Mu Chen reveals the Thunder Realm raised him to Heavenly Transformation. They find the Spirit King's hoard of Spirit Crystals under its cave, and Mu Chen instantly forms the Level 5 Demon Lotus Spirit-Slaying Formation while Luo Li uses the Luo Sword Art to bring it down.",
+  "events": [
+    "Xiao Xiao appears; Xiao Yan and Yao Chen set her a mission, conditional on reaching Sovereign.",
+    "The elders confirm He Yao's death; Su Xuan and Xu Huang were injured by the Spirit King.",
+    "Mu Chen clears Luo Li's poison and learns Ji Xuan was behind He Yao.",
+    "Mu Chen and Luo Li rescue Zhao Qingshan's group from the Spirit King.",
+    "Mu Chen says he has reached Heavenly Transformation.",
+    "They find and absorb the Spirit King's hidden Spirit Crystals.",
+    "Mu Chen's instant Level 5 Demon Lotus Spirit-Slaying Formation and Luo Li's Luo Sword Art take on the Spirit King."
+  ],
+  "introduced": [
+    "Xiao Xiao",
+    "Infinite Flame Realm",
+    "Heavenly Spiritual Elixir",
+    "Spirit Crystal Rankings",
+    "Demon Lotus Spirit-Slaying Formation",
+    "Instant Spiritual Formation",
+    "Luo Sword Art",
+    "Divine Forging Stone (preview)"
+  ],
+  "cultivation": "Mu Chen: the Thunder Realm 'raised my power to the Transformation of Heaven Level' (Heavenly Transformation). Spirit King: Heavenly Completion, probably late. Xiao Xiao: almost at Sovereign.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-xiao",
+      "name": "Xiao Xiao",
+      "realm": "just below Sovereign",
+      "quote": "-No Supreme Lord level, no leaving. / But I'm almost at that level. (152.5, 160.5)",
+      "first": true,
+      "card": 83.5
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "yao-chen",
+      "name": "Yao Chen",
+      "quote": "addressed as 'Grandmaster' by Xiao Xiao",
+      "first": false
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Transformation",
+      "quote": "In the Thunder Realm, I not only obtained the Thunder Body, but also raised my power to the Transformation of Heaven Level. (405.5-408)",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Spirit King",
+      "realm": "Heavenly Completion (likely Late Phase)",
+      "quote": "[Completion of Heaven Level, Spirit King] (353.5); 'The Spirit King is likely at the late Completion of Heaven Level' (380)",
+      "first": true,
+      "card": 353.5
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "zhao-qingshan",
+      "name": "Zhao Qingshan",
+      "quote": "'Qingshan, retreat now!' (358) - identity inferred",
+      "first": false
+    },
+    {
+      "id": "su-xuan",
+      "name": "Su Xuan",
+      "quote": "mentioned: injured challenging the Spirit King (193.5)",
+      "first": false
+    },
+    {
+      "id": "xu-huang",
+      "name": "Xu Huang",
+      "quote": "mentioned: injured challenging the Spirit King (193.5)",
+      "first": false
+    },
+    {
+      "id": "he-yao",
+      "name": "He Yao",
+      "quote": "mentioned: 'He Yao is dead.' (181.5)",
+      "first": false
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan",
+      "quote": "mentioned: 'So it turns out Ji Xuan was behind him all along.' (303)",
+      "first": false
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "northern-sea-dragon",
+      "name": "Northern Sea Dragon (Lord Dragon Fish of Beiming)",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Guide calls the beast 'Spiritual King'; the subtitles and card say 'Spirit King'.",
+    "Guide says Xiao Xiao first appears here: confirmed by name card at 83.5."
+  ],
+  "flags": [
+    "353.5 vs 380: card says only 'Completion of Heaven Level'; 'likely at the late' stage is a guess by a student.",
+    "358: 'Qingshan, retreat now!' - assumed Zhao Qingshan (Heavenly Ranking #6), not the Penalty Hall's Zhou Qingshan; speaker unclear.",
+    "285: caption '[A few-months ago]' before Mu Chen treats Luo Li - probably 'a few moments ago'; placement is odd.",
+    "938-992: Penalty Hall Arena, Divine Forging Stone and the ten-move lines are a preview of EP55.",
+    "1-33: recap of EP53."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "ep": 41,
+  "title": "The Heavenly Spiritual Lotus",
+  "summary": "Huo Feng, at the late phase of Heavenly Fusion, attacks Mu Chen for refusing him and is startled that a newly promoted freshman can trade blows, but breaks off when the spiritual tide starts so he can save his strength for the lotus. Mu Chen and Su Ling'er, still bickering, find the Heavenly Spiritual Lotus first, and Xu Qingqing arrives to claim it. Mu Chen holds off Xu Qingqing, who is also late-phase Heavenly Fusion and uses her Nine Heavens Spiritual Sword Art to try to cripple him, while Su Ling'er goes for the lotus. Mu Chen activates the first level of the Great Buddha Art's nine-level pagoda and smashes her Silver Dragon Sword. When the lotus fruits, he works out how to catch the living lotus seeds; Xu Qingqing threatens him with her brother Xu Huang, fifth on the Heavenly Ranking, and Su Ling'er stands with Mu Chen. They split the seeds, and Xu Qingqing runs to Xu Huang, who vows revenge.",
+  "events": [
+    "Huo Feng attacks Mu Chen and withdraws when the spiritual tide starts",
+    "Mu Chen and Su Ling'er find the Heavenly Spiritual Lotus",
+    "Xu Qingqing's group arrives; Su Ling'er fights Xu Qingqing",
+    "Mu Chen holds off Xu Qingqing and breaks her Silver Dragon Sword with the pagoda",
+    "Mu Chen learns to catch the spiritual lotus seeds",
+    "Su Ling'er backs Mu Chen against Xu Qingqing's threats",
+    "They share the seeds; Xu Qingqing complains to Xu Huang"
+  ],
+  "introduced": [
+    "Xu Huang",
+    "Storm Slash",
+    "Senluo Death Mark",
+    "Wind Dragon Destruction Fist",
+    "Breeze Sword Art",
+    "Nine Heavens Spiritual Sword Art",
+    "Silver Dragon Sword",
+    "Nine-level pagoda (first level activated)"
+  ],
+  "cultivation": "Mu Chen: Heavenly Fusion, Initial Phase (said by Huo Feng and Xu Qingqing). Huo Feng: Heavenly Fusion, Late Phase. Xu Qingqing: Heavenly Fusion, Late Phase. Su Ling'er appears to have reached the late phase too (see flags).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Fusion, Initial Phase",
+      "quote": "You are just a freshman at the early stage of the Fusion of Heaven Level.",
+      "t": 498.5
+    },
+    {
+      "id": "huo-feng",
+      "name": "Huo Feng",
+      "realm": "Heavenly Fusion, Late Phase",
+      "quote": "Huo Feng is at the late stage of the Fusion of Heaven Level.",
+      "t": 49.5
+    },
+    {
+      "id": "xu-qingqing",
+      "name": "Xu Qingqing",
+      "realm": "Heavenly Fusion, Late Phase",
+      "quote": "You are at the late stage of the Fusion of Heaven Level.",
+      "t": 523.5
+    },
+    {
+      "id": "su-ling-er",
+      "name": "Su Ling'er",
+      "realm": "Heavenly Fusion, Late Phase",
+      "quote": "You've reached a higher level? ... She's also at the late stage of the Fusion of Heaven Level.",
+      "t": 374.5,
+      "note": "Up one phase from EP40's 'about to reach the late stage'; medium confidence"
+    },
+    {
+      "id": "xu-huang",
+      "name": "Xu Huang",
+      "first": true,
+      "card": 920.5,
+      "note": "Ranks fifth on the Heavenly Ranking"
+    }
+  ],
+  "changes": [
+    "Roster gives Huo Feng only 'Heavenly Fusion' (low confidence); the subtitles say late phase.",
+    "Roster first ep for Xu Qingqing is 41, but her card is in EP40."
+  ],
+  "flags": [
+    "370-377: who has 'reached a higher level' is not named. The order ('You've reached a higher level?' / 'She's also at the late stage' / 'I'm more gifted than you') fits Su Ling'er catching up to Xu Qingqing; recorded as Su Ling'er late phase, but it is inference.",
+    "'Qinghong' is often read as '@inghong'; Xu Qingqing as 'Xu Qingging'."
+  ]
+}

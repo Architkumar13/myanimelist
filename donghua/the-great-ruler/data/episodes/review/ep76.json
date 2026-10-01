@@ -1,0 +1,181 @@
+{
+  "ep": 76,
+  "title": "The siege of North Heaven",
+  "summary": "Mu Chen and Wen Busheng introduce themselves on the summit and take the Holy Spirit Baptism; Mu Chen's old injuries heal and he secures two perfect crystals, one saved for Luo Li. Ji Xuan's grandfather sums up Mu Chen as ruthless, sharp and formidable but says he has no idea what waits outside the mountain. At the academy the warding formation is broken, Mo You and Zhu Tian are pinned at the Holy Spiritual Pavilion, and Lord Beiming confronts Master Wuliang, mocking him over the Martial Ancestor; Wuliang asks which he can save, the academy or Tai Cang, now trapped in a Three Dragons Burning Heaven Cauldron. Elder Cao Xiu and the Heavenly Ranking students keep the North Heaven Gate open with formation flags so An Ran can lead the freshmen to shelter, while Fei Qingsong of the Supreme Cauldron Academy joins the attackers. The Yellow Dragon Sovereign comes to kill Mu Chen, and Liu Ying admits his father is working for the Dragon Demon Palace. Su Ling'er, No. 32 on the Heavenly Ranking, steps in to protect her sister Su Xuan, and Huo Feng and Gao Yang, the last man on the ranking, defend the formation flag as the students cry 'defend the glory of the academy to the death'. Xia Youran's father refuses to let the Jiuxia Chamber take sides.",
+  "events": [
+    "Mu Chen, Wen Busheng and the others take the perfect baptism; Mu Chen keeps a crystal for Luo Li",
+    "Ji Xuan's grandfather assesses Mu Chen",
+    "The academy's warding formation falls; Beiming faces Master Wuliang",
+    "Tai Cang is trapped in the Three Dragons Burning Heaven Cauldron",
+    "Cao Xiu and the ranked students hold the North Heaven Gate; Fei Qingsong attacks",
+    "The Yellow Dragon Sovereign goes after Mu Chen",
+    "Xu Qingqing, Su Ling'er, Huo Feng and Gao Yang fight to hold the formation flags",
+    "Xia Youran's father keeps the Jiuxia Chamber neutral"
+  ],
+  "introduced": [
+    "perfect baptism crystals",
+    "Three Dragons Burning Heaven Cauldron",
+    "Elder Cao Xiu",
+    "formation flags of the North Heaven Gate",
+    "Gao Yang",
+    "Master Wuliang (on screen)"
+  ],
+  "cultivation": "The Yellow Dragon Sovereign's aura is recognised as a true Sovereign's. Heavenly Ranking places shown on name cards: Su Ling'er No. 32, Xu Qingqing No. 39, Huo Feng No. 42, Gao Yang last. No other realm is stated.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "yellow-dragon-sovereign",
+      "name": "Yellow Dragon Sovereign",
+      "realm": "Sovereign",
+      "quote": "Yellow Dragon, kill him. (606) / This aura... A true Supreme Lord? (626) / must be the killing intent of a supreme lord (638-640)",
+      "t": 626.0,
+      "first": false
+    },
+    {
+      "id": "old-ancestor-wu-liang",
+      "name": "Old Ancestor Wu Liang",
+      "quote": "Beiming, long time no see. [Master Wuliang] (341-343)",
+      "card": 343.0,
+      "first": true
+    },
+    {
+      "id": "su-ling-er",
+      "name": "Su Ling'er",
+      "quote": "[Su Ling'er, No. 32 on Heavenly Ranking] (812)",
+      "card": 812.0,
+      "look": "falls defending Su Xuan (tomb shown EP79)",
+      "first": false
+    },
+    {
+      "id": "xu-qingqing",
+      "name": "Xu Qingqing",
+      "quote": "[Xu Qingqing, No. 39 on Heavenly Ranking] (751)",
+      "card": 751.0,
+      "first": false
+    },
+    {
+      "id": "huo-feng",
+      "name": "Huo Feng",
+      "quote": "[Huo Feng, No. 42 on the Heavenly Ranking] (944.5)",
+      "card": 944.5,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Gao Yang",
+      "quote": "[Gao Yang, the last on the Heavenly Ranking] (1012.5)",
+      "card": 1012.5,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Cao Xiu",
+      "quote": "Elder Cao Xiu is maintaining the formation to force open the North Heaven Gate. (464)",
+      "first": true
+    },
+    {
+      "id": "fei-qingsong",
+      "name": "Fei Qingsong",
+      "quote": "Fei Qingsong, you of the Supreme Cauldron Academy dare to collude with the Dragon Demon Palace! (480-482)",
+      "first": false
+    },
+    {
+      "id": "wen-busheng",
+      "name": "Wen Busheng",
+      "quote": "Mr. Mu, I am Wen Busheng. (196-198)",
+      "first": false
+    },
+    {
+      "id": "northern-sea-dragon",
+      "name": "Northern Sea Dragon",
+      "first": false
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan",
+      "first": false
+    },
+    {
+      "id": "liu-ying",
+      "name": "Liu Ying",
+      "first": false
+    },
+    {
+      "id": "dong-yuan",
+      "name": "Dong Yuan",
+      "first": false
+    },
+    {
+      "id": "dong-ming",
+      "name": "Dong Ming",
+      "first": false
+    },
+    {
+      "id": "zhu-tian",
+      "name": "Zhu Tian",
+      "first": false
+    },
+    {
+      "id": "mo-you",
+      "name": "Mo You",
+      "first": false
+    },
+    {
+      "id": "an-ran",
+      "name": "An Ran",
+      "first": false
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "first": false
+    },
+    {
+      "id": "mu-fengyang",
+      "name": "Mu Fengyang",
+      "first": false
+    },
+    {
+      "id": "su-xuan",
+      "name": "Su Xuan",
+      "first": false
+    },
+    {
+      "id": "mu-kui",
+      "name": "Mu Kui",
+      "first": false
+    },
+    {
+      "id": "xia-youran",
+      "name": "Xia Youran",
+      "first": false
+    },
+    {
+      "id": "xia-tianyan",
+      "name": "Xia Tianyan",
+      "quote": "Father, why didn't you stop them? ... Our chamber of commerce is rooted in the North Heaven Continent (1060-1070)",
+      "look": "not named in the subs; read as Xia Youran's father",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Guide: consistent. Adds the North Heaven Gate defence, Cao Xiu, the Heavenly Ranking name cards and Su Ling'er's last stand."
+  ],
+  "flags": [
+    "222-230 s: 'Four perfect crystals but only three of them... Mr. Liu, Mr. Dong' - unclear who speaks and how the crystals are split; only Mu Chen's two crystals (548) are certain.",
+    "Huo Feng's card says No. 42 on the Heavenly Ranking; the roster intro says 91st (earlier ranking).",
+    "742-761 s: 'Xu Qingqing! ... I didn't disgrace him!' - it is unclear whether Xu Qingqing or someone shielding her falls.",
+    "1060-1082 s: father and child are not named; read as Xia Youran and Xia Tianyan because she took sides at the baptism. Could be another chamber heir.",
+    "1108 s onward is the next-episode preview."
+  ]
+}

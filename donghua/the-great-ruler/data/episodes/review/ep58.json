@@ -1,0 +1,113 @@
+{
+  "ep": 58,
+  "title": "Challenge from the Supreme Cauldron Academy",
+  "summary": "Lord Dragon Fish of Beiming holds off the Thunder Spirit while Mu Chen searches the Thunder Sea for the Thunder God Pill with the Thunder Body, which lasts only an hour. Dean Fei Qingsong arrives with the Supreme Cauldron Spiritual Academy while Shen Cangsheng and Li Xuantong are away hunting Mo Longzi, and calls for 'friendly' matches. Liu Zheng, once expelled from North Heaven for killing fellow students over tokens, crushes Xu Huang (7th on the Heavenly Ranking) and Su Xuan (4th). Mu Chen draws the lightning into his body to find the pill and nearly dies; Beiming saves him, gets the Thunder God Pill, and uses the Thunder God Lotus they also found to start Mu Chen's infusion. Luo Li, 10th on the Heavenly Ranking, defeats Liu Zheng with the Luo River sword. Fei Qingsong then fields Xue Shi, a middle-phase Heavenly Completion student.",
+  "events": [
+    "Beiming battles the Thunder Spirit; Mu Chen hunts the Thunder God Pill.",
+    "Fei Qingsong and the Supreme Cauldron Spiritual Academy arrive.",
+    "Liu Zheng defeats Xu Huang and Su Xuan.",
+    "Mu Chen draws in the lightning, finds the pill and is saved by Beiming.",
+    "Beiming begins the infusion with the Thunder God Lotus.",
+    "Luo Li defeats Liu Zheng.",
+    "Xue Shi steps forward."
+  ],
+  "introduced": [
+    "Fei Qingsong",
+    "Liu Zheng",
+    "Xue Shi",
+    "Thunder Spirit",
+    "Thunder God Lotus",
+    "Desolate God Blade",
+    "Blazing Divine Spear"
+  ],
+  "cultivation": "Xue Shi: Heavenly Completion, Middle Phase (name card). Beiming again says he wants to break through to Earth Sovereign.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "northern-sea-dragon",
+      "name": "Northern Sea Dragon (Lord Dragon Fish of Beiming)",
+      "realm": "Sovereign (below Earth Sovereign)",
+      "quote": "at worst I'll find another way to break through to the Earth Supreme Lord Realm! (465)",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Thunder Spirit",
+      "first": true,
+      "card": 149.0
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "fei-qingsong",
+      "name": "Fei Qingsong",
+      "first": true,
+      "card": 225.0
+    },
+    {
+      "id": "liu-zheng",
+      "name": "Liu Zheng",
+      "first": true
+    },
+    {
+      "id": "xu-huang",
+      "name": "Xu Huang",
+      "quote": "'Xu Huang, ranked seventh on the Heavenly Ranking' (284) - rank only",
+      "first": false
+    },
+    {
+      "id": "su-xuan",
+      "name": "Su Xuan",
+      "quote": "'I'm Su Xuan, ranked fourth on the Heavenly Ranking' (412) - rank only",
+      "first": false
+    },
+    {
+      "id": "su-ling-er",
+      "name": "Su Ling'er",
+      "quote": "'Luo Li, avenge my sister!' (799.5) - identity inferred",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "quote": "'It's tenth-ranked Luo Li.' (798.5) - rank only",
+      "first": false
+    },
+    {
+      "id": "xue-shi",
+      "name": "Xue Shi",
+      "realm": "Heavenly Completion, Middle Phase",
+      "quote": "[Xue Shi, Mid-stage of Completion of Heaven Level] (925.5)",
+      "first": true,
+      "card": 925.5
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "quote": "mentioned: away hunting Mo Longzi",
+      "first": false
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "quote": "mentioned: away hunting Mo Longzi",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Guide says 'Luo Li vs Liu Zheng': confirmed; Liu Zheng also beats Xu Huang and Su Xuan first."
+  ],
+  "flags": [
+    "222: card OCR 'Supreme Caution Spiritual Academy' = Supreme Cauldron.",
+    "950-981: [In the Next Episode] preview of EP59 (White Dragon Supreme Lord, Martial Ancestor).",
+    "0-38: recap of EP57."
+  ]
+}

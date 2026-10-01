@@ -1,0 +1,83 @@
+{
+  "ep": 87,
+  "title": "Mu Fengyang holds the line",
+  "summary": "While Mu Chen and Luo Li spend half a month in seclusion breaking through with the Spiritual Fruit, Mu Fengyang and Zhao Qingshan guard the cave, and the rumours keep most teams away. Wen Qingxuan and Pin'er read the ruse, and Ji Xuan pays the Alliance of Academies to kill Mu Chen for his Wood God Tablet. The Alliance sends Chen Xi with a crowd of fighters. Mu Fengyang bluffs them as a reclusive master from the Martial Realm, 'suppressing' himself to the Human Body Disaster and taking Chen Xi's punch unharmed thanks to a protective treasure from Mu Chen. An Alliance leader the others call 'Second Boss' sees through it. Mu Fengyang and Zhao Qingshan fall back through Mu Chen's pre-laid formations, and Mu Fengyang, ribs broken, refuses to abandon his friends. He tells Qingshan he only needs to be able to stand in front of his teammates.",
+  "events": [
+    "Mu Chen and Luo Li stay in seclusion for over half a month; the team's points rise as a ruse",
+    "Wen Qingxuan and Pin'er suspect the rumours are Mu Chen's own trick",
+    "Ji Xuan and the Alliance agree a price for Mu Chen's death (the Ghostclaw Octopus link)",
+    "Chen Xi's Alliance group arrives; Mu Fengyang poses as a Martial Realm master",
+    "Mu Fengyang takes Chen Xi's punch unharmed and has the crowd 'meditate' for three days",
+    "The 'Second Boss' exposes the bluff; the attack begins",
+    "Mu Fengyang and Zhao Qingshan fight through the last formations; flashback to the Heavenly Rankings"
+  ],
+  "introduced": [
+    "Chen Xi",
+    "Ghostclaw Octopus",
+    "Martial Realm (bluff)",
+    "Great Desolate Heaven-Sealing Finger"
+  ],
+  "cultivation": "Mu Fengyang says he has already passed the Human Body Disaster, and Chen Xi remarks he looks like he just passed it. Chen Xi's name card puts him at the Spiritual Energy Disaster. The stronger the body, the longer the Human Body Disaster breakthrough takes, which is why Mu Chen's seclusion runs long.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "mu-fengyang",
+      "name": "Mu Fengyang",
+      "realm": "Three Sovereign Disasters, Human Body Disaster",
+      "quote": "Haven't I already passed the Tribulation of the Physical Body? / 'why do you look like you just passed the Tribulation of the Physical Body?'",
+      "t": 76.0
+    },
+    {
+      "id": "chen-xi",
+      "name": "Chen Xi",
+      "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+      "quote": "[Chen Xi, Alliance of Academies, Tribulation of Spiritual Power] / 'You're at the Tribulation of Spiritual Power.'",
+      "t": 287.0,
+      "card": 287.0,
+      "first": true
+    },
+    {
+      "id": "zhao-qingshan",
+      "name": "Zhao Qingshan"
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "look": "in seclusion, off-screen"
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "look": "in seclusion, off-screen"
+    },
+    {
+      "id": "wen-qingxuan",
+      "name": "Wen Qingxuan"
+    },
+    {
+      "id": "pin-er",
+      "name": "Pin'er"
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan"
+    },
+    {
+      "id": "mo-yu",
+      "name": "Mo Yu",
+      "look": "probably the 'Second Boss' (see flags)"
+    }
+  ],
+  "changes": [
+    "The guide said Mu Fengyang and Zhao Qingshan protect Mu Chen and Luo Li; correct. Added Chen Xi's name card and Ji Xuan's contract with the Alliance."
+  ],
+  "flags": [
+    "76 s: Mu Fengyang's own statement that he has passed the Human Body Disaster. The roster's EP87 entry for him is 'Heavenly Completion', which this contradicts. He probably broke through with a Spiritual Fruit off-screen in EP86-87.",
+    "400 s: 'I'll suppress my cultivation to the Tribulation of the Physical Body' is part of Mu Fengyang's Martial Realm bluff, not a suppression.",
+    "468 s: 'You're at the Tribulation of Spiritual Power' is Mu Fengyang to the man who punches him, who is called 'Chen' at 600 s, so Chen Xi. That matches the card.",
+    "574-612 s: the 'Second Boss' who sees through the bluff is not named. The wiki makes Mo Yu the Alliance's second leader, but this is unconfirmed.",
+    "929 s: 'I, Chuanshu, shall protect the mortal world' (also 'Chuan Shu' in EP86): unclear name or catchphrase of Mu Fengyang's.",
+    "373 s: 'mere Divine Soul Level strength' refers to two unnamed ambushing teams.",
+    "958 s onward overlaps EP88 (preview)."
+  ]
+}

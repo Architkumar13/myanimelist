@@ -1,0 +1,500 @@
+{
+ "luo-li": [
+  {
+   "ep": 18,
+   "realm": "Heavenly Fusion",
+   "detail": "EP31: she was already at Heavenly Fusion when she finished the Spiritual Land",
+   "conf": "high"
+  }
+ ],
+ "mo-ling": [
+  {
+   "ep": 15,
+   "realm": "Spiritual Rotation",
+   "detail": "fan wiki",
+   "conf": "low"
+  }
+ ],
+ "mu-yuan": [
+  {
+   "ep": 2,
+   "realm": "Spiritual Movement, Initial Phase",
+   "detail": "Fan wiki (novel): initial Spiritual Movement early on",
+   "conf": "low",
+   "note": "Wiki cultivation table: Spiritual Movement Initial, novel ch 8 (manhua ch1 says middle). ch 8 falls between ch1=EP1 and ch14=EP3 -> ~EP2. Consistent with EP2 subs: Tan Qingshan just reached Spiritual Movement, Liu Yang (best of Earth class) at middle phase."
+  }
+ ],
+ "su-ling": [
+  {
+   "ep": 1,
+   "realm": "Sensing",
+   "detail": "Fan wiki (novel): still at the Sensing stage",
+   "conf": "low",
+   "note": "Wiki infobox martial_artist_level = Sensing Stage (no chapter). EP1 has no subtitles; nothing in the show contradicts it."
+  }
+ ],
+ "chen-tong": [
+  {
+   "ep": 16,
+   "realm": "Spiritual Rotation, Initial Phase",
+   "detail": "Fan wiki (novel): initial Spiritual Rotation by the academy entry competition",
+   "conf": "low",
+   "note": "Wiki table: late Spiritual Movement ch25, Spiritual Rotation Initial ch88. ch88 is the five-academies entry competition, adapted in EP15-18 (ch66=EP13, ch97=EP21). EP16 subs call him second only to Liu Mubai in the West Academy; no realm stated."
+  }
+ ],
+ "ye-sun-er": [
+  {
+   "ep": 26,
+   "realm": "Spiritual Rotation, Middle Phase",
+   "detail": "Fan wiki (novel): middle Spiritual Rotation during the entrance exam",
+   "conf": "low",
+   "note": "Wiki table: Spiritual Rotation Middle, novel ch116 (between ch97=EP21 and ch126=EP28 -> ~EP25-26). EP29 subs support \"below Spirit\": only those at the Divine Soul Level may go on the mission, \"Sun'er and Mo Ling should stay here\" (185-191). EP62 \"Sun'er? ... reached the Supreme Lord Level\" is an OCR slip in the Luo Li/Xiao Xiao scene, not her."
+  }
+ ],
+ "mo-lun": [
+  {
+   "ep": 33,
+   "realm": "Spirit",
+   "detail": "Held 3rd place on the Spirit (\"Divine Soul\") Ranking until Mu Chen took it",
+   "conf": "medium",
+   "note": "EP33 693-697 \"managed to replace Mo Lun, the third place in the Divine Soul Ranking\"; EP34 337-338 same. The Spirit List ranks Spirit-stage students, so realm inferred, no phase given."
+  },
+  {
+   "ep": 40,
+   "realm": "Heavenly Fusion, Initial Phase",
+   "detail": "Fan wiki (novel): has since reached early Heavenly Fusion",
+   "conf": "low",
+   "note": "Wiki infobox/table: Heavenly Fusion Initial (about to reach middle), novel ch187 (~EP37-38 by ch163=EP34, ch202=EP40). Placed at EP40, his last mention (subs 898-907). Not stated in the show."
+  }
+ ],
+ "mu-kui": [
+  {
+   "ep": 37,
+   "realm": "Heavenly Fusion, Initial Phase",
+   "detail": "Fan wiki (novel): early Heavenly Fusion by the freshman competition",
+   "conf": "low",
+   "note": "Wiki table: Heavenly Fusion Initial, novel ch181 (~EP37; the Mountain Devouring Python, ch177, is EP36). Subs never state his realm; he drops out rather than fight Mu Chen (late Spirit) in EP37, consistent."
+  }
+ ],
+ "bai-dong": [
+  {
+   "ep": 47,
+   "realm": "Heavenly Fusion, Late Phase",
+   "detail": "Fan wiki (novel): late Heavenly Fusion in the White Dragon Sovereign's treasury",
+   "conf": "low",
+   "note": "Wiki table: Heavenly Fusion Late, novel ch250 (ch243=EP46, ch316=EP54 -> ~EP47). EP49 683 \"They're at the early stage of the Transformation of Heaven Level\" is Bai Dong speaking about his guards, not himself."
+  }
+ ],
+ "mo-longzi": [
+  {
+   "ep": 51,
+   "realm": "Heavenly Completion",
+   "detail": "Stronger than the late-Heavenly-Transformation Bai Xuan; the wiki puts him at Heavenly Completion",
+   "conf": "low",
+   "note": "Wiki table: Heavenly Completion \"Initial or Middle Phase\", novel ch263, Mu Chen's estimate (the White Dragon Hill encounter, EP51). EP51 review: Mo Longzi is said to be stronger than Bai Xuan (late Heavenly Transformation, EP49). No realm named in the subs."
+  },
+  {
+   "ep": 64,
+   "realm": "Heavenly Completion, Late Phase",
+   "detail": "Fan wiki (novel): late Heavenly Completion by the Fog Valley siege",
+   "conf": "low",
+   "note": "Wiki table: Heavenly Completion Late, novel ch364 (ch345=EP59, ch390=EP70 -> ~EP63-64, the Fog Valley arc EP62-68). Subs only have him sneering at Mu Chen's Heavenly Transformation (EP66 84)."
+  }
+ ],
+ "liu-zheng": [
+  {
+   "ep": 58,
+   "realm": "Heavenly Completion, Initial Phase",
+   "detail": "Fan wiki (novel); beats two Heavenly Transformation seniors before losing to Luo Li",
+   "conf": "low",
+   "note": "Wiki infobox: Heavenly Completion Initial (no chapter). EP58: he beats Xu Huang (Heavenly Transformation) and Su Xuan (middle Heavenly Transformation). Not stated in subs."
+  }
+ ],
+ "ji-xuan": [
+  {
+   "ep": 81,
+   "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+   "detail": "Holy Spiritual Academy Holy Sons have \"at least passed\" the Spiritual Energy Disaster",
+   "conf": "medium",
+   "note": "EP81 584-586 \"Holy Spiritual Academy invests a lot into training their Holy Sons. They've at least passed the Tribulation of Spiritual Power.\" Ji Xuan is a Holy Son (EP86 737 after he kills Cao Gang: \"One Holy Son is enough\"), and he breaks Cao Gang's (Spiritual Energy Disaster card, EP80) Holy Aura Shield in EP86. This is a floor. The wiki's peak 2nd-grade Spirit Disaster is novel ch581, beyond the show, so not used."
+  }
+ ],
+ "dong-yuan": [
+  {
+   "ep": 71,
+   "realm": "Three Sovereign Disasters, Human Body Disaster",
+   "detail": "Fan wiki (novel): at the Human Body Disaster when he joins the Holy Spiritual Mountain contest",
+   "conf": "low",
+   "note": "Wiki table: Human Body Disaster, novel ch399 (ch390=EP70, ch446=EP79 -> ~EP71). EP71 subs list him with Liu Ying and Zhou Xuan (who once failed the Human Body Disaster) as trial contenders; no realm on his card."
+  }
+ ],
+ "tang-mei-er": [
+  {
+   "ep": 82,
+   "realm": "Three Sovereign Disasters, Human Body Disaster",
+   "detail": "Fan wiki (novel): past the Human Body Disaster, on the verge of the Spiritual Energy Disaster",
+   "conf": "low",
+   "note": "Wiki table: \"Quasi Spiritual Energy Disaster\", novel ch465 (~EP82 by ch446=EP79, ch494=EP88); she is slightly stronger than Mo Xingtian (peak Human Body Disaster) and failed her first try at the Spiritual Energy Disaster. Recorded as Human Body Disaster (not yet through the second). Not stated in subs."
+  }
+ ],
+ "zhen-qing": [
+  {
+   "ep": 85,
+   "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+   "detail": "Fan wiki (novel): at the Spiritual Energy Disaster when he turns on Xia Hou",
+   "conf": "low",
+   "note": "Wiki table: Spiritual Energy Disaster, novel ch478 (~EP85). Subs EP85: he drains Xia Hou, who has passed the Spiritual Energy Disaster (EP82/84). No realm stated for him."
+  }
+ ],
+ "luo-tianshen": [
+  {
+   "ep": 59,
+   "realm": "Earth Sovereign",
+   "detail": "The Luo race's only Earth Sovereign",
+   "conf": "medium",
+   "note": "EP59 205-214 (Xue Shi): \"When Luo Tianshen dies, and your race doesn't have anyone at the Earth Supreme Lord Realm, our Blood race will surely slaughter...\" Wiki: Greater Earth Sovereign."
+  }
+ ],
+ "mo-you": [
+  {
+   "ep": 75,
+   "realm": "Sovereign",
+   "detail": "A Sovereign whom a third-grade Sovereign could not hold back",
+   "conf": "medium",
+   "note": "EP75 977-991: Liu An (\"my strength as a Third-Rank Supreme Lord\") is asked \"What about Master Mo You and Elder Zhutian? Can you hold them back? And Lord Dragon Fish of Beiming, a Ninth-Rank Supreme Lord.\" Implies Sovereign; grade not stated. Wiki says 1st-grade Sovereign (novel), which sits oddly with the EP75 line, so no grade given."
+  }
+ ],
+ "zhu-tian": [
+  {
+   "ep": 75,
+   "realm": "Sovereign",
+   "detail": "A Sovereign whom a third-grade Sovereign could not hold back",
+   "conf": "medium",
+   "note": "Same EP75 977-991 line as Mo You. EP77-78: he guards Mo You's back against the siege. Wiki: 1st-grade Sovereign (novel); grade left out."
+  }
+ ],
+ "tai-cang": [
+  {
+   "ep": 53,
+   "realm": "Sovereign, 5th Grade",
+   "detail": "Dean of the academy (novel); holds off the Black Dragon Sovereign in EP68",
+   "conf": "low",
+   "note": "Wiki: Fifth Grade Sovereign, novel ch386. The show never names his realm; he steps in against the Black Dragon Sovereign (EP68, EP75) and his rival dean Tian Sheng is a peak 5th-grade Sovereign (EP65 card). (novel)"
+  }
+ ],
+ "principal-xiao": [
+  {
+   "ep": 1,
+   "realm": "Spirit",
+   "detail": "Principal of the Northern Spiritual Academy (novel)",
+   "conf": "low",
+   "note": "Wiki infobox: Spirit Stage. Not stated in subs. (novel)"
+  }
+ ],
+ "teacher-xi": [
+  {
+   "ep": 1,
+   "realm": "Spirit",
+   "detail": "Head instructor of the West Branch (novel)",
+   "conf": "low",
+   "note": "Wiki: Spirit Stage, unknown phase, novel ch24. Not in subs. (novel)"
+  }
+ ],
+ "old-man-qin": [
+  {
+   "ep": 2,
+   "realm": "Spiritual Rotation, Peak of Late Phase",
+   "detail": "Keeper of the Spiritual Arts Room; half a step from Spirit (novel)",
+   "conf": "low",
+   "note": "Wiki: Peak of Late Phase Spiritual Rotation (half-step Spirit), novel ch20. (novel)"
+  }
+ ],
+ "zhou-ye": [
+  {
+   "ep": 2,
+   "realm": "Spirit, Initial Phase",
+   "detail": "One of the few Spirit-stage experts of the Northern Spiritual Realm (novel)",
+   "conf": "low",
+   "note": "Wiki: Spirit Initial, novel ch50. EP2 37 \"the same Divine Soul Level as you\" is Zhou Ye speaking to Mu Feng, not about himself. (novel)"
+  }
+ ],
+ "liu-ming": [
+  {
+   "ep": 3,
+   "realm": "Spiritual Rotation, Peak of Late Phase",
+   "detail": "Third master of the Liu Realm (novel)",
+   "conf": "low",
+   "note": "Wiki: Peak of Late Phase Spiritual Rotation, novel ch34. (novel)"
+  }
+ ],
+ "ji-zong": [
+  {
+   "ep": 5,
+   "realm": "Spiritual Rotation, Initial Phase",
+   "detail": "Rank-1 array master who fights above his realm with arrays (novel)",
+   "conf": "low",
+   "note": "Wiki: Spiritual Rotation Initial, novel ch43. EP5 has no subs. (novel)"
+  }
+ ],
+ "lin-zhong": [
+  {
+   "ep": 5,
+   "realm": "Spiritual Movement, Peak of Late Phase",
+   "detail": "Thunderstorm Team adventurer (novel)",
+   "conf": "low",
+   "note": "Wiki: Peak of Late Phase Spiritual Movement, novel ch27. (novel)"
+  }
+ ],
+ "xue-tu": [
+  {
+   "ep": 5,
+   "realm": "Spiritual Rotation, Peak of Late Phase",
+   "detail": "Captain of the Blood Slaughter Group (novel)",
+   "conf": "low",
+   "note": "Wiki: Peak of Late Phase Spiritual Rotation, novel ch38. EP8 146 only compares him to the King of Ice Spirit Apes. (novel)"
+  }
+ ],
+ "chen-xiong": [
+  {
+   "ep": 10,
+   "realm": "Spiritual Rotation",
+   "detail": "City Lord of Xiong City (novel)",
+   "conf": "low",
+   "note": "Wiki infobox: Spiritual Rotation Stage, no phase. (novel)"
+  }
+ ],
+ "tang-shan": [
+  {
+   "ep": 15,
+   "realm": "Spirit, Middle Phase",
+   "detail": "Lord of the Tang Territory; at the peak of middle Spirit (novel)",
+   "conf": "low",
+   "note": "Wiki infobox: Spirit Stage - Peak of Middle Phase. (novel)"
+  }
+ ],
+ "lei-shan": [
+  {
+   "ep": 19,
+   "realm": "Spirit, Initial Phase",
+   "detail": "Leader of Nine Dragon City (novel)",
+   "conf": "low",
+   "note": "Wiki: Spirit Initial, novel ch99. EP19 has no subs. (novel)"
+  }
+ ],
+ "lie-yan": [
+  {
+   "ep": 21,
+   "realm": "Spirit, Middle Phase",
+   "detail": "Lord of the Lie Territory (novel)",
+   "conf": "low",
+   "note": "Wiki infobox: Spirit Middle Phase. (novel)"
+  }
+ ],
+ "mu-gu": [
+  {
+   "ep": 63,
+   "realm": "Heavenly Completion, Middle Phase",
+   "detail": "3rd on the Bounty Board (novel)",
+   "conf": "low",
+   "note": "Wiki: Heavenly Completion Middle, novel ch359 (~EP62-63). EP63 subs give only his bounty rank. (novel)"
+  }
+ ],
+ "gui-xiong": [
+  {
+   "ep": 63,
+   "realm": "Heavenly Completion, Middle Phase",
+   "detail": "4th on the Bounty Board (novel)",
+   "conf": "low",
+   "note": "Wiki: Heavenly Completion Middle, novel ch359. EP63 616 gives only his bounty rank. (novel)"
+  }
+ ],
+ "wu-jia": [
+  {
+   "ep": 63,
+   "realm": "Heavenly Transformation, Late Phase",
+   "detail": "5th on the Bounty Board; a Rank-5 array master (novel)",
+   "conf": "low",
+   "note": "Wiki: late Heavenly Transformation at ch359 (start), Heavenly Completion Initial at ch373 (~EP66-67, not recorded: EP67 has no subs and the show never says it). EP66: Mu Chen at late Heavenly Transformation matches him hand to hand; his formation has killed 13 Heavenly Completion experts. (novel)"
+  }
+ ],
+ "dong-ming": [
+  {
+   "ep": 75,
+   "realm": "Sovereign",
+   "detail": "President of the Heavenly Yuan Chamber; pins down Mo You and Zhu Tian over a game of go (novel)",
+   "conf": "low",
+   "note": "Wiki: Sovereign Stage, novel ch422. EP75/78: he occupies the two Sovereign elders during the siege. (novel)"
+  }
+ ],
+ "xia-tianyan": [
+  {
+   "ep": 76,
+   "realm": "Sovereign",
+   "detail": "President of the Nine Summers Chamber of Commerce (novel)",
+   "conf": "low",
+   "note": "Wiki: Sovereign Stage. Not stated in subs. (novel)"
+  }
+ ],
+ "futu-xuan": [
+  {
+   "ep": 78,
+   "realm": "Heavenly Sovereign, Saint Grade, Middle Phase",
+   "detail": "Former Grand Elder of the Ancient Pagoda Clan (novel)",
+   "conf": "low",
+   "note": "Wiki: Saint Grade Heavenly Sovereign, Middle Phase. EP78 only addresses him as the Grand Elder. (novel)"
+  }
+ ],
+ "xiao-yan": [
+  {
+   "ep": 53,
+   "realm": "Heavenly Sovereign, Saint Grade, Late Phase",
+   "detail": "The Flame Emperor; EP43 says he made a Heavenly Sovereign ancestor afraid. Top of this world's scale (novel)",
+   "conf": "low",
+   "note": "Show: EP43 957-972 \"a young man from a lowly world could make the Flame Spirit Race's ancestor at the Heavenly Supreme Lord Level afraid\"; EP53 card \"[Flame Emperor]\". Wiki (TGR novel): Saint Grade Heavenly Sovereign Late Phase when he appears, Ruler only at the novel's end - not used. (novel)"
+  }
+ ],
+ "yao-chen": [
+  {
+   "ep": 53,
+   "realm": "Heavenly Sovereign, Late Phase",
+   "detail": "Xiao Yan's teacher; a late-phase Heavenly Sovereign (novel)",
+   "conf": "low",
+   "note": "Wiki (TGR novel): \"Immortal Grade Heavenly Sovereign - Late Phase\"; the show gives only his name card (EP53). (novel)"
+  }
+ ],
+ "cai-lin": [
+  {
+   "ep": 54,
+   "realm": "Heavenly Sovereign, Saint Grade",
+   "detail": "Xiao Yan's wife, the Snake-People queen; a Saint-grade Heavenly Sovereign (novel)",
+   "conf": "low",
+   "note": "Wiki (TGR novel): Saint Grade Heavenly Sovereign; never reveals her strength, said to devour Earth Sovereigns. Not stated in subs. (novel)"
+  }
+ ],
+ "lin-dong": [
+  {
+   "ep": 59,
+   "realm": "Heavenly Sovereign, Saint Grade, Late Phase",
+   "detail": "The Martial Ancestor of the Martial Realm; top of this world's scale (novel)",
+   "conf": "low",
+   "note": "Show EP59 614-648: \"the martial ancestor, Lin Dong... a flick of a finger, turning all to dust\"; card \"[Martial Ancestor, Lin Dong]\". Wiki (TGR novel): Saint Grade Heavenly Sovereign Late Phase at the start, Ruler at the end - not used. (novel)"
+  }
+ ],
+ "bloodswine-tiger": [
+  {
+   "ep": 2,
+   "realm": "Spiritual Movement, Middle Phase",
+   "detail": "Low-rank beast of the Northern Spiritual Field (novel)",
+   "conf": "low",
+   "note": "Wiki: comparable to Spiritual Movement Middle Phase. (novel)"
+  }
+ ],
+ "one-horned-panther-dragon": [
+  {
+   "ep": 5,
+   "realm": "Spiritual Rotation, Initial Phase",
+   "detail": "Middle-rank beast, cub of the Silver-Horned Panther Dragon (novel)",
+   "conf": "low",
+   "note": "Wiki: comparable to Spiritual Rotation Initial. (novel)"
+  }
+ ],
+ "conflagration-ape": [
+  {
+   "ep": 6,
+   "realm": "Spiritual Movement, Late Phase",
+   "detail": "Low-rank beasts; the strongest adults reach late Spiritual Movement (novel)",
+   "conf": "low",
+   "note": "Wiki: strongest comparable to late Spiritual Movement. EP6 has no subs. (novel)"
+  }
+ ],
+ "conflagration-ape-king": [
+  {
+   "ep": 6,
+   "realm": "Spiritual Rotation, Middle Phase",
+   "detail": "Middle-rank beast guarding the Jaded Essence Tree (novel)",
+   "conf": "low",
+   "note": "Wiki: middle Spiritual Rotation at the start, advances to late during the fight with Mu Chen and the Thunderstorm Team (novel ch31; EP5-7/9 have no subs, so the jump is not placed). (novel)"
+  }
+ ],
+ "aquablaze-crane": [
+  {
+   "ep": 8,
+   "realm": "Spirit, Middle Phase",
+   "detail": "High-rank beast of the Black Eerie Swamp (novel)",
+   "conf": "low",
+   "note": "Wiki: comparable to Spirit Middle, strongest of the three beasts lured against the Mu Territory. (novel)"
+  }
+ ],
+ "blacksteel-beast": [
+  {
+   "ep": 8,
+   "realm": "Spirit, Initial Phase",
+   "detail": "High-rank beast of the Black Eerie Swamp (novel)",
+   "conf": "low",
+   "note": "Wiki: comparable to Spirit Initial. (novel)"
+  }
+ ],
+ "purple-winged-lion": [
+  {
+   "ep": 8,
+   "realm": "Spirit, Initial Phase",
+   "detail": "High-rank beast of the Black Eerie Swamp (novel)",
+   "conf": "low",
+   "note": "Wiki: comparable to Spirit Initial. (novel)"
+  }
+ ],
+ "black-poison-crocodile": [
+  {
+   "ep": 11,
+   "realm": "Spiritual Rotation, Initial Phase",
+   "detail": "Middle-rank beasts of the Black Poison Marsh (novel)",
+   "conf": "low",
+   "note": "Wiki: comparable to Spiritual Rotation Initial. (novel)"
+  }
+ ],
+ "devouring-spirit-bee": [
+  {
+   "ep": 11,
+   "realm": "Spiritual Movement, Initial Phase",
+   "detail": "Low-rank swarm beasts of the Black Eerie Swamp (novel)",
+   "conf": "low",
+   "note": "Wiki: comparable to Spiritual Movement Initial. (novel)"
+  }
+ ],
+ "black-eerie-serpent": [
+  {
+   "ep": 12,
+   "realm": "Spiritual Rotation, Middle Phase",
+   "detail": "Middle-rank beast of the Black Eerie Swamp (novel)",
+   "conf": "low",
+   "note": "Wiki: comparable to Spiritual Rotation Middle. EP12 has no subs. (novel)"
+  }
+ ],
+ "double-headed-hellhound": [
+  {
+   "ep": 23,
+   "realm": "Heavenly Fusion",
+   "detail": "Liu Jingshan's beast spirit, forged with Heavenly Fusion strength",
+   "conf": "low",
+   "note": "EP23 164-177: card \"No. 98 on the earth list of beasts, Double-headed Demon Dog\"; \"The spiritual beast spirit forged with the strength at the Fusion of Heaven Level is so powerful... much stronger than that forged at the Divine Soul Level.\" Its power is its master's (Liu Jingshan, Heavenly Fusion), so low confidence."
+  }
+ ],
+ "geocentric-flame-jalapura": [
+  {
+   "ep": 29,
+   "realm": "Heavenly Fusion, Initial Phase",
+   "detail": "Heaven-level beast, 70th on the Earth list (novel)",
+   "conf": "low",
+   "note": "Wiki: comparable to Heavenly Fusion Initial. EP29 card \"70th place on the earth list of beasts, Flame Spirit Lizard\"; the review has the Frost Spirit Dragon (73rd) showing early Heavenly Fusion strength in the same fight. (novel)"
+  }
+ ],
+ "mountain-devouring-python": [
+  {
+   "ep": 36,
+   "realm": "Heavenly Fusion, Initial Phase",
+   "detail": "A young heaven-rank beast, 86th on the Myriad Beast Record (novel)",
+   "conf": "low",
+   "note": "Wiki: comparable to Heavenly Fusion Initial. EP36 230: an adult could contend with late Heavenly Fusion, but this one is young - consistent. (novel)"
+  }
+ ]
+}

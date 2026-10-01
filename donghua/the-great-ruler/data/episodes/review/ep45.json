@@ -1,0 +1,72 @@
+{
+  "ep": 45,
+  "title": "Ambush on the White Dragon Hill",
+  "summary": "With news of a Sovereign's treasure spreading, Su Xuan offers to turn back, but the team presses on to the White Dragon Hill. At night Dragon Demon Guards lure Su Xuan away and four late-phase Heavenly Fusion attackers go for the others; Mu Chen hides the injured Su Ling'er and leads the pursuers off, then turns on them with the Great Buddha Art and kills them all. The attackers carry the Dragon Demon Palace's mark, and Su Xuan explains the old war between the Dragon Demon Palace and the Northern Heaven Spiritual Academy, and why Shen Cangsheng hunts Mo Longzi. At the site where the White Dragon Sovereign died, his image appears in the sky as the treasure's entrance opens, and Bai Dong taunts Mu Chen. Inside, the team is scattered; Jiuyou points Mu Chen to Flame Spiritual Lotuses and the hope of a Flame Immortal Lotus, guarded by Flame-Devouring Pythons, and Bai Dong's party finds him.",
+  "events": [
+    "The team decides to continue despite the danger",
+    "Dragon Demon Guards lure Su Xuan away and ambush the rest",
+    "Mu Chen draws off and kills the four late-phase Heavenly Fusion attackers",
+    "The Dragon Demon Palace's mark is found; Su Xuan explains the feud",
+    "The White Dragon Sovereign's image appears as the treasure opens",
+    "The team is split up inside; Mu Chen finds Flame Spiritual Lotuses and a Flame-Devouring Python",
+    "Bai Dong corners Mu Chen"
+  ],
+  "introduced": [
+    "Dragon Demon Palace (Demonic Dragon Palace)",
+    "Flame Spiritual Lotus",
+    "Flame Immortal Lotus",
+    "Flame-Devouring Python"
+  ],
+  "cultivation": "The attackers are four people at Heavenly Fusion, Late Phase (Bai Dong later says ten were sent); Mu Chen, at initial-phase Heavenly Fusion, kills them himself.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen"
+    },
+    {
+      "id": "su-xuan",
+      "name": "Su Xuan"
+    },
+    {
+      "id": "su-ling-er",
+      "name": "Su Ling'er"
+    },
+    {
+      "id": "an-ran",
+      "name": "An Ran"
+    },
+    {
+      "id": "mu-kui",
+      "name": "Mu Kui"
+    },
+    {
+      "id": "bai-dong",
+      "name": "Bai Dong"
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You"
+    },
+    {
+      "id": "white-dragon-sovereign",
+      "name": "White Dragon Sovereign",
+      "first": true,
+      "card": 829.0,
+      "note": "Image in the sky over the treasure site"
+    },
+    {
+      "id": null,
+      "name": "Flame-Devouring Python",
+      "first": true,
+      "note": "Guardian beasts of the Flame Spiritual Lotuses"
+    }
+  ],
+  "changes": [
+    "Roster first ep for the White Dragon Sovereign is 48; his image and caption appear here."
+  ],
+  "flags": [
+    "248 'Four guys at the late stage of the Fusion of Heaven Level' and 589 'Ten men at the late stage' are unnamed Dragon Demon Guards.",
+    "'Dragon Demon Palace' is the subtitle name for the site's Demonic Dragon Palace."
+  ]
+}

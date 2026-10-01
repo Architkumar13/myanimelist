@@ -191,48 +191,25 @@
   },
   "5": {
    "kind": "frames",
+   "manual": true,
    "cands": [
     {
      "src": "vid",
-     "ep": 43,
-     "t": 489,
-     "i": 7039
-    },
-    {
-     "src": "vid",
-     "ep": 43,
-     "t": 414,
-     "i": 7022
-    },
-    {
-     "src": "vid",
-     "ep": 37,
-     "t": 261,
-     "i": 6008
-    },
-    {
-     "src": "vid",
-     "ep": 38,
-     "t": 258,
-     "i": 6217
-    },
-    {
-     "src": "vid",
-     "ep": 39,
-     "t": 579,
-     "i": 6453
+     "ep": 36,
+     "t": 876,
+     "i": 5946
     }
    ],
    "chosen": {
     "src": "vid",
-    "ep": 38,
-    "t": 258.5
+    "ep": 36,
+    "t": 877.25
    },
    "face": [
-    1213.3990478515625,
-    181.96119689941406,
-    302.948974609375,
-    479.5827331542969
+    726.6427001953125,
+    192.6351318359375,
+    231.82379150390625,
+    311.5860595703125
    ]
   },
   "6": {
@@ -887,31 +864,8 @@
  "li-xiaoman": {
   "0": {
    "kind": "frames",
+   "manual": true,
    "cands": [
-    {
-     "src": "vid",
-     "ep": 5,
-     "t": 456,
-     "i": 731
-    },
-    {
-     "src": "vid",
-     "ep": 2,
-     "t": 312,
-     "i": 142
-    },
-    {
-     "src": "vid",
-     "ep": 4,
-     "t": 612,
-     "i": 569
-    },
-    {
-     "src": "vid",
-     "ep": 4,
-     "t": 459,
-     "i": 526
-    },
     {
      "src": "vid",
      "ep": 1,
@@ -921,14 +875,14 @@
    ],
    "chosen": {
     "src": "vid",
-    "ep": 5,
-    "t": 455.75
+    "ep": 1,
+    "t": 826.25
    },
    "face": [
-    1244.1380615234375,
-    252.79249572753906,
-    174.90362548828125,
-    225.19577026367188
+    1291.8826904296875,
+    165.44725036621094,
+    225.26466369628906,
+    355.0005798339844
    ]
   },
   "1": {
@@ -2668,48 +2622,25 @@
  "seventh-young-master": {
   "0": {
    "kind": "frames",
+   "manual": true,
    "cands": [
     {
      "src": "vid",
      "ep": 21,
      "t": 291,
      "i": 3429
-    },
-    {
-     "src": "vid",
-     "ep": 21,
-     "t": 210,
-     "i": 3411
-    },
-    {
-     "src": "vid",
-     "ep": 21,
-     "t": 165,
-     "i": 3401
-    },
-    {
-     "src": "vid",
-     "ep": 21,
-     "t": 252,
-     "i": 3421
-    },
-    {
-     "src": "vid",
-     "ep": 21,
-     "t": 243,
-     "i": 3418
     }
    ],
    "chosen": {
     "src": "vid",
     "ep": 21,
-    "t": 250.75
+    "t": 292.0
    },
    "face": [
-    805.8552856445312,
-    193.74819946289062,
-    145.73974609375,
-    198.96168518066406
+    950.142333984375,
+    245.201904296875,
+    241.83184814453125,
+    358.6529541015625
    ]
   }
  },
@@ -4534,6 +4465,414 @@
    "ep": 181,
    "t": 616.0,
    "manual": true
+  }
+ },
+ "chen-feng-star-peak": {
+  "0": {
+   "kind": "none",
+   "note": "not clearly on screen near the name card / dialogue",
+   "manual": true
+  }
+ },
+ "jiang-ming": {
+  "0": {
+   "kind": "ak",
+   "ep": 55,
+   "t": 321.3,
+   "auto": "name card"
+  }
+ },
+ "ji-ren": {
+  "0": {
+   "kind": "ak",
+   "ep": 59,
+   "t": 1143.4,
+   "auto": "name card"
+  }
+ },
+ "yaoguang-holy-lord": {
+  "0": {
+   "kind": "ak",
+   "ep": 62,
+   "t": 336.2,
+   "auto": "name card"
+  }
+ },
+ "lao-dawei": {
+  "0": {
+   "kind": "none",
+   "note": "not clearly on screen near the name card / dialogue",
+   "manual": true
+  }
+ },
+ "yaoguang-elder-li": {
+  "0": {
+   "kind": "ak",
+   "ep": 67,
+   "t": 250.4,
+   "auto": "name card"
+  }
+ },
+ "jiang-yi": {
+  "0": {
+   "kind": "ak",
+   "ep": 67,
+   "t": 334.0,
+   "auto": "name card"
+  }
+ },
+ "liu-chengen": {
+  "0": {
+   "kind": "ak",
+   "ep": 73,
+   "t": 436.2,
+   "auto": "name card"
+  }
+ },
+ "qingxia-sect-master": {
+  "0": {
+   "kind": "ak",
+   "ep": 75,
+   "t": 238.4,
+   "auto": "name card"
+  }
+ },
+ "lihuo-sect-master": {
+  "0": {
+   "kind": "ak",
+   "ep": 75,
+   "t": 976.5,
+   "auto": "name card"
+  }
+ },
+ "li-desheng": {
+  "0": {
+   "kind": "ak",
+   "ep": 78,
+   "t": 344.0,
+   "manual": true
+  }
+ },
+ "situ-feng": {
+  "0": {
+   "kind": "ak",
+   "ep": 83,
+   "t": 848.3,
+   "manual": true
+  }
+ },
+ "ji-yunfeng": {
+  "0": {
+   "kind": "ak",
+   "ep": 83,
+   "t": 868.8,
+   "manual": true
+  }
+ },
+ "ji-yunlin": {
+  "0": {
+   "kind": "ak",
+   "ep": 83,
+   "t": 898.7,
+   "auto": "name card"
+  }
+ },
+ "jin-yan": {
+  "0": {
+   "kind": "ak",
+   "ep": 84,
+   "t": 820.6,
+   "auto": "name card"
+  }
+ },
+ "elder-niu": {
+  "0": {
+   "kind": "ak",
+   "ep": 84,
+   "t": 946.8,
+   "auto": "name card"
+  }
+ },
+ "tuoba-chang": {
+  "0": {
+   "kind": "ak",
+   "ep": 103,
+   "t": 490.8,
+   "auto": "name card"
+  }
+ },
+ "li-rui": {
+  "0": {
+   "kind": "ak",
+   "ep": 138,
+   "t": 577.7,
+   "focus": [
+    0.485,
+    0.268,
+    0.156
+   ],
+   "manual": true
+  }
+ },
+ "dark-night-king": {
+  "0": {
+   "kind": "ak",
+   "ep": 110,
+   "t": 581.3,
+   "auto": "name card"
+  }
+ },
+ "golden-winged-peng-king": {
+  "0": {
+   "kind": "ak",
+   "ep": 111,
+   "t": 475.1,
+   "auto": "name card"
+  }
+ },
+ "feng-lie": {
+  "0": {
+   "kind": "ak",
+   "ep": 111,
+   "t": 965.4,
+   "auto": "dialogue"
+  }
+ },
+ "ye-huiling": {
+  "0": {
+   "kind": "ak",
+   "ep": 118,
+   "t": 583.0,
+   "manual": true
+  }
+ },
+ "wang-chongxiao": {
+  "0": {
+   "kind": "ak",
+   "ep": 118,
+   "t": 585.5,
+   "manual": true
+  }
+ },
+ "guhua-emperor": {
+  "0": {
+   "kind": "ak",
+   "ep": 119,
+   "t": 784.6,
+   "auto": "name card"
+  }
+ },
+ "yin-yang-holy-maiden": {
+  "0": {
+   "kind": "ak",
+   "ep": 119,
+   "t": 248.9,
+   "auto": "name card"
+  }
+ },
+ "zhao-fa": {
+  "0": {
+   "kind": "ak",
+   "ep": 127,
+   "t": 431.0,
+   "auto": "name card"
+  }
+ },
+ "yin-yang-holy-son": {
+  "0": {
+   "kind": "ak",
+   "ep": 130,
+   "t": 575.6,
+   "auto": "dialogue"
+  }
+ },
+ "taiyang-king": {
+  "0": {
+   "kind": "ak",
+   "ep": 132,
+   "t": 1120.2,
+   "auto": "name card"
+  }
+ },
+ "gao-linfeng": {
+  "0": {
+   "kind": "ak",
+   "ep": 132,
+   "t": 1117.6,
+   "auto": "name card"
+  }
+ },
+ "jiang-huairen": {
+  "0": {
+   "kind": "ak",
+   "ep": 134,
+   "t": 214.7,
+   "focus": [
+    0.476,
+    0.38,
+    0.393
+   ],
+   "manual": true
+  }
+ },
+ "jiang-huaian": {
+  "0": {
+   "kind": "ak",
+   "ep": 134,
+   "t": 318.8,
+   "auto": "name card"
+  }
+ },
+ "ouyang-ye": {
+  "0": {
+   "kind": "ak",
+   "ep": 135,
+   "t": 746.3,
+   "manual": true
+  }
+ },
+ "wanchu-holy-lord": {
+  "0": {
+   "kind": "ak",
+   "ep": 135,
+   "t": 645.7,
+   "auto": "name card"
+  }
+ },
+ "queen-mother-of-the-west": {
+  "0": {
+   "kind": "ak",
+   "ep": 136,
+   "t": 244.9,
+   "auto": "name card"
+  }
+ },
+ "ou-luotian": {
+  "0": {
+   "kind": "ak",
+   "ep": 139,
+   "t": 234.5,
+   "auto": "name card"
+  }
+ },
+ "xiao-mingyuan": {
+  "0": {
+   "kind": "ak",
+   "ep": 141,
+   "t": 432.8,
+   "auto": "name card"
+  }
+ },
+ "yan-yunluan": {
+  "0": {
+   "kind": "ak",
+   "ep": 142,
+   "t": 908.2,
+   "auto": "name card"
+  }
+ },
+ "blind-old-man-of-heaven": {
+  "0": {
+   "kind": "ak",
+   "ep": 144,
+   "t": 306.1,
+   "auto": "name card"
+  }
+ },
+ "wang-chong": {
+  "0": {
+   "kind": "ak",
+   "ep": 145,
+   "t": 888.7,
+   "auto": "name card"
+  }
+ },
+ "golden-crow-ninth-prince": {
+  "0": {
+   "kind": "ak",
+   "ep": 160,
+   "t": 346.6,
+   "auto": "name card"
+  }
+ },
+ "golden-crow-first-prince": {
+  "0": {
+   "kind": "ak",
+   "ep": 161,
+   "t": 225.2,
+   "auto": "name card"
+  }
+ },
+ "heavenly-demon-granny": {
+  "0": {
+   "kind": "ak",
+   "ep": 164,
+   "t": 531.5,
+   "auto": "name card"
+  }
+ },
+ "taiyin-divine-son": {
+  "0": {
+   "kind": "ak",
+   "ep": 164,
+   "t": 1038.1,
+   "auto": "name card"
+  }
+ },
+ "golden-crow-king": {
+  "0": {
+   "kind": "ak",
+   "ep": 168,
+   "t": 766.7,
+   "auto": "name card"
+  }
+ },
+ "qing-niu": {
+  "0": {
+   "kind": "ak",
+   "ep": 170,
+   "t": 546.0,
+   "auto": "name card"
+  }
+ },
+ "dongfang-man": {
+  "0": {
+   "kind": "ak",
+   "ep": 171,
+   "t": 871.1,
+   "auto": "name card"
+  }
+ },
+ "wang-chengtian": {
+  "0": {
+   "kind": "ak",
+   "ep": 173,
+   "t": 220.0,
+   "auto": "name card"
+  }
+ },
+ "wang-lie": {
+  "0": {
+   "kind": "ak",
+   "ep": 174,
+   "t": 638.3,
+   "auto": "name card"
+  }
+ },
+ "dark-demon-king": {
+  "0": {
+   "kind": "ak",
+   "ep": 175,
+   "t": 64.4,
+   "auto": "name card"
+  }
+ },
+ "divine-spirit-valley-ancestral-king": {
+  "0": {
+   "kind": "ak",
+   "ep": 182,
+   "t": 570.4,
+   "auto": "name card"
   }
  }
 }

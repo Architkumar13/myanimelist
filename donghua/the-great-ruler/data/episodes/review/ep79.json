@@ -1,0 +1,114 @@
+{
+  "ep": 79,
+  "title": "The Thunder Realm and a trip home",
+  "summary": "The academy raises memorial tablets for the fallen, including Su Ling'er, and Tai Cang laments the losses, the equal-for-all philosophy that deters geniuses, and the long-sealed North Heaven Gate; Shen Cangsheng and the students demand he open it. The top ten of the Heavenly Ranking go into the North Heaven Gate for half a year, while Lord Beiming takes Mu Chen for three months of body tempering in the Thunder Realm, telling him the North Heaven Continent may be a piece on someone's chessboard. Mu Chen comes out with the Mid-Tier Four-Striped Thunder Body and learns of the Mirror of Judgment, which created the Spiritual Land and is used at the competition's quarterfinals. Ling Xi trains him for the other three months, returning the Yin volume of the Great Buddha Art so he can join both halves, and he accepts her as a sister; she borrows the Spirit Veil Chess from Tai Cang to hide it from his mother's clansmen. Luo Li, who trains in a pressure pool alongside Su Xuan, leaves early to meet him. Mu Chen brings Luo Li home to Mu Realm, tells Mu Feng he saw his mother, and hears that Mu Feng has unified the North Spiritual Territory into the Northern Spiritual Alliance and that Tan Qingshan and Liu Yang have been accepted by the academy.",
+  "events": [
+    "Memorial for the fallen; Su Ling'er's tomb",
+    "Tai Cang opens the North Heaven Gate for the Heavenly Ranking top 10",
+    "Lord Beiming trains Mu Chen in the Thunder Realm",
+    "Mu Chen reaches the Mid-Tier Four-Striped Thunder Body; the Mirror of Judgment",
+    "Ling Xi returns the Yin volume and they become sister and brother",
+    "Luo Li leaves the pool early to meet Mu Chen",
+    "Mu Chen takes Luo Li home to meet Mu Feng",
+    "Mu Feng has unified the North Spiritual Territory"
+  ],
+  "introduced": [
+    "Thunder Realm",
+    "Mid-Tier Four-Striped Thunder Body",
+    "Mirror of Judgment",
+    "Spirit Veil Chess",
+    "Northern Spiritual Alliance (under Mu Feng)"
+  ],
+  "cultivation": "Mu Chen reaches the Mid-Tier Four-Striped Thunder Body (caption). No spiritual-energy realm is stated for him in the subs; EP80's name card shows him at late-phase Heavenly Completion, so the jump from the initial phase happens during this half year.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "quote": "[Mid-Tier Four-Striped Thunder Body] (623)",
+      "look": "new look after the Thunder Realm training (623-630)",
+      "first": false
+    },
+    {
+      "id": "northern-sea-dragon",
+      "name": "Northern Sea Dragon",
+      "first": false
+    },
+    {
+      "id": "ling-xi",
+      "name": "Ling Xi",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "su-xuan",
+      "name": "Su Xuan",
+      "first": false
+    },
+    {
+      "id": "su-ling-er",
+      "name": "Su Ling'er",
+      "quote": "[Tomb of Su Ling'er] (228.5)",
+      "look": "memorial tablet; died in EP76"
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "first": false
+    },
+    {
+      "id": "mu-feng",
+      "name": "Mu Feng",
+      "first": false
+    },
+    {
+      "id": "zhou-ye",
+      "name": "Zhou Ye",
+      "first": false
+    },
+    {
+      "id": "qing-yanjing",
+      "name": "Qing Yanjing",
+      "look": "mentioned only"
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan",
+      "look": "mentioned only"
+    },
+    {
+      "id": "old-ancestor-wu-liang",
+      "name": "Old Ancestor Wu Liang",
+      "look": "mentioned only"
+    },
+    {
+      "id": "tan-qingshan",
+      "name": "Tan Qingshan",
+      "look": "mentioned: accepted by the academy (1143)"
+    },
+    {
+      "id": "liu-yang",
+      "name": "Liu Yang",
+      "look": "mentioned: accepted by the academy (1144)"
+    }
+  ],
+  "changes": [
+    "Guide says 'Fourth-Striped (Quadra Rune) Thunder Body': the caption is 'Mid-Tier Four-Striped Thunder Body'.",
+    "The roster puts Mu Chen at late-phase Heavenly Completion in EP79; the subs never say so. Late phase is first stated on his EP80 name card."
+  ],
+  "flags": [
+    "1003-1007 s: 'I didn't expect you to have overcome the Tribulation of...' is cut off; it is Mu Chen and Luo Li meeting after half a year, most likely Mu Chen about Luo Li, but the speaker and the tribulation are unclear. Not recorded; the EP80 and EP88 reviews do not give Luo Li a new realm either.",
+    "1144 s: Liu Yang is called one of Mu Chen's 'friends' accepted by the academy - odd given their history; possibly a loose translation.",
+    "212-248 s: the student mourning at Su Ling'er's tomb is not named.",
+    "1194 s onward is the next-episode preview."
+  ]
+}

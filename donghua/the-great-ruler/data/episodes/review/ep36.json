@@ -1,0 +1,73 @@
+{
+  "ep": 36,
+  "title": "The Spirit Flag on North Spiritual Mountain",
+  "summary": "The freshmen competition is under way on North Spiritual Mountain, where the first freshman to reach the portal and take the Spirit Flag at the summit wins; Li Xuantong, second on the Heavenly Ranking, watches as if someone among the freshmen has caught his eye. Yang Hong's attack on Mu Chen and Luo Li turns out to be aimed at a baby Mountain Devouring Python, 86th on the Earth list, which Mu Chen fights off with the Buddha Hand while a swarm of Hell Beasts closes in. Mu Chen, Luo Li, Yang Hong and Mu Kui reach the portal into a magma cavern where a huge imprisoned beast attacks with magma hands, and Mu Chen works out that stone pillars mark the limit of its reach. He forces a way through, with Yang Hong and Mu Kui close behind, and the group reaches the Spirit Flag. Mu Chen and Yang Hong finally square off, while another contender says they will challenge the winner.",
+  "events": [
+    "The freshmen race for the Spirit Flag on North Spiritual Mountain.",
+    "Li Xuantong appears among the freshmen.",
+    "A baby Mountain Devouring Python attacks; Mu Chen fights it with the Buddha Hand.",
+    "Hell Beasts swarm, and the group flees toward the portal.",
+    "A beast imprisoned under the magma attacks with magma hands; Mu Chen finds the limit of its reach.",
+    "Mu Chen, Luo Li, Yang Hong and Mu Kui break through to the Spirit Flag.",
+    "Mu Chen and Yang Hong begin their duel; another contender waits to challenge the winner."
+  ],
+  "introduced": [
+    "North Spiritual Mountain",
+    "Spirit Flag",
+    "Mountain Devouring Python",
+    "Hell Beast"
+  ],
+  "cultivation": "No realm stated for a named character. An adult Mountain Devouring Python could fight late Heavenly Fusion, but this one is a baby.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "quote": "That's Li Xuantong, who takes the second place on the Heavenly Ranking list. (156)",
+      "first": false
+    },
+    {
+      "id": "mountain-devouring-python",
+      "name": "Mountain Devouring Python",
+      "quote": "[The Mountain Devouring Python: the 86th place on the earth list of beasts] (219); '...just a baby beast' (236)",
+      "first": true,
+      "card": 219.0
+    },
+    {
+      "id": null,
+      "name": "Hell Beast",
+      "first": true,
+      "card": 380.0
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "yang-hong",
+      "name": "Yang Hong",
+      "first": false
+    },
+    {
+      "id": "mu-kui",
+      "name": "Mu Kui",
+      "quote": "The martial arts I've cultivated belong to the wood attribute. (856-858)",
+      "first": false
+    }
+  ],
+  "changes": [
+    "EP35 has no subtitles, so the start of the freshmen competition and Li Xuantong's first on-screen appearance (roster EP35) are not reviewed."
+  ],
+  "flags": [
+    "EP35 subtitles missing; continuity from EP34 to EP36 is unchecked.",
+    "230-231: 'an adult Mountain Devouring Python is strong enough to contend against someone in the late stage of the Fusion of Heaven Level' is about adults; this one is a baby, so no realm recorded.",
+    "942-954: the contender who says 'I'll challenge the winner' is not named (possibly Mu Kui or Bing Qing).",
+    "The magma beast is not named."
+  ]
+}

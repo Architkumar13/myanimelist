@@ -1,0 +1,85 @@
+{
+  "ep": 82,
+  "title": "The ruins and the Holy Spiritual Academy",
+  "summary": "Using Liu Ying's jade slip, Mu Chen suspects someone has seeded the ruins rumour on purpose, but heads there anyway for the Spiritual Fruits and the Yang Wood Spiritual Root. He tells Luo Li he got the cultivation method for the Indestructible Solar Body at the Holy Spirit Mountain and needs the Nine-Yang Ganoderma for it. Luo Li promises to protect him if he takes that path. At the ruins' edge, four of the five great academies argue over sharing, and Captain Xia Hou of the Holy Spiritual Academy sneers at North Heaven's 'Mu Chen', who is really Mu Fengyang standing in for him. Tang Mei'er, captain of the Phoenix team and Tang Qian'er's sister, greets him. When Xia Hou has him tested, the real Mu Chen, posing as a team member, meets the attack palm to palm and takes no injury. Inside the no-fly forest the teams find human bone fragments and living vine constructs, and a hidden killer who speaks of harvesting and fertilizer begins picking off the Phoenix team. Xia Hou then corners Tang Mei'er.",
+  "events": [
+    "Mu Chen and Luo Li discuss the planted jade slips and the Nine-Yang Ganoderma",
+    "Mu Chen tells Luo Li about the Indestructible Solar Body method",
+    "Wu Yingying runs past chasing a 'pervert'",
+    "At the ruins, the academies demand that Xia Hou set the rules; Mu Fengyang poses as Mu Chen",
+    "Tang Mei'er of Phoenix introduces herself; Xia Hou mocks the 'late Heavenly Completion' captain",
+    "The real Mu Chen trades palms (Thunder God's Palm) with a Spiritual Energy Disaster attacker unharmed",
+    "Inside the forest: bone fragments, vine constructs and a hidden harvester; Phoenix members are killed",
+    "Xia Hou corners the weakened Tang Mei'er"
+  ],
+  "introduced": [
+    "Xia Hou (as Holy Spiritual Academy captain)",
+    "Tang Mei'er",
+    "Indestructible Solar Body",
+    "Nine-Yang Ganoderma",
+    "Yang Wood Spiritual Root",
+    "Divine Wood ruins forest"
+  ],
+  "cultivation": "Mu Chen is still at late Heavenly Completion. Xia Hou has passed the Spiritual Energy Disaster (subs: 'Tribulation of Spiritual Power'). Mu Chen's body is said to be far stronger than a Human Body Disaster cultivator's.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Completion, Late Phase",
+      "quote": "A cultivator at the late stage of Completion of Heaven Level is clashing head on with a Tribulation of Spiritual Power cultivator and hasn't suffered a single injury?",
+      "t": 668.0
+    },
+    {
+      "id": "xia-hou",
+      "name": "Xia Hou",
+      "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+      "quote": "Captain Xia Hou ... So what if you've passed the Tribulation of Spiritual Power?",
+      "t": 440.0
+    },
+    {
+      "id": "tang-mei-er",
+      "name": "Tang Mei'er",
+      "first": true
+    },
+    {
+      "id": "zhen-qing",
+      "name": "Zhen Qing",
+      "first": true,
+      "look": "unseen harvester speaking of fertilizer; not named until EP85"
+    },
+    {
+      "id": "wu-yingying",
+      "name": "Wu Yingying"
+    },
+    {
+      "id": "liu-ying",
+      "name": "Liu Ying"
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li"
+    },
+    {
+      "id": "mu-fengyang",
+      "name": "Mu Fengyang"
+    },
+    {
+      "id": "zhao-qingshan",
+      "name": "Zhao Qingshan"
+    },
+    {
+      "id": "tang-qian-er",
+      "name": "Tang Qian'er",
+      "look": "mentioned only"
+    }
+  ],
+  "changes": [
+    "Guide said only 'students trapped and killed, a plot by Zhen Qing'. Added the Solar Body talk, the Xia Hou standoff, the Mu Fengyang decoy and Tang Mei'er's entry. Zhen Qing is not named in this episode."
+  ],
+  "flags": [
+    "464-550 s: the 'Mu Chen' who speaks and is called 'merely at the late stage of the Completion of Heaven Level' is Mu Fengyang in disguise (see 703-716 s). The 668 s line is about the real Mu Chen, who is posing as a team member.",
+    "654 s: the Star-Plucking Jade Palm user is probably Xia Hou, but the subs do not say so outright.",
+    "The harvester's lines ('Decay is the beginning', 763-818 s) are unattributed here; they match Zhen Qing in EP83-85."
+  ]
+}

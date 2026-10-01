@@ -1,0 +1,88 @@
+{
+  "ep": 39,
+  "title": "Top of the Divine Soul Ranking",
+  "summary": "Mu Chen destroys the formation hidden in the puppet guard with Jiuyou's flames and the Great Buddha Art, and Elder Zhu Tian counts it as a pass, letting him keep the Constellation Sutra of Four Gods. Li Xuantong, who is at the Heavenly Transformation Stage, then warns Mu Chen that he is not qualified to be with Luo Li and gives him two months before they fight; Luo Li tells Li Xuantong to stay out of her choices. To get stronger quickly, Jiuyou offers to merge her Jiuyou Flames into his spiritual power, and he needs spirit value to buy the essence and blood of the Dragon Fish of Beiming. Mu Chen climbs the Divine Soul Ranking in one run, taking third from Mo Lun and then first from Su Ling'er. Su Ling'er complains to her sister Su Xuan, third on the Heavenly Ranking, and vows to teach him a lesson.",
+  "events": [
+    "Mu Chen breaks the formation inside the guard and passes",
+    "Zhu Tian lets him keep the Constellation Sutra of Four Gods",
+    "Mu Kui asks for a proper fight once Mu Chen recovers",
+    "Li Xuantong gives Mu Chen two months to leave Luo Li or fight him",
+    "Jiuyou offers to merge the Jiuyou Flames into his spiritual power",
+    "Mu Chen takes first place on the Divine Soul Ranking, knocking off Su Ling'er",
+    "Su Ling'er complains to Su Xuan and swears revenge"
+  ],
+  "introduced": [
+    "Su Ling'er",
+    "Su Xuan",
+    "Divine Soul Ranking (Spirit List)",
+    "Jiuyou Flames",
+    "Dragon Fish of Beiming",
+    "Level 6 Spirit Collecting Formation",
+    "Spirit value"
+  ],
+  "cultivation": "Li Xuantong: Heavenly Transformation (no phase given). Su Ling'er is said to have Heavenly Fusion-level strength. Mu Chen is still below Heavenly Fusion: the flame merge will let him reach it 'sooner'.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "card": 700.0,
+      "note": "Caption at 856.5 reads '[No. 1 of the Divine Soul Ranking, Mu Chen]'"
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "realm": "Heavenly Transformation",
+      "quote": "Li Xuantong is also at the Transformation of Heaven Level.",
+      "t": 182.5
+    },
+    {
+      "id": "su-ling-er",
+      "name": "Su Ling'er",
+      "realm": "Heavenly Fusion",
+      "quote": "possesses the strength of the Fusion of Heaven Level.",
+      "t": 740.0,
+      "first": true,
+      "card": 836.0
+    },
+    {
+      "id": "su-xuan",
+      "name": "Su Xuan",
+      "first": true,
+      "card": 841.5,
+      "note": "Ranks third on the Heavenly Ranking"
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li"
+    },
+    {
+      "id": "zhu-tian",
+      "name": "Zhu Tian"
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You"
+    },
+    {
+      "id": "mu-kui",
+      "name": "Mu Kui"
+    },
+    {
+      "id": "yang-hong",
+      "name": "Yang Hong"
+    },
+    {
+      "id": "mo-lun",
+      "name": "Mo Lun",
+      "note": "Mentioned: Mu Chen took third place from him"
+    }
+  ],
+  "changes": [
+    "Roster gives Li Xuantong 'Heavenly Transformation, Late Phase' from the wiki; the donghua only says Heavenly Transformation here."
+  ],
+  "flags": [
+    "327-362: the freshman who admires Mu Chen and wants a fight is unnamed; 'Thank you, Mu.' (362) is probably a cut-off 'Mu Kui'.",
+    "Su Ling'er's '[Su Linger' card at 836 is half-read; Su Xuan's card at 841.5."
+  ]
+}

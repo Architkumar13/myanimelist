@@ -1,0 +1,83 @@
+{
+  "ep": 51,
+  "title": "Mo Longzi",
+  "summary": "Mu Chen takes the Great Meru Demonic Pillar's evil aura into himself and fights Bai Xuan, keeping his mind with Jiuyou guarding his divine soul while Bai Xuan uses the Blood Beast and Blood Sea Smelting. He kills Bai Xuan, then collapses with the aura eating into his meridians. At the academy, the elders learn Mo Longzi, second on the bounty list, has shown up at the White Dragon Hill and send a rescue team, and Shen Cangsheng, first on the Heavenly Ranking, sets out. Mo Longzi turns out to be Bai Xuan's backup and finds the injured team. Su Xuan and An Ran try to hold him while the others run, and Mu Chen, now spent and using only the power of his blood bond with Jiuyou, faces him. Mo Longzi, impressed that a Heavenly Fusion student killed a Heavenly Transformation expert, draws his Dragon Scale Sword.",
+  "events": [
+    "Mu Chen uses the pillar's evil aura against Bai Xuan",
+    "Jiuyou protects his divine soul and the pillar",
+    "Mu Chen kills Bai Xuan and collapses",
+    "The academy sends a rescue team; Shen Cangsheng sets out",
+    "Mo Longzi, Bai Xuan's backup, catches the wounded team",
+    "Su Xuan and An Ran fight him; Mu Chen steps in with Jiuyou's flame",
+    "Mo Longzi draws the Dragon Scale Sword"
+  ],
+  "introduced": [
+    "Mo Longzi",
+    "Blood Beast",
+    "Blood Sea Smelting",
+    "Dragon Scale Sword"
+  ],
+  "cultivation": "Su Xuan: Heavenly Transformation, Middle Phase (academy elder). Mu Chen is 'just at the Fusion of Heaven Level' yet killed Bai Xuan, 'who was at the Transformation of Heaven Level' (Mo Longzi). Mo Longzi is said to be stronger than Bai Xuan; no realm named.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Fusion",
+      "quote": "You are just at the Fusion of Heaven Level,",
+      "t": 757.0
+    },
+    {
+      "id": "bai-xuan",
+      "name": "Bai Xuan",
+      "realm": "Heavenly Transformation",
+      "quote": "but you killed Bai Xuan, who was at the Transformation of Heaven Level.",
+      "t": 759.0,
+      "note": "Killed by Mu Chen this episode"
+    },
+    {
+      "id": "su-xuan",
+      "name": "Su Xuan",
+      "realm": "Heavenly Transformation, Middle Phase",
+      "quote": "Su Xuan is at the middle stage of the Transformation of Heaven Level.",
+      "t": 104.0
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "first": true,
+      "card": 137.5
+    },
+    {
+      "id": "mo-longzi",
+      "name": "Mo Longzi",
+      "first": true,
+      "card": 594.5,
+      "note": "Second on the bounty list; 'stronger than Bai Xuan'"
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You"
+    },
+    {
+      "id": "an-ran",
+      "name": "An Ran"
+    },
+    {
+      "id": "su-ling-er",
+      "name": "Su Ling'er"
+    },
+    {
+      "id": "mu-kui",
+      "name": "Mu Kui"
+    }
+  ],
+  "changes": [
+    "Roster first eps: Shen Cangsheng 52 and Mo Longzi 67; both are carded here.",
+    "Bai Xuan dies in this episode."
+  ],
+  "flags": [
+    "748-752: the speaker who takes on Mo Longzi is not named; 'The flame is not bad' and the reply 'You are just at the Fusion of Heaven Level, but you killed Bai Xuan' make it Mu Chen.",
+    "Shen Cangsheng's card (137.5) is at the academy, not at the fight."
+  ]
+}

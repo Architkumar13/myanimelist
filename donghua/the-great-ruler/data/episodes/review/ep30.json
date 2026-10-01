@@ -1,0 +1,61 @@
+{
+  "ep": 30,
+  "title": "Blood Connection",
+  "summary": "Luo Li arrives at the Ice Valley asking for Mu Chen. Mu Chen lowers the flower cage's hold so the Jiuyou Bird can fight, and between them they take the spirits of both the Frost Spirit Dragon and the Flame Spirit Lizard. With Jiuyou spent, he tricks the Spirit-level pursuers with an ordinary beast spirit and escapes under Qin Zheng's nose, while Luo Li shows a Level 8 mark and follows his trail. The Jiuyou Bird devours both spirits, but their cold and hot energy clash, and the black paper (the flower cage) moves to erase her. Mu Chen shields her inside its light net, and she tells him the only way out is a blood connection that binds their lives and power. He agrees without hesitation, and the connection succeeds.",
+  "events": [
+    "Luo Li asks after Mu Chen at the Ice Valley.",
+    "Mu Chen lets the Jiuyou Bird out; together they take both heaven-level spirits.",
+    "He fools the pursuers with an ordinary beast spirit and escapes Qin Zheng.",
+    "Luo Li shows a Level 8 mark to a would-be robber and follows Mu Chen.",
+    "The two incompatible spirits backfire on the Jiuyou Bird; the black paper attacks her.",
+    "Mu Chen protects her inside the light net.",
+    "They perform the blood connection and it succeeds."
+  ],
+  "introduced": [
+    "Blood connection",
+    "black paper (the flower cage / datura flower)",
+    "Qin Zheng"
+  ],
+  "cultivation": "No realm stated for a named character. The pursuers are said to be at Spirit.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "look": "Absorbs the Frost Spirit Dragon and Flame Spirit Lizard spirits; blood-connected to Mu Chen",
+      "first": false
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "quote": "A Level 8 mark. (392)",
+      "first": false
+    },
+    {
+      "id": "qin-zheng",
+      "name": "Qin Zheng",
+      "quote": "He even escaped under Qin Zheng's nose. (362)",
+      "first": false
+    },
+    {
+      "id": "mysterious-spirithail-dragon",
+      "name": "Mysterious Spirithail Dragon",
+      "first": false
+    },
+    {
+      "id": "geocentric-flame-jalapura",
+      "name": "Geocentric Flame Jalapura",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "270: 'These people are at the Divine Soul Level' is about the pursuing group in general; not recorded per person.",
+    "80: the subs call the flower cage the 'datura flower' here and the 'black paper' later."
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "ep": 55,
+  "title": "The Three Generals of the Penalty Hall",
+  "summary": "Mu Chen secures the third and final spot to challenge the Three Generals of the Penalty Hall after killing the Spirit King. Shen Cangsheng and Li Xuantong brief him on Gu Tianyan (Heavenly Flame Divine Art), Zhou Qingshan (Invincible Divine Art, never beaten at the same level) and Lin Zheng, a former first on the Heavenly Ranking. At the camp market Mu Chen buys Luo Li a stone for 200,000; it is a Divine Forging Stone, and she uses it to break the first of three seals Luo Tianshen placed on the Luo Divine Sword. In the first round Li Xuantong accepts Zhou Qingshan's ten-move rule, loses his senses to an illusion, and breaks it with a five-tone, five-element sword; Zhou concedes. Shen Cangsheng then beats Lin Zheng with a feint that costs him a light arm injury and is hailed as the true No. 1 of North Heaven. Mu Chen steps up against Gu Tianyan: Heavenly Flame Dragon Halberd against the Black Tortoise Divine Seal.",
+  "events": [
+    "Mu Chen takes the final challenger spot.",
+    "Shen Cangsheng and Li Xuantong brief him on the Three Generals.",
+    "Mu Chen buys the Divine Forging Stone; Luo Li breaks the Luo Divine Sword's first seal.",
+    "Li Xuantong beats Zhou Qingshan's ten-move illusion.",
+    "Shen Cangsheng defeats Lin Zheng.",
+    "Mu Chen begins his fight with Gu Tianyan."
+  ],
+  "introduced": [
+    "Gu Tianyan",
+    "Zhou Qingshan",
+    "Lin Zheng",
+    "Heavenly Flame Divine Art",
+    "Invincible Divine Art",
+    "Divine Forging Stone",
+    "Luo Divine Sword seals",
+    "Heavenly Flame Dragon Halberd",
+    "Constellation Sutra of Four Gods - Black Tortoise Divine Seal"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "look": "Luo Divine Sword with its first seal broken",
+      "first": false
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "first": false
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "first": false
+    },
+    {
+      "id": "zhou-qingshan",
+      "name": "Zhou Qingshan",
+      "first": true
+    },
+    {
+      "id": "lin-zheng",
+      "name": "Lin Zheng",
+      "quote": "'was once ranked first on the Heavenly Ranking' (138) - rank only",
+      "first": true
+    },
+    {
+      "id": "gu-tianyan",
+      "name": "Gu Tianyan",
+      "first": true
+    },
+    {
+      "id": "su-xuan",
+      "name": "Su Xuan",
+      "first": false
+    },
+    {
+      "id": "su-ling-er",
+      "name": "Su Ling'er",
+      "quote": "'Sister, how's your injury?' (49) - to Su Xuan, identity inferred",
+      "first": false
+    },
+    {
+      "id": "luo-tianshen",
+      "name": "Luo Tianshen",
+      "quote": "mentioned: 'Grandpa has set three layers of seals on the sword.' (355.5)",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Roster/wiki give Lin Zheng middle and Zhou Qingshan / Gu Tianyan initial Heavenly Completion from EP55; no realm is stated in these subtitles."
+  ],
+  "flags": [
+    "No realm statements this episode. 'Never been defeated by anyone at the same level' (133.5) says nothing about Zhou Qingshan's level.",
+    "1040: Gu Tianyan's 'You might have had a slim chance in your previous state' - no realm named.",
+    "1-35: recap of EP54."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "ep": 64,
+  "title": "Chi Yu and Mao Jiang",
+  "summary": "Scattered by Wu Jia's formations, which drain the Penalty Hall students to feed themselves, Mu Chen and Luo Li suspect they, not Shen Cangsheng and Li Xuantong, are the real targets. Chi Yu and Mao Jiang find them; Mao Jiang recognises Mu Chen as a Heavenly Transformation cultivator, and he beats her with the Constellation Sutra of Four Gods while Luo Li wrecks Chi Yu. Mu Gu attacks from ambush and flees. They reach Zhou Qingshan, who has been worn down, and Wu Jia turns up and consumes the Heavenly Completion Mao Jiang to feed his formation. Luo Li holds Wu Jia off while Mu Chen finds Shen Cangsheng and Li Xuantong, who are too poisoned to cure themselves. After the Jiuyou Flames prove too slow, Mu Chen uses the Immortal Fire and recognises the poison as Ji Xuan's. Luo Li tells Wu Jia she will break his formation in three breaths.",
+  "events": [
+    "Wu Jia's formations scatter and drain the rescuers.",
+    "Chi Yu and Mao Jiang confront Mu Chen and Luo Li.",
+    "Mu Chen defeats Mao Jiang; Luo Li defeats Chi Yu.",
+    "Mu Gu ambushes and escapes.",
+    "Wu Jia consumes Mao Jiang; Luo Li holds him off.",
+    "Mu Chen purges the poison with the Immortal Fire and recognises Ji Xuan's poison."
+  ],
+  "introduced": [
+    "Fire Dragon Stranglehold",
+    "Ten Thousand Spears Divine Art",
+    "Jiuyou Flames"
+  ],
+  "cultivation": "Mu Chen: Heavenly Transformation (Mao Jiang). Mao Jiang: Heavenly Completion. Only a Sovereign could clear the poison, per Shen Cangsheng.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Transformation",
+      "quote": "You're at the Transformation of Heaven Level. You wouldn't happen to be... Mu Chen? (238.5); 'A Transformation of Heaven Level cultivator is more than enough to teach you a lesson!' (354)",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "chi-yu",
+      "name": "Chi Yu",
+      "first": false
+    },
+    {
+      "id": "mao-jiang",
+      "name": "Mao Jiang",
+      "realm": "Heavenly Completion",
+      "quote": "Wu Jia's formation can consume a Completion of Heaven Level cultivator like Mao Jiang in an instant (745.5-746.5)",
+      "first": false
+    },
+    {
+      "id": "mu-gu",
+      "name": "Mu Gu",
+      "first": false
+    },
+    {
+      "id": "zhou-qingshan",
+      "name": "Zhou Qingshan",
+      "first": false
+    },
+    {
+      "id": "wu-jia",
+      "name": "Wu Jia",
+      "first": false
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "first": false
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "first": false
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan",
+      "quote": "mentioned: the poison is his (934)",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Guide says 'Luo Li vs Chi Yu' and 'Mu Chen vs Mao Jiang': confirmed.",
+    "Roster (fan wiki) gives Chi Yu initial Heavenly Completion; no realm is stated for Chi Yu in these subtitles."
+  ],
+  "flags": [
+    "818: 'only someone at the Supreme Lord Level could deal with it' - about the poison, not a person.",
+    "955-983: Luo Li vs Wu Jia three-breaths lines are a preview/continuation shown in EP65.",
+    "0-38: recap of EP63."
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "ep": 49,
+  "title": "The White Dragon Spiritual Pearl",
+  "summary": "The Black Dragon Sovereign's doppelganger confronts the White Dragon Sovereign's residual image over the Dragon Demon Palace treasure he hid centuries ago; the two old friends fight, and the image is worn down until the barrier breaks. Inside, statue guards attack, and Su Xuan shows her Heavy Water Spiritual Bead; when Bai Xuan splits his men, Mu Chen goes after Bai Dong alone, using the White Dragon Token to partly control the statues. In the depths he finds the White Dragon Spiritual Pearl beside an ominous stone pillar that Jiuyou warns him away from. Bai Dong and his guards, at initial-phase Heavenly Transformation, attack him, and Mu Chen crushes them with the White Tiger Divine Seal, leaving Bai Dong half dead. Bai Xuan arrives in a rage, the others catch up, and Bai Xuan reveals his real realm: late-phase Heavenly Transformation.",
+  "events": [
+    "Black Dragon Sovereign's doppelganger vs the White Dragon Sovereign's image",
+    "The barrier breaks; statue guards attack",
+    "Su Xuan uses the Heavy Water Spiritual Bead",
+    "Mu Chen follows Bai Dong, controlling statues with the token",
+    "He takes the White Dragon Spiritual Pearl and sees the ominous stone pillar",
+    "He defeats Bai Dong and his guards with the White Tiger Divine Seal",
+    "Bai Xuan arrives and reveals late-phase Heavenly Transformation"
+  ],
+  "introduced": [
+    "White Dragon Spiritual Pearl",
+    "Heavy Water Spiritual Bead",
+    "Heavy Water Dungeon",
+    "Ominous stone pillar (the Great Meru Demonic Pillar, named in EP50)"
+  ],
+  "cultivation": "Bai Xuan reveals Heavenly Transformation, Late Phase (up from the middle phase he showed in EP48). Bai Dong's guards are at initial-phase Heavenly Transformation; Mu Chen beats them from middle-phase Heavenly Fusion. The White Dragon and Black Dragon Sovereigns fight as a residual image and a doppelganger.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "black-dragon-sovereign",
+      "name": "Black Dragon Sovereign",
+      "realm": "Sovereign",
+      "quote": "Greetings, Black Dragon Supreme Lord.",
+      "t": 18.5,
+      "look": "Doppelganger",
+      "card": 27.5
+    },
+    {
+      "id": "white-dragon-sovereign",
+      "name": "White Dragon Sovereign",
+      "realm": "Sovereign",
+      "quote": "Is this what a battle between Supreme Lords is like?",
+      "t": 202.0,
+      "look": "Residual image"
+    },
+    {
+      "id": "bai-xuan",
+      "name": "Bai Xuan",
+      "realm": "Heavenly Transformation, Late Phase",
+      "quote": "Do you really think this is all that I've got? ... The late stage of the Transformation of Heaven Level.",
+      "t": 815.0
+    },
+    {
+      "id": "su-xuan",
+      "name": "Su Xuan",
+      "note": "'She deserves the reputation of the third player on the Heavenly Ranking list'"
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen"
+    },
+    {
+      "id": "bai-dong",
+      "name": "Bai Dong"
+    },
+    {
+      "id": "mu-kui",
+      "name": "Mu Kui"
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You"
+    },
+    {
+      "id": "an-ran",
+      "name": "An Ran"
+    },
+    {
+      "id": "su-ling-er",
+      "name": "Su Ling'er"
+    }
+  ],
+  "changes": [
+    "Roster's Bai Xuan late phase at episode 49 is confirmed; it is a reveal of hidden strength."
+  ],
+  "flags": [
+    "683 'They're at the early stage of the Transformation of Heaven Level' refers to Bai Dong's unnamed guards (and possibly Bai Dong); Bai Dong's own realm is not stated separately.",
+    "Bai Xuan middle (EP48) -> late (EP49) is a reveal ('Do you really think this is all that I've got?'), not a breakthrough."
+  ]
+}

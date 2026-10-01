@@ -1,27 +1,32 @@
-"""Turn picks.json into 3:4 portraits in site/img/cast/ (run with /tmp/ytenv/bin/python).
+"""Turn picks.json into 3:4 portraits in site/img/cast/. Run with donghua/.tools/venv/bin/python.
 
-Episode frames are re-grabbed at 1080p straight from the official channel; preview frames come
-from the local 720p clips; wiki pictures are downloaded at full size.
+Pick kinds: "frames"/"vid"/"pv" come from the first pass (official channel EP1-50 and preview clips); their source
+frames are kept in cache/stills/raw/, so they don't need the videos again. "ak" frames come from the full episodes
+on AnimeKhor (donghua/tools/animekhor.py), "pool" from the fan wiki, "keep" leaves an existing portrait alone.
+  render.py [CHAR_ID ...]
 """
 import json, os, pathlib, subprocess, sys, urllib.parse, concurrent.futures as cf
 import cv2, numpy as np, imageio_ffmpeg
-sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1])); sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+HUB = pathlib.Path(__file__).resolve().parents[3]
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1])); sys.path.insert(0, str(HUB / "tools"))
 from wikiapi import get
+from common import MODELS, ENV, YTDLP, show
+import animekhor
 
 FF = imageio_ffmpeg.get_ffmpeg_exe()
-ROOT = pathlib.Path("/tmp/stills")
 PROJ = pathlib.Path(__file__).resolve().parents[2]
+ROOT = PROJ / "cache" / "stills"     # face-match data and kept source frames from the first pass
 OUT = PROJ / "site/img/cast"; OUT.mkdir(parents=True, exist_ok=True)
 RAW = ROOT / "raw"; RAW.mkdir(exist_ok=True)
 picks = json.loads((PROJ / "data/characters/picks.json").read_text())
 eps = dict(l.split("\t") for l in (ROOT / "eps.tsv").read_text().split("\n") if l)
 pool = {p["local"]: p for p in json.loads((PROJ / "cache/pool/index.json").read_text())}
-env = {**os.environ, "SSL_CERT_FILE": "/tmp/ytenv/cacert.pem"}
+env = ENV
 _urls = {}
 
 def stream(ep):
     if ep not in _urls:
-        _urls[ep] = subprocess.run(["/tmp/ytenv/bin/yt-dlp", "-g", "-f", "137", f"https://www.youtube.com/watch?v={eps[str(ep)]}"],
+        _urls[ep] = subprocess.run([YTDLP, "-g", "-f", "137", f"https://www.youtube.com/watch?v={eps[str(ep)]}"],
                                    capture_output=True, text=True, env=env).stdout.strip().split("\n")[-1]
     return _urls[ep]
 
@@ -43,14 +48,14 @@ def burst(src, ep, t):
 def choose(p):
     """Best face across candidate moments: similar to the matched face, big, sharp, lit, above the subtitles."""
     best = None
-    rec = cv2.FaceRecognizerSF.create(str(ROOT / "models/sface.onnx"), "")
+    rec = cv2.FaceRecognizerSF.create(str(MODELS / "sface.onnx"), "")
     for c in p["cands"][:5]:
         tv = target(c["i"]); tv = tv / np.linalg.norm(tv)
         for t, f in burst(c["src"], c["ep"], c["t"]):
             im = cv2.imread(str(f))
             if im is None: continue
             H, W = im.shape[:2]
-            det = cv2.FaceDetectorYN.create(str(ROOT / "models/yunet.onnx"), "", (W, H), 0.7)
+            det = cv2.FaceDetectorYN.create(str(MODELS / "yunet.onnx"), "", (W, H), 0.7)
             _, faces = det.detect(im)
             if faces is None: continue
             for fc in faces:
@@ -68,6 +73,13 @@ def choose(p):
 
 def source(p):
     """Full-resolution image for a pick, cached in RAW."""
+    kept = None
+    if p["kind"] == "frames" and "chosen" in p:
+        ch = p["chosen"]; kept = RAW / f"{ch['src']}{ch['ep']:03d}_{ch['t']}.jpg"
+    elif p["kind"] == "pool":
+        kept = RAW / ("pool_" + pathlib.Path(p["local"]).stem + ".jpg")
+    if kept and kept.exists():
+        return cv2.imread(str(kept))
     if p["kind"] == "frames":
         ch = p["chosen"]
         f = RAW / f"{ch['src']}{ch['ep']:03d}_{ch['t']}.png"
@@ -86,9 +98,9 @@ def source(p):
         f = RAW / ("pool_" + p["local"])
         if not f.exists(): f.write_bytes(get(url))
     elif p["kind"] == "ak":
-        from animekhor import still, OUT as AK
-        f = AK / f"ep{p['ep']}_{float(p['t'])}.png"
-        if not f.exists(): still(p["ep"], float(p["t"]))
+        cfg = show("sth")
+        f = cfg["cache"] / f"ep{p['ep']}_{float(p['t'])}.png"
+        if not f.exists(): animekhor.still(cfg, p["ep"], float(p["t"]))
     elif p["kind"] == "yt-thumb":
         f = RAW / f"thumb_{p['id']}.jpg"
         if not f.exists(): f.write_bytes(get(f"https://i.ytimg.com/vi/{p['id']}/maxresdefault.jpg"))
@@ -99,7 +111,7 @@ def source(p):
 
 def portrait(im, p):
     H, W = im.shape[:2]
-    det = cv2.FaceDetectorYN.create(str(ROOT / "models/yunet.onnx"), "", (W, H), 0.6)
+    det = cv2.FaceDetectorYN.create(str(MODELS / "yunet.onnx"), "", (W, H), 0.6)
     _, faces = det.detect(im)
     face = None
     if "focus" in p:  # manual focus point (fractions) and face height fraction
@@ -155,7 +167,7 @@ def job(args):
 jobs = [(cid, li, p) for cid, v in picks.items() for li, p in v.items() if p["kind"] not in ("none", "keep")]
 if len(sys.argv) > 1: jobs = [j for j in jobs if j[0] in sys.argv[1:]]
 for cid in {j[0] for j in jobs if j[2]["kind"] == "vid"}: pass
-with cf.ThreadPoolExecutor(6) as ex:
+with cf.ThreadPoolExecutor(3) as ex:
     for r in ex.map(job, jobs):
         if r[2] not in ("ok", "cached"): print(*r)
 (PROJ / "data/characters/picks.json").write_text(json.dumps(picks, ensure_ascii=False, indent=1))

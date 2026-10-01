@@ -1,0 +1,66 @@
+{
+  "ep": 28,
+  "title": "Spirit Stage, and Chu Qi's Challenge",
+  "summary": "Mu Chen absorbs the Divine Reishi with the Great Buddha Art; when its energy overwhelms him the Jiuyou Bird takes some of it, and he breaks through to the Spirit stage, seeing his divine soul for the first time and discovering the Great Buddha Art's hidden Buddha Hand. Chu Qi, at middle Spirit, arrives and waits for him to finish, then demands he stay away from Luo Li, who saved Chu Qi in the Spiritual Land and told him she likes Mu Chen. Chu Qi breaks the Golden Wheel Spirit Cracking Formation, but Mu Chen's Great Buddha Art, Golden Crystal Fist and Buddha Hand beat him. Chu Qi offers a Level 7 mark, which Mu Chen declines, then gives him the Level 2 Dragon Elephant Formation and asks him to hunt a heaven-level beast. Meanwhile Luo Li, about to kill a One-Eyed Ape for a Level 9 mark, hears Mu Chen has gone to the Ice Valley and sets off after him.",
+  "events": [
+    "Mu Chen absorbs the Divine Reishi; the Jiuyou Bird takes the excess energy.",
+    "Mu Chen reaches the Spirit stage and senses his divine soul.",
+    "He finds the Buddha Hand, a hidden art of the Great Buddha Art.",
+    "Chu Qi arrives, at middle Spirit, and refuses to interrupt the breakthrough.",
+    "Chu Qi demands Mu Chen stay away from Luo Li and fights him.",
+    "Mu Chen wins with the Golden Crystal Fist and the Buddha Hand; Chu Qi gives him the Dragon Elephant Formation.",
+    "Luo Li abandons a Level 9 mark hunt to follow Mu Chen to the Ice Valley."
+  ],
+  "introduced": [
+    "Buddha Hand",
+    "Golden Crystal Fist",
+    "Dragon Elephant Formation",
+    "One-Eyed Ape",
+    "Ice Valley"
+  ],
+  "cultivation": "Mu Chen breaks through to Spirit, Initial Phase (subs: Divine Soul Level) using the Divine Reishi. Chu Qi is at Spirit, Middle Phase.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Spirit, Initial Phase",
+      "quote": "Is this... my divine soul? ... I did it. (278-299) / You're just a weak man who has just reached the Divine Soul Level. (460-462)",
+      "first": false
+    },
+    {
+      "id": "chu-qi",
+      "name": "Chu Qi",
+      "realm": "Spirit, Middle Phase",
+      "quote": "I think he has reached the middle stage of the Divine Soul Level. (106) / Chu Qi is already in the middle stage of the Divine Soul Level. (711-712)",
+      "first": false
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "ye-qingling",
+      "name": "Ye Qingling",
+      "first": false
+    },
+    {
+      "id": "ye-sun-er",
+      "name": "Ye Sun'er",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Confirms guide's Spirit, Initial Phase at EP28."
+  ],
+  "flags": [
+    "762-765: 'much stronger than those ordinary people in the early stage of the Divine Soul Level' is about Mu Chen's power, consistent with his new realm.",
+    "422: 'I'm Chu ai' = Chu Qi (OCR)."
+  ]
+}

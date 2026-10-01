@@ -1,0 +1,66 @@
+{
+  "ep": 61,
+  "title": "Ling Xi's Spiritual Formations",
+  "summary": "Luo Li tells Mu Chen that once Xue Shi's news spreads, her grandfather will call her home, and she will push on to Sovereign to protect her people; Mu Chen vows to carry the burden with her. Dean Tai Cang says he must improve his talent, not rush his spiritual power, and sends him with a jade token to Elder Ling Xi, the academy's best spiritual formation master, to master the Spiritual Eye. Ling Xi refuses to teach men until Ye Sun'er, her student, threatens to stop working for her. Mu Chen finds the single real core among three Level 4 formations in exactly three moves, and over thirteen days goes from six to thirty formations. Elsewhere, unseen schemers set a game against North Heaven's future, with Mo Longzi as a volunteer and the owner of the Great Xumi Demonic Pillar as the hoped-for prey. Ling Xi says the Spiritual Eye opens only at the brink of death and takes Mu Chen to the Spiritual Formation House.",
+  "events": [
+    "Luo Li expects to be recalled and plans to reach Sovereign.",
+    "Tai Cang sends Mu Chen to Elder Ling Xi.",
+    "Ye Sun'er persuades Ling Xi to teach him.",
+    "Mu Chen breaks three Level 4 formations by finding the true core.",
+    "He trains up to thirty formations over thirteen days.",
+    "Schemers plan a trap for North Heaven's future, using Mo Longzi.",
+    "Ling Xi leads him to the Spiritual Formation House."
+  ],
+  "introduced": [
+    "Ling Xi",
+    "Spiritual Eye",
+    "Spiritual Formation House",
+    "Level 4 Spiritual Formations"
+  ],
+  "cultivation": "None stated. Luo Li plans to 'advance to the Supreme Lord Level' (a goal, not her current realm).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "quote": "'advance to the Supreme Lord Level' (76) - future goal",
+      "first": false
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false,
+      "card": 191.5
+    },
+    {
+      "id": "ling-xi",
+      "name": "Ling Xi",
+      "first": true
+    },
+    {
+      "id": "ye-sun-er",
+      "name": "Ye Sun'er",
+      "first": false
+    },
+    {
+      "id": "mo-longzi",
+      "name": "Mo Longzi",
+      "quote": "mentioned: 'In this game, Mo Longzi volunteered.' (582)",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Guide says Ji Xuan first appears here; the schemers' scene (539-594) names no one on screen. Wiki lists a Tian Sheng glimpse around this episode."
+  ],
+  "flags": [
+    "539-594: schemers are unnamed; possibly Tian Sheng / Ji Xuan / the Dragon Demon Palace. Not attributed.",
+    "621: 'a task even Completion of Heaven Level experts would find troublesome' - comparison.",
+    "191.5: '(Taicang)' bracket card, Tai Cang already known.",
+    "896-928: [In the Next Episode] preview of EP62."
+  ]
+}

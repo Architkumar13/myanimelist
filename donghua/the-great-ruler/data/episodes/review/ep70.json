@@ -1,0 +1,109 @@
+{
+  "ep": 70,
+  "title": "Heavenly Completion in a month",
+  "summary": "Mu Chen turns down Ling Xi's transfer of power, not wanting to use others as stepping stones, and a vision of his mother Qing Yanjing appears to him. Elsewhere Xiao Xiao reads Luo Li's letter about the cold young elder who favours Mu Chen and even gave him a Level 5 Spiritual Formation, then uncovers Blood race spies inside the Luo race and sets off to check on Luo Li. Ling Xi offers a harsher way: pry open a corner of the academy's Level 8 Spirit Collecting Formation, built by Lord Beiming, for a spiritual energy cleansing that only his Thunder Body could survive. The dean and elders let it run while the students, and a Heavenly Ranking pair who have been shaken since the Penalty Hall rescue, watch. Ling Xi tells Luo Li she was raised by Aunt Jing and is like a sister to Mu Chen. With days to spare Mu Chen breaks through to the initial phase of Heavenly Completion, then beats the dean's test, a Hell-Spirit Puppet at late-phase Heavenly Completion, with the Great Sumeru Demonic Pillar. Tai Cang concedes the bet and agrees to take him to Holy Spirit Mountain, and to open the North Heaven Gate again as the ranked students demand.",
+  "events": [
+    "Mu Chen declines Ling Xi's power transfer; a vision of Qing Yanjing",
+    "Xiao Xiao reads Luo Li's letter and deals with Blood race spies in the Luo race",
+    "Ling Xi opens a corner of the Level 8 Spirit Collecting Formation for Mu Chen's cleansing",
+    "Ling Xi tells Luo Li she was raised by Aunt Jing",
+    "Mu Chen breaks through to Heavenly Completion",
+    "He defeats the late-phase Heavenly Completion Hell-Spirit Puppet",
+    "Tai Cang concedes the bet; the students win a promise to reopen the North Heaven Gate",
+    "Ling Xi decides to go to Holy Spirit Mountain too"
+  ],
+  "introduced": [
+    "Level 8 Spirit Collecting Formation",
+    "Hell-Spirit Puppet",
+    "North Heaven Gate",
+    "Blood race",
+    "Xiao Lin (mentioned)",
+    "Infinite Flame Realm"
+  ],
+  "cultivation": "Mu Chen breaks through from late-phase Heavenly Transformation to the initial phase of Heavenly Completion (subs: early stage of the Completion of Heaven Level), then beats a Hell-Spirit Puppet at late-phase Heavenly Completion.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Completion, Initial Phase",
+      "quote": "Mu Chen has made a breakthrough! (766) / Congratulations on advancing to the Completion of Heaven Level. (795) / Are you sure he's only at the early stage of Completion of Heaven Level? (897)",
+      "t": 766.0,
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Hell-Spirit Puppet",
+      "realm": "Heavenly Completion, Late Phase",
+      "quote": "[Hell-Spirit Puppet, Late Stage of Completion of Heaven Level] (834)",
+      "t": 834.0,
+      "card": 834.0,
+      "first": true
+    },
+    {
+      "id": "qing-yanjing",
+      "name": "Qing Yanjing",
+      "quote": "[Qing Yanjing] (203)",
+      "card": 203.0,
+      "look": "vision/memory",
+      "first": false
+    },
+    {
+      "id": "ling-xi",
+      "name": "Ling Xi",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "xiao-xiao",
+      "name": "Xiao Xiao",
+      "first": false
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "zhu-tian",
+      "name": "Zhu Tian",
+      "quote": "Zhutian, have you ever considered what happens if we actually lose this bet? (702)",
+      "first": false
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "quote": "As No. 1 on the rankings, are you feeling pressured now or discouraged? (916)",
+      "first": false
+    },
+    {
+      "id": "northern-sea-dragon",
+      "name": "Northern Sea Dragon",
+      "look": "mentioned: Lord Beiming secured the Level 8 formation (482)"
+    },
+    {
+      "id": "xue-shi",
+      "name": "Xue Shi",
+      "look": "mentioned only (312)"
+    },
+    {
+      "id": "liu-zheng",
+      "name": "Liu Zheng",
+      "look": "mentioned only (559)"
+    }
+  ],
+  "changes": [
+    "Guide: 'Mu Chen defeats the Punishment Hall Combat Puppet' - the subs call it a Hell-Spirit Puppet at late Heavenly Completion, set as the dean's test; the Punishment Hall link is not in the subs.",
+    "Guide: 'Xiao Xiao helps to guard the Luo God Clan' - in the subs she reads Luo Li's letter and turns on Blood race spies inside the Luo race, then leaves to see Luo Li.",
+    "Confirms Heavenly Completion, Initial Phase at EP70."
+  ],
+  "flags": [
+    "544-587 s: a 'Sister' pair of Heavenly Ranking students (one shaken since the Penalty Hall rescue and the Liu Zheng fight) is not named; the one addressed as 'No. 1 on the rankings' at 916 is Shen Cangsheng.",
+    "716 s: 'With early-stage Completion of Heaven Level, it'd just be suicide' is an elder speaking about Mu Chen's prospects if he breaks through; recorded realm is from the breakthrough itself.",
+    "1085 s onward repeats in EP71's opening (Ji Xuan's plan, the trip to Holy Spiritual City) and is treated as the preview."
+  ]
+}

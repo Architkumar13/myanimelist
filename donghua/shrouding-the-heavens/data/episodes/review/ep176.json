@@ -1,0 +1,61 @@
+{
+  "ep": 176,
+  "title": "The Wang Clan Falls",
+  "summary": "The battle with the Wang clan's founding ancestor, the Dark Demon King, reaches its end, and the Wang clan of the Northern Plains is destroyed. Ye Fan and the barbarian army break the family's eternal legacy, and Ye Fan becomes known as the man who brought down an ancient family. Afterwards the Barbarian King warns him that the birthplace of the North Pole Immortal Light is so deadly that even Saints would almost surely die there.",
+  "events": [
+    "The final battle against the Dark Demon King",
+    "The Wang clan of the Northern Plains is destroyed",
+    "The Barbarian King warns Ye Fan about the North Pole"
+  ],
+  "introduced": [],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-fan",
+      "name": "Ye Fan",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "dark-demon-king",
+      "name": "Dark Demon King",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "barbarian-king",
+      "name": "Barbarian King",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    },
+    {
+      "id": "li-tian",
+      "name": "Li Tian",
+      "realm": null,
+      "quote": null,
+      "look": null,
+      "first": false
+    }
+  ],
+  "changes": [
+    "Rebuilt from EP175's ending and EP177; no copy of EP176 is reachable. EP177's recap block (0:00-0:30) has no subtitle text, and EP175's closing lines (17:29-17:39) repeat its own 15:42-16:18 rather than previewing EP176.",
+    "EP177 1:14-1:19 ('Dia menaklukkan sebuah keluarga kuno'), 5:30 ('Keluarga Wang kini telah hancur'), 6:24-6:27 (Wang survivors: 'Kau telah menghancurkan warisan abadi keluarga Wang') and 9:57-10:00 support the Wang clan's destruction.",
+    "EP177 8:28-8:33: the Barbarian King specifically warned that the immortal light's birthplace could kill even Saints.",
+    "EP177 2:16-2:46: Wang Teng (Immortal Platform 2nd Heaven) is alive and swears to kill Ye Fan.",
+    "Dropped 'the Barbarian King kills the Dark Demon King' and the looted 'Chaotic Ancient Emperor scripture': neither is confirmed by any neighbouring subtitle."
+  ],
+  "flags": [
+    "Who deals the killing blow to the Dark Demon King, and exactly how he dies, is unconfirmed; the Wang clan's destruction is certain.",
+    "What becomes of the North Pole Immortal Light the Dark Demon King unleashed at the end of EP175 isn't known.",
+    "Li Tian's presence is inferred: he travels with Ye Fan in EP175 and EP177. Yan Yixi and Dongfang Man were also at the battle in EP175.",
+    "Ji Ziyue, Ye Tong's stay with the barbarians and the trip to the North Pole all belong to EP177.",
+    "Wang Teng is alive in EP177 but was not at the battle as far as the neighbours show."
+  ]
+}

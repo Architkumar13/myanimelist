@@ -1,0 +1,88 @@
+{
+  "ep": 68,
+  "title": "Mo Longzi falls",
+  "summary": "With Shen Cangsheng, Li Xuantong and Luo Li wounded, Mu Chen lets the Great Sumeru Demonic Pillar's power take him over again, the same demonic look he had on the White Dragon mission, while the others buy him time. He brushes off the Three Generals and Mo Longzi's Dragon-transforming Blood Art and beats Mo Longzi, who uses the Dragon Demon Divine Art and still loses, as payback for hurting Luo Li. When Mu Chen moves to finish him, the Black Dragon Sovereign strikes to take back the Pillar, and Dean Tai Cang steps in to protect the students, calling it a fight of the younger generation. The Black Dragon Sovereign warns that the Dragon Demon Palace will take Mu Chen's life and North Heaven will be destroyed. At the Holy Spiritual Academy, Ji Xuan's elder teaches him that the strong must be cold-blooded, and Ji Xuan takes charge of the collaboration between Master Wuliang and the Dragon Demon Palace.",
+  "events": [
+    "Mu Chen's allies hold the line while he prepares his trump card",
+    "Mu Chen takes on the Pillar's power again and overwhelms the Three Generals",
+    "Mu Chen beats Mo Longzi despite the Dragon Demon Divine Art",
+    "The Black Dragon Sovereign strikes to reclaim the Great Sumeru Demonic Pillar",
+    "Dean Tai Cang intervenes and saves the students",
+    "The Black Dragon Sovereign vows that the Dragon Demon Palace will kill Mu Chen",
+    "Ji Xuan is taught the Holy Spiritual Academy's creed and sent to deal with Master Wuliang"
+  ],
+  "introduced": [
+    "Dragon-transforming Blood Art",
+    "Dragon Demon Divine Art",
+    "Dragon-Severing Slash",
+    "Master Wuliang (named)"
+  ],
+  "cultivation": "No realm stated for anyone. The Black Dragon Sovereign is named as a Sovereign (subs: 'Black Dragon Supreme Lord').",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "black-dragon-sovereign",
+      "name": "Black Dragon Sovereign",
+      "realm": "Sovereign",
+      "quote": "When the Black Dragon Supreme Lord strucks, Dean saved us first. (864-866)",
+      "t": 864.0,
+      "first": false
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "look": "demonic form from the Great Sumeru Demonic Pillar (471)",
+      "first": false
+    },
+    {
+      "id": "mo-longzi",
+      "name": "Mo Longzi",
+      "quote": "I can't believe... I lost... (782-786)",
+      "first": false
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "first": false
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "first": false
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan",
+      "first": false
+    },
+    {
+      "id": "old-ancestor-wu-liang",
+      "name": "Old Ancestor Wu Liang",
+      "look": "mentioned only, as 'Master Wuliang' (1018-1028)"
+    },
+    {
+      "id": "mo-xingtian",
+      "name": "Mo Xingtian",
+      "look": "mentioned only: 'Mo Xingtian is still waiting outside' (940)"
+    }
+  ],
+  "changes": [
+    "Guide: consistent (Mu Chen crushes Mo Longzi, the Black Dragon Sovereign intervenes, Tai Cang stops him); adds the Ji Xuan scene and the Master Wuliang set-up."
+  ],
+  "flags": [
+    "The OCR is poor through the fight; who says each battle line (130-460 s) is not always clear.",
+    "917-946 s: a Holy Spiritual Academy scene ('Grandpa, you worry too much ... Mo Xingtian is still waiting outside') - speakers not named.",
+    "1044 s onward is the next-episode preview (Dragon Demon Brand on the Pillar).",
+    "The roster lists the Black Dragon Sovereign's first episode as 71; he is on screen here and in the EP48-49 reviews."
+  ]
+}

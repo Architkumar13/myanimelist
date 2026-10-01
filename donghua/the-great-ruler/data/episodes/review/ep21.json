@@ -1,0 +1,99 @@
+{
+  "ep": 21,
+  "title": "The Meeting of the Nine Realms",
+  "summary": "With the Mount Mangyin Sect's remnants wiped out alongside Jiulong Fortress (Nine Dragon City), Zhou Ye and Mu Chen are offered Yang Gui's secret treasure room; Mu Chen takes a Nine-Root Blood Ginseng and a fragmentary map of the Demon Lotus Spirit-Slaying Formation, a Level 3 formation needing 100 spiritual seals. Word arrives that Mu Feng has gone alone to Liu Realm for a Meeting of the Nine Realms, and Mu Chen realises the Mangyin attack was a decoy. Camping on the way, he refines the ginseng with the Great Buddha Art; the flower cage turns on the Jiuyou Bird mid-breakthrough, he calms it, and he reaches the late stage of Spiritual Rotation. At Liu Realm, Liu Qingtian proposes a Northern Spiritual Alliance under himself; Lie Yan, Lord of Lie Realm, walks out and is killed by Liu Jingshan, Liu Qingtian's supposedly dead father, who has broken through to Heavenly Fusion. Bai Realm submits, while Mu, Tang, Hong and Luo realms refuse.",
+  "events": [
+    "Lei Shan's Jiulong Fortress hands Mu Realm the treasures from Yang Gui's secret room.",
+    "Mu Chen picks the Nine-Root Blood Ginseng and the Demon Lotus Spirit-Slaying Formation map (Level 3, 100 seals).",
+    "A messenger reports Mu Feng has left for Liu Realm's Meeting of the Nine Realms; Mu Chen and Zhou Ye set off, and Lei Yin sees him off.",
+    "Mu Chen studies the formation map, refines the ginseng, and controls the flower cage when it attacks the Jiuyou Bird.",
+    "Mu Chen breaks through to the late stage of Spiritual Rotation.",
+    "At the meeting Liu Qingtian proposes the Northern Spiritual Alliance; Bai Realm backs him.",
+    "Lie Yan leaves and is killed by Liu Jingshan, now at Heavenly Fusion, who orders everyone to join or die."
+  ],
+  "introduced": [
+    "Nine-Root Blood Ginseng",
+    "Demon Lotus Spirit-Slaying Formation",
+    "Meeting of the Nine Realms",
+    "Northern Spiritual Alliance",
+    "Liu Jingshan",
+    "Lie Yan",
+    "Bai Realm"
+  ],
+  "cultivation": "Mu Chen reaches Spiritual Rotation, Late Phase (subs: late stage of the Spiritual Ring Level) after refining the Nine-Root Blood Ginseng. Liu Jingshan is revealed at Heavenly Fusion (subs: Fusion of Heaven Level).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Spiritual Rotation, Late Phase",
+      "quote": "This is the power of the late stage of the Spiritual Ring Level. (556) / You've advanced to the late stage of the Spiritual Ring Level? (582)",
+      "first": false
+    },
+    {
+      "id": "liu-jingshan",
+      "name": "Liu Jingshan",
+      "realm": "Heavenly Fusion",
+      "quote": "Liu Jingshan. Fusion of Heaven Level. This old man is still alive. He even made a breakthrough. (896-901)",
+      "first": true,
+      "card": 904.5
+    },
+    {
+      "id": "lie-yan",
+      "name": "Lie Yan",
+      "quote": "[Lord of Lie Realm] (637.5); killed by Liu Jingshan (~876)",
+      "first": true,
+      "card": 637.5
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "first": false
+    },
+    {
+      "id": "zhou-ye",
+      "name": "Zhou Ye",
+      "first": false
+    },
+    {
+      "id": "lei-shan",
+      "name": "Lei Shan",
+      "first": false
+    },
+    {
+      "id": "lei-yin",
+      "name": "Lei Yin",
+      "first": false
+    },
+    {
+      "id": "liu-qingtian",
+      "name": "Liu Qingtian",
+      "first": false
+    },
+    {
+      "id": "mu-feng",
+      "name": "Mu Feng",
+      "first": false
+    },
+    {
+      "id": "tang-shan",
+      "name": "Tang Shan",
+      "first": false
+    },
+    {
+      "id": "hong-ling-senior",
+      "name": "Hong Ling (Senior)",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Guide calls EP19-24 'after the seats are decided' with no named quest; this episode is the start of the Meeting of the Nine Realms / Liu Jingshan arc.",
+    "Confirms guide's Spiritual Rotation, Late Phase at EP21."
+  ],
+  "flags": [
+    "670: 'If Liu Jingshan were still alive there would be three Divine Soul Level masters in Liu Realm' implies Liu Qingtian plus one other are at Spirit, but names nobody; not recorded.",
+    "923/928: subs say 'Mr. Liu Jingtian' as the proposed Leader; read as Liu Jingshan (or Liu Qingtian) - OCR/translation slip.",
+    "Subs call Nine Dragon City 'Jiulong Fortress', the Northern Spiritual Realm 'North Spiritual Territory', and Hong Territory 'Red Territory' (956).",
+    "41-75: 'Master Lei' is Lei Shan; the 'My father said' line (46) is probably Lei Yin."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "ep": 62,
+  "title": "The Spiritual Eye and the Black Tower",
+  "summary": "In the Spiritual Formation House Mu Chen faces a formation that strikes back harder the more it is attacked, and risks death to open the Spiritual Eye as Ling Xi said; when the Black Tower (Great Buddha Art) appears in him, Ling Xi reacts, and he finds the one path to survive. Ling Xi takes the drained Mu Chen away and asks about the Black Tower, then shows him a painting he recognises as his mother. She remembers only the last five years, felt she once cultivated the Great Buddha Art, fuses spiritual power with him, warns him to keep the tower hidden, and tells him to call her Ling Xi. Luo Li contacts her friend Xiao Xiao, who has reached Sovereign and is visiting Luo Tianshen with her younger brother. In the Fog Valley, Mo Longzi with bounty-list fighters Teng Long and Chi Yu wears down Shen Cangsheng and Li Xuantong and poisons them with Gu poison, keeping them alive as bait. The Blood Cry Bell rings at the academy.",
+  "events": [
+    "Mu Chen faces the Spiritual Formation House's deadliest formation.",
+    "The Black Tower appears and Mu Chen opens the Spiritual Eye.",
+    "Ling Xi shows him a painting of his mother and shares his Great Buddha Art energy.",
+    "Xiao Xiao, now at Sovereign, talks with Luo Li.",
+    "Mo Longzi, Teng Long and Chi Yu trap and poison Shen Cangsheng and Li Xuantong.",
+    "The Blood Cry Bell sounds at North Heaven."
+  ],
+  "introduced": [
+    "Black Tower (Great Buddha Art)",
+    "Mu Chen's mother (painting)",
+    "Teng Long",
+    "Chi Yu",
+    "Bounty list",
+    "Gu poison",
+    "Fog Valley",
+    "Blood Cry Bell"
+  ],
+  "cultivation": "Xiao Xiao has reached Sovereign. Mu Chen opens the Spiritual Eye (array talent, not a realm).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "ling-xi",
+      "name": "Ling Xi",
+      "quote": "'I only have memories from the past 5 years' (663.5)",
+      "first": false
+    },
+    {
+      "id": "ye-sun-er",
+      "name": "Ye Sun'er",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "xiao-xiao",
+      "name": "Xiao Xiao",
+      "realm": "Sovereign",
+      "quote": "I didn't expect you to have reached the Supreme Lord Level. (556) - Luo Li to Xiao Xiao",
+      "first": false
+    },
+    {
+      "id": "luo-tianshen",
+      "name": "Luo Tianshen",
+      "quote": "mentioned: 'His health has improved.' (565.5)",
+      "first": false
+    },
+    {
+      "id": "mo-longzi",
+      "name": "Mo Longzi",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Teng Long",
+      "quote": "'Teng Long, ranked fifth on the bounty list.' (778.5) - rank only",
+      "first": true
+    },
+    {
+      "id": "chi-yu",
+      "name": "Chi Yu",
+      "quote": "'Chi Yu, ranked seventh on the bounty list.' (781) - rank only",
+      "first": true
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "first": false
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Guide's 'besieged by Ranks 2-10 of the Bounty List' is broader than shown: only Mo Longzi, Teng Long and Chi Yu are named in the Fog Valley fight here."
+  ],
+  "flags": [
+    "778.5: Teng Long is 'fifth on the bounty list' here but '6th' in EP63 (Wu Jia is 5th there) and 'sixth' in EP66 - subtitle inconsistency.",
+    "921: the speaker (not added to cast) of 'my little Chi Yu' is probably Mao Jiang (Chi Yu's lover per EP63); not named.",
+    "987-1002: the Gu-king lines are said by an unseen schemer.",
+    "0-33: recap of EP61."
+  ]
+}

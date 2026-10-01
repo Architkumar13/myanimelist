@@ -1,0 +1,140 @@
+{
+  "ep": 78,
+  "title": "Mu Chen's mother",
+  "summary": "While Dong Ming and Mo You play out their game and Zhu Tian guards Mo You's back, a divine pagoda opens and Qing Yanjing, a Saint-Rank Spiritual Formation Grandmaster, appears as a spiritual body. She dismisses the Yellow Dragon Sovereign as a mere first-grade Sovereign and, despite his pleas and the Black Dragon Sovereign rushing to help, destroys him, then vows to wipe out the Dragon Demon Palace. The Black Dragon Sovereign threatens her with Master Wuliang, a ninth-grade Sovereign, but inside her pagoda it means nothing; the Palace flees by Blood Escape and two get away, and Wuliang withdraws on realising she is a Saint-grade Heavenly Sovereign. Xiao Xiao arrives to cut down the remaining attackers 'for my best friend'. Mother and son finally meet; she embraces Ling Xi, whom she raised, and welcomes Luo Li as her future daughter-in-law, then fades, telling Mu Chen to make his name in the Great Thousand World. At the Holy Spiritual Academy, Ji Xuan's grandfather concedes they lost by one move, and with Xia Hou and Wang Zhong present Ji Xuan vows to kill Mu Chen at the Spiritual Academy Competition. Far away, the Ancient Pagoda Clan's Grand Elder berates Qing Yanjing for her 'sinful bloodline' and she threatens to drag him into death if he touches her son.",
+  "events": [
+    "Dong Ming and Mo You's game; Zhu Tian holds on",
+    "Qing Yanjing's spiritual body emerges from the divine pagoda",
+    "She kills the Yellow Dragon Sovereign and routs the Dragon Demon Palace",
+    "Master Wuliang retreats from a Saint-grade Heavenly Sovereign",
+    "Xiao Xiao arrives and clears out the attackers",
+    "Mu Chen meets his mother; Ling Xi and Luo Li with Aunt Jing",
+    "Ji Xuan vows to kill Mu Chen at the Spiritual Academy Competition",
+    "The Ancient Pagoda Clan's Grand Elder confronts Qing Yanjing"
+  ],
+  "introduced": [
+    "divine pagoda",
+    "Blood Escape",
+    "Ancient Pagoda Clan",
+    "Xia Hou",
+    "Wang Zhong"
+  ],
+  "cultivation": "Qing Yanjing: Saint-Rank Spiritual Formation Grandmaster (card) and a Saint-grade Heavenly Sovereign, appearing as a spiritual body. The Yellow Dragon Sovereign is a first-grade Sovereign. Master Wuliang is a ninth-grade Sovereign. Xia Hou and Wang Zhong share a card at the Spiritual Energy Disaster (subs: Tribulation of Spiritual Power).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "qing-yanjing",
+      "name": "Qing Yanjing",
+      "realm": "Heavenly Sovereign, Saint Grade",
+      "quote": "[Qing Yanjing, Saint-Rank Spiritual Formation Grandmaster] (272) / Are you a Heavenly Supreme Lord? (540) / A Saint-Rank Heavenly Supreme Lord! (567)",
+      "t": 567.0,
+      "card": 272.0,
+      "look": "spiritual body; fades after the reunion",
+      "first": false
+    },
+    {
+      "id": "yellow-dragon-sovereign",
+      "name": "Yellow Dragon Sovereign",
+      "realm": "Sovereign, 1st Grade",
+      "quote": "You think a mere First-Rank Supreme Lord like you can hurt my child? (284-285)",
+      "t": 285.0,
+      "look": "killed by Qing Yanjing (~426)",
+      "first": false
+    },
+    {
+      "id": "old-ancestor-wu-liang",
+      "name": "Old Ancestor Wu Liang",
+      "realm": "Sovereign, 9th Grade",
+      "quote": "Master Wuliang, has also arrived in the Northern Heaven Continent. He is a Ninth-Rank Supreme Lord! (461-466) / There is also Master Wuliang, a Ninth-Rank Supreme Lord. (550)",
+      "t": 466.0,
+      "first": false
+    },
+    {
+      "id": "xia-hou",
+      "name": "Xia Hou",
+      "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+      "quote": "[Xia Hou, Wang Zhong Holy Spiritual Academy, Tribulation of Spiritual Power] (1035.5)",
+      "t": 1035.5,
+      "card": 1035.5,
+      "first": true
+    },
+    {
+      "id": "wang-zhong-iii",
+      "name": "Wang Zhong",
+      "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+      "quote": "[Xia Hou, Wang Zhong Holy Spiritual Academy, Tribulation of Spiritual Power] (1035.5)",
+      "t": 1035.5,
+      "card": 1035.5,
+      "first": true
+    },
+    {
+      "id": "black-dragon-sovereign",
+      "name": "Black Dragon Sovereign",
+      "first": false
+    },
+    {
+      "id": "xiao-xiao",
+      "name": "Xiao Xiao",
+      "quote": "Consider it... revenge for my best friend. (638-646)",
+      "first": false
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "ling-xi",
+      "name": "Ling Xi",
+      "first": false
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "dong-ming",
+      "name": "Dong Ming",
+      "first": false
+    },
+    {
+      "id": "zhu-tian",
+      "name": "Zhu Tian",
+      "first": false
+    },
+    {
+      "id": "mo-you",
+      "name": "Mo You",
+      "first": false
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan",
+      "first": false
+    },
+    {
+      "id": "futu-xuan",
+      "name": "Futu Xuan",
+      "quote": "Grand Elder, if you lay so much as a finger on my son... (1124-1132)",
+      "look": "addressed only as the Ancient Pagoda Clan's Grand Elder",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Guide: consistent. Adds the ranks (first-grade Yellow Dragon, ninth-grade Wuliang, Saint-grade Heavenly Sovereign mother) and the Holy Spiritual Academy and Ancient Pagoda Clan scenes."
+  ],
+  "flags": [
+    "1035 s: a single card names both Xia Hou and Wang Zhong with 'Tribulation of Spiritual Power'; recorded for both.",
+    "182-216 s: Dong Ming's opponent at go is not named; read as Mo You (Zhu Tian 'standing guard at my back').",
+    "652 s: 'Sister, you're running off on your own again' is said to Xiao Xiao by an unnamed companion.",
+    "1124 s: the Grand Elder is mapped to the roster's Futu Xuan (former Grand Elder of the clan) - the name is not said.",
+    "The subs say 'Ancient Pagoda Clan' for the clan the roster and EP81 review call the Ancient Buddha/Pagoda Clan.",
+    "1167 s onward is the next-episode preview."
+  ]
+}

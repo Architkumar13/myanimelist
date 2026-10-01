@@ -1,0 +1,93 @@
+{
+  "ep": 32,
+  "title": "Challenging Senior An Ran",
+  "summary": "Inside the Northern Heaven Palace, senior student An Ran congratulates the freshmen and hands out spirit value cards; spirit value buys arts, formation maps and beast spirits in the academy and is earned through tasks, beast spirits and trades. Freshmen with Level 7 marks and above may challenge seniors by lot for 5,000 spirit value, and Bing Qing, Mu Kui and Yang Hong have already won in the other palaces. Mu Chen, at middle Spirit, draws An Ran herself, who is at Heavenly Fusion. She breaks his Buddha Hand and Dragon Elephant Formation and summons the Golden Eagle of Beiming, 65th on the Earth list, but he taps the blood connection with the Jiuyou Bird, using her burning fire and Ice Wings, and wins. Luo Li wins her bout easily; the freshmen then enter the Northern Heaven Spiritual Academy.",
+  "events": [
+    "An Ran welcomes the freshmen and explains spirit value cards.",
+    "Level 7+ freshmen are offered challenges against seniors for 5,000 spirit value.",
+    "Bing Qing, Mu Kui and Yang Hong are named as winners in other palaces.",
+    "Mu Chen draws An Ran, at Heavenly Fusion, and refuses to let Luo Li replace him.",
+    "Luo Li wins her challenge quickly.",
+    "An Ran summons the Golden Eagle of Beiming; Mu Chen draws on the blood connection (fire and Ice Wings) and wins.",
+    "The freshmen are led into the Northern Heaven Spiritual Academy."
+  ],
+  "introduced": [
+    "An Ran",
+    "spirit value / spirit value card",
+    "Golden Eagle of Beiming (65th on the Earth list)",
+    "Spirit Breaking Spear",
+    "Spirit Shattering Palm",
+    "Ripple Slash",
+    "Ice Wings",
+    "Bing Qing, Mu Kui (named)"
+  ],
+  "cultivation": "Mu Chen is at Spirit, Middle Phase. An Ran is at Heavenly Fusion (on-screen caption).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Spirit, Middle Phase",
+      "quote": "He's just at the middle stage of the Divine Soul Level, right? (239) / Is he really just at the middle stage of the Divine Soul Level? (754)",
+      "first": false
+    },
+    {
+      "id": "an-ran",
+      "name": "An Ran",
+      "realm": "Heavenly Fusion",
+      "quote": "[An Ran at Fusion of Heaven Level] (294) / Since she is at the Fusion of Heaven Level, I'm going to do my best. (384)",
+      "first": true,
+      "card": 294.0
+    },
+    {
+      "id": null,
+      "name": "Golden Eagle of Beiming",
+      "quote": "[the Golden Eagle of Beiming: ranking 65th on the earth list of beasts] (734)",
+      "first": true,
+      "card": 734.0
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "first": false
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling",
+      "first": false
+    },
+    {
+      "id": "ye-sun-er",
+      "name": "Ye Sun'er",
+      "first": false
+    },
+    {
+      "id": "bing-qing",
+      "name": "Bing Qing",
+      "quote": "mention only (202)",
+      "first": false
+    },
+    {
+      "id": "mu-kui",
+      "name": "Mu Kui",
+      "quote": "mention only (202)",
+      "first": false
+    },
+    {
+      "id": "yang-hong",
+      "name": "Yang Hong",
+      "quote": "mention only (202)",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "852: Mu Chen's card shows 6,100 spirit value after the reward.",
+    "113: 'My spirit value is 1,100' - speaker not clear (a freshman, probably Mo Ling)."
+  ]
+}

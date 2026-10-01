@@ -1,0 +1,116 @@
+{
+ "ep": 80,
+ "title": "Mu Chen takes No. 1 on the Heavenly Rankings",
+ "summary": "Half a year after the Holy Spirit Mountain battle, the Heavenly Rankings students come out of the North Heaven Gate while the freshmen argue over whether Mu Chen or Shen Cangsheng is North Heaven's real No. 1. Mu Chen accepts Shen Cangsheng's challenge in front of the juniors, and his Four-Emblem Thunder Fist meets the Cangsheng Seal of the Judgment Divine Art. They each step back eight paces, but Shen Cangsheng admits he gave up an inch more and hands Mu Chen the top spot, passing on Lin Zheng's words that the ranking is about lifting North Heaven's name. The other ranked seniors then spar with Mu Chen and Luo Li together, and Shen Cangsheng's team breaks them apart to teach Mu Chen that a captain has to trust his team rather than shield everyone. The academy fields two four-person teams for the Spiritual Academy Competition: Shen Cangsheng with Li Xuantong, Su Xuan and Ye Sun'er, and Mu Chen with Luo Li, Mu Fengyang and Zhao Qingshan. At the Holy Spiritual Academy, Ji Xuan is told to eliminate North Heaven, and the elders note that the Heavenly Sovereign afterimage that protected Mu Chen has faded.",
+ "events": [
+  "Recap: Northern Sea Dragon's training and Mu Chen's promise to his father to rescue his mother",
+  "Freshmen argue over whether Mu Chen or Shen Cangsheng is No. 1; Mu Chen asks the juniors why they came to North Heaven",
+  "Shen Cangsheng comes out of seclusion and Mu Chen challenges him; the Four-Emblem Thunder Fist and the Cangsheng Seal tie at eight paces",
+  "Shen Cangsheng yields the No. 1 spot and passes on Lin Zheng's advice",
+  "The ranked seniors spar Mu Chen and Luo Li as a team and split them with the Five Elements formation, a lesson in captaincy",
+  "Two four-person North Heaven teams are named and the competition rules (shared points, daily refresh, 50-point elimination, top 16 locations public) are explained",
+  "The Holy Spiritual Academy plans to eliminate North Heaven; Cao Gang and Ji Xuan appear",
+  "Mu Chen's team sets out as captain"
+ ],
+ "introduced": [
+  "Cao Gang",
+  "Spiritual Academy Competition token",
+  "Five Elements formation",
+  "Judgment Divine Art / Cangsheng Seal"
+ ],
+ "cultivation": "Name cards: Mu Chen at Heavenly Completion, Late Phase; Shen Cangsheng has passed the Human Body Disaster (subs: 'Tribulation of the Physical Body'); Cao Gang at the Spiritual Energy Disaster (subs: 'Tribulation of Spiritual Power'). A freshman says the Northern Sea Dragon is an Earth Sovereign.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "mu-chen",
+   "name": "Mu Chen",
+   "realm": "Heavenly Completion, Late Phase",
+   "quote": "[Mu Chen: Late Stage of Completion of Heaven Level]",
+   "t": 379.0,
+   "card": 379.0
+  },
+  {
+   "id": "shen-cangsheng",
+   "name": "Shen Cangsheng",
+   "realm": "Three Sovereign Disasters, Human Body Disaster",
+   "quote": "[Shen Cangsheng: Tribulation of the Physical Body] / 'someone at the late stage of the Completion of Heaven Level is stronger than someone who's passed the Tribulation of the Physical Body'",
+   "t": 386.0,
+   "card": 386.0
+  },
+  {
+   "id": "cao-gang",
+   "name": "Cao Gang",
+   "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+   "quote": "[Cao Gang, Holy Spiritual Academy, Tribulation of Spiritual Power]",
+   "t": 908.0,
+   "card": 908.0,
+   "first": true
+  },
+  {
+   "id": "mo-xingtian",
+   "name": "Mo Xingtian",
+   "realm": "Three Sovereign Disasters, Human Body Disaster",
+   "quote": "Mu killed Mo Xingtian, who had passed the Tribulation of the Physical Body, at the Holy Spiritual Mountain.",
+   "t": 205.0
+  },
+  {
+   "id": "northern-sea-dragon",
+   "name": "Northern Sea Dragon",
+   "quote": "I heard Lord Dragon Fish of Beiming is an Earth Supreme Lord",
+   "t": 304.5
+  },
+  {
+   "id": "qing-yanjing",
+   "name": "Qing Yanjing",
+   "realm": "Heavenly Sovereign",
+   "quote": "Mu Chen has the afterimage of a Heavenly Supreme Lord behind him.",
+   "t": 943.0
+  },
+  {
+   "id": "luo-li",
+   "name": "Luo Li"
+  },
+  {
+   "id": "mu-fengyang",
+   "name": "Mu Fengyang"
+  },
+  {
+   "id": "zhao-qingshan",
+   "name": "Zhao Qingshan"
+  },
+  {
+   "id": "li-xuantong",
+   "name": "Li Xuantong"
+  },
+  {
+   "id": "su-xuan",
+   "name": "Su Xuan"
+  },
+  {
+   "id": "ye-sun-er",
+   "name": "Ye Sun'er"
+  },
+  {
+   "id": "ji-xuan",
+   "name": "Ji Xuan"
+  },
+  {
+   "id": "lin-zheng",
+   "name": "Lin Zheng",
+   "look": "mentioned only"
+  }
+ ],
+ "changes": [
+  "Guide said the top 10 emerge and Mu Chen 'dethrones' Shen Cangsheng: the duel is a tie (both step back eight paces) and Shen Cangsheng yields the spot himself.",
+  "Named the two North Heaven teams in full.",
+  "Cao Gang's name card is in this episode (908 s); the roster lists his first episode as 81."
+ ],
+ "flags": [
+  "304 s: 'Lord Dragon Fish of Beiming is an Earth Supreme Lord' is a freshman's hearsay; mapped to the Northern Sea Dragon (Beiming = Northern Sea).",
+  "943 s: 'afterimage of a Heavenly Supreme Lord' refers to the afterimage of Mu Chen's mother from EP78; recorded against Qing Yanjing as a Heavenly Sovereign, which says nothing about her grade.",
+  "205 s: Mo Xingtian (already dead) is described as having passed the Human Body Disaster. The roster has 'Peak of Human Body Disaster Stage' at EP74, so this is roughly consistent.",
+  "Subtitle words: 'Tribulation of the Physical Body' = Human Body Disaster, 'Tribulation of Spiritual Power' = Spiritual Energy Disaster, 'Supreme Lord' = Sovereign. The subs speak of having 'passed' a tribulation; I record the named disaster as the stage.",
+  "908 s: the Holy Son who has 'personal grudges against North Heaven' is Ji Xuan; Cao Gang's card appears on the line just before that.",
+  "A freshman says he 'heard' the Dragon Fish of Beiming is an Earth Supreme Lord. That's hearsay, and EP69/75 call him Ninth-Rank, so it isn't used as his realm."
+ ]
+}

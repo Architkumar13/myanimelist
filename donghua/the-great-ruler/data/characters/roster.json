@@ -1,0 +1,4140 @@
+[
+  {
+    "id": "liu-mubai",
+    "name": "Liu Mubai",
+    "zh": "",
+    "aka": [],
+    "wiki": "Liu Mubai",
+    "ep": 1,
+    "group": "Northern Spiritual Academy",
+    "side": "enemy",
+    "intro": "Liu Mubai is the first young lord of Liu Realm and the top Heaven class student of the North Spiritual Academy's West Academy. He backs his younger brother Liu Yang against Mu Chen, even slipping him a Spirit Destruction Bead.",
+    "power": [
+      {
+        "ep": 1,
+        "realm": "Spiritual Rotation, Initial Phase",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      },
+      {
+        "ep": 15,
+        "realm": "Spiritual Rotation, Peak of Late Phase",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "As introduced",
+        "img": "img/wiki/Liumubai-a45dbc.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "liu-yang",
+    "name": "Liu Yang",
+    "zh": "",
+    "aka": [],
+    "wiki": "Liu Yang",
+    "ep": 1,
+    "group": "Northern Spiritual Academy",
+    "side": "rival",
+    "intro": "Liu Yang is the second young lord of Liu Realm and the top of the North Spiritual Academy's Earth class. He has agreed to fight Mu Chen in the exam, sure his middle-phase Spiritual Movement will win.",
+    "power": [
+      {
+        "ep": 1,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 3,
+        "realm": "Spiritual Movement, Middle Phase",
+        "detail": "stated on screen",
+        "quote": "Liu Yang is already at the middle stage of the Spiritual Movement Level. (90) / Liu Yang has reached the middle stage of the Spiritual Movement Level (106)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "As introduced",
+        "img": "img/wiki/Liu_Yang_1-310551.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mu-chen",
+    "name": "Mu Chen",
+    "zh": "",
+    "aka": [],
+    "wiki": "Mu Chen",
+    "ep": 1,
+    "group": "Mu Territory",
+    "side": "ally",
+    "intro": "Mu Chen is the young lord of Mu Realm and a North Spiritual Academy student, back after a year on the Spiritual Land, where he was expelled. He starts the story at the initial phase of Spiritual Movement.",
+    "power": [
+      {
+        "ep": 1,
+        "realm": "Spiritual Movement, Initial Phase",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      },
+      {
+        "ep": 3,
+        "realm": "Spiritual Movement, Middle Phase",
+        "detail": "stated on screen",
+        "quote": "The middle stage of the Spiritual Movement Level? What? Mu Chen has reached the middle stage of the Spiritual Movement Level? Didn't he just reach the early stage... (375-380)",
+        "conf": "high"
+      },
+      {
+        "ep": 10,
+        "realm": "Spiritual Movement, Late Phase",
+        "detail": "stated on screen",
+        "quote": "At least I'm at the middle stage of the Spiritual Movement Level. (154) / Finally. I have reached the late stage of the Spiritual Movement Level. (752-754) / You've reached the late stage of the Spiritual Movement Level? (857)",
+        "conf": "high"
+      },
+      {
+        "ep": 13,
+        "realm": "Spiritual Rotation, Initial Phase",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      },
+      {
+        "ep": 21,
+        "realm": "Spiritual Rotation, Late Phase",
+        "detail": "stated on screen",
+        "quote": "This is the power of the late stage of the Spiritual Ring Level. (556) / You've advanced to the late stage of the Spiritual Ring Level? (582)",
+        "conf": "high"
+      },
+      {
+        "ep": 28,
+        "realm": "Spirit, Initial Phase",
+        "detail": "stated on screen",
+        "quote": "Is this... my divine soul? ... I did it. (278-299) / You're just a weak man who has just reached the Divine Soul Level. (460-462)",
+        "conf": "high"
+      },
+      {
+        "ep": 31,
+        "realm": "Spirit, Middle Phase",
+        "detail": "stated on screen",
+        "quote": "It seems you've absorbed the spirit. How come you only advanced to the middle stage of the Divine Soul Level? (540-542)",
+        "conf": "high"
+      },
+      {
+        "ep": 34,
+        "realm": "Spirit, Late Phase",
+        "detail": "stated on screen",
+        "quote": "I've finally reached the late stage of the Divine Soul Level. (192) / You've reached the late stage of the Divine Soul Level? (902)",
+        "conf": "high"
+      },
+      {
+        "ep": 40,
+        "realm": "Heavenly Fusion, Initial Phase",
+        "detail": "stated on screen",
+        "quote": "I just reached the Fusion of Heaven Level.",
+        "conf": "high"
+      },
+      {
+        "ep": 46,
+        "realm": "Heavenly Fusion, Middle Phase",
+        "detail": "stated on screen",
+        "quote": "The middle stage of the Fusion of Heaven Level? Why did he advance so quickly?",
+        "conf": "high"
+      },
+      {
+        "ep": 54,
+        "realm": "Heavenly Transformation",
+        "detail": "stated on screen",
+        "quote": "In the Thunder Realm, I not only obtained the Thunder Body, but also raised my power to the Transformation of Heaven Level. (405.5-408)",
+        "conf": "high"
+      },
+      {
+        "ep": 59,
+        "realm": "Heavenly Transformation, Late Phase",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      },
+      {
+        "ep": 70,
+        "realm": "Heavenly Completion, Initial Phase",
+        "detail": "stated on screen",
+        "quote": "Mu Chen has made a breakthrough! (766) / Congratulations on advancing to the Completion of Heaven Level. (795) / Are you sure he's only at the early stage of Completion of Heaven Level? (897)",
+        "conf": "high"
+      },
+      {
+        "ep": 79,
+        "realm": "Heavenly Completion, Late Phase",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      },
+      {
+        "ep": 88,
+        "realm": "Three Sovereign Disasters, Human Body Disaster",
+        "detail": "stated on screen",
+        "quote": "He just passed the Tribulation of the Physical Body. No big deal.",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "As introduced",
+        "img": "img/wiki/Mu_Chen_Season_2_-_01-3f5406.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mu-yuan",
+    "name": "Mu Yuan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Mu Yuan",
+    "ep": 1,
+    "group": "Northern Spiritual Academy",
+    "side": "enemy",
+    "intro": "Mu Yuan is a West Academy student ranked second in the North Spiritual Academy's Earth class, just behind Liu Yang. He bullies the East Academy's Earth class students until Mu Chen steps in.",
+    "power": [
+      {
+        "ep": 1,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 2,
+        "realm": "Spiritual Movement, Initial Phase",
+        "detail": "Fan wiki (novel): initial Spiritual Movement early on",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "As introduced",
+        "img": "img/wiki/Screenshot_63-4c56da.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "principal-xiao",
+    "name": "Principal Xiao",
+    "zh": "",
+    "aka": [
+      "Dean Xiao"
+    ],
+    "wiki": "Principal Xiao",
+    "ep": 1,
+    "group": "Northern Spiritual Academy",
+    "side": "neutral",
+    "intro": "Dean Xiao (Xiao Mu) heads the North Spiritual Academy. He announces which Earth class students are promoted and later sends the chosen students off to the Five Great Academies.",
+    "power": [
+      {
+        "ep": 1,
+        "realm": "Spirit",
+        "detail": "Principal of the Northern Spiritual Academy (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "As introduced",
+        "img": "img/wiki/Xiao_Mu-ae7bd3.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "su-ling",
+    "name": "Su Ling",
+    "zh": "",
+    "aka": [],
+    "wiki": "Su Ling",
+    "ep": 1,
+    "group": "Northern Spiritual Academy",
+    "side": "ally",
+    "intro": "Su Ling is an East Academy Earth class student at the North Spiritual Academy and Mu Chen's best friend. Mu Chen comes to his rescue when Mu Yuan's West Academy group bullies him.",
+    "power": [
+      {
+        "ep": 1,
+        "realm": "Sensing",
+        "detail": "Fan wiki (novel): still at the Sensing stage",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "As introduced",
+        "img": "img/wiki/SuLing-01babf.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "tan-qingshan",
+    "name": "Tan Qingshan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Tan Qingshan",
+    "ep": 1,
+    "group": "Northern Spiritual Academy",
+    "side": "ally",
+    "intro": "Tan Qingshan is an East Academy student at the North Spiritual Academy and Mu Chen's friend. Newly at Spiritual Movement, he takes on Liu Yang in Mu Chen's place at the exam and is badly beaten.",
+    "power": [
+      {
+        "ep": 1,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 2,
+        "realm": "Spiritual Movement",
+        "detail": "stated on screen",
+        "quote": "I didn't expect Tan Qingshan to be at the Spiritual Movement Level. (804.5) / I finally reached the Spiritual Movement Level. (830)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "As introduced",
+        "img": "img/wiki/Tan_Qingshan_iqcom-TGR2_01-516c3a.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "tang-qian-er",
+    "name": "Tang Qian'er",
+    "zh": "",
+    "aka": [],
+    "wiki": "Tang Qian'er",
+    "ep": 1,
+    "group": "Northern Spiritual Academy",
+    "side": "ally",
+    "intro": "Tang Qian'er is the daughter of Tang Realm's lord Tang Shan and Mu Chen's close friend at the North Spiritual Academy. She borrows the Senluo Death Mark for him and makes him her partner for the North Spiritual Plain training.",
+    "power": [
+      {
+        "ep": 1,
+        "realm": "Spiritual Movement, Middle Phase",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      },
+      {
+        "ep": 15,
+        "realm": "Spiritual Rotation, Initial Phase",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "As introduced",
+        "img": "img/wiki/Qianer-e14ac5.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "teacher-mo",
+    "name": "Teacher Mo",
+    "zh": "",
+    "aka": [
+      "Master Mo"
+    ],
+    "wiki": "Teacher Mo",
+    "ep": 1,
+    "group": "Northern Spiritual Academy",
+    "side": "neutral",
+    "intro": "Master Mo (Mo Fei) is head instructor of the North Spiritual Academy's East Academy and a Spirit-level fighter. He exposes Liu Yang's Spirit Destruction Bead and later drives the Liu party away from Mu Chen.",
+    "power": [
+      {
+        "ep": 1,
+        "realm": "Spirit",
+        "detail": "stated in EP8",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "As introduced",
+        "img": "img/wiki/Mo_Fei-17c5ee.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "teacher-xi",
+    "name": "Teacher Xi",
+    "zh": "",
+    "aka": [
+      "Master Xi"
+    ],
+    "wiki": "Teacher Xi",
+    "ep": 1,
+    "group": "Northern Spiritual Academy",
+    "side": "neutral",
+    "intro": "Master Xi is head instructor of the North Spiritual Academy's West Academy. He debates with Master Mo over stripping Liu Yang of his promotion.",
+    "power": [
+      {
+        "ep": 1,
+        "realm": "Spirit",
+        "detail": "Head instructor of the West Branch (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "As introduced",
+        "img": "img/wiki/Teacher_Xi-82dee2.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "bloodswine-tiger",
+    "name": "Bloodswine Tiger",
+    "zh": "",
+    "aka": [],
+    "wiki": "Bloodswine Tiger",
+    "ep": 2,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "The Bloodswine Tiger is a low-rank spiritual beast of the North Spiritual Plain, a blood-red cross between tiger and boar with a black horn on its forehead.",
+    "power": [
+      {
+        "ep": 2,
+        "realm": "Spiritual Movement, Middle Phase",
+        "detail": "Low-rank beast of the Northern Spiritual Field (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "As introduced",
+        "img": "img/wiki/NSA_NSFT_Blood_Swine_Tiger_iqcom-TGL2_01-5e1cd6.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "dragonfire-bird",
+    "name": "Dragonfire Bird",
+    "zh": "",
+    "aka": [
+      "Dragon Flame Eagle"
+    ],
+    "wiki": "Dragonfire Bird",
+    "ep": 2,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "The Dragon Flame Eagle is Mu Feng's Spirit-level beast spirit. Held down to the initial phase of Spiritual Movement, it tests Mu Chen for three moves after he takes up the Great Buddha Art.",
+    "power": [
+      {
+        "ep": 2,
+        "realm": "Spirit",
+        "detail": "stated on screen",
+        "quote": "It is indeed the spirit of a spiritual beast of the Divine Soul Level. Even though its power has been restricted at the early stage of the Spiritual Movement Level... (587.5-589.5)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "As introduced",
+        "img": "img/wiki/Dragonfire_Bird_ShortGIF1_TGR12__300x169-cd7408.gif",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "hong-ling",
+    "name": "Hong Ling",
+    "zh": "",
+    "aka": [],
+    "wiki": "Hong Ling",
+    "ep": 2,
+    "group": "Northern Spiritual Academy",
+    "side": "neutral",
+    "intro": "Hong Ling, daughter of Hong Realm's lady, is a North Spiritual Academy student in red. She looks after the beaten Tan Qingshan and keeps offering Mu Chen help, to Tang Qian'er's annoyance.",
+    "power": [
+      {
+        "ep": 2,
+        "realm": "Spiritual Movement, Middle Phase",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      },
+      {
+        "ep": 15,
+        "realm": "Spiritual Rotation, Initial Phase",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "As introduced",
+        "img": "img/wiki/Hong_Ling_7-d8a2cf.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "luo-tianshen",
+    "name": "Luo Tianshen",
+    "zh": "",
+    "aka": [],
+    "wiki": "Luo Tianshen",
+    "ep": 2,
+    "group": "Luo God Clan",
+    "side": "neutral",
+    "intro": "Luo Tianshen is Luo Li's grandfather and the dying head of the declining Luo race. He means to call her home to take the clan's inheritance.",
+    "power": [
+      {
+        "ep": 2,
+        "realm": "Earth Sovereign",
+        "detail": "stated in EP59",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "As introduced",
+        "img": "img/wiki/ONAvLuo-e608b1.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mu-feng",
+    "name": "Mu Feng",
+    "zh": "",
+    "aka": [],
+    "wiki": "Mu Feng",
+    "ep": 2,
+    "group": "Mu Territory",
+    "side": "ally",
+    "intro": "Mu Feng is the lord of Mu Realm and Mu Chen's father, a Spirit-level fighter holding off stronger Liu Realm. He gives his son the Great Buddha Art that Mu Chen's mother left for him.",
+    "power": [
+      {
+        "ep": 2,
+        "realm": "Spirit",
+        "detail": "stated on screen",
+        "quote": "You're at the Divine Soul Level. (519, Mu Chen to his father)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "As introduced",
+        "img": "img/wiki/Mu_Feng-a7279e.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "old-man-qin",
+    "name": "Old Man Qin",
+    "zh": "",
+    "aka": [],
+    "wiki": "Old Man Qin",
+    "ep": 2,
+    "group": "Northern Spiritual Academy",
+    "side": "neutral",
+    "intro": "Old Man Qin keeps the North Spiritual Academy's Spiritual Art Room, where students choose their arts.",
+    "power": [
+      {
+        "ep": 2,
+        "realm": "Spiritual Rotation, Peak of Late Phase",
+        "detail": "Keeper of the Spiritual Arts Room; half a step from Spirit (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "As introduced",
+        "img": "img/wiki/Old_Man_Qin_iq_com-Ep2-e67262.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "zhou-ye",
+    "name": "Zhou Ye",
+    "zh": "",
+    "aka": [],
+    "wiki": "Zhou Ye",
+    "ep": 2,
+    "group": "Mu Territory",
+    "side": "ally",
+    "intro": "Zhou Ye is Mu Feng's lifelong friend and right hand in Mu Realm, one of the few Spirit-level fighters in the Northern Spiritual Realm. He wants to hit back at Liu Realm for its border raids.",
+    "power": [
+      {
+        "ep": 2,
+        "realm": "Spirit, Initial Phase",
+        "detail": "One of the few Spirit-stage experts of the Northern Spiritual Realm (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "As introduced",
+        "img": "img/wiki/Zhou_Ye-f27907.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "liu-ming",
+    "name": "Liu Ming",
+    "zh": "",
+    "aka": [
+      "Master San",
+      "Uncle San"
+    ],
+    "wiki": "Liu Ming",
+    "ep": 3,
+    "group": "Northern Spiritual Realm powers",
+    "side": "enemy",
+    "intro": "Liu Ming, called Master San, is the third leader of Liu Realm and Liu Mubai's uncle. He hunts the fugitive Blood Slaughter in the North Spiritual Plain.",
+    "power": [
+      {
+        "ep": 3,
+        "realm": "Spiritual Rotation, Peak of Late Phase",
+        "detail": "Third master of the Liu Realm (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 3,
+        "label": "As introduced",
+        "img": "img/wiki/Liu_Ming_7-d74902.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "luo-tong",
+    "name": "Luo Tong",
+    "zh": "",
+    "aka": [],
+    "wiki": "Luo Tong",
+    "ep": 4,
+    "group": "Northern Spiritual Academy",
+    "side": "rival",
+    "intro": "Luo Tong is the son of Luo Realm's lord, an 18-year-old at late-phase Spiritual Movement who never reached Spiritual Rotation. He picks a fight with Mu Chen over the rules of the Spirit Collecting Formation's core area and loses.",
+    "power": [
+      {
+        "ep": 4,
+        "realm": "Spiritual Movement, Late Phase",
+        "detail": "stated on screen",
+        "quote": "After all, he is at the later stage of the Spiritual Movement Level. (700, Qian'er about Luo Tong) / He's 18 and hasn't reached the Spiritual Ring Level. (340)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 4,
+        "label": "As introduced",
+        "img": "img/wiki/Luo_Tong_1-1663ac.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mo-ling",
+    "name": "Mo Ling",
+    "zh": "",
+    "aka": [],
+    "wiki": "Mo Ling",
+    "ep": 4,
+    "group": "Northern Spiritual Academy",
+    "side": "ally",
+    "intro": "Mo Ling is an East Academy Heaven class student, second in the whole North Spiritual Academy. He introduces himself to Mu Chen after the Luo Tong fight, asks to team up, and becomes a loyal friend.",
+    "power": [
+      {
+        "ep": 4,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 15,
+        "realm": "Spiritual Rotation",
+        "detail": "fan wiki",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 4,
+        "label": "As introduced",
+        "img": "img/wiki/Mo_Ling_7-acbe1e.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "ji-zong",
+    "name": "Ji Zong",
+    "zh": "",
+    "aka": [],
+    "wiki": "Ji Zong",
+    "ep": 5,
+    "group": "Northern Spiritual Realm powers",
+    "side": "neutral",
+    "intro": "Ji Zong, known as the Person within the Rain, is a Level 1 spiritual formation master who works for the Liu family. His array skill lets him hold off stronger fighters.",
+    "power": [
+      {
+        "ep": 5,
+        "realm": "Spiritual Rotation, Initial Phase",
+        "detail": "Rank-1 array master who fights above his realm with arrays (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 5,
+        "label": "As introduced",
+        "img": "img/wiki/Ji_Zong_iq_com-Ep5-52ef95.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "lei-yin",
+    "name": "Lei Yin",
+    "zh": "",
+    "aka": [],
+    "wiki": "Lei Yin",
+    "ep": 5,
+    "group": "Northern Spiritual Realm powers",
+    "side": "neutral",
+    "intro": "Lei Yin is the daughter of Lei Shan, head of Jiulong Fortress, and a self-taught Level 1 spiritual formation master with a quick temper.",
+    "power": [
+      {
+        "ep": 5,
+        "realm": "Unknown"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 5,
+        "label": "As introduced",
+        "img": "img/wiki/Lei_Yin_7-5edfc0.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "lin-zhong",
+    "name": "Lin Zhong",
+    "zh": "",
+    "aka": [],
+    "wiki": "Lin Zhong",
+    "ep": 5,
+    "group": "Northern Spiritual Realm powers",
+    "side": "enemy",
+    "intro": "Lin Zhong is an adventurer of the Thunderstorm Team who tries to rob North Spiritual Academy students during the North Spiritual Plain training, until Mu Chen fights him.",
+    "power": [
+      {
+        "ep": 5,
+        "realm": "Spiritual Movement, Peak of Late Phase",
+        "detail": "Thunderstorm Team adventurer (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 5,
+        "label": "As introduced",
+        "img": "img/wiki/Lin_Zhong_7-d9c65d.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "one-horned-panther-dragon",
+    "name": "One-Horned Panther Dragon",
+    "zh": "",
+    "aka": [],
+    "wiki": "One-Horned Panther Dragon",
+    "ep": 5,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "The One-Horned Panther Dragon is the young of the Silver-Horned Panther Dragon, a middle-rank spiritual beast of the North Spiritual Plain. Blood Slaughter wounds it, which brings its enraged parent down on him.",
+    "power": [
+      {
+        "ep": 5,
+        "realm": "Spiritual Rotation, Initial Phase",
+        "detail": "Middle-rank beast, cub of the Silver-Horned Panther Dragon (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 5,
+        "label": "As introduced",
+        "img": "img/wiki/NSA_NSFT_Little_Silver-Horn_Dragon_Leopard_iqcom-Ep5_01b-c7cb69.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "xue-tu",
+    "name": "Xue Tu",
+    "zh": "",
+    "aka": [
+      "Blood Slaughter"
+    ],
+    "wiki": "Xue Tu",
+    "ep": 5,
+    "group": "Northern Spiritual Realm powers",
+    "side": "enemy",
+    "intro": "Xue Tu, known as Blood Slaughter, is the fugitive captain of the Blood Slaughter Group, infamous in the Northern Spiritual Realm for his cruelty. He is hiding in the North Spiritual Plain with a copper piece that Mu Chen later takes from his body.",
+    "power": [
+      {
+        "ep": 5,
+        "realm": "Spiritual Rotation, Peak of Late Phase",
+        "detail": "Captain of the Blood Slaughter Group (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 5,
+        "label": "As introduced",
+        "img": "img/wiki/NSFT_Xue_Tu_iqcom-TGR6_01-12e715.gif",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "conflagration-ape",
+    "name": "Conflagration Ape",
+    "zh": "",
+    "aka": [],
+    "wiki": "Conflagration Ape",
+    "ep": 6,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "Conflagration Apes are giant fiery-red apes, low-rank spiritual beasts that guard a fruit tree in a valley of the North Spiritual Plain.",
+    "power": [
+      {
+        "ep": 6,
+        "realm": "Spiritual Movement, Late Phase",
+        "detail": "Low-rank beasts; the strongest adults reach late Spiritual Movement (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 6,
+        "label": "As introduced",
+        "img": "img/wiki/NSA_NSFT_Ice_Spirit_Apes_iqcom-Ep8_01-ea50fc.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "conflagration-ape-king",
+    "name": "Conflagration Ape King",
+    "zh": "",
+    "aka": [],
+    "wiki": "Conflagration Ape King",
+    "ep": 6,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "The Conflagration Ape King is a middle-rank spiritual beast that leads the Conflagration Ape troop guarding a fruit tree in the North Spiritual Plain.",
+    "power": [
+      {
+        "ep": 6,
+        "realm": "Spiritual Rotation, Middle Phase",
+        "detail": "Middle-rank beast guarding the Jaded Essence Tree (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 6,
+        "label": "As introduced",
+        "img": "img/wiki/NSA_NSFT_Ice_Spirit_Ape_King_iqcom-Ep7_01-32ecf8.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "silver-horned-panther-dragon",
+    "name": "Silver-Horned Panther Dragon",
+    "zh": "",
+    "aka": [
+      "Silver Horn Dragon Leopard"
+    ],
+    "wiki": "Silver-Horned Panther Dragon",
+    "ep": 7,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "The Silver-Horned Panther Dragon is an advanced Spirit-level beast of the North Spiritual Plain. Mu Chen leads Blood Slaughter, who wounded its young, straight into it, and it kills him.",
+    "power": [
+      {
+        "ep": 7,
+        "realm": "Spirit",
+        "detail": "stated in EP8",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 7,
+        "label": "As introduced",
+        "img": "img/wiki/NSA_NSFT_Silver-Horn_Dragon_iqcom-Ep8_03b-431e74.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "aquablaze-crane",
+    "name": "Aquablaze Crane",
+    "zh": "",
+    "aka": [],
+    "wiki": "Aquablaze Crane",
+    "ep": 8,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "The Aquablaze Crane is a high-rank spiritual beast of the Dark Abyss, a black crane with one wing like flowing water and the other like fire. It is the strongest of the three beasts the Liu family lures against the Mu party.",
+    "power": [
+      {
+        "ep": 8,
+        "realm": "Spirit, Middle Phase",
+        "detail": "High-rank beast of the Black Eerie Swamp (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 8,
+        "label": "As introduced",
+        "img": "img/wiki/Water-Fire_Crane_iqcom-TGL8_03-f21e4c.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "blacksteel-beast",
+    "name": "Blacksteel Beast",
+    "zh": "",
+    "aka": [],
+    "wiki": "Blacksteel Beast",
+    "ep": 8,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "The Blacksteel Beast is a high-rank spiritual beast of the Dark Abyss with a pitch-black body like forged steel. It is one of the three beasts the Liu family lures against the Mu party.",
+    "power": [
+      {
+        "ep": 8,
+        "realm": "Spirit, Initial Phase",
+        "detail": "High-rank beast of the Black Eerie Swamp (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 8,
+        "label": "As introduced",
+        "img": "img/wiki/Black_Iron_Beast_iqcom-TGL8_06-0e101b.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "purple-winged-lion",
+    "name": "Purple Winged Lion",
+    "zh": "",
+    "aka": [],
+    "wiki": "Purple Winged Lion",
+    "ep": 8,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "The Purple Winged Lion is a high-rank spiritual beast of the Dark Abyss, blood-red with razor-sharp purple wings. It is one of the three beasts the Liu family lures against the Mu party.",
+    "power": [
+      {
+        "ep": 8,
+        "realm": "Spirit, Initial Phase",
+        "detail": "High-rank beast of the Black Eerie Swamp (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 8,
+        "label": "As introduced",
+        "img": "img/wiki/Purple_Winged_Lion_iqcom-TGL8_01-7835a0.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "liu-qingtian",
+    "name": "Liu Qingtian",
+    "zh": "",
+    "aka": [],
+    "wiki": "Liu Qingtian",
+    "ep": 9,
+    "group": "Northern Spiritual Realm powers",
+    "side": "enemy",
+    "intro": "Liu Qingtian is the lord of Liu Realm and Liu Mubai's father, a Spirit-level fighter like Mu Feng. He wants the Jiuyou Bird and sends his men into the Dark Abyss to take it.",
+    "power": [
+      {
+        "ep": 2,
+        "realm": "Spirit",
+        "detail": "stated on screen",
+        "quote": "But Liu Qingtian, the current lord of Liu Realm, is at the same Divine Soul Level as you. (35-37.5, Zhou Ye to Mu Feng)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 9,
+        "label": "As introduced",
+        "img": "img/wiki/Liu_Qingtian_iq_com-TGR-Ep18-ef479c.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "liu-zong",
+    "name": "Liu Zong",
+    "zh": "",
+    "aka": [],
+    "wiki": "Liu Zong",
+    "ep": 9,
+    "group": "Northern Spiritual Realm powers",
+    "side": "enemy",
+    "intro": "Liu Zong is the second head of Liu Realm, a Spirit-level fighter who corners Mu Chen for the copper piece until Zhou Ye arrives.",
+    "power": [
+      {
+        "ep": 9,
+        "realm": "Spirit",
+        "detail": "stated in EP10",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 9,
+        "label": "As introduced",
+        "img": "img/wiki/Liu_Zong_iq_com-Ep9-7b80d7.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "chen-xiong",
+    "name": "Chen Xiong",
+    "zh": "",
+    "aka": [],
+    "wiki": "Chen Xiong",
+    "ep": 10,
+    "group": "Mu Territory",
+    "side": "ally",
+    "intro": "Chen Xiong is the Mu Realm general guarding the border and lord of Xiong City, one of Mu Feng's most loyal men.",
+    "power": [
+      {
+        "ep": 10,
+        "realm": "Spiritual Rotation",
+        "detail": "City Lord of Xiong City (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 10,
+        "label": "As introduced",
+        "img": "img/wiki/Chen_Xiong_iq_com-Ep11-038deb.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "wen-ling",
+    "name": "Wen Ling",
+    "zh": "",
+    "aka": [],
+    "wiki": "Wen Ling",
+    "ep": 10,
+    "group": "Mu Territory",
+    "side": "ally",
+    "intro": "Wen Ling is Mu Realm's best spiritual formation master, at Level 1. He watches Mu Chen form five spiritual seals on his first try and gives him his first formation maps.",
+    "power": [
+      {
+        "ep": 10,
+        "realm": "Unknown"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 10,
+        "label": "As introduced",
+        "img": "img/wiki/Wen_Ling_Donghua-TGR_S1Ep10_01__noBG-22f1bf.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "black-poison-crocodile",
+    "name": "Black Poison Crocodile",
+    "zh": "",
+    "aka": [],
+    "wiki": "Black Poison Crocodile",
+    "ep": 11,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "Black Poison Crocodiles are the main beasts of the Black Poison Marsh, which anyone crossing it has to fight past.",
+    "power": [
+      {
+        "ep": 11,
+        "realm": "Spiritual Rotation, Initial Phase",
+        "detail": "Middle-rank beasts of the Black Poison Marsh (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 11,
+        "label": "As introduced",
+        "img": "img/wiki/NNB_Black_Poison_Crocodile_iq_com-TGR11_06__trim-e4ef90.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "devouring-spirit-bee",
+    "name": "Devouring Spirit Bee",
+    "zh": "",
+    "aka": [],
+    "wiki": "Devouring Spirit Bee",
+    "ep": 11,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "Devouring Spirit Bees are palm-sized black bees of the Dark Abyss, very fast and armed with hideous fangs.",
+    "power": [
+      {
+        "ep": 11,
+        "realm": "Spiritual Movement, Initial Phase",
+        "detail": "Low-rank swarm beasts of the Black Eerie Swamp (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 11,
+        "label": "As introduced",
+        "img": "img/wiki/NNB_Spirit_Eating_Bees_iqcom-TGR11_14-707f34.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "tian-chong",
+    "name": "Tian Chong",
+    "zh": "",
+    "aka": [],
+    "wiki": "Tian Chong",
+    "ep": 11,
+    "group": "Northern Spiritual Realm powers",
+    "side": "neutral",
+    "intro": "Tian Chong is a traveller of the Bug Spirit Clan who followed the Jiuyou Bird's trail into the Dark Abyss and died there. Mu Chen finds the Spirit Bug Flute on his remains.",
+    "power": [
+      {
+        "ep": 11,
+        "realm": "Unknown"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 11,
+        "label": "As introduced",
+        "img": "img/wiki/NNB_Tian_Chong_iqcom-TGR11_02-bd5e21.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "black-eerie-serpent",
+    "name": "Black Eerie Serpent",
+    "zh": "",
+    "aka": [],
+    "wiki": "Black Eerie Serpent",
+    "ep": 12,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "The Black Eerie Serpent is a giant black serpent of the Dark Abyss, a middle-rank spiritual beast whose saliva can kill instantly.",
+    "power": [
+      {
+        "ep": 12,
+        "realm": "Spiritual Rotation, Middle Phase",
+        "detail": "Middle-rank beast of the Black Eerie Swamp (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 12,
+        "label": "As introduced",
+        "img": "img/wiki/NNB_Black_Nether_Snake_iqcom-TGR12_04-3e040b.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "jaded-venomous-scorpion",
+    "name": "Jaded Venomous Scorpion",
+    "zh": "",
+    "aka": [],
+    "wiki": "Jaded Venomous Scorpion",
+    "ep": 12,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "The Jaded Venomous Scorpion is a huge green scorpion of the Dark Abyss whose faint fragrance is a sign of its lethal poison.",
+    "power": [
+      {
+        "ep": 12,
+        "realm": "Unknown"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 12,
+        "label": "As introduced",
+        "img": "img/wiki/Green_Scorpion_TGR12_fr027-dc5b81.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "lightning-scale-beast",
+    "name": "Lightning Scale Beast",
+    "zh": "",
+    "aka": [],
+    "wiki": "Lightning Scale Beast",
+    "ep": 12,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "The Lightning Scale Beast is a giant ape-like beast of the Dark Abyss, covered in silver scales that crackle with lightning when it howls.",
+    "power": [
+      {
+        "ep": 12,
+        "realm": "Unknown"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 12,
+        "label": "As introduced",
+        "img": "img/wiki/Liu_Qingtian_Thunder_Beast_iqcom-Ep12_01-222459.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mountain-spirit-rhinoceros",
+    "name": "Mountain Spirit Rhinoceros",
+    "zh": "",
+    "aka": [],
+    "wiki": "Mountain Spirit Rhinoceros",
+    "ep": 12,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "The Mountain Spirit Rhinoceros is Zhou Ye's beast spirit, known for strength that comes down like a falling mountain.",
+    "power": [
+      {
+        "ep": 12,
+        "realm": "Unknown"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 12,
+        "label": "As introduced",
+        "img": "img/wiki/Zhou_Ye_Mountain_Rhinoceros_iqcom-Ep12_01-4451d9.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "jiu-you",
+    "name": "Jiu You",
+    "zh": "",
+    "aka": [
+      "Jiuyou Bird",
+      "Jiuyou",
+      "Jiuyou Nether Bird"
+    ],
+    "wiki": "Jiu You",
+    "ep": 13,
+    "group": "Spiritual beasts",
+    "side": "ally",
+    "intro": "Jiu You is the Jiuyou Bird, 11th on the Earth list of beasts, who failed an evolution and fell into the Dark Abyss. At the end of the expedition her spirit ends up bound inside Mu Chen, trapped there by his black paper.",
+    "power": [
+      {
+        "ep": 13,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 57,
+        "realm": "Sovereign",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 13,
+        "label": "As introduced",
+        "img": "img/wiki/Jiu_You_Season_2_-_01-41b8fc.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "chen-ling",
+    "name": "Chen Ling",
+    "zh": "",
+    "aka": [],
+    "wiki": "Chen Ling",
+    "ep": 14,
+    "group": "Mu Territory",
+    "side": "ally",
+    "intro": "Chen Ling is one of the spiritual formation masters who help build Mu Realm's Level 2 Spirit Collecting Formation.",
+    "power": [
+      {
+        "ep": 14,
+        "realm": "Unknown"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 14,
+        "label": "As introduced",
+        "img": "img/wiki/Chen_Ling_iq_com-Ep14-cb22d8.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "hong-ling-senior",
+    "name": "Hong Ling (Senior)",
+    "zh": "",
+    "aka": [],
+    "wiki": "Hong Ling (Senior)",
+    "ep": 15,
+    "group": "Northern Spiritual Realm powers",
+    "side": "ally",
+    "intro": "Hong Ling (Senior) is the lady of Hong Realm and Hong Ling's mother. She stands with Mu Feng against Liu Realm's Northern Spiritual Alliance.",
+    "power": [
+      {
+        "ep": 15,
+        "realm": "Unknown"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 15,
+        "label": "As introduced",
+        "img": "img/wiki/Hong_Ling__Senior__iq_com-Ep15-e68879.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mister-hao",
+    "name": "Mister Hao",
+    "zh": "",
+    "aka": [
+      "Mr. Hao"
+    ],
+    "wiki": "Mister Hao",
+    "ep": 15,
+    "group": "Other academies",
+    "side": "neutral",
+    "intro": "Mr. Hao is the Five Great Academies' examiner at the North Spiritual Academy's competition for academy places. He judges the students on how they fight rather than on who wins.",
+    "power": [
+      {
+        "ep": 15,
+        "realm": "Unknown"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 15,
+        "label": "As introduced",
+        "img": "img/wiki/Mister_Hao_iq_com-Ep16-d10cad.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "tang-shan",
+    "name": "Tang Shan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Tang Shan",
+    "ep": 15,
+    "group": "Northern Spiritual Realm powers",
+    "side": "ally",
+    "intro": "Tang Shan is the lord of Tang Realm, Tang Qian'er's father and a close friend of Mu Feng.",
+    "power": [
+      {
+        "ep": 15,
+        "realm": "Spirit, Middle Phase",
+        "detail": "Lord of the Tang Territory; at the peak of middle Spirit (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 15,
+        "label": "As introduced",
+        "img": "img/wiki/Tang_Shan_iq_com-Ep15-c099df.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "chen-tong",
+    "name": "Chen Tong",
+    "zh": "",
+    "aka": [],
+    "wiki": "Chen Tong",
+    "ep": 16,
+    "group": "Northern Spiritual Academy",
+    "side": "rival",
+    "intro": "Chen Tong is a West Academy Heaven class student, second only to Liu Mubai there, and Mu Chen's first-round opponent in the competition for academy places.",
+    "power": [
+      {
+        "ep": 16,
+        "realm": "Spiritual Rotation, Initial Phase",
+        "detail": "Fan wiki (novel): initial Spiritual Rotation by the academy entry competition",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 16,
+        "label": "As introduced",
+        "img": "img/wiki/Chen_Tong_iq_com-TGR-Ep16_1-67bd23.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "luo-li",
+    "name": "Luo Li",
+    "zh": "",
+    "aka": [
+      "Lord Luo"
+    ],
+    "wiki": "Luo Li",
+    "ep": 18,
+    "group": "Luo God Clan",
+    "side": "ally",
+    "intro": "Luo Li is the girl Mu Chen met on the Spiritual Land, rated King level there, who has chosen the Northern Heaven Spiritual Academy. Remembering their promise, he chooses the same academy to follow her.",
+    "power": [
+      {
+        "ep": 18,
+        "realm": "Heavenly Fusion",
+        "detail": "EP31: she was already at Heavenly Fusion when she finished the Spiritual Land",
+        "conf": "high"
+      },
+      {
+        "ep": 42,
+        "realm": "Heavenly Fusion, Late Phase",
+        "detail": "stated on screen",
+        "quote": "Looks like Luo Li has reached the late stage of the Fusion of Heaven Level.",
+        "conf": "high"
+      },
+      {
+        "ep": 88,
+        "realm": "Three Sovereign Disasters",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 18,
+        "label": "As introduced",
+        "img": "img/wiki/Luo_Li_Season_2_-_06-6c765f.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "lei-shan",
+    "name": "Lei Shan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Lei Shan",
+    "ep": 19,
+    "group": "Northern Spiritual Realm powers",
+    "side": "neutral",
+    "intro": "Lei Shan is the head of Jiulong Fortress, the second strongest underworld force in the Northern Spiritual Realm, who sides with Mu Realm against the Mount Mangyin Sect.",
+    "power": [
+      {
+        "ep": 19,
+        "realm": "Spirit, Initial Phase",
+        "detail": "Leader of Nine Dragon City (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 19,
+        "label": "As introduced",
+        "img": "img/wiki/Lei_Shan_iq_com-Ep19-32a61d.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "yang-gui",
+    "name": "Yang Gui",
+    "zh": "",
+    "aka": [],
+    "wiki": "Yang Gui",
+    "ep": 19,
+    "group": "Northern Spiritual Realm powers",
+    "side": "enemy",
+    "intro": "Yang Gui is the leader of the Mount Mangyin Sect, the strongest underworld force in the Northern Spiritual Realm, which moves against Mu Realm.",
+    "power": [
+      {
+        "ep": 19,
+        "realm": "Spirit, Initial Phase",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 19,
+        "label": "As introduced",
+        "img": "img/wiki/Yang_Gui_iq_com-Ep20-d00ee2.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "lie-yan",
+    "name": "Lie Yan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Lie Yan",
+    "ep": 21,
+    "group": "Northern Spiritual Realm powers",
+    "side": "neutral",
+    "intro": "Lie Yan is the lord of Lie Realm. At the Meeting of the Nine Realms he walks out on Liu Qingtian's alliance and is killed by Liu Jingshan.",
+    "power": [
+      {
+        "ep": 21,
+        "realm": "Spirit, Middle Phase",
+        "detail": "Lord of the Lie Territory (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 21,
+        "label": "As introduced",
+        "img": "img/wiki/Lie_Yan_iq_com-Ep21-81f6cf.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "liu-jingshan",
+    "name": "Liu Jingshan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Liu Jingshan",
+    "ep": 21,
+    "group": "Northern Spiritual Realm powers",
+    "side": "enemy",
+    "intro": "Liu Jingshan is Liu Qingtian's father and the former lord of Liu Realm, long thought dead. He returns at Heavenly Fusion to force the other realms into his son's Northern Spiritual Alliance.",
+    "power": [
+      {
+        "ep": 21,
+        "realm": "Heavenly Fusion",
+        "detail": "stated on screen",
+        "quote": "Liu Jingshan. Fusion of Heaven Level. This old man is still alive. He even made a breakthrough. (896-901)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 21,
+        "label": "As introduced",
+        "img": "img/wiki/Liu_Jingshan_iq_com-Ep22-a83b5c.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "double-headed-hellhound",
+    "name": "Double-Headed Hellhound",
+    "zh": "",
+    "aka": [
+      "Double-headed Demon Dog"
+    ],
+    "wiki": "Double-Headed Hellhound",
+    "ep": 23,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "The Double-headed Demon Dog is Liu Jingshan's beast spirit, 98th on the Earth list of beasts, which he fuses with in his fight against Mu Chen.",
+    "power": [
+      {
+        "ep": 23,
+        "realm": "Heavenly Fusion",
+        "detail": "Liu Jingshan's beast spirit, forged with Heavenly Fusion strength",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 23,
+        "label": "As introduced"
+      }
+    ]
+  },
+  {
+    "id": "ge-qing",
+    "name": "Ge Qing",
+    "zh": "",
+    "aka": [],
+    "wiki": "Ge Qing",
+    "ep": 25,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "enemy",
+    "intro": "Ge Qing is a freshman in Mu Chen's intake at the Northern Heaven Spiritual Academy. He and two friends ambush Mu Chen for his mark during the entrance test, and he runs to his elder brother Ge Hai for revenge.",
+    "power": [
+      {
+        "ep": 25,
+        "realm": "Spiritual Rotation, Late Phase",
+        "detail": "stated on screen",
+        "quote": "The three of them are at the late stage of the Spiritual Ring Level. (578)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 25,
+        "label": "As introduced",
+        "img": "img/wiki/Ge_Qing-03353a.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "old-bai",
+    "name": "Old Bai",
+    "zh": "",
+    "aka": [],
+    "wiki": "Old Bai",
+    "ep": 25,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "neutral",
+    "intro": "Old Bai is the Northern Heaven Spiritual Academy elder who oversees the freshmen during the entrance test.",
+    "power": [
+      {
+        "ep": 25,
+        "realm": "Unknown"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 25,
+        "label": "As introduced",
+        "img": "img/wiki/Screenshot_154-9cf4d2.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "ye-sun-er",
+    "name": "Ye Sun'er",
+    "zh": "",
+    "aka": [],
+    "wiki": "Ye Sun'er",
+    "ep": 25,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "ally",
+    "intro": "Ye Sun'er is a 14-year-old spiritual formation master in Mu Chen's freshman intake, whom he rescues from golden crocodiles in the entrance test. She has come looking for her sister Ye Qingling.",
+    "power": [
+      {
+        "ep": 25,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 26,
+        "realm": "Spiritual Rotation, Middle Phase",
+        "detail": "Fan wiki (novel): middle Spiritual Rotation during the entrance exam",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 25,
+        "label": "As introduced",
+        "img": "img/wiki/Ye_Sun_er_donghua-S2_poster_0226_50__weibo___crop-5ba808.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "ge-hai",
+    "name": "Ge Hai",
+    "zh": "",
+    "aka": [],
+    "wiki": "Ge Hai",
+    "ep": 26,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "enemy",
+    "intro": "Ge Hai is Ge Qing's elder brother and leader of the Ge Gang, a Spirit-level freshman who carries a scar Mu Chen gave him on the Spiritual Land and wants revenge.",
+    "power": [
+      {
+        "ep": 25,
+        "realm": "Spirit",
+        "detail": "stated on screen",
+        "quote": "My spiritual compass can locate my eldest brother. He has been to the Spiritual Land. Now, he has reached the Divine Soul Level. (880-885)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 26,
+        "label": "As introduced",
+        "img": "img/wiki/Ge_Hai-42c803.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "ye-qingling",
+    "name": "Ye Qingling",
+    "zh": "",
+    "aka": [],
+    "wiki": "Ye Qingling",
+    "ep": 26,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "ally",
+    "intro": "Ye Qingling is Ye Sun'er's elder sister and leader of the Ye Gang in the entrance test, a Spirit-level freshman who steps in to help Mu Chen against the Ge Gang.",
+    "power": [
+      {
+        "ep": 26,
+        "realm": "Spirit",
+        "detail": "stated on screen",
+        "quote": "Is she Sun'er's sister ... I didn't expect she is also at the Divine Soul Level. (572-574)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 26,
+        "label": "As introduced",
+        "img": "img/wiki/Screenshot_60-bebece.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "chu-qi",
+    "name": "Chu Qi",
+    "zh": "",
+    "aka": [],
+    "wiki": "Chu Qi",
+    "ep": 27,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "rival",
+    "intro": "Chu Qi is the leader of the Chu Clan in the entrance test, a middle-Spirit freshman who joined the academy for Luo Li and challenges Mu Chen to stay away from her.",
+    "power": [
+      {
+        "ep": 27,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 28,
+        "realm": "Spirit, Middle Phase",
+        "detail": "stated on screen",
+        "quote": "I think he has reached the middle stage of the Divine Soul Level. (106) / Chu Qi is already in the middle stage of the Divine Soul Level. (711-712)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 27,
+        "label": "As introduced",
+        "img": "img/wiki/Chu_qi-40abcf.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "geocentric-flame-jalapura",
+    "name": "Geocentric Flame Jalapura",
+    "zh": "",
+    "aka": [
+      "Flame Spirit Lizard"
+    ],
+    "wiki": "Geocentric Flame Jalapura",
+    "ep": 29,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "The Flame Spirit Lizard is a heaven-level beast, 70th on the Earth list, that bursts out of the ground in the Ice Valley and overpowers the Frost Spirit Dragon.",
+    "power": [
+      {
+        "ep": 29,
+        "realm": "Heavenly Fusion, Initial Phase",
+        "detail": "Heaven-level beast, 70th on the Earth list (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 29,
+        "label": "As introduced",
+        "img": "img/wiki/Geocentric_Flame_Jalapura_iq_com_Ep30_1-c9c008.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mysterious-spirithail-dragon",
+    "name": "Mysterious Spirithail Dragon",
+    "zh": "",
+    "aka": [
+      "Frost Spirit Dragon"
+    ],
+    "wiki": "Mysterious Spirithail Dragon",
+    "ep": 29,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "The Frost Spirit Dragon is the heaven-level beast guarding the Ice Valley, 73rd on the Earth list, fighting at early Heavenly Fusion strength.",
+    "power": [
+      {
+        "ep": 29,
+        "realm": "Heavenly Fusion, Initial Phase",
+        "detail": "stated on screen",
+        "quote": "Indeed, it has the strength of the early-stage Fusion of Heaven Level. (346)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 29,
+        "label": "As introduced",
+        "img": "img/wiki/Mysterious_Spirithail_Dragon_iq_com_Ep29_2-42b494.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "qin-zheng",
+    "name": "Qin Zheng",
+    "zh": "",
+    "aka": [],
+    "wiki": "Qin Zheng",
+    "ep": 29,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "enemy",
+    "intro": "Qin Zheng is a late-Spirit freshman who hunts the Ice Valley beasts in the entrance test and then chases Mu Chen for their spirits with Wu Hu and Xie Guan.",
+    "power": [
+      {
+        "ep": 29,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 31,
+        "realm": "Spirit, Late Phase",
+        "detail": "stated on screen",
+        "quote": "You are no match for the three of us, who are all at the late stage of the Divine Soul Level. (546-548)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 29,
+        "label": "As introduced",
+        "img": "img/wiki/Qin_Zheng_iqcom-TGR_Ep31_1-b66a58.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "wu-hu",
+    "name": "Wu Hu",
+    "zh": "",
+    "aka": [],
+    "wiki": "Wu Hu",
+    "ep": 29,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "enemy",
+    "intro": "Wu Hu is a late-Spirit freshman who, with Qin Zheng and Xie Guan, chases Mu Chen for the Ice Valley beast spirits in the entrance test.",
+    "power": [
+      {
+        "ep": 29,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 31,
+        "realm": "Spirit, Late Phase",
+        "detail": "stated on screen",
+        "quote": "...the three of us, who are all at the late stage of the Divine Soul Level. (548)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 29,
+        "label": "As introduced",
+        "img": "img/wiki/Wu_Hu_iqcom-TGR_Ep31_1-f95d10.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "xie-guan",
+    "name": "Xie Guan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Xie Guan",
+    "ep": 29,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "enemy",
+    "intro": "Xie Guan is a late-Spirit freshman among the crowd at the Ice Valley who later chases Mu Chen for the beast spirits with Qin Zheng and Wu Hu.",
+    "power": [
+      {
+        "ep": 29,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 31,
+        "realm": "Spirit, Late Phase",
+        "detail": "stated on screen",
+        "quote": "...the three of us, who are all at the late stage of the Divine Soul Level. (548)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 29,
+        "label": "As introduced",
+        "img": "img/wiki/Xie_Guan_iqcom-TGR_Ep31_1-9196b1.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "an-ran",
+    "name": "An Ran",
+    "zh": "",
+    "aka": [],
+    "wiki": "An Ran",
+    "ep": 32,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "neutral",
+    "intro": "An Ran is a Heavenly Fusion senior of the Northern Heaven Spiritual Academy who welcomes the freshmen at the Northern Heaven Palace. Mu Chen draws her in the freshmen's challenge and wins.",
+    "power": [
+      {
+        "ep": 32,
+        "realm": "Heavenly Fusion",
+        "detail": "stated on screen",
+        "quote": "[An Ran at Fusion of Heaven Level] (294) / Since she is at the Fusion of Heaven Level, I'm going to do my best. (384)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 32,
+        "label": "As introduced",
+        "img": "img/wiki/An_Ran_7-78c4c5.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "bing-qing",
+    "name": "Bing Qing",
+    "zh": "",
+    "aka": [],
+    "wiki": "Bing Qing",
+    "ep": 33,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "neutral",
+    "intro": "Bing Qing is a genius of the Ice Spirit Race and one of the standout freshmen of Mu Chen's year at the Northern Heaven Spiritual Academy.",
+    "power": [
+      {
+        "ep": 33,
+        "realm": "Heavenly Fusion, Initial Phase",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 33,
+        "label": "As introduced",
+        "img": "img/wiki/Bing_Qing_1-fe7308.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mo-lun",
+    "name": "Mo Lun",
+    "zh": "",
+    "aka": [],
+    "wiki": "Mo Lun",
+    "ep": 33,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "enemy",
+    "intro": "Mo Lun is a Northern Heaven Spiritual Academy senior and Qinghong Club member who has been sitting in third place on the Divine Soul Ranking. When Mu Chen takes it from him, he comes after the freshmen for revenge.",
+    "power": [
+      {
+        "ep": 33,
+        "realm": "Spirit",
+        "detail": "Held 3rd place on the Spirit (\"Divine Soul\") Ranking until Mu Chen took it",
+        "conf": "medium"
+      },
+      {
+        "ep": 40,
+        "realm": "Heavenly Fusion, Initial Phase",
+        "detail": "Fan wiki (novel): has since reached early Heavenly Fusion",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 33,
+        "label": "As introduced",
+        "img": "img/wiki/Mo_lun-12ce14.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mu-kui",
+    "name": "Mu Kui",
+    "zh": "",
+    "aka": [],
+    "wiki": "Mu Kui",
+    "ep": 33,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "rival",
+    "intro": "Mu Kui is one of the standout freshmen of Mu Chen's year at the Northern Heaven Spiritual Academy, who goes on to found the Iron Wood Gang.",
+    "power": [
+      {
+        "ep": 33,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 37,
+        "realm": "Heavenly Fusion, Initial Phase",
+        "detail": "Fan wiki (novel): early Heavenly Fusion by the freshman competition",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 33,
+        "label": "As introduced"
+      }
+    ]
+  },
+  {
+    "id": "yang-hong",
+    "name": "Yang Hong",
+    "zh": "",
+    "aka": [],
+    "wiki": "Yang Hong",
+    "ep": 33,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "rival",
+    "intro": "Yang Hong is Mu Chen's rival from the Spiritual Land and Ji Xuan's follower, now a fellow freshman at the Northern Heaven Spiritual Academy. He mocks Mu Chen's realm and promises to settle their score at the freshman assembly.",
+    "power": [
+      {
+        "ep": 33,
+        "realm": "Heavenly Fusion, Initial Phase",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      },
+      {
+        "ep": 37,
+        "realm": "Heavenly Fusion, Middle Phase",
+        "detail": "stated on screen",
+        "quote": "He's at the middle stage of the Fusion of Heaven Level.",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 33,
+        "label": "As introduced",
+        "img": "img/wiki/Vlcsnap-2024-01-26-15h10m27s557-c00592.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "shen-cangsheng",
+    "name": "Shen Cangsheng",
+    "zh": "",
+    "aka": [
+      "Demon Dragon Hunter"
+    ],
+    "wiki": "Shen Cangsheng",
+    "ep": 33,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "neutral",
+    "intro": "Shen Cangsheng is first on the Northern Heaven Spiritual Academy's Heavenly Ranking. He is known as the Demon Dragon Hunter for his pursuit of Mo Longzi.",
+    "power": [
+      {
+        "ep": 33,
+        "realm": "Three Sovereign Disasters, Human Body Disaster",
+        "detail": "stated in EP80",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 33,
+        "label": "As introduced",
+        "img": "img/wiki/Shen_Cangsheng_DonghuaTGR-Ep52_01__cr-9e89ac.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "zhu-tian",
+    "name": "Zhu Tian",
+    "zh": "",
+    "aka": [],
+    "wiki": "Zhu Tian",
+    "ep": 35,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "neutral",
+    "intro": "Elder Zhu Tian is a senior elder of the Northern Heaven Spiritual Academy who leads the freshmen through the Spiritual Arts Divine Hall.",
+    "power": [
+      {
+        "ep": 35,
+        "realm": "Sovereign",
+        "detail": "stated in EP75",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 35,
+        "label": "As introduced",
+        "img": "img/wiki/Zhou_Tian_2-6ef0c1.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "li-xuantong",
+    "name": "Li Xuantong",
+    "zh": "",
+    "aka": [],
+    "wiki": "Li Xuantong",
+    "ep": 36,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "rival",
+    "intro": "Li Xuantong is second on the Heavenly Ranking and Luo Li's childhood friend. He watches the freshman competition closely and soon tells Mu Chen he is not worthy of her.",
+    "power": [
+      {
+        "ep": 35,
+        "realm": "Heavenly Transformation, Late Phase",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 36,
+        "label": "As introduced",
+        "img": "img/wiki/Li_Xuantong_1-002ed6.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mountain-devouring-python",
+    "name": "Mountain Devouring Python",
+    "zh": "",
+    "aka": [],
+    "wiki": "Mountain Devouring Python",
+    "ep": 36,
+    "group": "Spiritual beasts",
+    "side": "neutral",
+    "intro": "The Mountain Devouring Python is a heaven-level beast, 86th on the Earth list. A baby one attacks the freshmen on North Spiritual Mountain.",
+    "power": [
+      {
+        "ep": 36,
+        "realm": "Heavenly Fusion, Initial Phase",
+        "detail": "A young heaven-rank beast, 86th on the Myriad Beast Record (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 36,
+        "label": "As introduced"
+      }
+    ]
+  },
+  {
+    "id": "su-ling-er",
+    "name": "Su Ling'er",
+    "zh": "",
+    "aka": [],
+    "wiki": "Su Ling'er",
+    "ep": 39,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "rival",
+    "intro": "Su Ling'er is Su Xuan's younger sister, a whip-wielding Heavenly Fusion student who holds first place on the Divine Soul Ranking until Mu Chen takes it. She swears to teach him a lesson.",
+    "power": [
+      {
+        "ep": 39,
+        "realm": "Heavenly Fusion",
+        "detail": "stated on screen",
+        "quote": "possesses the strength of the Fusion of Heaven Level.",
+        "conf": "high"
+      },
+      {
+        "ep": 40,
+        "realm": "Heavenly Fusion, Middle Phase",
+        "detail": "stated on screen",
+        "quote": "she is about to reach the late stage of the Fusion of Heaven Level.",
+        "conf": "high"
+      },
+      {
+        "ep": 41,
+        "realm": "Heavenly Fusion, Late Phase",
+        "detail": "stated on screen",
+        "quote": "You've reached a higher level? ... She's also at the late stage of the Fusion of Heaven Level.",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 39,
+        "label": "As introduced",
+        "img": "img/wiki/Su_Ling_Er_1-62c891.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "su-xuan",
+    "name": "Su Xuan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Su Xuan",
+    "ep": 39,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "neutral",
+    "intro": "Su Xuan is Su Ling'er's elder sister and third on the Heavenly Ranking of the Northern Heaven Spiritual Academy.",
+    "power": [
+      {
+        "ep": 39,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 44,
+        "realm": "Heavenly Transformation, Middle Phase",
+        "detail": "stated on screen",
+        "quote": "she's at the middle stage of the Transformation of Heaven Level.",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 39,
+        "label": "As introduced",
+        "img": "img/wiki/Su_Xuan_donghua39_01-6394da.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "huo-feng",
+    "name": "Huo Feng",
+    "zh": "",
+    "aka": [],
+    "wiki": "Huo Feng",
+    "ep": 40,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "rival",
+    "intro": "Huo Feng is the boss of the Qinghong Club, a late-phase Heavenly Fusion student who demands that Mu Chen hand back the spirit value he took from Mo Lun.",
+    "power": [
+      {
+        "ep": 40,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 41,
+        "realm": "Heavenly Fusion, Late Phase",
+        "detail": "stated on screen",
+        "quote": "Huo Feng is at the late stage of the Fusion of Heaven Level.",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 40,
+        "label": "As introduced",
+        "img": "img/wiki/NHSA_Huo_Feng_Donghua-TGR_iq_com-Ep41_1__noBG-3ae093.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "xu-qingqing",
+    "name": "Xu Qingqing",
+    "zh": "",
+    "aka": [],
+    "wiki": "Xu Qingqing",
+    "ep": 40,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "rival",
+    "intro": "Xu Qingqing is Su Ling'er's long-standing rival, a late-phase Heavenly Fusion student who fights Mu Chen for the Heavenly Spiritual Lotus and leans on her brother Xu Huang.",
+    "power": [
+      {
+        "ep": 40,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 41,
+        "realm": "Heavenly Fusion, Late Phase",
+        "detail": "stated on screen",
+        "quote": "You are at the late stage of the Fusion of Heaven Level.",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 40,
+        "label": "As introduced",
+        "img": "img/wiki/Xu_Qingqing_2-70dbef.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "xu-huang",
+    "name": "Xu Huang",
+    "zh": "",
+    "aka": [],
+    "wiki": "Xu Huang",
+    "ep": 41,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "rival",
+    "intro": "Xu Huang is Xu Qingqing's elder brother and fifth on the Heavenly Ranking, who vows revenge on Mu Chen for his sister.",
+    "power": [
+      {
+        "ep": 41,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 42,
+        "realm": "Heavenly Transformation",
+        "detail": "stated on screen",
+        "quote": "Xu Huang has obviously reached the Transformation of Heaven Level.",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 41,
+        "label": "As introduced",
+        "img": "img/wiki/Xu_Huang_donghua53_02__crop-0d3289.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "he-yao",
+    "name": "He Yao",
+    "zh": "",
+    "aka": [],
+    "wiki": "He Yao",
+    "ep": 42,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "neutral",
+    "intro": "He Yao is fourth on the Heavenly Ranking, a senior who turns up with Su Xuan to watch Mu Chen's duel with Li Xuantong.",
+    "power": [
+      {
+        "ep": 42,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 53,
+        "realm": "Heavenly Transformation, Peak of Late Phase",
+        "detail": "half-step Heavenly Completion",
+        "quote": "Today, I'll show you what half a step into the Completion of Heaven Level means! (1052.5)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 42,
+        "label": "As introduced",
+        "img": "img/wiki/He_Yao_donghua-Ep53_01-f13173.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "bai-dong",
+    "name": "Bai Dong",
+    "zh": "",
+    "aka": [],
+    "wiki": "Bai Dong",
+    "ep": 44,
+    "group": "Demonic Dragon Palace",
+    "side": "enemy",
+    "intro": "Bai Dong is the young master of White Dragon City and Bai Xuan's son, guarded by Elder Qiu. He loses to Su Ling'er at the Jiuxia auction, then buys the White Dragon Jade Pillar.",
+    "power": [
+      {
+        "ep": 44,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 47,
+        "realm": "Heavenly Fusion, Late Phase",
+        "detail": "Fan wiki (novel): late Heavenly Fusion in the White Dragon Sovereign's treasury",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 44,
+        "label": "As introduced",
+        "img": "img/wiki/Bai_Dong_Donghua-TGR_iq_com-Ep45_1-13ac02.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "bai-xuan",
+    "name": "Bai Xuan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Bai Xuan",
+    "ep": 44,
+    "group": "Demonic Dragon Palace",
+    "side": "enemy",
+    "intro": "Bai Xuan is the governor of White Dragon City and Bai Dong's father, secretly a man of the Dragon Demon Palace. He orders the Dragon Demon Guards to kill the Northern Heaven students on the mission.",
+    "power": [
+      {
+        "ep": 44,
+        "realm": "Heavenly Transformation, Middle Phase",
+        "detail": "stated in EP48",
+        "conf": "medium"
+      },
+      {
+        "ep": 49,
+        "realm": "Heavenly Transformation, Late Phase",
+        "detail": "stated on screen",
+        "quote": "Do you really think this is all that I've got? ... The late stage of the Transformation of Heaven Level.",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 44,
+        "label": "As introduced",
+        "img": "img/wiki/Bai_Xuan-2d5f10.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "bi-sheng",
+    "name": "Bi Sheng",
+    "zh": "",
+    "aka": [],
+    "wiki": "Bi Sheng",
+    "ep": 44,
+    "group": "Chambers of commerce",
+    "side": "neutral",
+    "intro": "Bi Sheng runs the Jiuxia Chamber of Commerce auction in White Dragon City.",
+    "power": [
+      {
+        "ep": 44,
+        "realm": "Unknown"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 44,
+        "label": "As introduced",
+        "img": "img/wiki/Bi_Sheng__Donghua_S1_EP44-2b0810.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "elder-qiu",
+    "name": "Elder Qiu",
+    "zh": "",
+    "aka": [],
+    "wiki": "Elder Qiu",
+    "ep": 44,
+    "group": "Demonic Dragon Palace",
+    "side": "enemy",
+    "intro": "Elder Qiu of White Dragon City is Bai Dong's protector, at the initial phase of Heavenly Transformation.",
+    "power": [
+      {
+        "ep": 44,
+        "realm": "Heavenly Transformation, Initial Phase",
+        "detail": "stated on screen",
+        "quote": "is possibly at the early stage of the Transformation of Heaven Level. [Elder Qiu of White Dragon City]",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 44,
+        "label": "As introduced",
+        "img": "img/wiki/Elder_Liu_Donghua-TGR_iq_com-Ep44_1-ab5017.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "white-dragon-sovereign",
+    "name": "White Dragon Sovereign",
+    "zh": "",
+    "aka": [
+      "White Dragon Supreme Lord"
+    ],
+    "wiki": "White Dragon Sovereign",
+    "ep": 45,
+    "group": "Demonic Dragon Palace",
+    "side": "neutral",
+    "intro": "The White Dragon Sovereign is a long-dead Sovereign whose treasure lies under the White Dragon Hill. His image appears in the sky as the treasure opens, and Bai Xuan later calls him a traitor to the Dragon Demon Palace.",
+    "power": [
+      {
+        "ep": 45,
+        "realm": "Sovereign",
+        "detail": "stated in EP48",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 45,
+        "label": "As introduced",
+        "img": "img/wiki/White_Dragon_Donghua__2023__Backdrop06__tmdb-41d95b.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "black-dragon-sovereign",
+    "name": "Black Dragon Sovereign",
+    "zh": "",
+    "aka": [
+      "Black Dragon Supreme Lord"
+    ],
+    "wiki": "Black Dragon Sovereign",
+    "ep": 48,
+    "group": "Demonic Dragon Palace",
+    "side": "enemy",
+    "intro": "The Black Dragon Sovereign is the Sovereign who leads the Dragon Demon Palace. He first appears as a doppelganger summoned by Bai Xuan to face the White Dragon Sovereign's residual image.",
+    "power": [
+      {
+        "ep": 48,
+        "realm": "Sovereign",
+        "detail": "stated on screen",
+        "quote": "Greetings, Black Dragon Supreme Lord.",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 48,
+        "label": "As introduced",
+        "img": "img/wiki/Fang_Fei_Lin__Black_Dragon_Sovereign__drama-Ep2_01-5f57c6.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mo-longzi",
+    "name": "Mo Longzi",
+    "zh": "",
+    "aka": [],
+    "wiki": "Mo Longzi",
+    "ep": 51,
+    "group": "Demonic Dragon Palace",
+    "side": "enemy",
+    "intro": "Mo Longzi is a Dragon Demon Palace prodigy and second on the Northern Heaven Spiritual Academy's bounty list. He arrives as Bai Xuan's backup and catches the wounded students at the White Dragon Hill.",
+    "power": [
+      {
+        "ep": 51,
+        "realm": "Heavenly Completion",
+        "detail": "Stronger than the late-Heavenly-Transformation Bai Xuan; the wiki puts him at Heavenly Completion",
+        "conf": "low"
+      },
+      {
+        "ep": 64,
+        "realm": "Heavenly Completion, Late Phase",
+        "detail": "Fan wiki (novel): late Heavenly Completion by the Fog Valley siege",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 51,
+        "label": "As introduced",
+        "img": "img/wiki/Mo_Longzi_manhua117_02-portrait__noBG-dac9c0.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mu-fengyang",
+    "name": "Mu Fengyang",
+    "zh": "",
+    "aka": [],
+    "wiki": "Mu Fengyang",
+    "ep": 53,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "ally",
+    "intro": "Mu Fengyang is a Northern Heaven Spiritual Academy senior on the Heavenly Ranking who later becomes one of Mu Chen's three teammates at the Spiritual Academy Competition.",
+    "power": [
+      {
+        "ep": 53,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 87,
+        "realm": "Three Sovereign Disasters, Human Body Disaster",
+        "detail": "stated on screen",
+        "quote": "Haven't I already passed the Tribulation of the Physical Body? / 'why do you look like you just passed the Tribulation of the Physical Body?'",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 53,
+        "label": "As introduced",
+        "img": "img/wiki/Mu_Fengyang_manhua140_01-043761.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "tai-cang",
+    "name": "Tai Cang",
+    "zh": "",
+    "aka": [],
+    "wiki": "Tai Cang",
+    "ep": 53,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "ally",
+    "intro": "Tai Cang is the dean of the Northern Heaven Spiritual Academy, a Sovereign. He opens the academy's hunting battle, whose winners earn the Spiritual Light Infusion.",
+    "power": [
+      {
+        "ep": 53,
+        "realm": "Sovereign, 5th Grade",
+        "detail": "Dean of the academy (novel); holds off the Black Dragon Sovereign in EP68",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 53,
+        "label": "As introduced",
+        "img": "img/wiki/Dean_Tai_Cang-3a4fb5.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "xiao-yan",
+    "name": "Xiao Yan",
+    "zh": "",
+    "aka": [
+      "Flame Emperor"
+    ],
+    "wiki": "Xiao Yan",
+    "ep": 53,
+    "group": "Cameos from other stories",
+    "side": "neutral",
+    "intro": "Xiao Yan, the Flame Emperor of the Infinite Flame Realm, is the hero of Battle Through the Heavens. He asks his mentor Yao Chen how to help the struggling Luo race, which once owed its survival to him.",
+    "power": [
+      {
+        "ep": 53,
+        "realm": "Heavenly Sovereign, Saint Grade, Late Phase",
+        "detail": "The Flame Emperor; EP43 says he made a Heavenly Sovereign ancestor afraid. Top of this world's scale (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 53,
+        "label": "As introduced",
+        "img": "img/wiki/Xiao_Yan_01-87cdc4.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "yao-chen",
+    "name": "Yao Chen",
+    "zh": "",
+    "aka": [],
+    "wiki": "Yao Chen",
+    "ep": 53,
+    "group": "Cameos from other stories",
+    "side": "neutral",
+    "intro": "Yao Chen is Xiao Yan's mentor in the Infinite Flame Realm, a cameo from Battle Through the Heavens.",
+    "power": [
+      {
+        "ep": 53,
+        "realm": "Heavenly Sovereign, Late Phase",
+        "detail": "Xiao Yan's teacher; a late-phase Heavenly Sovereign (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 53,
+        "label": "As introduced",
+        "img": "img/wiki/Yao_Chen_Novel-85e7b4.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "zhao-qingshan",
+    "name": "Zhao Qingshan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Zhao Qingshan",
+    "ep": 53,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "ally",
+    "intro": "Zhao Qingshan is a Northern Heaven Spiritual Academy senior whose group Mu Chen and Luo Li rescue from the Spirit King in the hunting battle. He later joins Mu Chen's team for the Spiritual Academy Competition.",
+    "power": [
+      {
+        "ep": 53,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 87,
+        "realm": "Heavenly Completion",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 53,
+        "label": "As introduced",
+        "img": "img/wiki/Zhao_Qingshan_donghua-Ep53_01-1e832d.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "cai-lin",
+    "name": "Cai Lin",
+    "zh": "",
+    "aka": [],
+    "wiki": "Cai Lin",
+    "ep": 54,
+    "group": "Cameos from other stories",
+    "side": "neutral",
+    "intro": "Cai Lin is Xiao Yan's wife and Xiao Xiao's mother, a cameo from Battle Through the Heavens set in the Infinite Flame Realm.",
+    "power": [
+      {
+        "ep": 54,
+        "realm": "Heavenly Sovereign, Saint Grade",
+        "detail": "Xiao Yan's wife, the Snake-People queen; a Saint-grade Heavenly Sovereign (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 54,
+        "label": "As introduced",
+        "img": "img/wiki/Cai_Lin_BTTH_S3_poster-73887b.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "gu-tianyan",
+    "name": "Gu Tianyan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Gu Tianyan",
+    "ep": 54,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "rival",
+    "intro": "Gu Tianyan is one of the Three Generals of the Penalty Hall, a former third on the Heavenly Ranking who wields the Heavenly Flame Divine Art. Mu Chen challenges him after the hunting battle.",
+    "power": [
+      {
+        "ep": 54,
+        "realm": "Heavenly Completion, Initial Phase",
+        "detail": "stated in EP55",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 54,
+        "label": "As introduced",
+        "img": "img/wiki/Gu_Tianyan_manhua164_05-5fa431.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "lin-zheng",
+    "name": "Lin Zheng",
+    "zh": "",
+    "aka": [],
+    "wiki": "Lin Zheng",
+    "ep": 54,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "rival",
+    "intro": "Lin Zheng is the strongest of the Three Generals of the Penalty Hall and a former first on the Heavenly Ranking. Shen Cangsheng challenges him after the hunting battle.",
+    "power": [
+      {
+        "ep": 54,
+        "realm": "Heavenly Completion, Middle Phase",
+        "detail": "stated in EP55",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 54,
+        "label": "As introduced",
+        "img": "img/wiki/Lin_Zheng_manhua164_01__noBG-a03d1a.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mo-you",
+    "name": "Mo You",
+    "zh": "",
+    "aka": [],
+    "wiki": "Mo You",
+    "ep": 54,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "ally",
+    "intro": "Mo You is the master of the Penalty Hall and a senior elder of the Northern Heaven Spiritual Academy. He conducts Luo Li's Spiritual Light Infusion himself after seeing the Luo Divine Sword.",
+    "power": [
+      {
+        "ep": 54,
+        "realm": "Sovereign",
+        "detail": "stated in EP75",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 54,
+        "label": "As introduced",
+        "img": "img/wiki/Mo_You_2-6eba97.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "northern-sea-dragon",
+    "name": "Northern Sea Dragon",
+    "zh": "",
+    "aka": [
+      "Dragon Fish of Beiming",
+      "Lord Beiming",
+      "Beiming",
+      "Lord Dragon Fish of Beiming"
+    ],
+    "wiki": "Northern Sea Dragon",
+    "ep": 54,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "mentor",
+    "intro": "The Northern Sea Dragon, Lord Dragon Fish of Beiming, is the Northern Heaven Spiritual Academy's guardian beast, whose Spiritual Light Infusion is the hunting battle's prize. Jiu You wants his essence and blood, and he also created the Thunder Realm.",
+    "power": [
+      {
+        "ep": 54,
+        "realm": "Sovereign",
+        "detail": "stated in EP57",
+        "conf": "medium"
+      },
+      {
+        "ep": 69,
+        "realm": "Sovereign, 9th Grade",
+        "detail": "stated on screen",
+        "quote": "If it weren't for the Dragon Fish of Beiming, the Ninth-Rank Supreme Lord... (479) / He is about to become an Earth Supreme Lord. (496)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 54,
+        "label": "As introduced",
+        "img": "img/wiki/Northern_Sea_Dragon_donghua57_01__crop-072f6d.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "xiao-xiao",
+    "name": "Xiao Xiao",
+    "zh": "",
+    "aka": [],
+    "wiki": "Xiao Xiao",
+    "ep": 54,
+    "group": "Cameos from other stories",
+    "side": "neutral",
+    "intro": "Xiao Xiao is the Flame Emperor Xiao Yan's daughter and Luo Li's best friend. She comes out of seclusion in the Infinite Flame Realm almost at Sovereign, and Xiao Yan has a mission waiting for her.",
+    "power": [
+      {
+        "ep": 54,
+        "realm": "Half-step Sovereign",
+        "detail": "stated on screen",
+        "quote": "-No Supreme Lord level, no leaving. / But I'm almost at that level. (152.5, 160.5)",
+        "conf": "high"
+      },
+      {
+        "ep": 62,
+        "realm": "Sovereign",
+        "detail": "stated on screen",
+        "quote": "I didn't expect you to have reached the Supreme Lord Level. (556) - Luo Li to Xiao Xiao",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 54,
+        "label": "As introduced",
+        "img": "img/wiki/Xiao_Xiao_donghua_Concept_Design__qq-efe601.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "zhou-qingshan",
+    "name": "Zhou Qingshan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Zhou Qingshan",
+    "ep": 54,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "rival",
+    "intro": "Zhou Qingshan is one of the Three Generals of the Penalty Hall, a former second on the Heavenly Ranking whose Invincible Divine Art has never lost at the same level. Li Xuantong challenges him after the hunting battle.",
+    "power": [
+      {
+        "ep": 54,
+        "realm": "Heavenly Completion, Initial Phase",
+        "detail": "stated in EP55",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 54,
+        "label": "As introduced",
+        "img": "img/wiki/Zhou_Qingshan_donghua-Ep55_02-8fc2d6.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "fei-qingsong",
+    "name": "Fei Qingsong",
+    "zh": "",
+    "aka": [],
+    "wiki": "Fei Qingsong",
+    "ep": 58,
+    "group": "Other academies",
+    "side": "enemy",
+    "intro": "Fei Qingsong is the dean of the Supreme Cauldron Spiritual Academy. He brings his students to North Heaven for 'friendly' matches while Shen Cangsheng and Li Xuantong are away.",
+    "power": [
+      {
+        "ep": 58,
+        "realm": "Sovereign",
+        "detail": "stated in EP77",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 58,
+        "label": "As introduced",
+        "img": "img/wiki/Fei_Qingsong_manhua_181-279ef9.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "liu-zheng",
+    "name": "Liu Zheng",
+    "zh": "",
+    "aka": [],
+    "wiki": "Liu Zheng",
+    "ep": 58,
+    "group": "Other academies",
+    "side": "enemy",
+    "intro": "Liu Zheng is a Supreme Cauldron Spiritual Academy student, once expelled from North Heaven for killing fellow students over tokens. He crushes Xu Huang and Su Xuan in the Supreme Cauldron matches.",
+    "power": [
+      {
+        "ep": 58,
+        "realm": "Heavenly Completion, Initial Phase",
+        "detail": "Fan wiki (novel); beats two Heavenly Transformation seniors before losing to Luo Li",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 58,
+        "label": "As introduced",
+        "img": "img/wiki/Liu_Zheng_donghua58_03__crop-7d2233.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "xue-shi",
+    "name": "Xue Shi",
+    "zh": "",
+    "aka": [],
+    "wiki": "Xue Shi",
+    "ep": 58,
+    "group": "Blood God Clan",
+    "side": "enemy",
+    "intro": "Xue Shi is a middle-phase Heavenly Completion student of the Supreme Cauldron Spiritual Academy and a royal of the Blood race. He taunts Luo Li about her clan's coming slaughter and beats her in the arena.",
+    "power": [
+      {
+        "ep": 58,
+        "realm": "Heavenly Completion, Middle Phase",
+        "detail": "stated on screen",
+        "quote": "[Xue Shi, Mid-stage of Completion of Heaven Level] (925.5)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 58,
+        "label": "As introduced",
+        "img": "img/wiki/Xue_Shi_manhua181_01-ff4d58.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "lin-dong",
+    "name": "Lin Dong",
+    "zh": "",
+    "aka": [
+      "Martial Ancestor"
+    ],
+    "wiki": "Lin Dong",
+    "ep": 59,
+    "group": "Cameos from other stories",
+    "side": "neutral",
+    "intro": "Lin Dong is the Martial Ancestor, the hero of Wu Dong Qian Kun, whom the White Dragon Sovereign's remnant will tells Mu Chen about.",
+    "power": [
+      {
+        "ep": 59,
+        "realm": "Heavenly Sovereign, Saint Grade, Late Phase",
+        "detail": "The Martial Ancestor of the Martial Realm; top of this world's scale (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 59,
+        "label": "As introduced",
+        "img": "img/wiki/Lin_Dong_Novel_01-bb7311.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "ji-xuan",
+    "name": "Ji Xuan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Ji Xuan",
+    "ep": 60,
+    "group": "Holy Spiritual Academy",
+    "side": "enemy",
+    "intro": "Ji Xuan is the Holy Spiritual Academy's star and Mu Chen's great enemy from the Spiritual Land, where Luo Li cost him the Spirit Crown. He finally shows himself when Tai Cang names him as a future opponent.",
+    "power": [
+      {
+        "ep": 60,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 81,
+        "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+        "detail": "Holy Spiritual Academy Holy Sons have \"at least passed\" the Spiritual Energy Disaster",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 60,
+        "label": "As introduced",
+        "img": "img/wiki/Ji_Xuan_Season_2_-_01-e7fffa.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "ling-xi",
+    "name": "Ling Xi",
+    "zh": "",
+    "aka": [],
+    "wiki": "Ling Xi",
+    "ep": 61,
+    "group": "Northern Heavens Spiritual Academy",
+    "side": "ally",
+    "intro": "Ling Xi is the Northern Heaven Spiritual Academy's best spiritual formation master, a young elder who refuses to teach men until her student Ye Sun'er talks her into training Mu Chen.",
+    "power": [
+      {
+        "ep": 61,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 71,
+        "realm": "Sovereign",
+        "detail": "stated on screen",
+        "quote": "Those below the Supreme Lord Level are all ants... is actually.. a Supreme Lord. She's actually a Supreme Lord! So young. (715-725)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 61,
+        "label": "As introduced",
+        "img": "img/wiki/Ling_Xi_Season_2_-_01-caf92e.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "tian-sheng",
+    "name": "Tian Sheng",
+    "zh": "",
+    "aka": [],
+    "wiki": "Tian Sheng",
+    "ep": 61,
+    "group": "Holy Spiritual Academy",
+    "side": "enemy",
+    "intro": "Tian Sheng is the dean of the Holy Spiritual Academy, a Sovereign who checks with Ji Xuan that the Fog Valley trap is ready.",
+    "power": [
+      {
+        "ep": 61,
+        "realm": "Sovereign, Peak",
+        "detail": "stated in EP65",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 61,
+        "label": "As introduced",
+        "img": "img/wiki/Tian_Sheng_donghua65_03-a52166.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "qing-yanjing",
+    "name": "Qing Yanjing",
+    "zh": "",
+    "aka": [
+      "Aunt Jing",
+      "Jing"
+    ],
+    "wiki": "Qing Yanjing",
+    "ep": 62,
+    "group": "Ancient Buddha Clan",
+    "side": "ally",
+    "intro": "Qing Yanjing, whom Mu Feng and Ling Xi call Jing, is Mu Chen's mother, who left him the Great Buddha Art. He recognises her in a painting that Ling Xi shows him.",
+    "power": [
+      {
+        "ep": 62,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 78,
+        "realm": "Heavenly Sovereign, Saint Grade",
+        "detail": "stated on screen",
+        "quote": "[Qing Yanjing, Saint-Rank Spiritual Formation Grandmaster] (272) / Are you a Heavenly Supreme Lord? (540) / A Saint-Rank Heavenly Supreme Lord! (567)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 62,
+        "label": "As introduced",
+        "img": "img/wiki/Qing_Yanjing_painting_manhua199_01-cacf36.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "chi-yu",
+    "name": "Chi Yu",
+    "zh": "",
+    "aka": [],
+    "wiki": "Chi Yu",
+    "ep": 62,
+    "group": "Bounty list fighters",
+    "side": "enemy",
+    "intro": "Chi Yu is seventh on the Northern Heaven Spiritual Academy's bounty list, one of the fighters who helps Mo Longzi trap Shen Cangsheng and Li Xuantong in the Fog Valley.",
+    "power": [
+      {
+        "ep": 62,
+        "realm": "Heavenly Completion, Initial Phase",
+        "detail": "stated in EP64",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 62,
+        "label": "As introduced",
+        "img": "img/wiki/Chi_Yu-a16245.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "gui-xiong",
+    "name": "Gui Xiong",
+    "zh": "",
+    "aka": [],
+    "wiki": "Gui Xiong",
+    "ep": 63,
+    "group": "Bounty list fighters",
+    "side": "enemy",
+    "intro": "Gui Xiong is fourth on the Northern Heaven Spiritual Academy's bounty list, one of the fighters who join Mo Longzi against the rescue team in the Fog Valley.",
+    "power": [
+      {
+        "ep": 63,
+        "realm": "Heavenly Completion, Middle Phase",
+        "detail": "4th on the Bounty Board (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 63,
+        "label": "As introduced",
+        "img": "img/wiki/Gui_Xiong-23fc73.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mao-jiang",
+    "name": "Mao Jiang",
+    "zh": "",
+    "aka": [],
+    "wiki": "Mao Jiang",
+    "ep": 63,
+    "group": "Bounty list fighters",
+    "side": "enemy",
+    "intro": "Mao Jiang is eighth on the Northern Heaven Spiritual Academy's bounty list, a Heavenly Completion fighter who joins Mo Longzi in the Fog Valley.",
+    "power": [
+      {
+        "ep": 63,
+        "realm": "Heavenly Completion",
+        "detail": "stated in EP64",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 63,
+        "label": "As introduced",
+        "img": "img/wiki/Mao_Jiang-7b4299.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mu-gu",
+    "name": "Mu Gu",
+    "zh": "",
+    "aka": [],
+    "wiki": "Mu Gu",
+    "ep": 63,
+    "group": "Bounty list fighters",
+    "side": "enemy",
+    "intro": "Mu Gu is third on the Northern Heaven Spiritual Academy's bounty list, one of the fighters waiting with Mo Longzi in the Fog Valley.",
+    "power": [
+      {
+        "ep": 63,
+        "realm": "Heavenly Completion, Middle Phase",
+        "detail": "3rd on the Bounty Board (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 63,
+        "label": "As introduced",
+        "img": "img/wiki/Mu_Gu-d18d8b.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "wu-jia",
+    "name": "Wu Jia",
+    "zh": "",
+    "aka": [],
+    "wiki": "Wu Jia",
+    "ep": 63,
+    "group": "Bounty list fighters",
+    "side": "enemy",
+    "intro": "Wu Jia is fifth on the Northern Heaven Spiritual Academy's bounty list, a spiritual formation master whose arrays trap the rescue team in the Fog Valley.",
+    "power": [
+      {
+        "ep": 63,
+        "realm": "Heavenly Transformation, Late Phase",
+        "detail": "5th on the Bounty Board; a Rank-5 array master (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 63,
+        "label": "As introduced",
+        "img": "img/wiki/Wu_Jia-695fa2.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "dong-yuan",
+    "name": "Dong Yuan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Dong Yuan",
+    "ep": 71,
+    "group": "Chambers of commerce",
+    "side": "rival",
+    "intro": "Dong Yuan is the young master of the Tianyuan Chamber of Commerce and one of the contenders at the Holy Spirit Mountain Trial.",
+    "power": [
+      {
+        "ep": 71,
+        "realm": "Three Sovereign Disasters, Human Body Disaster",
+        "detail": "Fan wiki (novel): at the Human Body Disaster when he joins the Holy Spiritual Mountain contest",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 71,
+        "label": "As introduced",
+        "img": "img/wiki/Dong_Yuan_donghua71_01-d92ce1.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "liu-ying",
+    "name": "Liu Ying",
+    "zh": "",
+    "aka": [],
+    "wiki": "Liu Ying",
+    "ep": 71,
+    "group": "Chambers of commerce",
+    "side": "rival",
+    "intro": "Liu Ying is the young master of the Anying Chamber of Commerce and a contender at the Holy Spirit Mountain Trial. He claims to be Xia Youran's fiancé and picks a fight with Mu Chen.",
+    "power": [
+      {
+        "ep": 71,
+        "realm": "Three Sovereign Disasters, Human Body Disaster",
+        "detail": "stated on screen",
+        "quote": "Even top talents such as Liu Ying from Anying Chamber of Commerce and Zhou Xuan from Mount Xuanyin Sect once failed the Tribulation of the Physical Body. (482-488) / These people all have the strength to pass the Tribulation of the Physical Body (934)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 71,
+        "label": "As introduced",
+        "img": "img/wiki/Liu_Ying_donghua71_01-9ef263.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mo-xingtian",
+    "name": "Mo Xingtian",
+    "zh": "",
+    "aka": [],
+    "wiki": "Mo Xingtian",
+    "ep": 71,
+    "group": "Demonic Dragon Palace",
+    "side": "enemy",
+    "intro": "Mo Xingtian is the Dragon Demon Palace's prized prodigy, already past the Human Body Disaster, who comes to Holy Spiritual City to kill Mu Chen before the trial.",
+    "power": [
+      {
+        "ep": 71,
+        "realm": "Three Sovereign Disasters, Human Body Disaster",
+        "detail": "stated on screen",
+        "quote": "This time, Mo Xingtian has already passed the Tribulation of the Physical Body. (916-917, Luo Li)",
+        "conf": "high"
+      },
+      {
+        "ep": 74,
+        "realm": "Three Sovereign Disasters, Peak of Human Body Disaster Stage",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 71,
+        "label": "As introduced",
+        "img": "img/wiki/Mo_Xingtian_manhua244_01-230296.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "xia-youran",
+    "name": "Xia Youran",
+    "zh": "",
+    "aka": [],
+    "wiki": "Xia Youran",
+    "ep": 71,
+    "group": "Chambers of commerce",
+    "side": "ally",
+    "intro": "Xia Youran is the eldest young lady of the Jiuxia Chamber of Commerce, one of the best-known young figures on the Northern Heaven Continent. She greets Mu Chen at Holy Spiritual City and warns him about the Three Sovereign Disasters.",
+    "power": [
+      {
+        "ep": 71,
+        "realm": "Three Sovereign Disasters",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 71,
+        "label": "As introduced",
+        "img": "img/wiki/Xia_Youran_donghua71_02-068381.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "zhou-xuan",
+    "name": "Zhou Xuan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Zhou Xuan",
+    "ep": 71,
+    "group": "Sects and overlords",
+    "side": "rival",
+    "intro": "Zhou Xuan is the young master of the Mount Xuanyin Sect and Liu Ying's friend, a contender at the Holy Spirit Mountain Trial.",
+    "power": [
+      {
+        "ep": 71,
+        "realm": "Three Sovereign Disasters, Human Body Disaster",
+        "detail": "stated on screen",
+        "quote": "Zhou Xuan from Mount Xuanyin Sect once failed the Tribulation of the Physical Body. (485-488)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 71,
+        "label": "As introduced",
+        "img": "img/wiki/Zhou_Xuan_donghua71_01-d32a9c.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "wen-busheng",
+    "name": "Wen Busheng",
+    "zh": "",
+    "aka": [],
+    "wiki": "Wen Busheng",
+    "ep": 72,
+    "group": "Sects and overlords",
+    "side": "ally",
+    "intro": "Wen Busheng of the Heaven Cauldron Sect is one of the young contenders at the Holy Spirit Mountain Trial, and he sides with Mu Chen against Liu Ying's group on the Nine Heavens Stairway.",
+    "power": [
+      {
+        "ep": 72,
+        "realm": "Unknown"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 72,
+        "label": "As introduced",
+        "img": "img/wiki/Wen_Busheng_donghua72_01__crop-f4f4f5.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "dong-ming",
+    "name": "Dong Ming",
+    "zh": "",
+    "aka": [],
+    "wiki": "Dong Ming",
+    "ep": 75,
+    "group": "Chambers of commerce",
+    "side": "enemy",
+    "intro": "Dong Ming is the president of the Tianyuan Chamber of Commerce and Dong Yuan's father. When the Dragon Demon Palace attacks, he traps Mo You and Zhu Tian in a game of go.",
+    "power": [
+      {
+        "ep": 75,
+        "realm": "Sovereign",
+        "detail": "President of the Heavenly Yuan Chamber; pins down Mo You and Zhu Tian over a game of go (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 75,
+        "label": "As introduced",
+        "img": "img/wiki/Dong_Ming__Donghua_S2_EP75-e75fcf.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "liu-an",
+    "name": "Liu An",
+    "zh": "",
+    "aka": [],
+    "wiki": "Liu An",
+    "ep": 75,
+    "group": "Chambers of commerce",
+    "side": "enemy",
+    "intro": "Liu An is the president of the Anying Chamber of Commerce and Liu Ying's father, a third-grade Sovereign who moves to hold Ling Xi back when the fighting starts on Holy Spirit Mountain.",
+    "power": [
+      {
+        "ep": 75,
+        "realm": "Sovereign, 3rd Grade",
+        "detail": "stated on screen",
+        "quote": "with my strength as a Third-Rank Supreme Lord, I'm more than capable of holding you back. (977)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 75,
+        "label": "As introduced",
+        "img": "img/wiki/Liu_An__Donghua_S2_EP75-cf56e5.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "old-ancestor-wu-liang",
+    "name": "Old Ancestor Wu Liang",
+    "zh": "",
+    "aka": [
+      "Master Wuliang"
+    ],
+    "wiki": "Old Ancestor Wu Liang",
+    "ep": 76,
+    "group": "Sects and overlords",
+    "side": "enemy",
+    "intro": "Master Wuliang is a ninth-grade Sovereign working with the Dragon Demon Palace. He confronts Lord Beiming during the siege of North Heaven.",
+    "power": [
+      {
+        "ep": 76,
+        "realm": "Sovereign",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      },
+      {
+        "ep": 78,
+        "realm": "Sovereign, 9th Grade",
+        "detail": "stated on screen",
+        "quote": "Master Wuliang, has also arrived in the Northern Heaven Continent. He is a Ninth-Rank Supreme Lord! (461-466) / There is also Master Wuliang, a Ninth-Rank Supreme Lord. (550)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 76,
+        "label": "As introduced",
+        "img": "img/wiki/Old_Ancestor_Wu_Liang-1ab248.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "yellow-dragon-sovereign",
+    "name": "Yellow Dragon Sovereign",
+    "zh": "",
+    "aka": [],
+    "wiki": "Yellow Dragon Sovereign",
+    "ep": 76,
+    "group": "Demonic Dragon Palace",
+    "side": "enemy",
+    "intro": "The Yellow Dragon Sovereign is a Dragon Demon Palace Sovereign sent to kill Mu Chen during the siege of North Heaven.",
+    "power": [
+      {
+        "ep": 76,
+        "realm": "Sovereign",
+        "detail": "stated on screen",
+        "quote": "Yellow Dragon, kill him. (606) / This aura... A true Supreme Lord? (626) / must be the killing intent of a supreme lord (638-640)",
+        "conf": "high"
+      },
+      {
+        "ep": 78,
+        "realm": "Sovereign, 1st Grade",
+        "detail": "stated on screen",
+        "quote": "You think a mere First-Rank Supreme Lord like you can hurt my child? (284-285)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 76,
+        "label": "As introduced",
+        "img": "img/wiki/Yellow_Dragon_Sovereign-875aaa.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "xia-tianyan",
+    "name": "Xia Tianyan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Xia Tianyan",
+    "ep": 76,
+    "group": "Chambers of commerce",
+    "side": "neutral",
+    "intro": "Xia Tianyan is the president of the Jiuxia Chamber of Commerce and Xia Youran's father, who keeps the chamber out of the siege of North Heaven.",
+    "power": [
+      {
+        "ep": 76,
+        "realm": "Sovereign",
+        "detail": "President of the Nine Summers Chamber of Commerce (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 76,
+        "label": "As introduced",
+        "img": "img/wiki/Xia_Tianyan__Donghua_S2_EP76__a-3b3a78.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "futu-xuan",
+    "name": "Futu Xuan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Futu Xuan",
+    "ep": 78,
+    "group": "Ancient Buddha Clan",
+    "side": "neutral",
+    "intro": "Futu Xuan is the Grand Elder of the Ancient Pagoda Clan, who berates Qing Yanjing over her 'sinful bloodline'.",
+    "power": [
+      {
+        "ep": 78,
+        "realm": "Heavenly Sovereign, Saint Grade, Middle Phase",
+        "detail": "Former Grand Elder of the Ancient Pagoda Clan (novel)",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 78,
+        "label": "As introduced",
+        "img": "img/wiki/Futu_Xuan1-67c4e8.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "wang-zhong-iii",
+    "name": "Wang Zhong (III)",
+    "zh": "",
+    "aka": [
+      "Wang Zhong"
+    ],
+    "wiki": "Wang Zhong (III)",
+    "ep": 78,
+    "group": "Holy Spiritual Academy",
+    "side": "enemy",
+    "intro": "Wang Zhong is a Holy Son of the Holy Spiritual Academy at the Spiritual Energy Disaster, present when Ji Xuan vows to kill Mu Chen at the Spiritual Academy Competition.",
+    "power": [
+      {
+        "ep": 78,
+        "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+        "detail": "stated on screen",
+        "quote": "[Xia Hou, Wang Zhong Holy Spiritual Academy, Tribulation of Spiritual Power] (1035.5)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 78,
+        "label": "As introduced",
+        "img": "img/wiki/Wang_Zhong2-f6370f.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "xia-hou",
+    "name": "Xia Hou",
+    "zh": "",
+    "aka": [],
+    "wiki": "Xia Hou",
+    "ep": 78,
+    "group": "Holy Spiritual Academy",
+    "side": "enemy",
+    "intro": "Xia Hou is a Holy Son of the Holy Spiritual Academy at the Spiritual Energy Disaster, present when Ji Xuan vows to kill Mu Chen at the Spiritual Academy Competition.",
+    "power": [
+      {
+        "ep": 78,
+        "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+        "detail": "stated on screen",
+        "quote": "[Xia Hou, Wang Zhong Holy Spiritual Academy, Tribulation of Spiritual Power] (1035.5)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 78,
+        "label": "As introduced",
+        "img": "img/wiki/Xia_Hou-7bb472.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "cao-gang",
+    "name": "Cao Gang",
+    "zh": "",
+    "aka": [],
+    "wiki": "Cao Gang",
+    "ep": 80,
+    "group": "Holy Spiritual Academy",
+    "side": "enemy",
+    "intro": "Cao Gang is a Holy Son of the Holy Spiritual Academy at the Spiritual Energy Disaster, seen with Ji Xuan as the academy plans to eliminate North Heaven in the competition.",
+    "power": [
+      {
+        "ep": 80,
+        "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+        "detail": "stated on screen",
+        "quote": "[Cao Gang, Holy Spiritual Academy, Tribulation of Spiritual Power]",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 80,
+        "label": "As introduced",
+        "img": "img/wiki/Cao_Gang_Donghua-Ep81_1-96438f.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "le-er",
+    "name": "Le'er",
+    "zh": "",
+    "aka": [],
+    "wiki": "Le'er",
+    "ep": 81,
+    "group": "Other academies",
+    "side": "neutral",
+    "intro": "Le'er is a Phoenix Spiritual Academy student on Wen Qingxuan's team at the Spiritual Academy Competition.",
+    "power": [
+      {
+        "ep": 81,
+        "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+        "detail": "stated on screen",
+        "quote": "[Le'er, Phoenix Spiritual Academy, Tribulation of Spiritual Power]",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 81,
+        "label": "As introduced",
+        "img": "img/wiki/Le_er_Donghua-Ep81_1-f70a85.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "liu-qingyun",
+    "name": "Liu Qingyun",
+    "zh": "",
+    "aka": [],
+    "wiki": "Liu Qingyun",
+    "ep": 81,
+    "group": "Other academies",
+    "side": "neutral",
+    "intro": "Liu Qingyun is the Blue Sky Spiritual Academy's captain at the Spiritual Academy Competition.",
+    "power": [
+      {
+        "ep": 81,
+        "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+        "detail": "stated on screen",
+        "quote": "[Liu Qingyun, Blue Sky Spiritual Academy, Tribulation of Spiritual Power]",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 81,
+        "label": "As introduced",
+        "img": "img/wiki/Liu_Qingyun-36cbbc.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "pin-er",
+    "name": "Pin'er",
+    "zh": "",
+    "aka": [],
+    "wiki": "Pin'er",
+    "ep": 81,
+    "group": "Other academies",
+    "side": "neutral",
+    "intro": "Pin'er is a Phoenix Spiritual Academy student on Wen Qingxuan's team at the Spiritual Academy Competition.",
+    "power": [
+      {
+        "ep": 81,
+        "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+        "detail": "stated on screen",
+        "quote": "[Pin'er, Phoenix Spiritual Academy, Tribulation of Spiritual Power]",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 81,
+        "label": "As introduced",
+        "img": "img/wiki/Pin_er_Donghua-Ep81_1c-2521e6.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "qiu-beihai",
+    "name": "Qiu Beihai",
+    "zh": "",
+    "aka": [],
+    "wiki": "Qiu Beihai",
+    "ep": 81,
+    "group": "Other academies",
+    "side": "enemy",
+    "intro": "Qiu Beihai is a Blue Sky Spiritual Academy fighter past the Human Body Disaster who, with Shen Jun, besieges Liu Ying's team at the Spiritual Academy Competition.",
+    "power": [
+      {
+        "ep": 81,
+        "realm": "Three Sovereign Disasters, Human Body Disaster",
+        "detail": "stated on screen",
+        "quote": "[Qiu Beihai & Shen Jun, Blue Sky Spiritual Academy, Tribulation of the Physical Body] / 'even though I've passed the Tribulation of the Physical Body'",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 81,
+        "label": "As introduced",
+        "img": "img/wiki/Qiu_Beihai_Donghua-Ep81_1-2c0a3f.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "shen-jun",
+    "name": "Shen Jun",
+    "zh": "",
+    "aka": [],
+    "wiki": "Shen Jun",
+    "ep": 81,
+    "group": "Other academies",
+    "side": "enemy",
+    "intro": "Shen Jun is a Blue Sky Spiritual Academy fighter past the Human Body Disaster who, with Qiu Beihai, besieges Liu Ying's team at the Spiritual Academy Competition.",
+    "power": [
+      {
+        "ep": 81,
+        "realm": "Three Sovereign Disasters, Human Body Disaster",
+        "detail": "stated on screen",
+        "quote": "[Qiu Beihai & Shen Jun, Blue Sky Spiritual Academy, Tribulation of the Physical Body]",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 81,
+        "label": "As introduced",
+        "img": "img/wiki/Shen_Jun_Donghua-Ep81_1-ee60ed.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "wen-qingxuan",
+    "name": "Wen Qingxuan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Wen Qingxuan",
+    "ep": 81,
+    "group": "Other academies",
+    "side": "neutral",
+    "intro": "Wen Qingxuan is the Phoenix Spiritual Academy's captain at the Spiritual Academy Competition, who won the Spirit Crown on the Spiritual Land.",
+    "power": [
+      {
+        "ep": 81,
+        "realm": "Three Sovereign Disasters, Spiritual Energy Disaster, Peak of Late Phase",
+        "detail": "stated on screen",
+        "quote": "[Wen Qingxuan, Phoenix Spiritual Academy, Peak Level of Tribulation of Spiritual Power]",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 81,
+        "label": "As introduced",
+        "img": "img/wiki/Wen_Qingxuan_manhuaplus296_01-a0df96.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "wu-ling",
+    "name": "Wu Ling",
+    "zh": "",
+    "aka": [],
+    "wiki": "Wu Ling",
+    "ep": 81,
+    "group": "Other academies",
+    "side": "neutral",
+    "intro": "Wu Ling is a Martial Spiritual Academy captain at the Spiritual Academy Competition and Wu Yingying's elder brother.",
+    "power": [
+      {
+        "ep": 81,
+        "realm": "Three Sovereign Disasters, Spiritual Energy Disaster, Middle Phase",
+        "detail": "stated on screen",
+        "quote": "[Wu Ling, Martial Spiritual Academy, Middle Phase of Tribulation of Spiritual Power]",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 81,
+        "label": "As introduced",
+        "img": "img/wiki/Wu_Ling-61ad9c.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "wu-yingying",
+    "name": "Wu Yingying",
+    "zh": "",
+    "aka": [],
+    "wiki": "Wu Yingying",
+    "ep": 81,
+    "group": "Other academies",
+    "side": "neutral",
+    "intro": "Wu Yingying is a Martial Spiritual Academy fighter at the Spiritual Academy Competition who holds a grudge against Mu Chen from the Spiritual Land.",
+    "power": [
+      {
+        "ep": 81,
+        "realm": "Three Sovereign Disasters, Human Body Disaster, Peak of Late Phase",
+        "detail": "stated on screen",
+        "quote": "[Wu Yingying, Martial Spiritual Academy, Peak Level of Tribulation of the Physical Body]",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 81,
+        "label": "As introduced",
+        "img": "img/wiki/Wu_Yingying_Donghua-Ep81_1-e5a7e7.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "tang-mei-er",
+    "name": "Tang Mei'er",
+    "zh": "",
+    "aka": [],
+    "wiki": "Tang Mei'er",
+    "ep": 82,
+    "group": "Other academies",
+    "side": "ally",
+    "intro": "Tang Mei'er is Tang Qian'er's elder sister and captain of a Phoenix Spiritual Academy team at the Spiritual Academy Competition, where she greets Mu Chen at the ruins.",
+    "power": [
+      {
+        "ep": 82,
+        "realm": "Three Sovereign Disasters, Human Body Disaster",
+        "detail": "Fan wiki (novel): past the Human Body Disaster, on the verge of the Spiritual Energy Disaster",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 82,
+        "label": "As introduced",
+        "img": "img/wiki/Tang_Mei_Er-3a7c55.jpg",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "zhen-qing",
+    "name": "Zhen Qing",
+    "zh": "",
+    "aka": [],
+    "wiki": "Zhen Qing",
+    "ep": 82,
+    "group": "Other academies",
+    "side": "enemy",
+    "intro": "Zhen Qing leads the hidden Wood Spirit Academy team at the Spiritual Academy Competition, an unseen killer who 'harvests' other teams in the Divine Wood ruins.",
+    "power": [
+      {
+        "ep": 82,
+        "realm": "Unknown"
+      },
+      {
+        "ep": 85,
+        "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+        "detail": "Fan wiki (novel): at the Spiritual Energy Disaster when he turns on Xia Hou",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 82,
+        "label": "As introduced",
+        "img": "img/wiki/Zhen_Qing-e1716d.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "mo-yu",
+    "name": "Mo Yu",
+    "zh": "",
+    "aka": [],
+    "wiki": "Mo Yu",
+    "ep": 86,
+    "group": "Other academies",
+    "side": "enemy",
+    "intro": "Mo Yu of the Ghost Spiritual Academy is the public face of the Alliance of Academies, an underground point-trading ring at the Spiritual Academy Competition, and offers Ji Xuan a deal.",
+    "power": [
+      {
+        "ep": 86,
+        "realm": "Three Sovereign Disasters",
+        "detail": "fan wiki's donghua column",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 86,
+        "label": "As introduced",
+        "img": "img/wiki/Mo_Yu-6ae82c.png",
+        "src": "Fan wiki"
+      }
+    ]
+  },
+  {
+    "id": "chen-xi",
+    "name": "Chen Xi",
+    "zh": "",
+    "aka": [],
+    "wiki": "Chen Xi",
+    "ep": 87,
+    "group": "Other academies",
+    "side": "enemy",
+    "intro": "Chen Xi is a fighter of the Alliance of Academies sent with a crowd of fighters to kill Mu Chen during his seclusion.",
+    "power": [
+      {
+        "ep": 87,
+        "realm": "Three Sovereign Disasters, Spiritual Energy Disaster",
+        "detail": "stated on screen",
+        "quote": "[Chen Xi, Alliance of Academies, Tribulation of Spiritual Power] / 'You're at the Tribulation of Spiritual Power.'",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 87,
+        "label": "As introduced"
+      }
+    ]
+  },
+  {
+    "id": "xue-tiandu",
+    "name": "Xue Tiandu",
+    "zh": "",
+    "aka": [],
+    "wiki": "Xue Tiandu",
+    "ep": 90,
+    "group": "Blood God Clan",
+    "side": "enemy",
+    "intro": "Xue Tiandu is the fourth prince of the Blood race, who comes to the Spiritual Academy Competition with the Supreme Cauldron team to demand a marriage alliance with Luo Li.",
+    "power": [
+      {
+        "ep": 90,
+        "realm": "Three Sovereign Disasters, Spiritual Energy Disaster, Peak of Late Phase",
+        "detail": "stated on screen",
+        "quote": "[Xue Tiandu, Peak Level of Tribulation of Spiritual Power]",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 90,
+        "label": "As introduced",
+        "img": "img/wiki/Xue_Tiandu-58dcfd.png",
+        "src": "Fan wiki"
+      }
+    ]
+  }
+]

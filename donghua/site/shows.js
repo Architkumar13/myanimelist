@@ -46,17 +46,6 @@ window.SHOWS = [
     },
   },
   {
-    id: "mu", dir: "martial-universe",
-    title: "Martial Universe", zh: "武动乾坤", mark: "武动", glyph: "武",
-    blurb: "Lin Dong, a crippled father's son from a cast-out branch, a stone talisman from the mud, and the mink who lives inside it.",
-    hero: "img/hero/thunder-body.jpg",
-    theme: {
-      "--patina": "#141c2b", "--patina-deep": "#0e1420", "--patina-lift": "#1d2840", "--verdigris": "#5aa6cf",
-      "--bone": "#eae6da", "--bone-dim": "#adb3c2", "--bronze": "#d8ad5a", "--bronze-bright": "#f0cf8a",
-      "--cinnabar": "#b33a34", "--cinnabar-ink": "#f6efe2", "--star": "#a8cdec",
-    },
-  },
-  {
     id: "jd", dir: "jade-dynasty",
     title: "Jade Dynasty", zh: "诛仙", mark: "诛仙", glyph: "诛",
     blurb: "Zhang Xiaofan, the last boy of a murdered village, a slow learner on Great Bamboo Peak, and a cursed stick that drinks blood.",
@@ -65,6 +54,17 @@ window.SHOWS = [
       "--patina": "#171b26", "--patina-deep": "#10131b", "--patina-lift": "#222838", "--verdigris": "#86aede",
       "--bone": "#ede7dc", "--bone-dim": "#b0b2bc", "--bronze": "#7fc6b5", "--bronze-bright": "#b4e4d7",
       "--cinnabar": "#ad2e38", "--cinnabar-ink": "#f7ede6", "--star": "#cad8ef",
+    },
+  },
+  {
+    id: "mu", dir: "martial-universe",
+    title: "Martial Universe", zh: "武动乾坤", mark: "武动", glyph: "武",
+    blurb: "Lin Dong, a crippled father's son from a cast-out branch, a stone talisman from the mud, and the mink who lives inside it.",
+    hero: "img/hero/thunder-body.jpg",
+    theme: {
+      "--patina": "#141c2b", "--patina-deep": "#0e1420", "--patina-lift": "#1d2840", "--verdigris": "#5aa6cf",
+      "--bone": "#eae6da", "--bone-dim": "#adb3c2", "--bronze": "#d8ad5a", "--bronze-bright": "#f0cf8a",
+      "--cinnabar": "#b33a34", "--cinnabar-ink": "#f6efe2", "--star": "#a8cdec",
     },
   },
 ];

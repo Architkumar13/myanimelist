@@ -1,0 +1,82 @@
+{
+  "ep": 57,
+  "title": "Jiu You's Thunder Tribulation",
+  "summary": "Jiu You undergoes the Dark God Thunder Tribulation using the Feather given by the bald old master; a tempting voice tells her the blood bond with Mu Chen is what makes her fail and urges her to cut it. Mu Chen breaks into the tribulation to stand with her, and she passes, then falls into slumber to refine her body into the Jiuyou Nether Bird, a true divine beast, leaving him the Immortal Fire. The old master is revealed as Lord Dragon Fish of Beiming, creator of the Thunder Realm, who wants the Thunder God Pill at the heart of the Thunder Sea so he can break through to Earth Sovereign. Mu Chen agrees in return for Beiming conducting his infusion, while Mo You personally conducts Luo Li's after seeing the Luo Divine Sword. Beiming purges the Dark God Thunder poison, notices the pagoda in Mu Chen's body (Ancient Pagoda Clan), and seals the thunder in his finger as the Dark God Thunder Poison Finger. News comes that the Supreme Cauldron Spiritual Academy is about to arrive.",
+  "events": [
+    "Jiu You faces the Dark God Thunder Tribulation.",
+    "A voice urges her to sever the blood bond with Mu Chen.",
+    "Mu Chen enters the tribulation; she succeeds.",
+    "She sleeps to become the Jiuyou Nether Bird and leaves him the Immortal Fire.",
+    "The old master is revealed as Lord Dragon Fish of Beiming; Mo You will conduct Luo Li's infusion.",
+    "Beiming asks Mu Chen to fetch the Thunder God Pill so he can reach Earth Sovereign.",
+    "Beiming creates the Dark God Thunder Poison Finger."
+  ],
+  "introduced": [
+    "Thunder Sea",
+    "Thunder Spirit",
+    "Thunder God Pill",
+    "Immortal Fire",
+    "Jiuyou Nether Bird",
+    "Dark God Thunder Poison Finger",
+    "Ancient Pagoda Clan",
+    "Supreme Cauldron Spiritual Academy"
+  ],
+  "cultivation": "Jiu You passes the tribulation and begins transforming into a divine beast (no realm named). Lord Dragon Fish of Beiming is still below Earth Sovereign: the Thunder God Pill would let him break through to it.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "quote": "'When I wake up again, I'll be the Jiuyou Nether Bird, a true divine beast.' (623-626.5) - evolution, not a realm",
+      "look": "Goes into slumber to refine her body",
+      "first": false
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "northern-sea-dragon",
+      "name": "Northern Sea Dragon (Lord Dragon Fish of Beiming)",
+      "realm": "Sovereign (below Earth Sovereign)",
+      "quote": "With it, I can break through to the Earth Supreme Lord level. (882-884.5)",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "mo-you",
+      "name": "Mo You",
+      "first": false
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "zhu-tian",
+      "name": "Zhu Tian",
+      "first": false
+    },
+    {
+      "id": "gu-tianyan",
+      "name": "Gu Tianyan",
+      "quote": "mentioned only",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Roster (fan wiki) puts Jiu You at Sovereign in EP57; the subtitles only say she will become a divine beast. No realm is stated."
+  ],
+  "flags": [
+    "992: 'even opponents at the Completion of Heaven Level will probably be gravely wounded' - describes the Poison Finger, not Mu Chen's realm.",
+    "884: Beiming's realm is inferred from his aim to break through to Earth Sovereign; grade not stated.",
+    "1039-1052: lines about being refined by the Thunder Sea and Liu Zheng's expulsion are a preview of EP58.",
+    "0-33: recap of EP56."
+  ]
+}

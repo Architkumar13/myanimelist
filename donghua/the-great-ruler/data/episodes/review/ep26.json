@@ -1,0 +1,77 @@
+{
+  "ep": 26,
+  "title": "Ge Hai and Ye Qingling",
+  "summary": "Mu Chen and Mo Ling feed Ye Sun'er, a 14-year-old seeded formation master looking for her sister, who took the Spiritual Land trial. Ge Qing reports to his brother Ge Hai, leader of the Ge Gang, who carries a scar Mu Chen gave him in the Spiritual Land and wants revenge. Mu Chen masters the third Senluo Death Mark and coaches Sun'er through a fight with two Iron Rhinoceroses. The Ge Gang arrives; Ye Qingling, Sun'er's sister and leader of the Ye Gang, now at Spirit herself, steps in, but Mu Chen fights Ge Hai alone. Though Ge Hai is at Spirit and Mu Chen only at late Spiritual Rotation, Mu Chen wins with the Heart Formation and the Nine Heavens Thunder Spiritual Formation. To buy his freedom, Ge Hai tells him about a Divine Reishi in a valley guarded by three high-class spiritual beasts.",
+  "events": [
+    "Ye Sun'er introduces herself and says she came with her sister.",
+    "Ge Hai hears Mu Chen's name; he bears Mu Chen's scar from the Spiritual Land.",
+    "Mu Chen succeeds with the third Senluo Death Mark.",
+    "Sun'er beats two Iron Rhinoceroses by staying calm and forming arrays.",
+    "Ye Qingling arrives and shields Mu Chen; she is at Spirit.",
+    "Mu Chen defeats Ge Hai with the Nine Heavens Thunder Spiritual Formation.",
+    "Ge Hai trades news of a Divine Reishi valley for his freedom."
+  ],
+  "introduced": [
+    "Ge Hai",
+    "Ye Qingling",
+    "Ge Gang",
+    "Ye Gang",
+    "Divine Reishi",
+    "Iron Rhinoceros",
+    "Nine Heavens Thunder Spiritual Formation",
+    "Blood Battle Swordsmanship",
+    "the perpetrator (Mu Chen's Spiritual Land nickname)"
+  ],
+  "cultivation": "Mu Chen is still Spiritual Rotation, Late Phase. Ge Hai and Ye Qingling are at Spirit. The third Senluo Death Mark lets Mu Chen fight an early-Spirit opponent.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Spiritual Rotation, Late Phase",
+      "quote": "Just the late stage of the Spiritual Ring Level. (292) / He's just at the late stage of the Spiritual Ring Level. (712)",
+      "first": false
+    },
+    {
+      "id": "ge-hai",
+      "name": "Ge Hai",
+      "realm": "Spirit",
+      "quote": "The Divine Soul Level? (506) / I can't wear you down since I'm at the Divine Soul Level. (801)",
+      "look": "Scar on his face from Mu Chen",
+      "first": true,
+      "card": 242.0
+    },
+    {
+      "id": "ye-qingling",
+      "name": "Ye Qingling",
+      "realm": "Spirit",
+      "quote": "Is she Sun'er's sister ... I didn't expect she is also at the Divine Soul Level. (572-574)",
+      "first": true,
+      "card": 565.0
+    },
+    {
+      "id": "ge-qing",
+      "name": "Ge Qing",
+      "first": false
+    },
+    {
+      "id": "ye-sun-er",
+      "name": "Ye Sun'er",
+      "quote": "I'm 14 years old. (26)",
+      "first": false
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Ye Sun'er is named here (21); the roster lists her from EP25."
+  ],
+  "flags": [
+    "357-362: 'the power to fight with someone at the early stage of the Divine Soul Level' is a comparison for Mu Chen, not his realm.",
+    "615-618: Ji Xuan and Yang Hong named as top Spiritual Land players afraid of Mu Chen.",
+    "404: the Iron Rhinoceroses are 'as strong as someone at the late stage of the Spiritual Ring Level' - unnamed beasts."
+  ]
+}

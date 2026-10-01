@@ -1,0 +1,105 @@
+{
+  "ep": 65,
+  "title": "The Three Generals Captured",
+  "summary": "Tian Sheng, dean of the Holy Spiritual Academy and a peak 5th-grade Sovereign, checks with Ji Xuan that the Fog Valley trap is ready; Ji Xuan says he will only watch as a student. Mu Chen purges the poison from Shen Cangsheng and then Li Xuantong with the Immortal Fire and his evolved Dark God Thunder Poison Finger, notes the poison is tied to the Holy Spiritual Academy, and suspects the Dragon Demon Palace wants the Great Xumi Demonic Pillar inside him. The two seniors say the purge has even pushed them further. The Three Generals of the Penalty Hall force Teng Long and a comrade to give in, but Mo Longzi, Wu Jia and the others ambush them and take them prisoner as bargaining chips. Luo Li breaks Wu Jia's formation in three breaths, though the drained students have fainted, and Wu Jia admits the Supreme Cauldron Academy is colluding with the Dragon Demon Palace. Shen Cangsheng arrives to settle the score with Mo Longzi.",
+  "events": [
+    "Tian Sheng and Ji Xuan discuss the Fog Valley trap.",
+    "Mu Chen purges Shen Cangsheng's and Li Xuantong's poison.",
+    "The seniors recover and advance.",
+    "The Three Generals beat Teng Long's group, then are ambushed and captured.",
+    "Luo Li breaks Wu Jia's formation in three breaths.",
+    "Wu Jia reveals Supreme Cauldron's collusion with the Dragon Demon Palace.",
+    "Shen Cangsheng confronts Mo Longzi."
+  ],
+  "introduced": [
+    "Tian Sheng",
+    "Holy Spiritual Academy's role in the trap"
+  ],
+  "cultivation": "Tian Sheng: Sovereign, 5th grade, peak (name card). Shen Cangsheng and Li Xuantong 'advanced further' after the purge (no realm named).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "tian-sheng",
+      "name": "Tian Sheng",
+      "realm": "Sovereign (5th grade), Peak",
+      "quote": "[Peak Level of Fifth-Rank Supreme Lord: Dean Tiansheng] (52.5)",
+      "first": true,
+      "card": 52.5
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan",
+      "quote": "'I'm still a student... At most, I can be a spectator.' (112.5-117.5)",
+      "first": false
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "shen-cangsheng",
+      "name": "Shen Cangsheng",
+      "quote": "'Because of this baptism, we've even advanced further.' (315.5) - no realm named",
+      "first": false
+    },
+    {
+      "id": "li-xuantong",
+      "name": "Li Xuantong",
+      "quote": "advanced further after the purge (315.5) - no realm named",
+      "first": false
+    },
+    {
+      "id": "lin-zheng",
+      "name": "Lin Zheng",
+      "first": false
+    },
+    {
+      "id": "zhou-qingshan",
+      "name": "Zhou Qingshan",
+      "first": false
+    },
+    {
+      "id": "gu-tianyan",
+      "name": "Gu Tianyan",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Teng Long",
+      "first": false
+    },
+    {
+      "id": "mo-longzi",
+      "name": "Mo Longzi",
+      "first": false
+    },
+    {
+      "id": "wu-jia",
+      "name": "Wu Jia",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "xue-shi",
+      "name": "Xue Shi",
+      "quote": "mentioned: 'that loser from the Blood race' (823)",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Guide says the Three Great Generals are captured: confirmed.",
+    "Tian Sheng's first real appearance, with name card, is here (roster had EP61)."
+  ],
+  "flags": [
+    "52.5: card spells 'Tiansheng' = roster Tian Sheng.",
+    "495-503: who surrenders ('I give in!') is not named; probably Chi Yu or Teng Long.",
+    "541: 'I'm back to life again!' - speaker unclear.",
+    "887-917: Mo Longzi's 'stepping stones' and Nine Mountains and Rivers Formation lines are a preview of EP66.",
+    "0-35: recap of EP64."
+  ]
+}

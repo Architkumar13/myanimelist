@@ -1,0 +1,73 @@
+{
+  "ep": 27,
+  "title": "The Divine Reishi Valley",
+  "summary": "Chu Qi, leader of the Chu Clan, kills a Thorned Beast and learns from the Ge Gang where Mu Chen is headed; having joined the academy for Luo Li, he resolves to show Mu Chen who suits her better. Ye Qingling agrees to team up if Mu Chen explains his tie to 'Lord Luo', Luo Li's title from her King-level evaluation, and tells him that at the Spiritual Land's last stop Luo Li attacked Ji Xuan and cost him the Spirit Crown, leaving his life for Mu Chen to take. In the Reishi Valley three high-class beasts at early Spirit guard the Divine Reishi. Ye Qingling's group distracts them while Mu Chen casts the Golden Wheel Spirit Cracking Formation; it kills one, and when the other two survive, Sun'er's pre-set Wind Dragon Breaking Sky Formation and Mu Chen's Nine Heavens Thunder Spiritual Formation finish them. The others insist Mu Chen take the Divine Reishi, and he sits down to break through to Spirit.",
+  "events": [
+    "Chu Qi kills a Thorned Beast and hears Mu Chen's whereabouts from the Ge Gang.",
+    "Ye Qingling asks about Luo Li and recounts her attack on Ji Xuan at the Spiritual Land's final stage.",
+    "Mu Chen vows to take Ji Xuan's life himself.",
+    "Three early-Spirit beasts guard the Divine Reishi in the Reishi Valley.",
+    "The Golden Wheel Spirit Cracking Formation kills one beast.",
+    "Sun'er's Wind Dragon Breaking Sky Formation and the Nine Heavens Thunder Spiritual Formation kill the other two.",
+    "Mu Chen takes the Divine Reishi to attempt Spirit."
+  ],
+  "introduced": [
+    "Chu Qi",
+    "Thorned Beast",
+    "Lord Luo (Luo Li's title)",
+    "Spirit Crown",
+    "Reishi Valley",
+    "Wind Dragon Breaking Sky Formation",
+    "Meteor Wave"
+  ],
+  "cultivation": "The three guardian beasts are at early Spirit. Mu Chen prepares to break through to Spirit.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "chu-qi",
+      "name": "Chu Qi",
+      "first": true,
+      "card": 17.5
+    },
+    {
+      "id": null,
+      "name": "Thorned Beast",
+      "quote": "As good as the spiritual beasts in the middle stage of the Divine Soul Level. (20) - comparison",
+      "first": true,
+      "card": 7.5
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "quote": "I need to enter the Divine Soul Level as soon as possible. (866)",
+      "first": false
+    },
+    {
+      "id": "ye-qingling",
+      "name": "Ye Qingling",
+      "first": false
+    },
+    {
+      "id": "ye-sun-er",
+      "name": "Ye Sun'er",
+      "first": false
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling",
+      "first": false
+    },
+    {
+      "id": "ji-xuan",
+      "name": "Ji Xuan",
+      "quote": "mentioned only (Lord Xuan)",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "356: 'three spiritual beasts at the early stage of the Divine Soul Level' - unnamed beasts.",
+    "20: the Thorned Beast line compares it to middle-Spirit beasts; not a named character.",
+    "Ji Xuan is only mentioned (roster first appearance EP60)."
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "ep": 75,
+  "title": "Mu Chen kills Mo Xingtian",
+  "summary": "On the summit Mu Chen fights Mo Xingtian with the Constellation Sutra of Four Gods, while Xia Youran and Wen Busheng tie up Liu Ying and Dong Yuan with a Deadly Trapping Formation. Mo Xingtian boasts about crushing the divine soul of a North Heaven senior, and Mu Chen, fuelled by the academy's years of anger, burns Immortal Fire with his other flames as the watching students cheer him on. Though Mo Xingtian marvels that an early-phase Heavenly Completion fighter is this strong, Mu Chen sees through his Dragon-Transforming Blood Art and kills him despite the Black Dragon Sovereign's threats, then tells the other three to wait for the next baptism. The enraged Black Dragon Sovereign attacks and Tai Cang orders everyone to strike. Dong Ming, president of the Tianyuan Chamber, traps Mo You and Zhu Tian in a game of go, and Liu An of the Anying Chamber, a third-grade Sovereign, moves to hold Ling Xi. Tai Cang rings the Blood Soul Bell, and at the academy the Dragon Demon Palace's allies begin breaking the protective formation.",
+  "events": [
+    "Mu Chen vs Mo Xingtian on the summit",
+    "Xia Youran and Wen Busheng hold off Liu Ying and Dong Yuan",
+    "Mo Xingtian mocks a dead North Heaven senior; Mu Chen answers with Immortal Fire",
+    "Mu Chen wins and kills Mo Xingtian despite the Black Dragon Sovereign's threat",
+    "The Black Dragon Sovereign attacks; Tai Cang calls everyone to fight",
+    "Dong Ming traps Mo You and Zhu Tian; Liu An confronts Ling Xi",
+    "The Blood Soul Bell rings and the siege of North Heaven begins"
+  ],
+  "introduced": [
+    "Constellation Sutra of Four Gods",
+    "Dragon-Slaying Demon Talisman",
+    "Immortal Fire",
+    "Deadly Trapping Formation",
+    "Blood Soul Bell",
+    "Dong Ming",
+    "Liu An"
+  ],
+  "cultivation": "Mo Xingtian says Mu Chen is only at the initial phase of Heavenly Completion. Liu An is a third-grade Sovereign; Ling Xi calls Lord Beiming (the Northern Sea Dragon) a ninth-grade Sovereign. The Black Dragon Sovereign's pressure is identified as a Sovereign's.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Heavenly Completion, Initial Phase",
+      "quote": "You are just at the early stage of the Completion of Heaven Level. Where does your power come from? (616-618, Mo Xingtian)",
+      "t": 616.0,
+      "first": false
+    },
+    {
+      "id": "liu-an",
+      "name": "Liu An",
+      "realm": "Sovereign, 3rd Grade",
+      "quote": "with my strength as a Third-Rank Supreme Lord, I'm more than capable of holding you back. (977)",
+      "t": 977.0,
+      "card": 958.5,
+      "first": true
+    },
+    {
+      "id": "northern-sea-dragon",
+      "name": "Northern Sea Dragon",
+      "realm": "Sovereign, 9th Grade",
+      "quote": "And Lord Dragon Fish of Beiming, a Ninth-Rank Supreme Lord. Can you hold him back? (988, Ling Xi)",
+      "t": 988.0,
+      "first": false
+    },
+    {
+      "id": "black-dragon-sovereign",
+      "name": "Black Dragon Sovereign",
+      "realm": "Sovereign",
+      "quote": "Such overwhelming pressure... Black Dragon... it's the Supreme Lord. (822-832)",
+      "t": 832.0,
+      "first": false
+    },
+    {
+      "id": "dong-ming",
+      "name": "Dong Ming",
+      "card": 922.0,
+      "first": true
+    },
+    {
+      "id": "mo-xingtian",
+      "name": "Mo Xingtian",
+      "look": "killed by Mu Chen (~855-860)",
+      "first": false
+    },
+    {
+      "id": "xia-youran",
+      "name": "Xia Youran",
+      "first": false
+    },
+    {
+      "id": "wen-busheng",
+      "name": "Wen Busheng",
+      "first": false
+    },
+    {
+      "id": "liu-ying",
+      "name": "Liu Ying",
+      "first": false
+    },
+    {
+      "id": "dong-yuan",
+      "name": "Dong Yuan",
+      "first": false
+    },
+    {
+      "id": "zhou-xuan",
+      "name": "Zhou Xuan",
+      "first": false
+    },
+    {
+      "id": "ling-xi",
+      "name": "Ling Xi",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "first": false
+    },
+    {
+      "id": "tai-cang",
+      "name": "Tai Cang",
+      "first": false
+    },
+    {
+      "id": "mo-you",
+      "name": "Mo You",
+      "look": "mentioned: 'Master Mo You' (984)"
+    },
+    {
+      "id": "zhu-tian",
+      "name": "Zhu Tian",
+      "look": "mentioned (984)"
+    }
+  ],
+  "changes": [
+    "Guide: consistent. Adds Liu An's grade and the chambers' part in the siege."
+  ],
+  "flags": [
+    "952-958 s: the OCR reads 'Liu Ang'/'Liu Ant' before the card '[Liu An, President of Anying Chamber of Commerce]'; mapped to Liu An.",
+    "988 s: the Northern Sea Dragon is again a ninth-grade Sovereign; the roster's EP54 'Earth Sovereign' entry conflicts (see EP69).",
+    "374-402 s: the North Heaven female senior whose divine soul Mo Xingtian crushed is not named.",
+    "1072 s onward is the next-episode preview."
+  ]
+}

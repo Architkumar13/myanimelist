@@ -1,0 +1,68 @@
+{
+  "ep": 4,
+  "title": "The Senluo Death Mark",
+  "summary": "Mu Chen persuades Tang Qian'er to borrow the dangerous Senluo Death Mark from the second floor of the Spiritual Art Room, which only Heaven class seniors may read; she agrees on the condition that he only practices it with her and teams up with her for the North Spiritual Plain training in six months, where the top three teams win Spirit Fostering Medicine. Hong Ling offers help and is turned away by a jealous Qian'er. They go to the core of the academy's Level 3 Spirit Collecting Formation, where Mo Ling points out Luo Tong, an 18-year-old of Luo Realm who never reached Spiritual Rotation and picks fights. The Death Mark runs out of control and drains the formation, until the Great Buddha Art suppresses the backfire and Mu Chen gains initial success. Luo Tong, at late-phase Spiritual Movement, demands a fight over the core-area rule and uses the Daluo Sword Art, and Mu Chen beats him with the Senluo Death Mark. Mo Ling introduces himself and asks Mu Chen to team up, but he is already with Qian'er.",
+  "events": [
+    "Mu Chen asks Tang Qian'er to borrow the Senluo Death Mark for him",
+    "Qian'er explains the North Spiritual Plain training and the Spirit Fostering Medicine prize",
+    "Hong Ling offers help and Qian'er turns her away",
+    "At the Level 3 Spirit Collecting Formation, Mo Ling and Luo Tong are introduced",
+    "The Death Mark backfires and the Great Buddha Art suppresses it",
+    "Luo Tong challenges Mu Chen over the core-area rule; Mu Chen wins",
+    "Mo Ling asks Mu Chen to be his partner"
+  ],
+  "introduced": [
+    "Senluo Death Mark",
+    "Level 3 Spirit Collecting Formation",
+    "Spirit Fostering Medicine",
+    "Daluo Sword Art",
+    "Mo Ling",
+    "Luo Tong"
+  ],
+  "cultivation": "Luo Tong is at the late phase of Spiritual Movement and, at 18, has not reached Spiritual Rotation. Mu Chen's realm is not restated (middle-phase Spiritual Movement since EP3). The Spirit Fostering Medicine helps at late-phase Spiritual Movement.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "luo-tong",
+      "name": "Luo Tong",
+      "realm": "Spiritual Movement, Late Phase",
+      "quote": "After all, he is at the later stage of the Spiritual Movement Level. (700, Qian'er about Luo Tong) / He's 18 and hasn't reached the Spiritual Ring Level. (340)",
+      "t": 700.0,
+      "card": 309.5,
+      "first": true
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling",
+      "card": 300.0,
+      "first": true
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "tang-qian-er",
+      "name": "Tang Qian'er",
+      "first": false
+    },
+    {
+      "id": "hong-ling",
+      "name": "Hong Ling",
+      "first": false
+    },
+    {
+      "id": "teacher-mo",
+      "name": "Teacher Mo",
+      "look": "mentioned only"
+    }
+  ],
+  "changes": [
+    "Guide has no entry for EP4 (EP2-3 competition, then EP5-9 North Spiritual Plain); this is the Senluo Death Mark and Luo Tong episode between them."
+  ],
+  "flags": [
+    "700 s: 'he is at the later stage of the Spiritual Movement Level' is Qian'er warning Mu Chen about Luo Tong, not about Mu Chen.",
+    "140-150 s: Qian'er says Hong Ling's mother is the lord of the Red Realm (Hong Territory) and that Hong Ling is close to Liu Mubai."
+  ]
+}

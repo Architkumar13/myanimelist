@@ -1,0 +1,67 @@
+{
+  "ep": 16,
+  "title": "The first rounds for the academy places",
+  "summary": "The competition for the Five Great Academies' places begins in front of Mr. Hao, who has come to see what Mu Chen can do. In the first round Mu Chen faces Chen Tong, second only to Liu Mubai in the West Academy, who keeps aiming Flame Heart-Breaking Palm at his face; Mu Chen outpaces him, slaps him, and forces him to concede after his Flame Storm Spiritual Fist. Tang Qian'er and Hong Ling fight to a standstill before Mr. Hao stops the bout without naming a winner, which tells Mu Chen that performance matters more than the result. He tells Mo Ling this before Mo Ling's hopeless fight with Liu Mubai. Mo Ling refuses to give up while Liu Mubai toys with him, until Mr. Hao ends it. Liu Mubai and then Mu Chen volunteer for the single seeded place.",
+  "events": [
+    "Mr. Hao watches Mu Chen's first-round match",
+    "Mu Chen beats Chen Tong, who concedes",
+    "Tang Qian'er vs Hong Ling is stopped as a draw",
+    "Mu Chen guesses Mr. Hao is judging performance and tells Mo Ling",
+    "Liu Mubai toys with Mo Ling, who refuses to concede; Mr. Hao stops it",
+    "Liu Mubai and Mu Chen volunteer for the seeded place"
+  ],
+  "introduced": [
+    "Chen Tong",
+    "Flame Heart-Breaking Palm",
+    "Flame Storm Spiritual Fist",
+    "seeded place"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "chen-tong",
+      "name": "Chen Tong",
+      "quote": "This guy is only second to Liu Mubai in the West Academy. (70)",
+      "first": true
+    },
+    {
+      "id": "mister-hao",
+      "name": "Mister Hao",
+      "first": false
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "liu-mubai",
+      "name": "Liu Mubai",
+      "first": false
+    },
+    {
+      "id": "tang-qian-er",
+      "name": "Tang Qian'er",
+      "first": false
+    },
+    {
+      "id": "hong-ling",
+      "name": "Hong Ling",
+      "first": false
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Guide gives only the EP15-18 arc title; EP16 holds the Chen Tong, Qian'er vs Hong Ling and Mo Ling vs Liu Mubai rounds."
+  ],
+  "flags": [
+    "No realm is stated for anyone in this episode.",
+    "70 s: Chen Tong is 'second only to Liu Mubai in the West Academy'; the roster intro says No. 3 overall, which is consistent.",
+    "154 s: 'I heard from Ling that he has a weird temper' - probably Hong Ling talking to Liu Mubai; not certain."
+  ]
+}

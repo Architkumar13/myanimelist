@@ -1,0 +1,74 @@
+{
+  "ep": 37,
+  "title": "Mu Chen vs Yang Hong",
+  "summary": "The freshman assembly reaches its decisive fight: Yang Hong reveals he is already at the middle phase of Heavenly Fusion and vows to crush Mu Chen for the Spiritual Land. Mu Chen, still only at the late phase of Spirit, answers with spiritual formations: the Golden Wheel Spirit Cracking Formation, the Dragon Elephant Formation and, using a Level 2 formation as bait, the Level 3 Grand Flame Demon Formation, which shows he has also mastered the primary Heart Formation. Yang Hong summons the spirit of the Ancient Tiger Dragon, 50th on the Earth list of beasts, and Mu Chen replies with the Jiuyou Bird's spirit, stunning the watching seniors. Mu Chen then refuses to lean on Jiuyou and finishes the fight with the Great Buddha Art's black pagoda, leaving Yang Hong unconscious. Exhausted, Mu Chen hands the Spirit Flag to Luo Li; Mu Kui and another finalist give up too, so Luo Li is declared first among the freshmen without making a move. The next day Elder Zhu Tian leads the freshmen to the Spiritual Arts Divine Hall.",
+  "events": [
+    "Yang Hong reveals middle-phase Heavenly Fusion; Mu Chen admits he is only late-phase Spirit",
+    "Mu Chen sets up the Golden Wheel Spirit Cracking and Dragon Elephant formations, then baits Yang Hong into the Level 3 Grand Flame Demon Formation",
+    "Yang Hong summons the Ancient Tiger Dragon's spirit; Mu Chen answers with the Jiuyou Bird's spirit",
+    "Mu Chen defeats Yang Hong with the Great Buddha Art's pagoda and tells him Ji Xuan is next",
+    "Mu Chen, drained, leaves the Spirit Flag to Luo Li; Mu Kui and another finalist give up",
+    "Luo Li is declared first among the freshmen",
+    "Elder Zhu Tian receives the freshmen at the Spiritual Arts Divine Hall"
+  ],
+  "introduced": [
+    "Ancient Tiger Dragon (Yang Hong's beast spirit)",
+    "Golden Wheel Spirit Cracking Formation",
+    "Dragon Elephant Formation",
+    "Grand Flame Demon Formation (Level 3)",
+    "Heart Formation",
+    "Spiritual Arts Divine Hall"
+  ],
+  "cultivation": "Yang Hong: Heavenly Fusion, Middle Phase (he had hidden it; people assumed initial phase). Mu Chen: Spirit, Late Phase. Mu Chen shows Level 2 and Level 3 spiritual formations and the primary Heart Formation.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Spirit, Late Phase",
+      "quote": "since I'm only at the late stage of the Divine Soul Level.",
+      "t": 149.5
+    },
+    {
+      "id": "yang-hong",
+      "name": "Yang Hong",
+      "realm": "Heavenly Fusion, Middle Phase",
+      "quote": "He's at the middle stage of the Fusion of Heaven Level.",
+      "t": 68.0
+    },
+    {
+      "id": null,
+      "name": "Ancient Tiger Dragon",
+      "first": true,
+      "card": 338.0,
+      "note": "Yang Hong's beast spirit; card reads 'the 50th place on the earth list of beasts' (a ranking, not a realm)"
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "note": "Onlookers: the Jiuyou Bird 'has the potential to evolve to the Divine Level' (potential, not a realm)"
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li"
+    },
+    {
+      "id": "mu-kui",
+      "name": "Mu Kui"
+    },
+    {
+      "id": "zhu-tian",
+      "name": "Zhu Tian",
+      "note": "Greeted as 'Elder Zhutian'"
+    }
+  ],
+  "changes": [
+    "Guide block 33-43 lumps this in 'Freshman year'; this episode is the Mu Chen vs Yang Hong final and Luo Li's win.",
+    "Ji Xuan is named here (Mu Chen: 'Next time, it will be Ji Xuan's turn'), well before the roster's first episode 60; name only, not on screen."
+  ],
+  "flags": [
+    "Who gives up at 729-760 is not named in the subtitles; the 'I just want to fight with you' freshman is most likely Mu Kui (he offered to challenge the winner in EP36 and repeats the wish in EP39). The second one who drops out ('I would look stupid if I compete') is unidentified.",
+    "700.5 'Is he really just at the late stage of the Divine Soul Level?' repeats Mu Chen's realm from an onlooker.",
+    "Heavy OCR garbage appended to many lines (digits and capitals); ignored."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "ep": 38,
+  "title": "The black paper's choice",
+  "summary": "Elder Zhu Tian explains the Spiritual Arts Divine Hall: spiritual arts float in the light channel, and grabbing a powerful one teleports the student to a challenge hall where a guard matched to the art must be beaten. Separated from the others, Mu Chen passes over the Thunder Fist and grabs the Quasi-Divine Nine Dragons Heavenly Wind Art, but the mysterious black paper in his body pulls him into the innermost depths of the channel. There it hands him the Constellation Sutra of Four Gods, a Divine-category art that summons the spirits of the four constellations. The elders are shocked: the art sat in the core area that not even Heavenly Transformation experts may enter, and no one has ever cultivated it. In the challenge hall Mu Chen faces its puppet guard, rated as strong as an initial-phase Heavenly Transformation expert, and even his Level 3 Grand Flame Demon Formation does nothing. On Jiuyou's hint he looks for what powers the puppet and finds a spiritual formation in its armour.",
+  "events": [
+    "Zhu Tian explains the light channel and the challenge hall",
+    "Mu Chen sees the Thunder Fist and takes the Quasi-Divine Nine Dragons Heavenly Wind Art",
+    "The black paper drags him to the innermost depths and he takes the Constellation Sutra of Four Gods",
+    "The elders learn a Divine-category art left the core area on its own, for Mu Chen",
+    "Mu Chen fights the puppet guard; the Grand Flame Demon Formation fails",
+    "Jiuyou suggests cutting the guard off from its power source; Mu Chen finds the formation on its armour"
+  ],
+  "introduced": [
+    "Light channel",
+    "Challenge hall",
+    "Thunder Fist",
+    "Daluo Ice Jade Palm",
+    "Nine Dragons Heavenly Wind Art (Quasi-Divine)",
+    "Constellation Sutra of Four Gods (Divine category)",
+    "Spiritual art guard (puppet)"
+  ],
+  "cultivation": "Mu Chen: Spirit, Late Phase (stated by the watching elders). The Constellation Sutra's guard is rated as strong as someone at the initial phase of Heavenly Transformation.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Spirit, Late Phase",
+      "quote": "Mu Chen is just at the late stage of the Divine Soul Level.",
+      "t": 669.0
+    },
+    {
+      "id": "zhu-tian",
+      "name": "Zhu Tian"
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You"
+    }
+  ],
+  "changes": [
+    "Guide has nothing specific here; this is the Spiritual Arts Divine Hall trial and the Constellation Sutra of Four Gods."
+  ],
+  "flags": [
+    "663-665: the guard is 'comparable to that of someone at the early stage of the Transformation of Heaven Level'; the guard is an unnamed puppet, so it is not a cast entry.",
+    "Shen Cangsheng and Li Xuantong are mentioned (347) as past winners of Divine-category arts; not on screen.",
+    "The wiki calls the art the Four Gods Constellation Scripture; the subtitles say Constellation Sutra of Four Gods."
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "date": "2026-10",
+  "count": 50,
+  "characters": [
+    {
+      "id": "chen-feng-star-peak",
+      "name": "Chen Feng",
+      "ep": 52,
+      "card": {
+        "ep": 52,
+        "t": 495.16
+      },
+      "cardType": "dialogue"
+    },
+    {
+      "id": "jiang-ming",
+      "name": "Jiang Ming",
+      "ep": 55,
+      "card": {
+        "ep": 55,
+        "t": 320.52
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "ji-ren",
+      "name": "Ji Ren",
+      "ep": 59,
+      "card": {
+        "ep": 59,
+        "t": 1142.64
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "yaoguang-holy-lord",
+      "name": "Yaoguang Holy Lord",
+      "ep": 62,
+      "card": {
+        "ep": 62,
+        "t": 335.44
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "lao-dawei",
+      "name": "Lao Dawei",
+      "ep": 66,
+      "card": {
+        "ep": 66,
+        "t": 382.16
+      },
+      "cardType": "dialogue"
+    },
+    {
+      "id": "yaoguang-elder-li",
+      "name": "Elder Li",
+      "ep": 67,
+      "card": {
+        "ep": 67,
+        "t": 249.56
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "jiang-yi",
+      "name": "Jiang Yi",
+      "ep": 67,
+      "card": {
+        "ep": 67,
+        "t": 333.24
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "liu-chengen",
+      "name": "Liu Cheng'en",
+      "ep": 73,
+      "card": {
+        "ep": 73,
+        "t": 435.36
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "qingxia-sect-master",
+      "name": "Qingxia Sect Master",
+      "ep": 75,
+      "card": {
+        "ep": 75,
+        "t": 237.6
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "lihuo-sect-master",
+      "name": "Lihuo Sect Master",
+      "ep": 75,
+      "card": {
+        "ep": 75,
+        "t": 975.72
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "li-desheng",
+      "name": "Li Desheng",
+      "ep": 78,
+      "card": {
+        "ep": 78,
+        "t": 343.48
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "situ-feng",
+      "name": "Situ Feng",
+      "ep": 83,
+      "card": {
+        "ep": 83,
+        "t": 843.76
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "ji-yunfeng",
+      "name": "Ji Yunfeng",
+      "ep": 83,
+      "card": {
+        "ep": 83,
+        "t": 868.32
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "ji-yunlin",
+      "name": "Ji Yunlin",
+      "ep": 83,
+      "card": {
+        "ep": 83,
+        "t": 897.92
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "jin-yan",
+      "name": "Jin Yan",
+      "ep": 84,
+      "card": {
+        "ep": 84,
+        "t": 819.76
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "elder-niu",
+      "name": "Elder Niu",
+      "ep": 84,
+      "card": {
+        "ep": 84,
+        "t": 946.04
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "tuoba-chang",
+      "name": "Tuoba Chang",
+      "ep": 103,
+      "card": {
+        "ep": 103,
+        "t": 490.04
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "li-rui",
+      "name": "Li Rui",
+      "ep": 106,
+      "card": {
+        "ep": 138,
+        "t": 577.16
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "dark-night-king",
+      "name": "Dark Night King",
+      "ep": 110,
+      "card": {
+        "ep": 110,
+        "t": 580.48
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "golden-winged-peng-king",
+      "name": "Old Golden-Winged Peng King",
+      "ep": 111,
+      "card": {
+        "ep": 111,
+        "t": 474.32
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "feng-lie",
+      "name": "Feng Lie",
+      "ep": 111,
+      "card": {
+        "ep": 111,
+        "t": 964.64
+      },
+      "cardType": "dialogue"
+    },
+    {
+      "id": "ye-huiling",
+      "name": "Ye Huiling",
+      "ep": 118,
+      "card": {
+        "ep": 118,
+        "t": 581.64
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "wang-chongxiao",
+      "name": "Wang Chongxiao",
+      "ep": 118,
+      "card": {
+        "ep": 118,
+        "t": 584.68
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "guhua-emperor",
+      "name": "Guhua Emperor",
+      "ep": 119,
+      "card": {
+        "ep": 119,
+        "t": 783.84
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "yin-yang-holy-maiden",
+      "name": "Yin-Yang Holy Maiden",
+      "ep": 119,
+      "card": {
+        "ep": 119,
+        "t": 248.08
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "zhao-fa",
+      "name": "Zhao Fa",
+      "ep": 127,
+      "card": {
+        "ep": 127,
+        "t": 430.16
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "yin-yang-holy-son",
+      "name": "Yin-Yang Holy Son",
+      "ep": 130,
+      "card": {
+        "ep": 130,
+        "t": 574.84
+      },
+      "cardType": "dialogue"
+    },
+    {
+      "id": "taiyang-king",
+      "name": "Taiyang King",
+      "ep": 132,
+      "card": {
+        "ep": 132,
+        "t": 1119.44
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "gao-linfeng",
+      "name": "Gao Linfeng",
+      "ep": 132,
+      "card": {
+        "ep": 132,
+        "t": 1116.8
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "jiang-huairen",
+      "name": "Jiang Huairen",
+      "ep": 133,
+      "card": {
+        "ep": 134,
+        "t": 216.16
+      },
+      "cardType": "dialogue"
+    },
+    {
+      "id": "jiang-huaian",
+      "name": "Jiang Huai'an",
+      "ep": 134,
+      "card": {
+        "ep": 134,
+        "t": 318.04
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "ouyang-ye",
+      "name": "Ouyang Ye",
+      "ep": 135,
+      "card": {
+        "ep": 135,
+        "t": 745.76
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "wanchu-holy-lord",
+      "name": "Wanchu Holy Lord",
+      "ep": 135,
+      "card": {
+        "ep": 135,
+        "t": 644.88
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "queen-mother-of-the-west",
+      "name": "Queen Mother of the West",
+      "ep": 136,
+      "card": {
+        "ep": 136,
+        "t": 244.12
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "ou-luotian",
+      "name": "Ou Luotian",
+      "ep": 136,
+      "card": {
+        "ep": 139,
+        "t": 233.72
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "xiao-mingyuan",
+      "name": "Xiao Mingyuan",
+      "ep": 141,
+      "card": {
+        "ep": 141,
+        "t": 432.0
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "yan-yunluan",
+      "name": "Yan Yunluan",
+      "ep": 142,
+      "card": {
+        "ep": 142,
+        "t": 907.36
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "blind-old-man-of-heaven",
+      "name": "Blind Old Man of Heaven",
+      "ep": 144,
+      "card": {
+        "ep": 144,
+        "t": 305.32
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "wang-chong",
+      "name": "Wang Chong",
+      "ep": 145,
+      "card": {
+        "ep": 145,
+        "t": 887.92
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "golden-crow-ninth-prince",
+      "name": "Golden Crow Ninth Prince",
+      "ep": 160,
+      "card": {
+        "ep": 160,
+        "t": 345.81
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "golden-crow-first-prince",
+      "name": "Golden Crow First Prince",
+      "ep": 161,
+      "card": {
+        "ep": 161,
+        "t": 224.41
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "heavenly-demon-granny",
+      "name": "Heavenly Demon Granny",
+      "ep": 164,
+      "card": {
+        "ep": 164,
+        "t": 530.73
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "taiyin-divine-son",
+      "name": "Taiyin Divine Son",
+      "ep": 164,
+      "card": {
+        "ep": 164,
+        "t": 1037.33
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "golden-crow-king",
+      "name": "Golden Crow King",
+      "ep": 168,
+      "card": {
+        "ep": 168,
+        "t": 765.93
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "qing-niu",
+      "name": "Qing Niu",
+      "ep": 170,
+      "card": {
+        "ep": 170,
+        "t": 545.21
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "dongfang-man",
+      "name": "Dongfang Man",
+      "ep": 171,
+      "card": {
+        "ep": 171,
+        "t": 870.29
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "wang-chengtian",
+      "name": "Wang Chengtian",
+      "ep": 173,
+      "card": {
+        "ep": 173,
+        "t": 219.2
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "wang-lie",
+      "name": "Wang Lie",
+      "ep": 174,
+      "card": {
+        "ep": 174,
+        "t": 637.46
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "dark-demon-king",
+      "name": "Dark Demon King",
+      "ep": 175,
+      "card": {
+        "ep": 175,
+        "t": 63.63
+      },
+      "cardType": "name"
+    },
+    {
+      "id": "divine-spirit-valley-ancestral-king",
+      "name": "Divine Spirit Valley Ancestral King",
+      "ep": 182,
+      "card": {
+        "ep": 182,
+        "t": 569.6
+      },
+      "cardType": "name"
+    }
+  ]
+}

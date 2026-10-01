@@ -1,0 +1,88 @@
+{
+  "ep": 92,
+  "title": "The Half-step Sovereign guard and the Wood race's will",
+  "summary": "At the final level Mu Chen, still only at the Human Body Disaster, faces a Wood God Guard at Half-step Sovereign and brings it down with his upgraded guard. Xue Tiandu meanwhile fights a Spirit Disaster-level guard using his partner's blood. Offered the choice to leave alone with the rewards, Mu Chen chooses to keep going so every survivor is rewarded, thinking of those who sacrificed themselves at North Heaven half a year earlier. His will to protect clears the inheritance trial. He wins the Nine-Yang Ganoderma and sees a vision of the ancient war in which the Wood race stayed to fight so four of ten races could escape. The remnant soul directs him to the Spirit Treasury and its Supreme Liquid. Wen Qingxuan leaves with the message 'Friendship over', Wu Yingying storms off, and Wang Zhong takes her under his wing. The Alliance brothers plan to use a Wood Spirit Token and a mirror map to take the Supreme Liquid.",
+  "events": [
+    "Mu Chen fights the Half-step Sovereign Wood God Guard; Xue Tiandu uses his partner's blood against his own guard",
+    "Mu Chen chooses to continue the ultimate trial for all survivors",
+    "The inheritance trial is cleared; the Nine-Yang Ganoderma is obtained",
+    "A vision of the ancient war and the Wood race's last stand",
+    "The remnant soul reveals the Spirit Treasury and the Supreme Liquid",
+    "Wen Qingxuan leaves ('Friendship over'); Luo Li understands Mu Chen's choice",
+    "Wang Zhong takes in Wu Yingying; the Alliance brothers plan for the Supreme Liquid"
+  ],
+  "introduced": [
+    "Golden Phoenix (No. 6 on the earth list of holy beasts)",
+    "Spirit Treasury",
+    "Supreme Liquid",
+    "Snow Spirit Fruit",
+    "Wood Spirit Token"
+  ],
+  "cultivation": "Mu Chen says he is 'only at the Tribulation of the Physical Body' (Human Body Disaster) against a Half-step Sovereign guard (name card). Xue Tiandu's opponent is at the first grade of the Spirit Disaster.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": "Three Sovereign Disasters, Human Body Disaster",
+      "quote": "I'm only at the Tribulation of the Physical Body, yet you're already a Half-Step Supreme Lord.",
+      "t": 240.0
+    },
+    {
+      "id": null,
+      "name": "Wood God Guard (final level)",
+      "realm": "Half-step Sovereign",
+      "quote": "[Wood God Guard, Half-Step Supreme Lord]",
+      "t": 238.0,
+      "card": 238.0,
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Golden Phoenix",
+      "quote": "[Golden Phoenix, No. 6 on the earth list of holy beasts]",
+      "t": 121.0,
+      "card": 121.0,
+      "first": true
+    },
+    {
+      "id": "xue-tiandu",
+      "name": "Xue Tiandu"
+    },
+    {
+      "id": "wen-qingxuan",
+      "name": "Wen Qingxuan"
+    },
+    {
+      "id": "wu-yingying",
+      "name": "Wu Yingying"
+    },
+    {
+      "id": "wang-zhong-iii",
+      "name": "Wang Zhong (III)"
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li"
+    },
+    {
+      "id": "mo-yu",
+      "name": "Mo Yu",
+      "look": "probably the 'Second Brother'"
+    },
+    {
+      "id": null,
+      "name": "Qin Tui",
+      "look": "probably the Alliance's third brother"
+    }
+  ],
+  "changes": [
+    "Guide: 'Mu Chen defeats a Half-step Sovereign Wood God Guard, the trial concludes': confirmed. Added the Nine-Yang Ganoderma, the vision, the Spirit Treasury and Wen Qingxuan's break with Mu Chen."
+  ],
+  "flags": [
+    "120.5 s: the Golden Phoenix card has no owner stated in the subs. It appears during the final-level fights and is probably Wen Qingxuan's (Phoenix academy); unconfirmed.",
+    "156 s: 'That's the Tribulation of the First-Level Divine Soul' is about the guard facing Xue Tiandu's pair (first-grade Spirit Disaster), not a person.",
+    "856 s: 'even a First-Rank Supreme Lord would need a whole month' is a comparison.",
+    "946 s onward looks like a preview of EP93 (the spirit-sealing fog and Wen Qingxuan turning on North Heaven)."
+  ]
+}

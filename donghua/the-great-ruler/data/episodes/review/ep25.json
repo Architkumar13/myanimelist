@@ -1,0 +1,89 @@
+{
+  "ep": 25,
+  "title": "The Northern Heaven Domain Test",
+  "summary": "The freshmen arrive on a Reception Platform in the Northern Heaven Domain, one of four test spaces; a monitor explains that each trainee's mark is rated on nine levels (regular places start at Level 1, seeded at 3, core at 5), that they must reach the Northern Heaven Palace at the centre with at least Level 4, and that marks can be raised by killing spiritual beasts or taken from others. Elsewhere, Luo Li starts as a core-place student at Level 5. Mu Chen and Mo Ling travel together; Mu Chen feeds a beast spirit to the Jiuyou Bird and rescues a young formation master, Ye Sun'er, from golden crocodiles. Ge Qing and two companions, all at late Spiritual Rotation, ambush him for his Level 3 mark; he beats all three with the Great Buddha Art and the Tiger Flame Spirit Consuming Formation cast in the Heart Formation state, and takes their marks. Ge Qing vows his eldest brother, now at Spirit, will make him pay.",
+  "events": [
+    "The monitor explains the Northern Heaven Domain, the nine mark levels and the Level 4 cutoff.",
+    "Luo Li is shown as a core-place student at Level 5.",
+    "Students from the Great Element Spiritual Academy try to rob a girl and are eliminated.",
+    "Mu Chen and Mo Ling kill spiritual beasts; Mu Chen gives a beast spirit to the Jiuyou Bird.",
+    "They save Ye Sun'er, whose formation collapses against golden crocodiles.",
+    "Ge Qing's trio attacks; Mu Chen defeats them with the Heart Formation and the Tiger Flame Spirit Consuming Formation.",
+    "Ge Qing plans to fetch his eldest brother, now at Spirit."
+  ],
+  "introduced": [
+    "Northern Heaven Domain",
+    "Reception Platform",
+    "Northern Heaven Palace",
+    "mark levels (Level 1-9)",
+    "Ge Qing",
+    "Ye Sun'er",
+    "Great Element Spiritual Academy",
+    "Tiger Flame Spirit Consuming Formation",
+    "Nine Swords Art",
+    "Daluo Palm"
+  ],
+  "cultivation": "Ge Qing and his two companions are at Spiritual Rotation, Late Phase; Ge Qing says his eldest brother Ge Hai has reached Spirit. A crocodile foe is at Spiritual Rotation, Middle Phase.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "ge-qing",
+      "name": "Ge Qing",
+      "realm": "Spiritual Rotation, Late Phase",
+      "quote": "The three of them are at the late stage of the Spiritual Ring Level. (578)",
+      "first": true,
+      "card": 566.5
+    },
+    {
+      "id": "ge-hai",
+      "name": "Ge Hai",
+      "realm": "Spirit",
+      "quote": "My spiritual compass can locate my eldest brother. He has been to the Spiritual Land. Now, he has reached the Divine Soul Level. (880-885)",
+      "first": false
+    },
+    {
+      "id": "luo-li",
+      "name": "Luo Li",
+      "quote": "She's at Level Five! ... a core-place student (166-168) - mark level, not realm",
+      "first": true,
+      "card": 189.5
+    },
+    {
+      "id": "ye-sun-er",
+      "name": "Ye Sun'er",
+      "look": "Young girl, spiritual formation master",
+      "first": true
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "first": false
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling",
+      "first": false
+    },
+    {
+      "id": "jiu-you",
+      "name": "Jiu You",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Monitor of the Northern Heaven Spiritual Academy",
+      "first": true,
+      "card": 74.0
+    }
+  ],
+  "changes": [
+    "Guide's EP25 entrance exam start confirmed."
+  ],
+  "flags": [
+    "418: 'This guy is at the middle stage of the Spiritual Ring Level' refers to a beast (golden crocodile) just killed, not a named person.",
+    "52: 'at least they are at the early stage of the Spiritual Ring Level' is about the arriving crowd in general.",
+    "74: the monitor is unnamed; possibly the roster's Old Bai - not confirmed.",
+    "Ye Sun'er is only named in EP26 (21).",
+    "189.5: Luo Li's card is in a separate shot; Mu Chen does not meet her yet."
+  ]
+}
