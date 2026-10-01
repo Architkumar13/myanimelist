@@ -1,0 +1,101 @@
+{
+ "ep": 201,
+ "title": "Zhai Xing and the fall of the branch",
+ "summary": "Zhai Xing, a Tianzun of the Hall of Souls, has been guarding Yao Lao in secret. He wants the Xiao Clan's key and lets slip that the Hall of Souls is holding Xiao Yan's father. Xiao Yan puts Yao Lao into his ring and tricks Zhai Xing with a clone, then needs time to fuse four Heavenly Flames into the Extermination Fire Lotus. Zi Yan holds Zhai Xing off with her Spatial Strength and the Void Fist, and Xiong Zhan arrives to help her. Xiao Yan hits Zhai Xing with the fire lotus, which wrecks the branch and leaves Xiao Yan near death. Black Tianzun and White Tianzun arrive, and Zi Yan works to open a Space Gate for the escape. Tie Jian blows himself up to hold back the Hall of Souls while the others get away.",
+ "events": [
+  "Zhai Xing names himself and demands the Xiao Clan's key.",
+  "Xiao Yan learns the Hall of Souls holds his father, and takes Yao Lao into his ring.",
+  "Xiao Yan fools Zhai Xing with a clone and the Flame Splitting Tsunami.",
+  "Zi Yan stalls Zhai Xing with Spatial Strength while Xiao Yan fuses four Heavenly Flames.",
+  "Xiong Zhan arrives and joins the fight.",
+  "Xiao Yan's fire lotus hits Zhai Xing and destroys the branch.",
+  "Black Tianzun and White Tianzun arrive and scold Zhai Xing.",
+  "Tie Jian sacrifices himself so the group can escape through Zi Yan's Space Gate."
+ ],
+ "introduced": [
+  "Tianzun (rank title) as a guard here",
+  "Xiao Clan's key",
+  "Zhai Xing Palm",
+  "Spatial Barrier",
+  "Space Lock",
+  "Void Fist",
+  "Nine Serene Soul Palm",
+  "Black Tianzun",
+  "White Tianzun",
+  "Spatial Jade Plate",
+  "Space Gate"
+ ],
+ "cultivation": "Zhai Xing calls Xiao Yan a Nine-Star Dou Zong. Zhai Xing is a Tianzun (EP199: Tianzuns are at least Five-Star Dou Zuns). Xiong Zhan is called another Dou Zun.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "xiao-yan",
+   "name": "Xiao Yan",
+   "realm": "9-star Dou Zong",
+   "quote": "You're a Nine-Star Dou Zong, but you can deal with my attack here.",
+   "first": false
+  },
+  {
+   "id": "yao-lao",
+   "name": "Yao Lao",
+   "first": false
+  },
+  {
+   "id": "zhai-xing",
+   "name": "Zhai Xing",
+   "first": false,
+   "card": 61
+  },
+  {
+   "id": "zi-yan",
+   "name": "Zi Yan",
+   "first": false
+  },
+  {
+   "id": "xiong-zhan",
+   "name": "Xiong Zhan",
+   "first": false
+  },
+  {
+   "id": "elder-feng",
+   "name": "Elder Feng",
+   "first": false
+  },
+  {
+   "id": "tie-jian",
+   "name": "Tie Jian",
+   "first": false
+  },
+  {
+   "id": "little-fairy-doctor",
+   "name": "Little Fairy Doctor",
+   "first": false
+  },
+  {
+   "id": "yao-tian-huo",
+   "name": "Yao Tian Huo",
+   "first": false
+  },
+  {
+   "id": "black-tianzun",
+   "name": "Black Tianzun",
+   "first": true,
+   "card": 864
+  },
+  {
+   "id": "white-tianzun",
+   "name": "White Tianzun",
+   "first": true,
+   "card": 863
+  }
+ ],
+ "changes": [],
+ "flags": [
+  "The recap at 16 says 'Xiao Han'; it means Xiao Yan.",
+  "The girl who uses Space Lock and the Void Fist (477-644) is not named in this file. She is taken to be Zi Yan: she calls Xiong Zhan 'Big Guy', and Zi Yan uses Spatial Strength in EP205.",
+  "Xiong Zhan is only called 'Big Guy' here (657, 683); EP209 confirms Big Guy is Xiong Zhan.",
+  "Who uses the Nine Serene Soul Palm (709) is not said; Zhai Xing is the likeliest.",
+  "The recap of EP202 calls the Xiao Clan's key 'the jade of Tuo She Gu Di'.",
+  "Tie Jian's death here is undone in EP215: Elder Zhu Li of the Void Ancient Dragons saved him."
+ ]
+}

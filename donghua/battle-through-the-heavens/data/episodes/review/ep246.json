@@ -1,0 +1,117 @@
+{
+  "ep": 246,
+  "title": "Yao Ming takes back his tribe",
+  "summary": "Yao Xiaotian reaches the Nine Serene Spring and badly hurts Little Fairy Doctor and Qing Lin while Medusa holds him off. Xiao Yan returns and fights him alone, breaking the Yellow Spring Finger with the Great Heavenly Creation Palm and throwing off the Yellow Spring Grand Seal. The First Elder arrives, and Yao Xiaotian sends the guards away so he can silence everyone quietly. Then Yao Ming appears in front of the elders, and Elders Xian, Ming and Liu recognise him. He shows them the lost Nine Serene Profound Scepter and beats Yao Xiaotian himself, and Yao Xiaotian dies in a last attack. The First Elder leaves his body behind and flees with his demonic core inside an avatar.",
+  "events": [
+    "Yao Xiaotian injures Little Fairy Doctor and Qing Lin; Medusa fights him.",
+    "Xiao Yan arrives and fights Yao Xiaotian, a mid-stage One-Star Dou Sheng.",
+    "Xiao Yan beats the Yellow Spring Finger and the Yellow Spring Grand Seal.",
+    "The First Elder arrives; Yao Xiaotian sends the Serene Python Guards away.",
+    "Yao Ming appears and Elders Xian, Ming and Liu side with him.",
+    "Yao Ming shows the Nine Serene Profound Scepter and the First Elder argues against him.",
+    "Yao Ming beats Yao Xiaotian, who dies hating his brother.",
+    "The First Elder escapes using Demonic Python Burst, hiding his core in an avatar."
+  ],
+  "introduced": [
+    "Yellow Spring Finger (Tian Class Dou Skill)",
+    "Yellow Spring Grand Seal",
+    "Serene Python Guards",
+    "Elder Xian",
+    "Elder Ming",
+    "Elder Liu",
+    "Demonic Python Burst"
+  ],
+  "cultivation": "Medusa calls Yao Xiaotian 'a One-Star mid-stage Dou Sheng'. Yao Xiaotian calls Yao Ming 'Two-Star Dou Sheng' when they fight. No change for Xiao Yan.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ming",
+      "name": "Yao Ming",
+      "realm": "Two-Star Dou Sheng",
+      "quote": "Two-Star Dou Sheng.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-xiaotian",
+      "name": "Yao Xiaotian",
+      "realm": "mid-stage One-Star Dou Sheng",
+      "quote": "That guy is a One-Star mid-stage Dou Sheng.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "first-elder-nine-serene",
+      "name": "First Elder (Nine Serene Deep Ground Pythons)",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "elder-xian",
+      "name": "Elder Xian",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 615.7
+    },
+    {
+      "id": "elder-ming",
+      "name": "Elder Ming",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 616.8
+    },
+    {
+      "id": "elder-liu",
+      "name": "Elder Liu",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 617.9
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-43s is a narrated recap of EP245.",
+    "155.5 'Little Doctor Fairy' = Little Fairy Doctor.",
+    "110.9 Yao Xiaotian calls the companions 'a few mere Dou Zuns' and wants Medusa's bloodline power.",
+    "663.8-667.0 the thought 'So it was swallowed by this scoundrel' is Yao Xiaotian learning Yao Ming had kept the scepter; whose thought it is is not certain.",
+    "930-946s: how Yao Xiaotian dies is not spelled out; he grabs Yao Ming ('Let go! You'll die!') and says 'I hate you'. The EP247 recap says he 'met his demise'.",
+    "1038.1 'Chief Yao Ming, I leave this to you' seems to be Xiao Yan leaving the First Elder's fate to Yao Ming."
+  ]
+}

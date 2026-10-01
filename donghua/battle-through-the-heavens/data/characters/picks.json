@@ -1,0 +1,159 @@
+{
+ "mu-gu": {
+  "0": {
+   "kind": "ak",
+   "ep": 189,
+   "t": 96.0,
+   "focus": [
+    0.49,
+    0.36,
+    0.22
+   ],
+   "manual": true
+  }
+ },
+ "lei-zun-zhe": {
+  "0": {
+   "kind": "ak",
+   "ep": 171,
+   "t": 411.5,
+   "focus": [
+    0.495,
+    0.44,
+    0.373
+   ],
+   "manual": true
+  }
+ },
+ "feng-zun-zhe": {
+  "0": {
+   "kind": "ak",
+   "ep": 171,
+   "t": 518.0,
+   "focus": [
+    0.547,
+    0.482,
+    0.479
+   ],
+   "manual": true
+  }
+ },
+ "huang-tian": {
+  "0": {
+   "kind": "ak",
+   "ep": 268,
+   "t": 820.0,
+   "focus": [
+    0.43,
+    0.379,
+    0.149
+   ],
+   "manual": true
+  }
+ },
+ "mang-tian-chi": {
+  "0": {
+   "kind": "ak",
+   "ep": 216,
+   "t": 875.5,
+   "focus": [
+    0.58,
+    0.38,
+    0.5
+   ],
+   "manual": true
+  }
+ },
+ "grand-elder-lin": {
+  "0": {
+   "kind": "ak",
+   "ep": 242,
+   "t": 941.4,
+   "focus": [
+    0.52,
+    0.42,
+    0.3
+   ],
+   "manual": true
+  }
+ },
+ "xiao-yan": {
+  "1": {
+   "kind": "ak",
+   "ep": 240,
+   "t": 1218.0,
+   "focus": [
+    0.5,
+    0.44,
+    0.46
+   ],
+   "manual": true
+  }
+ },
+ "yao-lao": {
+  "1": {
+   "kind": "ak",
+   "ep": 212,
+   "t": 506.0,
+   "focus": [
+    0.38,
+    0.45,
+    0.42
+   ],
+   "manual": true
+  }
+ },
+ "qing-lin": {
+  "1": {
+   "kind": "ak",
+   "ep": 206,
+   "t": 347.0,
+   "focus": [
+    0.43,
+    0.45,
+    0.42
+   ],
+   "manual": true
+  }
+ },
+ "zi-yan": {
+  "1": {
+   "kind": "file",
+   "path": "site/img/wiki/IMG_0652-ddd088.jpeg"
+  }
+ },
+ "medusa": {
+  "1": {
+   "kind": "file",
+   "path": "site/img/wiki/Cai_Lin_Dou_Sheng-20a7f6.png"
+  }
+ },
+ "little-fairy-doctor": {
+  "1": {
+   "kind": "file",
+   "path": "site/img/wiki/IMG_0646-9bfaa8.jpeg"
+  }
+ },
+ "yao-tian-huo": {
+  "1": {
+   "kind": "file",
+   "path": "site/img/wiki/Tian_huo_profile-72d712.jpg"
+  }
+ },
+ "hun-miesheng": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Hun_Mie_Sheng-680ce8.png"
+  },
+  "1": {
+   "kind": "file",
+   "path": "site/img/wiki/Hun_Mie_Sheng_new_look24-ff67dc.png"
+  }
+ },
+ "heaven-swallowing-python": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Xiaocai3-eedb7c.png"
+  }
+ }
+}

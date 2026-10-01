@@ -1,0 +1,75 @@
+{
+  "ep": 127,
+  "title": "The Fall of Yun Shan",
+  "summary": "The Angry Buddha Lotus Flame explodes over Misty Cloud Mountain and both sides fall back. Xiao Yan and Yun Shan survive, and Xiao Yan beats Yun Shan down for his father, his clan and his brothers, then kills him. Protector Wu attacks Yao Lao, then uses the Nine-Darkness Hundred-Devour Soul to swallow Yun Shan's soul and the souls of many Misty Cloud elders. Nalan Yanran comes out of seclusion after passing the Gate of Life and Death. Yun Yun tells her the Hall of Souls is the true enemy and leads the sect's Covering Sun Cloud Formation against Protector Wu, but he seals the space and breaks it. Yao Lao sends Xiao Yan to Hai Bodong and faces Protector Wu alone. Xiao Yan prepares one more Angry Buddha Lotus Flame to save him.",
+  "events": [
+    "The Angry Buddha Lotus Flame explodes",
+    "Xiao Yan beats and kills Yun Shan",
+    "Protector Wu attacks Yao Lao",
+    "Protector Wu devours Yun Shan's soul and the elders' souls",
+    "Nalan Yanran leaves seclusion and Yun Yun explains",
+    "Yun Yun leads the Covering Sun Cloud Formation; Protector Wu breaks it",
+    "Yao Lao sends Xiao Yan away and faces Protector Wu",
+    "Protector Wu turns on Xiao Yan and Medusa steps in"
+  ],
+  "introduced": [
+    "Nine-Darkness Hundred-Devour Soul",
+    "Gate of Life and Death",
+    "Covering Sun Cloud Formation"
+  ],
+  "cultivation": "Xiao Yan is at the peak of Dou Wang (recap). Protector Wu's power soars after devouring souls.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Wang",
+      "quote": "Xiao Yan is only a Dou Wang.",
+      "first": false
+    },
+    {
+      "id": "yun-shan",
+      "name": "Yun Shan",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "protector-wu",
+      "name": "Protector Wu",
+      "first": false
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "first": false
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "first": false,
+      "card": 637.0
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-15.6s of ep127.en.srt is the end of EP126.",
+    "ep128.en.srt 0-84s (Protector Wu turns on Xiao Yan for 'the Xiao Clan's belongings'; Medusa appears: 'His life is mine') is counted here.",
+    "423.8-431.0 'Retrieve his body. The corpse of a Dou Zong...': read as Yao Lao asking for Yun Shan's body (EP118: he needs a Dou Zong's skeleton).",
+    "920.8-925.0: who holds Xiao Yan back ('Do you not understand what your master is trying to do?') is not named.",
+    "792.0 'Wind's Peak, Killer Meteorite!' here is used by the Misty Cloud side."
+  ]
+}

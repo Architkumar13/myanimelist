@@ -1,0 +1,93 @@
+{
+  "ep": 39,
+  "title": "The Trading Market",
+  "summary": "Xiao Yan finds that the Searing Poison in his body carries pure energy built up by a strong Dou Wang, and that refining it could lift him toward Da Dou Shi. The poison has mutated so his Heavenly Flame cannot burn it out, and it has blackened one of his fingers; Hai Bodong recoils when Xiao Yan tests the Black Finger on him. At the Alchemist Association's Free Trading Market, Xiao Yan meets Lin Fei, who tells him Gu He's disciple Liu Ling will enter the Alchemist Conference. He saves Xue Mei from a third-tier alchemist who cheated her over a fourth-tier prescription and the tinder for a Peach Blossom Flame, and his Black Finger forces the man to back down and apologise. Over tea, Ao Tuo and Fu Lan Ke of Black Rock City see that he is now at least a Five-Star Dou Shi. When Ao Tuo says the conference winner gets the prescription for the Thawing Spirit Pill, a sixth-tier pill that heals the soul, Xiao Yan agrees to compete for Black Rock City under the name Yan Xiao.",
+  "events": [
+    "Xiao Yan absorbs pure energy from the Searing Poison and grows stronger.",
+    "Hai Bodong warns that the poison has mutated; Xiao Yan's finger has turned black.",
+    "At the Free Trading Market Xiao Yan meets Lin Fei, who talks about Liu Ling.",
+    "A rogue third-tier alchemist cheats Xue Mei over a prescription and the Peach Blossom Flame tinder.",
+    "Xiao Yan's Black Finger makes the man apologise.",
+    "Ao Tuo and Fu Lan Ke meet Xiao Yan for tea and praise his growth.",
+    "Ao Tuo explains the conference prize, the Thawing Spirit Pill prescription.",
+    "Xiao Yan agrees to enter for Black Rock City as Yan Xiao; the qualifying round is in three days."
+  ],
+  "introduced": [
+    "Black Finger",
+    "Free Trading Market",
+    "Alchemist Association Headquarters",
+    "Peach Blossom Flame (tinder)",
+    "Soul Trace / Soul Memory of a prescription",
+    "Thawing Spirit Pill (sixth-tier)",
+    "honorary elder of the Alchemist Association",
+    "Liu Ling (named)"
+  ],
+  "cultivation": "Xiao Yan thinks a few more rounds of the poison's energy could make him a Da Dou Shi; Black Rock City's alchemists say he is at least a Five-Star Dou Shi.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Five-Star Dou Shi",
+      "quote": "you're at least / as powerful as a Five-Star Dou Shi, right?",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-fei",
+      "name": "Lin Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xue-mei",
+      "name": "Xue Mei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ao-tuo",
+      "name": "Ao Tuo",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fu-lan-ke",
+      "name": "Fu Lan Ke",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": null,
+      "name": "rogue third-tier alchemist (stall owner)",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-232s is the end of EP38; the [Episode 39] card is at 234.",
+    "The last part of this episode is at the start of ep40.en.srt (0-122s): registering as Yan Xiao and the three-day wait.",
+    "1004-1019: the speaker who calls Xiao Yan 'at least a Five-Star Dou Shi' is either Ao Tuo or Fu Lan Ke; 'Thanks, Master Ao Tuo' (995) suggests Ao Tuo is the host. Fu Lan Ke is Xue Mei's master; Ao Tuo appears to be Lin Fei's master.",
+    "893-897: two unseen figures remark 'This is an interesting poison. Let's get into this after we complete our mission.' They are not identified; they may be the Chu Yun Empire agents seen later.",
+    "ep40.en.srt 0-24: someone tells Xiao Yan 'Get the prescription for the Thawing Spirit Pill, then I won't kill you'; the voice is not named (possibly Medusa)."
+  ]
+}

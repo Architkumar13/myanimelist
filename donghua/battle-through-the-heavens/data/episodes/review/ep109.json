@@ -1,0 +1,79 @@
+{
+  "ep": 109,
+  "title": "Inside the Fallen Heart Flame",
+  "summary": "In the Jia Ma Empire's capital, Hai Bodong and Ya Fei of the Mite'er family shelter Xiao Ding and the surviving Xiao Clan. Deep underground, Xiao Yan wakes inside the Fallen Heart Flame after about half a month. Yao Lao has been shielding him with the Bone Chilling Flame. He says it will last three more days, after which he will pour his remaining Soul Power into Xiao Yan and fall into a deep sleep. At the academy, Zi Yan takes charge of the Rock Gate, and Su Qian seals the lowest floor and plans revenge on the Black-Corner Region. He also sends someone to guard Xiao Yan's brother Xiao Li. Yao Lao goes to sleep, and Medusa wakes inside the lava world and attacks the flame, which only makes its heat worse, and Xiao Yan loses consciousness.",
+  "events": [
+    "Hai Bodong and Ya Fei shelter Xiao Ding and the Xiao Clan in the capital",
+    "Xiao Yan wakes inside the Fallen Heart Flame's lava world",
+    "Yao Lao gives him three days, the Lotus Platform and the Ground Spirit Pill",
+    "Zi Yan takes over the Rock Gate in Xiao Yan's name",
+    "Su Qian seals the lowest floor and plans revenge on the Black-Corner Region; Xiao Li is to be protected",
+    "Yao Lao gives his last Soul Power and falls asleep",
+    "Medusa wakes, attacks the flame, and the heat overwhelms them both"
+  ],
+  "introduced": [
+    "Mite'er family",
+    "Lotus Platform",
+    "Ground Spirit Pill",
+    "Fire Energies",
+    "Birthplace of the Fallen Heart Flame (lava world)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "first": false,
+      "card": 58.0
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "first": false,
+      "card": 58.0
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "first": false,
+      "card": 47.3
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": "number-one on the Strong Ranking (a ranking, not a realm)",
+      "quote": "I, Zi Yan, the number-one on the Strong Ranking",
+      "first": false,
+      "card": 438.1
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false,
+      "card": 735.9
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file starts at the [Episode 109] card; nothing from ep108 at the start.",
+    "Medusa is addressed as 'Your Majesty' and appears with the Heaven Swallowing Python (709.2); she is the soul that wakes.",
+    "Hu Jia and Wu Hao are named (408.0) as the Rock Gate's keepers but it is unclear if they are on screen.",
+    "868.0 typo 'Darn in!'."
+  ]
+}

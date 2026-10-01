@@ -1,0 +1,94 @@
+{
+  "ep": 183,
+  "title": "Revenge on Protector Wu",
+  "summary": "With the third change of the Sky Fire Three Mysterious Changes, Xiao Yan forces his power up to Seven-Star Dou Zong. He breaks Protector Wu's Hundred Souls Locking Sky Python and beats him with the Flame Splitting Tsunami, the Six Joint Fire, the Open Mountain Seal and the Sea Flipping Seal. Protector Wu calls for Hall of Souls help, and Tian She attacks Xiao Yan with Bing Xuan and Bing Hua. Xiao Yan sets the Five Ring Flame Expelling Technique against their Ice River Array and Ice God Bow, and brings down all three before his technique runs out. He holds Protector Wu and tells him his pain is nothing next to Yao Lao's. Qing Hai Zun Zhe of the Hall of Souls, a Two-Star Dou Zun, arrives and orders Xiao Yan taken. As Qing Hai Zun Zhe moves on Xiao Yan, the Little Fairy Doctor warns him that if he hurts Xiao Yan he will die.",
+  "events": [
+    "The third change lifts Xiao Yan to Seven-Star Dou Zong.",
+    "Xiao Yan defeats Protector Wu with a chain of Advanced Dou Skills.",
+    "Protector Wu sends a signal to the Hall of Souls.",
+    "Tian She, Bing Xuan and Bing Hua attack Xiao Yan.",
+    "The Five Ring Flame Expelling Technique beats the Ice River Array and the Ice God Bow.",
+    "Xiao Yan captures Protector Wu.",
+    "Qing Hai Zun Zhe arrives and goes after Xiao Yan.",
+    "The Little Fairy Doctor steps in."
+  ],
+  "introduced": [
+    "Hundred Souls Locking Sky Python",
+    "Bing Xuan",
+    "Bing Hua",
+    "Ice River Array",
+    "Sky Incinerating Expelling Flames",
+    "Ice God Bow",
+    "Qing Hai Zun Zhe"
+  ],
+  "cultivation": "The third change raises Xiao Yan from Two-Star to Seven-Star Dou Zong for a limited time. Protector Wu is an Eight-Star Dou Zong. Qing Hai Zun Zhe is a Two-Star Dou Zun.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "2-star Dou Zong",
+      "quote": "He's a Two-Star Dou Zong, / but he defeated an Eight-Star Dou Zong.",
+      "first": false
+    },
+    {
+      "id": "protector-wu",
+      "name": "Protector Wu",
+      "realm": "8-star Dou Zong",
+      "quote": "He's a Two-Star Dou Zong, / but he defeated an Eight-Star Dou Zong.",
+      "first": false
+    },
+    {
+      "id": "tian-she",
+      "name": "Tian She",
+      "first": false
+    },
+    {
+      "id": "bing-xuan",
+      "name": "Bing Xuan",
+      "first": true,
+      "card": 426
+    },
+    {
+      "id": "bing-hua",
+      "name": "Bing Hua",
+      "first": true,
+      "card": 426
+    },
+    {
+      "id": "tian-shuang-zi",
+      "name": "Tian Shuang Zi",
+      "first": false,
+      "card": 857
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "qing-hai-zun-zhe",
+      "name": "Qing Hai Zun Zhe",
+      "realm": "2-star Dou Zun",
+      "quote": "I'm afraid this person is a Two-Star Dou Zun.",
+      "first": true,
+      "card": 858
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false,
+      "card": 976
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Opening narration 15-43s is a recap of EP182.",
+    "155s: 'He has forcefully advanced to a Seven-Star Dou Zong level' is the temporary effect of the technique.",
+    "379-381s: the Hall of Souls protectors exist in spiritual form.",
+    "842-844s: 'It's a Dou Zong from the Hall of Souls. I'm afraid this person is a Two-Star Dou Zun.' The first line is likely a slip.",
+    "858s: name card '[Qing Hai]'.",
+    "715-721s: Xiao Yan brings down three Dou Zongs; EP184's recap says two were killed and one injured.",
+    "976-978s: the speaker of 'If you hurt him, you will die' is not named; EP184's recap credits the Little Fairy Doctor."
+  ]
+}

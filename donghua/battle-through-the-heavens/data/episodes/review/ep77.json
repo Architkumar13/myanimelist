@@ -1,0 +1,107 @@
+{
+  "ep": 77,
+  "title": "Three Against One",
+  "summary": "The final melee of the Inner Academy Qualifying Competition goes on at Jia Nan Academy. Xiao Yan starts to advance in the middle of the fight, and Xun Er guards him. Bai Shan talks Wu Hao and Hu Jia into a three-against-one attack, and Xun Er is hurt shielding Xiao Yan with her Golden Trigram Palm. Xiao Yan finishes his advancement, uses the Green Lotus Change of the Sky Fire Three Mysterious Changes to fight with a Dou Ling's power, and beats all three with the Angry Buddha Lotus Flame. Vice Dean Hu Qian names the top five: Hu Jia, Bai Shan, Wu Hao, Xun Er and Xiao Yan. Xiao Yan tells his cousin Xiao Mei what happened to the Xiao Clan and forgives her for the past. The top five then enter the Book Collection Hall after two hall elders open its Space Lock.",
+  "events": [
+    "Xiao Yan begins to advance during the melee; Xun Er stays to protect him.",
+    "Bai Shan, Wu Hao and Hu Jia join forces; Xun Er is hurt and swears to leave the academy if Bai Shan walks away unhurt.",
+    "Xiao Yan completes his advancement and uses the Green Lotus Change.",
+    "He beats the three with the Angry Buddha Lotus Flame, holding back its full power.",
+    "The top five are announced: Hu Jia, Bai Shan, Wu Hao, Xun Er and Xiao Yan.",
+    "Xiao Yan tells Xiao Mei about the clan and they make peace.",
+    "Two elders guard the Book Collection Hall; one silently recognises the Green Lotus Core Flame. Yao Lao cuts his link with Xiao Yan.",
+    "The elders open the Space Lock and the five go in."
+  ],
+  "introduced": [
+    "Golden Trigram Palm",
+    "Guardian Trigram Palm",
+    "Glorious Thunder",
+    "Blood Splitting Chop",
+    "Quiet Woods Poisonous Snake Vine",
+    "Sky Fire Three Mysterious Changes: First Change, Green Lotus Change",
+    "Book Collection Hall",
+    "Space Lock (a formation set by a Dou Zun)",
+    "Heavenly Flame Ranking (Green Lotus Core Flame ranks 19th)",
+    "Sonic Dou Skill (what Xiao Yan wants from the hall)"
+  ],
+  "cultivation": "Xiao Yan completes an advancement during the melee and is called a Six-Star Da Dou Shi afterwards. The Green Lotus Change gives him a Dou Ling's power for a short time. Bai Shan, Wu Hao and Hu Jia are Five- or Six-Star Da Dou Shis.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "6-star Da Dou Shi",
+      "quote": "Even if you're a Six Star Da Dou Shi now,",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-shan",
+      "name": "Bai Shan",
+      "realm": "5- or 6-star Da Dou Shi",
+      "quote": "they're all Five or Six Star Da Dou Shis.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hu-jia",
+      "name": "Hu Jia",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hu-qian",
+      "name": "Hu Qian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-mei",
+      "name": "Xiao Mei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-30s is a recap of EP76; 1070.6 is the start of the preview.",
+    "Xiao Yan's new star is not stated by him. Bai Shan says 'Even if you're a Six Star Da Dou Shi now' (345.2), which matches EP76's 'ten days before I become a Six-Star Da Dou Shi'.",
+    "'A strong Dou Ling' (393.1) and 'Xiao is equipped with the powers of a Dou Ling' (415.0) describe the Green Lotus Change, not a real realm.",
+    "Glorious Thunder (467.4), Blood Splitting Chop (475.6) and Quiet Woods Poisonous Snake Vine (487.2) are not tagged to a speaker; read as Bai Shan, Wu Hao and Hu Jia from EP82, where Wu Hao uses Blood Splitting Chop and Hu Jia a 'Quiet Viper Vine'.",
+    "157.8: someone calls the vice dean 'Hu Qian'; at 843-853 Hu Jia calls him 'Old man' and Xiao Yan 'Vice Dean'. EP79's recap confirms Vice Dean Hu Qian.",
+    "686.1 'Mentored by Ms. Ruo Lin, they won!' is a garbled line (the same slip appears in EP79's recap, 5.6).",
+    "788.9-801.7: who says 'When I get back to the Jia Ma Empire, I'll get even with the Misty Cloud Sect' is not clear (Xiao Yan or Xiao Mei).",
+    "The two Book Collection Hall elders are not named. The rank-19 line about the Green Lotus Core Flame (957.1) is one elder's inner thought.",
+    "Xun Er calls herself 'Xiao Xun Er' (285.7), and Hu Qian reads her name that way (674.2)."
+  ]
+}

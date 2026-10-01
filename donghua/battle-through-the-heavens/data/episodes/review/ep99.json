@@ -1,0 +1,127 @@
+{
+  "ep": 99,
+  "title": "Xiao Yan versus Yao Sheng",
+  "summary": "After beating Bai Cheng, Xiao Yan recovers his Dou Qi quickly, since he is a fifth-tier alchemist. Xun Er tells him Bai Cheng used Blood Ground Eight Split, a Xuan Class Dou Skill, and that Bai Cheng's family is a second-rate Central Plains clan. Liu Qing easily wins his match with the Great Rift Coffin Splitting Claw, and Lin Xiu Ya wins his with the Pestering Snake Hand. Mr. Ling reminds Xun Er that a month has passed; she will leave once Xiao Yan makes the top ten. In round two, Zi Yan gets the bye. Xiao Yan draws Yao Sheng, who bribed his way into the match to avenge Liu Fei. The two are even until Yao Sheng traps him in the Black Water Border, and Xiao Yan escapes with the Purple Cloud Wings, beating Yao Sheng with Octane Blast.",
+  "events": [
+    "Xiao Yan is declared the winner over Bai Cheng.",
+    "Xun Er explains Blood Ground Eight Split and Bai Cheng's Central Plains family.",
+    "Liu Qing wins with the Great Rift Coffin Splitting Claw.",
+    "Mr. Ling presses Xun Er to leave; she waits for the top-ten result.",
+    "Zi Yan gets the round-two bye; Lin Xiu Ya wins with the Pestering Snake Hand.",
+    "Xiao Yan faces Yao Sheng and uses the Green Lotus Change.",
+    "Yao Sheng traps him in the Black Water Border.",
+    "Xiao Yan flies out on the Purple Cloud Wings and wins with Octane Blast."
+  ],
+  "introduced": [
+    "Blood Ground Eight Split (Xuan Class Dou Skill)",
+    "Great Rift Coffin Splitting Claw",
+    "Three Sharks Thorns (Liu Qing's opponent's attack)",
+    "Pestering Snake Hand",
+    "Black Water Border",
+    "Annihilation Phantom Thorn",
+    "Lion Tiger Gold Shattering Roar",
+    "Brute Force Queen (Zi Yan's nickname)"
+  ],
+  "cultivation": "Xiao Yan is called a fifth-tier alchemist. No realm changes.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-cheng",
+      "name": "Bai Cheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-qing",
+      "name": "Liu Qing",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-fei",
+      "name": "Liu Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-xiu-ya",
+      "name": "Lin Xiu Ya",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mr-ling",
+      "name": "Mr. Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-sheng",
+      "name": "Yao Sheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut subtitle file, which starts at the [Episode 99] card: events unchanged; flag times moved to the new clock."
+  ],
+  "flags": [
+    "0-36s are a recap of EP98 and are not counted.",
+    "463.4 'Liu Xiu Ya' is a typo for Lin Xiu Ya.",
+    "527-556s: someone near Xiao Yan says he'll be an Inner Academy elder for a year if he makes the top ten and asks to go with him to the Jia Ma Empire, 'to travel across the entire Central Plains'. The speaker isn't named; likely Lin Yan, who says the same in EP111.",
+    "976.2 'Lion Tiger Gold Shattering Roar' isn't clearly linked to Xiao Yan or Yao Sheng. In EP104 (118.5) a top-ten student calls it 'my' roar.",
+    "Yao Sheng bribed his way into the match, per the EP100 recap (8.4)."
+  ]
+}

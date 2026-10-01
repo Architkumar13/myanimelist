@@ -1,0 +1,90 @@
+{
+  "ep": 189,
+  "title": "Mu Gu and the Chairman",
+  "summary": "While Xiao Yan trains his Soul Skill, Mu Gu, an Honorable Elder of the Hall of Souls, traps him inside a Spiritual Barrier and demands the Flame Mantra and the Bone Chilling Flame. Mu Gu fights with the Sea Heart Flame and nearly takes Xiao Yan's three Heavenly Flames, until Xuan Kong Zi of the Pill Tower sends a split soul to drive him off. Under questioning, Han Feng's soul admits he gave his Sea Heart Flame to Mu Gu, a Dou Zun and eight-tier alchemist who was expelled from Yao Chen's sect and helped plot against Yao Chen. Elder Sheng takes Xiao Yan into the Pill Tower and promises to warn the Profound Xuan Sect, which likely told the Hall of Souls about him. Xuan Kong Zi, the Pill Tower's Chairman and an old friend of Yao Chen, asks to be called Uncle Xuan and gives Xiao Yan the Ten Thousand Year Old Green Spiritual Vine, the Blood Essence Demon Fruit and the Soul Palms scroll. He then asks Xiao Yan, Song Qing and Cao Ying to keep the Hall of Souls out of the Pill Gathering's top ten, because it wants the sealed Three Thousand Burning Flame.",
+  "events": [
+    "Mu Gu traps Xiao Yan in a Spiritual Barrier and demands the Flame Mantra.",
+    "Mu Gu overpowers Xiao Yan with the Sea Heart Flame.",
+    "Xuan Kong Zi's split soul drives Mu Gu away.",
+    "Han Feng's soul reveals Mu Gu's identity and his part in betraying Yao Chen.",
+    "Elder Sheng brings Xiao Yan into the Pill Tower and promises to warn the Profound Xuan Sect.",
+    "Xuan Kong Zi gives Xiao Yan the two missing herbs and the Soul Palms scroll.",
+    "Xiao Yan meets Song Qing, the First Elder's disciple and youngest Pill Tower elder.",
+    "Xuan Kong Zi warns that the Hall of Souls is after the Three Thousand Burning Flame."
+  ],
+  "introduced": [
+    "Mu Gu",
+    "Honorable Elder",
+    "Sea Heart Flame",
+    "Xuan Kong Zi",
+    "Chairman of the Pill Tower",
+    "Six Joint Body Flowing Ruler",
+    "Song Qing",
+    "First Elder of the Pill Tower"
+  ],
+  "cultivation": "Mu Gu is said to be a Dou Zun and an eight-tier alchemist (Han Feng, 527s). Song Qing is the youngest elder of the Pill Tower.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "mu-gu",
+      "name": "Mu Gu",
+      "realm": "Dou Zun",
+      "quote": "Not only is he a Dou Zun, but he is also an eight-tier alchemist.",
+      "first": true,
+      "card": 93
+    },
+    {
+      "id": "xuan-kong-zi",
+      "name": "Xuan Kong Zi",
+      "first": true,
+      "card": 774
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "first": false
+    },
+    {
+      "id": "ye-chong",
+      "name": "Ye Chong",
+      "first": false
+    },
+    {
+      "id": "elder-sheng",
+      "name": "Elder Sheng",
+      "first": false
+    },
+    {
+      "id": "song-qing",
+      "name": "Song Qing",
+      "first": true,
+      "card": 905
+    },
+    {
+      "id": "cao-ying",
+      "name": "Cao Ying",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10s [Episode 189] card; 15-55s recap of EP188, which already names Mu Gu as the attacker.",
+    "93s: the attacker is not named during the fight; Han Feng names him 'Old Mu Gu' at 525s. 357s: Mu Gu names Xuan Kong Zi.",
+    "113s and 475s: the Sea Heart Flame is Han Feng's old Heavenly Flame, now Mu Gu's.",
+    "465-468s: 'He's slightly stronger than me' is taken as Yao Tian Huo (or Little Fairy Doctor) speaking of Mu Gu.",
+    "485-576s: Han Feng is questioned as a captive soul; he calls Xiao Yan 'Martial Brother'.",
+    "892-1009s: 'Greetings, Master' is said by one of the young alchemists (taken as Cao Ying) to Xuan Kong Zi; 'With Ying and me around' is Song Qing; '(I... I will work even harder)' speaker is not named.",
+    "901s: Song Qing says 'We meet again, Xiao Yan', but no earlier meeting is shown in EP185-188.",
+    "1050-1062s: an unnamed speaker (likely Mu Gu or a Pill Tower elder) muses that his rivalry with Yao Chen has passed to their disciples."
+  ]
+}

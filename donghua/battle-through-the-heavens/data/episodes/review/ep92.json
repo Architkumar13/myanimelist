@@ -1,0 +1,80 @@
+{
+  "ep": 92,
+  "title": "Two Levels at Once",
+  "summary": "Yao Lao and Queen Medusa agree a new deal: Xiao Yan will deliver the Thawing Spirit Pill within a year, and Medusa will keep him safe for that year. Xiao Yan then washes his marrow with the Core Quenching Body Milk and other medicines, enduring the pain by remembering his father and his promises. He breaks through two levels at once and becomes a Dou Ling. Back at the Inner Academy arena, Wu Hao, a Nine-Star Da Dou Shi, is losing a duel against Bai Cheng, a Six-Star Dou Ling, and tries a Forbidden Method. Xun Er steps in for him. Xiao Yan arrives, takes over the duel, and opens with the Green Lotus Change.",
+  "events": [
+    "Yao Lao and Medusa argue over the broken Misty Cloud Sect deal; the python fights Medusa for its body.",
+    "Medusa agrees to protect Xiao Yan for one more year in exchange for the Thawing Spirit Pill.",
+    "Xiao Yan washes his marrow with the Core Quenching Body Milk.",
+    "He breaks through two levels and becomes a Dou Ling.",
+    "Bai Cheng beats Wu Hao at the arena; onlookers say Liu Qing has backed Bai Cheng.",
+    "Wu Hao tries a Forbidden Method; Xun Er takes his place.",
+    "Xiao Yan arrives as a new Dou Ling and fights Bai Cheng with the Green Lotus Change."
+  ],
+  "introduced": [
+    "Forbidden Method (Wu Hao)",
+    "Green Lotus Change, the First Change of the Sky Fire Three Mysterious Changes"
+  ],
+  "cultivation": "Xiao Yan breaks through two levels at once and becomes a Dou Ling (from Da Dou Shi). Bai Cheng is a Six-Star Dou Ling; Wu Hao is a Nine-Star Da Dou Shi.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Ling",
+      "quote": "Dou Ling and Da Dou Shi are indeed very different.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-cheng",
+      "name": "Bai Cheng",
+      "realm": "6-star Dou Ling",
+      "quote": "After all, Bai Cheng is a Six-Star Dou Ling.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "realm": "9-star Da Dou Shi",
+      "quote": "You're only a Nine-Star Da Dou Shi, and you dare challenge me, huh?",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut subtitle file, which starts at the [Episode 92] card: events unchanged; flag times moved to the new clock and notes about the old cut removed."
+  ],
+  "flags": [
+    "0-27s are a recap of EP91 and are not counted.",
+    "772.9: 'there's still a Six-Star gap between him and Bai Cheng' suggests Xiao Yan is a 1-star Dou Ling or lower, while EP97 calls him a Two-Star Dou Ling. The exact star is not stated here.",
+    "The subtitles switch between 'Rock Gate' (most lines in EP90-104) and 'Pan's Gate'. The reviews use Rock Gate.",
+    "Medusa: 'Heaven Swallowing Python actually snatches the body with me at this moment' (171.4) is the python resisting her.",
+    "747.9 'Tai has told me everything': who 'Tai' is isn't clear."
+  ]
+}

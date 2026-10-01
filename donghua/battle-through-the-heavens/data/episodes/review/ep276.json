@@ -1,0 +1,104 @@
+{
+  "ep": 276,
+  "title": "The Ninth-Grade Xuan Dan",
+  "summary": "The final round of the Pill Gathering pits Xiao Yan against Yao Wanhuo, Old Shennong and Hun Xuzi. Yao Wanhuo shows the Nine Nether Wind Flame, Old Shennong the Flame of Life, and Hun Xuzi a sub-flame of the Void Devouring Flame, while Xiao Yan refines over a thousand herbs at once with the Purifying Demonic Lotus Flame and Xiao Yi. All four try for a ninth-grade Xuan Dan by drawing on the energy of heaven and earth, and soon drain everything within a thousand miles. Hun Xuzi then uses his flame to steal the others' energy, but Xiao Yi purifies it, Xiao Yan's puppet traps him, and Yao Wanhuo and Old Shennong fight him. With their own pills ruined, the two elders give their nascent pills to Xiao Yan, and the Purifying Demonic Lotus Flame turns the mixed ingredients into pure energy. His Xuan Dan survives its lightning tribulation and even takes human form to try to escape, and Xiao Yan is named the continent's number one alchemist. Yao Dan grants Yao Lao's wish for the clan monument, and then Hun Xuzi demands the Medicine Clan's Tuoshe Ancient Emperor Jade and announces that the clan is about to disappear.",
+  "events": [
+    "Narration explains alchemist ranks: Treasure Pill, Xuan Dan and Golden Pill masters.",
+    "The four finalists show their Heavenly Flames.",
+    "Xiao Yan refines over a thousand herbs at once.",
+    "All four try for a ninth-grade Xuan Dan and drain the area's energy.",
+    "Hun Xuzi steals energy with the Void Devouring Flame; Xiao Yi purifies it.",
+    "Yao Wanhuo and Old Shennong give their nascent pills to Xiao Yan.",
+    "Xiao Yan's Xuan Dan survives the lightning tribulation; he becomes number one alchemist.",
+    "Hun Xuzi demands the Tuoshe Ancient Emperor Jade and threatens the Medicine Clan."
+  ],
+  "introduced": [
+    "Treasure Pill / Xuan Dan / Golden Pill alchemist ranks",
+    "Nine Nether Wind Flame",
+    "Flame of Life",
+    "ninth-grade Xuan Dan",
+    "lightning tribulation",
+    "Tuoshe Ancient Emperor Jade (of the Medicine Clan)",
+    "Heavenly Flame spirit"
+  ],
+  "cultivation": "Xiao Yan is called 'a master of the Precious Pill' grade (173.4) and 'the youngest Grandmaster of Elixir of Precious Pills' (196.0); he refines a ninth-grade Xuan Dan and is named the continent's number one alchemist. No realm change.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-yi",
+      "name": "Xiao Yi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 340.6
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-wanhuo",
+      "name": "Yao Wanhuo",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "old-shennong",
+      "name": "Old Shennong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-xuzi",
+      "name": "Hun Xuzi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-dan",
+      "name": "Yao Dan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-xing-ji",
+      "name": "Yao Xing Ji",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "This track is a rough machine-like translation: 'Konkyoshi' = Hun Xuzi, 'medicinal pills' / 'Chief Yaodan' = Yao Dan, 'medicine dust' = Yao Chen (Yao Lao), 'Medicine Day' = Yao Tian, 'Medicine Spirit' = Yao Ling, 'Medicine Star' = Yao Xing Ji, 'Soul Clan' = Hun Clan, 'Soul Hall/Palace/Temple' = Hall of Souls, 'Tianfu Alliance' = Sky Mansion Alliance, 'Ancient Clan/tribe' = Gu Clan, 'pharmacopoeia' = Pill Gathering, 'strange fire' = Heavenly Flame.",
+    "155-182s is narration on alchemist ranks; the file starts after the opening.",
+    "Rank names vary: 'Baodan' / 'Precious Pill' (Treasure Pill), 'Xuan Dan' / 'Mystic Pill' / 'Profound Pill', 'Golden Elixir'.",
+    "Flame ranks as stated: Nine Nether Wind Flame tenth (216.4), Flame of Life fifth (248.5), Void Devouring Flame second (281.9).",
+    "221.6 says Yao Xing Ji's Nine Nether Wind Flame in the Celestial Tomb was lent by Yao Wanhuo.",
+    "341.5 'Hua Ding' (transforming the flame into a cauldron) and 362.7 'Different Fire Cauldron' are given as technique names.",
+    "863.2 'The space opened up by a mere puppet' is read as Xiao Yan's Northern King Puppet trapping Hun Xuzi.",
+    "1191-1195s Hun Xuzi complains he 'made a wedding dress for you' (his effort helped Xiao Yan).",
+    "1145-1153s the announcer names Xiao Yan of the Sky Mansion Alliance ('Tianfu Alliance')."
+  ]
+}

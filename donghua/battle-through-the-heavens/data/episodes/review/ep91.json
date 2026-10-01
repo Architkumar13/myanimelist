@@ -1,0 +1,74 @@
+{
+  "ep": 91,
+  "title": "The Real Core Quenching Body Milk",
+  "summary": "Xiao Yan returns to the Snow Demon Sky Ape's valley at night, when the ape is weak after its violent blood has burned out. The Seven-Colored Heaven Swallowing Python holds the ape off while Xiao Yan searches its lair. He finds a pool of Core Quenching Body Milk, but Yao Lao shows him it is only a diluted run-off, and has him cut the true milk, ten times purer, out of a round rock. Yao Lao teaches him the alchemist's rule of leaving a treasure's roots. The python wins its fight and Xiao Yan rewards it with a feast. Then the python's weakness lets Queen Medusa wake inside it; she threatens to kill Xiao Yan for not making the Thawing Spirit Pill, and Yao Lao appears to protect him.",
+  "events": [
+    "The ape is weaker at night after its violent blood erupted.",
+    "The Seven-Colored Heaven Swallowing Python stalls the ape.",
+    "Xiao Yan remembers the Purple Crystal Winged Lion King's offer of the Purple Spirit Crystal for a Body Transformation Pill.",
+    "He finds the diluted Core Quenching Body Milk in a huge underground space.",
+    "Yao Lao shows him the pure milk hidden inside a rock and the rule of keeping a treasure's roots.",
+    "The python beats the ape and they escape; Xiao Yan feeds it.",
+    "Queen Medusa wakes in the weakened python and attacks Xiao Yan over the Thawing Spirit Pill.",
+    "Yao Lao appears in spirit form and faces her."
+  ],
+  "introduced": [
+    "Seven-Colored Heaven Swallowing Python (full name used)",
+    "Body Transformation Pill",
+    "the real (pure) Core Quenching Body Milk versus the diluted kind",
+    "'keep the roots' rule of alchemists"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "heaven-swallowing-python",
+      "name": "Heaven Swallowing Python",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "snow-demon-sky-ape",
+      "name": "Snow Demon Sky Ape",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut subtitle file, which starts at the [Episode 91] card: events unchanged (the feeding scene is in EP90, the feast, Medusa waking and Yao Lao appearing are in this file); flags moved to the new clock."
+  ],
+  "flags": [
+    "0-32s are a recap of EP90 and are not counted.",
+    "Flashbacks to the Purple Crystal Winged Lion King and Yun Yun of the Misty Cloud Sect (178-200s); they are memories, not on screen this episode, so they are left out of cast.",
+    "Medusa calls Yao Lao a 'spiritual form' (914.8) and says she always knew a strong man stood behind Xiao Yan.",
+    "928-991s: after Yao Lao faces Medusa, the file ends with a trailer montage of lines from EP90-93 and two promotion cards; not story."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+ "ep": 204,
+ "title": "The Dou Sheng ruins open",
+ "summary": "As the seal on the ruins weakens, Xiao Yan takes a small group in and leaves Elder Hu to guard the camp. Outside the entrance he meets Huang Xuan and Feng Qing Er of the Heaven Demon Phoenix Tribe, who want him for hiding their clan's Essence Blood. Tang Zhen of the Burning Flame Valley and Tang Huo Er arrive, and Tang Zhen says he will fight anyone who touches Xiao Yan, so the phoenixes back off. Inside, puppets as strong as peak Dou Zongs test the intruders, and Xiao Yan subdues several of them. His group escapes a looping fire path by diving into the magma below, which is the real way in. Zi Yan sniffs out the Soul Baby Demon Tree, guarded by a Heaven Piercing Flood Dragon. Xiao Yan takes the Soul Baby Fruit and gives the dragon a Shape-Shifting Flower in return.",
+ "events": [
+  "The seal on the ruins is about to open; Elder Hu stays at the camp.",
+  "Huang Xuan and Feng Qing Er of the Heaven Demon Phoenix Tribe threaten Xiao Yan.",
+  "Tang Zhen and Tang Huo Er of the Burning Flame Valley back Xiao Yan.",
+  "The crowd rushes in; a Space Lock and Dou Zong-level puppets block the way.",
+  "Xiao Yan subdues several puppets while an elder holds them.",
+  "The group finds the real passage under the magma of the fire path.",
+  "Zi Yan leads them to the Soul Baby Demon Tree and its Heaven Piercing Flood Dragon guard.",
+  "Xiao Yan takes the Soul Baby Fruit, pays the dragon with a Shape-Shifting Flower, and Zi Yan feels something calling her."
+ ],
+ "introduced": [
+  "Huang Xuan",
+  "Ice River Valley",
+  "Dou Sheng ruins",
+  "Heaven Demon Puppet",
+  "Soul Baby Demon Tree",
+  "Heaven Piercing Flood Dragon",
+  "Shape-Shifting Flower",
+  "Myriad Herbs Mountain Range (mentioned)"
+ ],
+ "cultivation": "Feng Qing Er calls Xiao Yan 'a mere two-star Dou Zun'. The ruins' puppets are each as strong as a peak Dou Zong; the puppet leader, after evolving, is at least a two-star Dou Zun.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "xiao-yan",
+   "name": "Xiao Yan",
+   "realm": "2-star Dou Zun",
+   "quote": "You are a mere two-star Dou Zun.",
+   "first": false
+  },
+  {
+   "id": "zi-yan",
+   "name": "Zi Yan",
+   "first": false
+  },
+  {
+   "id": "mu-qing-luan",
+   "name": "Mu Qing Luan",
+   "first": false
+  },
+  {
+   "id": "elder-hu",
+   "name": "Elder Hu",
+   "first": false
+  },
+  {
+   "id": "huang-xuan",
+   "name": "Huang Xuan",
+   "first": true,
+   "card": 118
+  },
+  {
+   "id": "feng-qing-er",
+   "name": "Feng Qing Er",
+   "first": false
+  },
+  {
+   "id": "tang-zhen",
+   "name": "Tang Zhen",
+   "first": false
+  },
+  {
+   "id": "tang-huo-er",
+   "name": "Tang Huo Er",
+   "first": false
+  },
+  {
+   "id": "lei-zun-zhe",
+   "name": "Lei Zun Zhe",
+   "first": false
+  }
+ ],
+ "changes": [],
+ "flags": [
+  "Realm conflict: Feng Qing Er says 'two-star Dou Zun' (175), but in EP207 Chen Tian Nan calls him 'a One-Star Dou Zun' and in EP211 he reaches Two-Star. The EP204 line may be wrong or a guess.",
+  "489: 'this Elder of Earth Xuan Sect' is probably the Profound Xuan Sect (listed at 137).",
+  "Huang Xuan's card (118) is on the line 'Looks like the ancient ruins are indeed tempting'; he is greeted as 'Elder Huang Xuan'. Feng Qing Er is called 'Qing Er'.",
+  "Who says 'This is much better than my Myriad Herbs Mountain Range' (908) is not clear.",
+  "Which of Xiao Yan's companions besides Zi Yan and Mu Qing Luan go in is not stated here; EP206-209 show Little Fairy Doctor, Yao Tian Huo, Xiong Zhan and others with him.",
+  "How many puppets Xiao Yan subdues is not said; he thinks that with them and his Heaven Demon Puppet (likely the Sky Demon Puppet) he could face a five-star Dou Zun."
+ ]
+}

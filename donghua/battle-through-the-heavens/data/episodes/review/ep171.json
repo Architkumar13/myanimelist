@@ -1,0 +1,119 @@
+{
+  "ep": 171,
+  "title": "The Four Pavilion Grand Meeting",
+  "summary": "Jin Gu explains that the Gu Clan carries a Dou Di bloodline and lives in the Gu Realm, a space in the eastern Central Plains built by its Dou Shengs. Xiao Yan now understands why Xun Er asked him to become a Dou Zong before looking for her. He cures Jin Shi's Fire Poison and flies to Lightning Mountain, home of the Wind Lightning Pavilion, for the Four Pavilion Grand Meeting. He hides among the spectators while Lei Zun Zhe, Jian Zun Zhe, Huang Quan Zun Zhe and Feng Zun Zhe arrive. Fifty-three contestants fight until four remain, and Feng Qing Er, now a Dou Zong, stands out. Xiao Yan sees his old friend Lin Yan, now a Dou Huang, surrender, and he steps in when Wang Chen tries to kill him anyway. Huang Quan Zun Zhe demands punishment, so Xiao Yan agrees to a duel with Wang Chen.",
+  "events": [
+    "Jin Gu tells Xiao Yan about the Gu Clan's Dou Di bloodline and the Gu Realm.",
+    "Xiao Yan removes Jin Shi's Fire Poison and learns Feng Qing Er became a Dou Zong in the Blood Pool.",
+    "At Lightning Mountain he avoids Elder Mu and Elder Huo and takes the spectators' path.",
+    "Fei Tian and the four Zun Zhes of the pavilions arrive.",
+    "Fifty-three contestants start a melee to decide the last four.",
+    "Lin Yan surrenders, but Wang Chen keeps attacking him; Xiao Yan saves him.",
+    "Lei Zun Zhe orders the intruder punished; Feng Zun Zhe objects.",
+    "Huang Quan Zun Zhe offers a duel with Wang Chen, and Xiao Yan accepts."
+  ],
+  "introduced": [
+    "Gu Realm",
+    "Dou Sheng",
+    "Lightning Mountain",
+    "Four Pavilion Grand Meeting",
+    "Lei Zun Zhe",
+    "Jian Zun Zhe",
+    "Huang Quan Zun Zhe",
+    "Feng Zun Zhe (on screen)",
+    "Thunder Rod",
+    "Heaven Demon Phoenix Bloodline"
+  ],
+  "cultivation": "Feng Qing Er has become a Dou Zong through the Blood Pool. Lin Yan has broken through to Dou Huang.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "jin-gu",
+      "name": "Jin Gu",
+      "first": false
+    },
+    {
+      "id": "jin-shi",
+      "name": "Jin Shi",
+      "first": false
+    },
+    {
+      "id": "elder-mu",
+      "name": "Elder Mu",
+      "first": false,
+      "card": 272
+    },
+    {
+      "id": "elder-huo",
+      "name": "Elder Huo",
+      "first": false,
+      "card": 272
+    },
+    {
+      "id": "fei-tian",
+      "name": "Fei Tian",
+      "first": false,
+      "card": 376
+    },
+    {
+      "id": "lei-zun-zhe",
+      "name": "Lei Zun Zhe",
+      "first": true,
+      "card": 410
+    },
+    {
+      "id": "jian-zun-zhe",
+      "name": "Jian Zun Zhe",
+      "first": true,
+      "card": 432
+    },
+    {
+      "id": "huang-quan-zun-zhe",
+      "name": "Huang Quan Zun Zhe",
+      "realm": "Dou Zun",
+      "quote": "(doesn't have the bearing of a Dou Zun at all.)",
+      "first": true,
+      "card": 477
+    },
+    {
+      "id": "feng-zun-zhe",
+      "name": "Feng Zun Zhe",
+      "first": true,
+      "card": 519
+    },
+    {
+      "id": "feng-qing-er",
+      "name": "Feng Qing Er",
+      "realm": "Dou Zong",
+      "quote": "Feng Qing Er has also become a Dou Zong / with the help of the Blood Pool.",
+      "first": false
+    },
+    {
+      "id": "wang-chen",
+      "name": "Wang Chen",
+      "first": false
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "realm": "Dou Huang",
+      "quote": "(and Lin Yan has already broken through / to become a Dou Huang too.)",
+      "first": false,
+      "card": 846
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Opening narration 15-57s is a recap of EP170.",
+    "300s '[Competitiveness]' and 310s '[A Visitor from Afar]' are bracketed captions, not name cards.",
+    "Name cards: [Lei Zun Zhe] 410s, [Jian Zun Zhe] 432s, [Huang Quan Zun Zhe] 477s, [Feng Zun Zhe] 519s.",
+    "816-823s: someone tells Feng Zun Zhe that 'that female disciple of yours' could shine with talents 'inherited from the Heaven Demon Phoenix Bloodline'. Feng Zun Zhe's disciple is Mu Qing Luan, but EP173 shows Feng Qing Er is the Heaven Demon Phoenix. The line is likely garbled or about Feng Qing Er.",
+    "826s: Xiao Yan judges Wang Chen weaker than the others; EP172 calls Wang Chen almost a Dou Zong.",
+    "1054-1056s: Xiao Yan's thought calls Huang Quan Zun Zhe an 'old geezer' without the bearing of a Dou Zun; taken as stating his rank."
+  ]
+}

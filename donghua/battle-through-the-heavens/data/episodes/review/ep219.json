@@ -1,0 +1,98 @@
+{
+  "ep": 219,
+  "title": "The Coming-of-Age Ceremony",
+  "summary": "Gu Clan guards block Xiao Yan's friends at the ceremony until Mang Tian Chi appears; he is the old man from the Void Lightning Pool and the dean of Jia Nan Academy's Inner Academy. He makes Elder Gu Shan let them pass and says the Xiao Clan's slot in the Heavenly Tomb, long held by the Gu Clan, should be returned. At the ceremony, a star chart measures bloodline from first to tenth rank, and clan marks are granted in silver, gold, purple-gold and rainbow-gold. Ling Quan tests at sixth rank and Gu Yao, a marshal of the Black Submerged Army and an 8-star Dou Zun, at eighth rank. Gu Yao then challenges Xiao Yan, and Mang Tian Chi says surviving a hundred rounds will win back the slot. Xiao Yan's Dragon-Phoenix Ancient Armor takes Gu Yao's blows, and he answers Gu Yao's Ancient Holy Codex with the Five Ring Flame Expelling Formation. When Gu Yao's Great Annihilation Finger breaks through, Xiao Yan strikes back, and Elder Tong Xuan steps in to end the fight.",
+  "events": [
+    "Gu guards bar Xiao Yan's friends from the ceremony.",
+    "Mang Tian Chi reveals himself as Dean Mang and makes Gu Shan let them through.",
+    "Dean Mang promises help getting the Xiao Clan's Heavenly Tomb slot back.",
+    "The bloodline test: Ling Quan sixth rank, Gu Yao eighth rank.",
+    "Gu Yao challenges Xiao Yan, who accepts.",
+    "The Dragon-Phoenix Ancient Armor withstands Gu Yao's spear.",
+    "Gu Yao's Ancient Holy Codex and Great Annihilation Finger against the Five Ring Flame Expelling Formation.",
+    "Xiao Yan strikes back and Elder Tong Xuan intervenes."
+  ],
+  "introduced": [
+    "Gu Shan",
+    "Gu Xu",
+    "Gu Yao",
+    "Marshal Demon (Gu Yao's title)",
+    "bloodline ranks",
+    "divine-grade bloodline",
+    "clan mark (Silver, Gold, Purple-Gold, Rainbow-Gold)",
+    "Mountain Opening Handprint",
+    "Ten Thousand Beasts Spear Technique",
+    "Beast King's Roar",
+    "Ancient Holy Codex",
+    "Devour Heaven, Swallow Earth",
+    "Five Ring Flame Expelling Technique",
+    "Five Ring Flame Expelling Formation",
+    "Great Annihilation Finger",
+    "Tong Xuan"
+  ],
+  "cultivation": "Ling Quan: 'Seventh Commander of the Black Submerged Army, / One-Star Dou Zun, sixth-rank bloodline'. Gu Yao: 'Eight-Star Dou Zun, eighth-rank bloodline'. Xun Er's last test, long ago, was eighth rank.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false
+    },
+    {
+      "id": "mang-tian-chi",
+      "name": "Mang Tian Chi",
+      "first": false,
+      "card": 154.2
+    },
+    {
+      "id": "gu-shan",
+      "name": "Gu Shan",
+      "first": true,
+      "card": 189.7
+    },
+    {
+      "id": "gu-qian",
+      "name": "Gu Qian",
+      "first": false
+    },
+    {
+      "id": "gu-yao",
+      "name": "Gu Yao",
+      "realm": "8-star Dou Zun",
+      "quote": "One of the four Black Submerged Army marshals, / Eight-Star Dou Zun, eighth-rank bloodline.",
+      "first": true,
+      "card": 265.5
+    },
+    {
+      "id": "ling-quan",
+      "name": "Ling Quan",
+      "realm": "1-star Dou Zun",
+      "quote": "Seventh Commander of the Black Submerged Army, / One-Star Dou Zun, sixth-rank bloodline.",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "tong-xuan",
+      "name": "Tong Xuan",
+      "first": true,
+      "card": 1124.5
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10-44s: recap.",
+    "154.2s: Mang Tian Chi's name card. He is the 'Mr. Mang' of EP216 (first on screen there).",
+    "191s: 'Gu Qian, Gu Xu' are told to let the group through; Gu Xu is named only here.",
+    "1046-1094s: Xiao Yan's counterattack is not named in the subtitles; EP220's recap calls it the Four-Colored Extermination Fire Lotus.",
+    "1124.5s: Tong Xuan's card comes as he stops the fight; his position (elder) is made clear in EP220."
+  ]
+}

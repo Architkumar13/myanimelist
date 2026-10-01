@@ -1,0 +1,89 @@
+{
+  "ep": 143,
+  "title": "Back to the Black-Corner Region",
+  "summary": "Medusa leaves Xiao Yan, Little Fairy Doctor and Zi Yan at the border of the Magical Beast Mountain Range, and Xiao Yan promises her the Heaven Soul Blood Fusing Pill within two years. Xiao Yan heads for Jia Nan Academy to find a Dou Zun, with a detour to an auction in Black Emperor City. On the way he saves Instructor Mai Di and her student Mo Ling from Demon Flame Valley killers. They tell him Elder Wu Hao and Xiao Yu are trapped in a valley with academy students. Wu Hao, the Bloody Sword, now a Dou Wang, holds off two Demon Flame Valley Dou Wangs and then their Fourth Elder, a Dou Huang. Xiao Yan arrives with the Heavy Xuan Ruler, saves Wu Hao and names himself Xiao Yan of the Xiao Gate. The Fourth Elder grabs students as hostages and runs.",
+  "events": [
+    "Medusa says goodbye at the edge of the Magical Beast Mountain Range",
+    "Demon Flame Valley men trap Wu Hao and academy students in a valley",
+    "Xiao Yan, Little Fairy Doctor and Zi Yan walk toward Black Emperor City for an auction",
+    "Zi Yan beats the killers chasing Mai Di and Mo Ling",
+    "The Fourth Elder of Demon Flame Valley arrives and beats Wu Hao",
+    "Xiao Yan arrives and fights the Fourth Elder",
+    "The Fourth Elder takes hostages and flees"
+  ],
+  "introduced": [
+    "Demon Flame Valley",
+    "Fourth Elder of Demon Flame Valley",
+    "Mai Di (Jia Nan Academy instructor)",
+    "Mo Ling (Mai Di's student)",
+    "Bloody Sword (Wu Hao's nickname)",
+    "Black Emperor City auction",
+    "Blood Spiritual Grass",
+    "Xiao Gate"
+  ],
+  "cultivation": "Wu Hao has reached Dou Wang. The Fourth Elder of Demon Flame Valley is a Dou Huang.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false,
+      "card": 0
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false,
+      "card": 107
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false,
+      "card": 123
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false,
+      "card": 297
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "realm": "Dou Wang",
+      "quote": "I see you've already reached the Dou Wang class.",
+      "first": false,
+      "card": 242
+    },
+    {
+      "id": "mai-di",
+      "name": "Mai Di",
+      "first": true,
+      "card": 394
+    },
+    {
+      "id": "mo-ling",
+      "name": "Mo Ling",
+      "first": true,
+      "card": 396
+    },
+    {
+      "id": "fourth-elder-of-demon-flame-valley",
+      "name": "Fourth Elder of Demon Flame Valley",
+      "realm": "Dou Huang",
+      "quote": "I'll show you what makes me a Dou Huang.",
+      "first": true,
+      "card": 666
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-160s, before the [Episode 143] card, are Medusa's farewell under the opening song; counted as this episode's opening.",
+    "223s: the two Demon Flame Valley men facing Wu Hao are 'Two Dou Wangs'; they are not named.",
+    "503-512s: Xiao Yu is named with Wu Hao, but it is not clear she is on screen; left out of cast.",
+    "1049s: 'I am Xiao Yan from the Xiao Gate.' The Xiao Gate is his Black-Corner Region faction; the Rock Gate is the Inner Academy one (ep150).",
+    "1056s: an enemy says Xiao Yan beat Han Feng, 'who was close to being a Dou Zong'.",
+    "The ep144 recap calls the Fourth Elder 'the Eagle-Clawed Elder'."
+  ]
+}

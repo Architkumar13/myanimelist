@@ -1,0 +1,72 @@
+{
+  "ep": 233,
+  "title": "The Heaven Demon Blood Pool",
+  "summary": "Xiao Yan treats the Flower Sect with pills, and Yun Yun's group joins him because the Profound Sky Sect killed their Elder Qinghua. On the way to the Ancient Region Stage, the Ancient Heaven Demon Python, as strong as a peak Fifth Turn Dou Zun, comes after them. Xiao Yan wants its Heaven Demon Blood Pool, whose energy can temper his King Kong Glass Body. Qing Lin's Triple Jade-Green Snake Flower Pupils fail at first, so Little Fairy Doctor, Medusa and the Flower Sect fight the python until it weakens. Qing Lin then holds it with her Demonic Eyes while Xiao Yan cultivates in the pool for three days. When the python breaks free, Xiao Yan comes out with the peak Nine-Zhang King Kong Glass Body and saves the others. He gives the python to Qing Lin.",
+  "events": [
+    "The Flower Sect joins Xiao Yan's group after losing Elder Qinghua.",
+    "They head for the Ancient Region Stage, a safe spot in the Wasteland.",
+    "The Ancient Heaven Demon Python appears; Xiao Yan wants its blood pool.",
+    "Qing Lin's pupils fail to control the python; the group splits up and fights it.",
+    "Little Fairy Doctor uses Sky Poison Prison and Thousand Mirage Poison Spring; Qing Lin's Demonic Eyes hold it.",
+    "Xiao Yan cultivates in the Heaven Demon Blood Pool for three days.",
+    "The python breaks free; Xiao Yan returns with the Nine-Zhang King Kong Glass Body.",
+    "Xiao Yan lets Qing Lin keep the python."
+  ],
+  "introduced": [
+    "Ancient Region Stage",
+    "Ancient Heaven Demon Python",
+    "Heaven Demon Blood Pool (Heaven Demon Spiritual Pond)",
+    "Elder Qinghua (named only)",
+    "Demonic Eyes (of the Triple Jade-Green Snake Flower Pupils)"
+  ],
+  "cultivation": "Xiao Yan's King Kong Glass Body reaches the peak Nine-Zhang stage. The Ancient Heaven Demon Python is a peak Fifth Turn Dou Zun.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "first": false
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "first": false
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "first": false
+    },
+    {
+      "id": "ancient-heaven-demon-python",
+      "name": "Ancient Heaven Demon Python",
+      "realm": "peak Fifth Turn Dou Zun",
+      "quote": "[Ancient Heaven Demon Python, Peak Fifth Turn Dou Zun]",
+      "first": true,
+      "card": 233.4
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-55s is a recap of EP232.",
+    "263-313s: the pool is called both 'Heaven Demon Spiritual Pond' and 'Heaven Demon Blood Pool'; one place.",
+    "596s: 'Wind's Peak, Killer Meteorite!' speaker not shown in the subtitles; likely Yun Yun or Nalan Yanran.",
+    "715s: Xiao Yan uses the Three Thousand Lightning Illusionary Body to speed up his cultivation.",
+    "170s: 'huge lost' is a typo for 'loss'."
+  ]
+}

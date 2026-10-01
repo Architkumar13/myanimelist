@@ -1,0 +1,89 @@
+{
+  "ep": 111,
+  "title": "Back from the Tower",
+  "summary": "Xiao Yan comes out of the Blazing Qi Refining Tower after two years, now a Dou Wang. To welcome him back, Lin Xiu Ya, now a Five-Star Dou Wang and an elder, spars with him in front of the academy and loses to one move. Medusa then turns up as a Dou Zong to kill him, but leaves him alive for now. Xiao Yan tells Su Qian he refined the Fallen Heart Flame, agrees to bring part of it back every year or two, and asks for herbs to restore Soul Power. Su Qian warns that Han Feng now leads the Black Alliance and that Fan Lao is about to attack Xiao Li, and Lin Yan, sent to guard Xiao Li, says he founded a secret group to kill Black Alliance members. Xiao Yan leads the Rock Gate into the Black-Corner Region, where Fan Lao's men are already wiping out Xiao Li's sentries, and races ahead alone.",
+  "events": [
+    "Xiao Yan comes out after two years as a Dou Wang",
+    "He beats Lin Xiu Ya, a Five-Star Dou Wang, in one move",
+    "Medusa appears to kill him but leaves him alive for now",
+    "He promises Su Qian part of the refined Fallen Heart Flame and asks for soul-restoring herbs",
+    "Su Qian tells him about the Black Alliance; Lin Yan tells him about Xiao Li's secret organization",
+    "The Rock Gate sets out for the Black-Corner Region; Xiao Yan promises Zi Yan the Body Transformation Pill",
+    "Fan Lao's men close in on Xiao Li's fortress, and Xiao Yan races ahead"
+  ],
+  "introduced": [
+    "Blade Net",
+    "Wolf Fang (Lin Xiu Ya's group)",
+    "Body Transformation Pill",
+    "secret organization founded by Xiao Li"
+  ],
+  "cultivation": "Xiao Yan has broken through to Dou Wang. Lin Xiu Ya is a Five-Star Dou Wang and now an elder. Medusa is a Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Wang",
+      "quote": "He has broken through and become a Dou Wang.",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false
+    },
+    {
+      "id": "lin-xiu-ya",
+      "name": "Lin Xiu Ya",
+      "realm": "5-star Dou Wang",
+      "quote": "Lin Xiu Ya is a Five-Star Dou Wang.",
+      "first": false,
+      "card": 227.1
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": "Dou Zong",
+      "quote": "How did you upset a strong Dou Zong?",
+      "first": false,
+      "card": 462.9
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "first": false,
+      "card": 732.8
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "first": false
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false
+    },
+    {
+      "id": "fan-lao",
+      "name": "Fan Lao",
+      "first": false,
+      "card": 956.1
+    }
+  ],
+  "changes": [
+    "Moved out to EP110: Xiao Yu and Zi Yan at the academy and the tower reopening (before this card in the old file). Moved in from the old EP112 review: Fan Lao's men destroying Xiao Li's sentries, Xiao Li getting ready and Xiao Yan racing ahead (before the [Episode 112] card). New title; Xiao Yu and Liu Qing dropped from cast (not on screen in this file); Xiao Li and Fan Lao added; cards moved to the new clock."
+  ],
+  "flags": [
+    "0-22s are a recap of EP110 and are not counted.",
+    "732.8-800s: the speaker sent to guard Xiao Li is read as Lin Yan (he promised to go to the Jia Ma Empire with Xiao Yan).",
+    "847.3 'I want to thank you and Hu Jia': the listener is read as Wu Hao.",
+    "Xiao Yan's time in the tower is given as 'two years' (293.6, 302.9).",
+    "929.6 'I can't wait to drink up Xiao Li's blood' is read as Fan Lao; he is named as the attackers' leader at 956.1."
+  ]
+}

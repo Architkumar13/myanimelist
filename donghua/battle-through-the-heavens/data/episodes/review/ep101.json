@@ -1,0 +1,102 @@
+{
+  "ep": 101,
+  "title": "Xiao Yan versus Liu Qing",
+  "summary": "Xiao Yan faces Tyrant Spear Liu Qing, third on the Strong Ranking, for a top-ten place. He opens with the Green Lotus Change, and his heavy ruler and Dark Energy push Liu Qing back despite the Great Rift Coffin Splitting Claw. Liu Qing then brings out his Mountain Splitting Spear and its Great Rift Rock. Xiao Yan answers with the Flame Splitting Tsunami, which onlookers call at least a Di Class skill. Su Qian has to use Space Lock to shield the crowd, and both fighters fall unconscious, so the match is a tie and both enter the top ten in tenth place. Xun Er then challenges Lin Xiu Ya, second on the Strong Ranking, and beats him easily. Meanwhile, Ling Quan and his men reach the edge of the Black-Corner Region.",
+  "events": [
+    "Liu Qing is drawn against Xiao Yan; Zi Yan offers to beat Liu Qing up first.",
+    "Xiao Yan uses the Green Lotus Change, his heavy ruler and Dark Energy against the Great Rift Coffin Splitting Claw.",
+    "A flame-lotus explosion hurts Liu Qing.",
+    "Liu Qing uses the Mountain Splitting Spear, a Xuan Class Advanced skill.",
+    "Xiao Yan's Flame Splitting Tsunami meets Liu Qing's Great Rift Rock.",
+    "Su Qian casts Space Lock to protect the crowd; both fighters pass out.",
+    "The match is a tie; both tie for tenth in the top ten.",
+    "Xun Er challenges Lin Xiu Ya and wins; Ling Quan's group nears the Black-Corner Region."
+  ],
+  "introduced": [
+    "Mountain Splitting Spear (Xuan Class Advanced Dou Skill), on screen",
+    "Great Rift Rock",
+    "Flame Splitting Tsunami",
+    "Space Lock",
+    "Green Smoke Sword Blade",
+    "Di Class (Dou Skill grade, named)",
+    "Ling Quan (seen arriving near the Black-Corner Region)"
+  ],
+  "cultivation": "No breakthroughs. Xiao Yan and Liu Qing tie for tenth place on the Strong Ranking.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-qing",
+      "name": "Liu Qing",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-fei",
+      "name": "Liu Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-xiu-ya",
+      "name": "Lin Xiu Ya",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ling-quan",
+      "name": "Ling Quan",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 979.6
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut subtitle file, which starts at the [Episode 101] card: events unchanged apart from adding Ling Quan's arrival to the summary and events; Ling Quan's card moved to 979.6 and flag times moved to the new clock."
+  ],
+  "flags": [
+    "0-26s are a recap of EP100 and are not counted.",
+    "'Green Smoke Sword Blade!' (880.5) is read as Lin Xiu Ya's; EP102 (499.1) says he had to use his 'ultimate blade skill' against Xun Er.",
+    "976.1: 'Commander. Black-Corner Region is right ahead.' is said to Ling Quan's group; his name card is at 979.6.",
+    "'Flame Splitting Tsunami' (544.5) may be a skill Xiao Yan had before; it's first named in these files here.",
+    "381.6: the explosion is called 'a very powerful Lotus Flame Dou Skill'."
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "ep": 27,
+  "title": "The Five Snake Seal",
+  "summary": "Five Snakemen leaders, all Dou Wang, catch Ms. Yun and attack her together. When she outfights them, they use the Five Snake Poison Breaking Seal and give up part of their lifespans to summon a Spirit Serpent from a portal. Its body is not flesh and blood, so even Yun Yun's Wind's Peak skills cannot hurt it, and it badly wounds her. Xiao Yan sees the pillar of light and turns back to help. A masked Dou Huang with a Heavenly Flame, Yao Lao in Xiao Yan's place, drives off the serpent and the Snakemen. He tells Yun Yun a kid asked him to help and to apologise, and she guesses it was Yao Yan. One Snakemen elder senses the Queen's scent on the rescuer and believes the Queen will return.",
+  "events": [
+    "Five Snakemen Dou Wang attack Ms. Yun; she is too strong for them.",
+    "They use Five Snake Spirit-Gathering and the Five Snake Poison Breaking Seal, summoning a Spirit Serpent from a portal.",
+    "Yun Yun's Wind's Peak, Killer Meteorite and Wind's Peak, Dazzling Sunset cannot hurt it; she is badly wounded.",
+    "Xiao Yan and Yao Lao see the light and go back to help her.",
+    "A masked Dou Huang with a Heavenly Flame defeats the serpent; the Snakemen retreat with Snake Technique, Split.",
+    "He tells Yun Yun a kid sent him to apologise; she wonders if she will see Yao Yan again.",
+    "A Snakemen elder senses the Queen's scent and says she will return.",
+    "Xiao Yan begins swallowing the Green Lotus Core Flame with Yao Lao's guidance."
+  ],
+  "introduced": [
+    "Five Snake Spirit-Gathering",
+    "Snakemen Fusion Dou Skills",
+    "Spirit Serpent (summoned)",
+    "Wind's Peak, Killer Meteorite",
+    "Wind's Peak, Dazzling Sunset",
+    "Snake Technique, Split",
+    "Flame Seed",
+    "Ice Spirit Cold Fountain",
+    "Blood Lotus Essence Pill (blood essence)"
+  ],
+  "cultivation": "The five Snakemen leaders are Dou Wang ('five of us Dou Wang', 271.3).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": "Dou Huang",
+      "quote": "The strength of a Dou Huang isn't something that a Dou Wang can shake!",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yin-shi",
+      "name": "Yin Shi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "heaven-swallowing-python",
+      "name": "Heaven Swallowing Python",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-142s is ending-song lyrics and the last lines of EP26 ('Promise me ... erase me from your memory'); the [Episode 27] card is at 144.",
+    "Many lyric lines from the ending and an insert song run through the fight (621-1000); ignored.",
+    "Who the masked Dou Huang is is not said outright. Yao Lao's thoughts in brackets (892-905) and 'It was a kid who asked me to come' (943.8) fit Yao Lao using his power, but the picture would decide whether he is in Xiao Yan's body.",
+    "799: 'This Dou Huang's Heavenly Flame is perfect for restraining the Flame Spirit Serpent' - the summoned beast may be called a Flame Spirit Serpent; elsewhere 'Spirit Serpent'.",
+    "Which five leaders attack is not named in this file.",
+    "The start of Xiao Yan's swallowing (Flame Seed, Ice Spirit Cold Fountain, Blood Lotus Essence Pill) is in ep28.en.srt 0-206s, before the [Episode 28] card; counted here as this episode's end."
+  ]
+}

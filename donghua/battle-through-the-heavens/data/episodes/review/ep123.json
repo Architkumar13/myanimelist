@@ -1,0 +1,101 @@
+{
+  "ep": 123,
+  "title": "Xiao Yan Comes Back",
+  "summary": "Xiao Yan's Black-Corner allies, a crowd of Dou Wangs, join the fight at the Mite'er Manor and he orders that no attacker be spared. He meets Ya Fei, his eldest brother Xiao Ding, whose legs were paralysed by poison, and Xiao Li, now a Dou Wang. Jia Xing Tian sends Yao Ye with imperial troops to arrest the Misty Cloud disciples. Xiao Yan and Hai Bodong kill Yun Du and Yun Cha, and Elder Yun Fu and seven other elders die. On Misty Cloud Mountain, Yun Shan learns from the broken soul tokens that Xiao Yan has returned and puts the mountain on alert. The Hall of Souls envoy tells him to capture Xiao Yan alive and leave Yao Chen's soul to him. After the battle, Xiao Yan gives Hai Bodong the Spiritual Recovery Purple Pill and plans to rally the capital's powers against the Misty Cloud Sect.",
+  "events": [
+    "Jia Xing Tian decides to back Xiao Yan and sends troops",
+    "Xiao Yan's Dou Wang allies attack the Misty Cloud force",
+    "Xiao Yan reunites with Ya Fei, Xiao Ding and Xiao Li",
+    "Yao Ye arrives and the imperial army arrests the attackers",
+    "Xiao Yan and Hai Bodong kill Yun Du and Yun Cha",
+    "Yun Shan learns of Xiao Yan's return and seals off Misty Cloud Mountain",
+    "The Hall of Souls envoy demands Xiao Yan alive",
+    "Xiao Yan gives Hai Bodong the Spiritual Recovery Purple Pill"
+  ],
+  "introduced": [
+    "Mite'er Manor",
+    "soul tokens",
+    "Spiritual Recovery Purple Pill (handed over)"
+  ],
+  "cultivation": "Xiao Li became a Dou Wang within two years. Yun Shan judges Xiao Yan to be at least a Dou Huang from his aura.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "first": false
+    },
+    {
+      "id": "yao-ye",
+      "name": "Yao Ye",
+      "first": false
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "first": false
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "look": "paralysed legs (poison)",
+      "first": false
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "realm": "Dou Wang",
+      "quote": "You were promoted to Dou Wang in merely two years.",
+      "first": false
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "first": false
+    },
+    {
+      "id": "yun-du",
+      "name": "Yun Du",
+      "first": false
+    },
+    {
+      "id": "yun-cha",
+      "name": "Yun Cha",
+      "first": false
+    },
+    {
+      "id": "yun-shan",
+      "name": "Yun Shan",
+      "first": false
+    },
+    {
+      "id": "protector-wu",
+      "name": "Protector Wu",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-7.6s of ep123.en.srt is the end of EP122.",
+    "ep124.en.srt 0-235s (the victory, the Spiritual Recovery Purple Pill, Medusa and Zi Yan taking Mite'er herbs, the plan to contact the Nalan Clan, Mu Clan, Alchemist Association and imperial family) is counted here.",
+    "121.3 'Two Dou Huangs and seven Dou Wangs' against 644.5 'nine Dou Wangs': the count differs.",
+    "398.9 Yao Ye: 'Mr. Yan Xiao or Mr. Xiao Yan?': an earlier alias, not the 'Yao Yan' of REVIEW-NOTES.",
+    "EP116's digest said he refined a Spiritual Recovery Purple Pill for Hai Bodong; here he hands it over.",
+    "668.8 'he must be at least a Dou Huang' is Yun Shan's guess, not recorded as Xiao Yan's realm."
+  ]
+}

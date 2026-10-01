@@ -1,0 +1,62 @@
+{
+  "ep": 195,
+  "title": "The Three Thousand Burning Flame Awakens",
+  "summary": "Qiu Ling, the Pill Tower's First Elder, leads the top ten into the Star Region while Xuan Kong Zi, Xuan Yi and Tian Lei Zi hold the seal. Xiao Yan goes first and finds that the Three Thousand Burning Flame has intelligence and a dragon's form. It says it was raised by a master from the Void Ancient Dragons who promised to take it home to Dragon Island and then abandoned it. Xiao Yan offers to take it there for an answer, but it no longer trusts humans and throws him out. The next candidates also fail, and then Mu Gu blows open the seal. Hall of Souls attacks throw Holy Pill City into chaos, so the Pill Tower's strong men cannot come. Qiu Ling, Xiao Yan and the others fight Mu Gu, but the awakened flame breaks free and vows revenge on the Pill Tower.",
+  "events": [
+    "Qiu Ling is named leader of the Star Region party.",
+    "The three chairpersons open the Star Region.",
+    "Xiao Yan tries first and speaks with the Three Thousand Burning Flame.",
+    "The flame remembers its Void Ancient Dragon master and refuses Xiao Yan.",
+    "Other candidates fail, then Mu Gu blows the seal.",
+    "The Hall of Souls attacks Holy Pill City and cuts off help.",
+    "Qiu Ling, Xiao Yan and the elders fight Mu Gu as the flame breaks out."
+  ],
+  "introduced": [
+    "Qiu Ling",
+    "Void Ancient Dragons"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "qiu-ling",
+      "name": "Qiu Ling",
+      "first": true,
+      "card": 109
+    },
+    {
+      "id": "mu-gu",
+      "name": "Mu Gu",
+      "first": false
+    },
+    {
+      "id": "cao-ying",
+      "name": "Cao Ying",
+      "first": false
+    },
+    {
+      "id": "xuan-kong-zi",
+      "name": "Xuan Kong Zi",
+      "first": false
+    },
+    {
+      "id": "three-thousand-burning-flame",
+      "name": "Three Thousand Burning Flame",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "11s [Episode 195] card; 17-58s recap of EP194.",
+    "87-104s: Mu Gu needles Xiao Yan before entering.",
+    "464-512s: the flame's memories of its master; the master's name is not given.",
+    "Three Thousand Burning Flame: a sentient Heavenly Flame, first speaking on screen here; Xiao Yan glimpsed it in EP187. Listed as cast because it speaks and acts.",
+    "606-642s: another candidate tries and fails; not named.",
+    "661-665s: Cao Ying is called for her turn but Mu Gu acts first."
+  ]
+}

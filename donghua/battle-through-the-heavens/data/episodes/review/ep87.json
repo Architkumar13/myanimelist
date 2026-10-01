@@ -1,0 +1,106 @@
+{
+  "ep": 87,
+  "title": "The Jade of Tuo She Gu Di",
+  "summary": "Mr. Ling tells Xun Er that even Yun Yun does not know of the Misty Cloud Sect's ties to the Hall of Souls. Xun Er reveals that her clan sent her to the Xiao Clan to get its part of a key, and she sends Mr. Ling away. Later she sees Xiao Yan holding the jade of Tuo She Gu Di and warns him never to show it to anyone. Yao Lao explains that Tuo She Gu Di was a Dou Di 10,000 years ago, the last on the Dou Qi Continent, and the jade may be a small part of his legacy. Rock Gate is short of Fire Energy after Wu Hao loses it at the arena, so Xiao Yan goes to the trading area and finds Lin Yan, a Seven-Star Dou Ling, selling the Green Wood Celestial Vine needed for the Ground Spirit Pill. Xiao Yan trades a cure for Lin Yan's Fire Poison for the vine and refines 181 pills for Rock Gate to sell. The Medicine Gang, which has held the pill market, plans to fight back, and Bai Cheng of the White Gang comes to see its leader.",
+  "events": [
+    "Mr. Ling and Xun Er discuss the Hall of Souls, the Xiao Clan's key and the blood oath.",
+    "Xun Er recognises the jade of Tuo She Gu Di and warns Xiao Yan.",
+    "Yao Lao explains Tuo She Gu Di, the only Dou Di in 10,000 years.",
+    "Rock Gate's Fire Energy runs out after Wu Hao's arena losses.",
+    "Xiao Yan finds Lin Yan and the Green Wood Celestial Vine in the trading area.",
+    "He gives Lin Yan Spirit Cooling Pills and the Marrow Washing Cold Spirit Liquid against his Fire Poison; Lin Yan promises to watch over Rock Gate.",
+    "Xiao Yan refines 181 pills for Rock Gate to sell.",
+    "The Medicine Gang plans to buy up the herbs; Bai Cheng asks to see its leader."
+  ],
+  "introduced": [
+    "key held by the Xiao Clan",
+    "blood oath between the Xiao ancestors and Xun Er's clan",
+    "Tuo She Gu Di",
+    "Dou Di",
+    "Dou Sheng",
+    "arena",
+    "trading area",
+    "Lin Yan",
+    "Green Wood Celestial Vine",
+    "Ground Spirit Pill",
+    "Spirit Cooling Pill",
+    "Marrow Washing Cold Spirit Liquid",
+    "Green Ganoderma Fire Spirit Ointment",
+    "Swift Wind Spirit Pill",
+    "Energy Recovery Pill",
+    "Body Recovery Pill",
+    "Body Ice Pill",
+    "Wolf Fang (Lin Xiu Ya's group)",
+    "Tie Mu (named)",
+    "Medicine Gang"
+  ],
+  "cultivation": "Lin Yan is about a Seven-Star Dou Ling. Tuo She Gu Di was a Dou Di.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "mr-ling",
+      "name": "Mr. Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hu-jia",
+      "name": "Hu Jia",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "realm": "7-star Dou Ling",
+      "quote": "he is probably a Seven Star Dou Ling.",
+      "first": true,
+      "card": 498.9
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-31s is a recap of EP86. 31.6-50.8 repeats the end of EP86.",
+    "From this episode the subtitles call the faction 'Pan's Gate' (388.4, 391.6 and on) instead of 'Rock Gate'. Same faction; the reviews use Rock Gate.",
+    "Lin Yan's Seven-Star Dou Ling is an estimate in Yao Lao's thoughts (506.1, 'probably').",
+    "841.5 writes 'Lin Xiuya's Wolf Fang'; elsewhere 'Lin Xiu Ya'.",
+    "Who leads the Medicine Gang is not named here; EP88 names Han Xian.",
+    "The recap says Xiao Yan went to the trading area for ingredients; the pills he sells are Energy Recovery, Body Recovery and Body Ice Pills (860.4-863.5)."
+  ]
+}

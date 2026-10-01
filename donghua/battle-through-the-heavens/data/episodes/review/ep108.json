@@ -1,0 +1,70 @@
+{
+  "ep": 108,
+  "title": "Teacher and Traitor",
+  "summary": "Xiao Yan draws the Fallen Heart Flame's core toward his body, and Han Feng offers him a sixth-tier prescription to give it up, then fights him for it with his Sea Heart Flame. When Xiao Yan reveals he practises the complete Flame Mantra, Yao Lao shows himself, and Han Feng learns his old master is still alive inside Xiao Yan. Han Feng uses his Sea Flame Trident, but Xiao Yan's Angry Buddha Lotus Flame blasts him into a coma, and his allies carry him off. The Fallen Heart Flame then feeds on the blast and turns on Xiao Yan. Su Qian orders the Eight-Way Dragon Binding Formation, and Xiao Yan stays inside as bait until the flame swallows him and the elders seal it. Su Qian closes the tower's lowest floor for good and honours Xiao Yan as the academy's finest student.",
+  "events": [
+    "The flame's core starts entering Xiao Yan's body",
+    "Han Feng offers a sixth-tier prescription for the flame, then attacks with the Sea Heart Flame",
+    "Xiao Yan reveals the complete Flame Mantra; Yao Lao confronts Han Feng",
+    "Xiao Yan's Angry Buddha Lotus Flame defeats Han Feng's Sea Flame Trident",
+    "Han Feng survives in a coma and his Black-Corner allies withdraw",
+    "The Fallen Heart Flame absorbs the blast energy and attacks Xiao Yan",
+    "The elders cast the Eight-Way Dragon Binding Formation while Xiao Yan acts as bait",
+    "The flame swallows Xiao Yan and is sealed; the lowest floor is closed"
+  ],
+  "introduced": [
+    "Sea Heart Flame",
+    "Sea Flame Trident",
+    "Angry Buddha Lotus Flame",
+    "Bone Chilling Flame (named by Han Feng)",
+    "Eight-Way Dragon Binding Formation",
+    "Sixth-Tier Prescription"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "first": false
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false
+    },
+    {
+      "id": "mr-jin",
+      "name": "Mr. Jin",
+      "first": false
+    },
+    {
+      "id": "mr-yin",
+      "name": "Mr. Yin",
+      "first": false
+    },
+    {
+      "id": "fallen-heart-flame",
+      "name": "Fallen Heart Flame",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Moved out to EP107: Xiao Yan striking the flame's core and its true form (before this card in the old file). The rest was already right; flag times moved to the new clock."
+  ],
+  "flags": [
+    "0-33s are a recap of EP107 and are not counted.",
+    "576.0 'The Medicine Empire is severely injured': slip for Medicine Emperor.",
+    "Han Feng says he made his name in the Central Plains (123.7) and calls Xiao Yan 'little junior' (416.5); Xiao Yan calls him 'Senior'."
+  ]
+}

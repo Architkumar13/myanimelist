@@ -1,0 +1,85 @@
+{
+  "ep": 169,
+  "title": "The Sonic Wave Trial",
+  "summary": "At the Heaven Mountain Stage, the young contenders climb one by one through the Gold Swallowing Mouse Tribe's sonic wave formation. Feng Qing Er, Tang Ying, Wang Chen and Mu Qing Luan all pass, and Jin Shi reveals that Mu Qing Luan is a disciple of Feng Zun Zhe. Xiao Yan takes Nalan Yanran up with him, and when she falls behind he weakens the formation with the Lion Tiger Gold Shattering Roar, which sounds like a dragon's roar. In private, Mu Qing Luan tells him that Feng Zun Zhe will attend the Four Pavilions Meeting at the Wind Lightning Eastern Pavilion in three months. Jin Shi then asks Xiao Yan to remove the Heaven Mountain Fire Poison deep in his bones. In return he gives Xiao Yan a token that opens the Space Seal at the bottom of the Blood Pool, where the purest energy can lift him to Dou Zong.",
+  "events": [
+    "Feng Qing Er, Tang Ying and Wang Chen pass the sonic wave trial.",
+    "Jin Shi greets Mu Qing Luan as Feng Zun Zhe's disciple; the sonic waves barely affect her.",
+    "Xiao Yan climbs with Nalan Yanran while the others mock him.",
+    "His Lion Tiger Gold Shattering Roar breaks much of the formation, and both pass.",
+    "Mu Qing Luan and Feng Qing Er trade jabs about the Four Pavilions Meeting in three months.",
+    "Mu Qing Luan tells Xiao Yan that Feng Zun Zhe will be at the Wind Lightning Eastern Pavilion for the meeting.",
+    "Jin Shi shows his Fire Poison and offers Xiao Yan the Blood Pool's secret depths in exchange for a cure."
+  ],
+  "introduced": [
+    "Elder Lei (Feng Qing Er's master, named)",
+    "Green Mythical Bird Tribe",
+    "Four Pavilions Meeting",
+    "Heaven Mountain Fire Poison",
+    "Fire Poison",
+    "Space Seal"
+  ],
+  "cultivation": "Xiao Yan is a Nine-Star Dou Huang. Jin Shi says the Blood Pool's depths took him quickly to Seven-Star Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "9-star Dou Huang",
+      "quote": "Mr. Xiao Yan, you just reached Nine-Star Dou Huang.",
+      "first": false
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "first": false
+    },
+    {
+      "id": "jin-shi",
+      "name": "Jin Shi",
+      "realm": "7-star Dou Zong",
+      "quote": "that I quickly reached Seven-Star Dou Zong.",
+      "first": false
+    },
+    {
+      "id": "feng-qing-er",
+      "name": "Feng Qing Er",
+      "first": false,
+      "card": 110
+    },
+    {
+      "id": "tang-ying",
+      "name": "Tang Ying",
+      "first": false,
+      "card": 174
+    },
+    {
+      "id": "wang-chen",
+      "name": "Wang Chen",
+      "first": false,
+      "card": 222
+    },
+    {
+      "id": "mu-qing-luan",
+      "name": "Mu Qing Luan",
+      "first": false,
+      "card": 259
+    },
+    {
+      "id": "jin-gu",
+      "name": "Jin Gu",
+      "first": false,
+      "card": 809
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file starts at the [Episode 169] card at 0s; recap 5-42s, then 44-69s replays the end of EP168.",
+    "119s: Feng Qing Er's master is called 'Elder Lei'; this fits Lei Zun Zhe (EP171), not the Northern Pavilion's Elder Lei of EP164-165.",
+    "313-317s: 'this sonic wave attack isn't very effective against the Green Mythical Bird Tribe' follows Mu Qing Luan's easy climb; the speaker is not named and her link to the tribe is not stated outright.",
+    "72s: 'I'll go next.' Speaker not named.",
+    "958s vs EP168: Jin Shi says he reached Seven-Star Dou Zong; EP168 called the tribe leader 'as strong as a Six-Star Dou Zong'.",
+    "930s: Xiao Yan's Nine-Star Dou Huang is new; EP161 had him at Seven-Star and no breakthrough is shown in between.",
+    "621s: onlookers call his roar a 'Dragon's Roar'; EP174 links his dragon roar to the Yin-Yang Mysterious Dragon Pill."
+  ]
+}

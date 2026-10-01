@@ -1,0 +1,98 @@
+{
+  "ep": 234,
+  "title": "The Ancient Region Stage",
+  "summary": "Xiao Yan leads the Flower Sect to the Ancient Region Stage, where the great powers of the Central Plains wait. Jiu Feng of the Heaven Demon Phoenix Tribe blames him for the Dragon-Phoenix Origin Fruit, and Feng Qing Er, who survived a blood transplant from the Ancient Heaven Demon Phoenix, attacks him. Xiao Yan beats her with one slap and tells Jiu Feng to fight his own battles. Gu Qing Yang of the Black Submerged Army brings him to the Gu Clan's camp, where Xun Er meets Yun Yun and Medusa. A beast tide then hits the stage, and Hun Yu of the Hun Clan proposes an alliance to break through it. The Hun Clan leads the charge, then pulls back and leaves the others surrounded by Dou Zun-level beasts.",
+  "events": [
+    "The Flower Sect and Xiao Yan arrive at the Ancient Region Stage.",
+    "Jiu Feng confronts Xiao Yan over the Dragon-Phoenix Origin Fruit.",
+    "Feng Qing Er attacks; Xiao Yan beats her with a slap.",
+    "Gu Qing Yang appears and calls Xiao Yan a guest of the Gu Clan.",
+    "Xun Er meets Yun Yun and Medusa and explains the beast-filled canyon.",
+    "A beast tide reaches the stage; Hun Yu proposes an alliance.",
+    "The Heaven Demon Phoenix Tribe joins; the Hun Clan leads the charge.",
+    "The Hun Clan withdraws its formation and leaves the others in the tide."
+  ],
+  "introduced": [
+    "Jiu Feng",
+    "Hun Yu",
+    "Heaven Demon Phoenix Tribe's blood transplant",
+    "Heaven Phoenix Strike",
+    "beast tide"
+  ],
+  "cultivation": "Jiu Feng and Hun Yu are both peak Eighth Turn Dou Zuns. Feng Qing Er reached peak Third Turn Dou Zun through the Ancient Heaven Demon Phoenix's essence blood.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "first": false
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "first": false
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "first": false
+    },
+    {
+      "id": "feng-qing-er",
+      "name": "Feng Qing Er",
+      "realm": "peak Third Turn Dou Zun",
+      "quote": "to reach a peak Third Turn Dou Zun,",
+      "first": false
+    },
+    {
+      "id": "jiu-feng",
+      "name": "Jiu Feng",
+      "realm": "peak Eighth Turn Dou Zun",
+      "quote": "[Jiu Feng, Peak Eighth Turn Dou Zun]",
+      "first": true,
+      "card": 194.8
+    },
+    {
+      "id": "gu-qing-yang",
+      "name": "Gu Qing Yang",
+      "first": false
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false
+    },
+    {
+      "id": "hun-yu",
+      "name": "Hun Yu",
+      "realm": "peak Eighth Turn Dou Zun",
+      "quote": "[Hun Yu, Peak Eighth Turn Dou Zun]",
+      "first": true,
+      "card": 637.7
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-41s is a recap of EP233.",
+    "Feng Qing Er is not named in this file; Jiu Feng calls her 'Qing' (347s, 434s) and EP235's recap names her.",
+    "325s: 'Marshal Gu Qing Yang of the Black Submerged Army'; 311s 'it's been a while' is taken as his line, 492s as Xun Er's.",
+    "196s: Jiu Feng is 'son of the Heaven Demon Phoenix Tribe's leader'.",
+    "649s: Hun Yu carries the Hun Clan's divine-grade bloodline and is one of two young contenders for the next Hun Clan leader.",
+    "1033s: 'Thousand Mirage Poison Spring!' is Little Fairy Doctor's move."
+  ]
+}

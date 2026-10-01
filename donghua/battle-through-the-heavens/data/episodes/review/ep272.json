@@ -1,0 +1,102 @@
+{
+  "ep": 272,
+  "title": "The Northern King Puppet",
+  "summary": "Inside the Northern Dragon King's soul space, the Dragon King's huge soul tries to take over Xiao Yan, boasting that for Void Ancient Dragons the body is the soul. Xiao Yan had already sealed his remnant soul and destroys the soul space, and the Dragon King's soul and battle memories go into the puppet Xiao Yan is making from his body. Zi Yan swears the Void Ancient Dragons will never split again. Far away, Hun Tiandi and the Void Devouring Flame rebuild Hun Miesheng's body with the Void Devouring Flame's Primordial Flame, and Hun Tiandi orders him to take the Xiao Clan's ancient jade fragment from Xiao Yan. Xiao Yan takes the Northern King Puppet into the Void Thunder Pool, protected from the thunder by the Purifying Demonic Lotus Flame. Xiao Yi eats the Black Demon Lightning there and feeds its power back to Xiao Yan, who comes one step from late Five-Star Dou Sheng. Deep in the pool they find the Nine Profound Golden Thunder.",
+  "events": [
+    "The Northern Dragon King's soul attacks Xiao Yan in its soul space.",
+    "Xiao Yan reveals the seal on its remnant soul and destroys the soul space.",
+    "The soul is refined into battle experience for the Northern King Puppet.",
+    "Zi Yan vows to protect every member of the reunited clan.",
+    "Hun Tiandi and the Void Devouring Flame rebuild Hun Miesheng's body.",
+    "Hun Tiandi sends Hun Miesheng to take Xiao Yan's Tuo She Ancient Jade fragment.",
+    "Xiao Yan tempers the puppet in the Void Thunder Pool; Xiao Yi eats Black Demon Lightning.",
+    "They find the Nine Profound Golden Thunder deep in the pool."
+  ],
+  "introduced": [
+    "Northern King Puppet",
+    "Void Thunder Pool",
+    "Primordial Flame (of the Void Devouring Flame)",
+    "Nine Profound Golden Thunder",
+    "Pill Gathering (named as 'the Pharmacopoeia')"
+  ],
+  "cultivation": "Xiao Yan: 'Just one step away from entering the late stage of the Five-Star Martial Saint realm' (1118.0). The Northern King Puppet should reach Six-Star Dou Sheng within half a month (1010.0). Hun Miesheng's rebuilt body is described as 'An obedient Seven-Star Battle Saint' (533.5).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "mid Five-Star Dou Sheng",
+      "quote": "Just one step away from entering the late stage of the Five-Star Martial Saint realm.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "northern-dragon-king",
+      "name": "Northern Dragon King",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-tiandi",
+      "name": "Hun Tiandi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "void-devouring-flame",
+      "name": "Void Devouring Flame",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-miesheng",
+      "name": "Hun Miesheng",
+      "realm": "Seven-Star Dou Sheng",
+      "quote": "An obedient Seven-Star Battle Saint could save us a great deal of trouble.",
+      "first": false,
+      "card": null,
+      "look": "a new body rebuilt by the Primordial Flame"
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-yi",
+      "name": "Xiao Yi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "No official track; reviewed from OCR of the burned-in English. 169-203s is a recap of EP271.",
+    "OCR names mapped: 'Soul Clan' = Hun Clan; 'Heavenly Treasury Alliance' (546.5) = Sky Mansion Alliance (the official track's 'Tianfu Alliance'); 'Lord Swallowing Flame' = the Void Devouring Flame; 'Black Magic Thunder' = Black Demon Lightning; 'Martial/Battle Saint' = Dou Sheng; 'Dragon Soul Orb' = Dragon Soul Pearl.",
+    "The Hun Clan chief is not named here; the Void Devouring Flame calls him 'Emperor of Souls' (521.5) and EP273's recap names him Hun Tiandi.",
+    "533.5 'An obedient Seven-Star Battle Saint' is read as Hun Miesheng's new strength; EP263 had him at Five-Star. Possibly a slip.",
+    "The 'fragment of the Xiao Clan's ancient jade' (637.0) is taken as the Tuo She Ancient Jade fragment Xiao Yan holds.",
+    "Xiao Yi (the fire spirit from EP264, cries 'Iwa') is not named in this file; Medusa is not named but is the one Xiao Yan says he'll return to the Alliance with (EP273 confirms).",
+    "822.0 'Dean Mang had to flee ... when he entered this place back then' is unexplained.",
+    "1176-1181s 'the Dan Lightning that only a Ninth-Grade Golden [Pill] can summon' is cut off by OCR; EP273 completes it."
+  ]
+}

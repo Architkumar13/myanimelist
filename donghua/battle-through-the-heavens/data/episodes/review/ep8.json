@@ -1,0 +1,86 @@
+{
+  "ep": 8,
+  "title": "Gan Mu Falls",
+  "summary": "Xiao Yan wakes to find Yun Zhi gone, leaving him her Sea's Core Vest and the Xuan Class Dou Skill Exploding Steps. Yao Lao reveals that she risked herself to heal him and to guide the Purple Flame from the Amethyst Essence into his body, which lifted him to Nine-Star Dou Zhe. Yao Lao teaches him Exploding Steps and shows how it combines with Octane Blast. He warns that the Purple Flame can still burst his cyclone, so Xiao Yan must kill more than five Rank 1 Magical Beasts within a month to steady his Dou Qi. Leaving the depths, he meets Ka Gang and Ling Er of the Bloody Battle Mercenary Company fleeing Gan Mu, the Wolf Head Second Captain. Xiao Yan kills Gan Mu with Exploding Steps and Octane Blast. Ka Gang tells him that Mr. Yao of the Thousand Medicine House plans to harm Little Fairy Doctor for her Rainbow Poison Book, and Xiao Yan sets off to save her.",
+  "events": [
+    "Xiao Yan wakes to find Yun Zhi gone and her Sea's Core Vest left behind.",
+    "Yao Lao explains Yun Zhi healed him and guided the Purple Flame, raising him to Nine-Star.",
+    "Yao Lao teaches Exploding Steps and its combination with Octane Blast.",
+    "To steady the Purple Flame, Xiao Yan must kill five Rank 1 beasts within a month.",
+    "Ka Gang and Ling Er of the Bloody Battle Mercenary Company flee Gan Mu.",
+    "Xiao Yan fights and kills Gan Mu.",
+    "Ka Gang tells him Mr. Yao wants Little Fairy Doctor's Rainbow Poison Book; Xiao Yan heads for the Thousand Medicine House."
+  ],
+  "introduced": [
+    "Sea's Core Vest",
+    "Exploding Steps (Xuan Class Dou Skill)",
+    "Ka Gang",
+    "Ling Er",
+    "Gan Mu",
+    "Bloody Battle Mercenary Company",
+    "Qing Ye (named only)",
+    "Rainbow Poison Book",
+    "Tiger Assault"
+  ],
+  "cultivation": "Xiao Yan is at 9-star Dou Zhe after skipping two levels; Yao Lao warns his foundation is shaky.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "9-star Dou Zhe",
+      "quote": "Although you have skipped two levels / and reached Nine Stars.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ka-gang",
+      "name": "Ka Gang",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 513.5
+    },
+    {
+      "id": "ling-er",
+      "name": "Ling Er",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 515.7
+    },
+    {
+      "id": "gan-mu",
+      "name": "Gan Mu",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 502.5
+    }
+  ],
+  "flags": [
+    "The file opens with '[Episode 6] [Forward]' (0.0), which does not fit; it continues straight on from ep7.en.srt. Treated as EP8.",
+    "65-250 retells the end of ep7.en.srt (waking up, the vest, Nine-Star) in more detail, with Yun Zhi's healing in flashback; counted here as the full scene.",
+    "39.5 '[Advertisement]' caption.",
+    "The Dou Skill Yun Zhi left (147.7) is read as Exploding Steps (256-258); the subtitles do not say outright it came from her.",
+    "Gan Mu's rank (9-star Dou Zhe) is only from EP4; not stated here.",
+    "685.5 'Tiger Assault!' is Gan Mu's move."
+  ],
+  "changes": []
+}

@@ -1,0 +1,86 @@
+{
+  "ep": 140,
+  "title": "The Traitors and the Four-Wing Scorpion",
+  "summary": "At the Sky Scorpion Mountain Range, Wu Ya and two other Poison Sect elders turn on Little Fairy Doctor and reveal they have always served the Ten Thousand Scorpion Gate. That leaves the Poison Sect with four Dou Huangs against eight. Xiao Yan, calling himself Yan Xiao, uses the Sky Fire Three Mysterious Changes and beats two enemy Dou Huangs. Gate chief Xie Shan sends in the Four-Wing Scorpion, a Rank Six Magical Beast, and Zi Yan takes it on. Xie Shan then calls in Protector Tie of the Hall of Souls, a Dou Zong, who goes after Xiao Yan's soul. Medusa steps in to fight Protector Tie. Xie Biyan unleashes the Blood Soul Art of his Blood Demon Scorpion Emperor against Little Fairy Doctor.",
+  "events": [
+    "Wu Ya and two other elders betray the Poison Sect for the Ten Thousand Scorpion Gate",
+    "Xiao Yan and Zi Yan join the fight while Medusa holds back",
+    "Xiao Yan uses the Sky Fire Three Mysterious Changes and Octane Blast to beat two Dou Huangs",
+    "Xie Shan sends in the Four-Wing Scorpion; Zi Yan takes it on",
+    "Xie Shan summons Protector Tie of the Hall of Souls",
+    "Protector Tie attacks Xiao Yan and Medusa steps in to fight him",
+    "Xie Biyan unleashes the Blood Soul Art against Little Fairy Doctor"
+  ],
+  "introduced": [
+    "Wu Ya (Poison Sect elder, traitor)",
+    "Four-Wing Scorpion (Rank Six Magical Beast of the Ten Thousand Scorpion Gate)",
+    "Mountain Opening Handprint",
+    "Blood Demon Scorpion Emperor",
+    "Blood Soul Art"
+  ],
+  "cultivation": "Xiao Yan is called a One-Star Dou Huang by the enemy. Protector Tie is a Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "1-star Dou Huang",
+      "quote": "A mere One-Star Dou Huang.",
+      "first": false,
+      "card": 216
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false,
+      "card": 63
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false,
+      "card": 216
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false,
+      "card": 219
+    },
+    {
+      "id": "wu-ya",
+      "name": "Wu Ya",
+      "first": true,
+      "card": 63
+    },
+    {
+      "id": "xie-shan",
+      "name": "Xie Shan",
+      "first": false,
+      "card": 462
+    },
+    {
+      "id": "xie-biyan",
+      "name": "Xie Biyan",
+      "first": false,
+      "card": 106
+    },
+    {
+      "id": "protector-tie",
+      "name": "Protector Tie",
+      "quote": "A strong Dou Zong is nothing to a protector of the Hall of Souls.",
+      "first": false,
+      "card": 752
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-9s ('So, there wasn't one spy, but five.') runs over from ep139; the recap runs 14-40s.",
+    "255s: 'A mere One-Star Dou Huang' is an enemy's read of Xiao Yan, who travels disguised; ep138 already calls him a Dou Huang and ep142 has him reach peak Two-Star.",
+    "63s: Wu Ya leads the traitors. Elder Wu in ep139 is probably the same man; ids kept apart.",
+    "394s: 'Mountain Opening Handprint!' is an enemy Dou Huang's move; the user is not named.",
+    "843-867s: the Dou Zong who stands up to Protector Tie is Medusa ('Leave him to me'), and Xiao Yan goes after Xie Shan ('I'll be back after defeating Xie Shan').",
+    "900-902s: 'So, you have a trump card as well. Just as you do.' sits between the fights; the speakers are not clear.",
+    "914-938s: Xie Biyan says he was blessed by the spirit form of a Blood Demon Scorpion Emperor when he reached Dou Zong."
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "ep": 5,
+  "title": "Flame Splitting Tsunami",
+  "summary": "Xiao Yan breaks He Meng's rock defence and kills him with Octane Blast. Mu She orders every Wolf Head mercenary above Five Stars into the Magical Beast Mountain Range to find him. At the Thousand Medicine House, Mr. Yao asks Little Fairy Doctor about the treasure, and she claims she found none and points him at the Wolf Head Mercenary Company. Yao Lao takes Xiao Yan's Heavy Xuan Ruler and shows him Flame Splitting Tsunami, a low-level Di Class Dou Skill he can use only once. Mu Li and the Wolf Head company trap Xiao Yan and demand the treasure chest's key. He fights through with Vacuum Hand, the ruler and Fire Palm, then uses Flame Splitting Tsunami against Mu She's Soaring Killer Wind. He escapes and swears to repay the ambush.",
+  "events": [
+    "Xiao Yan kills He Meng with Octane Blast.",
+    "Mu She sends everyone above Five Stars into the mountains to hunt Xiao Yan.",
+    "Mr. Yao questions Little Fairy Doctor at the Thousand Medicine House; she points him at the Wolf Head company.",
+    "Yao Lao shows Xiao Yan Flame Splitting Tsunami with the Heavy Xuan Ruler.",
+    "Mu Li and the Wolf Head company ambush Xiao Yan for the treasure chest's key.",
+    "Xiao Yan fights with Vacuum Hand and Fire Palm; Mu She uses Soaring Wind Steps.",
+    "Xiao Yan's Flame Splitting Tsunami meets Mu She's Soaring Killer Wind; Xiao Yan escapes."
+  ],
+  "introduced": [
+    "Little Fairy Doctor",
+    "Mr. Yao of the Thousand Medicine House",
+    "Dou Skill classes: Tian, Di, Xuan, Huang (Heaven, Earth, Black, Yellow)",
+    "Flame Splitting Tsunami (low-level Di Class Dou Skill)",
+    "Fire Palm",
+    "Soaring Wind Steps",
+    "Soaring Killer Wind",
+    "bamboo whistles"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "he-meng",
+      "name": "He Meng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mu-she",
+      "name": "Mu She",
+      "realm": "Dou Shi",
+      "quote": "Let me show you the power of a Dou Shi.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mu-li",
+      "name": "Mu Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 215.5
+    },
+    {
+      "id": "mr-yao-thousand-medicine-house",
+      "name": "Mr. Yao (Thousand Medicine House)",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 209.5
+    }
+  ],
+  "flags": [
+    "Little Fairy Doctor is first on screen in this file (215.5), but she met Xiao Yan before (EP4 narration, not shown).",
+    "'Mr. Yao' of the Thousand Medicine House is a different person from Yao Lao (whom REVIEW-NOTES also lists as 'Mr. Yao'). Kept as a separate id.",
+    "186.0 caption: '[Third Captain of Wolf Head, He Meng, died under Xiao Yan's hand]' is a notice, not a name card.",
+    "198.7 Little Fairy Doctor guesses Xiao Yan is 'at least an Eight-Star Dou Zhe'; no rank is stated by him.",
+    "Flame Splitting Tsunami: Yao Lao first shows it, then Xiao Yan uses it (803.0). Yao Lao warns a second use in a row will badly injure him (434, 743)."
+  ],
+  "changes": []
+}

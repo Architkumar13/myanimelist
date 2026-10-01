@@ -1,0 +1,88 @@
+{
+  "ep": 4,
+  "title": "The Wolf Head Hunt",
+  "summary": "After a time skip, Xiao Yan is in the Magical Beast Mountain Range, hunted by the Wolf Head Mercenary Company for a key to a treasure chest that he and Little Fairy Doctor found. After a month of training in a hidden cave he reaches Six-Star Dou Zhe, with less than a year left before the Three-year Agreement. He picks off the Wolf Head mercenaries one by one with his Heavy Xuan Ruler. A captive tells him the leader Mu She is a Two-Star Dou Shi, Gan Mu a Nine-Star Dou Zhe and He Meng an Eight-Star Dou Zhe. Mu She and his son Mu Li plan to spread rumours that Little Fairy Doctor holds a lost medical scripture, and Mu She calls He Meng a fool for chasing a snow fox for Madam Lan. Xiao Yan finds He Meng at the foot of the mountain and fights him. He Meng's rock defence holds, and the episode ends as He Meng uses Quadruple Great Force Spin.",
+  "events": [
+    "Opening narration: Mu Li holds Little Fairy Doctor and lures Xiao Yan into the Magical Beast Mountain Range with traps.",
+    "After a month in a hidden cave, Xiao Yan reaches Six-Star Dou Zhe.",
+    "Wolf Head mercenaries hunt him for an 8,000 gold coin bounty; he kills them with the Heavy Xuan Ruler.",
+    "A captive names the Wolf Head leaders and their ranks.",
+    "Mu She and Mu Li plan to spread rumours about Little Fairy Doctor's treasure.",
+    "Xiao Yan finds Third Captain He Meng with Madam Lan.",
+    "He Meng's rock defence technique shrugs off his attacks; He Meng uses Quadruple Great Force Spin."
+  ],
+  "introduced": [
+    "Magical Beast Mountain Range",
+    "Wolf Head Mercenary Company",
+    "Mu She",
+    "Mu Li",
+    "He Meng",
+    "Gan Mu (named only)",
+    "Madam Lan",
+    "Little Fairy Doctor (named in narration)",
+    "Thousand Medicine House (named)",
+    "Heavy Xuan Ruler",
+    "treasure chest key",
+    "Quadruple Great Force Spin (Huang Class advanced Dou Skill)"
+  ],
+  "cultivation": "Xiao Yan reaches 6-star Dou Zhe after a month of cultivation in the mountain range (95.0). Mu Li says he was a 2-star Dou Zhe when they fought earlier.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "6-star Dou Zhe",
+      "quote": "Master, I'm a Six-Star now.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mu-she",
+      "name": "Mu She",
+      "realm": "2-star Dou Shi",
+      "quote": "It's our leader, Mu She / He's a Two-Star Dou Shi",
+      "first": true,
+      "card": 547.0
+    },
+    {
+      "id": "mu-li",
+      "name": "Mu Li",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 549.8
+    },
+    {
+      "id": "he-meng",
+      "name": "He Meng",
+      "realm": "8-star Dou Zhe",
+      "quote": "Third Captain.  He Meng, an Eight-Star Dou Zhe",
+      "first": true,
+      "card": 782.3
+    },
+    {
+      "id": "madam-lan",
+      "name": "Madam Lan",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 740.8
+    }
+  ],
+  "flags": [
+    "Big gap before this episode: EP3 ends with Xiao Yan leaving Wu Tan City; EP4 has him say he has worked 'these past two years' with under a year left. Meeting Little Fairy Doctor, the cave treasure and his first fight with Mu Li are only told in the 0-38s narration and in dialogue (600.8 'he was only a Two-Star Dou Zhe'). The compilation runs straight on from EP3 (no missing time in the upload), so these events are not shown in any file.",
+    "No bracketed name cards in this file; card times are the first lines of each person.",
+    "518.0-519.0: Gan Mu (Second Captain) is a 9-star Dou Zhe per the captive; Gan Mu is not on screen here.",
+    "Mu She is 'Captain' and Mu Li calls him 'Father' (549.8).",
+    "Madam Lan ('that woman', 'Madam Lan' 691.8) is He Meng's companion; her ties are not explained."
+  ],
+  "changes": []
+}

@@ -1,0 +1,85 @@
+{
+  "ep": 128,
+  "title": "Yao Lao Is Taken",
+  "summary": "Medusa, who has broken through a bottleneck, stops Protector Wu from killing Xiao Yan, and Xiao Yan begs her to save Yao Lao instead. Medusa and Yao Lao fight Protector Wu together until he detonates Yun Shan's soul in a darkness called the Funeral of Spirits. Protector Wu captures Yao Lao's soul. Before he goes, Yao Lao leaves Xiao Yan the origin of the Bone Chilling Flame and tells him to show his ring to his old friend Feng Zun Zhe. Protector Wu tells Xiao Yan to come to the Hall of Souls for his master and leaves, and Medusa stops him from chasing. Mad with grief, Xiao Yan turns on the Misty Cloud Sect, and its new leader Yun Yun stands in his way with Nalan Yanran. Yun Yun says she will die rather than see the sect wiped out, and Xiao Yan orders it disbanded within a month.",
+  "events": [
+    "Medusa blocks Protector Wu; Xiao Yan asks her to save Yao Lao",
+    "Medusa and Yao Lao fight Protector Wu",
+    "Protector Wu detonates Yun Shan's soul: Funeral of Spirits",
+    "Yao Lao is captured after leaving Xiao Yan the Bone Chilling Flame's origin and a message for Feng Zun Zhe",
+    "Protector Wu leaves, telling Xiao Yan to come to the Hall of Souls",
+    "Medusa stops Xiao Yan from chasing",
+    "Yun Yun, now sect leader, and Nalan Yanran face Xiao Yan",
+    "Xiao Yan orders the Misty Cloud Sect disbanded within a month"
+  ],
+  "introduced": [
+    "All of Nature, Funeral of Spirits",
+    "Soul Fluctuation",
+    "origin of the Bone Chilling Flame",
+    "fire seal on Xiao Yan's forehead",
+    "Feng Zun Zhe (named)"
+  ],
+  "cultivation": "Medusa has broken through a bottleneck.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "protector-wu",
+      "name": "Protector Wu",
+      "first": false
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "first": false
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "first": false
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "first": false
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "first": false
+    },
+    {
+      "id": "yao-ye",
+      "name": "Yao Ye",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-84s of ep128.en.srt is the end of EP127.",
+    "ep129.en.srt 0-12.5s ('Within a month, disband Misty Cloud Sect') is counted here.",
+    "137.9 '(She has successfully broken through that bottleneck)': thinker unnamed, read as Yao Lao.",
+    "715.7-735.2 'If you want to save him, you must strive to become stronger': speaker read as Medusa or Hai Bodong; not named.",
+    "1043.1 'the sect members know nothing of his collusion': speaker unnamed.",
+    "640.2 'Zi Yan!': Zi Yan's part in the fight is unclear."
+  ]
+}

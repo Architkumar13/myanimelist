@@ -1,0 +1,77 @@
+{
+ "ep": 200,
+ "title": "Into the Soul-locking Hall",
+ "summary": "Zi Yan's Stone Swallowing Demon Ants clear away the Hall of Souls' spies, and the group reaches the Hall of Souls branch in the Death Soul Mountain Range. Elder Feng senses five Dou Zuns inside, so he, Tie Jian, Little Fairy Doctor and Yao Tian Huo hold them off with the Sky Demon Puppet while Xiao Yan goes after Yao Lao. Mu Gu, the Hall of Souls elder who once captured Yao Lao, is among the guards. Xiao Yan breaks through four Dou Zong Protectors and forces a guard to tell him that Yao Lao's soul is in the deepest part of the Soul-locking Hall. There he smashes the prison and frees Yao Lao, and the two are reunited after years apart. As they try to leave, a sixth Dou Zun, Zhai Xing, steps out to stop them.",
+ "events": [
+  "Zi Yan's Demon Ants remove the Hall of Souls' spies around the branch.",
+  "Elder Feng senses five Dou Zuns and many Dou Zongs inside.",
+  "The Dou Zuns of Xiao Yan's group and the Sky Demon Puppet hold off the Hall of Souls Dou Zuns, including Mu Gu.",
+  "Xiao Yan defeats four Dou Zong Protectors and learns where Yao Lao's soul is held.",
+  "He fights through the Soul-locking Hall with Octane Blast.",
+  "He breaks the soul prison and frees Yao Lao.",
+  "Mu Gu warns that there are more than five Dou Zuns here.",
+  "Zhai Xing appears in front of Xiao Yan and Yao Lao."
+ ],
+ "introduced": [
+  "Soul-locking Hall",
+  "Zhai Xing"
+ ],
+ "cultivation": "No breakthroughs. The four Protectors who block Xiao Yan are called Dou Zong Protectors.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "xiao-yan",
+   "name": "Xiao Yan",
+   "first": false
+  },
+  {
+   "id": "yao-lao",
+   "name": "Yao Lao",
+   "first": false
+  },
+  {
+   "id": "elder-feng",
+   "name": "Elder Feng",
+   "first": false
+  },
+  {
+   "id": "tie-jian",
+   "name": "Tie Jian",
+   "first": false
+  },
+  {
+   "id": "zi-yan",
+   "name": "Zi Yan",
+   "first": false
+  },
+  {
+   "id": "little-fairy-doctor",
+   "name": "Little Fairy Doctor",
+   "first": false
+  },
+  {
+   "id": "yao-tian-huo",
+   "name": "Yao Tian Huo",
+   "first": false
+  },
+  {
+   "id": "mu-gu",
+   "name": "Mu Gu",
+   "first": false
+  },
+  {
+   "id": "zhai-xing",
+   "name": "Zhai Xing",
+   "first": true,
+   "card": 1013
+  }
+ ],
+ "changes": [],
+ "flags": [
+  "This episode's translation is rougher than its neighbours' ('How did them break in?', 'met you animal'). Some lines are hard to assign to a speaker.",
+  "Who fights whom is not always clear. At 394-413 Xiao Yan sets the Sky Demon Puppet ('it') against a Dou Zun, and 876-886 'It's your turn... I was talking to it' is a second puppet moment. The summary keeps this general.",
+  "749-788: lines like 'Mr. Yao, the medicinal cauldron is too shabby' and 'I can't stay with you any longer' are memories or an illusion inside the Soul-locking Hall, not a real conversation. The real reunion starts at 818.",
+  "Zhai Xing is only named in the last line (1013). His name card is in EP201 at 61.",
+  "Mu Gu is called 'Old Monster Mu Gu'. He says Xiao Yan destroyed his Soul Power twice."
+ ]
+}

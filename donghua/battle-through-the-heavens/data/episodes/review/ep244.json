@@ -1,0 +1,102 @@
+{
+  "ep": 244,
+  "title": "The Sky Mansion Alliance",
+  "summary": "Xiao Yan takes his seat in the Small Pill Tower and argues that neutrality has not protected the world's alchemists. The council votes seven for, one against and one abstaining, so the Pill Tower joins the alliance. Three days later the Flaming Cloud Ancestor, Grand Elder Lin and Qing Xianzi meet at the Falling Star Pavilion, and Yao Lao is chosen alliance chief. They name it the Sky Mansion Alliance, to overshadow the Hall of Souls. The Hall of Souls' Deputy Hall Chief appears as a shadow clone and threatens Xiao Zhan for the jade of Tuo She Gu Di, but Xiao Yan refuses and swears to come for the Hall of Souls and the Hun Clan. With the Purifying Demonic Lotus Flame due in nine months, Yao Lao sends Xiao Yan and Medusa to the Nine Serene Spring for the Spring Blood Crystal and energy for her to evolve.",
+  "events": [
+    "Xiao Yan joins the Small Pill Tower council and argues against neutrality.",
+    "The vote passes seven to one with one abstention; the Pill Tower joins.",
+    "The Flaming Cloud Ancestor, Grand Elder Lin and Qing Xianzi arrive at the Falling Star Pavilion.",
+    "Yao Lao is chosen chief; the alliance is named the Sky Mansion Alliance.",
+    "The Hall of Souls' Deputy Hall Chief appears as a shadow clone and threatens Xiao Zhan.",
+    "Xiao Yan refuses to hand over the Tuo She Gu Di jade.",
+    "The alliance grows across the Central Plains.",
+    "Yao Lao plans the trip to the Nine Serene Spring and the Nine Yin Yellow Spring Pill."
+  ],
+  "introduced": [
+    "Sky Mansion Alliance",
+    "Intelligence Hall",
+    "Nine Serene Spring",
+    "Nine Serene Deep Ground Pythons",
+    "Nine Yin Yellow Spring Pill",
+    "Spring Blood Crystal"
+  ],
+  "cultivation": "Xiao Yan calls himself a One-Star Dou Sheng. Xun Er is in seclusion and may reach Dou Sheng. Medusa could reach Ban Sheng with enough energy and evolve into a Nine-Colored Heaven Swallowing Python.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "1-star Dou Sheng",
+      "quote": "I'm only a One-Star Dou Sheng.",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "grand-elder-lin",
+      "name": "Grand Elder Lin",
+      "first": false
+    },
+    {
+      "id": "old-demon-hou",
+      "name": "Old Demon Hou",
+      "first": false
+    },
+    {
+      "id": "flaming-cloud-ancestor",
+      "name": "Flaming Cloud Ancestor",
+      "first": false
+    },
+    {
+      "id": "tang-huo-er",
+      "name": "Tang Huo Er",
+      "first": false
+    },
+    {
+      "id": "qing-xianzi",
+      "name": "Qing Xianzi",
+      "first": false
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "first": false
+    },
+    {
+      "id": "xuan-yi",
+      "name": "Xuan Yi",
+      "first": false
+    },
+    {
+      "id": "hall-of-souls-deputy-leader",
+      "name": "Deputy Leader of the Hall of Souls",
+      "first": false
+    },
+    {
+      "id": "xiao-zhan",
+      "name": "Xiao Zhan",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-33s is a recap of EP243.",
+    "297s: 'Seven ayes, one nay, one abstention' does not match EP242's count of eight seats.",
+    "288s: the 'nay' is taken as Old Demon Hou's camp; who votes how is not named.",
+    "420s: 'Grandfather!' - the Flaming Cloud Ancestor's granddaughter, taken as Tang Huo Er.",
+    "520s: 'Isn't that Xuan Yi?' - Xuan Yi is present at the ceremony.",
+    "715s: 'Chief Yao Chan' is a typo for Yao Chen.",
+    "754-783s: the names 'Ultimate Righteous Hall' and 'Heaven Mansion' are suggested first; 'Sky Mansion' is chosen. EP245's recap calls it the 'Sky Alliance'.",
+    "818s: the man calls himself 'Deputy Hall Chief'; taken as the same Deputy Leader carded in EP242.",
+    "853s: 'Father!' - Xiao Zhan is shown as the Hall of Souls' prisoner; he does not speak.",
+    "1074s and 1090-1146s: speakers not named; taken as Xiao Yan (to Medusa) and Yao Lao (the Nine Serene Spring plan; Xiao Yan answers 'Me too?')."
+  ]
+}

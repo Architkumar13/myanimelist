@@ -1,0 +1,99 @@
+{
+  "ep": 2,
+  "title": "The Alchemist Liu Xi",
+  "summary": "Half a year later, Xiao Yan is training hard under Yao Lao, while the Jia Lie Clan's alchemist Liu Xi is ruining the Xiao Market with his pills. Jia Lie Bi and Ao Ba Pa plan to wipe out the Xiao Clan, and Liu Xi demands to meet Xun Er. Yao Lao explains alchemist flames and the Heavenly Flames, and names his own Chilling Bone Flame, eleventh on the Heavenly Flames Ranking. He also promises a technique that can evolve once Xiao Yan becomes a Dou Zhe. Xiao Yan pushes himself too hard and gets hurt, but while Xun Er tends him he reaches the ninth stage of Dou Zhi Qi in his sleep. At the market, Liu Xi orders him crippled and Xun Er taken, and Xiao Yan floors Jia Lie Ao with Vacuum Palm while Yao Lao secretly throws Liu Xi aside. That night Xun Er, boosted to Da Dou Shi strength by a secret technique, attacks Liu Xi in his room, and Yao Lao finishes him with his Heavenly Flame.",
+  "events": [
+    "Liu Xi demands half the profits from Jia Lie Bi; the Jia Lie Clan plans to destroy the Xiao Clan.",
+    "Xiao Yan trains Vacuum Hand and Octane Blast, a Xuan Class high-level Dou Skill.",
+    "Yao Lao explains flame colours, Heavenly Flames and his Chilling Bone Flame (11th).",
+    "Yao Lao promises a low Huang Class technique that can evolve, once Xiao Yan becomes a Dou Zhe.",
+    "Injured from overtraining, Xiao Yan reaches the ninth stage of Dou Zhi Qi while Xun Er watches over him.",
+    "At the Xiao Market, Liu Xi orders Xiao Yan crippled; Xiao Yan beats Jia Lie Ao and Yao Lao knocks Liu Xi away.",
+    "At night Xun Er attacks Liu Xi with a secret strength-boosting technique; he survives with a Turtle Breath Pill.",
+    "Yao Lao kills Liu Xi with his Heavenly Flame, and someone asks why he is hiding in the room."
+  ],
+  "introduced": [
+    "Liu Xi",
+    "Jia Lie Bi",
+    "Ao Ba Pa",
+    "Jia Lie Market",
+    "Vacuum Hand / Vacuum Palm",
+    "Octane Blast (Xuan Class high-level Dou Skill)",
+    "Dou Qi Flame",
+    "Heavenly Flame",
+    "Heavenly Flames Ranking",
+    "Chilling Bone Flame (11th)",
+    "Tian Class and Huang Class techniques",
+    "Turtle Breath Pill",
+    "Six-Star Dou Zhe (star ranks)"
+  ],
+  "cultivation": "Xiao Yan reaches the ninth stage of Dou Zhi Qi (497.5). Xun Er briefly reaches about Da Dou Shi strength with a secret technique (Yao Lao's estimate).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Zhi Qi 9th stage",
+      "quote": "I think I've reached the ninth stage of Dou Zhi Qi. / Yes, you have.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-xi",
+      "name": "Liu Xi",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 60.0
+    },
+    {
+      "id": "jia-lie-bi",
+      "name": "Jia Lie Bi",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 46.2
+    },
+    {
+      "id": "ao-ba-pa",
+      "name": "Ao Ba Pa",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 44.2
+    },
+    {
+      "id": "jia-lie-ao",
+      "name": "Jia Lie Ao",
+      "realm": "6-star Dou Zhe",
+      "quote": "Six-Star Dou Zhe?",
+      "first": false,
+      "card": null
+    }
+  ],
+  "flags": [
+    "Yao Lao's flame is 'Chilling Bone Flame' here (232.2); EP17 onward the subtitles say 'Bone Chilling Flame'. Same flame.",
+    "722.0 'Six-Star Dou Zhe?' is said as Jia Lie Ao shows his power; read as his own rank, but it is only implied.",
+    "911-918: Yao Lao thinks Xun Er is 'probably as strong as a Da Dou Shi' using a secret technique; not her real rank.",
+    "The Flame Mantra is described (technique that can evolve, low-level Huang Class, 276) but not named until EP3.",
+    "The scene ends at 1040-1042 with 'Who are you? Why are you hiding in the room?'; EP3 shows it is Xun Er asking Yao Lao.",
+    "EP3's opening narration says Yao Lao also told Xiao Yan about Jianan Academy and the Fallen Heart Flame; that talk is not in this file."
+  ],
+  "changes": []
+}

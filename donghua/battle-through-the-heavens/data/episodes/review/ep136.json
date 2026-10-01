@@ -1,0 +1,68 @@
+{
+  "ep": 136,
+  "title": "The Poison Pill Method",
+  "summary": "Xiao Yan holds Little Fairy Doctor through the poison and uses his Heavenly Flame to stop the Woeful Poison Body from spreading. She agrees to trust him and orders all three sects out of the Jia Ma Empire. At a later meeting Xiao Yan learns the Hall of Souls set her on him, and she agrees to look away while he kills Yan Luo Tian and the Three Elders of Mulan. He describes the Poison Pill Method, which needs the core of a Rank Seven Sky Poison Dragon Scorpion Beast, three Heavenly Flames and Bodhisattva Body Transformation Saliva, and she gives him a jade piece to crush when the attack starts. At the Snakemen Clan, the First Elder tells him Medusa has under two years to live unless the soul of the Heaven Swallowing Python and the leftover Fallen Heart Flame energy are balanced. Xiao Yan promises a Heaven Soul Blood Fusing Pill within two years, and the Snakemen Clan joins the Yan Alliance.",
+  "events": [
+    "Xiao Yan embraces Little Fairy Doctor and holds back the Woeful Poison Body with his Heavenly Flame",
+    "Medusa is touched by the poison; Little Fairy Doctor orders the allied forces out of the Jia Ma Empire",
+    "Little Fairy Doctor meets Xiao Yan and Medusa and agrees to let him kill Yan Luo Tian and the Three Elders of Mulan",
+    "Xiao Yan explains the Poison Pill Method and its ingredients; she gives him a jade signal",
+    "Medusa invites Xiao Yan to meet the Snakemen elders; Mo Ba Si is rebuked",
+    "The First Elder explains the two energies in Medusa's body and the Secret Technique levels",
+    "Xiao Yan promises a Heaven Soul Blood Fusing Pill within two years and receives its recipe",
+    "The Snakemen Clan joins the Yan Alliance"
+  ],
+  "introduced": [
+    "Poison Pill Method",
+    "Sky Poison Dragon Scorpion Beast (Rank Seven)",
+    "Bodhisattva Body Transformation Saliva",
+    "Mo Ba Si",
+    "First Elder of the Snakemen Clan",
+    "Heaven Swallowing Python (soul in Medusa)",
+    "Secret Technique (Snakemen; three levels)",
+    "Snake Marrow Sloughing Bone Pill (sixth-tier)",
+    "Heaven Soul Blood Fusing Pill",
+    "Soul Recovery Pill"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false,
+      "card": 56
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false,
+      "card": 298
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false,
+      "card": 124
+    },
+    {
+      "id": "mo-ba-si",
+      "name": "Mo Ba Si",
+      "first": true,
+      "card": 690
+    },
+    {
+      "id": null,
+      "name": "First Elder of the Snakemen Clan",
+      "first": true,
+      "card": 752
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-178s, before the [Episode 136] card, is the end of the Black Mountain Fortress battle; the post-card narration (183-227s) recaps it as the previous episode. Included here because it is in this file.",
+    "462s: Little Fairy Doctor says 'You own three Heavenly Flames?' after Xiao Yan shows them; later episodes (151-152) say he owns two plus Yao Lao's Bone Chilling Flame.",
+    "674-686s: someone fights Mo Ba Si in the courtyard ('You're insane', 'I won't show you mercy'); the speaker is not named.",
+    "965s: 'no alchemist in the entire Central Plain' said by a Snakemen elder; wording as written."
+  ]
+}

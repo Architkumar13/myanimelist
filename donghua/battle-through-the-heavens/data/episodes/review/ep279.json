@@ -1,0 +1,97 @@
+{
+  "ep": 279,
+  "title": "Hun Sha's Pursuit",
+  "summary": "Behind the escaping group, Hun Xuzi and the Void Devouring Flame stay to gather the Medicine Clan's bloodline power. They recall how the Hun Clan wiped out the Xiao Clan, and how Xiao Xuan badly wounded Hun Tiandi, and they signal Hun Sha and Hun Tu to hunt Xiao Yan. The Hun Clan plans for Hun Tiandi to become the first Dou Di since Tuo She. The survivors mourn, and Yao Tian blames himself for being useless. Yao Lao takes the Medicine Clan survivors to the Sky Mansion Alliance with Old Shennong, while Xiao Yan takes Yao Tian and Yao Ling to the Gu Clan to report and press for an alliance with the Yan and Lei Clans. On the way Hun Sha, a Seven-Star Dou Sheng and one of the Hun Clan's Four Demon Saints, traps them in his space and demands Xiao Yan's Tuoshe Ancient Emperor Jade. Xiao Yan swallows his ninth-grade Xuan Dan and fights back with the Flame-Splitting Wave Ruler, Yellow Spring Palm, Yellow Spring Divine Anger and the Great Heavenly Creation Palm, then breaks Hun Sha's space.",
+  "events": [
+    "Hun Xuzi and the Void Devouring Flame gather the Medicine Clan's bloodline.",
+    "They recall the fall of the Xiao Clan and send Hun Sha and Hun Tu after Xiao Yan.",
+    "The survivors mourn; Yao Tian blames himself.",
+    "The group splits: Yao Lao and Old Shennong to the Alliance, Xiao Yan with Yao Tian and Yao Ling to the Gu Clan.",
+    "Hun Sha catches them and traps them in his space.",
+    "Xiao Yan swallows the ninth-grade Xuan Dan.",
+    "He fights Hun Sha and breaks the space with space."
+  ],
+  "introduced": [
+    "Hun Sha",
+    "Hun Tu",
+    "Four Demon Saints",
+    "Flame-Splitting Wave Ruler"
+  ],
+  "cultivation": "Hun Sha: 'Seven-Star Dou Sheng', 'As strong as Hun Jing and Hun Yan' (773.5-774.7). Xiao Yan takes the ninth-grade Xuan Dan to fight; no realm stated.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-tian",
+      "name": "Yao Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ling",
+      "name": "Yao Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "old-shennong",
+      "name": "Old Shennong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-xuzi",
+      "name": "Hun Xuzi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "void-devouring-flame",
+      "name": "Void Devouring Flame",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-sha",
+      "name": "Hun Sha",
+      "realm": "Seven-Star Dou Sheng",
+      "quote": "He's Hun Sha, one of the Soul Clan's Four Demon Saints. Seven-Star Dou Sheng.",
+      "first": true,
+      "card": 770.9
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "134-171s is a recap of EP278. This track is cleaner than EP276-278 but still writes 'Yao Clan' for the Medicine Clan and 'Soul Clan' for the Hun Clan.",
+    "296-345s: the speakers recalling the Xiao Clan raid are Hun Xuzi and the Void Devouring Flame by context ('Lord Void'). 324.6 'gravely wounding Emperor Hun Tian' = Hun Tiandi.",
+    "Hun Tu is named only (337.8).",
+    "884.0 'Liuhe Body-Roaming Ruler' = Six Joint Body Flowing Ruler; 1107.3 'Netherworld Palm' = Yellow Spring Palm; 1128.2 'Netherworld's Wrath' = Yellow Spring Divine Anger; 1142.9 'Great Heaven Creation Palm' = Great Heavenly Creation Palm.",
+    "645.0 Yao Lao suggests urging the Gu Clan to ally with the Yan and Lei Clans.",
+    "The Xuan Dan Xiao Yan swallows (1010.0) is taken as the one he refined in EP276."
+  ]
+}

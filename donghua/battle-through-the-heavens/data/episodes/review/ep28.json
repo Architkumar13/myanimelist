@@ -1,0 +1,84 @@
+{
+  "ep": 28,
+  "title": "The Green Lotus Core Flame Is Refined",
+  "summary": "Xiao Yan pulls the Flame Seed out of the Green Lotus Core Flame and swallows it, guided by Yao Lao. He nearly loses himself in the pain until memories of Nalan Yanran's challenge keep him going, and he drives the seed into his Acceptance Soul. The refining works, his injuries heal, and he reaches Four-Star Dou Shi. In Rock Desert City, the Sand Mercenary Company kidnaps Qing Lin and surrounds the Desert Metal Mercenary Company, backed by a new Da Dou Shi. Xiao Yan tries to forge the Green Lotus Core Flame into the Flame Mantra, which he must do for Yao Lao to be reborn. When the flame fights back, Yao Lao admits he first took him as a disciple only to absorb his Dou Qi. Yao Lao holds the flame with his own soul, and the Flame Mantra rises to Xuan Class Medium Rank.",
+  "events": [
+    "Xiao Yan swallows the Flame Seed and fights the burning pain.",
+    "Memories of Nalan Yanran and the Three-year Agreement keep him going; he moves the seed into the Acceptance Soul.",
+    "He succeeds and reaches Four-Star Dou Shi.",
+    "At Rock Desert City, Qing Lin is kidnapped and the Sand Mercenary Company surrounds the Desert Metal compound.",
+    "Xiao Yan forges the Green Lotus Core Flame into the Flame Mantra; the flame resists.",
+    "Yao Lao confesses he first wanted only Xiao Yan's Dou Qi, and risks his soul to help.",
+    "The Flame Mantra rises from Huang Class to Xuan Class Medium Rank.",
+    "Two months remain before the Three-year Agreement; next they go to Hai Bodong with the Sand's Datura."
+  ],
+  "introduced": [
+    "Acceptance Soul",
+    "Tian, Di, Xuan, Huang (technique classes)",
+    "Flame Mantra space",
+    "Xuan Class Medium Rank",
+    "Purifying Demonic Lotus Flame Map",
+    "Sand's Datura",
+    "Shi Mo City"
+  ],
+  "cultivation": "Xiao Yan rises to Four-Star Dou Shi after refining the Green Lotus Core Flame (418.9). The Flame Mantra rises to Xuan Class Medium Rank (ep29.en.srt 96).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "4-star Dou Shi",
+      "quote": "You've actually reached the ability of a Four-Star Dou Shi.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 512.7
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 520.3
+    },
+    {
+      "id": "xue-lan",
+      "name": "Xue Lan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 548.1
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-206s is the end of EP27 (start of the swallowing); the [Episode 28] card is at 206.1.",
+    "Nalan Yanran appears only in a memory (264-284).",
+    "768: Xiao Yan calls the Flame Mantra 'a Huang Class low-rank technique', but after the evolution (ep29.en.srt 100) he says it moved up 'from its previous Huang Class Medium Rank'.",
+    "The end of this episode is in ep29.en.srt 0-204s, before the [Episode 29] card: the Flame Mantra evolves, two months remain, and Yao Lao produces the Sand's Datura. Counted here.",
+    "'Sand Mercenary Company... another Da Dou Shi suddenly emerged' (532) is Mo Ran, named in EP29."
+  ]
+}

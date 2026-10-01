@@ -1,0 +1,73 @@
+{
+  "ep": 227,
+  "title": "The Siege of the Mystic Yellow Fortress",
+  "summary": "The Mystic Yellow Fortress stands in the Mystic Yellow Rift on the Jia Ma Empire border, the Yan Alliance's main bastion and a busy trade city. The Profound Lion Sect's warships bombard it, and its leader Shi Tian tells Medusa to hand over the Xiao Clan in exchange for sparing the alliance. Medusa refuses, the city barrier goes up, and Hai Bodong destroys a warship with the Mysterious Ice Dragon's Soar. Shi Tian waits for the barrier to run out, but an ally from the Hall of Souls pushes him to strike fast so no Xiao Clan member escapes. Medusa rallies the defenders and fights Shi Tian, who grows stronger as more people die. A Hall of Souls man tries to take a little girl, Xiao Xiao, for the Ninth Tianzun, but Xiao Yan arrives and saves her.",
+  "events": [
+    "Narration on the Mystic Yellow Rift and Fortress.",
+    "The Profound Lion Sect bombards the fortress.",
+    "Shi Tian demands Medusa hand over the Xiao Clan; she refuses.",
+    "Hai Bodong destroys a warship with the Mysterious Ice Dragon's Soar.",
+    "The Hall of Souls is revealed behind the attack.",
+    "Medusa fights Shi Tian as the barrier fails.",
+    "A Hall of Souls man grabs Xiao Xiao for the Ninth Tianzun.",
+    "Xiao Yan arrives and orders the invaders wiped out."
+  ],
+  "introduced": [
+    "Mystic Yellow Rift",
+    "Shi Tian",
+    "Xiao Xiao",
+    "Mysterious Ice Dragon's Soar",
+    "Spatial Strangling"
+  ],
+  "cultivation": "Shi Tian calls Hai Bodong 'A mere Dou Zong'.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "first": false
+    },
+    {
+      "id": "shi-tian",
+      "name": "Shi Tian",
+      "first": true,
+      "card": 321.3
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "xiao-xiao",
+      "name": "Xiao Xiao",
+      "first": true,
+      "card": 642
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10-66s: narration on the fortress, then a letter's voice-over ('Don't worry about the Yan Alliance').",
+    "71-86s: 'Eldest Brother. Second Brother. / Cailin. / I'm back.' with a card '[Personally written by Xiao Ding]'; this seems to be a letter exchange with Xiao Yan, not him arriving. Xiao Ding's presence on screen is uncertain.",
+    "210s: 'Fa Ma has already gone / with the Alliance's alchemists' explains why the defensive array was slow.",
+    "455s: 'Spatial Strangling' is used by someone helping Hai Bodong; who is unclear.",
+    "518s: Shi Tian calls the Hall of Souls ally 'Zun Zhe'; the ally is not named.",
+    "642s: 'take Xiao Xiao and go' is Medusa's order; Xiao Xiao's relationship to Medusa or Xiao Yan is not stated.",
+    "951s: the Hall of Souls man says the Ninth Tianzun will be pleased with the child's soul."
+  ]
+}

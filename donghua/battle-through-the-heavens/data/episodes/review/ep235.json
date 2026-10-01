@@ -1,0 +1,80 @@
+{
+  "ep": 235,
+  "title": "Three Ban Sheng Puppets",
+  "summary": "Left as bait by the Hun Clan, the Flower Sect, the Gu Clan and Xiao Yan's group are trapped by a second beast tide in the canyon. Yun Yun's Flower Sect holds a formation with help from Gu Clan disciples while Xiao Yan hands out Dou Qi pills. Xiao Yan and Gu Qing Yang blast a path along the cliff with the Open Mountain Seal and follow the trail of the Hun Clan and the Heaven Demon Phoenix Tribe. Hun Yu seals the tunnel behind him to bury them with the beasts, but they break through and reach the Bodhisattva Ancient Tree. Three Ban Sheng puppets guard it, one of them a lost Hun Clan ancestor. Qing Lin senses a cold, gray qi of negative emotion in the tree. Xiao Yan proposes that all sides fight the puppets together, and Hun Yu and Jiu Feng agree.",
+  "events": [
+    "The Hun Clan's trick leaves the others surrounded by a beast tide.",
+    "Hun Yu and Jiu Feng, working together, move toward the tree.",
+    "The Flower Sect holds a formation with Gu Clan help; Xiao Yan hands out pills.",
+    "Xiao Yan and Gu Qing Yang open a path along the cliff with the Open Mountain Seal.",
+    "Hun Yu seals the tunnel to trap them with the beasts.",
+    "The group breaks out and reaches the Bodhisattva Ancient Tree.",
+    "Three Ban Sheng puppets guard the tree; one is a Hun Clan ancestor.",
+    "Xiao Yan, Hun Yu and Jiu Feng agree to fight the puppets together."
+  ],
+  "introduced": [
+    "Ban Sheng puppets",
+    "Hun Clan annals"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "first": false
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "first": false
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "first": false
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false
+    },
+    {
+      "id": "gu-qing-yang",
+      "name": "Gu Qing Yang",
+      "first": false
+    },
+    {
+      "id": "hun-yu",
+      "name": "Hun Yu",
+      "first": false
+    },
+    {
+      "id": "jiu-feng",
+      "name": "Jiu Feng",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-37s is a recap of EP234. The recap names Feng Qing Er as the woman Xiao Yan slapped.",
+    "641-721s: a scene with no dialogue between the blocked tunnel and the tree. EP236's recap says the Bodhisattva Seed in Xiao Yan's storage ring burst into light and drove off the beast tide here.",
+    "358s: Xun Er calls Xiao Yan 'Yan'.",
+    "786s: the Hun Clan ancestor 'disappeared along with the ancient tree', per the Hun Clan's annals."
+  ]
+}

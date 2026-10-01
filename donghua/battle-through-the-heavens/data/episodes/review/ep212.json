@@ -1,0 +1,90 @@
+{
+ "ep": 212,
+ "title": "Yao Lao the Ban Sheng",
+ "summary": "Yao Lao steps out in his new body and defeats the Ninth Tianzun with ease. She uses the Spatial Jade Plate to call the Eighth Tianzun, Qiu Di, and the two attack together. Yao Lao stops their joint strike and reveals he is no longer a Nine-Star Dou Zun but a Ban Sheng. Both Tianzuns retreat badly wounded, and the Falling Star Pavilion grows in standing. Yao Lao gives Xiao Yan the Bone Chilling Flame after erasing his own soul mark from it, and promises to look for the Purifying Demonic Lotus Flame. Nalan Yanran then asks Xiao Yan to help Yun Yun, who inherited the Dou Qi of Granny Hua, the late leader of the Flower Sect. The acting leader Hua Jin and her lover Yaohua Xiejun have challenged Yun Yun to a duel in two weeks, and Xiao Yan leaves for the Flower Sect with Qing Lin.",
+ "events": [
+  "Yao Lao returns in his new body and beats the Ninth Tianzun.",
+  "The Ninth Tianzun calls in the Eighth Tianzun, Qiu Di.",
+  "Yao Lao stops their joint attack and reveals he is a Ban Sheng.",
+  "The Tianzuns flee; the Falling Star Pavilion is saved but badly hurt.",
+  "Yao Lao gives Xiao Yan the Bone Chilling Flame.",
+  "They talk about the Purifying Demonic Lotus Flame's map fragments.",
+  "Nalan Yanran tells Xiao Yan about Yun Yun, Granny Hua and the duel.",
+  "Xiao Yan sets out for the Flower Sect with Qing Lin and a Spatial Jade Plate from Yao Lao."
+ ],
+ "introduced": [
+  "Ban Sheng",
+  "Nine Turns",
+  "Eighth Tianzun",
+  "Qiu Di",
+  "Flower Sect",
+  "Granny Hua",
+  "Hua Jin",
+  "Yaohua Xiejun",
+  "sect challenge"
+ ],
+ "cultivation": "Yao Lao is a Ban Sheng. Before this the Ninth Tianzun calls him 'at best a Nine-Star Dou Zun'. Hua Jin is a Four-Star Dou Zun; Yaohua Xiejun is a Six-Star Dou Zun.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "xiao-yan",
+   "name": "Xiao Yan",
+   "first": false
+  },
+  {
+   "id": "yao-lao",
+   "name": "Yao Lao",
+   "realm": "Ban Sheng",
+   "quote": "I am no longer a peak Nine-Star Dou Zun. I am a Ban Sheng.",
+   "look": "restored physical body",
+   "first": false
+  },
+  {
+   "id": "ninth-tianzun",
+   "name": "Ninth Tianzun",
+   "first": false
+  },
+  {
+   "id": "qiu-di",
+   "name": "Qiu Di",
+   "first": true,
+   "card": 360
+  },
+  {
+   "id": "elder-feng",
+   "name": "Elder Feng",
+   "first": false
+  },
+  {
+   "id": "nalan-yanran",
+   "name": "Nalan Yanran",
+   "first": false
+  },
+  {
+   "id": "yun-yun",
+   "name": "Yun Yun",
+   "first": false
+  },
+  {
+   "id": "granny-hua",
+   "name": "Granny Hua",
+   "first": true
+  },
+  {
+   "id": "hua-jin",
+   "name": "Hua Jin",
+   "realm": "4-star Dou Zun",
+   "quote": "Hua Jin is a Four-Star Dou Zun.",
+   "first": true
+  }
+ ],
+ "changes": [],
+ "flags": [
+  "15-41 is narration about Dou Sheng and Ban Sheng, not events.",
+  "291: a lone '[Soul]' caption, probably part of a skill name.",
+  "707-730: the ring scene is unclear. Xiao Yan offers to return an item (the ring) to its owner, and Yao Lao says his life's work is in it. It is not clear who keeps the ring.",
+  "Yun Yun, Granny Hua and Hua Jin appear only in Nalan Yanran's flashback here. Yaohua Xiejun is named but not seen.",
+  "Yaohua Xiejun is from the Profound Sky Sect (1009).",
+  "Yao Lao says he will help Yao Tian Huo regain his peak strength and help Little Fairy Doctor awaken her Woeful Poison Body (1060-1066); they do not appear."
+ ]
+}

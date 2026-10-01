@@ -1,0 +1,91 @@
+{
+  "ep": 198,
+  "title": "Devil Yi of the Profound Sky Sect",
+  "summary": "Xiao Yan breaks out of the collapsing Star Region and returns to his friends and the Pill Tower's chairpersons, keeping the Three Thousand Burning Flame. Xuan Kong Zi tells him the Hall of Souls has moved Yao Lao out of Ming City. Chen Tian Nan, chief of the Profound Xuan Sect, blames Xiao Yan for his son Chen Xian's death in the Pill Realm. Yi Chen of the Profound Sky Sect, which is allied with the Hall of Souls, offers to help him take revenge. Xiao Yan gives Yao Tian Huo a Green Fungus Pill to recover his strength, and a letter from the Jia Ma Empire tells him the Yan Alliance is thriving under Medusa. Chen Tian Nan and Yi Chen come to the Ye Residence, and Yi Chen challenges Xiao Yan to a duel. Xiao Yan beats him with the God Seal Technique, and Xuan Yi stops Chen Tian Nan's sneak attack, then tells Xiao Yan that they have found where Yao Lao is held.",
+  "events": [
+    "Xiao Yan comes out of the Star Region with the flame.",
+    "Xuan Kong Zi reports that Yao Lao was moved out of Ming City.",
+    "Chen Tian Nan and Yi Chen plan revenge for Chen Xian.",
+    "Xiao Yan trains with Yao Tian Huo and gives him a Green Fungus Pill.",
+    "A letter from the Jia Ma Empire reports on the Yan Alliance; Xiao Yan sends two letters back.",
+    "Yi Chen challenges Xiao Yan at the Ye Residence.",
+    "Xiao Yan defeats Yi Chen, and Xuan Yi stops Chen Tian Nan.",
+    "Xuan Yi says Yao Lao has been found."
+  ],
+  "introduced": [
+    "Chen Tian Nan",
+    "Yi Chen",
+    "Profound Sky Sect",
+    "Overturning Land Seal",
+    "Green Fungus Pill",
+    "Blood Explosion",
+    "Seven Killing Spear",
+    "Profound Sky Devil's Hand"
+  ],
+  "cultivation": "Yao Tian Huo has stabilised at the peak of One-Star Dou Zun within a year; the Green Fungus Pill can bring him to Three-Star Dou Zun. Little Fairy Doctor is 'now at the peak of Three-Star Dou Zun'. The letter says Mr. Hai (Hai Bodong) has advanced to Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "realm": "peak 3-star Dou Zun",
+      "quote": "I'm afraid even Little Fairy Doctor is now at the peak of Three-Star Dou Zun.",
+      "first": false
+    },
+    {
+      "id": "xuan-kong-zi",
+      "name": "Xuan Kong Zi",
+      "first": false
+    },
+    {
+      "id": "xuan-yi",
+      "name": "Xuan Yi",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "realm": "peak 1-star Dou Zun",
+      "quote": "in just one year, you stabilized your strength at the peak of One-Star Dou Zun.",
+      "first": false
+    },
+    {
+      "id": "chen-tian-nan",
+      "name": "Chen Tian Nan",
+      "first": true,
+      "card": 195
+    },
+    {
+      "id": "yi-chen",
+      "name": "Yi Chen",
+      "first": true,
+      "card": 203
+    },
+    {
+      "id": "qiu-ling",
+      "name": "Qiu Ling",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "12s [Episode 198] card; 17-46s recap.",
+    "209s: 'Mu Gu from Hall of Pills' is a slip for Hall of Souls.",
+    "208s: Chen Xian is said to have died in the Pill Realm at Mu Gu's hands; his death is not shown on screen.",
+    "441-488s: the letter is from the Jia Ma Empire; EP199's recap says Xiao Ding sent it. '[To: Cai Lin]' on one of Xiao Yan's two replies shows a letter addressed to Medusa (Cai Lin).",
+    "563s: Yi Chen is also called 'Devil Yi' and is rumoured to be the Profound Sky Sect's next chief.",
+    "531-536s and 920-957s: 'Elder Qiu' is taken as Qiu Ling.",
+    "967s: Xiao Yan thanks 'Aunt Xuan' (Xuan Yi) for stopping Chen Tian Nan.",
+    "988s: 'We found out where he is' is taken as Yao Lao's location, confirmed by EP199."
+  ]
+}

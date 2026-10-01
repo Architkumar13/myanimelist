@@ -1,0 +1,61 @@
+{
+  "ep": 166,
+  "title": "The Illusionary Body",
+  "summary": "Fei Tian, an Eight-Star Dou Zong at least, demands the four scrolls of the Three Thousand Lightning Illusionary Body and the method of merging Heavenly Flames. Tian Huo Zun Zhe stalls him while Xiao Yan runs. Xiao Yan drops the scrolls as a decoy, but Fei Tian sends an avatar after him, and Xiao Yan and Tian Huo Zun Zhe destroy it with the Fallen Heart Flame. Its aura helps Xiao Yan decipher the technique, and he trains until he can make his own lightning avatar, noting that his remaining Life Transforming Flame allows only one more Extermination Fire Lotus. When the Gray Wolf King chases him over a Starchless Fruit, the wolf recognizes his Bone Wings as Heaven Demon Phoenix wings and explains that the tribe rivals the Nine Serene Deep Ground Pythons and the Void Ancient Dragons. Xiao Yan begins to suspect that Zi Yan is a Void Ancient Dragon. He spares the wolf in return for its silence, and decides he can no longer show the wings in front of others.",
+  "events": [
+    "Fei Tian demands the scrolls and the flame-merging method.",
+    "Tian Huo Zun Zhe holds Fei Tian off while Xiao Yan escapes.",
+    "Xiao Yan drops the four scrolls; Fei Tian's lightning avatar chases him anyway.",
+    "Xiao Yan and Tian Huo Zun Zhe destroy the avatar with the Fallen Heart Flame.",
+    "The avatar's aura lets Xiao Yan decipher the Three Thousand Lightning Illusionary Body.",
+    "Xiao Yan trains in the forest until he forms an avatar.",
+    "The Gray Wolf King chases him over a Starchless Fruit and recognizes his Heaven Demon Phoenix wings.",
+    "The wolf explains the great beast tribes and swears to keep the wings secret; Xiao Yan wonders if Zi Yan is a Void Ancient Dragon."
+  ],
+  "introduced": [
+    "Gray Wolf King",
+    "Starchless Fruit",
+    "Heaven Demon Phoenix Tribe",
+    "Nine Serene Deep Ground Pythons",
+    "Void Ancient Dragons"
+  ],
+  "cultivation": "Fei Tian is at least an Eight-Star Dou Zong; his avatar is at most Six-Star Dou Zong and at the intermediate level of the Illusionary Body.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "fei-tian",
+      "name": "Fei Tian",
+      "realm": "8-star Dou Zong",
+      "quote": "How dare you speak so arrogantly when you're just an Eight-Star Dou Zong?",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "gray-wolf-king",
+      "name": "Gray Wolf King",
+      "first": true,
+      "card": 839
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: Fei Tian's look at the Heavenly Flame now ends EP165 and is only replayed here (Heavenly Flames Ranking moved there); added from EP167 the Gray Wolf King's plea and promise of silence; card time moved to the new clock."
+  ],
+  "flags": [
+    "0-44s is the recap; 56-67s replays the end of EP165.",
+    "86s: Xiao Yan's own estimate is 'at least an Eight-Star Dou Zong'; Tian Huo Zun Zhe says the same at 188s.",
+    "656-658s: 'the remaining Life Transforming Flame will only allow me to do it once' links the Life Transforming Flame to the Extermination Fire Lotus (see EP152).",
+    "864-869s: someone hits the Gray Wolf King from behind and Xiao Yan cries 'I did it!'. This fits his first working lightning avatar, but the subtitles do not say so outright.",
+    "The subtitles spell the tribe 'Heaven Phoenix Demon' (885-1010s) and 'Heaven Demon Phoenix' (966s, 976s); this review uses Heaven Demon Phoenix throughout.",
+    "1043-1078s: who says 'I'll give it back to you' is not clear; it reads as Xiao Yan returning the fruit in exchange for the wolf's silence.",
+    "Zi Yan being a Void Ancient Dragon is Xiao Yan's guess here."
+  ]
+}

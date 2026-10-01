@@ -1,0 +1,72 @@
+{
+  "ep": 142,
+  "title": "The Demon Poison Spot",
+  "summary": "Medusa and Xiao Yan capture Protector Tie, and Little Fairy Doctor beats Xie Biyan with the blood of her Woeful Poison Body. Dying, Xie Biyan uses his life force to plant the Demon Poison Spot in Xiao Yan, which kills in half a year and can only be cured by a Dou Zun. Medusa kills Xie Biyan and vows to wipe out the Ten Thousand Scorpion Gate. Little Fairy Doctor uses a poison pool and her own meridians to suppress the spot for two years. Xiao Yan refines one poison vein and reaches the peak of Two-Star Dou Huang. Protector Tie says the Hall of Souls has Man, Earth and Sky Protectors and a branch at Burial Stream in the Sky Heart Empire. Xiao Yan decides to seek the Dou Zun dean of Jia Nan Academy, with Little Fairy Doctor and Zi Yan.",
+  "events": [
+    "Protector Tie is captured and locked away",
+    "Little Fairy Doctor beats Xie Biyan, who self-destructs and plants the Demon Poison Spot in Xiao Yan",
+    "Medusa kills Xie Biyan and vows to wipe out the Ten Thousand Scorpion Gate",
+    "Little Fairy Doctor suppresses the poison for two years with her poison pool",
+    "Xiao Yan refines a poison vein and reaches peak Two-Star Dou Huang",
+    "Protector Tie describes the Hall of Souls' ranks and the Burial Stream branch",
+    "Xiao Yan plans to go to Jia Nan Academy; Little Fairy Doctor and Zi Yan go with him"
+  ],
+  "introduced": [
+    "Demon Poison Spot",
+    "Man, Earth and Sky Protectors (Hall of Souls)",
+    "Honorable Elders (Hall of Souls)",
+    "Burial Stream",
+    "Sky Heart Empire"
+  ],
+  "cultivation": "Xiao Yan reaches the peak of Two-Star Dou Huang by refining a poison vein of the Demon Poison Spot. Protector Tie is a Man Protector; Wu Ying is an Earth Protector.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "2-star Dou Huang (peak)",
+      "quote": "it helped me reach the peak of the Two-Star Dou Huang level.",
+      "first": false,
+      "card": 94
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false,
+      "card": 44
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false,
+      "card": 418
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false,
+      "card": 1158
+    },
+    {
+      "id": "xie-biyan",
+      "name": "Xie Biyan",
+      "first": false,
+      "card": 64
+    },
+    {
+      "id": "protector-tie",
+      "name": "Protector Tie",
+      "quote": "I am a Man Protector.",
+      "first": false,
+      "card": 891
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-219s, before the [Episode 142] card, are this episode's opening fight; the recap runs 225-253s.",
+    "15s and 939-947s: 'Protector Wu' is Wu Ying, an Earth Protector of the Hall of Souls, whom Xiao Yan fought before.",
+    "681s: 'The three types of Heavenly Flames in my body' is Xiao Yan; ep152 says he owns two plus Yao Lao's Bone Chilling Flame.",
+    "828s: the suppression buys two years; the untreated poison takes half a year (470s).",
+    "1074s: the dean of Jia Nan Academy is said to be a Dou Zun; he is named Mang Tian Chi in ep151."
+  ]
+}

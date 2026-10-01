@@ -1,0 +1,97 @@
+{
+  "ep": 147,
+  "title": "Old Ying Shan",
+  "summary": "The Black Emperor Sect picks Xiao Yan's Zong Breaking Pill over the other bids, and Xiao Yan wins the Bodhisattva Body Transformation Saliva. Old Ying Shan, an old Dou Zong, snatches it and flees the city, and every faction chases him. Fang Yan, First Elder of Demon Flame Valley, offers Xiao Yan help, and Xiao Yan turns him down. Xiao Yan meets Su Qian and Xiao Li, drops his disguise, and they agree to help him get the saliva back for Little Fairy Doctor. Old Ying Shan's decoys turn out to be clones, and Xiao Yan tracks down the real one, who is facing Mo Tian Xing. Fang Yan arrives, reveals that Yan Xiao is Xiao Yan, chief of the Xiao Gate, and brings in the gray-robed man.",
+  "events": [
+    "The Black Emperor Sect accepts Xiao Yan's Zong Breaking Pill",
+    "Old Ying Shan snatches the saliva and flees",
+    "Fang Yan offers Demon Flame Valley's help; Xiao Yan refuses",
+    "Xiao Yan reunites with Su Qian and Xiao Li and explains the Woeful Poison Body",
+    "The group beats four of Old Ying Shan's clones",
+    "Mo Tian Xing corners the real Old Ying Shan",
+    "Fang Yan reveals Xiao Yan's identity and the gray-robed man shows his face"
+  ],
+  "introduced": [
+    "Old Ying Shan",
+    "Life Returning Pill",
+    "Amber Honey Pill",
+    "Shape-Shifting Flower (Su Qian's)"
+  ],
+  "cultivation": "Old Ying Shan is a Dou Zong. Xiao Yan tells Xiao Li he trained in seclusion for a year to become a Dou Huang.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "old-ying-shan",
+      "name": "Old Ying Shan",
+      "quote": "Judging from this old man's aura, he's definitely a strong Dou Zong.",
+      "first": true,
+      "card": 2
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false,
+      "card": 31
+    },
+    {
+      "id": "mo-tian-xing",
+      "name": "Mo Tian Xing",
+      "first": false,
+      "card": 958
+    },
+    {
+      "id": "qi-shan",
+      "name": "Qi Shan",
+      "first": false,
+      "card": 87
+    },
+    {
+      "id": "fang-yan",
+      "name": "Fang Yan",
+      "quote": "I am Fang Yan, the First Elder of Demon Flame Valley.",
+      "first": false,
+      "card": 340
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false,
+      "card": 467
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false,
+      "card": 505
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false,
+      "card": 502
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false,
+      "card": 553
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "look": "drops his hood",
+      "first": false,
+      "card": 1173
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-149s, before the [Episode 147] card, are the auction verdict and theft; the recap runs 155-180s.",
+    "7s: Old Ying Shan is called 'definitely a strong Dou Zong'; no star is given.",
+    "55s: '(With this pill, Ya might be able to advance to Dou Zong.)' is Mo Tian Xing's thought.",
+    "511-520s: Xiao Li scolds Xiao Yan ('You fool. Where have you been?'); Xiao Yan says he trained in seclusion for a year to become a Dou Huang ('Only by happenstance'). Su Qian then teases Zi Yan (526-544s).",
+    "433-435s and 536s: Zi Yan blames Su Qian ('his Shape-Shifting Flower', 'I'm stuck in this form').",
+    "967s, 1078s, 1096s: 'tempered with' is written for 'tampered with'.",
+    "1162s: 'Even Mr. Jin and Mr. Yin were defeated by him' (Fang Yan about Xiao Yan)."
+  ]
+}

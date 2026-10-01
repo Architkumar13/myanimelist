@@ -1,0 +1,98 @@
+{
+  "ep": 239,
+  "title": "Han Feng's End",
+  "summary": "Xiao Yan wakes at the Falling Star Pavilion after three days and shows Yao Lao his 11 Bodhisattva Seeds and the Bodhisattva Heart. In the Hun Clan, the leader scolds Hun Yu for coming back with nothing. Xiao Yan tries to break through to Dou Sheng but cannot, and Yao Lao refines a Bodhisattva Pill that draws an eight-colored thundercloud to help him. Before going into seclusion, Xiao Yan hands Yao Lao the soul of Han Feng. Han Feng begs, then attacks with a move taught by Mu Gu, and Yao Lao, now a Ban Sheng, destroys him. Later the Ling Clan of the Eight Ancient Clans vanishes. Old Demon Tian Ming of the Profound Sky Sect attacks the Falling Star Pavilion's camp in the Tianxing Mountain Range and wrecks its Wormhole, with the Hall of Souls behind him.",
+  "events": [
+    "Xiao Yan wakes after three days at peak Ninth Turn Dou Zun.",
+    "He shows Yao Lao 11 Bodhisattva Seeds and the Bodhisattva Heart.",
+    "The Hun Clan leader scolds Hun Yu and Gu You.",
+    "Xiao Yan fails to cross into Dou Sheng; Yao Lao gives him the Bodhisattva Pill.",
+    "Xiao Yan goes into seclusion and gives Yao Lao Han Feng's soul.",
+    "Han Feng attacks Yao Lao with a move from Mu Gu and is destroyed.",
+    "The Ling Clan and the Ling Realm vanish; the Hun Clan is suspected.",
+    "Old Demon Tian Ming attacks the Tianxing Mountain Range camp; the Profound River Alliance is named."
+  ],
+  "introduced": [
+    "Bodhisattva Pill",
+    "Hun Clan leader (Hun Miesheng, named in EP240)",
+    "Ling Clan",
+    "Ling Realm",
+    "Old Demon Tian Ming",
+    "Profound River Alliance",
+    "Tianxing Mountain Range camp"
+  ],
+  "cultivation": "Xiao Yan went from Eight-Star Dou Zun to peak Ninth Turn Dou Zun on the trip. He cannot yet break through to Dou Sheng. Old Demon Tian Ming is a Ban Sheng. Yao Lao is a Ban Sheng.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "peak Ninth Turn Dou Zun",
+      "quote": "now you're already at the peak of Ninth Turn Dou Zun.",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "feng-xian",
+      "name": "Feng Xian",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "first": false
+    },
+    {
+      "id": "hun-yu",
+      "name": "Hun Yu",
+      "first": false
+    },
+    {
+      "id": "gu-you",
+      "name": "Gu You",
+      "first": false
+    },
+    {
+      "id": "hun-miesheng",
+      "name": "Hun Miesheng",
+      "first": true
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "first": false
+    },
+    {
+      "id": "old-demon-tian-ming",
+      "name": "Old Demon Tian Ming",
+      "realm": "Ban Sheng",
+      "quote": "[Old Demon Tian Ming, Ban Sheng]",
+      "first": true,
+      "card": 900.5
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-45s is a recap of EP238.",
+    "187-234s: the Hun Clan leader is not named here; EP240's recap names him Hun Miesheng, 'the Leader of Hall of Souls'. 208s says 'Hall of Souls's Young Clan Leader' - a mixed title.",
+    "347s: the Bodhisattva Pill 'should improve your odds of attaining Ban Sheng' - Xiao Yan is aiming for Dou Sheng; likely a slip.",
+    "444s: Han Feng's soul was in Xiao Yan's keeping from earlier episodes.",
+    "642-725s: ending-song lyrics in the middle of the file. The Ling Clan and Tianxing camp scenes (741-987s) come after them, as a post-credits part of this episode.",
+    "559s: Han Feng names Mu Gu as the one who lied to him; Mu Gu is not on screen.",
+    "Gu You is on screen with Hun Yu at the Hun Clan (216s 'Leader, forgive us'); per EP240's recap both were punished."
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "ep": 42,
+  "title": "Nine Points",
+  "summary": "Xiao Yan finishes his Black Iron Spiritual Leaf extract just in time, to the relief of Ao Tuo. The extracts go into a Purity Meter scored out of ten, with four needed to pass. Liu Ling refined his six times and scores seven, Princess Yue Er's five refinements score 6.5, and the crowd laughs when Yan Xiao says he refined his eight times, until the meter shows nine. Yan Xiao takes first place, Gu He invites him to the Misty Cloud Sect and offers to make his master an honorary elder, and Princess Yue Er invites him to meet her great-grandfather Jia Xing Tian, a Dou Huang of the imperial family. Xiao Yan brushes them off and asks Ao Tuo to keep his identity secret. On the way to the Nalan Residence, Hai Bodong senses someone following them and goes to deal with it alone, and Xiao Yan walks into a banquet where Ya Fei greets Yan Xiao as an old friend in front of Nalan Yanran.",
+  "events": [
+    "Xiao Yan finishes the extraction at the last second.",
+    "The Purity Meter is unveiled; four points are needed to pass.",
+    "Liu Ling scores seven with six refinements; Yue Er scores 6.5 with five.",
+    "Yan Xiao claims eight refinements and scores nine, taking first place.",
+    "Ao Tuo agrees to keep Yan Xiao's identity secret.",
+    "Gu He and Princess Yue Er court Yan Xiao; she names Jia Xing Tian as her great-grandfather.",
+    "Hai Bodong leaves to confront someone tailing them.",
+    "At the Nalan Residence banquet Ya Fei greets Yan Xiao warmly before Nalan Yanran."
+  ],
+  "introduced": [
+    "Purity Meter",
+    "Jia Xing Tian (named)",
+    "Top Ten of the Jia Ma Empire (Jia Xing Tian among them)",
+    "foreign participants skip the internal test"
+  ],
+  "cultivation": "Princess Yue Er says Jia Xing Tian is a strong Dou Huang of the imperial family and one of the Top Ten in the Jia Ma Empire. A third-tier alchemist usually manages five refinements.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ao-tuo",
+      "name": "Ao Tuo",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-ling",
+      "name": "Liu Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yue-er",
+      "name": "Yue Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "gu-he",
+      "name": "Gu He",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-99s is the end of EP41; the [Episode 42] card is at 106.",
+    "The last part of this episode is at the start of ep43.en.srt (0-141s): arriving at the banquet and Ya Fei's greeting; EP43 replays it after its card.",
+    "942-956: Hai Bodong is asked whether the follower is 'the mysterious Dou Huang from before' and answers only 'It's my personal issue'; EP44-45 show he was meeting Jia Xing Tian.",
+    "780-791: the invitation to the palace is most likely Princess Yue Er's ('my great-grandfather').",
+    "1036, 1067: 'the Misty(Cloud Sect' and similar OCR noise; meaning clear."
+  ]
+}

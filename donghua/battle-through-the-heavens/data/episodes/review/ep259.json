@@ -1,0 +1,109 @@
+{
+  "ep": 259,
+  "title": "Ancestor Xiao Chen",
+  "summary": "The Fire Slave bearing the Xiao clan crest stops fighting, and Xiao Yan helps him remember that he is Xiao Chen of the Blood Axe, cousin of Xiao Xuan. Xiao Yan tells him that Xiao Xuan pooled most of the clan's bloodline to try for Dou Di, failed, and was then struck down by the Hun Clan. Xiao Chen is still partly controlled by the Purifying Demonic Lotus Flame, but he leads the group toward it. The Demon Flame traps them in the Nightmare Heavenly Mist, and Xiao Yan breaks it with the Seal of Nightmare-Shattering, which also frees the other clans' groups. The true Purifying Demonic Lotus Flame appears with ten Fire Slaves, all One-Star to Three-Star Dou Sheng. Its own strength equals a peak Five-Star Dou Sheng. Hun Miesheng proposes a truce to fight it, and the Stone Clan and the Medicine Clan agree.",
+  "events": [
+    "The Fire Slave sees the Xiao clan crest and stops.",
+    "Xiao Yan helps him recall that he is Xiao Chen of the Blood Axe.",
+    "Xiao Yan tells him how Xiao Xuan fell to the Hun Clan.",
+    "Xiao Chen leads the group to the Demon Flame.",
+    "The Demon Flame traps them in the Nightmare Heavenly Mist.",
+    "Xiao Yan breaks the illusion with the Seal of Nightmare-Shattering.",
+    "The true Purifying Demonic Lotus Flame appears with ten Dou Sheng Fire Slaves.",
+    "Hun Miesheng proposes a truce; the Stone Clan and Medicine Clan agree."
+  ],
+  "introduced": [
+    "Xiao Chen of the Blood Axe",
+    "Xiao Xuan's cousin",
+    "Celestial Tomb (where a fragment of Xiao Xuan's soul was kept)",
+    "Seal of Nightmare-Shattering",
+    "Demon Fire Illusion",
+    "Stone Clan"
+  ],
+  "cultivation": "The Purifying Demonic Lotus Flame equals 'a peak Five-Star Martial Saint' and can hold its own against a Six-Star. Its ten Fire Slaves range from One-Star to Three-Star Dou Sheng. No change for Xiao Yan.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-chen",
+      "name": "Xiao Chen",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 352.0
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "gu-qing-yang",
+      "name": "Gu Qing Yang",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "gu-nanhai",
+      "name": "Gu Nanhai",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-miesheng",
+      "name": "Hun Miesheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "purifying-demonic-lotus-flame",
+      "name": "Purifying Demonic Lotus Flame",
+      "realm": "peak Five-Star Dou Sheng (equivalent)",
+      "quote": "the Pure Lotus Demon Flame's current strength is equivalent to a peak Five-Star Martial Saint.",
+      "first": true,
+      "card": 1043.8
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file starts at 169s; 169-213s is a narrated recap of EP258.",
+    "This track writes Dou Sheng as 'Martial Saint', the flame as 'Pure Lotus Demon Fire/Flame', the illusion as both 'Nightmare Mist' and 'Nightmare Heavenly Mist', and the Fire Slaves also as 'Fire Servants'.",
+    "505.6 'to challenge the Battle Emperor' means trying to become a Dou Di.",
+    "526.9 Xiao Yan says Xiao Xuan's soul fragment 'passed down the Xiao Clan's remaining bloodline power to me'.",
+    "Who knows the Seal of Nightmare-Shattering (885.0 'How do you know this technique?') and why Xiao Yan knows about the Nightmare Mist is not explained.",
+    "1223.7 the speaker for the Stone Clan is not named; 1231.8 'And us too' is another group.",
+    "Who 'the Hall Master' (1244.4) is: Hun Miesheng, Hall Master of the Hall of Souls."
+  ]
+}

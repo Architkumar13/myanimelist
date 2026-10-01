@@ -1,0 +1,121 @@
+{
+  "ep": 122,
+  "title": "The Siege of the Mite'er Family",
+  "summary": "Inside the Misty Cloud Sect, a Hall of Souls envoy has used secret techniques to raise the elders Yun Du and Yun Cha to Dou Huang. Yun Shan sends them to attack the Mite'er family and hunt down the Xiao Clan. Hai Bodong fights both Dou Huangs, Tengshan takes on the elders Yun Fu and Yun Xu, and Ya Fei and Xiao Ding guard the inner courtyard. The imperial family and the Nalan Clan refuse to help, and Jia Xing Tian holds Yao Ye back from intervening. Hai Bodong is about to fall when a figure of flame saves him. It is Xiao Yan, who announces that he has come to collect the Xiao Clan's debt from the Misty Cloud Sect.",
+  "events": [
+    "The Hall of Souls envoy boosts Yun Du and Yun Cha to Dou Huang",
+    "Yun Shan sends them against the Mite'er family",
+    "Xiao Ding offers to hand over part of the Xiao Clan; Hai Bodong refuses",
+    "Hai Bodong fights Yun Du and Yun Cha; Tengshan faces Yun Fu and Yun Xu",
+    "Jia Xing Tian and the Nalan Clan choose to wait",
+    "Ya Fei and Xiao Ding hold the inner courtyard",
+    "A flame figure saves Hai Bodong: Xiao Yan has returned"
+  ],
+  "introduced": [
+    "Yun Du",
+    "Yun Cha",
+    "Yun Fu",
+    "Yun Xu",
+    "Soul Shrine (name used here for the Hall of Souls)",
+    "Qi Breaking Arrows",
+    "Wind's Peak, Killer Meteorite",
+    "Thousand Flower Ice Mirror",
+    "Mysterious Ice Dragon's Soar"
+  ],
+  "cultivation": "Yun Du and Yun Cha have reached Dou Huang through Hall of Souls secret techniques; Hai Bodong finds their aura unstable. Yun Shan is a Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "protector-wu",
+      "name": "Protector Wu",
+      "first": true,
+      "card": 62.0
+    },
+    {
+      "id": "yun-shan",
+      "name": "Yun Shan",
+      "realm": "Dou Zong",
+      "quote": "Yun Shan is now a Dou Zong.",
+      "first": false
+    },
+    {
+      "id": "yun-du",
+      "name": "Yun Du",
+      "realm": "Dou Huang",
+      "quote": "Yun Du and Yun Cha have actually advanced to the Dou Huang level.",
+      "first": true,
+      "card": 86.7
+    },
+    {
+      "id": "yun-cha",
+      "name": "Yun Cha",
+      "realm": "Dou Huang",
+      "quote": "Yun Du and Yun Cha have actually advanced to the Dou Huang level.",
+      "first": true,
+      "card": 86.7
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "first": false
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "first": false
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "first": false
+    },
+    {
+      "id": "tengshan",
+      "name": "Tengshan",
+      "first": false
+    },
+    {
+      "id": "yun-fu",
+      "name": "Yun Fu",
+      "first": true,
+      "card": 459.1
+    },
+    {
+      "id": "yun-xu",
+      "name": "Yun Xu",
+      "first": true,
+      "card": 459.1
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "first": false
+    },
+    {
+      "id": "yao-ye",
+      "name": "Yao Ye",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "head of the Nalan Clan",
+      "first": false
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The Hall of Souls man (62-130s) is not named here; he is named Protector Wu in EP125.",
+    "535-568s: Jia Xing Tian is only 'Great-grandfather' here; named as Mr. Jia / Jia Xing Tian in EP124.",
+    "571-587s: the Nalan elder who thinks of Yanran is unnamed ('Father').",
+    "256.6-269.8: the man offering to hand over half the clan is read as Xiao Ding (Hai Bodong thinks 'such talent in the Xiao Clan').",
+    "662.3 'Mysterious Ice Dragon's Soar!': user not clear (Hai Bodong or Xiao Ding). 518.6 'Wind's Peak, Killer Meteorite!' read as a Misty Cloud skill, 'Thousand Flower Ice Mirror!' as Hai Bodong's.",
+    "731.6 'Yun Cha and Yun' is a cut line (Yun Cha and Yun Du).",
+    "776.2 'First Elder!': whom it addresses is unclear.",
+    "ep123.en.srt 0-7.6 ('What? That is...') is counted here."
+  ]
+}

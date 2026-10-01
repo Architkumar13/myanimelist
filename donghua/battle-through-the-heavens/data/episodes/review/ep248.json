@@ -1,0 +1,85 @@
+{
+  "ep": 248,
+  "title": "North Dragon Island's envoy",
+  "summary": "Xiao Yan comes out of Demonic Saint Huang Quan's stone tablet unhurt, then catches an envoy from North Dragon Island at the pythons' border. The envoy admits that the North, West and South Dragon Islands have joined against East Dragon Island, where a new Dragon Emperor has risen. The Northern Dragon King sent him with Ancient Celestial Serpent essence blood to win over the pythons, and the Heaven Demon Phoenix Tribe has been asked to join too. Xiao Yan shares Huang Quan's essence blood with everyone and keeps a drop for Yao Lao. He tells Yao Ming the new Dragon Emperor is Zi Yan and asks him to stay out of the war, but Yao Ming offers to fight beside him. They plan to ambush the Heaven Demon Phoenix Tribe. Medusa stays to cultivate in the Nine Serene Spring, and Xiao Yan gives her a ninth-tier pill before he leaves.",
+  "events": [
+    "Xiao Yan leaves the stone tablet with Huang Quan's inheritance.",
+    "He senses Void Ancient Dragons and wonders whether Zi Yan is in trouble.",
+    "He captures an envoy from North Dragon Island and makes him talk.",
+    "The envoy reveals the three Dragon Islands' war on East Dragon Island and the phoenix alliance.",
+    "Yao Ming reorganises the tribe and recalls the Rock Scale and Green Leaf Python tribes.",
+    "Xiao Yan shares the essence blood and learns Yao Ming had been offered a dragon alliance.",
+    "Yao Ming agrees to help Xiao Yan stop the Heaven Demon Phoenix Tribe.",
+    "Medusa starts cultivating in the spring; Xiao Yan gives her the Bodhi Great Elixir."
+  ],
+  "introduced": [
+    "North Dragon Island envoy (a commander)",
+    "Ancient Celestial Serpent essence blood",
+    "Rock Scale Python tribe",
+    "Green Leaf Python tribe",
+    "Bodhi Great Elixir (ninth-tier pill)",
+    "Nine Serene Python Guards"
+  ],
+  "cultivation": "Yao Ming says he is now 'at the late stage of a two-star Dou Sheng' and expects to reach Three-Star within three years. Xiao Yan says the drop he keeps for Yao Lao should raise him to One-Star Dou Sheng.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ming",
+      "name": "Yao Ming",
+      "realm": "late-stage Two-Star Dou Sheng",
+      "quote": "I am now at the late stage of a two-star Dou Sheng.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": null,
+      "name": "North Dragon Island envoy",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 190.9
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "This file has no [Episode] card and its wording is rough, unlike EP245-247. The upload is titled 'EP 179' (Season 5 numbering: 69+179=248).",
+    "0-52s is a narrated recap of EP247.",
+    "Name slips: 'Yaoming', 'Brother Youyou', 'Demon Lord' and 'Demon Clan Chief' = Yao Ming; 'Colorful Scales' = Medusa (Cai Lin); 'Purple Lab', 'Ziyan' = Zi Yan; 'Beilong Island' = North Dragon Island; 'Donglong Island', 'Tung Lung Island' = East Dragon Island; 'Taixu Ancient Dragon Clan', 'Ancient Dragon of the Void' = Void Ancient Dragons; 'Heavenly (Demon) Phoenix Clan' = Heaven Demon Phoenix Tribe; 'Nine Netherworld (Wilderness) Python Clan' = Nine Serene Deep Ground Pythons; 'Mishima Alliance' = the three Dragon Islands; 'Wrath of the Yellow Springs/Underworld' = Yellow Spring Divine Anger.",
+    "Little Fairy Doctor and Qing Lin are not named; the companions are present in group scenes.",
+    "945.1 'Grade Nine Precious Pill, Bodhi Great Elixir' that 'can significantly increase the chance of becoming a demigod' (Ban Sheng). Name may be a machine translation.",
+    "612-620s: Yao Ming says even at late Two-Star he cannot cultivate the Yellow Spring Divine Anger (its condition is too high).",
+    "889.9 'We would also like to borrow the Nine Netherworlds': Medusa uses the spring to cultivate."
+  ]
+}

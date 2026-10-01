@@ -1,0 +1,102 @@
+{
+  "ep": 58,
+  "title": "Angry Buddha Lotus Flame",
+  "summary": "Xiao Yan's Angry Buddha Lotus Flame clashes with Nalan Yanran's Wind's Peak, Dazzling Sunset, and the sect raises shields against the blast. He takes to the air with Dou Qi wings, and a panicking Ge Ye shouts that Xiao Yan must be a Dou Huang. Xiao Yan wins and tells her the agreement is fulfilled and they will never cross paths again. Nalan Yanran tries to take her own life to save the sect's honour, and he stops her and sets them both free. As he leaves, First Elder Yun Leng accuses him of killing the sect's External Deacon Mo Cheng. Ge Ye testifies that the killer was a masked Dou Huang with a white flame. When Xiao Yan refuses to stay, three Dou Wang elders attack him, while Jia Xing Tian and Fa Ma decline to step in.",
+  "events": [
+    "The Angry Buddha Lotus Flame meets Wind's Peak, Dazzling Sunset; elders raise shields.",
+    "Xiao Yan flies on Dou Qi wings; Ge Ye claims he is a Dou Huang and is told to mind his place.",
+    "Xiao Yan wins; Nalan Yanran reflects that 'Yan Xiao' charmed her and she still would refuse the marriage.",
+    "She tries to kill herself for the sect's honour; Xiao Yan stops her and declares them free.",
+    "Yun Leng stops him and accuses him of killing External Deacon Mo Cheng; Ge Ye describes a masked Dou Huang with a white flame.",
+    "Xiao Yan refuses to be held; the Enforcer Squad and three Dou Wangs attack.",
+    "He uses his Heavenly Flame against Wind's Bind and the Wind-Flame-Wood Barrier.",
+    "Jia Xing Tian and Fa Ma choose to wait and watch."
+  ],
+  "introduced": [
+    "Wind's Peak, Dazzling Sunset",
+    "Mo Cheng (External Deacon of the Misty Cloud Sect, murdered)",
+    "Enforcer Squad",
+    "Wind's Bind",
+    "Wind-Flame-Wood Barrier",
+    "Flying Dou Skill"
+  ],
+  "cultivation": "Xiao Yan is a Da Dou Shi (\"He became a Da Dou Shi at such a young age\"). The three elders who attack him are Dou Wangs.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Da Dou Shi",
+      "quote": "He became a Da Dou Shi at such a young age.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-leng",
+      "name": "Yun Leng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ge-ye",
+      "name": "Ge Ye",
+      "realm": null,
+      "quote": "I'm saying Xiao Yan is Dou Huang!",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-jie",
+      "name": "Nalan Jie",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-229s is the end of EP57 (her trump card, the crowd realising Yan Xiao is Xiao Yan) and is not counted; the card is at 229.6.",
+    "The end of this episode is at the start of ep59.en.srt (0-37s).",
+    "427.5: Ge Ye's 'Xiao Yan is Dou Huang!' is a panicked claim and is not set as Xiao Yan's realm.",
+    "Ge Ye is called 'a deacon' (424.4) but was introduced as an elder in EP55.",
+    "Yun Leng is referred to with 'he/his' (789-792) and leads as First Elder.",
+    "392-396: the wings are first called Dou Qi Wings, then 'a Flying Dou Skill'; Xiao Yan is not a Dou Wang, so it is a skill (his Purple Cloud Wings, not named here).",
+    "Mo Cheng's death goes back to EP30-33; this episode only gives Ge Ye's account: two masked Dou Huangs, a white flame (850-925).",
+    "1012.9: 'three strong Dou Wangs'; only Yun Lei is named in EP59."
+  ]
+}

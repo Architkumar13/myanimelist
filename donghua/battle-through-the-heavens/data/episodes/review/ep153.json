@@ -1,0 +1,48 @@
+{
+  "ep": 153,
+  "title": "Into the Lava World",
+  "summary": "Xiao Yan knows the Extermination Fire Lotus is too risky to rely on and decides to grow stronger fast before he goes to the Central Plains. He studies the Six Joint Body Flowing Ruler, a Di Class Middle Ranked Dou Skill that still carries its creator's soul signature. Su Qian gives him the Flame Gathering Pot so he can split off Fallen Heart Flame essence and restart the Blazing Qi Refining Tower, and warns him that the lava world is not peaceful. In the lava world below the Inner Academy he feels a strange summons and trains the first level of the ruler, Splitting Fire. Following the pull of the Fallen Heart Flame, he dives deep and finds fire crystals guarded by Fire Lizard People. He fights the swarm with Octane Blast, hides from them, and finds himself looking at a Fallen Heart Flame.",
+  "events": [
+    "Xiao Yan decides to raise his strength before the Central Plains.",
+    "He studies the Six Joint Body Flowing Ruler scroll.",
+    "Su Qian gives him the Flame Gathering Pot and walks him to the bottom of the Blazing Qi Refining Tower.",
+    "In the lava world Xiao Yan practices Splitting Fire and feels a summons from below.",
+    "He dives deep and finds fire crystals.",
+    "Fire Lizard People swarm him; he fights them with Octane Blast.",
+    "He hides and sees a Fallen Heart Flame."
+  ],
+  "introduced": [
+    "Six Joint Body Flowing Ruler",
+    "Splitting Fire",
+    "Body Flowing Fire",
+    "Six Joint Fire",
+    "Flame Gathering Pot",
+    "lava world",
+    "Fire Lizard People",
+    "Octane Blast"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: moved the Old Ground Demon Ghost's death, the guardians' realm and the Demon Poison Spot examination to EP152; added the fight with the Fire Lizard People, Octane Blast and the sighting of the Fallen Heart Flame from EP154; Qian Mu and Bai Lie appear only in the recap and are out of the cast."
+  ],
+  "flags": [
+    "0-42s is the recap.",
+    "106-131s: the scroll carries a remnant soul signature of its creator; who made it is not said.",
+    "The Six Joint Body Flowing Ruler scroll's source is not stated in this episode.",
+    "734-769s: the fire crystals are compared to a Demon Core and taken as gathered by the Lizard People.",
+    "1022s: the episode ends as Xiao Yan sees the Fallen Heart Flame; EP154 shows it is a seed."
+  ]
+}

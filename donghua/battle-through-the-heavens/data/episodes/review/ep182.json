@@ -1,0 +1,107 @@
+{
+  "ep": 182,
+  "title": "The Sun Fire Ancient Altar",
+  "summary": "Xun Er learns that Xiao Yan is in Ye City and sets out with Elder Lin and Elder Yuan. At the Sun Fire Ancient Altar, Xiao Yan uses the Bodhisattva Body Transformation Saliva and his Heavenly Flame to draw the Little Fairy Doctor's poison into a Poison Pill. The saliva leaves a Bodhisattva Seed, and Xiao Yan also takes the Core Bead that had swallowed the altar's core heart fire seedlings. Meanwhile, the Hall of Souls offers an alliance to Bing Zun Zhe, master of the Ice River Valley. Tian Shuang Zi and Tian She lead Ice River men to the Ye Clan and demand the Woeful Poison Lady. Tian Huo Zun Zhe faces Tian Shuang Zi, Dou Zun against Dou Zun, and Protector Wu of the Hall of Souls attacks Xiao Yan. Xiao Yan uses all three changes of the Sky Fire Three Mysterious Changes against him.",
+  "events": [
+    "Xun Er's men report Xiao Yan's location, and she leaves for Ye City.",
+    "Ye Chong shows the group the Sun Fire Ancient Altar.",
+    "Tian She reports to the Ice River Valley master; the Hall of Souls proposes an alliance.",
+    "Xiao Yan compresses the Little Fairy Doctor's poison into a Poison Pill with the Bodhisattva saliva.",
+    "He finds the Bodhisattva Seed and the Core Bead.",
+    "Tian Shuang Zi and Tian She threaten the Ye Clan.",
+    "Protector Wu attacks Xiao Yan; Tian Huo Zun Zhe faces Tian Shuang Zi.",
+    "Xiao Yan uses the Green Lotus Change, the Luminous Jadeite Change and the Third Change."
+  ],
+  "introduced": [
+    "Elder Lin",
+    "Elder Yuan",
+    "Sun Flame",
+    "core heart fire seedlings",
+    "Tian Shuang Zi",
+    "Bing Zun Zhe",
+    "Poison Pill",
+    "Bodhisattva Seed",
+    "Core Bead",
+    "Green Lotus Change"
+  ],
+  "cultivation": "Xiao Yan is a Two-Star Dou Zong. Tian Shuang Zi is a Dou Zun. The Sky Fire Three Mysterious Changes can raise him by nearly three stars.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false,
+      "card": 62
+    },
+    {
+      "id": "elder-lin",
+      "name": "Elder Lin",
+      "first": true,
+      "card": 82
+    },
+    {
+      "id": "elder-yuan",
+      "name": "Elder Yuan",
+      "first": true,
+      "card": 82
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "2-star Dou Zong",
+      "quote": "You're just a Two-Star Dou Zong,",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "ye-chong",
+      "name": "Ye Chong",
+      "first": false
+    },
+    {
+      "id": "tian-she",
+      "name": "Tian She",
+      "first": false
+    },
+    {
+      "id": "bing-he",
+      "name": "Bing He",
+      "first": true,
+      "card": 203
+    },
+    {
+      "id": "tian-shuang-zi",
+      "name": "Tian Shuang Zi",
+      "realm": "Dou Zun",
+      "quote": "We are both strong Dou Zun, / but I don't know your name yet.",
+      "first": true,
+      "card": 205
+    },
+    {
+      "id": "protector-wu",
+      "name": "Protector Wu",
+      "first": false,
+      "card": 817
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Opening narration 16-45s is a recap of EP181.",
+    "57-101s: the 'Young Lady' is not named here; she is taken as Xun Er (EP184 name card [Xiao Xun Er]).",
+    "203-205s: Tian She says 'Chief. Elder Tian Shuang.' The chief is taken as the valley master, addressed as 'Bing Zun Zhe' at 254s and named Bing He in EP184 (300s).",
+    "254-298s: the Hall of Souls envoy is not named; taken as Protector Wu, who appears at 813s.",
+    "604-608s: 'That is insane, Master. Are you making this up?' / 'Brat. How rude.' is Xiao Yan teasing Tian Huo Zun Zhe; the 'Master' is odd but not taken as a new relationship.",
+    "702s: 'Tian Shuang Zi and Tian She' are called two elders of the Ice River Valley.",
+    "941-943s: all three changes 'can increase his strength by nearly three stars'.",
+    "The file ends at the Third Change (1025s); its effect opens EP183."
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "ep": 263,
+  "title": "The Demon Saint's farewell",
+  "summary": "The remnant of the Pure Lotus Demon Saint, which entered Xiao Yan's body when he gathered the map fragments, uses it to fight the Purifying Demonic Lotus Flame. He made the Refining Heaven Ancient Array himself and turns it against the flame, and everyone else flees the space before the flame erupts. Xun Er defies Gu Nanhai and the Gu Clan's rules and goes back to stay with Xiao Yan. The Demon Saint says he gave the flame its mind long ago and sealed it to calm its violence, then severs its memories and mind and vanishes with it as it begs for mercy. The Demon Flame's origin is left pure as a newborn, and with the space closed, Xiao Yan decides to refine it there with Xun Er. Outside, Zi Yan tells Gu Nanhai that the Dragon Seal is calm, so Xiao Yan must be alive. Inside a Flamefrost Grand Array, Xiao Yan refines the flame with the Flame Mantra and nearly dies until Xun Er joins in to help.",
+  "events": [
+    "The Pure Lotus Demon Saint fights the Demon Flame in Xiao Yan's body.",
+    "Everyone flees the Demon Flame space.",
+    "Xun Er leaves Gu Nanhai and goes back to Xiao Yan.",
+    "The Demon Saint erases the flame's mind and vanishes with it.",
+    "Xiao Yan decides to refine the pure Demon Flame origin inside the closed space.",
+    "Outside, the Gu Clan and the Hall of Souls count their losses; Zi Yan sends Gu Nanhai home.",
+    "Xiao Yan refines the flame inside the Flamefrost Grand Array with the Flame Mantra.",
+    "Xun Er joins in to help him refine it."
+  ],
+  "introduced": [
+    "Jing Lian Yao Saint (the Pure Lotus Demon Saint's name in this track)",
+    "Demon Flame, World Annihilation",
+    "Demon Flame origin",
+    "Flamefrost Grand Array",
+    "Dragon Seal (Zi Yan's link to Xiao Yan)"
+  ],
+  "cultivation": "No change for Xiao Yan. The recap at the start calls Hun Miesheng and Old Demon Hun (the Soul Demon Elder) five-star Dou Sheng and the Pill Tower Ancestor a six-star Dou Sheng.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null,
+      "look": "taken over by the Pure Lotus Demon Saint"
+    },
+    {
+      "id": "pure-lotus-demon-saint",
+      "name": "Pure Lotus Demon Saint",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "purifying-demonic-lotus-flame",
+      "name": "Purifying Demonic Lotus Flame",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "gu-nanhai",
+      "name": "Gu Nanhai",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Different, cleaner translation from EP260-262. The file opens with an '(Episode 194)' card (the channel's numbering) and a recap of EP262 (0-42s); the ending song starts at 967.8.",
+    "This track calls the Demon Saint 'Jing Lian Yao Saint' and Dou Di 'Fight God' (59.5).",
+    "255.5-301.4: the elder who begs Xun Er to leave is called 'Elder Gu' at 748.6; read as Gu Nanhai.",
+    "708.1-721.4: the speakers mocking each other (the Gu Clan's loss, the Hall Master answering to the Clan Chief) are not named.",
+    "Who set up the Flamefrost Grand Array (791.3) is not said; probably Xun Er."
+  ]
+}

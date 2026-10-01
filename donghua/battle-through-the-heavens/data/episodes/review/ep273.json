@@ -1,0 +1,80 @@
+{
+  "ep": 273,
+  "title": "Taming the Nine Profound Golden Thunder",
+  "summary": "Deep in the Void Thunder Pool, Xiao Yan and Xiao Yi find the Nine Profound Golden Thunder, the pill lightning of ninth-grade golden pills, whose sleeping aura matches a Seven-Star Dou Sheng. A fight with Black Demon Serpents wakes it, and the Northern King Puppet cannot stop it. Xiao Yan sees it is trying to gain a mind and that its own power is tearing it apart and killing its kin. He offers help instead of taking its power by force, and Xiao Yi absorbs the excess power, which also strengthens Xiao Yan. The thunder becomes the only Nine Profound Golden Thunder with a mind. After two months away, Xiao Yan, now at late Five-Star Dou Sheng, returns to Dragon Island, where Zi Yan gives him the Void Ancient Dragons' alliance contract. Back at the Sky Mansion Alliance, Yao Lao says the Hall of Souls has pulled back all its branch halls, that the Medicine Clan's Pill Gathering is a month away, and that he wants to carve his late parents' names on the clan monument there.",
+  "events": [
+    "Xiao Yan finds the sleeping Nine Profound Golden Thunder.",
+    "A fight with Black Demon Serpents wakes it.",
+    "He sees it is trying to gain a mind and is being torn apart by its power.",
+    "Xiao Yi absorbs its excess power, and the thunder gains a mind.",
+    "Xiao Yan returns to Dragon Island at late Five-Star Dou Sheng.",
+    "Zi Yan gives him the Void Ancient Dragons' alliance contract for Yao Lao.",
+    "Back at the Alliance, Yao Lao explains the Pill Gathering and his parents' wish."
+  ],
+  "introduced": [
+    "Black Demon Serpents",
+    "Void Ancient Dragons' alliance contract",
+    "Medicine Clan clan monument"
+  ],
+  "cultivation": "Xiao Yan reaches late Five-Star Dou Sheng ('You've gotten stronger again' / 'Just late Five-Star Dou Saint', 872.5-874.0), helped by the Nine Profound Golden Thunder's power. The thunder's aura 'rivals a Seven-Star Dou Saint'. Medusa 'leveled up too' (990.5).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "late Five-Star Dou Sheng",
+      "quote": "Just late Five-Star Dou Saint",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-yi",
+      "name": "Xiao Yi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nine-profound-golden-thunder",
+      "name": "Nine Profound Golden Thunder",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "No official track; reviewed from OCR of the burned-in English. 169-207s is a recap of EP272.",
+    "OCR names mapped: 'Dou Saint' = Dou Sheng; 'Soul Palace' = Hall of Souls; 'Tianfu Alliance' = Sky Mansion Alliance; 'Black Demon Thunder' = Black Demon Lightning; 'Cai Lin' = Medusa; 'Medicine Gathering' = Pill Gathering; 'Elder Yao' = Yao Lao.",
+    "1008.0 'I sent Xian and Qing Ling to the Nine Nether Deep Ground Python Clan': read as Feng Xian and Qing Lin; not added to cast.",
+    "520.5 'No wonder the Bodhi Ancient Tree can't form sentience' compares the thunder to the Bodhisattva Ancient Tree.",
+    "Who says 'Your power is the greatest obstacle ... I'll help you gather spirit' (603-614s): Xiao Yan by context.",
+    "The Northern King Puppet takes part but is not a cast entry."
+  ]
+}

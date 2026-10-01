@@ -1,0 +1,101 @@
+{
+  "ep": 247,
+  "title": "The trial of Demonic Saint Huang Quan",
+  "summary": "Yao Ming is chief of the Nine Serene Deep Ground Pythons again, and Xiao Yan has the Spring Blood Crystal. Yao Ming shows him the secret stone tablet of Demonic Saint Huang Quan, an ancient Yellow Spring Great Saint who nearly became a Dou Di. Only a soul in the Heavenly Realm can enter it, so Yao Ming asks Xiao Yan to go in, offering to share the saint's essence blood and three Tian Class Dou Skills. Inside, Xiao Yan faces the Yellow Spring Finger, the Yellow Spring Palm and finally the saint's remnant, a peak Nine-Star Dou Sheng. He survives the Yellow Spring Divine Anger by forcing out his Heavenly Flame and drawing on the Bodhisattva Heart. Huang Quan accepts him and gives him his essence blood and inheritance. He asks Xiao Yan to find what he lacked to become a Dou Di.",
+  "events": [
+    "Yao Ming takes back control and keeps Elders Ming, Xian and Liu close.",
+    "Xiao Yan confirms he has the Spring Blood Crystal; Yao Ming calls him a friend.",
+    "A flashback shows young Yao Ming and Yao Xiaotian racing as brothers.",
+    "Yao Ming reveals Demonic Saint Huang Quan's stone tablet and its secrets.",
+    "He offers essence blood and three Tian Class Dou Skills if Xiao Yan opens it.",
+    "Inside the tablet Xiao Yan fights through the Yellow Spring Finger and Yellow Spring Palm.",
+    "Huang Quan's remnant attacks him with the Yellow Spring Divine Anger.",
+    "Xiao Yan endures it and receives the saint's essence blood and inheritance."
+  ],
+  "introduced": [
+    "Demonic Saint Huang Quan (Yellow Spring Great Saint)",
+    "stone tablet of Demonic Saint Huang Quan",
+    "Yellow Spring Palm (Tian Class Medium Rank)",
+    "Yellow Spring Divine Anger (Tian Class High Rank; Huang Quan's ultimate technique)",
+    "Yellow Spring Anger",
+    "essence blood",
+    "Emperor Realm (soul realm above the Heavenly Realm)"
+  ],
+  "cultivation": "Huang Quan's remnant is a 'peak Nine-Star Dou Sheng' (name card) and says he had reached the Emperor Realm of the soul. He calls Xiao Yan's soul 'Late-stage Heavenly Realm'. No Dou Qi change for Xiao Yan.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": "Late-stage Heavenly Realm. (soul realm, said by Huang Quan)",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ming",
+      "name": "Yao Ming",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "elder-ming",
+      "name": "Elder Ming",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-xiaotian",
+      "name": "Yao Xiaotian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null,
+      "look": "young, in a flashback"
+    },
+    {
+      "id": "demonic-saint-huang-quan",
+      "name": "Demonic Saint Huang Quan",
+      "realm": "peak Nine-Star Dou Sheng",
+      "quote": "[Demonic Saint Huang Quan, peak Nine-Star Dou Sheng]",
+      "first": true,
+      "card": 636.2
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-43s is a narrated recap of EP246.",
+    "Little Fairy Doctor and Qing Lin are not named here; 'Are you all right?' at 112.2 is to the companions.",
+    "173-190s is a flashback of the brothers when young.",
+    "Huang Quan's 'Emperor Realm' (660.1) is a soul realm, not Dou Di; Xiao Yan notes no one on the Dou Qi Continent has reached it.",
+    "949.7 'Bodhisattva Heart. A hundred times of reincarnation.' Huang Quan names what let Xiao Yan survive; this is the Bodhisattva Heart from the earlier Bodhisattva Ancient Tree story."
+  ]
+}

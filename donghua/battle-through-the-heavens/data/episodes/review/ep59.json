@@ -1,0 +1,102 @@
+{
+  "ep": 59,
+  "title": "Hai Bodong Steps In",
+  "summary": "Hai Bodong joins the fight to protect Xiao Yan from the Misty Cloud Sect. He meets Yun Leng again for the first time in years, but Yun Leng refuses to let the suspect in Mo Cheng's death go. The sect casts the Misty Cloud Formation, and Yun Lei and two other Dou Wangs hold Hai Bodong back with a fusion Dou Skill. Cornered, Xiao Yan wakes the Heaven Swallowing Python, which the sect takes for a Rank Five Magical Beast as strong as a Dou Wang. Hai Bodong breaks free with Mysterious Ice Dragon's Soar, and Xiao Yan wounds Yun Leng with Flame Splitting Tsunami. Furious, Yun Leng orders the whole sect to cast the Covering Sun Cloud Formation against them.",
+  "events": [
+    "Hai Bodong blocks an attack on Xiao Yan; onlookers are surprised he is alive.",
+    "Hai Bodong and Yun Leng speak of old times; Yun Leng refuses to release Xiao Yan.",
+    "Deacons cast the Misty Cloud Formation; Yun Lei and two others pin Hai Bodong.",
+    "Xiao Yan releases the Heaven Swallowing Python ('little one') to stop an elder.",
+    "Hai Bodong uses Ice Dou Qi and Mysterious Ice Dragon's Soar to break out.",
+    "Xiao Yan hits Yun Leng with Flame Splitting Tsunami, wounding him.",
+    "Yun Leng orders the Covering Sun Cloud Formation."
+  ],
+  "introduced": [
+    "Yun Lei (Misty Cloud Sect Dou Wang)",
+    "Misty Cloud Formation",
+    "Fusion Dou Skill",
+    "Wind Shield",
+    "Black Rock Shield",
+    "Mysterious Ice Dragon's Soar",
+    "Flame Splitting Tsunami",
+    "Rank Five Magical Beast",
+    "Di Class (Dou Skill rank)"
+  ],
+  "cultivation": "The Heaven Swallowing Python is called \"a Rank Five Magical Beast that's as strong as a strong Dou Wang\". Onlookers rate Flame Splitting Tsunami \"at least the Di Class\".",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-leng",
+      "name": "Yun Leng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-lei",
+      "name": "Yun Lei",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 259.2
+    },
+    {
+      "id": "heaven-swallowing-python",
+      "name": "Heaven Swallowing Python",
+      "realm": "Rank Five Magical Beast, as strong as a strong Dou Wang",
+      "quote": "a Rank Five Magical Beast that's as strong as a strong Dou Wang",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-37s is the end of EP58 and is not counted; the card is at 37.0.",
+    "The end of this episode is at the start of ep60.en.srt (0-155s): the formation's attack, Hai Bodong's Thousand Flower Ice Mirror, and a hidden protector shaming the sect.",
+    "Hai Bodong says Yun Leng 'had just become one of the elders' when they last met (176-178).",
+    "Yun Lei is only named once (259.2), as one of the Dou Wangs sent at Hai Bodong.",
+    "The python is called 'little one'; it is not named in this episode.",
+    "'Flame Splitting... Tsunami' is split over two lines (815.4, 821.6)."
+  ]
+}

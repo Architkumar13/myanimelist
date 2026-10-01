@@ -1,0 +1,106 @@
+{
+  "ep": 149,
+  "title": "A Heart Flame for Xiao Li",
+  "summary": "Xiao Yan swallows the Life Transforming Flame and kills Fang Yan and his two brothers. Mo Ya and Qi Shan try to take Zi Yan hostage, and she beats them. Xiao Yan forms the Three-Colored Angry Buddha Lotus Flame, Mo Tian Xing pulls the Black Emperor Sect out, and Han Feng flees with a threat about the Old Ground Demon Ghost. Su Qian says the Old Ground Demon Ghost founded Demon Flame Valley and is a Five-Star or Six-Star Dou Zong. Xiao Li gives Xiao Yan the Six Joint Body Flowing Ruler, and Xiao Yan plants a seed of Heart Flame in Xiao Li with the Fallen Heart Flame. Old Ying Shan had hidden his soul in the saliva, and Su Qian traps his clone. He gives up the Bodhisattva Body Transformation Saliva.",
+  "events": [
+    "Xiao Yan swallows the Life Transforming Flame and kills Fang Yan and his brothers",
+    "Zi Yan fights off Mo Ya and Qi Shan",
+    "The Angry Buddha Lotus Flame drives off Mo Tian Xing and Han Feng",
+    "Su Qian explains who the Old Ground Demon Ghost is",
+    "Xiao Li gives Xiao Yan the Six Joint Body Flowing Ruler",
+    "Xiao Yan plants a seed of Heart Flame in Xiao Li",
+    "Su Qian corners Old Ying Shan's soul clone and he gives up the saliva"
+  ],
+  "introduced": [
+    "Old Ground Demon Ghost (founder of Demon Flame Valley; named only)",
+    "Sea Heart Flame (Han Feng's lost flame)",
+    "Three-Colored Angry Buddha Lotus Flame",
+    "seed of Heart Flame"
+  ],
+  "cultivation": "Xiao Yan is called a Four-Star Dou Huang. Xiao Li is 'the strongest Dou Wang'. The Old Ground Demon Ghost is said to be a Five-Star or Six-Star Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "4-star Dou Huang",
+      "quote": "A Four-Star Dou Huang actually managed to kill a Half-Step Dou Zong and two strongest Dou Huang at the same time.",
+      "first": false,
+      "card": 33
+    },
+    {
+      "id": "fang-yan",
+      "name": "Fang Yan",
+      "first": false,
+      "card": 33
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "first": false,
+      "card": 168
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false,
+      "card": 175
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false,
+      "card": 196
+    },
+    {
+      "id": "mo-ya",
+      "name": "Mo Ya",
+      "first": false,
+      "card": 230
+    },
+    {
+      "id": "qi-shan",
+      "name": "Qi Shan",
+      "first": false,
+      "card": 550
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false,
+      "card": 282
+    },
+    {
+      "id": "mo-tian-xing",
+      "name": "Mo Tian Xing",
+      "first": false,
+      "card": 398
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "realm": "Dou Wang (peak)",
+      "quote": "Li, you're the strongest Dou Wang now, right?",
+      "first": false,
+      "card": 720
+    },
+    {
+      "id": "old-ying-shan",
+      "name": "Old Ying Shan",
+      "first": false,
+      "card": 915
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-100s, before the [Episode 149] card, end ep148's flame fight; the recap runs 110-157s.",
+    "224s: 'A Four-Star Dou Huang' is Qi Shan (or Mo Ya) about Xiao Yan. ep142 had him at peak Two-Star; no breakthrough is shown in between. ep154 has him at Six-Star.",
+    "746s: 'the strongest Dou Wang' is read as peak Dou Wang; no star is given.",
+    "175-179s: Han Feng says that without losing the Sea Heart Flame he could have killed 'Old geezer' (Su Qian) easily.",
+    "194-199s: '(Fang Yan's aura has disappeared ... this female Dou Zong)' is an enemy's thought, probably Han Feng's.",
+    "266-279s: 'My pill... Give me back my pill!' Zi Yan's pill is grabbed in the scuffle; the details are not clear.",
+    "752s: once Xiao Li reaches Dou Huang he can fully resolve the Life Devouring Pill.",
+    "893-896s: 'Chief Xiao. Thanks for escorting me along the way.' is Old Ying Shan's clone parting from the group.",
+    "678s: Su Qian's estimate of the Old Ground Demon Ghost (Five- or Six-Star) is lower than the Seven-Star stated in ep151."
+  ]
+}

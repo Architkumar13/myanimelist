@@ -1,0 +1,74 @@
+{
+  "ep": 125,
+  "title": "Ten Moves at the Wedding",
+  "summary": "On the wedding day, Yun Shan promises Gu He the sect's future, while privately telling Protector Wu of the Hall of Souls he may take Gu He's soul afterwards. Protector Wu reminds Yun Shan that the Hall of Souls saved his life and gave him Dou Zong strength. As Yun Yun and Gu He bow, Xiao Yan stops the ceremony, backed by Jia Xing Tian and the capital's powers. To keep Gu He out of the fight, Xiao Yan challenges him to ten moves. Gu He uses the Purple Flame and his Thousand Flame Sword Blades, and Yun Shan thinks Xiao Yan is bluffing. On the tenth move Gu He loses, calls off the wedding and leaves. Yun Shan says Xiao Yan's father is with the Hall of Souls and orders his disciples to kill the intruders.",
+  "events": [
+    "Yun Shan courts Gu He and promises his soul to Protector Wu",
+    "The wedding of Yun Yun and Gu He begins",
+    "Xiao Yan stops it with Jia Xing Tian and the capital's powers",
+    "Xiao Yan and Gu He agree to a ten-move duel",
+    "Gu He fights with the Purple Flame and Thousand Flame Sword Blades",
+    "Gu He loses on the tenth move, calls off the wedding and leaves",
+    "Yun Shan confirms the Hall of Souls holds Xiao Zhan and the battle begins"
+  ],
+  "introduced": [
+    "Protector Wu (named)",
+    "Purple Flame",
+    "Thousand Flame Sword Blades",
+    "Lion Tiger Gold Shattering Roar",
+    "Sky Fire Three Mysterious Changes",
+    "Luminous Jadeite Change"
+  ],
+  "cultivation": "Yun Shan is a Dou Zong, made so by the Hall of Souls. Gu He is a sixth-tier alchemist. Xiao Yan fights at Dou Huang strength but has not broken through.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "yun-shan",
+      "name": "Yun Shan",
+      "realm": "Dou Zong",
+      "quote": "You are a strong Dou Zong",
+      "first": false
+    },
+    {
+      "id": "gu-he",
+      "name": "Gu He",
+      "first": false
+    },
+    {
+      "id": "protector-wu",
+      "name": "Protector Wu",
+      "first": false,
+      "card": 310.7
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "first": false
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "first": false
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-89s of ep125.en.srt is the end of EP124.",
+    "ep126.en.srt 0-220s (Gu He's defeat and exit, Yun Shan's talk of the Hall of Souls, the start of his fight with Xiao Yan) is counted here.",
+    "827.7 '(With the Purple Flame's assistance, Gu He's strength is at least on par with a Four to Five-Star Dou Huang)': a comparison, not his stated rank.",
+    "867.7-878.5: Yun Shan's thoughts that Xiao Yan 'hasn't actually broken through' to Dou Huang.",
+    "924.1-932.7 'Show yourself!' / 'Lion Tiger Gold Shattering Roar!': who uses the skill is unclear.",
+    "ep126 215.4 'Sky Fire Three Mysterious Changes. Luminous Jadeite Change!' is Xiao Yan's (he uses it again in EP134).",
+    "The subtitles call the Hall of Souls the 'Soul Shrine' in 285-310s and 'Hall of Souls' in the EP126 recap."
+  ]
+}

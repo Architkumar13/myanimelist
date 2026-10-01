@@ -1,0 +1,99 @@
+{
+  "ep": 96,
+  "title": "The Attack on the Xiao Clan",
+  "summary": "Xiao Yan treats his brother Xiao Li all night at the Outer Academy with Xun Er, Xiao Yu and Ruo Lin. Xiao Li tells him the Misty Cloud Sect attacked the Xiao Clan at the Desert Metal Mercenary Company during a festival. A silhouette with a black iron chain dragged away clansmen and seemed to be searching for something. The clan's First Elder died, and Xiao Ding stayed behind to stall the attackers. Hai Bodong saved Xiao Ding, and the Mite'er family helped the survivors escape. Xun Er tells Xiao Yan the Hall of Souls, a mysterious Central Plains group that captures souls, is likely after the jade of Tuo She Gu Di, and that the Misty Cloud Sect is working with it. Healed and now a Da Dou Shi, Xiao Li leaves for the Black-Corner Region with pills and a ring holding a small Heavenly Flame.",
+  "events": [
+    "Xiao Li wakes after Xiao Yan treats him through the night.",
+    "Xiao Li tells of the Misty Cloud Sect ambush at the Desert Metal Mercenary Company.",
+    "A silhouette with a black iron chain drags clansmen away; the First Elder dies telling them to guard the family jade.",
+    "Xiao Ding stays behind; Hai Bodong saves him, and the Mite'er family hides the survivors.",
+    "Xiao Yu learns her father lost an arm.",
+    "Xun Er explains the Hall of Souls and its link to the jade of Tuo She Gu Di.",
+    "Xiao Li breaks through to Da Dou Shi and sets off for the Black-Corner Region with Xiao Yan's ring and Xun Er's lightning skills.",
+    "With 25 days left before the Strong Ranking Competition, Xiao Yan starts accepting public duels."
+  ],
+  "introduced": [
+    "Desert Metal Mercenary Company (as the Xiao Clan's refuge)",
+    "the silhouette with the black iron chain (Hall of Souls)",
+    "Hall of Souls (explained by Xun Er)",
+    "Mite'er family",
+    "Xiao Clan First Elder (killed)"
+  ],
+  "cultivation": "Xiao Li breaks through and becomes a Da Dou Shi.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "realm": "Da Dou Shi",
+      "quote": "You have broken through and become a Da Dou Shi.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-yu",
+      "name": "Xiao Yu",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ruo-lin",
+      "name": "Ruo Lin",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hall-of-souls-chain-man",
+      "name": "silhouette with the black iron chain",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file starts at the [Episode 96] card (0.0); nothing from EP95 is in it.",
+    "500-509s: someone asks Xiao Li 'Are my parents all right?' and is told 'your father lost one of his arms'. It reads as Xiao Yu asking about her own parents, since Xiao Zhan is missing; the speaker is not shown in the text.",
+    "Xiao Li: 'The Black-Corner Region is indeed the most dangerous place in the Central Plains' (709.6). Elsewhere the region is near Jia Nan Academy, not in the Central Plains; likely a translation slip.",
+    "Hai Bodong is called 'Mr. Hai' (453.9, 470.8); he appears in Xiao Li's flashback.",
+    "Xiao Yan says he once met a man from the Hall of Souls; that earlier meeting is not shown here.",
+    "Xiao Yan's ring for Xiao Li holds 'a tiny Heavenly Flame' (782.6); it isn't named."
+  ]
+}

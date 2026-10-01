@@ -1,0 +1,76 @@
+{
+  "ep": 224,
+  "title": "Xiao Xuan",
+  "summary": "Saint Xue Dao lets Xiao Yan's group go once he sees the Xiao Clan's clan mark, fearing someone more powerful in the tomb. Xun Er tells Xiao Yan the mark appears on his face when his aura surges. On the way to Xiao Xuan's tomb, the Hun pair pull them into a separate space made by two Hun Clan Dou Sheng energy bodies, one of them Hun Diao. Xue Dao steps in to help, and then an image of Xiao Xuan appears and wipes out the two 1-star Dou Shengs. Xiao Xuan greets Xiao Yan and lets the Gu youths train at the richest spot in the tomb. He tells Xiao Yan and Xun Er that he drew the whole clan's bloodline into himself to become a Dou Di, failed, and was then struck down by the Hun Clan. He also says he created the Sky Fire Three Mysterious Changes, and that he sealed part of his power in the last of the bloodline for Xiao Yan.",
+  "events": [
+    "Xue Dao spares the group and points them west.",
+    "Xun Er explains the Xiao Clan's clan mark.",
+    "Hun Diao and another Hun Clan Dou Sheng energy body trap them in a separate space.",
+    "Xue Dao helps fight the Hun energy bodies.",
+    "An image of Xiao Xuan appears and destroys them.",
+    "Xiao Xuan welcomes Xiao Yan and Xun Er.",
+    "Xiao Xuan tells how he failed to become a Dou Di and the clan fell.",
+    "He reveals he created the Sky Fire Three Mysterious Changes."
+  ],
+  "introduced": [
+    "Hun Diao",
+    "Xiao Xuan (on screen)"
+  ],
+  "cultivation": "Xiao Xuan calls the two Hun Clan energy bodies 'Two One-Star Dou Shengs'. Xiao Xuan's image is a projection; the tomb lets his real form out only once every ten years.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false
+    },
+    {
+      "id": "xue-dao",
+      "name": "Xue Dao",
+      "first": false
+    },
+    {
+      "id": "gu-qing-yang",
+      "name": "Gu Qing Yang",
+      "first": false
+    },
+    {
+      "id": "hun-ya",
+      "name": "Hun Ya",
+      "first": false
+    },
+    {
+      "id": "hun-li",
+      "name": "Hun Li",
+      "first": false
+    },
+    {
+      "id": "hun-diao",
+      "name": "Hun Diao",
+      "realm": "1-star Dou Sheng",
+      "quote": "Two One-Star Dou Shengs / have no right to be yapping at me.",
+      "first": true,
+      "card": 325.1
+    },
+    {
+      "id": "xiao-xuan",
+      "name": "Xiao Xuan",
+      "first": true,
+      "card": 625.6
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10-47s: narration and recap.",
+    "325.1s: only one of the two Hun Clan Dou Sheng energy bodies is named (Hun Diao); the 1-star Dou Sheng realm is said of both together.",
+    "Sky Fire Three Mysterious Changes: earlier episodes call it a Burning Flame Valley technique; here Xiao Xuan says he created it, and Xiao Yan recalls 'Chief Tang' mentioning a Xiao Xuan (1036s).",
+    "599-720s: song lyrics over the fight.",
+    "1039-1043s: Xiao Xuan says Xiao Yan's Sky Fire Three Mysterious Changes is one step from complete, so he can't unleash the true clan mark.",
+    "Xiao Xuan's ghost appears as an image; 'first' is set true for his on-screen appearance (he is named from EP217)."
+  ]
+}

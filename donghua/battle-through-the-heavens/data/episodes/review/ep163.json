@@ -1,0 +1,83 @@
+{
+  "ep": 163,
+  "title": "The Three Thousand Lightning Illusionary Body",
+  "summary": "Xiao Yan holds Hong Li hostage against the Hong Clan elder Hong Tian Xiao, then lets him go with a Dark Energy hidden in his body, which keeps Hong Tian Xiao busy. He escapes with Shen Yun's storage ring, breaks its Spiritual Seal, and finds part of the Three Thousand Lightning Illusionary Body, the Wind Lightning Pavilion's treasure technique for making a lightning clone. Shen Yun tracks him through a Blood Lightning Seal and corners him in the mountains with Hong Tian Xiao and Hong Clan men. The Earth Demon Puppet takes Hong Tian Xiao, and Tian Huo Zun Zhe wakes and lends Xiao Yan his power, so his aura reads as at least Eight-Star Dou Zong. Watching in secret, the Han family's grandfather Han Fei refuses Han Xue's plea to help openly, because the Han family cannot afford to anger the Wind Lightning Pavilion. Shen Yun and the Hong Clan flee, but Xiao Yan runs Shen Yun down, and the cornered elder blows himself up. Xiao Yan escapes the blast with Spatial Strength.",
+  "events": [
+    "Xiao Yan holds Hong Li hostage against Hong Tian Xiao.",
+    "He lets Hong Li go with a Dark Energy planted inside him and flees with Shen Yun's storage ring.",
+    "Xiao Yan breaks the ring's Spiritual Seal and finds part of the Three Thousand Lightning Illusionary Body.",
+    "Shen Yun follows the Blood Lightning Seal and corners Xiao Yan with Hong Tian Xiao.",
+    "The Earth Demon Puppet takes on Hong Tian Xiao.",
+    "Tian Huo Zun Zhe lends Xiao Yan his power and Xiao Yan overwhelms Shen Yun.",
+    "Han Fei watches with his granddaughters but will help only in secret.",
+    "Shen Yun flees, is caught and self-destructs; Xiao Yan escapes with Spatial Strength."
+  ],
+  "introduced": [
+    "Dark Energy",
+    "Spiritual Seal",
+    "Blood Lightning Seal",
+    "lightning pond",
+    "Han Fei"
+  ],
+  "cultivation": "With Tian Huo Zun Zhe's power, Xiao Yan's aura reads as at least Eight-Star Dou Zong. He is otherwise still a Dou Huang.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Huang",
+      "quote": "(The brat is only a Dou Huang,)",
+      "first": false
+    },
+    {
+      "id": "hong-tian-xiao",
+      "name": "Hong Tian Xiao",
+      "first": false,
+      "card": 54
+    },
+    {
+      "id": "hong-li",
+      "name": "Hong Li",
+      "first": false
+    },
+    {
+      "id": "shen-yun",
+      "name": "Shen Yun",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "han-fei",
+      "name": "Han Fei",
+      "first": true,
+      "card": 699
+    },
+    {
+      "id": "han-xue",
+      "name": "Han Xue",
+      "first": false
+    },
+    {
+      "id": "han-yue",
+      "name": "Han Yue",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: Hong Tian Xiao's arrival now ends EP162, so he is first: false here with his name card at 54s; added from EP164 Shen Yun's flight, his self-destruction and Xiao Yan's escape with Spatial Strength; Hong Tian Xiao and the Illusionary Body name stay with EP162's introductions."
+  ],
+  "flags": [
+    "0-48s is the recap; 71-79s repeats the end of EP162.",
+    "54s: name card '[Hong Tian Xiao]'.",
+    "406-418s: the Three Thousand Lightning Illusionary Body is called 'comparable to a Tian Class Dou Skill'.",
+    "687s: 'at least an Eight-Star Dou Zong' describes Xiao Yan's borrowed power from Tian Huo Zun Zhe, not his own realm.",
+    "699s: the caption '[Han Fei]' sits on the line 'Grandpa, will they find Xiao Yan?', but Han Fei is the grandfather (he gives his name in EP164 at 228s). The girl speaking is Han Xue or Han Yue.",
+    "715s: 'I can only help him in secret with them knowing' is likely a slip for 'without them knowing'.",
+    "868-890s: someone begs Xiao Yan 'If you let me go, I'll do whatever you ask me to!'; the speaker is not named.",
+    "946-974s: the self-destruction is Shen Yun's, as EP164's recap confirms."
+  ]
+}

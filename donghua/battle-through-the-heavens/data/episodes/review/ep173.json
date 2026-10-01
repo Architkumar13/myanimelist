@@ -1,0 +1,63 @@
+{
+  "ep": 173,
+  "title": "The Heaven Demon Phoenix Bell",
+  "summary": "Xiao Yan's Fire Lotus holds against Feng Qing Er's Wind Killing Finger, and he shows two Heavenly Flames. Feng Qing Er reveals that she belongs to the Heaven Demon Phoenix Tribe and uses the tribe's secret technique to rise to Three-Star Dou Zong. Xiao Yan answers with the Sky Fire Three Mysterious Changes and merges three Heavenly Flames into the Angry Buddha Lotus Flame. She traps him in the Holy Icon Demon Phoenix Bell, made by a Dou Sheng ancestor of her tribe, but he breaks out and defeats her. After her loss, she senses her tribe's Ancient Phoenix Essence Blood on Xiao Yan and accuses him of stealing it. Feng Zun Zhe and the Falling Star Pavilion refuse to let her search his storage ring, but Xiao Yan agrees to her tribe's art of search to settle it.",
+  "events": [
+    "The Fire Lotus beats the Wind Killing Finger.",
+    "Feng Qing Er reveals her Heaven Demon Phoenix wings and uses Bloodline Devouring Soul.",
+    "Her secret technique lifts her to Three-Star Dou Zong; Xiao Yan uses the Sky Fire Three Mysterious Changes.",
+    "Feng Zun Zhe learns why Lei Zun Zhe hid her aura.",
+    "Xiao Yan merges three Heavenly Flames into the Angry Buddha Lotus Flame.",
+    "He escapes the Holy Icon Demon Phoenix Bell and wins the duel.",
+    "Feng Qing Er accuses him of holding the Ancient Phoenix Essence Blood.",
+    "Xiao Yan agrees to let her use her tribe's art of search on him."
+  ],
+  "introduced": [
+    "Fire Lotus",
+    "Bloodline Devouring Soul",
+    "Holy Demon Phoenix Icon",
+    "Holy Icon Demon Phoenix Bell",
+    "Ancient Phoenix Essence Blood",
+    "art of search"
+  ],
+  "cultivation": "Feng Qing Er rises to Three-Star Dou Zong for the fight with her tribe's secret technique.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "feng-qing-er",
+      "name": "Feng Qing Er",
+      "realm": "3-star Dou Zong",
+      "quote": "(She has broken through / to become a Three-Star Dou Zong.)",
+      "first": false
+    },
+    {
+      "id": "feng-zun-zhe",
+      "name": "Feng Zun Zhe",
+      "first": false
+    },
+    {
+      "id": "lei-zun-zhe",
+      "name": "Lei Zun Zhe",
+      "first": false
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Opening narration 15-59s is a recap of EP172. The recap says Xiao Yan beat Wang Chen on Huang Quan Zun Zhe's advice.",
+    "274-276s: Feng Qing Er's Three-Star Dou Zong comes from a secret technique, so it may be temporary.",
+    "255s: Xiao Yan thinks he has seen her phoenix wings before; EP166 and EP174 tie his Bone Wings to the Heaven Demon Phoenix.",
+    "625s: 'Evne a Six-Star Dou Zong' is a typo for 'Even'.",
+    "841-844s: someone notes a Three Thousand Lightning Illusionary Body 'only at the entry-level'; taken as Xiao Yan's avatar winning the fight, but the subtitles do not say it outright.",
+    "652s and 800s: '(Xiao Yan...)' thoughts from someone watching; likely Lin Yan; speaker not named."
+  ]
+}

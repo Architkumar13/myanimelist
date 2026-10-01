@@ -1,0 +1,83 @@
+{
+  "ep": 229,
+  "title": "Purging the Pill Hall",
+  "summary": "With the Yan Alliance safe, Xiao Yan watches Xiao Xiao play and plans pills to unlock her Dou Zong-level strength. He tells Xiao Li that Xiao Xuan passed him the last of the Dou Di bloodline, and gives him the Sky Fire Three Mysterious Changes to teach gifted clansmen. The Pill Hall's herb store burns, and the seventh-tier alchemists Liu Chang and Wu Zhen refuse to make pills, pushing Gu He and Fa Ma aside. At the victory feast, they doubt Xiao Yan can refine an Eighth-Tier Pill. Xiao Yan refines a Primordial Pill for Xiao Xiao with his Heavenly Flame in eight days and holds off its five-colored pill thundercloud. He then reads out their crimes: selling pills, defying orders and plotting to break away, plus ordering the fire. He has them executed, and the Wormhole back to Falling Star Pavilion is ready.",
+  "events": [
+    "Xiao Xiao plays in the fortress; Xiao Yan plans pills for her.",
+    "Xiao Yan tells Xiao Li about Xiao Xuan and gives him the Sky Fire Three Mysterious Changes.",
+    "The Pill Hall's herb storage burns.",
+    "Liu Chang and Wu Zhen defy Gu He and Fa Ma.",
+    "Xiao Yan toasts the fallen, the defenders and Medusa.",
+    "He refines the Eighth-Tier Primordial Pill and withstands a five-colored thundercloud.",
+    "An arsonist confesses; Liu Chang and Wu Zhen's crimes are read out.",
+    "Xiao Yan orders their execution; the Wormhole is ready."
+  ],
+  "introduced": [
+    "Liu Chang",
+    "Wu Zhen",
+    "Primordial Pill",
+    "Eighth-Tier Eminent Master",
+    "multicolored thundercloud"
+  ],
+  "cultivation": "Xiao Xiao has Dou Zong-level strength. Xiao Yan reaches 'the realm / of an Eighth-Tier Eminent Master' in alchemy. Liu Chang and Wu Zhen are seventh-tier alchemists.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "quote": "He's reached the realm / of an Eighth-Tier Eminent Master!",
+      "first": false
+    },
+    {
+      "id": "xiao-xiao",
+      "name": "Xiao Xiao",
+      "realm": "Dou Zong",
+      "quote": "That's the power of someone / in the Dou Zong realm.",
+      "first": false
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "gu-he",
+      "name": "Gu He",
+      "first": false
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "first": false
+    },
+    {
+      "id": "liu-chang",
+      "name": "Liu Chang",
+      "quote": "I'm Liu Chang, seventh-tier alchemist",
+      "first": true,
+      "card": 475
+    },
+    {
+      "id": "wu-zhen",
+      "name": "Wu Zhen",
+      "quote": "Wu Zhen, also seventh-tier alchemist",
+      "first": true,
+      "card": 478
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10-34s: recap.",
+    "84-89s: the Dou Zong line is about Xiao Xiao.",
+    "263s, 531s: 'Chief Gu' = Gu He; 291s 'Elder Fa Ma'.",
+    "410s: Xiao Yan's toast 'to Cai Lin' is to Medusa.",
+    "950s: the 'Deputy Leader' who reads the charges isn't named.",
+    "719-781s: 'five-colored thundercloud' is the pill's tribulation.",
+    "Xiao Xiao's parentage isn't stated; EP230 has Xiao Yan tell her to greet Yao Lao as 'grandmaster'."
+  ]
+}

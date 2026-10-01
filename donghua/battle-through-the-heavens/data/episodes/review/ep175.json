@@ -1,0 +1,109 @@
+{
+  "ep": 175,
+  "title": "Tianhuang City",
+  "summary": "Xiao Yan and Lin Yan reach Tianhuang City, where Liu Qing's Liu Clan runs a Wormhole to the Pill Region. The region is ruled by the Burning Flame Valley, which holds the Nine Dragon Lightning Flame and the Sky Fire Three Mysterious Changes. Valley Chief Tang wants a high-tier alchemist, and Elder Chi Huo says whichever clan provides one will run the Wormhole for three years. The Cheng Clan brings Zeng Xiu, a sixth-tier alchemist of the Pill Tower, but Xiao Yan, going by Yan Xiao, beats him in a contest of Spiritual Strength. Elder Chi Huo takes him to the Burning Flame Valley, where Tang Zhen wants a Seventh-Tier High-Grade Pill refined. Only Master Huan, with his Sky Cold Flame, and Xiao Yan, with a Heavenly Flame no one can place, withstand the Nine Dragon Lightning Flame. As his reward, Xiao Yan asks for the Sky Fire Three Mysterious Changes.",
+  "events": [
+    "Xiao Yan and Lin Yan arrive in Tianhuang City.",
+    "Lin Yan explains the Burning Flame Valley and warns against using the Sky Fire Three Mysterious Changes.",
+    "Elder Chi Huo sets a contest between the Liu Clan and the Cheng Clan for the Wormhole.",
+    "Xiao Yan meets Liu Qing and Liu Fei again.",
+    "Xiao Yan beats Zeng Xiu and wins the Wormhole for the Liu Clan.",
+    "At the Burning Flame Valley, Tang Huo Er doubts him and Tang Zhen explains the pill.",
+    "Master Huan and Xiao Yan pass the Nine Dragon Lightning Flame test.",
+    "Xiao Yan names the Sky Fire Three Mysterious Changes as his price."
+  ],
+  "introduced": [
+    "Tianhuang City",
+    "Pill Region",
+    "Liu Clan (Wormhole)",
+    "Cheng Clan",
+    "Three Valleys",
+    "Nine Dragon Lightning Flame",
+    "Elder Chi Huo",
+    "Zeng Xiu",
+    "Tang Huo Er",
+    "Master Mo",
+    "Tang Zhen",
+    "Seventh-Tier High-Grade Pill",
+    "Master Huan",
+    "Sky Cold Flame",
+    "Sky Bone Python",
+    "Flame Creation Skill (used, recap)",
+    "Flame Seed of Life Transforming Flame"
+  ],
+  "cultivation": "Xiao Yan is called a Dou Zong and a sixth-tier alchemist.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Zong",
+      "quote": "he is already a sixth-tier alchemist / as well as a Dou Zong.",
+      "first": false
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "first": false
+    },
+    {
+      "id": "liu-qing",
+      "name": "Liu Qing",
+      "first": false,
+      "card": 354
+    },
+    {
+      "id": "liu-fei",
+      "name": "Liu Fei",
+      "first": false,
+      "card": 354
+    },
+    {
+      "id": "elder-chi-huo",
+      "name": "Elder Chi Huo",
+      "first": true,
+      "card": 263
+    },
+    {
+      "id": "zeng-xiu",
+      "name": "Zeng Xiu",
+      "first": true,
+      "card": 265
+    },
+    {
+      "id": "tang-huo-er",
+      "name": "Tang Huo Er",
+      "first": true,
+      "card": 663
+    },
+    {
+      "id": "master-mo",
+      "name": "Master Mo",
+      "first": true,
+      "card": 697
+    },
+    {
+      "id": "tang-zhen",
+      "name": "Tang Zhen",
+      "first": true,
+      "card": 739
+    },
+    {
+      "id": "master-huan",
+      "name": "Master Huan",
+      "first": true,
+      "card": 936
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-92s is opening-song lyrics; the [Episode 175] card is at 100s.",
+    "106-139s: the recap says Xiao Yan cultivated the Flame Creation Skill and merged three beast flames into the Flame Seed of Life Transforming Flame on the way; this is not shown in EP174.",
+    "165s: place caption '[Tianhuang City]'. Name cards: [Tang Huo Er] 663s, [Tang Zhen] 739s.",
+    "389-391s: 'Seven-Star Dou Huang? You're doing pretty well too.' is said to Liu Qing or Liu Fei; who is not clear.",
+    "283-298s: Liu Qing promises to find a sixth-tier alchemist; Zeng Xiu is the Cheng Clan's alchemist (437-439s). The Cheng Clan's speaker is not named.",
+    "557s: Xiao Yan gives his alias Yan Xiao.",
+    "847-849s: the Nine Dragon Lightning Flame is ranked 12th on the Heavenly Flames Ranking. 1057s: the Green Lotus Core Flame is 19th; Xiao Yan's flame has no listed color.",
+    "1088-1099s: Tang Zhen promises a reward except the valley's secret techniques; the Sky Fire Three Mysterious Changes is one, which sets up EP176."
+  ]
+}

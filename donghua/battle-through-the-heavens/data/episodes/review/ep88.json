@@ -1,0 +1,113 @@
+{
+  "ep": 88,
+  "title": "The Medicine Gang",
+  "summary": "After a month of seclusion in the tower, Xiao Yan becomes an Eight-Star Da Dou Shi. He worries that Medusa will fully take over the Heaven Swallowing Python within a year, but Yao Lao says she still needs the Thawing Spirit Pill. Back at Rock Gate, Xiao Yan gives Lin Yan more pills against his Fire Poison and gets the Green Wood Celestial Vine. Lin Yan warns him about Liu Fei's brother, Tyrant Spear Liu Qing of the Strong Ranking's top ten, and explains the Inner Academy Competition, held every five years, whose top ten may train on the eighth floor with the origin of the Core Flame. Then the White Gang, led by Bai Cheng and Bai Shan, wrecks Rock Gate's pill stall and claims the pills were fake. Xiao Yan brings his members to fight, and Lin Yan stands with him. The Medicine Gang's chief, Han Xian, turns out to be behind it, and Xiao Yan challenges him to a pill-refining match.",
+  "events": [
+    "Xiao Yan reaches Eight-Star in the tower.",
+    "Xiao Yan and Yao Lao discuss Medusa and the Thawing Spirit Pill.",
+    "Xun Er reports on Rock Gate; Lin Yan has called many times.",
+    "Xiao Yan gives Lin Yan more pills; Lin Yan warns him of Liu Qing and explains the Inner Academy Competition.",
+    "Lin Yan hands over the Green Wood Celestial Vine.",
+    "The White Gang wrecks Rock Gate's stall and injures Tai's group.",
+    "Xiao Yan confronts Bai Cheng; Lin Yan backs him with his Fire Axe.",
+    "Han Xian of the Medicine Gang appears; Xiao Yan proposes a pill-refining match."
+  ],
+  "introduced": [
+    "Liu Qing (Tyrant Spear)",
+    "Mountain Splitting Spear",
+    "Green Purple Fire Lotus",
+    "Inner Academy Competition (every five years)",
+    "eighth floor of the tower and the origin of the Core Flame",
+    "Crazy Axe (Lin Yan's nickname)",
+    "Fire Axe",
+    "Han Xian",
+    "pill-refining match"
+  ],
+  "cultivation": "Xiao Yan breaks through to Eight-Star (Da Dou Shi) and says he will soon be a Dou Ling. Medusa could become a super strong Dou Zong when she fully fuses with the Heaven Swallowing Python.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "8-star Da Dou Shi",
+      "quote": "I finally broke through and became an Eight-Star. Soon, I'll become a Dou Ling.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "heaven-swallowing-python",
+      "name": "Seven-Colored Heaven Swallowing Python",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-shan",
+      "name": "Bai Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "tai",
+      "name": "Tai",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-cheng",
+      "name": "Bai Cheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "han-xian",
+      "name": "Han Xian",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-34s is a recap of EP87.",
+    "60.4 says only 'an Eight-Star'; with EP86's Seven-Star Da Dou Shi this is Eight-Star Da Dou Shi.",
+    "103.3-112.5 is Medusa's voice repeating her one-year deal from EP61 (memory); she does not come out.",
+    "142.1 writes 'Spirit Thawing Pill' once for the Thawing Spirit Pill.",
+    "340.4 'intimate' is a slip for 'intimidate'.",
+    "361.9 'your Green Purple Fire Lotus is no match for his Mountain Splitting Spear' is untagged; read as Lin Yan naming Xiao Yan's lotus flame attack.",
+    "232.2-250 and 425-467 are two stall attacks; at 467.4 'Glorious Thunder' is used by the White Gang side (Bai Shan's skill in EP77).",
+    "806.2 'Judging from Han Xian's tone' comes before Han Xian is introduced; it reads as an onlooker."
+  ]
+}

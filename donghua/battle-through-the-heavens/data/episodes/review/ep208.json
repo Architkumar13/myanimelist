@@ -1,0 +1,91 @@
+{
+ "ep": 208,
+ "title": "Four Seals As One",
+ "summary": "The Great Heavenly Creation Palm kills many, and the factions then fight over the shattered Dou Sheng skeleton. Xiao Yan grabs four fragments that hold the Dou Sheng's essence. Zhai Xing makes a deal: the Wind Lightning Pavilion gets Xiao Yan, the Ice River Valley gets Little Fairy Doctor's Woeful Poison Body, and he gets the bone shards. Tang Zhen sides with Xiao Yan and takes on Huang Xuan. Xiao Yan fights Zhai Xing with the Four Seals As One and a Four-Colored Fire Lotus. Huang Xuan's reinforcements arrive and threaten to strip Xiao Yan's Bone Wings, so Zi Yan lures them away with the Dragon-Phoenix Origin Fruit. When they close in on her, Hei Qing of the Void Ancient Dragons appears.",
+ "events": [
+  "The factions fight over the Dou Sheng skeleton.",
+  "The skeleton shatters; Xiao Yan takes four fragments holding Dou Sheng essence.",
+  "Zhai Xing agrees a deal with the Wind Lightning Pavilion and Ice River Valley.",
+  "Tang Zhen sides with Xiao Yan against Huang Xuan.",
+  "Xiao Yan fights Zhai Xing with the Four Seals As One and a Fire Lotus.",
+  "Heaven Demon Phoenix reinforcements accuse Xiao Yan of hiding their Essence Blood and taking their Bone Wings.",
+  "Zi Yan draws them off with the Dragon-Phoenix Origin Fruit.",
+  "Hei Qing of the Void Ancient Dragons appears."
+ ],
+ "introduced": [
+  "Dou Sheng essence",
+  "Woeful Poison Body (named)",
+  "She Ya",
+  "Huo Yan",
+  "Soul Chain",
+  "Phantom Soul Movement Technique",
+  "Four Seals As One",
+  "Sky Burying Seal (fourth seal used)",
+  "All of Nature Palm",
+  "Demon Phoenix Bell",
+  "Demon Phoenix Essence Blood",
+  "Hei Qing"
+ ],
+ "cultivation": "Zhai Xing thinks Xiao Yan 'has just become a Dou Zun'. No breakthroughs.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "xiao-yan",
+   "name": "Xiao Yan",
+   "first": false
+  },
+  {
+   "id": "zhai-xing",
+   "name": "Zhai Xing",
+   "first": false
+  },
+  {
+   "id": "tang-zhen",
+   "name": "Tang Zhen",
+   "first": false
+  },
+  {
+   "id": "huang-xuan",
+   "name": "Huang Xuan",
+   "first": false
+  },
+  {
+   "id": "feng-qing-er",
+   "name": "Feng Qing Er",
+   "first": false
+  },
+  {
+   "id": "little-fairy-doctor",
+   "name": "Little Fairy Doctor",
+   "first": false
+  },
+  {
+   "id": "qing-lin",
+   "name": "Qing Lin",
+   "first": false
+  },
+  {
+   "id": "zi-yan",
+   "name": "Zi Yan",
+   "first": false
+  },
+  {
+   "id": "hei-qing",
+   "name": "Hei Qing",
+   "first": true,
+   "card": 1060
+  },
+  {
+   "id": "lei-zun-zhe",
+   "name": "Lei Zun Zhe",
+   "first": false
+  }
+ ],
+ "changes": [],
+ "flags": [
+  "490-496: 'She Ya, Huo Yan. It turned out that you're the mysterious fighters who wreaked havoc at Nine Serene Deep Ground Pythons'' The speaker and these two are not clear. They may be the Nine Serene Deep Ground Python Dou Zuns that Qing Lin controls. Kept out of the cast.",
+  "The Wind Lightning Pavilion figure who wants Xiao Yan (434-438) is not named; EP209 hints he is a 'Northern Pavilion Chief' whom Xiao Yan badly wounded.",
+  "Lei Zun Zhe is placed in cast because the Wind Lightning Pavilion leader is present at the ruins (EP209), but he is not named in this file.",
+  "Hei Qing's card (1060) is on the line 'Void Ancient Dragons?'."
+ ]
+}

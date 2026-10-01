@@ -1,0 +1,103 @@
+{
+  "ep": 70,
+  "title": "Into the Black-Corner Region",
+  "summary": "At Jia Nan Academy, Ling Ying reports to Xun Er that Xiao Yan is on his way, and she says she will wait for him. Ruo Lin, a teacher, tells Xun Er about the Level Advancement Contest, where the top 20 students enter the Inner Academy, and complains that Xiao Yan has been away two years. Bai Shan overhears and wants to see what is special about Xiao Yan. Xiao Yan enters the Black-Corner Region, pays a 500 gold coin offering at a tribe gate, fights off robbers and joins the caravan of the merchant Duo Ma under the name Yao Yan. Duo Ma tells him about Black Mark City, the Eight Gates and its leader Yuan Yi, and the Black Ranking, where the third place belongs to Han Feng, the Medicine Emperor. During a Black Storm a spirit form attacks Yao Lao, and Yao Lao then tells Xiao Yan his real name, Yao Chen, and that the Hall of Souls hunts strong souls like his. They reach Black Mark City as the Blood Sect arrives.",
+  "events": [
+    "Ling Ying reports to Xun Er; she vows to wait for Xiao Yan.",
+    "Ruo Lin tells Xun Er about the Level Advancement Contest; Bai Shan takes notice of Xiao Yan.",
+    "Xiao Yan lands in the Black-Corner Region and pays a tribe's offering.",
+    "He beats off robbers and joins Duo Ma's caravan as 'Yao Yan'.",
+    "Duo Ma explains Black Mark City, the Eight Gates, the Black Ranking and the Medicine Emperor Han Feng.",
+    "A spirit form attacks during a Black Storm.",
+    "Yao Lao reveals his name, Yao Chen, and the threat of the Hall of Souls.",
+    "They arrive at Black Mark City; the Blood Sect rides in."
+  ],
+  "introduced": [
+    "Bai Shan",
+    "Ruo Lin",
+    "Duo Ma",
+    "Level Advancement Contest",
+    "Inner Academy",
+    "Great Plains of the Black Region",
+    "Black Mark City",
+    "Eight Gates",
+    "Yuan Yi",
+    "Black Ranking",
+    "Medicine Emperor",
+    "Black Storm",
+    "Hall of Souls (called Soul Shrine)",
+    "Warm Soul Spirit Ring",
+    "Blood Sect"
+  ],
+  "cultivation": "The spirit form 'shouldn't be more than a Dou Ling' (769). Han Feng 'became a Dou Huang long ago' (672). Ruo Lin: Xiao Yan once lasted 20 rounds against her 'when he was a mere Dou Zhe' (337).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ling-ying",
+      "name": "Ling Ying",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ruo-lin",
+      "name": "Ruo Lin",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 277.1
+    },
+    {
+      "id": "bai-shan",
+      "name": "Bai Shan",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 269.1
+    },
+    {
+      "id": "duo-ma",
+      "name": "Duo Ma",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 570.9
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-108s, before the [Episode 70] card: a cold open of a later scene (a sealing barrier, 'If only I could kill Han Feng'). Not counted as this episode's events.",
+    "113-138: series narration (start of Season 5); not counted.",
+    "Ling Ying is only called 'Mr. Ling' (212.9); he says he stopped following Xiao Yan, which matches Ling Ying from EP60-61.",
+    "Xun Er is called 'Young Lady' by Ling Ying, so she is the 'Young Lady' Ling Ying served in EP60.",
+    "Ruo Lin is named here for the first time in the official subtitles; her lines say she met Xiao Yan before (S1 events), so she may have been on screen unnamed earlier.",
+    "870-916: who the spirit form is and who drives it off is unclear ('He's not a spiritual form', 916).",
+    "The subtitles write 'Soul Shrine' (877, 1027); I used the canonical Hall of Souls.",
+    "648.5: 'an influential old fraction' means faction."
+  ]
+}

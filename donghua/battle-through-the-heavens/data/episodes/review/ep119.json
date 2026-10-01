@@ -1,0 +1,90 @@
+{
+  "ep": 119,
+  "title": "Ten Moves, Then Farewell",
+  "summary": "Xiao Yan visits the Rock Gate with Medusa and tells Wu Hao and Hu Jia he is going back to the Jia Ma Empire. Zi Yan insists on coming, and he agrees, then refines pills for the members and asks that Rock Gate graduates be sent to the Xiao Gate. Lin Yan brings Lin Xiu Ya and Liu Qing, who will follow him to the Misty Cloud Sect if he beats them both, and Xiao Yan wins within ten moves. Yao Lao urges him to fuse three Heavenly Flames into the Angry Buddha Lotus Flame, and after many days of practice he starts to make progress. When Xiao Li sends word that everything is ready, Xiao Yan says goodbye to Su Qian and his friends at the academy. He then joins the Xiao Gate and its Black-Corner allies, gathered to set off.",
+  "events": [
+    "Xiao Yan and Medusa visit the Rock Gate; he says he is leaving for the Jia Ma Empire",
+    "Zi Yan insists on coming, and he agrees",
+    "He refines pills for the Rock Gate and links it to the Xiao Gate",
+    "Lin Yan brings Lin Xiu Ya and Liu Qing to test him",
+    "Xiao Yan beats both within ten moves; they agree to come",
+    "Yao Lao has Xiao Yan practise fusing three Heavenly Flames",
+    "Xiao Li's message arrives; Xiao Yan says goodbye at the academy",
+    "Xiao Yan joins the gathered Xiao Gate and its allies"
+  ],
+  "introduced": [
+    "Great Coffin Splitting Claw"
+  ],
+  "cultivation": "Lin Xiu Ya and Liu Qing are Dou Wang elders. Xiao Yan can only start the second seal after reaching Dou Huang. Wu Hao and Hu Jia are not yet Dou Wangs. The Xiao Gate has eight Dou Wangs.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "first": false
+    },
+    {
+      "id": "hu-jia",
+      "name": "Hu Jia",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "first": false
+    },
+    {
+      "id": "lin-xiu-ya",
+      "name": "Lin Xiu Ya",
+      "realm": "Dou Wang",
+      "quote": "the two Dou Wang elders",
+      "first": false,
+      "card": 315.9
+    },
+    {
+      "id": "liu-qing",
+      "name": "Liu Qing",
+      "realm": "Dou Wang",
+      "quote": "the two Dou Wang elders",
+      "first": false,
+      "card": 372.3
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Moved out to EP118: Xiao Yan's talk with Su Qian (before this card in the old file). Added the end, which the old review left to EP120: Xiao Li's message, the farewell at the academy and the Xiao Gate gathering. New title; cards moved to the new clock."
+  ],
+  "flags": [
+    "0-41s are a recap of EP118 and are not counted.",
+    "58.5-72.7: the silent companion is read as Medusa.",
+    "133.5 'I'm coming with you' / 135.3 'Me too': speakers not named; read as Wu Hao and Hu Jia. Who speaks at 149.6 (the 'deal') is read as Lin Yan; Zi Yan speaks at 168.7.",
+    "The three flames for the Angry Buddha Lotus Flame are not listed in this episode; EP120's recap (20.8) says he merged them.",
+    "759.1 '[Everything is ready. We can set off anytime.]' is read as Xiao Li's message (793.2).",
+    "896.8-903.0: someone's thought ('Uncle Xiao always believed...'); the speaker is unclear, perhaps Xiao Yu.",
+    "914-972s: the Xiao Gate gathering; the speakers, including the late arrival at 940.4, are not named. EP120 opens with this same gathering."
+  ]
+}

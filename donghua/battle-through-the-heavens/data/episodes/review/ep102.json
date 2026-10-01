@@ -1,0 +1,106 @@
+{
+  "ep": 102,
+  "title": "Xun Er Goes Home",
+  "summary": "Xiao Yan cultivates unconscious for three days while Xun Er and Zi Yan watch over him, and Xun Er politely receives Lin Xiu Ya, who brings medicine and clearly has a crush on her. Xiao Yan wakes as a Five-Star Dou Ling, though the Searing Poison he took in while curing Nalan Jie is still in his body, and finds that Lin Yan has joined the Rock Gate. On a walk, Ling Quan, the new deputy commander of the Black Submerged Army, arrives to take Xun Er home on her clan leader's orders and asks Xiao Yan where the Xiao Clan keeps its key. Xun Er tells Xiao Yan to hide the jade of Tuo She Gu Di and not to come for her until he is strong enough, and he swears he will become a Dou Zun, Dou Sheng or even Dou Di to bring her back. After she leaves, Ling Quan stays to tell Xiao Yan he doesn't deserve her and threatens him, until Su Qian arrives and orders him out of the Inner Academy. Yao Lao cheers Xiao Yan up and reminds him that tomorrow he enters the Blazing Qi Refining Tower for the Heart Flame's body forging.",
+  "events": [
+    "Xiao Yan cultivates unconscious for three days after the tie.",
+    "Lin Xiu Ya brings medicine; Xun Er receives him politely.",
+    "Xiao Yan wakes a Five-Star Dou Ling; the Searing Poison remains.",
+    "Lin Yan has joined the Rock Gate and tells Xiao Yan how Xun Er beat Lin Xiu Ya.",
+    "Ling Quan of the Black Submerged Army comes for Xun Er and asks about the Xiao Clan's key.",
+    "Xun Er agrees to go home and warns Xiao Yan about the jade of Tuo She Gu Di; Xiao Yan vows to come for her.",
+    "Ling Quan stays behind to warn Xiao Yan off Xun Er; Su Qian orders him out.",
+    "Yao Lao reminds Xiao Yan of the Heart Flame's body forging the next day."
+  ],
+  "introduced": [
+    "Black Submerged Army",
+    "Ling Quan (introduces himself)",
+    "Searing Poison",
+    "Nalan Jie (named)",
+    "the Xiao Clan's key",
+    "the agreement between the Xiao Clan and Xun Er's clan",
+    "Dou Zun, Dou Sheng, Dou Di (named as goals)",
+    "Heart Flame's body forging (named)"
+  ],
+  "cultivation": "Xiao Yan breaks through to Five-Star Dou Ling.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "5-star Dou Ling",
+      "quote": "I guess I'm a Five-Star Dou Ling now.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-xiu-ya",
+      "name": "Lin Xiu Ya",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ling-quan",
+      "name": "Ling Quan",
+      "realm": null,
+      "quote": "I'm the new deputy commander of the Black Submerged Army. My name is Ling Quan.",
+      "first": false,
+      "card": 635.8
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [
+    "Moved in from the old EP103 review: Ling Quan's warning after Xun Er leaves, Su Qian ordering him out, and Yao Lao's encouragement and reminder about the body forging. These lines come before the [Episode 103] card. Ling Quan's card moved to 635.8 on the new clock."
+  ],
+  "flags": [
+    "0-32s are a recap of EP101 and are not counted.",
+    "Ling Quan first appears at the end of EP101 (name card at EP101 979.6); first is false here.",
+    "Xun Er's clan isn't named here. The EP103 recap calls it the Gu Clan (26.5).",
+    "'Leader' (Ling Quan's word) is the head of Xun Er's clan; EP100 (581.2) suggests this is her father.",
+    "143-192s: the speakers around Lin Xiu Ya's visit aren't all named; Xun Er and Zi Yan are clear.",
+    "192-381s have no dialogue (Xiao Yan's long cultivation).",
+    "800-913s are ending-song lyrics mixed with dialogue; the lyrics are ignored.",
+    "1064-1110s: the voice cheering Xiao Yan up after Ling Quan leaves is read as Yao Lao ('even if I have to get injured again', the reminder about the body forging); he is not named."
+  ]
+}

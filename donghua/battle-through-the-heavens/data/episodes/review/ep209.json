@@ -1,0 +1,116 @@
+{
+ "ep": 209,
+ "title": "Zi Yan goes home",
+ "summary": "Hei Qing, an elder of the Void Ancient Dragons, crushes Huang Xuan's group and slaps away Zhai Xing. The phoenixes leave without the Dragon-Phoenix Origin Fruit, and Feng Qing Er later tells the Nine Serene Deep Ground Pythons that their missing Dou Zuns' captor is with Xiao Yan. Back at the camp Zi Yan introduces her uncle Hei Qing, who calls the Xiao Clan one of the Eight Ancient Clans and mentions Xiao Xuan. Zi Yan goes back to Dragon Island to finish her inheritance, and Xiong Zhan goes with her. At the Falling Star Pavilion the Soul Baby Fruit proves to be high-grade. Yao Lao tells Xiao Yan that his father is not in the Central Plains, and that the Hun Clan is likely behind the Hall of Souls. Then Qing Lin's poison flares, and Xiao Yan starts to purge it with the Pill Beast's blood.",
+ "events": [
+  "Hei Qing beats Huang Xuan's group and strikes Zhai Xing.",
+  "Huang Xuan leaves, and Feng Qing Er fetches the Heaven Phoenix's remains.",
+  "Feng Qing Er tells the Nine Serene Deep Ground Pythons about Xiao Yan's group.",
+  "Zi Yan introduces her uncle Hei Qing, and Tang Zhen leaves for the Burning Flame Valley.",
+  "Hei Qing mentions the Eight Ancient Clans and Xiao Xuan.",
+  "Zi Yan and Xiong Zhan leave for Dragon Island.",
+  "Xiao Yan brings the Soul Baby Fruit to Yao Lao.",
+  "Yao Lao names the Hun Clan; Xiao Yan treats Qing Lin's poison."
+ ],
+ "introduced": [
+  "Heaven Phoenix's remains",
+  "Pavilion Chief Lei",
+  "Northern Pavilion Chief (Wind Lightning Pavilion)",
+  "Eight Ancient Clans",
+  "Xiao Xuan",
+  "Spirit Nourishment Pill",
+  "high-grade Soul Baby Fruit",
+  "Hun Clan"
+ ],
+ "cultivation": "Xiao Yan thinks Hei Qing is at the Seven- to Eight-Star Dou Zun level. Feng Qing Er is said to be still below the Dou Zun level.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "xiao-yan",
+   "name": "Xiao Yan",
+   "first": false
+  },
+  {
+   "id": "hei-qing",
+   "name": "Hei Qing",
+   "realm": "7- to 8-star Dou Zun (Xiao Yan's estimate)",
+   "quote": "This elder is likely at the Seven to Eight-Star Dou Zun level.",
+   "first": false
+  },
+  {
+   "id": "zi-yan",
+   "name": "Zi Yan",
+   "first": false
+  },
+  {
+   "id": "huang-xuan",
+   "name": "Huang Xuan",
+   "first": false
+  },
+  {
+   "id": "feng-qing-er",
+   "name": "Feng Qing Er",
+   "realm": "below Dou Zun",
+   "quote": "she wouldn't still be stuck below the Dou Zun level.",
+   "first": false
+  },
+  {
+   "id": "zhai-xing",
+   "name": "Zhai Xing",
+   "first": false
+  },
+  {
+   "id": "lei-zun-zhe",
+   "name": "Lei Zun Zhe",
+   "first": false
+  },
+  {
+   "id": "tang-zhen",
+   "name": "Tang Zhen",
+   "first": false
+  },
+  {
+   "id": "xiong-zhan",
+   "name": "Xiong Zhan",
+   "first": false
+  },
+  {
+   "id": "little-fairy-doctor",
+   "name": "Little Fairy Doctor",
+   "first": false
+  },
+  {
+   "id": "mu-qing-luan",
+   "name": "Mu Qing Luan",
+   "first": false
+  },
+  {
+   "id": "qing-lin",
+   "name": "Qing Lin",
+   "first": false
+  },
+  {
+   "id": "yao-tian-huo",
+   "name": "Yao Tian Huo",
+   "first": false
+  },
+  {
+   "id": "yao-lao",
+   "name": "Yao Lao",
+   "first": false
+  },
+  {
+   "id": "elder-feng",
+   "name": "Elder Feng",
+   "first": false
+  }
+ ],
+ "changes": [],
+ "flags": [
+  "Hei Qing calls Zi Yan 'Yan' (151, 213, 489).",
+  "Hei Qing's realm is Xiao Yan's guess (88), not stated by anyone.",
+  "350-354: the one who sends Feng Qing Er to the Nine Serene Deep Ground Pythons is not named, probably Huang Xuan.",
+  "Hei Qing calls the Ancient Dragon Bear 'once part of the Void Ancient Dragons' affiliated clans' (596), which confirms Zi Yan's point in EP203.",
+  "Hei Qing is called 'Hei Qing Zun Zhe' by Tang Zhen (437)."
+ ]
+}

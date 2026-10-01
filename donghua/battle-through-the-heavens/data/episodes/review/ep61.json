@@ -1,0 +1,105 @@
+{
+  "ep": 61,
+  "title": "A Deal with Medusa",
+  "summary": "Queen Medusa takes over the python's body and faces Yun Shan, who sees she has also become a Dou Zong. Unwilling to risk the fight, Yun Shan lets Xiao Yan go, warning him never to return. Yun Leng proposes seizing Xiao Yan's father instead. Hai Bodong heads back to the Mite'er family and asks Xiao Yan to deliver the Spiritual Recovery Purple Pill to the capital later. Ling Ying leaves, telling Xiao Yan to grow strong enough to choose the one he loves. Medusa agrees to protect Xiao Yan for one year, only when his life is at stake, in return for the Thawing Spirit Pill. On the road to Wu Tan City she makes him hunt herbs in markets and auctions and her temper frightens the townspeople and shopkeepers.",
+  "events": [
+    "Medusa appears; Yun Shan notes she has reached Dou Zong.",
+    "Yun Shan lets Xiao Yan leave, but only this once.",
+    "Yun Leng suggests bringing Xiao Zhan from Wu Tan City; Nalan Yanran weeps to Yun Yun.",
+    "Hai Bodong parts ways and warns Xiao Yan to be wary of Medusa.",
+    "Ling Ying leaves with advice about strength and love.",
+    "Medusa and Xiao Yan make a one-year deal for the Thawing Spirit Pill.",
+    "They search towns and auctions for herbs; Medusa causes trouble in a shoe shop."
+  ],
+  "introduced": [
+    "One-year deal with Medusa",
+    "Spiritual Recovery Purple Pill (ingredients still missing)",
+    "Seven-Colored Heaven Swallowing Python (named)"
+  ],
+  "cultivation": "Medusa: \"You've broken through the barriers of Dou Huang and joined the ranks of Dou Zong.\"",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": "Dou Zong",
+      "quote": "You've broken through the barriers of Dou Huang and joined the ranks of Dou Zong.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-shan",
+      "name": "Yun Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-leng",
+      "name": "Yun Leng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ling-ying",
+      "name": "Ling Ying",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "heaven-swallowing-python",
+      "name": "Heaven Swallowing Python",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-73s is the end of EP60 and is not counted; the card is at 73.5.",
+    "The end of this episode is at the start of ep62.en.srt (0-99s): masked men attack the Xiao Clan and find Xiao Zhan.",
+    "38.1 (pre-card): 'Didn't she fail her advancement?' refers to Medusa.",
+    "Medusa merged with the python's soul to save Xiao Yan; the python can't appear for three days (486-487), and Medusa says she has a deal to keep using the body (794-796).",
+    "Xiao Yan asked for three years; Medusa gave one year (524-558).",
+    "322-339: Yun Yun is called 'Master' by Nalan Yanran; she has returned to the sect.",
+    "722-728: a montage of Xiao Yan's skill names (Octane Blast, Exploding Steps, Vacuum Hand, Heavenly Flame Whip, Flame Splitting Tsunami)."
+  ]
+}

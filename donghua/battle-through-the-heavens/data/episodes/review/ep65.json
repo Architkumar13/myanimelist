@@ -1,0 +1,77 @@
+{
+  "ep": 65,
+  "title": "Yao Lao Against Yun Shan",
+  "summary": "Yao Lao, fighting in Xiao Yan's body, trades blows with Yun Shan, and the clash tears the void. Away from the fight, Nalan Yanran tells Yun Yun she regrets breaking off the engagement and asks to enter the Gate of Life and Death. Yun Yun warns that it needs at least the Dou Ling rank but agrees to raise it with Yun Shan. Onlookers note that Xiao Yan now fights at about Dou Zong level and uses only an apricot-white flame. Yun Shan gathers the elders into the Covering Sun Cloud Formation, saying he cannot let a future Dou Zong who hates the sect escape. Yao Lao agrees to retreat, and Xiao Yan vows to return one day to settle his father's disappearance. When Yun Shan catches up, Xiao Yan readies another Lotus Flame.",
+  "events": [
+    "Recap; the fight resumes with Yao Lao in control.",
+    "Nalan Yanran tells Yun Yun she regrets the broken engagement and asks to enter the Gate of Life and Death.",
+    "Watchers call it the power of a Dou Zong and note the white flame.",
+    "The two Dou Zong-level fighters tear the void.",
+    "Yun Shan orders the Covering Sun Cloud Formation.",
+    "Xiao Yan and Yao Lao decide to retreat; Xiao Yan vows to come back.",
+    "Yun Shan finds him; Xiao Yan prepares another Lotus Flame."
+  ],
+  "introduced": [
+    "Gate of Life and Death entry needs Dou Ling rank",
+    "Grandmaster (Yun Shan's title to Yanran)"
+  ],
+  "cultivation": "Onlookers: 'Xiao Yan, in his current state, is probably at the level of a Dou Zong too' (300). Gate of Life and Death: 'you need to be at least of the Dou Ling rank to enter' (197).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-shan",
+      "name": "Yun Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-85s: card, recap and a repeat of EP64's last lines; not counted.",
+    "520-650: song lyrics (insert song) inside the episode; ignored.",
+    "291-360: the watchers are unnamed (EP66 suggests Hai Bodong and Fa Ma).",
+    "Yun Shan once killed 'two strong ones of the Chu Yun Empire' with this move while still a Dou Huang (305)."
+  ]
+}

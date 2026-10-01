@@ -1,0 +1,78 @@
+{
+  "ep": 17,
+  "title": "The Lava World Under Rock Desert City",
+  "summary": "Qing Lin leads Xiao Yan and the Desert Metal Mercenary Company down a passage under Rock Desert City into a vast underground magma world. The mercenaries turn back in the heat, and Xiao Yan flies on over the lava on his own. A Two-Headed Flame Spirit Serpent attacks him, then tries to grab Qing Lin, but she forms a contract with it. Yao Lao explains that Qing Lin has the Jade Snake Three Flower Pupils, the natural nemesis of snake-type beasts. The serpent shows that the Heavenly Flame lies below the magma, so Xiao Yan dives in, shielded by Yao Lao's Bone Chilling Flame for less than an hour. They find a thousand-year-old green lotus, but the Green Lotus Core Flame is gone. A scale left behind belongs to the Seven-Colored Heaven Swallowing Python of Queen Medusa, so Xiao Yan decides to go to the depths of the Tager Desert.",
+  "events": [
+    "The group follows Qing Lin's senses down the passage; most mercenaries turn back in the heat.",
+    "Xiao Yan flies over the lava with his wings; Xiao Ding asks if he has become a Dou Wang.",
+    "A Two-Headed Flame Spirit Serpent attacks Xiao Yan and then goes for Qing Lin.",
+    "Qing Lin forms a contract with the serpent; Yao Lao names her Jade Snake Three Flower Pupils.",
+    "The serpent reveals the Heavenly Flame is hidden below the magma.",
+    "Xiao Yan dives into the lava inside Yao Lao's Bone Chilling Flame shield, with under an hour to spare.",
+    "They find the green lotus, but the Green Lotus Core Flame has been taken.",
+    "A Seven-Colored Heaven Swallowing Python scale points to Queen Medusa; they head for the depths of the Tager Desert."
+  ],
+  "introduced": [
+    "Green Lotus Core Flame (19th on the Heavenly Flame Ranking)",
+    "Heavenly Flame Ranking",
+    "Bone Chilling Flame (11th on the Heavenly Flame Ranking)",
+    "underground magma world beneath Rock Desert City",
+    "Two-Headed Flame Spirit Serpent",
+    "Jade Snake Three Flower Pupils",
+    "Woeful Poison Body (mentioned)",
+    "Seven-Colored Heaven Swallowing Python (scale)",
+    "Rank Six Magical Beast (comparable to a Dou Huang)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "flame-spirit-serpent",
+      "name": "Flame Spirit Serpent",
+      "realm": null,
+      "quote": "it may evolve into a Rank Six Magical Beast, which is comparable to a Dou Huang powerhouse.",
+      "first": true,
+      "card": 318.7
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-19s (before the [Episode 17] card) is the last moment of EP16 entering the passage.",
+    "The end of this episode is in ep18.en.srt 0-158s (before the [Episode 18] card): the empty lotus, Yao Lao's talk about letting go, the python scale and the decision to find Medusa. Counted here.",
+    "144.5-146: Xiao Ding asks 'Have you really reached the Dou Wang level?' when Xiao Yan flies; Xiao Yan is a Dou Shi and the wings are not Dou Qi Wings (EP16 also has Luo Bu think he is a Dou Wang).",
+    "The serpent is 'Two-Headed Flame Spirit Serpent' at 318.7 and 'Flame Spirit Serpent' at 585; later episodes use 'Flame Spirit Serpent'.",
+    "Qing Lin's eyes: 'Jade Snake Three Flower Pupils' here (566.7); EP30-32 say 'Triple Jade-Green Snake Flower Pupils'. Same thing."
+  ]
+}

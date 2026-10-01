@@ -1,0 +1,81 @@
+{
+  "ep": 181,
+  "title": "Tian Huo Zun Zhe Reborn",
+  "summary": "Tian Huo Zun Zhe swallows the Yin Yang Life Soul Pill and enters the new body while Xiao Yan refines it with his Heavenly Flame. Tian She, the Ice River Valley's peak Dou Zong, arrives first and overpowers the Little Fairy Doctor with the Ice Zun Force. Tian Huo Zun Zhe then comes out as a Dou Zun and smashes the Ice River men's summoned dragon with Spatial Strangling. Tian She sacrifices his own comrades, tears open space and escapes. The group takes the Little Fairy Doctor to the Ye Clan's Sun Fire Ancient Altar in Ye City to bring her poison under control. There, Zhao Hei of the Black Fire Sect, a Six-Star Dou Zong, is threatening Ye Chong over the altar, and Tian Huo Zun Zhe frightens him away. Ye Chong apologizes for the last visit and opens the forbidden altar to Xiao Yan.",
+  "events": [
+    "Tian Huo Zun Zhe enters the body and endures the Heavenly Flame.",
+    "Tian She arrives and beats the Little Fairy Doctor.",
+    "Tian Huo Zun Zhe awakens as a Dou Zun.",
+    "The Ice River men use Blood Offering Summons the Profound Dragon; Spatial Strangling breaks it.",
+    "Tian She abandons his men and escapes through space.",
+    "Zhao Hei of the Black Fire Sect threatens the Ye Clan.",
+    "Tian Huo Zun Zhe drives Zhao Hei off.",
+    "Ye Chong opens the Sun Fire Ancient Altar to Xiao Yan."
+  ],
+  "introduced": [
+    "Strong Dragon Mysterious Profound Formation",
+    "Blood Offering Summons the Profound Dragon",
+    "Spatial Strangling",
+    "Sun Fire Ancient Altar",
+    "Black Fire Sect",
+    "Zhao Hei"
+  ],
+  "cultivation": "Tian Huo Zun Zhe regains a body and is a Dou Zun again. Tian She is a peak Dou Zong. Zhao Hei is a Six-Star Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "realm": "Dou Zun",
+      "quote": "A… A Dou Zun!",
+      "look": "now has a physical body",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "xin-lan",
+      "name": "Xin Lan",
+      "first": false
+    },
+    {
+      "id": "tian-she",
+      "name": "Tian She",
+      "realm": "peak Dou Zong",
+      "quote": "A peak Dou Zong.",
+      "first": false,
+      "card": 160
+    },
+    {
+      "id": "zhao-hei",
+      "name": "Zhao Hei",
+      "realm": "peak 6-star Dou Zong",
+      "quote": "He's a Six-Star Peak Dou Zong.",
+      "first": true,
+      "card": 724
+    },
+    {
+      "id": "ye-chong",
+      "name": "Ye Chong",
+      "first": false,
+      "card": 727
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Opening narration 15-45s is a recap of EP180.",
+    "190-198s: Tian She says he once fought the previous Woeful Poison Body and lost narrowly.",
+    "642-683s: Tian She tears space and escapes 'before even reaching Dou Zun'.",
+    "755s: 'Six-Star Peak Dou Zong' is recorded as peak Six-Star.",
+    "898s: 'Grandfather' is Xin Lan to Ye Chong, so Ye Chong is her grandfather.",
+    "961-966s: the vow to grind the Woeful Poison Lady and the Dou Zun into dust is unnamed; it fits Tian She."
+  ]
+}

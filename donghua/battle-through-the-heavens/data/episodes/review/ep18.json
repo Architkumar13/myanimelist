@@ -1,0 +1,57 @@
+{
+  "ep": 18,
+  "title": "Mirage",
+  "summary": "This episode starts Song of Desert, a side story about Hai Bodong in the Tager Desert. Hai Bodong, the Ice Emperor and a Dou Huang, has been hired to bring back a snakewoman who has lost her memory. A masked Snakemen warrior traps him in a mirage and fights him, and he answers with Mysterious Ice Dragon's Soar. He brings the snakewoman to a desert town and hands her over to his employer, but the employer is found dead, so Hai Bodong takes his storage ring as payment and tells her she is free. She begs to stay with him. Queen Medusa then arrives at the town herself, her guards clear it, and her people say the man they hired to catch a traitor is dead.",
+  "events": [
+    "The snakewoman, who remembers nothing, travels with Hai Bodong and asks his name.",
+    "A masked Snakemen warrior traps Hai Bodong in a mirage; he fights back with Mysterious Ice Dragon's Soar.",
+    "In a mercenary town, Hai Bodong brings the snakewoman to his employer per the contract (money to the Mite'er family).",
+    "The employer is dead; Hai Bodong takes his storage ring and tells the snakewoman she is free.",
+    "She begs to go with him as his servant; he refuses.",
+    "Queen Medusa arrives, her guards clear the town, and her people say the man they hired to catch the traitor died within a day."
+  ],
+  "introduced": [
+    "Song of Desert (side story)",
+    "snakewoman with no memory (later named Die)",
+    "Mysterious Ice Dragon's Soar",
+    "mirage (Snakemen illusion)",
+    "Mite'er family (mentioned)"
+  ],
+  "cultivation": "Hai Bodong is a Dou Huang ('Just because you're a Dou Huang', 451).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": "Dou Huang",
+      "quote": "Just because you're a Dou Huang, it doesn't mean I can't kill you",
+      "first": false,
+      "card": 369.5
+    },
+    {
+      "id": "die",
+      "name": "Die",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 183.5
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 902.5
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "REVIEW-NOTES says Song of Desert is EP19-20, but the special starts here at the [Episode 18] [Mirage] card (158s); 610.5 shows a [Melody of the Desert] caption. File 0-158s is the end of EP17.",
+    "The special is told out of order: several scenes (Medusa ordering snake guards, the ceremony, 'Why are you all trying to kill me?') appear more than once in EP18-20 files.",
+    "ep19.en.srt 0-168s (before '[Preview of the next episode]' and the [Episode 19] card) may be the end of this episode or a preview: Medusa posts snake guards, Snakemen elders talk of a queen who gave up the throne, the snakewoman begs Hai Bodong to take her along. Not used in the summary.",
+    "The masked warrior is shown to be Medusa in EP20 (862); the snakewoman is named Die only at the end of EP20 (ep21.en.srt 56.5).",
+    "Who killed the employer is not shown clearly in this file.",
+    "Lines 704-725 are drunken mercenaries arguing over the snakewoman, in round brackets (likely background voices, not thoughts)."
+  ]
+}

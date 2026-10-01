@@ -1,0 +1,79 @@
+{
+  "ep": 12,
+  "title": "The Ice Spirit Cold Fountain",
+  "summary": "The Alchemist Association gives Xiao Yan an alchemist robe, but no trading record in the Jia Ma Empire lists an Ice Spirit Cold Fountain. Ao Tuo reluctantly takes him to Gu Te, a reclusive alchemist who deals in shady things, past Bewitching Devil Grass and a reinforced steel door. Gu Te refuses at first and tries to throw him out, so Xiao Yan shows his only bottle of Amethyst Lion Birth Essence and pretends to walk away. At last Gu Te gives in and trades him the Ice Spirit Cold Fountain. At the Flying Transportation Company, Fu Lanke gives him a Rank Three Monster Core and invites him to the Alchemist Conference in the capital in six months. As an alchemist he rides for free, and the men of a three-tier alchemist, who were bullying a man in the queue, mark him.",
+  "events": [
+    "The association gives Xiao Yan an alchemist robe but finds no Ice Spirit Cold Fountain for sale.",
+    "Ao Tuo takes him to Gu Te's lair, past Bewitching Devil Grass.",
+    "Gu Te refuses to trade and tries to throw him out.",
+    "Xiao Yan shows the Amethyst Lion Birth Essence and makes as if to leave.",
+    "Gu Te trades him the Ice Spirit Cold Fountain.",
+    "At the Flying Transportation Company, Fu Lanke gives him a Rank Three Monster Core and tells him of the Alchemist Conference.",
+    "A three-tier alchemist's men pick out Xiao Yan as he boards for free."
+  ],
+  "introduced": [
+    "Gu Te",
+    "Bewitching Devil Grass",
+    "Desire Flower",
+    "Blood Clotting Grass",
+    "Blue Rock Heartstone",
+    "Amethyst Lion Birth Essence (name for the Amethyst Essence)",
+    "alchemist robe",
+    "Flying Transportation Company",
+    "Alchemist Conference (in the capital, in six months)",
+    "Empire's eastern border",
+    "three-tier alchemist (unnamed)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ao-tuo",
+      "name": "Ao Tuo",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "gu-te",
+      "name": "Gu Te",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 376.8
+    },
+    {
+      "id": "fu-lanke",
+      "name": "Fu Lanke",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "flags": [
+    "295-296 'What an impressive Dou Qi / His strength is at least at the Dou Ling level' follows Gu Te's door being kicked; whose strength is meant (Gu Te or Ao Tuo) is unclear. No realm recorded.",
+    "Gu Te calls Ao Tuo 'the vice leader of Alchemist Association' (277.3).",
+    "804-871 a girl asks if he will come back and says 'Xiao Yan, you must come back'; Lin Fei or Xue Mei, not named.",
+    "758.0 the bully's master is 'a three-tier alchemist'; unnamed. He returns in EP13.",
+    "81.3: Xiao Yan says he leaves 'for the Empire's eastern border'; he is actually heading to the Tager Desert."
+  ],
+  "changes": []
+}

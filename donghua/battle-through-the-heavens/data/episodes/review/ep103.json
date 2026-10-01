@@ -1,0 +1,131 @@
+{
+  "ep": 103,
+  "title": "The Essence Heart Flame",
+  "summary": "Xiao Yan joins the rest of the top ten, Lin Yan, Liu Qing and Zi Yan among them, at the Blazing Qi Refining Tower, and Liu Qing now calls him his rival. Su Qian leads them past guards and seals to the lowest level, where they forge their bodies with the Essence Heart Flame, which helps students below Dou Wang on the hard road to breaking through. About half usually fail, and this year four give up while seven, including Xiao Yan, hold on. Su Qian goes to check the Fallen Heart Flame, which has been oddly quiet since the elders spent five days repairing its seal, and finds it much stronger and attacking the seal. He orders all students out and calls every elder to the tower, but the seal breaks. Elsewhere, Han Feng, the Medicine Emperor, tells Ban Lao, Chief Yuan and Chief Fan that he has sensed a Heavenly Flame in the Jia Nan Academy and promises each of them two favours for their help. The Blood Sect, the Eight Gates and the Ground Flame Sect join him, and Han Feng says he has his own way to find the hidden Inner Academy.",
+  "events": [
+    "Xiao Yan meets the top ten at the tower; Liu Qing calls him his rival.",
+    "Su Qian leads them past guards and seals to the lowest level.",
+    "The students forge their bodies in the Essence Heart Flame; four fail, seven continue.",
+    "Su Qian learns the Fallen Heart Flame has been quiet since the elders repaired the seal, and goes to look.",
+    "The flame attacks the seal; students are ordered out, the elders are called, and the seal breaks.",
+    "Han Feng meets Ban Lao, Chief Yuan and Chief Fan and asks for help taking the academy's Heavenly Flame.",
+    "The Blood Sect, the Eight Gates and the Ground Flame Sect pledge themselves to the Medicine Emperor."
+  ],
+  "introduced": [
+    "Essence Heart Flame",
+    "Gu Clan (named in the recap)",
+    "the dean's seal on the Blazing Qi Refining Tower",
+    "Ban Lao",
+    "Chief Yuan",
+    "Blood Sect",
+    "Eight Gates",
+    "Ground Flame Sect",
+    "Dean Mang (named, away for years)",
+    "the Medicine Emperor's two promises"
+  ],
+  "cultivation": "No breakthroughs; the recap repeats that Xiao Yan became a Five-Star Dou Ling. One of Han Feng's allies says Su Qian is a Dou Zong, Hu Qian, vice dean of the Outer Academy, is a Dou Huang, and the other academy elders are Dou Wangs.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-qing",
+      "name": "Liu Qing",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "realm": "Dou Zong",
+      "quote": "Su Qian, the First Elder of the Inner Academy, who is Dou Zong",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fallen-heart-flame",
+      "name": "Fallen Heart Flame",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ban-lao",
+      "name": "Ban Lao",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 861.3
+    },
+    {
+      "id": "chief-yuan",
+      "name": "Chief Yuan",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 870.2
+    },
+    {
+      "id": "fan-lao",
+      "name": "Fan Lao",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 904.3
+    }
+  ],
+  "changes": [
+    "Moved out to EP102: Ling Quan's warning, Su Qian sending him away and Yao Lao's encouragement (all before this episode's card).",
+    "Added the end of the episode, which the old review left out: the seal breaking and Han Feng's meeting with Ban Lao, Chief Yuan and Chief Fan, where the Blood Sect, the Eight Gates and the Ground Flame Sect join him. Ling Quan removed from cast; Han Feng, Ban Lao, Chief Yuan and Fan Lao added; Su Qian's Dou Zong realm recorded."
+  ],
+  "flags": [
+    "0-40s are a recap of EP102 and are not counted.",
+    "66-81s: Xun Er calls 'Brother Xiao Yan' and he answers 'I'll come to you soon'; she has already left, so this is read as a vision or memory and she is left out of cast.",
+    "304.8: the Essence Heart Flame is said to ease the road 'to break through and become a Dou Huang' for those below Dou Wang; the lines around it are about the Dou Wang barrier, so this is likely a slip.",
+    "'The four of them couldn't stand the heat wave' (616.3) and 'the seven of them' (605.7) gives eleven, the top ten plus the tie.",
+    "Ban Lao has a name card (861.3); Chief Yuan is only greeted (870.2). 'Chief Fan' (904.3) is read as Fan Lao of the Blood Sect, who is called 'Chief Fan' in EP107 and EP112. Which of Ban Lao and Chief Yuan leads the Eight Gates or the Ground Flame Sect isn't said.",
+    "966-983s: Dean Mang has been away for years; Su Qian is a Dou Zong; Hu Qian, vice dean of the Outer Academy, is a Dou Huang; the rest are Dou Wangs.",
+    "1026-1038s are inner-voice lines from later episodes ('I hope you can survive this', 'Don't you want your eyes anymore?', 'it's time we exchange roles'); a preview, not counted."
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "ep": 48,
+  "title": "Yan Li Unmasked",
+  "summary": "On the night after the first round of the Alchemist Conference, an assassin attacks Xiao Yan and Hai Bodong drives him off. Xiao Yan blames the Chu Yun Empire alchemist he beat that day, and he and Hai Bodong go after her. At the Mite'er family's resthouse in the capital, Ya Fei welcomes Xiao Zhan, who has come to see his son, and tells him how far Xiao Yan has come. Xiao Yan realises the enemy plans to strike the royal banquet for the young alchemists and heads there to protect Ya Fei. Hai Bodong, Jia Xing Tian and Fa Ma corner the Chu Yun contestant, who drops the young girl's form and turns out to be Yan Li, deputy chairman of the Chu Yun Empire's Alchemist Association. Yan Li springs a poison prepared for a Dou Huang, and poison smoke fills the royal banquet hall.",
+  "events": [
+    "Xiao Yan feels the Searing Poison in his body react to the Chu Yun contestant.",
+    "An assassin attacks him at night; Hai Bodong saves him.",
+    "Ya Fei receives Xiao Zhan at the Mite'er resthouse in the capital and talks about Xiao Yan's three years.",
+    "Xiao Yan guesses the real target is the royal banquet and goes to protect Ya Fei, who has not attended it.",
+    "Princess Yao Ye's banquet honours the finalists of the Alchemist Conference.",
+    "Hai Bodong, Jia Xing Tian and Fa Ma find the Chu Yun contestant, who is really Yan Li disguised as a girl.",
+    "Yan Li uses a poison made for a Dou Huang; poison smoke spreads through the banquet."
+  ],
+  "introduced": [
+    "Yan Li (deputy chairman of the Chu Yun Empire's Alchemist Association)",
+    "Searing Poison",
+    "Death Paradise",
+    "Mite'er family resthouse in the capital"
+  ],
+  "cultivation": "Hai Bodong is called a Dou Huang (\"the strong Dou Huang from the Jia Ma Empire\"). No breakthroughs.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": "Dou Huang",
+      "quote": "I didn't know that the strong Dou Huang from the Jia Ma Empire would be so naive",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-zhan",
+      "name": "Xiao Zhan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ye",
+      "name": "Yao Ye",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yan-li",
+      "name": "Yan Li",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 747.2,
+      "look": "Shown first as a veiled teenage girl, then in his real form as a man."
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-46s is the end of EP47 (the 'joke' about the poison) and is not counted; the episode card is at 46.5.",
+    "The end of this episode is at the start of ep49.en.srt (0-83s): the poisoned banquet and Xiao Yan arriving.",
+    "Xiao Yan goes by the alias 'Yan Xiao' at the conference (not 'Yao Yan' as REVIEW-NOTES lists).",
+    "839.2: 'the strong Dou Huang from the Jia Ma Empire' is said by Yan Li to the group; most likely aimed at Hai Bodong but could include Jia Xing Tian.",
+    "292.0: Ya Fei's guest is called 'Patriarch Xiao'; EP50 confirms he is Xiao Zhan, Xiao Yan's father.",
+    "Name card [Yan Li] at 747.2; he says 'I look cuter in Lolita's body' (767.5), i.e. the girl form was his disguise.",
+    "Yan Li's mission (EP49) is to draw the strong away; who sent the night assassin is not said, but Xiao Yan links it to the Chu Yun Empire."
+  ]
+}

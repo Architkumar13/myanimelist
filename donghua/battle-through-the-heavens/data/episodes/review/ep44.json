@@ -1,0 +1,97 @@
+{
+  "ep": 44,
+  "title": "The Seven Magical Green Spirit Saliva",
+  "summary": "Jia Xing Tian, guardian of the Jia Ma Imperial Family, finds Hai Bodong, and the old rivals trade words and blows, with Hai Bodong raising a Black Ice Shield. Ya Fei admits she used Yan Xiao to keep Mu Zhan away, and Mite'er Tengshan urges her to pursue Yan Xiao, revealing that the family elders have voted for her to marry Mu Zhan. Xiao Yan removes the last of the Searing Poison, and Nalan Jie explains how the Nalan Clan survives between the Imperial Family and the Misty Cloud Sect before handing over the Seven Magical Green Spirit Saliva, the plant he was poisoned while harvesting. Ya Fei resolves to take charge of the Mite'er family herself rather than be married off. Leaving with her, Xiao Yan senses two Dou Huangs clashing, and when Mu Zhan attacks again Xiao Yan takes to the air on Dou Qi wings, a lost Flying Dou Skill that stuns the onlookers.",
+  "events": [
+    "Jia Xing Tian confronts Hai Bodong about the Tager Desert and the Snakemen Clan; they fight.",
+    "Ya Fei apologises to Xiao Yan for using him against Mu Zhan.",
+    "Tengshan tells Ya Fei the elders voted for a marriage with Mu Zhan.",
+    "Xiao Yan finishes Nalan Jie's detoxification.",
+    "Nalan Jie and Nalan Su explain the Nalan Clan's position and Jia Xing Tian's role as imperial guardian.",
+    "Nalan Jie gives Xiao Yan the Seven Magical Green Spirit Saliva.",
+    "Ya Fei decides to become the one in charge of the Mite'er family.",
+    "Mu Zhan attacks; Xiao Yan flies with a lost Flying Dou Skill."
+  ],
+  "introduced": [
+    "Black Ice Shield",
+    "mysterious exotic beast protecting the imperial family",
+    "Flying Dou Skill (lost)",
+    "diplomatic marriage between the Mite'er family and Mu Clan"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mite-er-tengshan",
+      "name": "Mite'er Tengshan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-jie",
+      "name": "Nalan Jie",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-su",
+      "name": "Nalan Su",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mu-zhan",
+      "name": "Mu Zhan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-21s replays the end of EP43; the old-friends exchange at 117 is replayed at 192 after the [Episode 44] card at 123.",
+    "The last part of this episode is at the start of ep45.en.srt (0-221s): the watchers naming Jia Xing Tian and the two Dou Huangs ending their bout; the [Episode 45] card is at 233.",
+    "192-246: Hai Bodong's opponent is not named until ep45.en.srt 99-113, where he is identified as Jia Xing Tian.",
+    "809-869: the night clash is confused in the subtitles. Someone says 'Mu Zhan. How dare you.', then 'He actually managed to project the Dou Qi Wings' before 'How did he [Yan Xiao] manage to project the Dou Qi Wings too?'. Who flew first is unclear. The skill is not named here (earlier episodes call it Purple Cloud Wings).",
+    "Confidence medium because of the unclear night fight."
+  ]
+}

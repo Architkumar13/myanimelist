@@ -1,0 +1,98 @@
+{
+  "ep": 72,
+  "title": "The Yin-Yang Mysterious Dragon Pill",
+  "summary": "The last lot of the auction is the Seventh-Tier Yin-Yang Mysterious Dragon Pill, which once saved Feng Xian, the Feng Zun Zhe, who later became a Dou Zun. Its price is two tasks for the owner, and Yao Lao reacts to the name but says nothing. Xiao Yan collects 930,000 gold coins from Supervisor Hu after paying for the Flame Core Ganoderma and a Bright Square Fire Cauldron, and refuses a meeting with the Eight Gates chief, Yuan Yi. Yuan Yi has him tailed, but Xiao Yan loses the tail and follows Fan Ling to get the map fragment. Outside the city the Blood Sect ambushes Elder Qing of Sky Serpent Mansion, who bought the pill, and Fan Ling's father, the Dou Huang Fan Lao, takes it and gives it to his son. On the way home Fan Ling attacks Black Skeleton's Tomb, kills Mo Er Han's group and takes the Three Thousand Lightning Movement. Then he turns to Xiao Yan, whom he has noticed watching.",
+  "events": [
+    "The Yin-Yang Mysterious Dragon Pill is shown; its price is two tasks.",
+    "Xiao Yan receives 930,000 gold coins and declines Yuan Yi's invitation.",
+    "Yuan Yi has him tailed; Xiao Yan slips away and follows Fan Ling.",
+    "The Blood Sect ambushes Elder Qing; Fan Lao takes the pill and hands it to Fan Ling.",
+    "Fan Ling attacks Black Skeleton's Tomb and takes the Three Thousand Lightning Movement.",
+    "Fan Ling confronts Xiao Yan."
+  ],
+  "introduced": [
+    "Yin-Yang Mysterious Dragon Pill",
+    "Feng Xian (Feng Zun Zhe)",
+    "Supervisor Hu",
+    "Bright Square Fire Cauldron",
+    "Yuan Yi (on screen)",
+    "Fan Lao",
+    "City of Mu",
+    "Bone Grave Explosion"
+  ],
+  "cultivation": "Fan Lao: 'Dou Huang?' (764). Feng Xian was 'a Five-Star Dou Zong' and later 'ascended to a Dou Zun' (184, 224). Black Skeleton's Tomb party: 'two Dou Lings, one Da Dou Shi, and the rest are Dou Shis' (897).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "supervisor-hu",
+      "name": "Supervisor Hu",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 345.7
+    },
+    {
+      "id": "yuan-yi",
+      "name": "Yuan Yi",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 393.9
+    },
+    {
+      "id": "elder-qing",
+      "name": "Elder Qing",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fan-lao",
+      "name": "Fan Lao",
+      "realm": "Dou Huang",
+      "quote": "Dou Huang?",
+      "first": true,
+      "card": 757.9
+    },
+    {
+      "id": "fan-ling",
+      "name": "Fan Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mo-er-han",
+      "name": "Mo Er Han",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "This file runs past the episode: from about 1066s it holds EP73's opening narration and EP73's events (the fight with Fan Ling, the pill, Heping Town, the competition), the same as ep73.en.srt 0-1100. No [Episode 73] card appears. EP72 is counted as 0-1066 only.",
+    "992.8 'If you kill me, you'll await endless revenge from Black Skeleton's Tomb' is untagged; I read it as Mo Er Han, who dies.",
+    "Fan Lao is Fan Ling's father, so the 'fifth elite in the Black Ranking' of EP71 is likely Fan Lao.",
+    "1536.4 (EP73 part) 'Seventh-Pier Pill' is a typo for Seventh-Tier."
+  ]
+}

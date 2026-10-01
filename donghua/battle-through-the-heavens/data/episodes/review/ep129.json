@@ -1,0 +1,80 @@
+{
+  "ep": 129,
+  "title": "Yun Yun Leaves",
+  "summary": "While the Misty Cloud Sect disbands, Xiao Yan recovers from his wounds. Hai Bodong notes that the injuries let him touch the barrier to Dou Huang, and he and Xiao Ding urge Xiao Yan to build a force strong enough to face the Hall of Souls. Jia Xing Tian decides the imperial family should support Xiao Yan rather than oppose him, and sends scouts after the rising Poison Sect of the Chu Yun Empire, led by someone called the Poison Woman. From Yao Lao's notes Xiao Yan finds the Deep Green Longevity Pill to extend Xiao Li's life, and the fire seal tells him his master is alive. Yao Ye brings herbs and the imperial family's backing. Nalan Yanran then takes Xiao Yan to Yun Yun, who is leaving the Jia Ma Empire. Yun Yun gives him an old collection from the Misty Cloud Sect, and they say goodbye.",
+  "events": [
+    "Xiao Ding and Xiao Li visit the recovering Xiao Yan",
+    "Hai Bodong says Xiao Yan has touched the Dou Huang barrier",
+    "Xiao Yan decides to build a force against the Hall of Souls",
+    "Jia Xing Tian and Yao Ye choose to back Xiao Yan and watch the Poison Sect",
+    "Xiao Yan studies the Deep Green Longevity Pill for Xiao Li",
+    "Yao Ye brings herbs and imperial support",
+    "Nalan Yanran takes Xiao Yan to Yun Yun",
+    "Yun Yun gives him a Misty Cloud collection and says goodbye"
+  ],
+  "introduced": [
+    "Poison Sect (Chu Yun Empire)",
+    "Poison Woman",
+    "Great Meeting of Factions",
+    "Deep Green Longevity Pill",
+    "Deep Green Fruit",
+    "King Longevity Starch",
+    "Ten Thousand Years Vine"
+  ],
+  "cultivation": "Xiao Yan has touched the barrier to Dou Huang. Yun Yun calls herself a strong Dou Huang.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Wang",
+      "quote": "a brief touch of the barrier that was stopping me from becoming a Dou Huang.",
+      "first": false
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "first": false
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "first": false
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "first": false
+    },
+    {
+      "id": "yao-ye",
+      "name": "Yao Ye",
+      "first": false,
+      "card": 602.7
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "first": false
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": "Dou Huang",
+      "quote": "After all, I'm a strong Dou Huang.",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-12.5s of ep129.en.srt is the end of EP128.",
+    "The ending-song lyrics at ep130.en.srt 0-66s follow this episode.",
+    "Xiao Yan's realm is recorded as Dou Wang from his own words that he touched the Dou Huang barrier; it is not said as a rank line.",
+    "Poison Woman (522.2) is probably Little Fairy Doctor (EP131 'Sky Poison Woman', EP135); not stated here."
+  ]
+}

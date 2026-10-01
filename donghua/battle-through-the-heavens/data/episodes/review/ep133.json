@@ -1,0 +1,92 @@
+{
+  "ep": 133,
+  "title": "War Comes to Jia Ma",
+  "summary": "Xiao Yan's vision shows Yao Lao imprisoned in the Hall of Souls by a soul stronger than Protector Wu, but it proves his master is alive. Now a Dou Huang, he trains the Sea Flipping Seal against Medusa's barrier. Zi Yan wakes as a Rank Six Magical Beast but is stuck in a small body, because she has not fully absorbed the Shape-Shifting Flower. Leaving the valley, they find Qingshan Town choking on Poison Sect poison, and Xiao Yan drives off the poisoners and cures the townsfolk. Ka Gang tells him the Poison Sect, the Gold Geese Sect and the Mulan Valley have invaded the empire and besieged the Black Mountain Fortress. Xiao Yan saves Yue Mei of the Snakemen Clan from Gold Geese pursuers with a Fire Ring Explosion. Yue Mei tells him that Medusa is wounded and that the Gold Geese Sect leader Yan Luo Tian and three Mulan Valley elders are pressing her, and Xiao Yan and Zi Yan fly to the fortress.",
+  "events": [
+    "Xiao Yan sees Yao Lao imprisoned and knows he is alive",
+    "He practises the Sea Flipping Seal",
+    "Zi Yan wakes at Rank Six, stuck in a small form",
+    "Xiao Yan saves Qingshan Town from the Poison Sect's poisoners",
+    "Ka Gang tells him of the three-sect war and the Black Mountain Fortress",
+    "Xiao Yan rescues Yue Mei from the Gold Geese Sect",
+    "Yue Mei reports Medusa is wounded; they head for the fortress"
+  ],
+  "introduced": [
+    "Sea Flipping Seal (first used)",
+    "Shape-Shifting Flower",
+    "Poison Masters",
+    "Gold Geese Sect",
+    "Mulan Valley",
+    "Black Mountain Fortress",
+    "Lingyan City",
+    "Yue Mei",
+    "Fire Ring Explosion",
+    "Yan Luo Tian",
+    "Elder Hutou, Elder Shitou, Elder Xiongtou (Three Elders of Mulan)",
+    "Three Beast Savage Skill (as a 'combined Qi Method')"
+  ],
+  "cultivation": "Xiao Yan has just ascended to Dou Huang. Zi Yan is now Rank Six. Yan Luo Tian is a Dou Zong; the three Mulan elders are peak Dou Huangs whose combined power matches a Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Huang",
+      "quote": "I've just ascended to Dou Huang.",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": "Rank Six",
+      "quote": "You may be Rank Six now",
+      "look": "stuck in a small body after not fully absorbing the Shape-Shifting Flower",
+      "first": false
+    },
+    {
+      "id": "ka-gang",
+      "name": "Ka Gang",
+      "first": false
+    },
+    {
+      "id": "yue-mei",
+      "name": "Yue Mei",
+      "first": true,
+      "card": 1031.6
+    },
+    {
+      "id": "yan-luo-tian",
+      "name": "Yan Luo Tian",
+      "realm": "Dou Zong",
+      "quote": "he is still a strong Dou Zong.",
+      "first": true
+    },
+    {
+      "id": "elder-hutou",
+      "name": "Elder Hutou",
+      "realm": "peak Dou Huang",
+      "quote": "The three peak Dou Huang elders of the Mulan Valley",
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Elders Shitou and Xiongtou",
+      "realm": "peak Dou Huang",
+      "quote": "The three peak Dou Huang elders of the Mulan Valley",
+      "first": true
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-218s of ep133.en.srt is the end of EP132.",
+    "ep134.en.srt 0-53s (Yue Mei's account of the enemy, name cards for Yan Luo Tian at 7.6 and the three elders at 18.3, the decision to fly to the fortress) is counted here; those cards are on ep134.en.srt's clock, so no card time is given.",
+    "Yue Mei is not first on screen in the series (she chased Xiao Yan 'for thousands of miles' long ago); marked first as she is new to this batch's reviews.",
+    "'Her Majesty' throughout is Medusa.",
+    "673.4-682.7: who breaks out of Medusa's barrier is unclear in the lines."
+  ]
+}

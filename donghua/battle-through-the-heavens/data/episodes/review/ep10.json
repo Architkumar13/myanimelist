@@ -1,0 +1,76 @@
+{
+  "ep": 10,
+  "title": "Medicine Valley",
+  "summary": "With the Wolf Head Mercenary Company defeated, Little Fairy Doctor's blue eagle Lan carries her and Xiao Yan from Qingshan Town to the hidden Medicine Valley. She gathers herbs from the Rainbow Poison Book while he trains for Dou Shi in the valley's pure energy. Hunting a Rank Two Ice Magical Beast, Xiao Yan saves Ling Er and Qing Ye of the Bloody Battle Mercenary Company. Qing Ye gives him a Rank Two ice Monster Core in thanks, which he needs for the Icy Heart Pill and Path Protecting Pill. Back in the valley, Little Fairy Doctor collapses, and Yao Lao says she has the Woeful Poison Body, which feeds on poison but ends in an agonising death. Xiao Yan promises to cure her and take her travelling. She leaves a note in the night and goes, telling him not to look for her, and he vows to cure her one day.",
+  "events": [
+    "The blue eagle Lan flies Xiao Yan and Little Fairy Doctor to Medicine Valley.",
+    "They live in the valley; she gathers herbs, he cultivates toward Dou Shi.",
+    "Xiao Yan saves Ling Er and Qing Ye from a Rank Two Ice Magical Beast.",
+    "Qing Ye gives him a Rank Two ice Monster Core.",
+    "Little Fairy Doctor faints; Yao Lao names her Woeful Poison Body.",
+    "Xiao Yan promises to cure her and take her travelling.",
+    "She leaves a note and disappears; Xiao Yan vows to cure her."
+  ],
+  "introduced": [
+    "Qingshan Town",
+    "Medicine Valley",
+    "Qing Ye",
+    "Lan (blue eagle)",
+    "Woeful Poison Body",
+    "Rank Two Ice Magical Beast",
+    "Monster Core",
+    "Icy Heart Pill",
+    "Path Protecting Pill"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ling-er",
+      "name": "Ling Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "qing-ye",
+      "name": "Qing Ye",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 470.8
+    }
+  ],
+  "flags": [
+    "Song lyrics at 156-194, 267-274 and 734-802 are not events.",
+    "Qing Ye says Xiao Yan 'also took Mu She out' (519.3), confirming Mu She died in EP9.",
+    "856.8 '[Little Fairy Doctor]' bracket is on her farewell note.",
+    "923.3: Yao Lao(?) notes no one in history has cured the Woeful Poison Body."
+  ],
+  "changes": []
+}

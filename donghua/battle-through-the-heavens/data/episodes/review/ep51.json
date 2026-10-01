@@ -1,0 +1,112 @@
+{
+  "ep": 51,
+  "title": "The Poison in the Square",
+  "summary": "Nalan Yanran watches the finals with her grandfather Nalan Jie, who urges her to apologise to Xiao Yan after the Three-Year Agreement; she refuses. Xiao Yan refines his herbs first with his Heavenly Flame and attempts a Two Lines Green Spirit Pill by switching flames. Black dust from Yan Li's poison-soaked body drifts over the square and ruins other contestants' pills. Fa Ma will not stop the contest, because no rule forbids it. Xiao Yan's pill fails, while Yan Li forms a pill that gives off Colored Pill Fragrance, a strong Fourth-Tier Pill. Shaken, Xiao Yan remembers his father's words and Yao Lao's lessons, lets go of his guilt, and his Soul Power surges.",
+  "events": [
+    "Nalan Jie tells Nalan Yanran she should apologise to Xiao Yan; she refuses.",
+    "Spectators note Xiao Yan became a Dou Zhe within a year of leaving Wu Tan City.",
+    "Xiao Yan finishes refining herbs first and tries a Two Lines pill by switching flames.",
+    "Poisonous black dust from Yan Li spoils other contestants' refinements.",
+    "Fa Ma and Jia Xing Tian decide not to punish Yan Li.",
+    "Xiao Yan's pill fails; Yan Li's pill releases Colored Pill Fragrance.",
+    "Xiao Yan recalls his father's and Yao Lao's words, and his Soul Power grows stronger."
+  ],
+  "introduced": [
+    "Poison Master techniques in pill refining",
+    "Colored Pill Fragrance (only Fifth-Tier Pills release it)",
+    "Two Lines Green Spirit Pill"
+  ],
+  "cultivation": "Xiao Yan's Soul Power grows stronger (a soul breakthrough under pressure). Yan Li is a fourth-tier alchemist.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-jie",
+      "name": "Nalan Jie",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yan-li",
+      "name": "Yan Li",
+      "realm": null,
+      "quote": "Yan Li is a fourth-tier alchemist.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yue-er",
+      "name": "Yue Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-ling",
+      "name": "Liu Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-zhan",
+      "name": "Xiao Zhan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-214s is the end of EP50 (cauldrons, Dry Blue Water Flame, Heavenly Flame) and is not counted; the card is at 214.7.",
+    "The end of this episode is at the start of ep52.en.srt (0-126s): the breakthrough and Fa Ma saying Xiao Yan needs a third flame.",
+    "336-340: Nalan Jie asks whether the Misty Cloud Sect sent men to bring Nalan Yanran back; she says yes.",
+    "847.0: spectators guess the failure is a side effect of curing Nalan Jie; this is speculation in the scene.",
+    "888-893: 'Stop struggling... close your eyes' is untagged; unclear who says it.",
+    "Yao Lao appears only in Xiao Yan's memories (he is asleep in the ring)."
+  ]
+}

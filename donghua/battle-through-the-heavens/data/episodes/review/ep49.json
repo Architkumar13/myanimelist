@@ -1,0 +1,108 @@
+{
+  "ep": 49,
+  "title": "The Poisoned Banquet",
+  "summary": "Xiao Yan reaches the royal banquet at Midhill Palace as poison smoke spreads and hands out antidote pills. Chu Yun Empire puppets attack the trapped young alchemists, but Princess Yao Ye arrives with soldiers and, with Xiao Yan and Princess Yue Er, wipes them out. Yao Ye had known the Chu Yun plan in advance and used the banquet as bait. Yan Li admits his own job was to expose himself and lure the strong away. Because he has destroyed the only Appearance Recovery Pill, Fa Ma cannot prove his disguise, so he is let go to face the finals. Fa Ma then asks Xiao Yan to beat Yan Li for the empire's honour and gives him the prescription and herbs for the Three Lines Green Spirit Pill.",
+  "events": [
+    "Xiao Yan arrives at the banquet and hands out antidotes.",
+    "Yan Li tells Hai Bodong, Jia Xing Tian and Fa Ma that his task was only to draw them away.",
+    "Chu Yun puppets attack the banquet at Midhill Palace; Yao Ye arrives with troops and Xiao Yan fights beside her.",
+    "Yao Ye reveals she had planned to trap the Chu Yun force all at once.",
+    "Yan Li says the Appearance Recovery Pill is destroyed, so his young face cannot be proven a disguise; Fa Ma lets him go.",
+    "Yue Er asks Xiao Yan for a date if she wins; Jia Xing Tian thanks him.",
+    "Fa Ma explains the final round: contestants bring their own prescriptions and herbs.",
+    "Fa Ma gives Xiao Yan a copy of the Three Lines Green Spirit Pill prescription and herbs for two attempts."
+  ],
+  "introduced": [
+    "Midhill Palace",
+    "Chu Yun Empire puppets",
+    "Appearance Recovery Pill",
+    "Three Lines Green Spirit Pill (a Fourth-Tier Pill; One, Two and Three Lines grades)",
+    "Green Spirit Pill"
+  ],
+  "cultivation": "None stated for Xiao Yan. Fa Ma says Yan Li must hold fourth-tier prescriptions and might try a Fifth-Tier Pill.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ye",
+      "name": "Yao Ye",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yue-er",
+      "name": "Yue Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-ling",
+      "name": "Liu Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yan-li",
+      "name": "Yan Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-83s is the end of EP48 and is not counted; the card is at 83.0.",
+    "The end of this episode is at the start of ep50.en.srt (0-116s): Fa Ma explaining the Three Lines Green Spirit Pill and handing over herbs for two pills.",
+    "676-707: Yao Ye (or Yue Er) scolds a man 'lying on the ground like a fish' who refused Xiao Yan's antidote; from 'didn't I tell you to protect Yue?' it is most likely Liu Ling.",
+    "751.5: the 'date' line is not tagged with a speaker; it is most likely Yue Er.",
+    "Ya Fei did not attend the banquet (150.2), so Xiao Yan's rush there to protect her was unnecessary.",
+    "Xiao Yan says he has '20% confidence' of refining the Three Lines pill (ep50 0-82s).",
+    "Yan Li's young face 'can last for at least six months' (574.0)."
+  ]
+}

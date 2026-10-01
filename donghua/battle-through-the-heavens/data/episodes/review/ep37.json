@@ -1,0 +1,104 @@
+{
+  "ep": 37,
+  "title": "The Reward Xiao Yan Needs",
+  "summary": "Nalan Yanran asks Ya Fei to find an alchemist with a Heavenly Flame, because Gu He says only such a flame can draw the Searing Poison out of her grandfather Nalan Jie, and the Nalan Clan offers its treasures as a reward. Ya Fei shows Xiao Yan the reward list: it includes the Seven Magical Green Spirit Saliva, which restores Soul Power, so he decides to treat the old man despite his grudge, and she gives him an item that hides his scent. On his way he is ambushed by a Dou Huang who knows he is Xiao Yan of Wu Tan City; Xiao Yan holds him off with Octane Blast until Hai Bodong arrives and the attacker withdraws. Mite'er Tengshan strips Lei Ou of his post as Elder, sends him to a border city for three years and puts Ya Fei in charge of the headquarters auction house. Tengshan asks Hai Bodong to come home, but Hai Bodong says he must stay as Xiao Yan's guard for now. At the Nalan Residence, masked and calling himself Yan Xiao, Xiao Yan meets Nalan Su, who doubts that a second-tier alchemist can succeed where Gu He failed.",
+  "events": [
+    "Nalan Yanran tells Ya Fei about the Searing Poison and Gu He's verdict that a Heavenly Flame is needed.",
+    "Ya Fei shows Xiao Yan the reward: the Seven Magical Green Spirit Saliva.",
+    "Ya Fei gives Xiao Yan a scent-hiding item for his visit to the Nalan Residence.",
+    "A hidden Dou Huang ambushes Xiao Yan; Hai Bodong arrives and the attacker leaves, calling him Ice Emperor.",
+    "Mite'er Tengshan demotes Lei Ou and makes Ya Fei head of the headquarters auction house.",
+    "Hai Bodong tells Tengshan he is bound to guard Xiao Yan for now.",
+    "Xiao Yan, as Yan Xiao, meets Nalan Su at the Nalan Residence."
+  ],
+  "introduced": [
+    "Seven Magical Green Spirit Saliva",
+    "Nalan Jie",
+    "Nalan Residence",
+    "Thousands-Year-Old Red Fruit",
+    "Searing Iron Poison Weed (Rank Five Magical Beast)",
+    "Yan Xiao (Xiao Yan's alias)",
+    "Mite'er Tengshan",
+    "Nalan Su",
+    "the dark Dou Huang who ambushes Xiao Yan",
+    "North Region"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lei-ou",
+      "name": "Lei Ou",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mite-er-tengshan",
+      "name": "Mite'er Tengshan",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 971.2
+    },
+    {
+      "id": "nalan-su",
+      "name": "Nalan Su",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 1129.5
+    },
+    {
+      "id": null,
+      "name": "unnamed Dou Huang assassin",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-111s replays the end of EP36; the [Episode 37] card is at 142.",
+    "ep38.en.srt 0-38s, before its card, is a flashback to Nalan Yanran calling off the engagement and probably closes this episode.",
+    "1157: Xiao Yan introduces himself as 'Yan Xiao'; REVIEW-NOTES lists 'Yao Yan' as his alias, but these episodes consistently use Yan Xiao.",
+    "469-481: the scent-hiding item is described in a remembered voice-over; its giver is most likely Ya Fei (who says 'you might need this' at 407) and its form (a mask) is inferred from EP37 1175.",
+    "526-836: the assassin is not named and is called only 'a strong Dou Huang'; EP41 calls him 'the Dou Huang with darkness-type Dou Qi'. Hai Bodong says he did not seem to mean to kill Xiao Yan.",
+    "Tengshan is called First Elder here and in EP36/EP44, but 'patriarch of the Mite'er family' in EP43.",
+    "1036-1053: Tengshan says 'your room' has been kept clean for Hai Bodong, implying Hai Bodong belongs to the Mite'er household; not explained."
+  ]
+}

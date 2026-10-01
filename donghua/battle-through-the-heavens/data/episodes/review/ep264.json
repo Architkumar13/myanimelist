@@ -1,0 +1,88 @@
+{
+  "ep": 264,
+  "title": "The Stone Clan vanishes, and Little Yi is born",
+  "summary": "The Stone Clan has vanished with its whole territory, just as the Spirit Clan did, and the Yan, Medicine and Thunder Clans form a Three-Clan Alliance that leaves out the Gu Clan and the Hun Clan. The Gu Clan elders decide to strengthen their defences rather than guess who is behind it. Hun Qianmo of the Hun Clan scolds Hun Miesheng for losing the Demon Flame and letting the Sky Mansion Alliance grow, warns that the sealed Demon Fire Desert is stirring, and gives him something from the clan to crush the alliance before Xiao Yan returns. After a year of war, the alliance gains another Dou Sheng, a woman who broke through with the Demon Saint's essence blood, and then the Hall of Souls declares a battle to the death on Fallen Mountain. In the Demon Flame space, Xiao Yan finishes refining the flame and finds all his Heavenly Flames gone. They come out as a small fire spirit that carries a hint of Xun Er's Golden Earth Burning Heaven Flame, can make ten Buddha's Wrath Fire Lotuses at once and obeys his thoughts. He names it Little Yi, and he and Xun Er head back.",
+  "events": [
+    "The Medicine Clan and others find the Stone Clan gone, like the Spirit Clan.",
+    "The Yan, Medicine and Thunder Clans form a Three-Clan Alliance.",
+    "The Gu Clan elders resolve to strengthen their defences.",
+    "Hun Qianmo visits Hun Miesheng with orders and a gift from the Hun Clan.",
+    "The Sky Mansion Alliance gains a new Dou Sheng.",
+    "The Hall of Souls declares a battle to the death on Fallen Mountain.",
+    "Xiao Yan finishes refining the Demon Flame and loses his Heavenly Flames.",
+    "The flames return as a fire spirit, which Xiao Yan names Little Yi."
+  ],
+  "introduced": [
+    "Stone Clan's disappearance",
+    "Three-Clan Alliance (Yan, Medicine and Thunder Clans)",
+    "Thunder Clan",
+    "Medicine Realm",
+    "Hun Qianmo",
+    "Demon Fire Desert",
+    "Fallen Mountain",
+    "Little Yi (fire spirit)",
+    "Golden Earth Burning Heaven Flame"
+  ],
+  "cultivation": "Xiao Yan fully refines the Purifying Demonic Lotus Flame; his fused Heavenly Flames become a fire spirit, Little Yi. A woman of the alliance breaks through to Dou Sheng. No rank stated for Xiao Yan.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-miesheng",
+      "name": "Hun Miesheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-qianmo",
+      "name": "Hun Qianmo",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 450.1
+    },
+    {
+      "id": "little-yi",
+      "name": "Little Yi",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 1010.6
+    },
+    {
+      "id": "gu-nanhai",
+      "name": "Gu Nanhai",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file opens with a recap of EP263 (155-186s).",
+    "This track writes 'Ancient Clan' (Gu Clan), 'Soul Clan' (Hun Clan), 'Flame Clan' (Yan Clan), 'Yi Huo' (Heavenly Flame) and both 'Tianfu Alliance' and 'Heavenly Palace Alliance' (Sky Mansion Alliance).",
+    "275.0-280.8: the speaker who invites the other two clans to the Medicine Realm is a Medicine Clan figure, not named.",
+    "362.1-372.7: the Gu Clan member who watched the Hun Clan's realm is not named; Gu Nanhai is listed from his role in EP263 but this is not certain.",
+    "546.1-557.3: what Hun Qianmo hands Hun Miesheng is not shown in the subtitles; in EP267 Hun Miesheng uses the Void Devouring Flame, which may be it.",
+    "631.9-637.8: the woman who breaks through to Dou Sheng is not named (possibly Little Fairy Doctor, who was in seclusion).",
+    "The fire spirit's cry 'Iwa/Yiwa' gives its name: 'Little Yi' here, 'Xiao Yi' in later recaps."
+  ]
+}

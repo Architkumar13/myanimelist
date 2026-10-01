@@ -1,0 +1,89 @@
+{
+  "ep": 41,
+  "title": "The Qualifying Test",
+  "summary": "Gu He tells Yan Xiao that his master understands Heavenly Flames better than he does and asks where to find him, but Xiao Yan says his master meets no outsiders. Chairman Fa Ma explains that candidates recommended by the branches must refine a herb, the Black Iron Spiritual Leaf, into as pure an extract as possible before the timer runs out. Xiao Yan keeps his Green Lotus Core Flame hidden so that Gu He will not recognise it, and works with the Purple Flame instead. Gu He says he returns to the Misty Cloud Sect the next day and hints that such a talent belongs there, while over drinks Hai Bodong asks after the darkness-type Dou Huang and hears that Chu Yun Empire spies are gathering in the capital. Liu Ling and Princess Yue Er finish quickly, but the Searing Poison flares inside Xiao Yan and he falls far behind. He fights the poison down with willpower and finishes the extraction just as the round ends.",
+  "events": [
+    "Gu He praises Yan Xiao's unseen master and asks to visit him.",
+    "Ao Tuo introduces Yan Xiao to Gu He and Fa Ma.",
+    "Fa Ma sets the test: extract the herbs to the purest state within the time limit.",
+    "Xiao Yan uses the Purple Flame to hide his Heavenly Flame from Gu He.",
+    "Fa Ma and Gu He discuss the Chu Yun Empire's three-tier entrants.",
+    "Hai Bodong's friend promises a bounty in the North Region for the darkness-type Dou Huang and warns of Chu Yun spies.",
+    "The Searing Poison flares; Xiao Yan suppresses it while Liu Ling and Yue Er finish.",
+    "Xiao Yan completes the extraction at the last moment."
+  ],
+  "introduced": [
+    "Black Iron Spiritual Leaf",
+    "herb extraction test",
+    "darkness-type Dou Qi",
+    "Chu Yun Empire Alchemist Association spies"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "gu-he",
+      "name": "Gu He",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yue-er",
+      "name": "Yue Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ao-tuo",
+      "name": "Ao Tuo",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-ling",
+      "name": "Liu Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-115s is the end of EP40 and is replayed after the [Episode 41] card at 124.",
+    "The last part of this episode is at the start of ep42.en.srt (0-99s): the timer ending and Xiao Yan saying 'Sorry. I was late.'",
+    "633-682: the friend Hai Bodong drinks with is not named; he serves imperial liquor and promises a bounty, and may be Mite'er Tengshan.",
+    "The herb is named only in the EP42 recap (Black Iron Spiritual Leaf); EP46 calls it 'Black Metal Soul Leaf' (309).",
+    "557: 'three-tier alchemists' from the Chu Yun Empire (third-tier)."
+  ]
+}

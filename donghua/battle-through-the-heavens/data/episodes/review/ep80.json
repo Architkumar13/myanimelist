@@ -1,0 +1,123 @@
+{
+  "ep": 80,
+  "title": "Gathering the New Students",
+  "summary": "Liu Mu's team, using Wood-Attribute Dou Qi to sense the forest, catches Xiao Yan's group off guard. Xiao Yan holds them off with the Vacuum Hand while Xun Er leads the hurt members away, and he hands out healing medicine. The next day the five split Liu Mu's team apart and beat it, because Xiao Yan had locked onto their energy auras in the first fight. Xiao Yan finishes with the Flame Splitting Tsunami, and news spreads that his group has taken the Fire Energy of three senior teams. Xiao Yan then gathers the other new students, including Tai, and gives them medicine. He has the location leaked so the last two ordinary senior teams, led by Su Xiao and Xiu Yan, walk into a trap. Luo Hou of the White Demon Group watches from a distance.",
+  "events": [
+    "Liu Mu's team ambushes the group; Xiao Yan covers the retreat with the Vacuum Hand.",
+    "Xiao Yan explains why he pulled back and plans a counterattack.",
+    "Tai, a new student, defies the seniors; Xiao Yan's group returns and beats Liu Mu's team.",
+    "Xiao Yan uses the Flame Splitting Tsunami; three senior teams have now lost their Fire Energy.",
+    "Xiao Yan gathers the new students, gives them medicine and asks for their help.",
+    "Su Xiao's and Xiu Yan's teams arrive; Luo Hou watches."
+  ],
+  "introduced": [
+    "Wood-Attribute Dou Qi",
+    "Vacuum Hand (used here)",
+    "Fire Palm",
+    "Tai",
+    "disqualification rule (seniors out below ten Fire Energies)",
+    "Su Xiao",
+    "Xiu Yan",
+    "Leng Bai"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-shan",
+      "name": "Bai Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hu-jia",
+      "name": "Hu Jia",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-mu",
+      "name": "Liu Mu",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "tai",
+      "name": "Tai",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 274.2
+    },
+    {
+      "id": "luo-hou",
+      "name": "Luo Hou",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 942.6
+    },
+    {
+      "id": "su-xiao",
+      "name": "Su Xiao",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 971.7
+    },
+    {
+      "id": "xiu-yan",
+      "name": "Xiu Yan",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 1019.3
+    },
+    {
+      "id": "leng-bai",
+      "name": "Leng Bai",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 1031.1
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-35s is a recap of EP79.",
+    "Tai's name card (274.2) sits on a 'Hmph' line in a scene where seniors bully new students. Later episodes (EP82, EP84, EP87) show Tai is a new student and Rock Gate member.",
+    "Only two senior team defeats are shown (Lin Ge, Liu Mu); the third team counted at 683.6 is not shown.",
+    "125.3 'Fire Palm!' is not tagged; in EP81 (905.9) Xiao Yan uses Fire Palm.",
+    "Leng Bai's name card (1031.1) comes with the arriving senior teams; which team he is in is not stated. He was named in EP79 (351.0)."
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "ep": 25,
+  "title": "The Python Is Born",
+  "summary": "Medusa's swallowing of the Green Lotus Core Flame seems to fail, and the Snakemen mourn her. Then the energy of heaven and earth surges, breaking every ban in the space, and Gu He's group retreats. Yao Lao shields Xiao Yan through the storm, and the angered Heavenly Flame explodes and burns Medusa's snake body away. From the flames comes a small creature: Medusa's companion spirit, the Quiet Purple Flame Serpent, which has evolved into a Seven-Colored Heaven Swallowing Python. The python has no memory and no wish to kill. Xiao Yan feeds it Amethyst Lion Birth Essence and decides to keep it. He then collects the Green Lotus Core Flame with the Green Colored Lotus Platform, which hides its scent.",
+  "events": [
+    "Medusa seems to die while swallowing the flame; the Snakemen mourn.",
+    "Heaven-and-earth energy surges; Gu He and Ms. Yun retreat; all bans in the space break.",
+    "Yao Lao protects Xiao Yan as he dashes toward the flame.",
+    "The angered Heavenly Flame explodes and burns away Medusa's snake body.",
+    "A small Seven-Colored Heaven Swallowing Python comes out; Yao Lao explains the evolution of the Quiet Purple Flame Serpent.",
+    "Xiao Yan feeds it Amethyst Lion Birth Essence and keeps it.",
+    "Xiao Yan collects the Green Lotus Core Flame with the Green Colored Lotus Platform."
+  ],
+  "introduced": [
+    "Quiet Purple Flame Serpent (Rank Six Magical Beast)",
+    "Seven-Colored Heaven Swallowing Python (on par with a Dou Zong)",
+    "Amethyst Lion Birth Essence",
+    "Energy Barrier",
+    "heavens and earth's energy backlash"
+  ],
+  "cultivation": "Medusa evolves into the Seven-Colored Heaven Swallowing Python, 'on par with a strong Dou Zong' (745.8), but the creature is newborn and has lost its memory.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "heaven-swallowing-python",
+      "name": "Heaven Swallowing Python",
+      "realm": "on par with a Dou Zong (by kind)",
+      "quote": "evolve into the Seven-Colored Heaven Swallowing Python, which is on par with a strong Dou Zong.",
+      "first": true,
+      "card": 699.3
+    },
+    {
+      "id": "gu-he",
+      "name": "Gu He",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yin-shi",
+      "name": "Yin Shi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-68s is the end of EP24; the [Episode 25] card is at 68.3.",
+    "The python is named 'Seven-Colored Heaven Swallowing Python' here; later reviews use the id heaven-swallowing-python.",
+    "Whether Medusa 'died' is unclear here: the Snakemen think so, Yao Lao calls the python Medusa's evolution (753 'That's Queen Medusa?'), and EP27 has a Snakemen elder sense the Queen's scent.",
+    "775: 'There are only three of us among the Eight Leaders now' (Snakemen elder, likely Yin Shi).",
+    "The end of this episode repeats at the start of ep26.en.srt (0-16s)."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "ep": 150,
+  "title": "Return to the Rock Gate",
+  "summary": "Xiao Yan, Little Fairy Doctor and Zi Yan return to the Inner Academy of Jia Nan Academy with Su Qian. At the Rock Gate, Ye Xin Lan refines a Fourth-Tier Sky Qi Pill. Members stop Xiao Yan until he is recognised as the Rock Gate's founder, and he spars with an old friend. Su Qian learns of the Demon Poison Spot and says the dean, the only Dou Zun, is away, while Qian Mu and Bai Lie rarely show themselves. Xin Lan, who came from the Central Plains, says the Three Thousand Burning Flame, ninth on the Heavenly Flames Ranking, is held by the Pill Tower. A top-ten place at the Pill Tower's Pill Gathering, two years away, earns a chance to subdue it, and Xiao Yan promises to help her family win the Elder's Seat. That night he takes the Bone Wings from the Demon Corpse and burns away the Heaven Demon Phoenix Tribe beast's leftover spirit, which strengthens his Spiritual Strength.",
+  "events": [
+    "The group arrives at the Inner Academy",
+    "Xin Lan refines a Fourth-Tier Sky Qi Pill at the Rock Gate",
+    "Rock Gate members challenge Xiao Yan until he is recognised",
+    "Xiao Yan tells Su Qian about the Demon Poison Spot",
+    "Xin Lan tells him about the Three Thousand Burning Flame and the Pill Gathering",
+    "Xiao Yan takes the Bone Wings; Zi Yan keeps the bone tips as gloves",
+    "The beast's leftover spirit fights back; the Fallen Heart Flame consumes it"
+  ],
+  "introduced": [
+    "Ye Xin Lan (Xin Lan)",
+    "Sky Qi Pill (Fourth-Tier)",
+    "Strong Ranking (Inner Academy)",
+    "Blood Splitting Chop",
+    "Quiet Woods Poisonous Snake Vine",
+    "Qian Mu and Bai Lie (named only)",
+    "Pill Tower Elder's Seat",
+    "Seventh-Tier Alchemist (needed to enter the Pill Tower)",
+    "Three Thousand Burning Flame (rank 9; 'Undying Body')",
+    "Heavenly Flames Ranking",
+    "Pill Gathering",
+    "Demon Corpse",
+    "Bone Wings",
+    "Heaven Demon Phoenix Tribe",
+    "Spiritual Space"
+  ],
+  "cultivation": "Xiao Yan's Spiritual Strength grows after the Fallen Heart Flame consumes the Demon Corpse's leftover aura.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false,
+      "card": 89
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false,
+      "card": 95
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false,
+      "card": 111
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false,
+      "card": 137
+    },
+    {
+      "id": "xin-lan",
+      "name": "Xin Lan",
+      "first": true,
+      "card": 180
+    },
+    {
+      "id": "hu-jia",
+      "name": "Hu Jia",
+      "first": false,
+      "card": 275
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "first": false,
+      "card": 287
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "180s: the name card reads [Ye Xin Lan]; she is called Xin Lan everywhere else, so the id is xin-lan as in ep158-159.",
+    "275-293s: 'It's been two years since you left' and 'After we parted ways at the canyon ... Are you interested in sparring?' come from the Rock Gate leaders. The canyon line fits Wu Hao (ep143). Which of Wu Hao and Hu Jia uses 'Blood Splitting Chop!' and 'Quiet Woods Poisonous Snake Vine!' is not clear.",
+    "406-411s: 'You should come and manage this in the future' reads as Hu Jia.",
+    "441s: the poisoner is written 'Xie Bi Yan' here and 'Xie Biyan' elsewhere.",
+    "548s: Xin Lan says Xiao Yan can't produce Seventh-Tier Pills yet.",
+    "659s: Yao Lao once won the Pill Gathering.",
+    "730-738s: the Demon Corpse (the carcass from ep146) has no Demon Core, so Xiao Yan uses its Bone Wings.",
+    "981s: the beast's spirit says 'The Heaven Demon Phoenix Tribe will make you answer for it'; ep151's recap calls the remains 'the Heavenly Demon Phoenix'."
+  ]
+}

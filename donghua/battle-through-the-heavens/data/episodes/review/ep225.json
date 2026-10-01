@@ -1,0 +1,63 @@
+{
+  "ep": 225,
+  "title": "The Xiao Clan's Bloodline",
+  "summary": "At the blood pool in his tomb, Xiao Xuan drains Xiao Yan's old blood and pours in the last of the Xiao Clan's bloodline. The Dragon-Phoenix bloodline Zi Yan gave him rejects it, so Xun Er gives some of the Gu Clan's bloodline to bind them. A year later Xiao Yan breaks through and settles at peak 8-star Dou Zun, with the seed of a new bloodline planted in his heart. Over the next months he completes the last step of the Sky Fire Three Mysterious Changes and learns to call up the full Xiao Clan clan mark. Xiao Xuan sends him to kill the Ban Sheng queen of the Ancient Devouring Insects for armor material. Xiao Yan then hunts down Hun Ya and Hun Li, who use their clan mark too, and kills them both. Xiao Xuan gives him the Ancient Insect Emperor Cloth, and Xiao Yan promises to return as a Dou Sheng.",
+  "events": [
+    "Xiao Xuan performs the blood transfusion on Xiao Yan.",
+    "The Dragon-Phoenix bloodline rejects the Xiao bloodline.",
+    "Xun Er gives part of her Gu bloodline to fuse them.",
+    "A year later Xiao Yan reaches peak 8-star Dou Zun.",
+    "He completes the Sky Fire Three Mysterious Changes and the clan mark.",
+    "He kills the Ancient Devouring Insect queen.",
+    "He kills Hun Li and Hun Ya.",
+    "Xiao Xuan gives him the Ancient Insect Emperor Cloth; they part."
+  ],
+  "introduced": [
+    "blood transfusion",
+    "Dragon-Phoenix Bloodline",
+    "seed of a new bloodline",
+    "Ancient Devouring Insect queen",
+    "Ancient Insect Emperor Cloth"
+  ],
+  "cultivation": "Xiao Yan rises from 6-star to peak 8-star Dou Zun after inheriting the Xiao bloodline ('Peak Eight-Star Dou Zun.'). He completes the ninth stroke of the clan mark. The insect queen is on par with a Ban Sheng. Hun Ya and Hun Li call him an Eight-Star Dou Zun.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "peak 8-star Dou Zun",
+      "quote": "Peak Eight-Star Dou Zun.",
+      "look": "full Xiao Clan clan mark",
+      "first": false
+    },
+    {
+      "id": "xiao-xuan",
+      "name": "Xiao Xuan",
+      "first": false
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false
+    },
+    {
+      "id": "hun-ya",
+      "name": "Hun Ya",
+      "first": false
+    },
+    {
+      "id": "hun-li",
+      "name": "Hun Li",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10-34s: recap.",
+    "273-277s: the Dragon-Phoenix Bloodline in Xiao Yan is said to be on par with a Dou Sheng.",
+    "598-602s: someone outside wonders about Xun Er and tells 'Xiao Xuan' not to try anything; the speaker is not named.",
+    "622s: 'He is already reaching peak Nine-Star' contradicts 658s 'Peak Eight-Star Dou Zun' and later episodes (EP226, EP228 say peak 8-star). Taken as peak 8-star; the 622s line is likely a slip or refers to the surge.",
+    "892s: 'After two years' is said to the Hun pair; time inside the tomb runs faster than outside.",
+    "918-920s: Hun Li dies first, then Hun Ya."
+  ]
+}

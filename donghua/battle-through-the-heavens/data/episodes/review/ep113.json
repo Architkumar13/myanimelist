@@ -1,0 +1,69 @@
+{
+  "ep": 113,
+  "title": "Storming Feng City",
+  "summary": "Su Qian leads the Jia Nan Academy, with Xiao Li's men, against Han Feng's Black Alliance at its headquarters, Feng City. Han Feng, who had planned to strike first, wants the complete Flame Mantra from Xiao Yan. On the way Xiao Yan asks to keep Han Feng's Sea Heart Flame, and Su Qian says he knows Xiao Yan is linked to Yao Zun Zhe and will keep the secret. At Feng City, Su Qian takes Mr. Jin and Mr. Yin while Xiao Yan fights Han Feng, who offers him the Black Alliance for the Flame Mantra and is refused. Xiao Yan's merged flames break down the Sea Heart Flame, but Han Feng shows he is close to Dou Zong. Han Feng's Brilliance Seal meets Xiao Yan's Flame Splitting Tsunami, and when Han Feng mocks him for running out of Dou Qi, Xiao Yan says he has fallen into the same trap twice.",
+  "events": [
+    "Su Qian leads the academy and Xiao Li's men against the Black Alliance",
+    "Han Feng's alliance discusses Xiao Yan's return",
+    "Xiao Yan asks for the Sea Heart Flame; Su Qian guesses his link to Yao Zun Zhe and keeps it secret",
+    "Xiao Yan gives Xiao Li a bottle of Angry Buddha Lotus Flame for protection",
+    "At Feng City, Xiao Yan fights Han Feng while Su Qian takes Mr. Jin and Mr. Yin",
+    "Han Feng offers the Black Alliance for the Flame Mantra; Xiao Yan refuses",
+    "Xiao Yan's merged flames break down the Sea Heart Flame; Han Feng is close to Dou Zong",
+    "Brilliance Seal meets Flame Splitting Tsunami; Xiao Yan baits Han Feng"
+  ],
+  "introduced": [
+    "Feng City",
+    "Xiao Gate (named in the recap)",
+    "Brilliance Seal"
+  ],
+  "cultivation": "Han Feng is a sixth-tier alchemist and close to Dou Zong ('merely at the entrance of the threshold'). Su Qian is a Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "realm": "Dou Zong",
+      "quote": "don't underestimate the eyes of a Dou Zong.",
+      "first": false
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "realm": "near Dou Zong",
+      "quote": "We're not aware that he's nearing the level of a Dou Zong.",
+      "first": false,
+      "card": 156.0
+    },
+    {
+      "id": "mr-jin",
+      "name": "Mr. Jin",
+      "first": false
+    },
+    {
+      "id": "mr-yin",
+      "name": "Mr. Yin",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Moved out to EP112: Xiao Li and the Life Devouring Pill (before this card in the old file). Added the end of this episode's duel, which the old review left out: Brilliance Seal against Flame Splitting Tsunami and Xiao Yan baiting Han Feng. Brilliance Seal moved here from EP114's introduced. Han Feng's card moved to 156.0; Xiao Li's realm removed (not stated in this file)."
+  ],
+  "flags": [
+    "0-32s are a recap of EP112 and are not counted.",
+    "273.0 'Han Feng is a sixth-tier alchemist' is an alchemist grade, kept out of realm.",
+    "358.8 'please ask after Yao Zun Zhe for me. The dean was his friend back then.'",
+    "958.9 'Brilliance Seal!' is read as Han Feng's attack; the speaker isn't shown.",
+    "The duel continues in EP114."
+  ]
+}

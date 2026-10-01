@@ -1,0 +1,100 @@
+{
+  "ep": 104,
+  "title": "The Fallen Heart Flame Breaks Free",
+  "summary": "The Fallen Heart Flame rises from the Blazing Qi Refining Tower in the shape of a huge fire python, and Zi Yan says it has no Magical Beast aura. Yao Lao tells Xiao Yan he can't capture it in his current state, so they hide and watch. Su Qian and the Inner Academy elders cast the Thousand Layers Formation and an energy net to hold the flame. Han Feng enters the academy with the Black-Corner Region leaders, and his men take on the academy's Enforcer Squad. The Outer Academy's vice dean and elders arrive to hold the net, and while the flame rests, Su Qian leads the Inner Academy elders in a sealing formation that forces it back. Yao Lao senses another force coming, and Han Feng appears at the tower and greets Su Qian.",
+  "events": [
+    "Students flee the tower as the flame bursts out.",
+    "The Fallen Heart Flame takes a python-like beast form; Zi Yan says it has no Magical Beast aura.",
+    "Yao Lao keeps Xiao Yan back to watch.",
+    "The elders cast the Thousand Layers Formation; Rock Gate members head to the tower.",
+    "Han Feng's group enters the academy and meets the Enforcer Squad.",
+    "The Outer Academy's vice dean and elders arrive and join the energy net.",
+    "Su Qian's elders seal the flame back in while it rests.",
+    "Han Feng appears at the tower and greets Su Qian."
+  ],
+  "introduced": [
+    "Thousand Layers Formation",
+    "Enforcer Squad of the Jia Nan Academy",
+    "the Fallen Heart Flame's fire-python form"
+  ],
+  "cultivation": "Su Qian is a Dou Zong (onlooker: 'He is a strong Dou Zong').",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "realm": "Dou Zong",
+      "quote": "First Elder, Su Qian, is there. He is a strong Dou Zong.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fallen-heart-flame",
+      "name": "Fallen Heart Flame",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hu-qian",
+      "name": "Hu Qian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [
+    "Added the last scene, which was before the [Episode 105] card and left out of the old review: the seal holds and Han Feng appears at the tower. The seal first breaking is now in EP103. Hu Qian set to first: false (he appears in EP77-78)."
+  ],
+  "flags": [
+    "0-45s are a recap of EP103 and are not counted.",
+    "The subtitles write 'Fire Phyton' (274.6, 309.5, 600.3, 695.8, 720.8) for the flame's beast form; this is a typo for 'Fire Python'.",
+    "The Outer Academy vice dean who arrives at 667.9 isn't named in this episode; Hu Qian is named as vice dean of the Outer Academy in EP103 (979.4). He appears in EP77-78, so first is false.",
+    "118.5 '...much stronger than my Lion Tiger Gold Shattering Roar' is said by an unnamed top-ten student.",
+    "Who speaks at 267-303s isn't clear; probably Lin Yan and others from the top ten.",
+    "370-385s: the speakers heading to the tower are unnamed, probably Rock Gate members.",
+    "929-949s: Han Feng's arrival; EP105 replays it after its card."
+  ]
+}

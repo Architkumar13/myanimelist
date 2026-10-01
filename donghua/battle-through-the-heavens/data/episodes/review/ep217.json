@@ -1,0 +1,104 @@
+{
+  "ep": 217,
+  "title": "The Road to Ancient Holy City",
+  "summary": "At Falling Star Pavilion, Yao Lao says the last map fragment of the Purifying Demonic Lotus Flame will appear at a spatial trade fair within a year. Until then he sends Xiao Yan to represent the pavilion at the Gu Clan's coming-of-age ceremony. Yao Lao explains the Eight Ancient Clans, which once produced Dou Dis, and reveals he was cast out of the Yao Clan. Little Fairy Doctor returns from an ancient tomb as a 7-star Dou Zun, and the two set out. In the Gu Clan, Xun Er defends Xiao Yan against elders who call the Xiao Clan a dried-up bloodline. At the barrier of Ancient Holy City, Ling Quan of the Black Submerged Army attacks Xiao Yan, who beats him with a Soul Attack until the Fifth Commander stops it. In the city, Yang Hao, third commander of the Black Submerged Army, publicly challenges Xiao Yan.",
+  "events": [
+    "Yao Lao reports the last Purifying Demonic Lotus Flame map fragment will be at a spatial trade fair.",
+    "Yao Lao sends Xiao Yan to the Gu Clan's coming-of-age ceremony.",
+    "Yao Lao explains the Eight Ancient Clans and says he is a cast-out Yao Clan member.",
+    "Little Fairy Doctor returns as a 7-star Dou Zun.",
+    "Xun Er rejects the Gu elders' objections to Xiao Yan.",
+    "Ling Quan attacks Xiao Yan at Ancient Holy City and loses to a Soul Attack.",
+    "The Fifth Commander lets Xiao Yan in as a guest.",
+    "Yang Hao challenges Xiao Yan in public."
+  ],
+  "introduced": [
+    "spatial trade fair",
+    "Eight Ancient Clans",
+    "Gu Clan",
+    "Yao Clan",
+    "Yan Clan",
+    "Shi Clan",
+    "Ling Clan",
+    "Lei Clan",
+    "Xiao Xuan",
+    "Woeful Poison Body",
+    "Gu Realm",
+    "Ancient Holy City",
+    "Gu Qian",
+    "Black Submerged Army",
+    "Black Submerged King",
+    "Fifth Commander",
+    "Yang Hao",
+    "coming-of-age ceremony"
+  ],
+  "cultivation": "Little Fairy Doctor breaks through to 7-star Dou Zun with a technique from an ancient tomb. The Black Submerged Army's commanders, marshals and kings are all young Dou Zun-level geniuses.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "elder-feng",
+      "name": "Elder Feng",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "realm": "7-star Dou Zun",
+      "quote": "helping me break through to Seven-Star Dou Zun.",
+      "first": false
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false
+    },
+    {
+      "id": "mr-ling",
+      "name": "Mr. Ling",
+      "first": false
+    },
+    {
+      "id": "gu-qian",
+      "name": "Gu Qian",
+      "first": true,
+      "card": 571.0
+    },
+    {
+      "id": "ling-quan",
+      "name": "Ling Quan",
+      "first": false
+    },
+    {
+      "id": "fifth-commander",
+      "name": "Fifth Commander",
+      "first": true,
+      "card": 888.2
+    },
+    {
+      "id": "yang-hao",
+      "name": "Yang Hao",
+      "first": true,
+      "card": 1037.4
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10-51s: recap.",
+    "187s: the Eight Ancient Clans listed: Hun, Gu, Yao, Yan, Shi, Ling, Lei and Xiao.",
+    "383s: 'The Taiyi Soul Technique is really extraordinary' is said just before Little Fairy Doctor returns; who says it and what it is is not explained.",
+    "486s: Xiao Yan is said to be in 'the eastern region' near Ancient Holy City.",
+    "705s: someone is greeted as 'Seventh Commander' before Ling Quan appears; EP218 confirms Ling Quan is the seventh commander.",
+    "888.2s: the Fifth Commander is never named.",
+    "Companions with Xiao Yan at the city are not all named; Little Fairy Doctor is with him."
+  ]
+}

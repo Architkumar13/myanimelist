@@ -1,0 +1,91 @@
+{
+  "ep": 158,
+  "title": "Horizon City",
+  "summary": "Xiao Yan sets out for the Central Plains with Zi Yan, Xin Lan and the Little Fairy Doctor, and on the way Xin Lan lists the great factions: one hall, one tower, two sects, three valleys and four pavilions. At Horizon City in the Tianqing Mountain Range, the Wormhole is shut for repairs by the Luo family. The Little Fairy Doctor humbles the spoiled Xiao Yao, and her grandfather, City Lord Luo Cheng, backs down and hires the group to help fix the Wormhole for a Rank Six Sky Poison Dragon Scorpion Beast core. During the repair the Two Han Elders cut their power to save themselves, and the array goes out of control. The Wormhole is saved, and Luo Cheng thanks the Little Fairy Doctor. He gives Xiao Yan the promised payment and a space ship stocked with herbs, and the group sets off for the Central Plains.",
+  "events": [
+    "On the way to Horizon City, Xin Lan explains the factions of the Central Plains.",
+    "The Wormhole is closed; the Luo family is repairing it.",
+    "The Little Fairy Doctor humbles Xiao Yao, granddaughter of City Lord Luo Cheng.",
+    "Luo Cheng offers a Rank Six Sky Poison Dragon Scorpion Beast core for help repairing the Wormhole.",
+    "The Two Han Elders reduce their output and the array goes out of control.",
+    "The Wormhole is saved and Luo Cheng thanks the Little Fairy Doctor.",
+    "Luo Cheng gives the group a space ship loaded with herbs and they set off."
+  ],
+  "introduced": [
+    "Wormhole",
+    "Horizon City",
+    "Tianqing Mountain Range",
+    "Luo family",
+    "Luo Cheng",
+    "Xiao Yao",
+    "Two Han Elders",
+    "Profound Sky Sect",
+    "Flower Sect",
+    "Ice River Valley",
+    "Sound Valley",
+    "Falling Star Pavilion",
+    "Ten Thousand Sword Pavilion",
+    "Yellow Spring Pavilion",
+    "Sky Fire Three Mysterious Changes",
+    "Three Thousand Lightning Movement",
+    "space ship"
+  ],
+  "cultivation": "Luo Cheng is about Five-Star Dou Zong. Xiao Yan is called a Dou Huang; the Little Fairy Doctor is recognized as a Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Huang",
+      "quote": "(The party leader is actually the Dou Huang brat.)",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "xin-lan",
+      "name": "Xin Lan",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "luo-cheng",
+      "name": "Luo Cheng",
+      "realm": "5-star Dou Zong",
+      "quote": "The elder is about as strong as a Five-Star Dou Zong.",
+      "first": true,
+      "card": 503
+    },
+    {
+      "id": "xiao-yao",
+      "name": "Xiao Yao",
+      "first": true,
+      "card": 349
+    },
+    {
+      "id": "two-han-elders",
+      "name": "Two Han Elders",
+      "first": true,
+      "card": 724
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: moved the end of the pill refining (Pill Spirit Realm, Pill Lightning, Earth Demon Puppet, Cai Lin) to EP157; added from EP159 the end of the repair and Luo Cheng's gift of the space ship; card times moved to the new clock."
+  ],
+  "flags": [
+    "0-19s is narration about the Wormhole.",
+    "Xin Lan is the companion whose family records hold the Central Plains map (62s).",
+    "Xiao Yao is named only at 552s ('Bring Xiao Yao home'); card time uses her entrance at 349s.",
+    "503s: name caption '[Luo Cheng]'.",
+    "531s: Luo Cheng's thought 'Even the little brat is a Dou Huang?' most likely means Zi Yan.",
+    "743s: a Han elder says 'You are just in the early stage of Dou Zong'; the person addressed is unclear.",
+    "980-1098s: how the array is saved is not spelled out; Luo Cheng thanks 'miss' (the Little Fairy Doctor), and EP159's recap says she completed the repair. The Two Han Elders' fate is not shown."
+  ]
+}

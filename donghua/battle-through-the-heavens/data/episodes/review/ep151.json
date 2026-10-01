@@ -1,0 +1,87 @@
+{
+ "ep": 151,
+ "title": "The Old Ground Demon Ghost",
+ "summary": "Xiao Yan's new Bone Wings push the Purple Cloud Wings out of his body. Han Feng tells the Old Ground Demon Ghost that Xiao Yan killed Fang Yan and two other elders of Demon Flame Valley. The Old Ground Demon Ghost breaks into the Inner Academy of Jia Nan Academy and demands Xiao Yan from Su Qian, now a Dou Zong. Su Qian accuses him of really wanting the Bodhisattva Body Transformation Saliva and says Dean Mang Tian Chi would stop him. Han Feng takes on Su Qian, and the students are sent to safety. Xiao Yan and Little Fairy Doctor fight the Old Ground Demon Ghost, a Seven-Star Dou Zong, with fire, poison and the Sea Flipping Seal. Little Fairy Doctor unleashes the Woeful Poison Body and rises to Five-Star Dou Zong strength to buy Xiao Yan time. The Old Ground Demon Ghost shrugs off her poisoned blood and keeps coming.",
+ "events": [
+  "The Bone Wings drive the Purple Cloud Wings out of Xiao Yan",
+  "Han Feng tells the Old Ground Demon Ghost about Fang Yan's death",
+  "The Old Ground Demon Ghost breaks through the Inner Academy barrier",
+  "He demands Xiao Yan from Su Qian and mocks Dean Mang Tian Chi",
+  "Han Feng takes Su Qian; the students are evacuated",
+  "Xiao Yan and Little Fairy Doctor fight him with poison, fire and the Sea Flipping Seal",
+  "Little Fairy Doctor unleashes the Woeful Poison Body to buy time",
+  "The Old Ground Demon Ghost shrugs off the Little Fairy Doctor's poisoned blood"
+ ],
+ "introduced": [
+  "Old Ground Demon Ghost",
+  "Mang Tian Chi (dean of Jia Nan Academy, named only)",
+  "Thousand Illusionary Ice Spikes",
+  "Ice Condensate Sword Skill",
+  "Eroding Poison Demon Hand"
+ ],
+ "cultivation": "Su Qian has advanced from peak Dou Huang to Dou Zong. The Old Ground Demon Ghost is a Seven-Star Dou Zong. Little Fairy Doctor is called a Four-Star Dou Zong, and at most Five-Star after unleashing the Woeful Poison Body.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "xiao-yan",
+   "name": "Xiao Yan",
+   "first": false,
+   "card": 0
+  },
+  {
+   "id": "han-feng",
+   "name": "Han Feng",
+   "first": false,
+   "card": 33
+  },
+  {
+   "id": "old-ground-demon-ghost",
+   "name": "Old Ground Demon Ghost",
+   "realm": "7-star Dou Zong",
+   "quote": "And I am already a Seven-Star Dou Zong.",
+   "first": true,
+   "card": 129
+  },
+  {
+   "id": "su-qian",
+   "name": "Su Qian",
+   "realm": "Dou Zong",
+   "quote": "Now that you've advanced to Dou Zong, you've become quite outspoken.",
+   "first": false,
+   "card": 224
+  },
+  {
+   "id": "little-fairy-doctor",
+   "name": "Little Fairy Doctor",
+   "realm": "4-star Dou Zong",
+   "quote": "A mere Four-Star Dou Zong can't stir up much trouble.",
+   "first": false,
+   "card": 372
+  },
+  {
+   "id": "wu-hao",
+   "name": "Wu Hao",
+   "first": false,
+   "card": 600
+  },
+  {
+   "id": "zi-yan",
+   "name": "Zi Yan",
+   "first": false,
+   "card": 486
+  }
+ ],
+ "changes": [
+  "Added the last scene (moved from the old EP152 review after the subtitles were re-cut at the episode cards)."
+ ],
+ "flags": [
+  "0-48s, before the [Episode 151] card: Xiao Yan tests the Bone Wings, then Han Feng reports Fang Yan's death. The recap runs 53-92s.",
+  "104-113s: 'Well done! ... For now, it's best for you to stay in the academy' is Xiao Yan to someone not named (likely Xiao Li or the Rock Gate).",
+  "399-407s: 'Senior, leave Su Qian to me' is Han Feng to the Old Ground Demon Ghost.",
+  "486s: 'And me too.' read as Zi Yan offering to fight; she is sent down to protect the students.",
+  "630s: Little Fairy Doctor's thought puts him at 'at least' Seven-Star; he confirms it at 973s.",
+  "967-970s: 'you're only a Five-Star Dou Zong at best' is the Old Ground Demon Ghost about Little Fairy Doctor after she unleashes her body.",
+  "694-716s: 'Thousand Illusionary Ice Spikes' and 'Ice Condensate Sword Skill' read as the Old Ground Demon Ghost's moves, 'Eroding Poison Demon Hand' as Little Fairy Doctor's.",
+  "Hu Jia is not named in this file; the evacuation is by 'Wu Hao' and an unnamed partner (600s). She is left out of cast."
+ ]
+}

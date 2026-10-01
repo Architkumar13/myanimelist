@@ -1,0 +1,65 @@
+{
+  "ep": 137,
+  "title": "Night Raid on Mulan Valley",
+  "summary": "Medusa tells Xiao Yan the leftover Fallen Heart Flame energy cannot hurt her yet, and he studies the seventh-tier Heaven Soul Blood Fusing Pill, which may bring on a pill calamity. Using an encampment map from Little Fairy Doctor, Xiao Yan crushes her jade signal and splits the attack: Medusa takes Yan Luo Tian in the north and he takes the Three Elders of Mulan in the west. Hai Bodong commands the Snakemen and Yan Alliance fighters waiting in ambush as backup. At night Xiao Yan slips into the Mulan camp, grabs Elder Hutou with the Sky Fire Three Mysterious Changes and kills him despite the other elders' threats. Mulan Valley Dou Huangs chase him with guerrilla tactics until he burns them with the Angry Buddha Lotus Flame. Medusa, already done with Yan Luo Tian, arrives to cover his escape from the last two elders.",
+  "events": [
+    "Medusa reassures Xiao Yan about the Fallen Heart Flame residue",
+    "Xiao Yan reads the Heaven Soul Blood Fusing Pill recipe and fears a pill calamity",
+    "He asks Hai Bodong and Mr. Jia to stand by as backup",
+    "Xiao Yan crushes Little Fairy Doctor's jade; the map shows Yan Luo Tian in the north and the elders in the west",
+    "Xiao Yan seizes and kills Elder Hutou in the Mulan camp",
+    "Mulan Valley Dou Huangs chase him; he hits them with the Angry Buddha Lotus Flame",
+    "Medusa returns from Yan Luo Tian and covers Xiao Yan"
+  ],
+  "introduced": [
+    "pill calamity (seventh-tier pills)",
+    "Fierce Bear Ground Splitting Fist",
+    "Lion Inch Force"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false,
+      "card": 85
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false,
+      "card": 0
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "first": false,
+      "card": 176
+    },
+    {
+      "id": "yan-luo-tian",
+      "name": "Yan Luo Tian",
+      "first": false,
+      "card": 347
+    },
+    {
+      "id": "elder-hutou",
+      "name": "Elder Hutou",
+      "first": false,
+      "card": 461
+    },
+    {
+      "id": null,
+      "name": "Elders Shitou and Xiongtou",
+      "first": false,
+      "card": 461
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "176s: 'Mr. Hai, Mr. Jia' - Mr. Jia is not named further (possibly Jia Xing Tian).",
+    "Elder Hutou is not named in this file; ep138's recap says Xiao Yan 'took down Elder Hutou'.",
+    "Yan Luo Tian's fight with Medusa is off screen; 898s 'You've taken him down already?' 'Yes.'"
+  ]
+}

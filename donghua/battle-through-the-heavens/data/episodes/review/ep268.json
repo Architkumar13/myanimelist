@@ -1,0 +1,76 @@
+{
+  "ep": 268,
+  "title": "Huang Tian at the Nine Serene Spring",
+  "summary": "The Sky Mansion Alliance returns in triumph, and factions that suffered under the Hall of Souls rush to join it. Xiao Yan grieves that he failed to save Xiao Zhan again, and Yao Lao says he has sent men to find where Xiao Zhan is held. In seclusion, a bead left by the Void Devouring Flame drains Xiao Yan's fighting energy, so he gives it to Little Yi, who purifies it and gains the flame's devouring power. A letter then arrives from the Nine Serene Deep Ground Pythons. At the Nine Serene Spring, Huang Tian, clan leader of the Heaven Demon Phoenix Tribe and a Five-Star Dou Sheng, demands that Yao Ming hand over Medusa, blaming Xiao Yan for taking his son and his clan's wings. Yao Ming refuses, and the Heaven Demon Phoenix Tribe's Ancient Phoenix Formation breaks the pythons' Coiling Serpent Formation. Huang Tian says he has taken Medusa and that Xiao Yan must come to his clan to redeem her, just as Xiao Yan arrives.",
+  "events": [
+    "The alliance returns in triumph and grows.",
+    "Xiao Yan grieves for Xiao Zhan; Yao Lao sends men to find him.",
+    "A watcher who compares Xiao Yan to Xiao Xuan finds him boring.",
+    "A Void Devouring Flame bead drains Xiao Yan's fighting energy.",
+    "Little Yi purifies the bead and gains its devouring power.",
+    "Huang Tian demands Medusa from Yao Ming at the Nine Serene Spring.",
+    "The Heaven Demon Phoenix Tribe breaks the Coiling Serpent Formation.",
+    "Xiao Yan arrives as Huang Tian claims to have taken Medusa."
+  ],
+  "introduced": [
+    "Huang Tian (clan leader, Heaven Demon Phoenix Tribe)",
+    "Void Devouring Flame bead",
+    "Coiling Serpent Formation",
+    "Ancient Phoenix Formation"
+  ],
+  "cultivation": "Huang Tian is a Five-Star Dou Sheng. Little Yi gains the Void Devouring Flame's devouring power. Xiao Yan notes that three months of cultivation have not brought his fighting energy up.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "little-yi",
+      "name": "Little Yi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ming",
+      "name": "Yao Ming",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 751.5
+    },
+    {
+      "id": "huang-tian",
+      "name": "Huang Tian",
+      "realm": "Five-Star Dou Sheng",
+      "quote": "This expedition is led personally by Huang Tian, the Clan Leader of the Heavenly Demon Phoenix Clan. With his Five-Star Martial Saint strength,",
+      "first": true,
+      "card": 814.5
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "OCR of burned-in subtitles: 0-140s and from 1216s are garbled opening and ending song text; many lines carry stray characters or split words ('ve back! They'', 'Il').",
+    "154-201s is a recap of EP267. It says Xiao Yan 'slay[ed] Hun Miesheng', while EP267 shows him fleeing; flagged, not used.",
+    "Burned-in names: 'Heavenly Demon Phoenix Clan' (Heaven Demon Phoenix Tribe), 'Nine Netherworlds Earth-Demon/Earth-Underworld Python Clan' (Nine Serene Deep Ground Pythons), 'Phoenix Tian' (1006.0, Huang Tian), 'Chief of the Phoenix Heaven Clan' (767.5).",
+    "409.5-415.0 and 496.5-515.0: an unnamed figure watching Xiao Yan ('Xiao Xuan! Xiao Xuan! ... merely a descendant of the Xiao clan') is not identified; possibly the Hun Clan chief.",
+    "342.5 'Thank you, Master': the speaker who sends men after Xiao Zhan is read as Yao Lao.",
+    "Yao Ming is read as the pythons' clan chief from 977-1012s; 1108.5-1113.5 Huang Tian says he has taken Medusa, but EP269 shows she was never taken.",
+    "1165.5-1175.5: the OCR merges lines; 'and I, Huang Tian, will make you pay with your life' may be two speakers.",
+    "Medusa is named (747.5 'Cai Lin') but not clearly on screen; not in cast."
+  ]
+}

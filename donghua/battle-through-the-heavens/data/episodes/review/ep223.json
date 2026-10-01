@@ -1,0 +1,86 @@
+{
+  "ep": 223,
+  "title": "Through the Insect Nest",
+  "summary": "Trapped in the nest of the Ancient Devouring Insects, the clan heirs find that the insects eat Dou Qi but cannot devour a Heavenly Flame. Xiao Yan burns a tunnel with Huo Xuan's Red Lotus Flame, ranked eighth, and the Nine Serene Wind Flame, ranked tenth, adding his own fused Heavenly Flames. He takes energy cores from the Gu and Yan Clans freely and makes the Hun pair pay their share, including a nine-star core. They break out into the third layer, and the Hun pair slip away. Xun Er, Gu Qing Yang and another Gu Clan heir head for the deepest part of the tomb with Xiao Yan. There they are attacked by Saint Xue Dao, a sentient Ban Sheng energy body. When the Xiao Clan's clan mark shows on Xiao Yan's face during his Great Heavenly Creation Palm, Xue Dao stops and cries that he is from the Xiao Clan.",
+  "events": [
+    "The heirs are trapped among the Ancient Devouring Insects.",
+    "Heavenly Flames prove the only thing the insects can't eat.",
+    "Xiao Yan burns a tunnel with the Red Lotus Flame and Nine Serene Wind Flame.",
+    "He makes the Hun pair hand over energy cores, including a nine-star core.",
+    "The group reaches the third layer; the Hun pair run off.",
+    "Gu Clan heirs join Xiao Yan and Xun Er toward the depths.",
+    "Saint Xue Dao, a Ban Sheng energy body, attacks.",
+    "Xue Dao recognizes the Xiao Clan's clan mark."
+  ],
+  "introduced": [
+    "Nine Serene Wind Flame",
+    "Xue Dao",
+    "Blood Blade Chaotic Wind Tear",
+    "Lock (Spatial Strength move)"
+  ],
+  "cultivation": "Xue Dao is a Ban Sheng energy body ('A sentient Ban Sheng energy body'). Red Lotus Flame is ranked 8th and Nine Serene Wind Flame 10th among Heavenly Flames; Xiao Yan's fused flame is thought to be on par with the top six.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "look": "Xiao Clan clan mark on his face",
+      "first": false
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false
+    },
+    {
+      "id": "gu-qing-yang",
+      "name": "Gu Qing Yang",
+      "first": false
+    },
+    {
+      "id": "huo-xuan",
+      "name": "Huo Xuan",
+      "first": false
+    },
+    {
+      "id": "huo-zhi",
+      "name": "Huo Zhi",
+      "first": false
+    },
+    {
+      "id": "shi-chui",
+      "name": "Shi Chui",
+      "first": false
+    },
+    {
+      "id": "hun-ya",
+      "name": "Hun Ya",
+      "first": false
+    },
+    {
+      "id": "hun-li",
+      "name": "Hun Li",
+      "first": false
+    },
+    {
+      "id": "xue-dao",
+      "name": "Xue Dao",
+      "realm": "Ban Sheng",
+      "quote": "A sentient Ban Sheng energy body.",
+      "first": true,
+      "card": 710
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10-42s: recap.",
+    "80s: 'Chui' is taken as Shi Chui of the Shi Clan.",
+    "238s: the holder of the Nine Serene Wind Flame is not named; from the scene (Xiao Yan asks 'both of you' after demanding payment from the Hun pair) it is likely Hun Ya or Hun Li, but this is uncertain.",
+    "557s: 'Hun Yai' spelling; used Hun Ya.",
+    "567s: 'Hua Xuan' is a slip for Huo Xuan.",
+    "594s: the third layer holds energy bodies 'on the level of a Dou Sheng'.",
+    "949s: Xiao Yan says Xue Dao is not a real Dou Sheng though Xue Dao calls himself 'Saint'.",
+    "Huo Zhi is taken as Huo Xuan's partner ('We two will be cultivating', 562s).",
+    "1012s onward: advertisement, ending song and preview."
+  ]
+}

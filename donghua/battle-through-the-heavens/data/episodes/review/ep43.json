@@ -1,0 +1,108 @@
+{
+  "ep": 43,
+  "title": "Mu Zhan at the Banquet",
+  "summary": "At the Nalan Clan's banquet for Nalan Jie's recovery, Ya Fei acts close to Yan Xiao in front of Nalan Yanran and then takes him to meet the guests. Nalan Su presents Nalan Jie, the Lionheart Commander of the Jia Ma Empire, and Mite'er Tengshan greets Yan Xiao warmly, which annoys Nalan Jie. Mu Zhan of the Mu Clan, back from the border army and obsessed with Ya Fei, attacks Yan Xiao to warn him off her. Xiao Yan holds his own until Mu Zhan summons Dou Qi Armor and Green Wooden Thorn, and Nalan Yanran stops the fight with her Thousand Wind Blade. Nalan Jie and Tengshan both warn Mu Zhan that Yan Xiao is their friend, and Mu Zhan backs off but says he looks forward to fighting again. Tengshan tells Ya Fei to take good care of Yan Xiao, and the two slip away from the banquet.",
+  "events": [
+    "Ya Fei plays up her closeness to Yan Xiao in front of Nalan Yanran.",
+    "Nalan Su introduces Nalan Jie, the Lionheart Commander, to the guests.",
+    "Mite'er Tengshan greets Yan Xiao; Nalan Jie grumbles that Tengshan is courting him.",
+    "Liu Ling and Princess Yue Er watch, and Yue Er hints trouble is coming.",
+    "Mu Zhan attacks Yan Xiao over Ya Fei.",
+    "Mu Zhan summons Dou Qi Armor; Nalan Yanran breaks up the fight.",
+    "Nalan Jie and Tengshan warn Mu Zhan; Tengshan threatens to have Mu Chen send him back to the border."
+  ],
+  "introduced": [
+    "Mu Zhan",
+    "Mu Clan",
+    "Mu Chen (Mu Zhan's father, named)",
+    "Lionheart Commander",
+    "Dou Qi Armor (exclusive to Da Dou Shi)",
+    "Green Wooden Thorn",
+    "Thousand Wind Blade"
+  ],
+  "cultivation": "Mu Zhan summons Dou Qi Armor, said to be exclusive to a Da Dou Shi. Nalan Yanran is said to have grown much stronger in three years (no rank given).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-su",
+      "name": "Nalan Su",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-jie",
+      "name": "Nalan Jie",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mite-er-tengshan",
+      "name": "Mite'er Tengshan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-ling",
+      "name": "Liu Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yue-er",
+      "name": "Yue Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mu-zhan",
+      "name": "Mu Zhan",
+      "realm": "Da Dou Shi",
+      "quote": "This guy / has successfully summoned the Dou Qi Armor, / an ability exclusive to a Da Dou Shi.",
+      "first": true,
+      "card": 559.1
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-141s replays the end of EP42; the [Episode 43] card is at 156.",
+    "ep44.en.srt 0-21s replays the end of this episode.",
+    "643: someone guesses Mu Zhan has 'probably broken through and become the strongest Dou Shi'; 674 says he 'became a strong Dou Shi a few years ago'. 796 (Dou Qi Armor, exclusive to a Da Dou Shi) is the clearest statement, used for realm.",
+    "838-840: 'Green Wooden Thorn' and 'Thousand Wind Blade' are called out without speakers; taken as Mu Zhan's and Nalan Yanran's (she trained wind sword skills in EP35).",
+    "894: 'Wu Zhan' is a slip for Mu Zhan.",
+    "377-395: Tengshan is called 'patriarch of the Mite'er family' here; in EP36-37 and EP44 he is the First Elder."
+  ]
+}

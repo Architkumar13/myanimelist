@@ -1,0 +1,88 @@
+{
+  "ep": 82,
+  "title": "The White Demon Group",
+  "summary": "Xiao Yan keeps Sha Tie busy until Sha Tie has to force his strength up with a secret technique. Then Wu Hao joins him and they beat the Black Demon Group with the new students. Sha Tie warns that Luo Hou, leader of the White Demon Group, is a Dou Ling. On the last day of the Fire Energy Hunting Competition, Xiao Yan, Xun Er, Wu Hao and Hu Jia surround Luo Hou while Tai and the new students hold off his four teammates. Luo Hou, who uses Ice-Attribute Dou Qi, breaks a drawbridge and fights them over the water. When Xun Er is hurt, Xiao Yan fuses his Heavenly Flame with other flames into a small Angry Buddha Lotus Flame and beats Luo Hou. The elders declare the new students the winners of the competition.",
+  "events": [
+    "Sha Tie uses a secret technique; Wu Hao joins Xiao Yan and Sha Tie concedes.",
+    "Sha Tie tells them Luo Hou is a Dou Ling.",
+    "On the final day the new students face the White Demon Group.",
+    "Xiao Yan, Xun Er, Wu Hao and Hu Jia attack Luo Hou together; Tai's group surrounds the others.",
+    "Luo Hou breaks the drawbridge and uses his Ice-Attribute Dou Qi on the water.",
+    "Xun Er is hurt; Xiao Yan uses the Angry Buddha Lotus Flame and wins.",
+    "The elder declares the new students the victors."
+  ],
+  "introduced": [
+    "secret technique (Sha Tie's strength boost)",
+    "Circular Cold Rod",
+    "Ice-Attribute Dou Qi",
+    "Quiet Viper Vine"
+  ],
+  "cultivation": "Luo Hou is a Dou Ling. Xiao Yan, Xun Er, Wu Hao and Hu Jia are called four Da Dou Shis.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Da Dou Shi",
+      "quote": "against four Da Dou Shis.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hu-jia",
+      "name": "Hu Jia",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "sha-tie",
+      "name": "Sha Tie",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "luo-hou",
+      "name": "Luo Hou",
+      "realm": "Dou Ling",
+      "quote": "Luo Hou, the leader of the White Demon Group, is already at the Dou Ling level.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "tai",
+      "name": "Tai",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-31s is a recap of EP81.",
+    "285.2-292.5: the warning about Luo Hou comes right after Sha Tie concedes ('You win.' 260.4) and reads as Sha Tie speaking; no tag.",
+    "628.7 'Circular Cold Rod!' is listed with the four new students' attacks but none of them uses ice; it is most likely Luo Hou's counter.",
+    "1022.6-1039.4 'Xun Er has a good eye. But I will train hard to catch up to you.' has no speaker; read as Wu Hao.",
+    "The elder who declares the result (994.0) is not named."
+  ]
+}

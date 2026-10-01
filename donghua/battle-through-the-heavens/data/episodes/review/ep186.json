@@ -1,0 +1,88 @@
+{
+  "ep": 186,
+  "title": "The Ye Clan's Son-in-Law",
+  "summary": "To qualify for the Pill Gathering, Xiao Yan must win a top-three place in the Pill Tower's assessment of the five major clans, so Ye Chong asks him to pose as Xin Lan's husband for the Ye Clan. Cao Dan of the Cao Clan, a seven-tier alchemist, comes to force a marriage with Xin Lan and challenges Xiao Yan to a flame duel. Cao Dan uses the Sky Sinister Demon Flame and then four flames, but Xiao Yan beats him by controlling ten kinds of flame. Ye Chong warns that Cao Ying, the Cao Clan's Pill Tower core disciple, will be Xiao Yan's biggest rival. After twenty days of seclusion, Xiao Yan's Spiritual Strength grows, and Yao Tian Huo explains the Soul Realms. In the Pill Region, the Bai Clan mocks the Ye Clan at the rank-badge test run by Han Li. Xiao Yan passes the seven-tier middle rank, the highest level offered there, and is sent to the base of the Pill Tower for a higher test.",
+  "events": [
+    "Ye Chong asks Xiao Yan to become the Ye Clan's son-in-law in name only, and Xin Lan agrees.",
+    "Cao Dan arrives to propose to Xin Lan and threatens the Ye Clan.",
+    "Xiao Yan beats Cao Dan's Sky Sinister Demon Flame in a flame duel.",
+    "Ye Chong warns of Cao Ying, a peak seven-tier alchemist at least.",
+    "Xiao Yan comes out of twenty days of seclusion with greater Spiritual Strength; Yao Tian Huo explains the Soul Realms.",
+    "The group reaches the Pill Region, and the Bai Clan taunts Ye Chong.",
+    "Han Li runs the rank-badge assessment, and Xiao Yan passes seven-tier middle rank.",
+    "Xiao Yan turns on the Bai Clan woman who mocked the Ye Clan."
+  ],
+  "introduced": [
+    "Pill Gathering",
+    "five major clans",
+    "Elder's Seat",
+    "Cao Clan",
+    "Cao Dan",
+    "Sky Sinister Demon Flame",
+    "Sky Sinister Three-head Lion",
+    "Cao Ying",
+    "Spiritual Realm",
+    "Soul Realms (Mortal, Spiritual, Heavenly, Emperor)",
+    "Soul Skill",
+    "Pill Region",
+    "Outer Region",
+    "Inner Region",
+    "Holy Pill City",
+    "Alchemist Rank Badge",
+    "Bai Clan",
+    "Qiu Clan",
+    "Han Li"
+  ],
+  "cultivation": "Cao Dan is a seven-tier alchemist. Cao Ying is said to be at least a peak seven-tier alchemist. Xiao Yan passes the seven-tier middle-rank alchemist assessment (he picks it at 909-915s and is called seven-tier middle rank at 1033s). His Spiritual Strength may have reached the Spiritual Realm (744s).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "ye-chong",
+      "name": "Ye Chong",
+      "first": false
+    },
+    {
+      "id": "xin-lan",
+      "name": "Xin Lan",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "cao-dan",
+      "name": "Cao Dan",
+      "quote": "I am Cao Dan of the Cao Clan, and I am a seven-tier alchemist.",
+      "first": true,
+      "card": 261
+    },
+    {
+      "id": "han-li",
+      "name": "Han Li",
+      "first": true,
+      "card": 892
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10s [Episode 186] card; 15-46s narration setting up the Pill Gathering.",
+    "Cao Dan's 'seven-tier alchemist' is an alchemist grade, not a realm, so it is kept in quote only.",
+    "584s: 'Ten types of flames?' is taken as Xiao Yan's display; the lines do not say who controls them.",
+    "744-766s: the speaker explaining the Soul Realms is taken as Yao Tian Huo ('I thought your master had told you').",
+    "836-1072s: the Bai Clan elder (an old woman, 'old hag') is not named; the Bai Clan girl who passes six-tier high rank is not named.",
+    "859s: the Bai Clan woman calls Xiao Yan 'a fourth-tier alchemist', which seems to be a taunt or mistaken guess.",
+    "Cao Ying is spoken of but not seen; she is first on screen in EP188."
+  ]
+}

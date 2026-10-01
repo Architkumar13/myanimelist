@@ -1,0 +1,92 @@
+{
+  "ep": 90,
+  "title": "The Snow Demon Sky Ape",
+  "summary": "Xiao Yan trains alone in the mountains of the Inner Academy under Yao Lao. He subdues the wind-lightning strength with the Green Lotus Core Flame and reaches Lightning Flash, the first of the three levels of the Three Thousand Lightning Movement. During training he also stumbles on a new way of moving his Dou Qi in waves, which Yao Lao says could one day become his own method. Nearby, Han Yue, Lin Xiu Ya and Yan Hao attack the Snow Demon Sky Ape to steal the Core Quenching Body Milk it guards. When the ape's violent blood awakens, Xiao Yan saves Han Yue and talks the group into retreating. That night he feeds the Heaven Swallowing Python Amethyst Essence, warns it not to let Medusa devour its soul, and sends it back to fight the ape.",
+  "events": [
+    "Xiao Yan refines the wind-lightning strength from the scroll with the Green Lotus Core Flame.",
+    "He finds he can hang in the air without his Purple Cloud Wings; Yao Lao explains it is his soul power gathering wind-lightning at his feet.",
+    "He reaches Lightning Flash, the first level of the Three Thousand Lightning Movement.",
+    "He grasps a wave-like way of moving Dou Qi.",
+    "Han Yue, Lin Xiu Ya and Yan Hao fight the Snow Demon Sky Ape for the Core Quenching Body Milk; Lin Xiu Ya fakes Dou Qi Wings.",
+    "The ape's violent blood awakens; Xiao Yan rescues Han Yue and persuades the group to leave.",
+    "At night Xiao Yan feeds the Heaven Swallowing Python Amethyst Essence and sends it against the ape."
+  ],
+  "introduced": [
+    "Three Thousand Lightning Movement levels: Lightning Flash, Instant Lightning, Three Thousand Lightning",
+    "Snow Demon Sky Ape",
+    "Core Quenching Body Milk",
+    "violent blood (of the Snow Demon Sky Ape)",
+    "Yan Hao",
+    "Strong Ranking Competition (in four months)",
+    "Green Vortex (Lin Xiu Ya's attack)",
+    "Amethyst Essence"
+  ],
+  "cultivation": "Xiao Yan reaches the first level, Lightning Flash, of the Three Thousand Lightning Movement. Lin Xiu Ya is not a Dou Wang; his wings are a technique, not Dou Qi Wings.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "han-yue",
+      "name": "Han Yue",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-xiu-ya",
+      "name": "Lin Xiu Ya",
+      "realm": null,
+      "quote": "I barely managed to condense these Dou Qi Wings by using some techniques",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yan-hao",
+      "name": "Yan Hao",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 234.2
+    },
+    {
+      "id": "snow-demon-sky-ape",
+      "name": "Snow Demon Sky Ape",
+      "realm": "as strong as a Dou Wang",
+      "quote": "I think it's at least as strong as a Dou Wang.",
+      "first": true,
+      "card": null
+    },
+    {
+      "id": "heaven-swallowing-python",
+      "name": "Heaven Swallowing Python",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut subtitle file, which starts at the [Episode 90] card: events unchanged; Yan Hao's card moved to 234.2 and flag times moved to the new clock; flags about the old cut removed."
+  ],
+  "flags": [
+    "370-385s: Yao Lao calls something Xiao Yan does 'this method... acts like a wave' without naming it. It may be the Dark Energy he uses in EP93, but it is not named here.",
+    "Snow Demon Sky Ape: 'at least as strong as a Dou Wang' (444.2) and 'even a Five-Star Dou Wang has to run away from it' once its violent blood awakens (527.2).",
+    "0-27s are a recap of EP89 (the pill-refining competition, the Rock Gate's growth) and are not counted."
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "ep": 237,
+  "title": "A Hundred Lifetimes",
+  "summary": "Past the illusion, Xiao Yan sees a vision of a Dou Di devouring the Bodhisattva Ancient Tree, which explains why the tree is withering. He uses his own Bodhisattva Seed to slow the Dou Di's corruption, then refines the many pure Bodhisattva Seeds the tree offers him, while an array keeps refilling his Dou Qi. The tree then gives him enlightenment, a hundred lifetimes of reincarnation under its branches. Hun Yu tries to stop him, but the tree shields him and Xun Er's Gu Clan stands guard. Xiao Yan wakes at peak Ninth Turn Dou Zun and shares the seeds with his companions. Hun Yu demands the seeds and the jade of Tuo She Gu Di and attacks with the Soul Destruction Palm, but Xiao Yan beats him with an Octane Blast. Then the space starts to collapse.",
+  "events": [
+    "A vision shows a Dou Di devouring the Bodhisattva Ancient Tree.",
+    "Xiao Yan's Bodhisattva Seed slows the Dou Di's corruption in the tree.",
+    "Xiao Yan refines the tree's pure Bodhisattva Seeds; an array restores his Dou Qi.",
+    "The others wake from their own illusions.",
+    "Xiao Yan gains enlightenment under the tree; Hun Yu's attack is blocked by the tree.",
+    "Xiao Yan wakes at peak Ninth Turn Dou Zun and hands out seeds.",
+    "Hun Yu demands the seeds and the Tuo She Gu Di jade; Xiao Yan beats him.",
+    "The space begins to collapse."
+  ],
+  "introduced": [
+    "the tree's three treasures (Bodhisattva Seed, Bodhisattva Heart, enlightenment)",
+    "Soul Destruction Palm"
+  ],
+  "cultivation": "Xiao Yan reaches peak Ninth Turn Dou Zun after enlightenment under the Bodhisattva Ancient Tree. Hun Yu fights at peak Eighth Turn Dou Zun with his clan mark power.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false
+    },
+    {
+      "id": "gu-qing-yang",
+      "name": "Gu Qing Yang",
+      "first": false
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "first": false
+    },
+    {
+      "id": "hun-yu",
+      "name": "Hun Yu",
+      "first": false
+    },
+    {
+      "id": "jiu-feng",
+      "name": "Jiu Feng",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-50s is a recap of EP236.",
+    "73-112s: a vision of a figure devouring the tree ('Is this Dou Di?') and someone who waited a century to 'repay blood with blood'. Neither is named; read as the tree's memory.",
+    "Xiao Yan's breakthrough to peak Ninth Turn Dou Zun is shown by Hun Yu's reaction at 986s and confirmed in EP238-239.",
+    "988s: 'Hu Clan' is a typo for 'Hun Clan'.",
+    "899-917s: 'Thank you, Yan' (Xun Er) and 'Thank you, Xiao! You're a true friend!' - the second speaker is unclear.",
+    "964s: Hun Yu asks for 'the jade of Tuo She Gu Di'.",
+    "1055s: 'the finest of the younger generation from both clans, then stay here' - Xiao Yan to Hun Yu and Jiu Feng."
+  ]
+}

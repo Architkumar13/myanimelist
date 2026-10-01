@@ -1,0 +1,100 @@
+{
+  "ep": 155,
+  "title": "The Black-Corner Alliance",
+  "summary": "At Demon Flame Valley, Han Feng urges the Black-Corner Region guests, led by Chief Mo and Old Ying Shan, to form an alliance against Jia Nan Academy and the Xiao Gate. Xiao Yan arrives, defeats Mr. Jin and Mr. Yin, and wins Chief Mo over by holding the antidote for his poisoned son, Mo Ya, and the other guests leave. Han Feng calls in Protector Xuan of the Hall of Souls, who raises the Ten Thousand Soul Swallowing Formation and builds a fierce spirit with Blood Feed. Tian Huo Zun Zhe tells Xiao Yan to use the Fallen Heart Flame against souls and then absorbs the fierce spirit through Xiao Yan's ring, using Xiao Yan's Soul Power. Worn out, Tian Huo Zun Zhe falls asleep and asks Xiao Yan to nourish his soul for ten days. When Xiao Yan refuses to give the spirit back, Protector Xuan calls on Han Feng to help him, but Han Feng stabs him from behind and takes his soul.",
+  "events": [
+    "Han Feng pitches an alliance to Chief Mo, Old Ying Shan and the other guests.",
+    "Xiao Yan arrives, defeats Mr. Jin and Mr. Yin, and tells outsiders to leave.",
+    "Chief Mo backs out in exchange for an antidote for his son Mo Ya; the other guests leave.",
+    "Han Feng calls on Protector Xuan of the Hall of Souls, who knows of Protector Wu and Yao Lao's capture.",
+    "Protector Xuan uses the Ten Thousand Soul Swallowing Formation and Blood Feed to build a fierce spirit.",
+    "Xiao Yan fights back with the Fallen Heart Flame; Tian Huo Zun Zhe absorbs the fierce spirit with Xiao Yan's Soul Power.",
+    "Tian Huo Zun Zhe falls into a ten-day slumber.",
+    "Han Feng kills Protector Xuan from behind and takes his soul."
+  ],
+  "introduced": [
+    "Chief Mo",
+    "Old Ying Shan",
+    "Mo Ya",
+    "Mr. Jin",
+    "Mr. Yin",
+    "Protector Xuan",
+    "Protector Wu",
+    "Ten Thousand Soul Swallowing Formation",
+    "Blood Feed",
+    "fierce spirit"
+  ],
+  "cultivation": "Old Ground Demon Ghost is recalled as a Seven-Star Dou Zong. Xiao Yan is described as being at the Dou Huang level.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Huang",
+      "quote": "How can someone at a Dou Huang level have such an incredible speed?",
+      "first": false
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "first": false
+    },
+    {
+      "id": "chief-mo",
+      "name": "Chief Mo",
+      "first": true,
+      "card": 58
+    },
+    {
+      "id": "old-ying-shan",
+      "name": "Old Ying Shan",
+      "first": true,
+      "card": 59
+    },
+    {
+      "id": "mr-jin",
+      "name": "Mr. Jin",
+      "first": true,
+      "card": 438
+    },
+    {
+      "id": "mr-yin",
+      "name": "Mr. Yin",
+      "first": true,
+      "card": 438
+    },
+    {
+      "id": "protector-xuan",
+      "name": "Protector Xuan",
+      "first": true,
+      "card": 585
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: moved the news about Han Feng and Xiao Yan's order to Xiao Li to EP154 (Xiao Li is out of the cast); added from EP156 Tian Huo Zun Zhe absorbing the fierce spirit, his ten-day slumber and Han Feng killing Protector Xuan; card times moved to the new clock."
+  ],
+  "flags": [
+    "0-52s is the recap.",
+    "438s: Mr. Jin and Mr. Yin are only named after Xiao Yan defeats them; they look like two guests who confronted him.",
+    "474s: Chief Mo's son is named Mo Ya ('Young Master Mo Ya'); he is not on screen.",
+    "518s: 'There are three Dou Zongs on the other side.' The three are not listed; likely Su Qian, the Little Fairy Doctor and Tian Huo Zun Zhe.",
+    "596s: Protector Wu is named as the Hall of Souls man who captured Yao Lao; he is not on screen.",
+    "1117-1134s: Han Feng's attack on Protector Xuan is read from the lines 'Han Feng, you...' and 'Just offer your soul to me'; EP156's recap confirms he pierced him from behind.",
+    "Su Qian and the Little Fairy Doctor are present by later lines ('First Elder, don't worry' 885s); neither has much dialogue here."
+  ]
+}

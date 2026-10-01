@@ -1,0 +1,104 @@
+{
+ "ep": 214,
+ "title": "The Bone Chilling Flame and Dragon Island",
+ "summary": "Granny Hua's sealed Dou Qi is crashing through Yun Yun's meridians and could kill her, so Xiao Yan soothes it with the Bone Chilling Flame and gives her a Fiery Pill to help refine it. With the flame's resistance gone, he goes into seclusion in the Flower Sect and fuses the Bone Chilling Flame with his own. The Flame Mantra does not reach Tian Class, but he reaches Four-Star Dou Zun. On his way home Hei Qing finds him through a dragon seal Zi Yan left on him and takes him to Dragon Island. Elder Zhu Li explains that Zi Yan's father is the missing Dragon Emperor and that the clan has split into four warring islands. Zi Yan is sealed in a crystal of Dragon-Phoenix energy, and only a top-ten Heavenly Flame can melt it. Meanwhile three dragon islands gather to attack East Dragon Island.",
+ "events": [
+  "Xiao Yan calms Granny Hua's Dou Qi inside Yun Yun with the Bone Chilling Flame.",
+  "He gives Yun Yun a Fiery Pill.",
+  "He goes into seclusion and fuses the Bone Chilling Flame.",
+  "Thunderclouds form, and he reaches Four-Star Dou Zun.",
+  "Xiao Yan leaves the Flower Sect, and Hei Qing finds him.",
+  "On Dragon Island, Zhu Li explains Zi Yan's royal blood and the clan's split.",
+  "Xiao Yan sees Zi Yan sealed in crystal and agrees to help.",
+  "Man Yan, Xia Ao and Qing Yan plan a joint attack on East Dragon Island."
+ ],
+ "introduced": [
+  "Fiery Pill",
+  "Dragon Island (seen)",
+  "dragon seal",
+  "Zhu Li",
+  "Third Elder (Void Ancient Dragons)",
+  "Dragon Emperor",
+  "Heavenly Flames Ranking (top ten)",
+  "East Dragon Island",
+  "North Dragon Island",
+  "Man Yan",
+  "Xia Ao",
+  "Qing Yan"
+ ],
+ "cultivation": "Xiao Yan reaches Four-Star Dou Zun after fusing the Bone Chilling Flame. The Flame Mantra does not evolve to Tian Class.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "xiao-yan",
+   "name": "Xiao Yan",
+   "realm": "4-star Dou Zun",
+   "quote": "But I've reached Four-Star Dou Zun.",
+   "first": false
+  },
+  {
+   "id": "yun-yun",
+   "name": "Yun Yun",
+   "first": false
+  },
+  {
+   "id": "nalan-yanran",
+   "name": "Nalan Yanran",
+   "first": false
+  },
+  {
+   "id": "qing-xianzi",
+   "name": "Qing Xianzi",
+   "first": false
+  },
+  {
+   "id": "qing-lin",
+   "name": "Qing Lin",
+   "first": false
+  },
+  {
+   "id": "hei-qing",
+   "name": "Hei Qing",
+   "first": false
+  },
+  {
+   "id": "zhu-li",
+   "name": "Zhu Li",
+   "first": true,
+   "card": 743
+  },
+  {
+   "id": "zi-yan",
+   "name": "Zi Yan",
+   "look": "sealed inside a crystal",
+   "first": false
+  },
+  {
+   "id": "man-yan",
+   "name": "Man Yan",
+   "first": true,
+   "card": 991
+  },
+  {
+   "id": "xia-ao",
+   "name": "Xia Ao",
+   "first": true,
+   "card": 993
+  },
+  {
+   "id": "qing-yan",
+   "name": "Qing Yan",
+   "first": true,
+   "card": 1008
+  }
+ ],
+ "changes": [],
+ "flags": [
+  "Time skip: the caption says '[A Few Months Later]' (429), but a line says 'It's already been a month' (439).",
+  "The EP215 recap says the Flame Mantra became Di Class here; this file only says it did not reach Tian Class.",
+  "940-956 repeats Zi Yan's farewell from EP209 as a flashback.",
+  "991-1008: the three cards come quickly. Which island each of Man Yan, Xia Ao and Qing Yan leads is not clear; the North Dragon Island leader arrives late.",
+  "'Grand Elder' is assumed to be Qing Xianzi.",
+  "The 'old friend' Xiao Yan speaks to in seclusion (322-389) is the Bone Chilling Flame."
+ ]
+}

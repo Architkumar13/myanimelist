@@ -1,0 +1,92 @@
+{
+  "ep": 232,
+  "title": "Into the Ancient Wasteland",
+  "summary": "After two weeks in seclusion, Xiao Yan forces his King Kong Glass Body to about seven zhang, still short of the peak of nine zhang and nine chi. Yao Lao confirms the Bodhisattva Ancient Tree will appear and gives him a Spatial Jade Plate to call for help. Xiao Yan enters the Ancient Wasteland Region with Medusa, Little Fairy Doctor and Qing Lin, while Tian Huo Zun Zhe stays to guard the Falling Star Pavilion. In a poison fog made of tiny insects, Xiao Yan shields the group with his Heavenly Flame. They then find the Flower Sect ambushed by the Profound Sky Sect, whose Deputy Sect Leader Liu Cang wants to take Yun Yun and her disciple Nalan Yanran. Yun Yun prepares to self-destruct, but Xiao Yan arrives in his golden King Kong Glass Body and kills Liu Cang with one Great Nether Dragon Fist.",
+  "events": [
+    "Xiao Yan forces his King Kong Glass Body to seven zhang and is hurt by it.",
+    "Yao Lao gives him a Spatial Jade Plate; the group leaves for the Ancient Wasteland Region.",
+    "Little Fairy Doctor finds the poison fog is made of insects; Xiao Yan's Heavenly Flame drives them off.",
+    "The Profound Sky Sect ambushes the Flower Sect.",
+    "Liu Cang threatens Yun Yun and Nalan Yanran.",
+    "Yun Yun is about to self-destruct.",
+    "Xiao Yan kills Liu Cang with one Great Nether Dragon Fist; the Profound Sky Sect flees.",
+    "Yun Yun recognises Medusa, then Xiao Yan."
+  ],
+  "introduced": [
+    "Nine-Zhang Golden Body (peak of the King Kong Glass Body)",
+    "Spatial Jade Plate (given to Xiao Yan)",
+    "poison-insect fog",
+    "Liu Cang",
+    "Great Nether Dragon Fist"
+  ],
+  "cultivation": "Xiao Yan's King Kong Glass Body reaches about seven zhang, short of the nine zhang and nine chi peak. Liu Cang is a Nine-Star peak Dou Zun. The recap calls Tian Xie Zi a Ninth Turn Dou Zun and Yao Lao a Ban Sheng.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "feng-zun-zhe",
+      "name": "Feng Zun Zhe",
+      "first": false
+    },
+    {
+      "id": "feng-xian",
+      "name": "Feng Xian",
+      "first": false
+    },
+    {
+      "id": "tian-huo-zun-zhe",
+      "name": "Tian Huo Zun Zhe",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "first": false
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "first": false
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "first": false
+    },
+    {
+      "id": "liu-cang",
+      "name": "Liu Cang",
+      "realm": "Nine-Star peak Dou Zun",
+      "quote": "[Liu Cang, Nine-Star Peak Dou Zun]",
+      "first": true,
+      "card": 627.9
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-46s is a recap of EP231.",
+    "180s: 'Elder Feng' is Feng Zun Zhe (as in EP200-217). 94s: 'Pavilion Chief' is taken as Feng Xian; he is not named here.",
+    "222-225s: 'I'm coming with you. / Me too.' Taken as Medusa, Little Fairy Doctor and Qing Lin, who are in the Wasteland in EP233.",
+    "798s: 'Sect Leader Liu's training' suggests the Profound Sky Sect leader is also a Liu; not named.",
+    "Nalan Yanran is called 'Yanran'; Yun Yun is called 'Ms. Yun'."
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "ep": 269,
+  "title": "Medusa's evolution",
+  "summary": "Xiao Yan thanks Yao Ming for protecting Medusa and fights Huang Tian himself. Huang Tian is furious that Xiao Yan uses his clan's Heaven Demon Phoenix Wings and can keep up with his Demon Phoenix Step, and Xiao Yan hurts him with the Yellow Spring Palm and the Fire Condensation Finger. Huang Tian takes the true form of the Heaven Demon Phoenix, and Xiao Yan answers with soul attacks, the bane of demon beasts. Then a bloodline pressure suppresses Huang Tian as Medusa comes out of her seclusion. She tells Xiao Yan she found her ancestors' lair deep under the Nine Serene Spring and took their remnant souls into her body, and so evolved into the Nine-Colored Heaven Swallowing Python. Huang Tian gives up, but when they move to kill him he says he lured Xiao Yan away from the Central Plains and that Zi Yan, the new Dragon Emperor of the Void Ancient Dragons, is in danger. Xiao Yan leaves the rest to Yao Ming and sets off with Medusa, taking Huang Tian along.",
+  "events": [
+    "Xiao Yan thanks Yao Ming and faces Huang Tian.",
+    "Huang Tian rages at Xiao Yan for using the Heaven Demon Phoenix Wings.",
+    "Xiao Yan hurts him with the Yellow Spring Palm and the Fire Condensation Finger.",
+    "Huang Tian takes his true phoenix form; Xiao Yan uses soul attacks.",
+    "Medusa emerges and suppresses Huang Tian with her bloodline.",
+    "Medusa explains her ancestors' remnant souls and her evolution.",
+    "Huang Tian warns that Zi Yan is in danger.",
+    "Xiao Yan leaves for the Void Ancient Dragons."
+  ],
+  "introduced": [
+    "Demon Phoenix Step",
+    "Fire Condensation Finger",
+    "Demon Phoenix Statue",
+    "True Form of the Heavenly Demon Phoenix",
+    "Nine-Colored Heaven Swallowing Python (Medusa's evolved form)",
+    "the Seven-Colored Heaven Swallowing Python's legacy",
+    "remnant souls of Medusa's ancestors"
+  ],
+  "cultivation": "Medusa evolves into the Nine-Colored Heaven Swallowing Python with her ancestors' remnant souls. Her strike is said to be beyond a Four-Star Dou Sheng. No change for Xiao Yan.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ming",
+      "name": "Yao Ming",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "huang-tian",
+      "name": "Huang Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 729.5,
+      "look": "evolved into the Nine-Colored Heaven Swallowing Python"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "OCR of burned-in subtitles: garbled opening/ending text and stray characters; 154-188s is a recap of EP268.",
+    "Burned-in wording: 'Cai Lin' (Medusa), 'Celestial/Heavenly Demon Phoenix Clan', 'Underworld' (Nine Serene Spring), 'Ancient Tai Xu Dragon Clan' and 'Gu Long clan' (Void Ancient Dragons), 'Battle Saint' (Dou Sheng), 'Phoenix Heaven' (449.5, Huang Tian).",
+    "863.0-872.0: 'What level are you at now? / That strike earlier didn't seem like something a Four-Star Battle Saint could pull off. You were relying on external power.' Read as Medusa being a Four-Star Dou Sheng helped by her ancestors' souls; who speaks each line is unclear, so not recorded as a realm.",
+    "907.5-910.0 Medusa evolves 'from' the Seven-Colored into the Nine-Colored Heaven Swallowing Python.",
+    "223.5 'Your goal was to force me to reveal myself' contradicts EP268's 'this King has taken her away'; Huang Tian seems to have bluffed.",
+    "987.5 'Kill him' and 1065.5 'It won't be too late to kill you after we get there': Huang Tian is kept alive for now. EP270's recap says Xiao Yan killed Huang Tian; not shown in this file."
+  ]
+}

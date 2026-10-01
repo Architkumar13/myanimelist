@@ -1,0 +1,75 @@
+{
+  "ep": 265,
+  "title": "The Young Alliance Master returns",
+  "summary": "Two years after the Demon Flame space closed, Xiao Yan and Xun Er come out. On the way Xiao Yan saves an outer squad of the Sky Mansion Alliance from a Hall of Souls attack while they carry Demon Fire Stones, and then wipes out a nearby Hall of Souls branch, held by a One-Star Dou Sheng, in one move. The squad learns he is the Young Alliance Master and tells him the Stone Clan and Spirit Clan have vanished and three clans have allied, and Xun Er leaves to check on the Gu Clan. At the alliance, the leaders fear Hun Qianmo, a Six-Star Dou Sheng of the Hun Clan who helped ambush Xiao Xuan, as well as Hun Miesheng and the Soul Demon Elder, because Zi Yan must stay on East Dragon Island. Xiao Yan walks in, says he will take on Hun Miesheng, and is welcomed home. He hears that Medusa is still in seclusion deep in the Nine Serene Spring, and he rallies the alliance to drive the Hall of Souls out of the Central Plains. Both sides gather at Fallen Mountain, the Hall of Souls with seven Dou Sheng and the alliance with ten.",
+  "events": [
+    "Xiao Yan and Xun Er leave the Demon Flame space after two years.",
+    "Xiao Yan saves an alliance squad carrying Demon Fire Stones.",
+    "He destroys a nearby Hall of Souls branch in one move.",
+    "Xun Er returns to the Gu Clan.",
+    "The alliance's leaders weigh the threat of Hun Qianmo.",
+    "Xiao Yan returns and offers to fight Hun Miesheng.",
+    "He hears that Medusa is still in the Nine Serene Spring.",
+    "The Hall of Souls and the alliance gather at Fallen Mountain."
+  ],
+  "introduced": [
+    "Demon Fire Stones",
+    "Outer Alliance and Inner Alliance (Sky Mansion Alliance ranks)",
+    "Xuan Squad, Third Brigade",
+    "Young Alliance Master (Xiao Yan's title)",
+    "Peak of the Fallen (Fallen Mountain)"
+  ],
+  "cultivation": "Hun Qianmo is a Six-Star Dou Sheng. A Hall of Souls branch is held by a One-Star Dou Sheng. No change for Xiao Yan.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-qianmo",
+      "name": "Hun Qianmo",
+      "realm": "Six-Star Dou Sheng",
+      "quote": "His name is Hun Qianmo, a Six-Star Martial Saint.",
+      "first": false,
+      "card": 703.3
+    },
+    {
+      "id": "hun-miesheng",
+      "name": "Hun Miesheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file opens with a recap of EP264 (154-198s).",
+    "This track writes the alliance as 'Tianfu Alliance', 'Heavenly Realm Alliance', 'Heavenly Treasury Alliance' and 'Heavenly Palace Alliance', and Dou Sheng as 'Martial Saint' and 'Battle Saint'.",
+    "920-946s: several lines are repeated many times (a subtitle glitch). 'Nine Netherworlds/Yellow Springs' = the Nine Serene Spring; 'Nether Serpent Clan' = Nine Serene Deep Ground Pythons; Cai Lin = Medusa.",
+    "690-809s: the alliance leaders speaking are not named. 797.6 'I can handle the Soul Demon Elder' may be Xiao Chen; 759.3 'the Ancestor' is probably the Pill Tower Ancestor.",
+    "882.0-916.1: the welcoming speakers are not named; Yao Lao is listed from 676.6 'Are Teacher and the others still doing well?'.",
+    "Hun Qianmo appears on screen only in the briefing (703-716s), if at all; 721.4 the ancient clans' rule now bars Four-Star Dou Sheng or higher from intervening."
+  ]
+}

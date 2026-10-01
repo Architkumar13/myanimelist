@@ -1,0 +1,123 @@
+{
+  "ep": 75,
+  "title": "Alchemist Against Alchemist",
+  "summary": "On the second day of the qualifiers, the head of the School of Alchemy, Old Huo, notes Xiao Yan's fiery Dou Qi and says he would welcome him. Ruo Lin warns Xiao Yan about two powers in the Outer Academy, the School of Alchemy and the Enforcer Squad, and says students like Bai Shan and Lu Mu trained in the Black-Corner Region. Luo Fu beats Ge Li with patient defence. Xiao Yan then faces Lu Mu, the top student of the School of Alchemy and Xiao Yu's eager suitor, who fights with his Blue Flame, a beast flame. Xiao Yan splits his own flame in two, guarding with one part while the other traps Lu Mu in a fire chain from below. Lu Mu admits defeat, and onlookers say he has lived up to his name as champion of the Alchemist Conference. Xiao Yan tells Xun Er he will not give up on her despite the power behind her, and the next match pits Yan Cheng against Wu Hao, the Blood Demon of the Enforcer Squad.",
+  "events": [
+    "Old Huo and the vice dean discuss Xiao Yan.",
+    "Ruo Lin explains the School of Alchemy and the Enforcer Squad.",
+    "Luo Fu defeats Ge Li.",
+    "Xiao Yan fights Lu Mu, who uses his Blue Flame.",
+    "Xiao Yan splits his flame and traps Lu Mu in a fire chain; Lu Mu concedes.",
+    "Xiao Yan promises Xun Er he won't give up on her.",
+    "Wu Hao of the Enforcer Squad is announced against Yan Cheng."
+  ],
+  "introduced": [
+    "Old Huo",
+    "School of Alchemy",
+    "Outer Academy vice dean",
+    "Enforcer Squad (Jia Nan)",
+    "Lu Mu",
+    "Blue Flame (beast flame)",
+    "Pill Flame Skill",
+    "Purple Flame Shield",
+    "Spiraling Conical Flame",
+    "Luo Fu",
+    "Ge Li",
+    "Yan Cheng",
+    "Wu Hao (Blood Demon)"
+  ],
+  "cultivation": "Ruo Lin on Lu Mu: 'Three-Star Da Dou Shi, I guess' (278). The vice dean's 'actual strength is below a strongest Dou Huang' (194).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ruo-lin",
+      "name": "Ruo Lin",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-yu",
+      "name": "Xiao Yu",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "old-huo",
+      "name": "Old Huo",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    },
+    {
+      "id": "lu-mu",
+      "name": "Lu Mu",
+      "realm": "Three-Star Da Dou Shi",
+      "quote": "Three-Star Da Dou Shi, I guess.",
+      "first": true,
+      "card": 261.7
+    },
+    {
+      "id": "luo-fu",
+      "name": "Luo Fu",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    },
+    {
+      "id": "ge-li",
+      "name": "Ge Li",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 1057.8
+    },
+    {
+      "id": "bai-shan",
+      "name": "Bai Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-33s: card and recap; not counted.",
+    "934-1010: ending-style song lyrics over the Xiao Yan and Xun Er scene; ignored.",
+    "132 'Old Huo' is spoken to the department head of the School of Alchemy; the speaker (probably the vice dean) is not named.",
+    "194 'below a strongest Dou Huang' is ambiguous; it may mean 'not far below'.",
+    "Lu Mu's realm is Ruo Lin's guess ('I guess').",
+    "Lu Mu ranks tenth in the Outer Academy (485).",
+    "807.6 'Pill Flame Skill!' is untagged; afterwards Lu Mu says 'Your Pill Flame Skill is aggressive' to Xiao Yan, so it is probably Xiao Yan's move."
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "ep": 139,
+  "title": "Into the Chu Yun Empire",
+  "summary": "Grand Commander Kui Xing fights Zi Yan, and Medusa stops it and sends him to the snake cave for a month. Medusa insists on coming, so Xiao Yan, Medusa and Zi Yan travel to Sky Poison City, the Poison Sect's headquarters. Little Fairy Doctor tells them a Hall of Souls member pressed her to capture Xiao Yan, and she traced him to the Ten Thousand Scorpion Gate. At the Sky Scorpion Mountain Range, Elder Wu doubts the three Dou Huang guests, and the elders suspect a spy because the enemy always knows their moves. Little Fairy Doctor closes the camp and attacks anyway, but walks into an ambush and Xie Shan's Poison Cloud Formation. She breaks it, and the Gate's old master Xie Biyan, a peak four-star Dou Zong, comes out to fight her.",
+  "events": [
+    "Kui Xing attacks; Zi Yan says she survived only because she reached Dou Huang",
+    "Medusa punishes Kui Xing and decides to go to the Chu Yun Empire",
+    "Xiao Yan, Medusa and Zi Yan reach Sky Poison City; Medusa and Little Fairy Doctor clash",
+    "Little Fairy Doctor recounts the Hall of Souls envoy's threats and the Ten Thousand Scorpion Gate",
+    "At the Sky Scorpion Mountain Range, Elder Wu questions her and the elders suspect a spy",
+    "The Poison Sect attacks and is caught in Xie Shan's Poison Cloud Formation",
+    "Little Fairy Doctor uses the Thousand Mirage Poison Spring; Xie Biyan appears"
+  ],
+  "introduced": [
+    "Kui Xing (Snakemen Grand Commander)",
+    "Sky Poison City",
+    "Ten Thousand Scorpion Gate",
+    "Sky Scorpion Mountain Range",
+    "Elder Wu (Poison Sect)",
+    "Xie Shan",
+    "Xie Biyan",
+    "Poison Cloud Formation",
+    "Thousand Mirage Poison Spring"
+  ],
+  "cultivation": "Zi Yan has reached Dou Huang. Xie Biyan is a peak four-star Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "kui-xing",
+      "name": "Kui Xing",
+      "first": false,
+      "card": 78
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": "Dou Huang",
+      "quote": "If I didn't reach Dou Huang, I would've died from his punch.",
+      "first": false,
+      "card": 53
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false,
+      "card": 50
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false,
+      "card": 99
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false,
+      "card": 363
+    },
+    {
+      "id": "protector-tie",
+      "name": "Protector Tie",
+      "first": true,
+      "card": 458
+    },
+    {
+      "id": "elder-wu",
+      "name": "Elder Wu",
+      "first": true,
+      "card": 724
+    },
+    {
+      "id": "xie-shan",
+      "name": "Xie Shan",
+      "first": true,
+      "card": 873
+    },
+    {
+      "id": "xie-biyan",
+      "name": "Xie Biyan",
+      "realm": "4-star Dou Zong",
+      "quote": "Judging from this old man's aura, he's now at the peak of Four-Star Dou Zong.",
+      "first": true,
+      "card": 1041
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-189s (before the [Episode 139] card) continues ep138's last scene with Kui Xing.",
+    "458-508s: the Hall of Souls envoy in Little Fairy Doctor's flashback is the man named Protector Tie in ep140 ('It's you. We could have been partners').",
+    "717s: Elder Wu calls the three guests 'only Dou Huangs' (Xiao Yan, Medusa, Zi Yan) though Medusa is a Dou Zong; they are disguised.",
+    "Elder Wu here and Wu Ya, the traitor in ep140, are probably the same man; kept apart."
+  ]
+}

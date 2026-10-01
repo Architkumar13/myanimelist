@@ -1,0 +1,72 @@
+{
+  "ep": 194,
+  "title": "Champion of the Pill Gathering",
+  "summary": "Xiao Yan brings out the Bone Chilling Flame, and the Pill Tower elders are amazed that he holds three Heavenly Flames. He uses Spirit Nourishment Powder and Yao Lao's Spiritual Enhancement Technique, and his three-colored thundercloud grows to four colors, then five. The fused Pill Lightning breaks the lightning conductor, so Xiao Yan sends out his Earth Demon Puppet, which absorbs the lightning. Xuan Kong Zi declares Xiao Yan the champion and gives him the Taiyi Soul Technique, and the top ten will enter the Star Region in two days to try to subdue the Three Thousand Burning Flame. Xuan Kong Zi introduces Chairwoman Xuan Yi and Chairman Tian Lei Zi, who ask the finalists to stop Mu Gu from breaking the seal. Zi Yan tells Xiao Yan that her clan raised the Three Thousand Burning Flame and left a dragon seal in it. She plants a dragon seal in him with Ancient Dragon Blood and warns that if he fails, the seal could control him.",
+  "events": [
+    "Xiao Yan brings out the Bone Chilling Flame.",
+    "He uses the Spiritual Enhancement Technique, and his thundercloud reaches five colors.",
+    "The Pill Lightning breaks the lightning conductor, and the Earth Demon Puppet absorbs it.",
+    "Xiao Yan is declared champion and receives the Taiyi Soul Technique.",
+    "Xuan Kong Zi introduces Xuan Yi and Tian Lei Zi and explains the Star Region plan.",
+    "Zi Yan explains her clan's link to the Three Thousand Burning Flame.",
+    "Zi Yan plants a dragon seal in Xiao Yan with Ancient Dragon Blood."
+  ],
+  "introduced": [
+    "Blood Offering, Spiritual Return",
+    "five-colored thundercloud",
+    "Taiyi Soul Technique",
+    "Undying Heavenly Flame",
+    "Tian Lei Zi",
+    "dragon seal",
+    "Ancient Dragon Blood"
+  ],
+  "cultivation": "Xiao Yan's Eighth-Tier Pill raises a five-colored thundercloud. 528s 'Have I advanced?' is said after the puppet absorbs the lightning; whose advance is not clear.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "mu-gu",
+      "name": "Mu Gu",
+      "first": false
+    },
+    {
+      "id": "xuan-kong-zi",
+      "name": "Xuan Kong Zi",
+      "first": false
+    },
+    {
+      "id": "xuan-yi",
+      "name": "Xuan Yi",
+      "first": false
+    },
+    {
+      "id": "tian-lei-zi",
+      "name": "Tian Lei Zi",
+      "first": true,
+      "card": 762
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "16-56s recap of EP193.",
+    "528s: 'Have I advanced? Then it's time to end this.' could be the puppet or Xiao Yan; not counted as a breakthrough.",
+    "744-756s: Xuan Yi is a woman ('Aunt Xuan'), reacts strongly to talk of Yao Chen, and Xiao Yan wonders about her link to his master.",
+    "684s: 'That's my brother!' is taken as Zi Yan or another companion; not named.",
+    "903s: Zi Yan says she heard from Little Fairy Doctor; Little Fairy Doctor is taken as present with the companions (825-1046s), which is not certain.",
+    "915-1081s: Zi Yan's clan is not named here; EP195's recap calls it the Void Ancient Dragons."
+  ]
+}

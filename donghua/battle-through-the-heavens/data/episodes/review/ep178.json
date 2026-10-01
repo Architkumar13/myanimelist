@@ -1,0 +1,74 @@
+{
+  "ep": 178,
+  "title": "The Fallen God Stream",
+  "summary": "Xin Lan tells Xiao Yan that the Little Fairy Doctor's Woeful Poison Body broke out on the way to the Pill Region, and the Ice River Valley has hunted her ever since. Zi Yan went home after sensing something, and the Little Fairy Doctor drew the hunters away to the Fallen God Stream. Following a Poison Seeking Mouse, Xiao Yan and Xin Lan find her fighting Ice River Valley men, who hit her with the Ice Zun Force and trap her in the Ice Seal Formation. Xiao Yan arrives as a One-Star Dou Zong and sends in his Earth Demon Puppet. Tian Huo Zun Zhe takes on the Ice River leader, who names himself Bing Fu. Xiao Yan fights an Ice River Two-Star Dou Zong with the Three Thousand Lightning Illusionary Body, Heavenly Flame and Octane Blast, and beats him.",
+  "events": [
+    "Xin Lan tells how the group lost Xiao Yan and Zi Yan, and why the Ice River Valley wants the Little Fairy Doctor.",
+    "A Poison Seeking Mouse leads them through the Fallen God Stream.",
+    "An Ice River Valley leader strikes the Little Fairy Doctor with the Ice Zun Force.",
+    "Ice River disciples set the Ice Seal Formation around her.",
+    "Xiao Yan arrives and his puppet joins the fight.",
+    "Tian Huo Zun Zhe faces Bing Fu.",
+    "Xiao Yan defeats an Ice River Two-Star Dou Zong."
+  ],
+  "introduced": [
+    "Fallen God Stream",
+    "Poison Seeking Mouse",
+    "Ice Zun Force",
+    "Mysterious Ice Qi",
+    "Ice Seal Formation",
+    "Bing Fu",
+    "Bing He (Ice River Two-Star Dou Zong)",
+    "Ice Python Arm"
+  ],
+  "cultivation": "Xiao Yan is a One-Star Dou Zong. An Ice River Valley fighter is a Two-Star Dou Zong.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "1-star Dou Zong",
+      "quote": "You're just a One-Star Dou Zong.",
+      "first": false
+    },
+    {
+      "id": "xin-lan",
+      "name": "Xin Lan",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false,
+      "card": 518
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false,
+      "card": 726
+    },
+    {
+      "id": "bing-fu",
+      "name": "Bing Fu",
+      "first": true,
+      "card": 763
+    },
+    {
+      "id": null,
+      "name": "Bing He (Ice River Valley Two-Star Dou Zong)",
+      "realm": "2-star Dou Zong",
+      "quote": "The Two-Star Dou Zong of the Ice River Valley / turned out to be so weak.",
+      "first": true,
+      "card": 670
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Opening narration 16-45s is a recap of EP177.",
+    "300s: the Ice River man who strikes the Little Fairy Doctor says 'Unless I, the chief of the Ice River Valley'; 763s: 'I am Bing Fu, the chief of the Ice River Valley'. But 528s has a leader say 'Bing Fu, I'll leave him to you', EP179 (202s) says only the 'valley master' can cure the Ice Zun Force, and EP184 names the valley master Bing He. 'Chief' here likely means a group leader or elder; Bing Fu's exact rank is unclear.",
+    "670s: 'Bing Fu. Bing He.' names a second fighter Bing He, the Two-Star Dou Zong Xiao Yan beats (969s). The valley master in EP184 is also Bing He; kept apart (id null here).",
+    "753s: 'An Eight-Star Dou Zong?' is the enemy's reaction when Tian Huo Zun Zhe appears; his soul was Eight-Star in EP154. Not recorded as a realm.",
+    "116-133s: Zi Yan went home after a letter saying she 'sensed something'; she is not on screen."
+  ]
+}

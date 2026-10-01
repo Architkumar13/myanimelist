@@ -1,0 +1,74 @@
+{
+  "ep": 157,
+  "title": "The All Day Fire Seal",
+  "summary": "The Little Fairy Doctor's Woeful Poison Body is about to break out, and Su Qian cannot get through the poison gas, so Xiao Yan goes in protected by his Heavenly Flame. Tian Huo Zun Zhe teaches him a seal he once made for a friend with the same body, and Xiao Yan draws the All Day Fire Seal on her. It should hold for two to three years, enough time to look for the core of a Sky Poison Dragon Scorpion Beast, and the Little Fairy Doctor comes out of it as a Five-Star Dou Zong. Xiao Yan then refines a Seventh-Tier Pill, the Heaven Soul Blood Fusing Pill, and when a remnant of the Heaven Demon Phoenix presses on it, Zi Yan gives her own blood to drive it back. He enters the Pill Spirit Realm and meets the Pill Lightning with the Six Joint Body Flowing Ruler and the Open Mountain Seal. His new Earth Demon Puppet, made from the Old Ground Demon Ghost's body, Protector Tie's soul and a Rank Seven core, absorbs the rest of the lightning. With the pill finished, Xiao Yan tells Cai Lin in his thoughts that he has kept his promise and will head for the Central Plains.",
+  "events": [
+    "Su Qian cannot get through the poison gas; Xiao Yan goes in under his Heavenly Flame.",
+    "Tian Huo Zun Zhe teaches Xiao Yan a sealing technique for the Woeful Poison Body.",
+    "Xiao Yan casts the All Day Fire Seal; it should last two to three years.",
+    "The Little Fairy Doctor reaches Five-Star Dou Zong.",
+    "Xiao Yan refines the Heaven Soul Blood Fusing Pill; Zi Yan's blood drives back the Heaven Demon Phoenix's pressure.",
+    "He enters the Pill Spirit Realm and takes the Pill Lightning head-on.",
+    "The Earth Demon Puppet absorbs the lightning and the pill is finished.",
+    "Xiao Yan thinks of his promise to Cai Lin and the trip to the Central Plains."
+  ],
+  "introduced": [
+    "All Day Fire Seal",
+    "Sky Poison Dragon Scorpion Beast",
+    "Heaven Soul Blood Fusing Pill",
+    "Seventh-Tier Pill",
+    "Pill Spirit Realm",
+    "Pill Lightning",
+    "Open Mountain Seal",
+    "Earth Demon Puppet",
+    "Protector Tie"
+  ],
+  "cultivation": "The Little Fairy Doctor advances to Five-Star Dou Zong by absorbing the gas from her Woeful Poison Body.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "realm": "5-star Dou Zong",
+      "quote": "I've already advanced to Five-Star Dou Zong.",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: moved Tian Huo Zun Zhe's thanks and Xiao Li's warning to EP156; added from EP158 the Pill Spirit Realm, the Pill Lightning, the Earth Demon Puppet and the finished pill with Xiao Yan's thought of Cai Lin."
+  ],
+  "flags": [
+    "0-27s is narration about the Woeful Poison Body.",
+    "401-472s: insert-song lyrics during the sealing; ignored.",
+    "551-563s: 'Yan!' and 'Don't worry, Li.' are taken as Xiao Li; the promise Xiao Yan says he will keep is not spelled out.",
+    "638s: the 'mysterious Magical Beast' whose blood is used, and the 'darn bird' at 696s, fit the Heaven Demon Phoenix remains from EP150-151; not named here.",
+    "964-966s: the puppet is corrected from 'Sky Demon Puppet' (EP156) to 'Earth Demon Puppet'.",
+    "979-982s: the puppet uses 'the soul of Protector Tie', not Protector Xuan from EP155-156. Possibly a different Hall of Souls protector or a name slip.",
+    "1006-1024s: the pill is linked to a promise to Cai Lin (Medusa); what it will do for her is not said."
+  ]
+}

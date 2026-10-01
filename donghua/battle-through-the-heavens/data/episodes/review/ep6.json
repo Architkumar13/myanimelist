@@ -1,0 +1,75 @@
+{
+  "ep": 6,
+  "title": "The Purple Crystal Winged Lion King",
+  "summary": "Deep in the Magical Beast Mountain Range, Xiao Yan gathers herbs and fights beasts like a Rank Three Rock Primate while Yao Lao watches. A woman asks the Purple Crystal Winged Lion King, a Rank Six beast as strong as a Dou Huang, for its Purple Spirit Crystal. The Lion King wants to devour her instead, and they fight, her Wind's Peak, Killer Meteorite against its Purple Crystal Seal. She is sealed and wounded, and Xiao Yan hides her in his cave and treats the wounds under her vest. She gives her name as Yun Zhi, and on Yao Lao's advice he calls himself Yao Yan. He offers to help her get the crystal because they are friends, and Yao Lao tells him about the Amethyst Essence that sometimes forms when the Lion King has young. When beasts track them because she left the cave to bathe, Xiao Yan goes out alone to lure them away.",
+  "events": [
+    "Xiao Yan trains and gathers herbs deep in the mountain range; he fights a Rank Three Earth Type Rock Primate.",
+    "A woman asks the Purple Crystal Winged Lion King for its Purple Spirit Crystal; it wants to devour her.",
+    "They fight: Wind Pushing Force and Wind's Peak, Killer Meteorite against the Purple Crystal Seal.",
+    "Yao Lao tells Xiao Yan about the rare Amethyst Essence.",
+    "Xiao Yan rescues the wounded woman and treats her wounds in his cave.",
+    "She is Yun Zhi; he says he is Yao Yan, and offers to help her as a friend.",
+    "Beasts find the cave; Xiao Yan goes out to lure them away."
+  ],
+  "introduced": [
+    "Yun Yun (as Yun Zhi)",
+    "Yao Yan (Xiao Yan's alias)",
+    "Purple Crystal Winged Lion King (Rank Six)",
+    "Purple Spirit Crystal",
+    "Amethyst Essence",
+    "Purple Flame",
+    "Flame Seed",
+    "Body Transformation Pill",
+    "Rank Three Earth Type Rock Primate",
+    "Magical Beast ranks (Rank Three, Five, Six)",
+    "Wind Pushing Force",
+    "Purple Crystal Seal",
+    "Wind's Peak, Killer Meteorite",
+    "Jia Ma Empire (named)",
+    "eastern mountain range"
+  ],
+  "cultivation": "Yun Zhi is a Dou Huang (said by the Lion King). Rank Six Magical Beasts equal a human Dou Huang; Rank Five equal a Dou Wang. Xiao Yan is 'just a Dou Zhe'.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Zhe",
+      "quote": "You're just a Dou Zhe.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": "Dou Huang",
+      "quote": "I know you are a Dou Huang",
+      "first": true,
+      "card": 1026.0
+    },
+    {
+      "id": "purple-crystal-winged-lion-king",
+      "name": "Purple Crystal Winged Lion King",
+      "realm": "Rank Six Magical Beast",
+      "quote": "A Rank Six Magical Beast  Purple Crystal Winged Lion King?",
+      "first": true,
+      "card": 275.0
+    }
+  ],
+  "flags": [
+    "No [Episode 6] card at the start of this file; the [Episode 6] card is at the start of ep8.en.srt and ep7.en.srt starts with [Episode 8]. The story order by file (6, 7, 8) still runs on.",
+    "Yun Yun only calls herself Yun Zhi here (1026.0); the subtitles do not link her to the Misty Cloud Sect's leader.",
+    "The Lion King says it is in the stage of Body Transformation and wants a Body Transformation Pill (371-375).",
+    "Xiao Yan asks about refining the Purple Flame into a Flame Seed (487); Yao Lao says it is harder to tame than a Heavenly Flame (500).",
+    "The vest is not named here; EP8 calls it the Sea's Core Vest."
+  ],
+  "changes": []
+}

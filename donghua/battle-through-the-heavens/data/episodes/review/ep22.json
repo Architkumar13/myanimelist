@@ -1,0 +1,124 @@
+{
+  "ep": 22,
+  "title": "Ms. Yun and the Pill King",
+  "summary": "Xiao Yan fights Yue Mei with Octane Blast and Vacuum Hand and cuts her face, but she beats him, and a masked Dou Huang saves him. The Dou Huang is Ms. Yun, who sends him out of the desert and stops Yue Mei from chasing him. Gu He the Pill King introduces himself and asks to meet Queen Medusa, while Yan Shi the Lion King and Feng Li the Walking Wind, two of the Top Ten of the Jia Ma Empire, fight Yue Mei until she escapes. Xiao Yan sneaks into the shrine disguised as a Snakeman with his Snake Pill, while Hua She Er rehearses the sacrificial ceremony dancers. Yue Mei warns Medusa of Gu He and the masked Dou Huang, and Medusa has four fake Heavenly Flames set in the shrine's corners. Xiao Yan finds only a fake flame, and his Green Colored Lotus Platform tells him the real one is below.",
+  "events": [
+    "Xiao Yan cuts Yue Mei's face but loses; a masked Dou Huang saves him.",
+    "Ms. Yun sends Xiao Yan away and stops Yue Mei; Gu He asks to see Medusa.",
+    "Yan Shi and Feng Li fight Yue Mei; she escapes with Art of Snake, Split.",
+    "Xiao Yan enters the shrine disguised with his Snake Pill; Hua She Er prepares the ceremony dancers.",
+    "Yue Mei reports to Medusa; Medusa orders four fake Heavenly Flames placed and the ceremony moved up.",
+    "Xiao Yan chases a fake flame, is spotted, and escapes the guards with Exploding Steps.",
+    "The Green Colored Lotus Platform senses the true flame below the shrine as the ceremony starts."
+  ],
+  "introduced": [
+    "Ms. Yun (masked Dou Huang)",
+    "Gu He, the Pill King",
+    "Yan Shi, the Lion King",
+    "Feng Li, the Walking Wind",
+    "Top Ten of the Jia Ma Empire",
+    "Hua She Er",
+    "Yin Shi",
+    "eight tribes / eight leaders of the Snakemen",
+    "Snake Pill",
+    "Green Colored Lotus Platform",
+    "fake Heavenly Flames",
+    "Summoning the Snake",
+    "Art of Snake, Split",
+    "Octane Blast",
+    "Vacuum Hand",
+    "Enchantment Spell"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yue-mei",
+      "name": "Yue Mei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": "Dou Huang",
+      "quote": "Dou Huang",
+      "first": true,
+      "card": 242.0
+    },
+    {
+      "id": "gu-he",
+      "name": "Gu He",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 333.0
+    },
+    {
+      "id": "yan-shi",
+      "name": "Yan Shi",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 456.8
+    },
+    {
+      "id": "feng-li",
+      "name": "Feng Li",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 477.8
+    },
+    {
+      "id": "hua-she-er",
+      "name": "Hua She Er",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 621.8
+    },
+    {
+      "id": "yin-shi",
+      "name": "Yin Shi",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 797.8
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-212s is the end of EP21 (the Yue Mei fight); the [Episode 22] card is at 212.8.",
+    "Yun Yun is masked and only called 'Ms. Yun' or 'Dou Huang' here; she is shown as Yun Yun / Yun Zhi in EP26. Treated as first on screen in this batch; she may have appeared earlier (EP24 and EP27 mention Xiao Yan saving her in the Magical Beast Mountain Range, so she is not new to the story).",
+    "613-621: the speaker says 'I, Hua She' but the card says [Hua She Er]; EP23 875 says 'I, Hua She Er'.",
+    "797.8 [Yin Shi] card is on the line of a speaker at Medusa's audience; EP26 calls Yin Shi 'Elder'.",
+    "File 0-140s of ep23.en.srt (before the [Episode 23] card) is the end of this episode: the flame is found to be below, the dancers pray, and Gu He arrives."
+  ]
+}

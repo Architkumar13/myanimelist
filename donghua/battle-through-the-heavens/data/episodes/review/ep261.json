@@ -1,0 +1,85 @@
+{
+  "ep": 261,
+  "title": "The scramble for the Demon Flame",
+  "summary": "The Purifying Demonic Lotus Flame nearly breaks the Heavenly Net Demon-Sealing Array, but the seven Dou Sheng pour their essence blood into it and seal the flame. Hun Miesheng thanks everyone for saving the Central Plains, and the truce ends at once as every side grabs for the flame's source. Xiao Yan goes for the source while Xun Er and his allies hold the others back. Hun Feng blocks him with a strange power that devours fighting energy and even swallows his Five-Wheel Separated Fire. Xiao Yan answers with his soul avatar and the Yellow Spring Divine Anger, which Hun Feng cannot devour, and breaks him. At the heart of the flame Xiao Yan finds the source beating like a living heart. When Hun Miesheng comes for it, Xiao Yan tells him the Demon Flame is gone and throws a fire lotus at him instead.",
+  "events": [
+    "The Demon Flame strains against the array and nearly breaks it.",
+    "The seven Dou Sheng sacrifice essence blood and seal the flame.",
+    "Hun Miesheng thanks the others, and the truce collapses.",
+    "Xiao Yan goes for the Demon Flame's source while his allies hold off the rest.",
+    "Hun Feng fights Xiao Yan with a power that devours fighting energy.",
+    "Xiao Yan beats Hun Feng with his soul avatar and the Yellow Spring Divine Anger.",
+    "Xiao Yan reaches the living source of the Demon Flame.",
+    "Hun Miesheng attacks, and Xiao Yan turns on him with a fire lotus."
+  ],
+  "introduced": [
+    "Demon Fire Source",
+    "Soul Wind (Hun Feng's attack)",
+    "Hun Feng's devouring power",
+    "Five-Wheel Separated Fire Technique",
+    "Five-Wheel Separated Fire Disk",
+    "Thunder Strike"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-miesheng",
+      "name": "Hun Miesheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-feng",
+      "name": "Hun Feng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 667.7
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "purifying-demonic-lotus-flame",
+      "name": "Purifying Demonic Lotus Flame",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file starts at 155s with a narrated recap of EP260 (155-196s).",
+    "This track mixes 'Pure Lotus Demon Fire', 'Demon Lotus', 'Yi Huo' (Heavenly Flame), 'Fire Servant' and 'Soul Clan' (Hun Clan).",
+    "Hun Feng is not named in this file except as 'Soul Wind' (667.7); EP262's recap says Xiao Yan defeated Hun Feng, and EP267 compares the Void Devouring Flame to 'the Soul Wind back then'.",
+    "534.4-535.9 'Xun'er / Yellow Springs Finger': whether Xun Er or Xiao Yan uses the finger is unclear.",
+    "547.5 'I've got the Demon Fire Scroll' and 649.1 'Xiao Yan, big brother, I'll hold them off': speakers not named (the second is probably Zi Yan).",
+    "827.9-831.5 'Swallow Heaven / Mirror' is a technique name, owner unclear.",
+    "Zi Yan is placed from 649.1 and 1035.4 'Brother Xiao Yan'; Xun Er also calls him that, so either may be speaking."
+  ]
+}

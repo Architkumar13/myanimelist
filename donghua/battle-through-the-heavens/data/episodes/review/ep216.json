@@ -1,0 +1,85 @@
+{
+  "ep": 216,
+  "title": "The Dragon Emperor Awakens",
+  "summary": "Zi Yan wakes as the Dragon Emperor, and the attackers from the other Dragon Islands bow and retreat. She tells them there are no Dragon Kings, only one Dragon Emperor, then goes into seclusion to absorb the rest of the Dragon-Phoenix Origin Fruit. Her Dragon-Phoenix power heals Xiao Yan and gives him the Dragon-Phoenix Ancient Armor, an advanced Dragon Scale Cloak. Xiao Yan brings the Three Thousand Burning Flame to Dragon Island, and then tempers his Sky Demon Puppets in a lightning pool for half a month. In the Void Lightning Pool an old man who calls himself Mr. Mang drags him into the path of a black-lightning creature. Qing Lin comes out of the Ancient Dragon Tomb as a 6-star Dou Zun, and Zhu Li gives Xiao Yan a Spatial Jade Plate. Back at Falling Star Pavilion, Xiao Yan tells Yao Lao he is now a 5-star Dou Zun, and Yao Lao has news of the Purifying Demonic Lotus Flame.",
+  "events": [
+    "Zi Yan awakens as Dragon Emperor; the three-island coalition retreats.",
+    "Zi Yan sends word that only one Dragon Emperor exists, then enters seclusion.",
+    "Xiao Yan wakes wearing the Dragon-Phoenix Ancient Armor.",
+    "The Three Thousand Burning Flame returns to Dragon Island and accepts Xiao Yan as master.",
+    "Xiao Yan repairs and levels up his Sky Demon Puppets with lightning.",
+    "Mr. Mang lures a black-lightning creature onto Xiao Yan in the Void Lightning Pool.",
+    "Qing Lin reaches 6-star Dou Zun; Zhu Li gives Xiao Yan a Spatial Jade Plate.",
+    "Xiao Yan returns to Falling Star Pavilion."
+  ],
+  "introduced": [
+    "Dragon Emperor (Zi Yan's title)",
+    "Dragon Scale Cloak",
+    "Dragon-Phoenix Ancient Armor",
+    "Spatial Strength",
+    "Void Lightning Pool",
+    "black lightning",
+    "Mang Tian Chi (as Mr. Mang)",
+    "Spatial Jade Plate",
+    "Purifying Demonic Lotus Flame"
+  ],
+  "cultivation": "Xiao Yan rises from 4-star to 5-star Dou Zun ('I now have the strength / of a Five-Star Dou Zun'). Qing Lin is a 6-star Dou Zun after refining the serpent soul. Xiao Yan's Sky Demon Puppets are repaired and leveled up.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "5-star Dou Zun",
+      "quote": "I now have the strength / of a Five-Star Dou Zun.",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "look": "awakened as the Dragon Emperor",
+      "first": false
+    },
+    {
+      "id": "zhu-li",
+      "name": "Zhu Li",
+      "first": false
+    },
+    {
+      "id": "hei-qing",
+      "name": "Hei Qing",
+      "first": false
+    },
+    {
+      "id": "mang-tian-chi",
+      "name": "Mang Tian Chi",
+      "first": true,
+      "card": 877
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "realm": "6-star Dou Zun",
+      "quote": "You're a Six-Star Dou Zun now.",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "elder-feng",
+      "name": "Elder Feng",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10-57s: recap.",
+    "414-435s: Xiao Yan speaks to the Three Thousand Burning Flame; the second voice ('From now on, / you shall be my master') is taken as the flame accepting him.",
+    "641s: 'It's now at the level of a Five-Star Dou Zun' may refer to Xiao Yan or to a puppet; Mr. Mang at 761s and Xiao Yan at 1054s confirm Xiao Yan is 5-star Dou Zun.",
+    "877s: the old man calls himself only 'Mr. Mang'. EP219 shows he is Mang Tian Chi, dean of Jia Nan Academy's Inner Academy; id set to mang-tian-chi. Xiao Yan doesn't know him here.",
+    "830s: Xiao Yan thinks Mr. Mang is at least as strong as Yao Lao.",
+    "967s: 'Nine-Headed Sky Serpent' here vs 'Ancient Sky Serpent' in EP215."
+  ]
+}

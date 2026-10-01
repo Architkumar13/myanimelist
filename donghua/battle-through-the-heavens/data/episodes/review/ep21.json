@@ -1,0 +1,75 @@
+{
+  "ep": 21,
+  "title": "The Queen in the Holy Pond",
+  "summary": "Two months into the Tager Desert, Xiao Yan and Yao Lao near the Snakemen Shrine and rest at an oasis. They find Queen Medusa dancing the Dance of Blessings in the Holy Pond. Yao Lao explains her Art of Evolution: by swallowing a Heavenly Flame she can become a Dou Zong, or burn to nothing. Medusa notices them and leaves Yue Mei to deal with the intruder. With Yao Lao's power Xiao Yan fights at Dou Huang strength, until Yao Lao has to hide from a Dou Huang with strong perception who is coming. Back at Two-Star Dou Shi, Xiao Yan runs, and Yue Mei chases him to take him alive. Gu He and his group are also heading for the shrine.",
+  "events": [
+    "Medusa spares Hai Bodong and promises freedom for her people (end of EP20, before the card).",
+    "Xiao Yan and Yao Lao reach an oasis with Snakemen statues near the shrine.",
+    "They watch Medusa dance the Dance of Blessings in the Holy Pond; Yao Lao explains the Art of Evolution.",
+    "Medusa senses them and leaves Yue Mei to deal with them.",
+    "Yao Lao takes over and fights Yue Mei and her snakes at Dou Huang strength.",
+    "Yao Lao withdraws as another Dou Huang comes near; Xiao Yan, a Two-Star Dou Shi again, flees.",
+    "Gu He's group nears the shrine; Yue Mei keeps chasing Xiao Yan."
+  ],
+  "introduced": [
+    "Snakemen Shrine",
+    "Holy Pond",
+    "Dance of Blessings",
+    "Art of Evolution",
+    "Yue Mei",
+    "Gu He",
+    "Art of Energy-Pitching",
+    "Art of Snake, Rampage"
+  ],
+  "cultivation": "Xiao Yan is a Two-Star Dou Shi ('I'm just a Two-Star Dou Shi', 924). With Yao Lao's power he fights as a Dou Huang.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "2-star Dou Shi",
+      "quote": "I'm just a Two-Star Dou Shi",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 477.5
+    },
+    {
+      "id": "yue-mei",
+      "name": "Yue Mei",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 728.0
+    },
+    {
+      "id": "gu-he",
+      "name": "Gu He",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 950.0
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-223s is the end of EP20 (Die's death and Medusa sparing Hai Bodong); it is not counted in this summary.",
+    "861.7: Yue Mei calls the possessed Xiao Yan 'Dou Huang'.",
+    "880-885: Yao Lao's line 'The Strong Dou Wang of the Snakemen Clan would draw out the Magical Beast's soul' about the Art of Energy-Pitching; it may mean Yue Mei is a Dou Wang, but it is not a clear statement.",
+    "The end of this episode is in ep22.en.srt 0-212s: Xiao Yan fights Yue Mei, scars her face, loses, and a masked figure appears. Counted here as its end."
+  ]
+}

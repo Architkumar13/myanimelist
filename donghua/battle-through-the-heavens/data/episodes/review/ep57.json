@@ -1,0 +1,108 @@
+{
+  "ep": 57,
+  "title": "The Three-Year Agreement Begins",
+  "summary": "Xiao Yan faces Nalan Yanran at the Misty Cloud Sect, watched by its disciples, the empire's great forces and Nalan Jie. First Elder Yun Leng tells him life and death are up to fate. Nalan Yanran opens with the Wind Spirit Fractal Sword, a Xuan Class Medium Rank Dou Skill, and the Misty Cloud Sect's Wind Afterimages. Xiao Yan drops his heavy black ruler, gains speed and answers with Octane Blast. Gu He, the Pill King, arrives and greets Jia Xing Tian, Fa Ma and Hai Bodong. Nalan Yanran shows that she is now a Da Dou Shi with Dou Qi Armour, and Xiao Yan matches her. They argue over the past, and at the end she uses her trump card while Xiao Yan forms the Angry Buddha Lotus Flame.",
+  "events": [
+    "Disciples and guests mock or wonder at Xiao Yan; Nalan Jie praises his bearing.",
+    "Yun Leng opens the duel: life and death are up to fate.",
+    "Nalan Yanran uses the Wind Spirit Fractal Sword.",
+    "Xiao Yan drops his black ruler and hits with Octane Blast; she counters with Wind Afterimages.",
+    "Gu He arrives and meets Jia Xing Tian, Fa Ma and Hai Bodong.",
+    "Nalan Yanran reveals she is a Da Dou Shi; Xiao Yan uses Dou Qi Armour too.",
+    "She says he is not qualified to be her man; he says he no longer hates her.",
+    "(In ep58 file) the crowd realises Yan Xiao is Xiao Yan; he fuses Heavenly Flame and Dou Qi into the Angry Buddha Lotus Flame."
+  ],
+  "introduced": [
+    "Wind Spirit Fractal Sword (Xuan Class Medium Rank Dou Skill)",
+    "Wind Afterimages",
+    "Octane Blast",
+    "Dou Qi Armor",
+    "Angry Buddha Lotus Flame",
+    "First Elder (Yun Leng)"
+  ],
+  "cultivation": "Nalan Yanran \"has already advanced to become a Da Dou Shi\". Xiao Yan is also a Da Dou Shi (Dou Qi Armour). A two-star Da Dou Shi is named at 548.8 (see flags).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": "Da Dou Shi",
+      "quote": "Martial Sister Nalan has already advanced to become a Da Dou Shi.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-leng",
+      "name": "Yun Leng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-jie",
+      "name": "Nalan Jie",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "gu-he",
+      "name": "Gu He",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 498.1
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ge-ye",
+      "name": "Ge Ye",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File starts at the [Episode 57] card (0.0), the first episode of the Three-Year Agreement series.",
+    "The end of this episode is at the start of ep58.en.srt (0-229s): her trump card, the crowd realising Yan Xiao is Xiao Yan, and the Angry Buddha Lotus Flame.",
+    "548.8: 'Two-Star Da Dou Shi? Is this your strength?' is untagged; it is unclear whether it is Xiao Yan's or Nalan Yanran's rank, so it is not set as anyone's realm.",
+    "409.6: an onlooker recalls 'That mysterious person is a strong Dou Huang' when seeing Xiao Yan's ruler; links to the Mo Cheng killing in EP58.",
+    "Yun Leng is only called 'First Elder' here (579.3); he is named in EP58.",
+    "472-498: an 'overwhelming presence' appears and Gu He arrives; he was on screen before (EP21-27), so not first."
+  ]
+}

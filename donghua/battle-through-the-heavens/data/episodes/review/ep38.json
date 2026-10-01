@@ -1,0 +1,82 @@
+{
+  "ep": 38,
+  "title": "The Heavenly Flame Cure",
+  "summary": "Nalan Su gathers alchemists, but none can remove the Searing Poison from Nalan Jie, and they scorn the masked second-tier alchemist Yan Xiao until he shows them his Heavenly Flame. Xiao Yan warns that the chance of success is below 50 percent and begins guiding the flame into Nalan Jie's body, while the old man, waking, blames Nalan Yanran's broken engagement for the poison flaring up. Meanwhile Hai Bodong meets Mite'er Tengshan, now a Dou Wang, who tells him Yun Shan, the Misty Cloud Sect's former leader, is in seclusion trying to reach Dou Zong and that the Imperial Family knows Hai Bodong is back. Nalan Yanran, thirteen days from the Three-year Agreement, admits she shamed the Xiao Clan but still insists she was not wrong, and remembers the repudiation letter Xiao Yan left her. Xiao Yan says the poison runs too deep to remove at once and will take at least seven days. Nalan Yanran tests his Soul Power as she sees him out, an imperial agent reports Hai Bodong and the Heavenly Flame alchemist to the throne, and Xiao Yan finds that the Searing Poison that slipped into his own body is full of pure energy.",
+  "events": [
+    "The assembled alchemists give up; Nalan Su's guests mock Yan Xiao until he shows the Heavenly Flame.",
+    "Xiao Yan begins detoxification with a success rate below 50 percent.",
+    "Hai Bodong and Mite'er Tengshan discuss Yun Shan's seclusion and the Imperial Family.",
+    "Nalan Jie scolds Nalan Yanran for calling off the engagement.",
+    "Nalan Yanran recalls the repudiation letter that expelled her from the Xiao Clan.",
+    "The first session ends; Xiao Yan says he needs at least seven days.",
+    "Nalan Yanran probes his Soul Power; an imperial agent reports Hai Bodong's return.",
+    "Xiao Yan finds pure Dou Qi energy inside the Searing Poison he absorbed."
+  ],
+  "introduced": [
+    "Yun Shan (former leader of the Misty Cloud Sect)",
+    "Repudiation Letter",
+    "Snakemen Clan fortifying the desert",
+    "Jia Ma Imperial Family (as a power watching Hai Bodong)"
+  ],
+  "cultivation": "Hai Bodong tells Mite'er Tengshan he is a Dou Wang now. Yun Shan is said to be in seclusion trying to reach Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-su",
+      "name": "Nalan Su",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-jie",
+      "name": "Nalan Jie",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mite-er-tengshan",
+      "name": "Mite'er Tengshan",
+      "realm": "Dou Wang",
+      "quote": "You're a Dou Wang now.",
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-38s is a flashback to the engagement scene (end of EP37); the [Episode 38] card is at 39.",
+    "The last part of this episode is at the start of ep39.en.srt (0-232s, before the [Preview] and [Episode 39] cards): Nalan Yanran sensing his Soul Power, the report to 'Your Majesty' and the pure energy in the poison.",
+    "446-546: the man Hai Bodong talks to is not carded; he is taken to be Mite'er Tengshan (Hai Bodong went to meet an old friend in EP37, and he 'manages the Mite'er family').",
+    "668-734: the relative who speaks with Nalan Yanran about the agreement is not identified.",
+    "ep39.en.srt 114-140: the person addressed as 'Your Majesty' is not shown by name.",
+    "ep39.en.srt 50: Nalan Yanran says his Soul Power 'fluctuates a lot'; she calls her sensitivity a Misty Cloud Sect secret."
+  ]
+}

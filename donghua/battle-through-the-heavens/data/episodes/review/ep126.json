@@ -1,0 +1,69 @@
+{
+  "ep": 126,
+  "title": "Yun Shan and Protector Wu",
+  "summary": "Xiao Yan boosts himself with the Luminous Jadeite Change and fights Yun Shan with Superimposed Wings and the Octane Blast, landing the first hit Yun Shan has taken since becoming a Dou Zong. Yun Shan still overpowers him, until Yao Lao appears and turns the fight. Yun Shan calls out Protector Wu of the Hall of Souls, who has been hidden in the sect and who once helped Han Feng against Yao Lao. Protector Wu fights Yao Lao with a Triple Soul Lock and says the Hall of Souls wants something from the Xiao Clan alive. Xiao Yan guesses they want the jade of Tuo She Gu Di. Alone against Yun Shan, Xiao Yan uses the Open Mountain Seal and his Glaze Lotus Core Flame, and Yao Lao passes him the Bone Chilling Flame hidden in his ring. Xiao Yan then unleashes the Angry Buddha Lotus Flame.",
+  "events": [
+    "Xiao Yan fights Yun Shan with the Luminous Jadeite Change and Octane Blast",
+    "Yun Shan overpowers him and Yao Lao appears",
+    "Yun Shan summons Protector Wu, hidden in the sect",
+    "Protector Wu fights Yao Lao with the Triple Soul Lock",
+    "Xiao Yan suspects the Hall of Souls wants the jade of Tuo She Gu Di",
+    "Xiao Yan uses the Open Mountain Seal against Yun Shan's Submerged Wind Braking Blades",
+    "Yao Lao gives him the Bone Chilling Flame from the ring",
+    "Xiao Yan releases the Angry Buddha Lotus Flame"
+  ],
+  "introduced": [
+    "Superimposed Wings",
+    "Triple Soul Lock",
+    "Submerged Wind Braking Blades",
+    "Mountain Opening Handprint (the Open Mountain Seal)",
+    "jade of Tuo She Gu Di"
+  ],
+  "cultivation": "Yun Shan is a Dou Zong. Yao Lao is thought to be a Dou Zun. Xiao Yan cannot yet use the Open Mountain Seal at full power.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "yun-shan",
+      "name": "Yun Shan",
+      "realm": "Dou Zong",
+      "quote": "ever since I became a Dou Zong.",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": "Dou Zun",
+      "quote": "(This old man is a Dou Zun.)",
+      "first": false
+    },
+    {
+      "id": "protector-wu",
+      "name": "Protector Wu",
+      "first": false
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "first": false
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-220s of ep126.en.srt is the end of EP125.",
+    "ep127.en.srt 0-15.6s (the Angry Buddha Lotus Flame launched) is counted here.",
+    "684.9 '(This old man is a Dou Zun)': the thinker is not named (Protector Wu or Yun Shan).",
+    "630.5-634.5 'Leader? That's our leader': who calls Yao Lao 'leader' is unclear.",
+    "1068.2 'Mountain Opening Handprint' is this track's name for the Open Mountain Seal.",
+    "Hai Bodong is mentioned (1146.0) rather than shown fighting; kept in cast as one of the allies present."
+  ]
+}

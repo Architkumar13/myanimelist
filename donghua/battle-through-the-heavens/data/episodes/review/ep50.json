@@ -1,0 +1,114 @@
+{
+  "ep": 50,
+  "title": "Father in the Rain",
+  "summary": "Xiao Zhan visits his son in the capital, and Hai Bodong leaves them alone. Walking in the night rain, Xiao Yan tells his father he will soon reach Da Dou Shi and admits he must win the conference for his mysterious teacher. Xiao Zhan comforts him that his teacher would never blame him, and he leaves at dawn without a word. Next day Yao Ye guards the venue for the finals while Jia Xing Tian and Fa Ma argue over stopping the contest. The final round opens, and Yue Er brings out the imperial Cyan Cauldron while Liu Ling uses Gu He's Volcanic Cauldron. Xiao Yan turns down Yue Er's cauldron and uses his teacher's plain one. Yue Er calls up the Dry Blue Water Flame, and Xiao Yan answers with his Heavenly Flame, and every flame on the square bows to it.",
+  "events": [
+    "Hai Bodong tells Xiao Zhan how Xiao Yan cured Nalan Jie's poison despite his grudge.",
+    "Xiao Zhan meets Xiao Yan in the capital; they walk and shelter from the rain.",
+    "Xiao Yan says he is close to Da Dou Shi and confesses his guilt about his teacher; his father reassures him.",
+    "Xiao Zhan leaves at dawn after bringing his sleeping son back.",
+    "Yao Ye's troops guard the finals; Jia Xing Tian and Fa Ma disagree about the contest.",
+    "The final round starts; the Cyan Cauldron (Rank Five) and the Volcanic Cauldron are brought out.",
+    "Xiao Yan refuses Yue Er's offer of a cauldron; Yue Er's Dry Blue Water Flame meets Xiao Yan's Heavenly Flame."
+  ],
+  "introduced": [
+    "Cyan Cauldron (Rank Five Medicinal Cauldron of the imperial family)",
+    "Volcanic Cauldron (Gu He's, now Liu Ling's)",
+    "Shock-Wave Dragon (Jia Ma imperial guardian beast)",
+    "Dry Blue Water Flame",
+    "Colored Pill Fragrance (named EP51)"
+  ],
+  "cultivation": "Xiao Yan: \"I'm about to advance into a Da Dou Shi soon\" (still a Dou Shi). Xiao Zhan replies \"You're about to catch up to me.\"",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": "I'm about to advance into a Da Dou Shi soon",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-zhan",
+      "name": "Xiao Zhan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ye",
+      "name": "Yao Ye",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yan-li",
+      "name": "Yan Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yue-er",
+      "name": "Yue Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-ling",
+      "name": "Liu Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-116s is the end of EP49 (Fa Ma's briefing on the Three Lines Green Spirit Pill) and is not counted; the card is at 116.7.",
+    "The end of this episode is at the start of ep51.en.srt (0-214s): the cauldron offer, the Dry Blue Water Flame and Xiao Yan's Heavenly Flame.",
+    "197-227: the speaker telling Xiao Zhan about Nalan Jie's relapse is not named; Hai Bodong is most likely (he leaves at 283).",
+    "Xiao Zhan: 'You're about to catch up to me' (398.7) suggests Xiao Zhan is around Da Dou Shi; not stated outright.",
+    "The flame Xiao Yan shows at the end is not named in this episode; it is his Green Lotus Core Flame (named in the EP48 recap).",
+    "Yan Li is called 'the young lady from Chu Yun Empire' by onlookers (780.5), since he still wears the girl form."
+  ]
+}

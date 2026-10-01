@@ -1,0 +1,89 @@
+{
+  "ep": 185,
+  "title": "Xun Er's Farewell",
+  "summary": "In Ye City after the battle with Ice River Valley, Xiao Yan tells Xun Er he wants to rescue Yao Lao from the Hall of Souls, and she promises to use the Gu Clan to search for his father. That night she gives him the last three seals of the God Seal Technique and explains the jade of Emperor Flame: it is the key to the mansion of Emperor Flame, the last Dou Di, and the Gu Clan and the Hall of Souls both want it. She tells him the Xiao Clan's ancestor, Xiao Xuan, once stood at the peak of the Central Plains and made a pact with the Gu Clan. After Xiao Yan fully refines the Demon Poison Spot, Ling Quan of the Gu Clan arrives with orders to bring Xun Er home and to take Xiao Yan to the Gu Clan. Xiao Yan, now a Four-Star Dou Zong, beats Ling Quan even after Ling Quan uses the Transforming Blood Skill. Xun Er leaves for the Gu Clan, and Xiao Yan promises to find her there after the Pill Gathering and rescuing his master.",
+  "events": [
+    "Ye Chong leaves Xiao Yan, Xun Er and the others to rest after the battle.",
+    "Xun Er offers the Gu Clan's help to find Xiao Zhan; Xiao Yan resolves to obtain the Three Thousand Burning Flame.",
+    "Ling Quan is ordered to bring Xun Er back to the Gu Realm.",
+    "Xun Er gives Xiao Yan the last three seals of the God Seal Technique and explains the jade of Emperor Flame and Xiao Xuan.",
+    "Xiao Yan fully refines the Demon Poison Spot.",
+    "Ling Quan arrives with a Gu Jade Token and orders to bring Xiao Clan members to the Gu Clan.",
+    "Xiao Yan defeats Ling Quan with the Sky Fire Three Mysterious Changes and the Sea Flipping Seal.",
+    "Xun Er leaves for the Gu Clan with Elder Lin and Elder Yuan."
+  ],
+  "introduced": [
+    "Xiao Xuan",
+    "Emperor Flame",
+    "jade of Emperor Flame",
+    "Emperor Flame's mansion",
+    "Gu Realm",
+    "Elders Council",
+    "Gu Jade Token",
+    "Elder Yuan",
+    "Lightning Snake Dance",
+    "Transforming Blood Skill"
+  ],
+  "cultivation": "Xiao Yan fully refines the Demon Poison Spot and is called a Four-Star Dou Zong by Ling Quan (597s), up from Two-Star Dou Zong in EP183. Someone (taken as Elder Yuan) is called a Five-Star Dou Zong (514s).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "4-star Dou Zong",
+      "quote": "Four-Star Dou Zong? I can't believe the fallen Xiao Clan still managed to produce another strong Dou Zong.",
+      "first": false
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false
+    },
+    {
+      "id": "ye-chong",
+      "name": "Ye Chong",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "ling-quan",
+      "name": "Ling Quan",
+      "first": false,
+      "card": 181
+    },
+    {
+      "id": "elder-lin",
+      "name": "Elder Lin",
+      "first": false,
+      "card": 384
+    },
+    {
+      "id": "elder-yuan",
+      "name": "Elder Yuan",
+      "realm": "5-star Dou Zong",
+      "quote": "Do you really think your Five-Star Dou Zong strength is enough to keep the Young Lady safe?",
+      "first": false,
+      "card": 385
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10s [Episode 185] card; 15-45s recap of EP184.",
+    "88-105s: the speaker who has crossed paths with Yao Chen is taken as Yao Tian Huo (Tian Huo Zun Zhe).",
+    "455-480s: Xun Er asks a companion who was not at the Inner Academy to watch over Xiao Yan; the reply 'So long I am alive' is taken as Little Fairy Doctor, but the other person is not named.",
+    "514s: Ling Quan answers Elder Yuan's 'With the two of us protecting her' with 'your Five-Star Dou Zong strength'; taken as Elder Yuan's realm, but it could refer to Elder Lin.",
+    "Elder Lin is named in EP184 (883s); Elder Yuan is first named here and is taken as the second Gu Clan guard from EP184.",
+    "611s: Xiao Yan says he was a Dou Ling when he first met Ling Quan (EP101-103).",
+    "944-966s: Ling Quan's fate after the Sea Flipping Seal is not stated; someone (likely Elder Lin or Yuan) calls Xiao Yan 'pretty ruthless'.",
+    "977-986s: 'Wait for me at the Gu Clan' is taken as Xiao Yan's line, since the following lines are about his Pill Gathering plans."
+  ]
+}

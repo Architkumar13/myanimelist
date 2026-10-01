@@ -1,0 +1,77 @@
+{
+ "ep": 211,
+ "title": "The Hall of Souls attacks",
+ "summary": "The Hall of Souls sends Zhai Xing, Black Tianzun and White Tianzun against the Falling Star Pavilion, and Elder Feng readies the Great Falling Star Formation. Before they arrive, Xiao Yan uses energy from the Dou Sheng skeleton to reach Two-Star Dou Zun. Elder Feng takes on Black Tianzun and White Tianzun, Qing Lin faces another Tianzun, and Xiao Yan goes after Zhai Xing. Zhai Xing shows his full power as a Five-Star Dou Zun, but Xiao Yan beats him with the Great Heavenly Creation Palm. The Ninth Tianzun arrives, mocks Zhai Xing, and calls Xiao Yan a descendant of Xiao Xuan with an abandoned bloodline. She nearly captures Xiao Yan before a voice asks who dares take his disciple.",
+ "events": [
+  "Scouts report the Hall of Souls is three days away.",
+  "Xiao Yan reaches Two-Star Dou Zun with the Dou Sheng skeleton's energy.",
+  "The Hall of Souls breaks the Great Falling Star Formation.",
+  "Elder Feng takes on Black Tianzun and White Tianzun.",
+  "Qing Lin and the Sky Demon Puppet face the other Tianzuns.",
+  "Xiao Yan beats Zhai Xing with the Great Heavenly Creation Palm.",
+  "The Ninth Tianzun arrives and overpowers Xiao Yan.",
+  "Yao Lao's voice stops her."
+ ],
+ "introduced": [
+  "Star-Shattering Sickle",
+  "abandoned bloodline (of the Xiao Clan)"
+ ],
+ "cultivation": "Xiao Yan reaches Two-Star Dou Zun with energy from the Dou Sheng skeleton. Qing Lin is a One-Star Dou Zun. Zhai Xing is a Five-Star Dou Zun. The Sky Demon Puppet is on a par with a Four-Star Dou Zun.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "xiao-yan",
+   "name": "Xiao Yan",
+   "realm": "2-star Dou Zun",
+   "quote": "Such an energy is more than enough to make me a Two-Star Dou Zun.",
+   "first": false
+  },
+  {
+   "id": "elder-feng",
+   "name": "Elder Feng",
+   "first": false
+  },
+  {
+   "id": "qing-lin",
+   "name": "Qing Lin",
+   "realm": "1-star Dou Zun",
+   "quote": "Although Qing Lin is a One-Star Dou Zun,",
+   "first": false
+  },
+  {
+   "id": "zhai-xing",
+   "name": "Zhai Xing",
+   "realm": "5-star Dou Zun",
+   "quote": "the true power of a Five-Star Dou Zun!",
+   "first": false
+  },
+  {
+   "id": "black-tianzun",
+   "name": "Black Tianzun",
+   "first": false
+  },
+  {
+   "id": "white-tianzun",
+   "name": "White Tianzun",
+   "first": false
+  },
+  {
+   "id": "ninth-tianzun",
+   "name": "Ninth Tianzun",
+   "first": false
+  },
+  {
+   "id": "yao-lao",
+   "name": "Yao Lao",
+   "first": false
+  }
+ ],
+ "changes": [],
+ "flags": [
+  "Who Qing Lin fights ('Leave the last Tianzun to me', 552) is not clear, since Elder Feng takes both Black Tianzun and White Tianzun.",
+  "513: someone calls Elder Feng 'Chief Feng'.",
+  "The Ninth Tianzun is called 'Ms. Ninth Tianzun' (877); she is a woman.",
+  "1056-1059: the speaker is not seen in this file; EP212 shows it is Yao Lao.",
+  "Xiao Yan's 'lotus flame that is as good as a Tian Class Dou Skill' (968) is the Extermination Fire Lotus."
+ ]
+}

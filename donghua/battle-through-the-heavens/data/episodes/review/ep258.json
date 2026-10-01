@@ -1,0 +1,128 @@
+{
+  "ep": 258,
+  "title": "Inside the Demon Flame's realm",
+  "summary": "Yao Tian attacks Xiao Yan with the Turtle Spirit Earth Flame, 13th on the Heavenly Flame ranking, and loses. Yao Wangui steps in, Xun Er's side warns him off, and Yao Lao swears to carve his parents' names onto the Medicine Clan's Clan Monument. The seal breaks, and everyone enters the Purifying Demonic Lotus Flame's space and is scattered. In an illusion, Hun Miesheng seems to hold Xiao Zhan hostage, but Xiao Yan breaks out, wakes Yao Lao and finds Xun Er and the others. They learn the Demon Flame can now use the Nightmare Heaven Mist, the signature technique of the Pure Lotus Demon Saint, and self-detonating Fire Slaves drive them into a grand hall. There a Four-Star Dou Sheng Fire Slave who still has some of his own mind attacks, and Zi Yan and the others drive him back with the Dragon Emperor's Void Spear and the Heaven-Shattering Seal. Xiao Yan then sees the Xiao clan crest on him.",
+  "events": [
+    "Yao Tian attacks with the Turtle Spirit Earth Flame and loses to Xiao Yan.",
+    "Yao Wangui steps in and the Gu Clan side warns him off.",
+    "Yao Lao swears to put his parents' names on the Medicine Clan's Clan Monument.",
+    "The seal breaks and the groups are scattered inside the flame's space.",
+    "Xiao Yan breaks an illusion of Hun Miesheng threatening Xiao Zhan.",
+    "The group learns of the Nightmare Heaven Mist and the Pure Lotus Demon Saint.",
+    "Fire Slaves drive them into a grand hall.",
+    "A Four-Star Dou Sheng Fire Slave attacks and bears the Xiao clan crest."
+  ],
+  "introduced": [
+    "Turtle Spirit Earth Flame (13th on the Heavenly Flame ranking)",
+    "Nightmare Heaven Mist",
+    "Pure Lotus Demon Saint",
+    "Fire Slaves",
+    "Dragon Emperor's Void Spear",
+    "Heaven-Shattering Seal",
+    "Xiao clan crest"
+  ],
+  "cultivation": "The Fire Slave in the hall is a Four-Star Dou Sheng ('Four-Star Martial Saint / This is also a fire slave.'). No change for Xiao Yan.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "gu-qing-yang",
+      "name": "Gu Qing Yang",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "gu-nanhai",
+      "name": "Gu Nanhai",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-tian",
+      "name": "Yao Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-wangui",
+      "name": "Yao Wangui",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-miesheng",
+      "name": "Hun Miesheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null,
+      "look": "in an illusion"
+    },
+    {
+      "id": "xiao-zhan",
+      "name": "Xiao Zhan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null,
+      "look": "in an illusion"
+    },
+    {
+      "id": "xiao-chen",
+      "name": "Xiao Chen",
+      "realm": "Four-Star Dou Sheng",
+      "quote": "Four-Star Martial Saint / This is also a fire slave.",
+      "first": true,
+      "card": 1029.6
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file starts at 169s; 169-210s is a narrated recap of EP257.",
+    "174.5 calls the flame 'Nether Lotus Demon Flame, ranked third on the Demon Flame List'; elsewhere 'Pure Lotus Demon Flame/Fire'. Rank 3 is stated only in this recap.",
+    "293.9 says 'Divine Flame List'; read as the Heavenly Flame ranking.",
+    "413-420s: the speaker defending Xiao Yan says 'Our young lady merely stated the facts', so Xun Er's Gu Clan side (likely Gu Nanhai) intervenes.",
+    "568-704s is an illusion: Hun Miesheng and Xiao Zhan are not really there.",
+    "967.1 'South Sea Elder' = Gu Nanhai.",
+    "The Fire Slave is named Xiao Chen in EP259; listed here with that name."
+  ]
+}

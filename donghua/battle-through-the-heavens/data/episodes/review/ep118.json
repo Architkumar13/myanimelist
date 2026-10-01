@@ -1,0 +1,84 @@
+{
+  "ep": 118,
+  "title": "Master and Disciple Again",
+  "summary": "Yao Lao, awake after two years, learns that Xiao Yan has refined the Fallen Heart Flame, killed Han Feng and bound Medusa with a one-year deal. He warns that the Hall of Souls took Han Feng's soul and will hunt Xiao Yan, and Xiao Yan says they are tied to his father's disappearance. Han Feng's soul begs a Soul Envoy for mercy, says he knows the Hall's Dou Zun Old Mu Gu, and offers what Mu Gu wants. Yao Lao names three ingredients for a new body, the Bone Growing Blood Fusing Pill, the blood essence of a Rank Seven Magical Beast and a Dou Zong's skeleton, and agrees to study the Life Devouring Pill to save Xiao Li. Three months later, Xiao Yan returns to Feng City, sets the march on the Jia Ma Empire for two months away, and goes to the Inner Academy with Medusa. There Su Qian agrees to watch over the Xiao Gate, but warns that the academy can't openly help against the Misty Cloud Sect and Yun Shan, a Dou Zong.",
+  "events": [
+    "Yao Lao learns of the Fallen Heart Flame, Han Feng's death and the deal with Medusa",
+    "Xiao Yan tells Yao Lao the Hall of Souls took Han Feng's soul",
+    "Han Feng's soul offers a deal to a Soul Envoy, naming Old Mu Gu",
+    "Yao Lao lists three ingredients needed to refine him a body",
+    "Xiao Yan asks Yao Lao to find an antidote to the Life Devouring Pill",
+    "After months of training, Xiao Yan returns to Feng City and sets the departure in two months",
+    "At the Inner Academy he asks Su Qian to look after the Xiao Gate; Su Qian warns about Yun Shan"
+  ],
+  "introduced": [
+    "Old Mu Gu (Hall of Souls Dou Zun, named only)",
+    "Bone Growing Blood Fusing Pill",
+    "blood essence of a Rank Seven Magical Beast",
+    "skeleton of a strong Dou Zong",
+    "Super Magical Beast"
+  ],
+  "cultivation": "Xiao Yan is 'a 20-year-old strong Dou Wang'. Yao Lao's Soul Power has grown a little during his sleep. Xiao Li has one year left to live. Old Mu Gu is called the Hall's Dou Zun. Yun Shan is a strong Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Wang",
+      "quote": "A 20-year-old strong Dou Wang.",
+      "first": false
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "look": "appears as a captured soul",
+      "first": false
+    },
+    {
+      "id": "soul-envoy",
+      "name": "Soul Envoy",
+      "first": false
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false
+    },
+    {
+      "id": "mr-jin",
+      "name": "Mr. Jin",
+      "first": false
+    },
+    {
+      "id": "mr-yin",
+      "name": "Mr. Yin",
+      "first": false
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Moved out to EP117: Yao Lao waking and facing Medusa (before this card in the old file). Moved in from the old EP119 review: Xiao Yan's talk with Su Qian about the Xiao Gate and Yun Shan (before the [Episode 119] card). Su Qian added to cast; Ten Thousand Beast Cauldron moved to EP117; Dou Zun and Dou Sheng dropped from introduced (named in EP102); flag times moved to the new clock."
+  ],
+  "flags": [
+    "0-30s are a recap of EP117 and are not counted.",
+    "261.1-323.4: the begging prisoner is read as Han Feng's soul ('we worked together to murder my master'); not named in the lines.",
+    "391.4 Bone Growing Blood Fusing Pill: 'at the peak of the Seventh Tier'.",
+    "597-631s and 760-840s: the speakers are read as Mr. Jin and Mr. Yin and the three sect leaders; not all are named.",
+    "Xiao Li's remaining life is 'one more year' (525.7), against 'three years' in EP112 (908.4).",
+    "473.9 'your girlfriend's clan' means Xun Er's clan, not named."
+  ]
+}

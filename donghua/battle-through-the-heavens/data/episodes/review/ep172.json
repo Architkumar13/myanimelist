@@ -1,0 +1,94 @@
+{
+  "ep": 172,
+  "title": "Feng Xian",
+  "summary": "On Lightning Mountain, Xiao Yan fights Wang Chen of the Yellow Spring Pavilion, who is close to Dou Zong. Wang Chen uses the Yellow Spring Blood Skill, but Xiao Yan reveals that he is a Dou Zong and beats him with the Six Joint Body Flowing Ruler and his Heavenly Flames. Wang Chen exposes his name, and Fei Tian attacks him in front of the crowd. Feng Zun Zhe steps in after he recognizes Yao Lao's storage ring and the Bone Chilling Flame's fire seal. Xiao Yan tells him that Yao Lao is held by the Hall of Souls. Feng Zun Zhe gives his real name, Feng Xian, and threatens war between the Falling Star Pavilion and the Wind Lightning Pavilion if Xiao Yan is harmed. Lei Zun Zhe accuses Xiao Yan of stealing the Three Thousand Lightning Movement, and Feng Qing Er challenges him to a duel to settle the matter.",
+  "events": [
+    "Huang Quan Zun Zhe orders Wang Chen to make Xiao Yan pay.",
+    "Xiao Yan reveals Dou Zong strength and beats Wang Chen's Yellow Spring Rotten Corpse Arm.",
+    "Wang Chen names Xiao Yan, the man the Wind Lightning Pavilion wants.",
+    "Fei Tian attacks; Xiao Yan dares Lei Zun Zhe to act himself.",
+    "Feng Zun Zhe saves Xiao Yan and confirms he is Yao Lao's disciple through the Bone Chilling Flame.",
+    "Feng Zun Zhe reveals his real name, Feng Xian, and says the Falling Star Pavilion will protect Xiao Yan.",
+    "Xiao Yan says he bought the Three Thousand Lightning Movement at an auction outside the Central Plains.",
+    "Feng Qing Er challenges Xiao Yan; her Wind Killing Finger closes the episode."
+  ],
+  "introduced": [
+    "Six Joint Body Flowing Ruler (ruler weapon)",
+    "Bone Corroding Round Dagger Dance",
+    "Yellow Spring Blood Skill",
+    "Yellow Spring Rotten Corpse Arm",
+    "Feng Xian",
+    "fire seal",
+    "Wind Lightning Dou Qi",
+    "Colorful Phoenix Domination",
+    "Wind Lightning Sacrifice",
+    "Wind Killing Finger"
+  ],
+  "cultivation": "Xiao Yan shows that he is a Dou Zong. Wang Chen is nearly a Dou Zong. Lei Zun Zhe is a Dou Zun.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Zong",
+      "quote": "Xiao Yan has reached Dou Zong level.",
+      "first": false
+    },
+    {
+      "id": "wang-chen",
+      "name": "Wang Chen",
+      "realm": "almost Dou Zong",
+      "quote": "Wang Chen is almost at Dou Zong level.",
+      "first": false
+    },
+    {
+      "id": "huang-quan-zun-zhe",
+      "name": "Huang Quan Zun Zhe",
+      "first": false
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "first": false
+    },
+    {
+      "id": "lei-zun-zhe",
+      "name": "Lei Zun Zhe",
+      "realm": "Dou Zun",
+      "quote": "With your Dou Zun level strength,",
+      "first": false
+    },
+    {
+      "id": "fei-tian",
+      "name": "Fei Tian",
+      "first": false
+    },
+    {
+      "id": "feng-zun-zhe",
+      "name": "Feng Zun Zhe",
+      "first": false
+    },
+    {
+      "id": "jian-zun-zhe",
+      "name": "Jian Zun Zhe",
+      "first": false
+    },
+    {
+      "id": "feng-qing-er",
+      "name": "Feng Qing Er",
+      "realm": "Dou Zong",
+      "quote": "She's not just an ordinary Dou Zong.",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Opening narration 15-59s is a recap of EP171.",
+    "275-276s: 'This kid is a strong Dou Zun.' is a slip for Dou Zong (279s and 317s say Dou Zong).",
+    "743s: Feng Zun Zhe's real name is Feng Xian. Xiao Yan calls him 'Elder Feng' (754s); he is not the Northern Pavilion's Elder Feng (EP164-165). This file uses Feng Zun Zhe (id feng-zun-zhe).",
+    "886-903s: the speaker who offers to fight in Fei Tian's place, with the stakes, is not named; the stakes are that Xiao Yan stops using the Three Thousand Lightning if he loses, and the grudge ends if he wins, with no borrowed Soul Power.",
+    "912-920s: the elder who suggests letting the young generation fight is not named; it fits Jian Zun Zhe.",
+    "1013-1019s: 'I will show you my true power' and 'Colorful Phoenix Domination!' have no named speaker; taken as Feng Qing Er.",
+    "826s: Xiao Yan says Pavilion Chief Fei 'retrieved' the Illusionary Body; EP165-166 show Xiao Yan taking its scrolls."
+  ]
+}

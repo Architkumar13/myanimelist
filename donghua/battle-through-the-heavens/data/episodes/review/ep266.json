@@ -1,0 +1,82 @@
+{
+  "ep": 266,
+  "title": "Two draws at Fallen Mountain",
+  "summary": "At Fallen Mountain, Hun Miesheng and Xiao Yan agree to settle the war with three matches, best of three, instead of a full-scale war. Xiao Chen confronts Hun Qianmo and mocks him as the man who once begged the Hun Clan chief for mercy. The Pill Tower Ancestor arrives, says the Pill Tower now stands with the Sky Mansion Alliance, and takes Hun Qianmo, a Six-Star Dou Sheng, into a separate space; their fight ends in a draw. In the second match Xiao Chen fights the Soul Demon Elder, who uses the Heavenly Demon Blood Gu and a Soul Gu Frog. Remembering Xiao Xuan, Xiao Chen gives everything to protect the Xiao clan and strikes with Sky Slash, and that match is also a draw. Everything now rests on the third match, between Xiao Yan and Hun Miesheng.",
+  "events": [
+    "Hun Miesheng challenges Xiao Yan, who accepts.",
+    "They agree on three matches, best of three.",
+    "Xiao Chen confronts Hun Qianmo.",
+    "The Pill Tower Ancestor joins the alliance's side and fights Hun Qianmo to a draw.",
+    "Xiao Chen fights the Soul Demon Elder.",
+    "Xiao Chen gives everything for the Xiao clan, and the match ends in a draw.",
+    "The Hall of Souls side readies Hun Miesheng for the last match."
+  ],
+  "introduced": [
+    "Best-of-three matches",
+    "Earth-Splitting Slash",
+    "Heavenly Demon Blood Gu",
+    "Soul Gu Frog",
+    "Sky Slash"
+  ],
+  "cultivation": "Hun Qianmo is a Six-Star Dou Sheng ('Hun Qianmo's strength is around six stars'). A late Five-Star Dou Sheng aura appears in Xiao Chen's match (1011.2). No change for Xiao Yan.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-miesheng",
+      "name": "Hun Miesheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-chen",
+      "name": "Xiao Chen",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-qianmo",
+      "name": "Hun Qianmo",
+      "realm": "Six-Star Dou Sheng",
+      "quote": "Hun Qianmo's strength is around six stars. / Six-Star Dou Sheng",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "pill-tower-ancestor",
+      "name": "Pill Tower Ancestor",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "soul-demon-elder",
+      "name": "Soul Demon Elder",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file opens with a recap of EP265 (154-187s).",
+    "Rough translation: 'Soul Temple/Soul Palace' (Hall of Souls), 'Soul Thousand Strangers' (368.5, Hun Qianmo), 'Danta/Dan Tower' (Pill Tower), 'Fallen Peak' (Fallen Mountain).",
+    "1011.2 'Late stage of Five-Star Dou Sheng': whose realm this is (Xiao Chen's surge or the Soul Demon Elder) is not clear; EP262 had Xiao Chen at mid Five-Star.",
+    "622.9 'I've been hungry for so long' and 1053.9/1066.5 'Sky Slash / Slaying the Sky': speakers not named.",
+    "1174.8 'This prince would like to see it for himself': speaker unclear (possibly the Void Devouring Flame inside Hun Miesheng, which calls itself 'this Prince' in EP267).",
+    "Yao Lao and the other alliance leaders are not named on screen in this file."
+  ]
+}

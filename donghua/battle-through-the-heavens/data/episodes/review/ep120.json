@@ -1,0 +1,93 @@
+{
+  "ep": 120,
+  "title": "The Flight Home",
+  "summary": "Xiao Li brings the Black-Corner sect leaders who have agreed to fight the Misty Cloud Sect, and Xiao Yan promises them their reward. The group boards a flying ship and leaves the Black-Corner Region for the Jia Ma Empire. In the Misty Cloud Sect's Forbidden Hall, Yun Shan tells Yun Yun he will wipe out the Xiao Clan and the Mite'er family who shelter them. In the capital, Ya Fei warns Hai Bodong and the Mite'er family that the Misty Cloud Sect is planning an attack. A month into the journey, in the small country of Wanyan, Zi Yan and Cai Lin raid the treasure cave of a greedy Dou Zong sect leader. Zi Yan lures away its guard, a Rank Six Magical Beast, while Cai Lin takes the herbs, then Cai Lin frees the beast from its master's seal. Back on the ship Xiao Yan scolds them for the risk and forbids them to leave again.",
+  "events": [
+    "Xiao Li presents the Black-Corner sect leaders joining the trip",
+    "The flying ship leaves for the Jia Ma Empire",
+    "Yun Shan tells Yun Yun he will destroy the Xiao Clan and attack the Mite'er family",
+    "Ya Fei warns the Mite'er family and Hai Bodong of the coming attack",
+    "In Wanyan, Zi Yan baits a Rank Six Magical Beast guarding a Dou Zong's treasure cave",
+    "Cai Lin takes the herbs and breaks the seal binding the beast",
+    "Xiao Yan scolds the pair and forbids them to wander off"
+  ],
+  "introduced": [
+    "Forbidden Hall (Misty Cloud Sect)",
+    "Wanyan (small country on the route)",
+    "Rank Six Magical Beast guarding the treasure cave",
+    "Jade Dragon Saliva",
+    "Extreme Cold Ganoderma"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "leaders of the Dark Sky Sect, Luo Sha Gate and Wild Lion Gang",
+      "first": false
+    },
+    {
+      "id": "yun-shan",
+      "name": "Yun Shan",
+      "first": false
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "first": false
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "first": false
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "first": false
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": "Dou Zong",
+      "quote": "A strong Dou Zong?",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Rank Six Magical Beast (cave guardian)",
+      "first": true,
+      "card": 773.8
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Cut rule used: material before a file's [Episode N] card is the end of episode N-1 (each episode's narrated recap covers it), so this episode = ep120.en.srt from its card on, plus ep121.en.srt before its card.",
+    "0-236s of ep120.en.srt (the last of the fusion practice, the farewell at the Inner Academy, Xiao Yu's thoughts, the Xiao Gate gathering and the ending-song lyrics) is read as the end of EP119; the EP119 review does not include it.",
+    "ep121.en.srt 0-153s (the beast freed, the return to the ship, the scolding) is counted here.",
+    "611.7 'I'm sorry that we've dragged the Mite'er family into this': speaker read as Xiao Ding.",
+    "818.3 'Space Seal?': who casts it (the beast or Zi Yan) is unclear.",
+    "1008.1 'A strong Dou Zong?': the beast about Cai Lin.",
+    "The Black-Corner leaders are not named in this episode; read as Su Mei, Yin Gu and Tie Niao from EP116."
+  ]
+}

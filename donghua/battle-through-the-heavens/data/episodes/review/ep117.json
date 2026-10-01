@@ -1,0 +1,66 @@
+{
+  "ep": 117,
+  "title": "Waking Yao Lao",
+  "summary": "Xiao Li opens the Xiao Gate's first pill auction in Feng City, and Black Alliance remnants interrupt it to claim the city. Mr. Jin and Mr. Yin, who had been backing them, recognise Medusa and quickly side with Xiao Yan. Medusa tells Xiao Yan she knows he feeds the Heaven Swallowing Python Amethyst Lion Birth Essence, and presses him for her Soul Recovery Pill. With the herbs from the auction, Xiao Yan spends two months in the mountains refining medicine for Yao Lao's soul, pours all his Dou Qi into waking his master and passes out; Medusa, who swore to kill him herself, catches him as he falls. Yao Lao wakes, warns Medusa off his disciple and sees that she has fully merged with the python's soul. He revives Xiao Yan, and master and disciple meet again after two years.",
+  "events": [
+    "Xiao Li opens the Xiao Gate's first pill auction in Feng City",
+    "Black Alliance remnants challenge Xiao Yan's claim to the city",
+    "Mr. Jin and Mr. Yin back down when they see Medusa",
+    "Medusa presses Xiao Yan for her Soul Recovery Pill",
+    "Xiao Yan spends two months refining for Yao Lao's soul",
+    "He exhausts his Dou Qi waking Yao Lao, falls, and Medusa catches him",
+    "Yao Lao wakes and faces Medusa, then revives Xiao Yan"
+  ],
+  "introduced": [
+    "Amethyst Lion Birth Essence",
+    "Three Lines Green Spirit Pill (in a flashback)",
+    "Ten Thousand Beast Cauldron"
+  ],
+  "cultivation": "Xiao Li is called 'just a Dou Wang'. Yao Lao says Medusa has fully merged her soul with the Heaven Swallowing Python's, and she says his Soul Power has grown during his two years of sleep.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "realm": "Dou Wang",
+      "quote": "He is just a Dou Wang.",
+      "first": false,
+      "card": 65.9
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "mr-jin",
+      "name": "Mr. Jin",
+      "first": false
+    },
+    {
+      "id": "mr-yin",
+      "name": "Mr. Yin",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Moved out to EP116: the cauldron and the auction plan (before this card in the old file). Moved in from the old EP118 review: Yao Lao waking, facing Medusa and reviving Xiao Yan (before the [Episode 118] card). Cauldron Ranking and Black Cauldron moved to EP116; Ten Thousand Beast Cauldron moved here from EP118. Xiao Li's card moved to 65.9."
+  ],
+  "flags": [
+    "0-32s are a recap of EP116 and are not counted. Its 'message from the Xiao Gate asking for help' (12.1) is not shown.",
+    "577.6-617.1: flashback to Xiao Yan first becoming Yao Lao's disciple; not this episode's events.",
+    "839.4-912.4: ending song lyrics, ignored.",
+    "The pill refined over two months (657.9-666.9) is not named; it is meant to restore Yao Lao's soul.",
+    "1049.7: Yao Lao thinks Xiao Yan's cauldron 'looks like the Ten Thousand Beast Cauldron on the Cauldron Ranking'; it's his guess."
+  ]
+}

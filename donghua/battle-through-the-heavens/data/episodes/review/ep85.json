@@ -1,0 +1,93 @@
+{
+  "ep": 85,
+  "title": "The Fourth Level",
+  "summary": "At the tower gate, White Gang leader Bai Cheng hurts Xiao Yan in what he calls a friendly spar. Han Yue mocks Bai Cheng in front of everyone, and Xiao Yan promises that the White Gang will be gone in half a year. Inside the Blazing Qi Refining Tower, a guide explains Fire Poison and the rule of a week on each level, and several Rock Gate members advance on their first day. Yao Lao feels the Fallen Heart Flame's aura behind a seal and urges Xiao Yan to reach Dou Ling quickly. Using a green crystal card, Xiao Yan goes down to the fourth level and takes an empty high-level room. Lei Na, a Four-Star Dou Ling who guards Liu Fei, claims the room is hers and attacks. Xiao Yan answers with two flames at once and unleashes a terrifying Dou Skill.",
+  "events": [
+    "Bai Cheng hurts Xiao Yan at the tower gate and calls it a spar.",
+    "Han Yue rebukes Bai Cheng; Xiao Yan vows the White Gang will dissolve in half a year.",
+    "A guide explains Fire Poison and the tower's rules; one Fire Energy pays for a day.",
+    "Several Rock Gate members advance on their first session.",
+    "Yao Lao senses the Fallen Heart Flame through a seal and tells Xiao Yan to reach Dou Ling soon.",
+    "Xiao Yan goes to the fourth level with a green crystal card and takes an empty room.",
+    "Lei Na and Liu Fei claim the room; Lei Na attacks and Xiao Yan fights back with two flames."
+  ],
+  "introduced": [
+    "Fire Poison",
+    "Lin Xiu Ya (named, top ten of the Strong Ranking)",
+    "Yan Hao (named, top ten of the Strong Ranking)",
+    "green crystal card (for the fourth level)",
+    "Lei Na",
+    "Liu Fei",
+    "Liu Qing (named, Liu Fei's brother)"
+  ],
+  "cultivation": "Lei Na is a Four-Star Dou Ling. Lei Na calls Xiao Yan a Da Dou Shi.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Da Dou Shi",
+      "quote": "But as a mere Da Dou Shi,",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-cheng",
+      "name": "Bai Cheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "han-yue",
+      "name": "Han Yue",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lei-na",
+      "name": "Lei Na",
+      "realm": "4-star Dou Ling",
+      "quote": "Lei Na is a Four-Star Dou Ling, after all.",
+      "first": true,
+      "card": 696.6
+    },
+    {
+      "id": "liu-fei",
+      "name": "Liu Fei",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 696.6
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-38s is a recap of EP84.",
+    "141-171s: the fight between Bai Cheng and Xiao Yan has no dialogue; it ends with Xiao Yan hurt and Bai Cheng calling it a 'friendly spar'.",
+    "190.1 'Senior Bai Cheng, you're truly an expert on the Strong Ranking.' Read as sarcasm that Bai Cheng is on the Strong Ranking.",
+    "Where the 'green-colored Crystal Card' (617.0) came from is not shown.",
+    "564-571: Yao Lao thinks Xun Er has 'some treasure protecting her' from Fire Poison.",
+    "696.6 '[Lei Na. Liu Fei]' is one combined name card.",
+    "The episode ends mid-fight (960.5); EP86's recap names the Dou Skill as the Angry Buddha Lotus Flame."
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "ep": 218,
+  "title": "Duels Before the Gu Realm",
+  "summary": "In Ancient Holy City, Xiao Yan accepts Yang Hao's challenge and beats him with a Soul Attack and the new Earth Flame Hurricane. Lin Xiu tries to start another fight until Elder Gu Xun stops it and says the Gu Realm opens in three days. Hun Ya of the Hun Clan comes to taunt Xiao Yan, saying his ancestor killed Xiao Xuan, and Xiao Yan vows revenge. Huo Xuan and Huo Zhi of the Yan Clan tell him about the Heavenly Tomb, where ancient powerhouses are buried, and point out Yao Xing Ji of the Yao Clan. Gu Zhen, chief commander of the Black Submerged Army, tells Xiao Yan only a Dou Sheng can make the clan ignore bloodline purity, and Xiao Yan says he will become one. In the Gu Realm, Xun Er welcomes him and drives off elders who test him with an attack. Mr. Ling warns that anyone at the coming-of-age ceremony may challenge him.",
+  "events": [
+    "Xiao Yan defeats Yang Hao with a Soul Attack and the Earth Flame Hurricane.",
+    "Elder Gu Xun stops Lin Xiu from fighting Xiao Yan.",
+    "Hun Ya taunts Xiao Yan about Xiao Xuan's death.",
+    "Huo Xuan and Huo Zhi of the Yan Clan explain the Heavenly Tomb.",
+    "Gu Zhen tells Xiao Yan he must become a Dou Sheng.",
+    "Xiao Yan enters the Gu Realm and meets Xun Er.",
+    "Xun Er scolds Gu elders who attack Xiao Yan.",
+    "Mr. Ling warns about challenges at the ceremony."
+  ],
+  "introduced": [
+    "Dragon Serpent Footwork",
+    "Heaven Shatter Claw",
+    "God Seal Technique",
+    "Overturning Land Seal",
+    "Earth Flame Hurricane",
+    "Huo Xuan",
+    "Huo Zhi",
+    "Red Lotus Flame",
+    "Lin Xiu",
+    "Gu Xun",
+    "Space Gate",
+    "Ancient Holy Mountains",
+    "Hun Ya",
+    "Heavenly Tomb",
+    "Yao Xing Ji",
+    "Ren Yao Zi",
+    "Gu Zhen",
+    "Seven Ancient Clans"
+  ],
+  "cultivation": "Narration: Ling Quan is a 1-star Dou Zun, ranked seventh of the eight commanders; a Black Submerged King must be Ban Sheng level. Huo Xuan calls Xiao Yan 'just a Five-Star Dou Zun'. Yao Xing Ji is an eight-tier middle rank alchemist.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "5-star Dou Zun",
+      "quote": "This Xiao Yan / is just a Five-Star Dou Zun,",
+      "first": false
+    },
+    {
+      "id": "yang-hao",
+      "name": "Yang Hao",
+      "first": false
+    },
+    {
+      "id": "ling-quan",
+      "name": "Ling Quan",
+      "realm": "1-star Dou Zun",
+      "quote": "(Though Ling Quan / has the strength of a One-Star Dou Zun,)",
+      "first": false
+    },
+    {
+      "id": "huo-xuan",
+      "name": "Huo Xuan",
+      "first": true,
+      "card": 290.3
+    },
+    {
+      "id": "huo-zhi",
+      "name": "Huo Zhi",
+      "first": true,
+      "card": 290.3
+    },
+    {
+      "id": "lin-xiu",
+      "name": "Lin Xiu",
+      "first": true,
+      "card": 315.9
+    },
+    {
+      "id": "gu-xun",
+      "name": "Gu Xun",
+      "first": true,
+      "card": 339.9
+    },
+    {
+      "id": "hun-ya",
+      "name": "Hun Ya",
+      "first": true,
+      "card": 414.8
+    },
+    {
+      "id": "yao-xing-ji",
+      "name": "Yao Xing Ji",
+      "quote": "he's an eight-tier middle rank alchemist / from the Yao Clan.",
+      "first": true,
+      "card": 546.8
+    },
+    {
+      "id": "gu-zhen",
+      "name": "Gu Zhen",
+      "first": true,
+      "card": 593.9
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false
+    },
+    {
+      "id": "mr-ling",
+      "name": "Mr. Ling",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10-54s: narration on the Black Submerged Army (Ling Quan's rank and the Ban Sheng requirement are stated here).",
+    "414.8s: the name card reads 'Hun Yai'; later episodes mostly write 'Hun Ya'. Used Hun Ya.",
+    "304-316s: 'Xiu. / You've disgraced the entire Gu Clan.' comes right before Lin Xiu's card; who scolds whom is unclear.",
+    "Gu Xun (339.9s) is an elder of the Gu Clan; the name also appears in ep53.json, which may be someone else.",
+    "290-298s: the Red Lotus Flame belongs to the speaker, taken as Huo Xuan (EP223 names it rank 8).",
+    "628s: Gu Zhen says Xun Er holds the pure blood of a Dou Di 'from one of the Seven Ancient Clans' (sic; elsewhere eight).",
+    "743-851s: a song plays over a flashback montage of Xiao Yan and Xun Er; not new events.",
+    "Gu Zhen is called 'chief commander' (570s); his card is at 593.9s."
+  ]
+}

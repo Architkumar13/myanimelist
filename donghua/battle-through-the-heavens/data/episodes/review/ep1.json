@@ -1,0 +1,141 @@
+{
+  "ep": 1,
+  "title": "The Broken Engagement",
+  "summary": "In a prologue, the alchemist Yao Chen is betrayed by his disciple Han Feng, who wanted the Flame Mantra, with Mu Gu at his side. In Wu Tan City, Xiao Yan was once the Xiao Clan's youngest Dou Zhe, but for three years he has been stuck at the third stage of Dou Zhi Qi and the clan calls him trash. Nalan Yanran comes with Elder Ge Ye of the Misty Cloud Sect to call off her betrothal to him, offering a Qi Gathering Pill made by the Pill King Gu He, but Xiao Yan refuses to be pushed. She sets a match at the Misty Cloud Sect in three years, and he hands her a letter of repudiation that throws her out of the Xiao Clan instead. That night a voice speaks from his black ring: Yao Lao, a soul who has been absorbing his Dou Zhi Qi for three years. Yao Lao says he is an alchemist who sees Gu He as nothing, and Xiao Yan becomes his disciple on condition that he is a Dou Zhe within a year. At the Xiao Market, Jia Lie Ao mocks him and boasts of the Jia Lie Clan's new alchemist, and Yao Lao starts him on physical training with Spiritual Liquid.",
+  "events": [
+    "Prologue: Han Feng, with Mu Gu, betrays his master Yao Chen over the Flame Mantra.",
+    "Wu Tan City: the elders tell Xiao Zhan his son has been stuck at the third stage of Dou Zhi Qi for three years.",
+    "Nalan Yanran and Ge Ye of the Misty Cloud Sect ask to end the betrothal and offer a Qi Gathering Pill.",
+    "Nalan Yanran sets a match at the Misty Cloud Sect in three years; Xiao Yan writes a letter of repudiation.",
+    "Yao Lao wakes in the black ring and admits he has been absorbing Xiao Yan's Dou Zhi Qi.",
+    "Xiao Yan becomes Yao Lao's disciple; he must become a Dou Zhe within a year and keep Yao Lao secret.",
+    "At the Xiao Market, Jia Lie Ao mocks him and boasts of the Jia Lie Clan's new alchemist.",
+    "Yao Lao starts Xiao Yan on physical training with Spiritual Liquid."
+  ],
+  "introduced": [
+    "Xiao Yan",
+    "Yao Lao (Yao Chen)",
+    "Han Feng",
+    "Mu Gu",
+    "Xiao Zhan",
+    "Xun Er (Xiao Xun Er)",
+    "Nalan Yanran",
+    "Ge Ye",
+    "Liu Ling",
+    "Jia Lie Ao",
+    "Yun Yun (named only, Misty Cloud Sect leader)",
+    "Gu He, the Pill King (named only)",
+    "Old Master Nalan and Nalan Su (named only)",
+    "Wu Tan City",
+    "Xiao Clan",
+    "Jia Lie Clan",
+    "Misty Cloud Sect",
+    "Dou Qi Continent",
+    "Xiao Market",
+    "Mite'er Auction House",
+    "Flame Mantra",
+    "Dou Zhi Qi (stages)",
+    "Dou Zhe, Dou Shi, Da Dou Shi",
+    "Qi Gathering Pill",
+    "black ring",
+    "Soul Strength / Soul Perception",
+    "Spiritual Liquid",
+    "Three-year Agreement (match at the Misty Cloud Sect in three years)",
+    "letter of repudiation"
+  ],
+  "cultivation": "Xiao Yan has been stuck at the third stage of Dou Zhi Qi for three years; he had become a Dou Zhe at 11. Yao Lao has been absorbing his Dou Zhi Qi.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 1222.0
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 9.0
+    },
+    {
+      "id": "mu-gu",
+      "name": "Mu Gu",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 14.2
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Zhi Qi 3rd stage",
+      "quote": "In three years, he was reduced  to the third stage of Dou Zhi Qi.",
+      "first": true,
+      "card": 185.0
+    },
+    {
+      "id": "xiao-zhan",
+      "name": "Xiao Zhan",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 203.2
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 341.5
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 373.5
+    },
+    {
+      "id": "ge-ye",
+      "name": "Ge Ye",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 408.5
+    },
+    {
+      "id": "liu-ling",
+      "name": "Liu Ling",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 693.0
+    },
+    {
+      "id": "jia-lie-ao",
+      "name": "Jia Lie Ao",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 1664.0
+    }
+  ],
+  "flags": [
+    "0-133s is a prologue before the [Episode 1] card: Yao Chen (Yao Lao) betrayed by Han Feng. 1.0 caption [Yao Chen]; 9.0 [Han Feng]; 14.2 [Mu Gu]. Mu Gu's role is not explained (he is addressed at 0.0 and has a card).",
+    "Yao Lao's name card in the main story is 1222.0; the [Yao Chen] caption at 1.0 is the same person in the prologue.",
+    "693.0 '[Liu Ling]' is a name caption on the line 'Yan. You're being rude'; who Liu Ling is (Xiao Clan elder or relative?) is not said.",
+    "Xun Er's card reads [Xiao Xun Er] (341.5).",
+    "Nalan Yanran is called 'granddaughter of Old Master Nalan' (374.5) and Nalan Su's daughter (539).",
+    "Gu He is called 'the Sixth Ranked Pill King' (1380); Yun Yun is 'Mr. Yun Yun' at 393, a translation slip for the Misty Cloud Sect leader.",
+    "1344: Yao Lao calls Xiao Yan a 15-year-old boy.",
+    "The file ends at 1847 mid-training ('Can I trust you or not?'); EP2 opens half a year later."
+  ],
+  "changes": []
+}

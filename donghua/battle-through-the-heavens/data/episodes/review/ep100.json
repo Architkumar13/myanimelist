@@ -1,0 +1,143 @@
+{
+  "ep": 100,
+  "title": "Xun Er's Scroll",
+  "summary": "Xiao Yan's win over Yao Sheng puts him close to the top ten. Liu Qing then crushes the 11th-ranked student, an Eight-Star Dou Ling, with raw strength alone. Xiao Yan tells Xun Er he knows she hides her strength around him and wants to see her shine. That night she gives him a sealed Dou Skill scroll that he may only open once he is a Dou Wang, and warns him to keep the jade of Tuo She Gu Di secret. She then tells her guardian not to let anyone, not even her father, know about the gift. The next day 13 contestants remain and three random matches decide the last places. Yan Hao, with his Black Metal Hammer, beats Qian Mo and his Golden Sawtooth Disc. Zi Yan wins when Qin Zhen pretends to have an upset stomach, and Liu Qing is drawn against Xiao Yan.",
+  "events": [
+    "Friends congratulate Xiao Yan; someone invites him back to the mountains for the Core Quenching Body Milk after the competition.",
+    "Liu Qing beats an Eight-Star Dou Ling without his spear.",
+    "Xiao Yan asks Xun Er to stop holding back her strength.",
+    "Xun Er gives Xiao Yan a sealed Dou Skill scroll for when he becomes a Dou Wang.",
+    "Zi Yan says she fought a Dou Huang class Magical Beast over a magical medicine.",
+    "Thirteen remain; three random matches decide the top ten.",
+    "Yan Hao beats Qian Mo.",
+    "Zi Yan wins by forfeit from Qin Zhen; Liu Qing is drawn against Xiao Yan."
+  ],
+  "introduced": [
+    "Qian Mo",
+    "Golden Sawtooth Disc",
+    "Black Metal Hammer (Yan Hao)",
+    "Wind-Attribute Dou Qi",
+    "Qin Zhen (named; does not appear)",
+    "the sealed Dou Skill scroll from Xun Er",
+    "Flying Dou Skill (what onlookers call the Purple Cloud Wings)"
+  ],
+  "cultivation": "Liu Qing is 'almost a Dou Wang'. The 11th-ranked student is an Eight-Star Dou Ling; Qin Zhen is an Eight-Star Dou Ling.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-sheng",
+      "name": "Yao Sheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-xiu-ya",
+      "name": "Lin Xiu Ya",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-qing",
+      "name": "Liu Qing",
+      "realm": "almost a Dou Wang",
+      "quote": "Liu Qing is almost a Dou Wang.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-fei",
+      "name": "Liu Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mr-ling",
+      "name": "Mr. Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yan-hao",
+      "name": "Yan Hao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "qian-mo",
+      "name": "Qian Mo",
+      "realm": null,
+      "quote": "He was one of the top ten in last year's competition.",
+      "first": true,
+      "card": 791.9
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut subtitle file, which starts at the [Episode 100] card: events unchanged; Qian Mo's card moved to 791.9 and flag times moved to the new clock."
+  ],
+  "flags": [
+    "0-29s are a recap of EP99 and are not counted.",
+    "101-105s: someone invites Xiao Yan to the mountains, 'you'll benefit from the item too'; probably Han Yue or Lin Xiu Ya about the Core Quenching Body Milk, which Xiao Yan already took in EP91.",
+    "Xun Er's guardian at 567-583s is unnamed, probably Mr. Ling. 'Not even my father' implies her father leads her clan.",
+    "Liu Qing's 'almost a Dou Wang' (286.7) is an onlooker's estimate, not a rank card.",
+    "The 11th-ranked Eight-Star Dou Ling who loses to Liu Qing is not named.",
+    "Qin Zhen's 'Eight-Star Dou Ling' is at 985.2."
+  ]
+}

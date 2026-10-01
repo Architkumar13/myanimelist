@@ -1,0 +1,84 @@
+{
+  "ep": 255,
+  "title": "Raid on the Human Hall",
+  "summary": "Yao Lao has reached One-Star Dou Sheng with Demonic Saint Huang Quan's essence blood, and he leads Xiao Yan and Zi Yan into the Hall of Souls' Human Hall while Zi Yan seals the space. There Yao Lao settles his old score with Mu Gu, the man who once pushed Han Feng to betray him. Xiao Yan takes the Sea Heart Flame and says it lets him form a true Five-Colored Extermination Fire Lotus. The First Tianzun arrives and offers Xiao Yan a place in the Hall of Souls, which he refuses. The First Tianzun feeds the origins of the dead into his Bone Emperor Blade, a soul-cutting knife made from the bones of ten thousand people, and breaks through the Six Joint Body Flowing Ruler. Xiao Yan answers with the Yellow Spring Divine Anger, the Yellow Spring Finger and the Yellow Spring Palm. As the fight ends, the Deputy Hall Master of the Hall of Souls arrives.",
+  "events": [
+    "Yao Lao, now a One-Star Dou Sheng, leads the raid on the Human Hall.",
+    "Xiao Yan, Yao Lao and Zi Yan cut through the hall's guards.",
+    "Yao Lao finds Mu Gu and settles their old grudge.",
+    "Xiao Yan takes the Sea Heart Flame.",
+    "The First Tianzun offers Xiao Yan a place, then attacks with the Bone Emperor Blade.",
+    "The blade breaks the Six Joint Body Flowing Ruler.",
+    "Xiao Yan strikes back with the Yellow Spring Divine Anger, Finger and Palm.",
+    "The Deputy Hall Master of the Hall of Souls appears."
+  ],
+  "introduced": [
+    "Human Hall (Hall of Souls branch)",
+    "First Tianzun (Great Tianzun)",
+    "Bone Emperor Blade",
+    "Bone Emperor Split Sky",
+    "Five-Colored Extermination Fire Lotus",
+    "Origin (the essence the Hall of Souls collects from the dead)"
+  ],
+  "cultivation": "Yao Lao breaks through to One-Star Dou Sheng with Huang Quan's essence blood (recap; Mu Gu: 'Yao Chen, you've actually reached the Dou Sheng level!'). Xiao Yan gains a fifth Heavenly Flame, the Sea Heart Flame.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": "One-Star Dou Sheng",
+      "quote": "Yao Chen breaks through to a one-star Dou Sheng.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mu-gu",
+      "name": "Mu Gu",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 485.3
+    },
+    {
+      "id": "first-tianzun",
+      "name": "First Tianzun",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 680.2
+    },
+    {
+      "id": "deputy-hall-master-hall-of-souls",
+      "name": "Deputy Hall Master (Hall of Souls)",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 1286.2
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file starts at 169s; 169-206s is a narrated recap of EP254.",
+    "Rough translation: 'Soul Palace', 'Soul Temple' = Hall of Souls; 'Human Palace' = Human Hall; 'medicine dust' = Yao Chen (Yao Lao); 'Tianfu Alliance' = Sky Mansion Alliance; 'Heavenly Venerables' = Tianzuns; 'adult' = 'my lord' (the First Tianzun); 'Liuhe Youshen Ruler', 'Six Harmonies Wandering Body Ruler' (1148.0, 1165.7) = Six Joint Body Flowing Ruler; 'Wrath of the Underworld' = Yellow Spring Divine Anger; 'Yellow Springs Point' = Yellow Spring Finger.",
+    "The bone-knife fighter is called 'Great Celestial Venerable' (680.2); the EP256 recap calls him the 'First Heavenly Master' and says Xiao Yan killed him. 'First Tianzun' follows the official tracks' 'Third Tianzun', 'Second Tianzun'.",
+    "Who held the Sea Heart Flame before (Mu Gu?) is not stated; the EP256 recap says 'he' obtained it.",
+    "1186.6 the First Tianzun mentions Xiao Yan's 'dragon scale armor'.",
+    "1013-1017s 'Earth / Gangyan' are garbled lines."
+  ]
+}

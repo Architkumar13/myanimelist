@@ -1,0 +1,103 @@
+{
+  "ep": 160,
+  "title": "The Han Family of Tian Bei City",
+  "summary": "At the Han Manor in Tian Bei City, Hong Chen of the Hong Clan, now a disciple of the Wind Lightning Pavilion, demands to marry both Han daughters, and the family head Han Chi refuses. Hong Lie and Hong Mu, two Four-Star Dou Huangs, ambush the convoy to take Han Xue, and Xiao Yan captures both in three moves, which tells Han Xue he was her hidden rescuer. At the manor, Xiao Yan finds that Han Xue's sister is Han Yue, his senior from Jia Nan Academy. Hong Chen offers a duel at Sky Stone Stage: if a Han of his generation beats him, the Hong Clan will leave the family alone for ten years, and if not, he marries both sisters. Xiao Yan offers to fight for the Han family, and their uncle Han Tian, an Eight-Star Dou Huang, tests him with the Nine Turning Wind Steps. Xiao Yan beats him with a trace of Spatial Strength, Han Tian admits defeat, and Han Chi promises to repay him at any price.",
+  "events": [
+    "Hong Chen, a new Wind Lightning Pavilion disciple, demands both Han daughters; Han Chi refuses.",
+    "Hong Lie and Hong Mu ambush the convoy; Xiao Yan captures them.",
+    "Han Xue realizes Xiao Yan was her mysterious rescuer.",
+    "At the Han Manor, Xiao Yan meets Han Yue, his senior from the Inner Academy.",
+    "Hong Chen sets a duel at Sky Stone Stage in three days.",
+    "Xiao Yan volunteers to fight for the Han family.",
+    "Han Tian tests Xiao Yan with the Nine Turning Wind Steps.",
+    "Xiao Yan wins with Spatial Strength; Han Chi pledges his gratitude."
+  ],
+  "introduced": [
+    "Han Manor",
+    "Han Chi",
+    "Hong Chen",
+    "Hong Clan",
+    "Han Tian",
+    "Hong Lie",
+    "Hong Mu",
+    "Mysterious Fire Move",
+    "Wood Aura Rise",
+    "Dou Qi Fusion Technique",
+    "Sky Stone Stage",
+    "Nine Turning Wind Steps",
+    "Spatial Strength"
+  ],
+  "cultivation": "Hong Lie and Hong Mu are Four-Star Dou Huangs. Han Tian is an Eight-Star Dou Huang, on par with Hong Chen.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "han-xue",
+      "name": "Han Xue",
+      "first": false
+    },
+    {
+      "id": "han-chong",
+      "name": "Han Chong",
+      "first": false
+    },
+    {
+      "id": "han-chi",
+      "name": "Han Chi",
+      "first": true,
+      "card": 80
+    },
+    {
+      "id": "hong-chen",
+      "name": "Hong Chen",
+      "first": true,
+      "card": 89
+    },
+    {
+      "id": "han-tian",
+      "name": "Han Tian",
+      "realm": "8-star Dou Huang",
+      "quote": "Han Tian is an Eight-Star Dou Huang and on par with Hong Chen.",
+      "first": true,
+      "card": 146
+    },
+    {
+      "id": "hong-lie",
+      "name": "Hong Lie",
+      "realm": "4-star Dou Huang",
+      "quote": "(he captured two Four-Star Dou Huangs.)",
+      "first": true,
+      "card": 304
+    },
+    {
+      "id": "hong-mu",
+      "name": "Hong Mu",
+      "realm": "4-star Dou Huang",
+      "quote": "(he captured two Four-Star Dou Huangs.)",
+      "first": true,
+      "card": 317
+    },
+    {
+      "id": "han-yue",
+      "name": "Han Yue",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: moved the Xia Mang fight to EP159 (Xia Mang is out of the cast); added from EP161 the end of Han Tian's test, Xiao Yan's Spatial Strength and Han Chi's pledge; card times moved to the new clock."
+  ],
+  "flags": [
+    "0-55s is the recap.",
+    "58s: '[Han Manor]' place caption.",
+    "80s: '[Han Chi]' card on 'Mr. Han', the head of the family and father of Han Yue and Han Xue (752s).",
+    "179-183s: someone notices the after-effects of Spatial Strength on Xiao Yan; the speaker is not named.",
+    "Han Yue is a Jia Nan Academy senior from earlier seasons; first: false is assumed, not checked against earlier reviews.",
+    "436-438s: 'Mysterious Fire Move!' and 'Wood Aura Rise!' are the Hong pair's combined Dou Qi Fusion Technique.",
+    "904s: Han Tian's Eight-Star Dou Huang is stated by an onlooker.",
+    "1055s: 'You're a Dou Zong?' is Han Tian's surprise at the Spatial Strength, not a realm for Xiao Yan."
+  ]
+}

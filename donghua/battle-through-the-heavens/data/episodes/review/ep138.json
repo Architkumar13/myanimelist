@@ -1,0 +1,84 @@
+{
+  "ep": 138,
+  "title": "Pill King Gu He Joins",
+  "summary": "Medusa rescues Xiao Yan from the two remaining Mulan elders and they hide until the search passes. He gives her the Three Beast Savage Skill and the other Mulan techniques for the Snakemen Clan, and she offers him Yan Luo Tian's secret Gold Geese Sect method for a Flying Dou Skill with giant wings. Elsewhere, Xun Er learns that the Hall of Souls took Yao Lao, sends Mr. Ling to look for the Hall, and hears her clan will search the Xiao Clan in the Jia Ma Empire for a key. Fa Ma suggests winning Pill King Gu He for the Yan Alliance's Pill Hall with a Pill Tower recommendation. Gu He demands a pill-refining contest, loses to Xiao Yan, and joins the Pill Hall. A message from Little Fairy Doctor about Hall of Souls members sends Xiao Yan toward the Chu Yun Empire. Zi Yan wants to come along, and the Snakemen Grand Commander blames Xiao Yan for endangering Medusa and attacks him.",
+  "events": [
+    "Medusa saves Xiao Yan and they shake off the Mulan pursuers",
+    "Xiao Yan gives Medusa the Mulan techniques; she offers him Yan Luo Tian's flying-wing method",
+    "Medusa leaves to resettle the Snakemen Clan",
+    "Xun Er learns of Yao Lao's capture and sends Mr. Ling after the Hall of Souls",
+    "Xiao Yan and Fa Ma discuss the slow refining of Life Devouring Pills and the Pill Tower",
+    "Gu He loses a pill-refining contest to Xiao Yan and joins the Pill Hall",
+    "Little Fairy Doctor reports Hall of Souls members in the Chu Yun Empire",
+    "Grand Commander of the Snakemen confronts Xiao Yan"
+  ],
+  "introduced": [
+    "Gold Geese Sect Flying Dou Skill method",
+    "Life Devouring Pill",
+    "Pill Tower",
+    "Pill Hall (Yan Alliance)",
+    "Tuo She Gu Di jade",
+    "Snakemen Grand Commander (Kui Xing)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Huang",
+      "quote": "Yan has already reached Dou Huang level.",
+      "first": false,
+      "card": 56
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false,
+      "card": 64
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false,
+      "card": 289
+    },
+    {
+      "id": "mr-ling",
+      "name": "Mr. Ling",
+      "first": false,
+      "card": 303
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "first": false,
+      "card": 392
+    },
+    {
+      "id": "gu-he",
+      "name": "Gu He",
+      "first": false,
+      "card": 460
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false,
+      "card": 759
+    },
+    {
+      "id": "kui-xing",
+      "name": "Kui Xing",
+      "first": true,
+      "card": 794
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Xiao Yan's alchemy: 'he seems to have reached the level of a sixth-tier alchemist' (Fa Ma, 647s), an estimate.",
+    "217-220s: Xiao Yan says 'Cai Lin, take it' of the flying method and she answers 'No, you should keep it'; Xiao Yan keeps it.",
+    "303s: Xun Er's man is only called 'Mr. Ling'.",
+    "Kui Xing is named only in ep139 (78s); here he is 'Grand Commander' (794s)."
+  ]
+}

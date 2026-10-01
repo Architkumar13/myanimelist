@@ -1,0 +1,77 @@
+{
+  "ep": 193,
+  "title": "The Pill Refinement Challenge",
+  "summary": "Song Qing apologises to Cao Ying for leaving her in the Myriad Herbs Mountain Range, and the finalists take the stage for the Pill Refinement Challenge. Xiao Yan refines the Bone Growing Blood Fusing Pill, which he wants to push to the eighth tier to restore Yao Lao's body. Cao Ying uses the man-made Blood Demon Flame, and Mu Gu reveals the Sea Heart Flame, ranked 15th on the Heavenly Flames Ranking. After half a month, the pills start to form: Song Qing makes a peak seventh-tier pill, and Dan Chen makes an Eighth-Tier Pill with a two-colored thundercloud. Cao Ying and Xiao Yan both raise three-colored thunderclouds, and Mu Gu raises a four-colored one. The Pill Tower elders do not dare stop Mu Gu, because that could start a war with the Hall of Souls. Xiao Yan remembers how Yao Lao taught him the Spiritual Enhancement Technique for improving a pill that is already formed.",
+  "events": [
+    "Song Qing apologises to Cao Ying.",
+    "Onlookers name Dan Chen, Cao Ying and Xiao Yan as favourites.",
+    "Mu Gu greets Xiao Yan at the final stage.",
+    "Cao Ying uses the Blood Demon Flame, and Mu Gu the Sea Heart Flame.",
+    "Song Qing, Dan Chen and Cao Ying finish their pills over half a month.",
+    "Xiao Yan and Mu Gu make Eighth-Tier Pills; Mu Gu's thundercloud has four colors.",
+    "Xiao Yan remembers Yao Lao's Spiritual Enhancement Technique."
+  ],
+  "introduced": [
+    "Pill Refinement Challenge",
+    "Blood Demon Flame",
+    "Heavenly Flames Ranking",
+    "Pill Lightning",
+    "lightning conductor",
+    "thundercloud colors",
+    "Spiritual Enhancement Technique"
+  ],
+  "cultivation": "Pill grades: Song Qing a peak seventh-tier pill; Dan Chen an Eighth-Tier Pill (two-colored thundercloud); Cao Ying and Xiao Yan three-colored thunderclouds; Mu Gu a four-colored thundercloud. Dan Chen is said to have once reached the Soul State. The Bone Growing Blood Fusing Pill is a peak seventh-tier pill that works best raised to the eighth tier.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "song-qing",
+      "name": "Song Qing",
+      "first": false
+    },
+    {
+      "id": "cao-ying",
+      "name": "Cao Ying",
+      "first": false
+    },
+    {
+      "id": "dan-chen",
+      "name": "Dan Chen",
+      "first": false
+    },
+    {
+      "id": "mu-gu",
+      "name": "Mu Gu",
+      "first": false
+    },
+    {
+      "id": "xuan-kong-zi",
+      "name": "Xuan Kong Zi",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10s [Episode 193] card; 15-47s recap of EP192.",
+    "237-281s: the Blood Demon Flame is taken as Cao Ying's, from 'The Cao Clan is really loaded'.",
+    "490s: '[Half a month later]' caption.",
+    "504-537s: the bored onlooker who escaped the Pill Realm and complains about the herbs is taken as Zi Yan.",
+    "765s: someone tells Xuan Kong Zi 'You lost again' (a bet); speaker not named.",
+    "945-978s: Yao Lao teaching the Spiritual Enhancement Technique is a memory.",
+    "1018-1023s: Mu Gu says 'Yao Chen' as if he sees him; Xiao Yan answers that his master can't be bothered with him."
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "ep": 47,
+  "title": "Death Paradise",
+  "summary": "The Chu Yun Empire backs Poison Masters, and orthodox alchemists despise the Chu Yun alchemists who mix poison arts into pill refining. Yan Li, the veiled girl from the Chu Yun Empire, is first to make a pill and mocks Jia Ma's alchemists as useless, while Hai Bodong and the elders cannot tell whether she is disguised. Yan Xiao finds the flaw in the prescription, the Thick Soil Mushroom, extracts all his herbs at once and pulls his pill out before it fully sets, and he takes the round. Other contestants pass only because he exposed the flaw. Princess Yao Ye invites him to her banquet for young alchemists, but he declines to rest for the final, and Liu Ling notes a strange scent around the Chu Yun girl. That night Yan Li springs a Death Paradise poison trap on Liu Ling and other alchemists, and finds that Xiao Yan is not affected by it.",
+  "events": [
+    "Narration explains the Chu Yun Empire's Poison Masters and the alchemists' contempt for them.",
+    "Cauldrons explode across the arena; the prescription is flawed.",
+    "Yan Li makes the first pill and taunts the Jia Ma Empire.",
+    "Yan Xiao extracts all the herbs at once and removes his pill early, winning the round.",
+    "Contestants credit Yan Xiao for spotting the problem with the Thick Soil Mushroom.",
+    "Princess Yao Ye invites Yan Xiao to a banquet; he declines.",
+    "Yan Li traps Liu Ling and others in Death Paradise; Xiao Yan arrives unaffected."
+  ],
+  "introduced": [
+    "Poison Masters",
+    "Thick Soil Mushroom",
+    "pill fragrance",
+    "simultaneous herbal extraction",
+    "Death Paradise"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yan-li",
+      "name": "Yan Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ye",
+      "name": "Yao Ye",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yue-er",
+      "name": "Yue Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-ling",
+      "name": "Liu Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-221s is the end of EP46; the [Episode 47] card is at 229, and 296-302 replays its last lines.",
+    "The last part of this episode is at the start of ep48.en.srt (0-21s): an alchemist waking from what felt like a nightmare and Yan Li saying 'There was no poison. It was just a joke.'",
+    "Yan Li is not named in this file; the name comes from the EP48 recap (ep48.en.srt 61).",
+    "The EP48 recap says Xiao Yan 'barely won the first match with the help of Green Lotus Core Flame'; this file does not name the flame he used.",
+    "1024-1048: a figure lectures someone about betraying alchemy's values; speakers unclear.",
+    "1095-1100: someone urges 'You can't take action now... You can't affect our plan tonight'; Yan Li has accomplices who are not named."
+  ]
+}

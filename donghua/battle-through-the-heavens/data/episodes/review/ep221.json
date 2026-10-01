@@ -1,0 +1,61 @@
+{
+  "ep": 221,
+  "title": "Hunting in the Heavenly Tomb",
+  "summary": "Inside the Heavenly Tomb, Xun Er shows Xiao Yan how to absorb the energy cores of the energy bodies formed from the dead buried there. She gives him a six-star core, and he breaks through to 6-star Dou Zun. Hun Ya and Hun Li, both 8-star Dou Zuns, ambush them to kill Xun Er. Xun Er fights them off with the Great Heavenly Creation Palm, and Hun Li loses an arm. On the second layer, the two Hun Clan men lure a crowd of Dou Zun energy bodies onto them, then flee toward the third layer. After ten days of chasing, Xiao Yan and Xun Er kill a nine-star energy body and leave its core as bait. Hun Ya and Hun Li take the bait, and Xiao Yan's clone springs the trap on them.",
+  "events": [
+    "Xun Er explains energy bodies and energy cores.",
+    "Xiao Yan absorbs a six-star core and reaches 6-star Dou Zun.",
+    "Hun Ya and Hun Li ambush Xun Er.",
+    "Xun Er's Great Heavenly Creation Palm costs Hun Li an arm.",
+    "On the second layer, the Hun pair lure energy bodies onto them.",
+    "Xiao Yan and Xun Er kill a nine-star energy body.",
+    "They use its core as bait and turn the trap on the Hun pair."
+  ],
+  "introduced": [
+    "energy body",
+    "energy core",
+    "first, second and third layers of the Heavenly Tomb",
+    "Soul Explosion",
+    "Great Heavenly Creation Palm",
+    "Axe Splitting the Heavens"
+  ],
+  "cultivation": "Xiao Yan breaks through from 5-star to 6-star Dou Zun by absorbing a six-star energy core ('If I hadn't broken through to Six-star Dou Zun'). Hun Ya and Hun Li are 8-star Dou Zuns.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "6-star Dou Zun",
+      "quote": "If I hadn't broken through to Six-star Dou Zun,",
+      "first": false
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false
+    },
+    {
+      "id": "hun-ya",
+      "name": "Hun Ya",
+      "realm": "8-star Dou Zun",
+      "quote": "Both are Eight-star Dou Zuns.",
+      "first": false
+    },
+    {
+      "id": "hun-li",
+      "name": "Hun Li",
+      "realm": "8-star Dou Zun",
+      "quote": "Both are Eight-star Dou Zuns.",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10-47s: recap and narration.",
+    "598s: 'Great Heavenly Creation Palm' is Xun Er's move here; Xiao Yan also uses it in EP223-224.",
+    "625-642s: 'Help me!' / 'It's beyond saving. Just get rid of it.' is taken as Hun Li losing his arm; EP222 at 90s and 134s confirms he lost an arm.",
+    "779s: 'Xiao Yan Gu Qingyang team up' is likely a slip for Xiao Yan and Gu Xun Er.",
+    "972s: 'Axe Splitting the Heavens' is the nine-star energy body's move or Xun Er's; unclear.",
+    "1062s onward: advertisement, ending song and preview."
+  ]
+}

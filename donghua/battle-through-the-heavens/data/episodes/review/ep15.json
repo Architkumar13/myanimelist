@@ -1,0 +1,97 @@
+{
+  "ep": 15,
+  "title": "Brothers in Rock Desert City",
+  "summary": "Using Hai Bodong's map, Xiao Yan crosses the Tager Desert, cultivating his Purple Flame Dou Qi with the Burning Blood method, and reaches Two-Star Dou Shi. He saves a Desert Metal Mercenary Company squad from Mo Xing of the Sand Mercenary Company, after learning that its captains are Xiao Ding and Xiao Li. In Rock Desert City he defends Qing Lin, a half-human, half-snakeman girl whom the brothers took in as a maid. Xue Lan brings him to the company, and Xiao Ding and Xiao Li welcome their little brother with a night of drinking. They explain they founded the company as a safe place for him and ask him to stay. Xiao Yan says the Three-year Agreement is close and he is here to find a Heavenly Flame. Xiao Li spars with him using Triple Arc Lightning Dance, loses to Exploding Steps, and orders the whole company to back him.",
+  "events": [
+    "Xiao Yan crosses the desert using Hai Bodong's map and the Burning Blood method; he reaches Two-Star Dou Shi.",
+    "He rescues a Desert Metal squad from Mo Xing of the Sand Mercenary Company.",
+    "In Rock Desert City he stands up for Qing Lin, a half-snakeman maid.",
+    "Xue Lan brings him to the company; he is reunited with Xiao Ding and Xiao Li.",
+    "The brothers drink and talk about the past and the Nalan betrothal.",
+    "Xiao Yan shows them the map and says he seeks a Heavenly Flame.",
+    "Xiao Li spars with him and loses; the company is ordered to give Xiao Yan full support."
+  ],
+  "introduced": [
+    "Rock Desert City",
+    "Desert Metal Mercenary Company",
+    "Sand Mercenary Company",
+    "Xiao Ding",
+    "Xiao Li",
+    "Qing Lin",
+    "Xue Lan",
+    "Mo Xing",
+    "Dan Zi (named only)",
+    "Burning Blood",
+    "Purple Flame Dou Qi",
+    "Triple Arc Lightning Dance",
+    "Nalan Clan"
+  ],
+  "cultivation": "Xiao Yan reaches 2-star Dou Shi in the desert (134.2). Mo Xing is a Dou Shi.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "2-star Dou Shi",
+      "quote": "I'm almost there. / Two-Star Dou Shi.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mo-xing",
+      "name": "Mo Xing",
+      "realm": "Dou Shi",
+      "quote": "The leader is a Dou. / Dou Shi.",
+      "first": true,
+      "card": 215.5
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 385.0
+    },
+    {
+      "id": "xue-lan",
+      "name": "Xue Lan",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 449.5
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 512.2
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 496.2
+    }
+  ],
+  "flags": [
+    "315-319 'The leader is a Dou... Dou Shi' read as Mo Xing's rank.",
+    "106 'Give me Burning Blood' is a cultivation aid or method; what it is exactly is not explained.",
+    "270.5: Xiao Yan(?) objects to how a 'pet I captured from the snake tribe' is treated; speaker and pet unclear.",
+    "Xiao Ding is the eldest (650.2 'Your second brother has blamed me'); Xiao Li is the 'Second Captain' (855.5).",
+    "Qing Lin is named by a bystander (385.0), who says half-snakeman babies usually die before two."
+  ],
+  "changes": []
+}

@@ -1,0 +1,63 @@
+{
+  "ep": 13,
+  "title": "Blood Lotus Essence Pill",
+  "summary": "Two days out from Black Rock City on the flying transport, Yao Lao refines the Blood Lotus Essence Pill, a high-grade fifth-tier pill that perhaps only Gu He could make in the Jia Ma Empire. Using his Heavenly Flame he takes two and a half days instead of ten, and when the pill forms, the anomaly draws the three-tier alchemist's men and other passengers, who demand Xiao Yan hand it over. Xiao Yan fights them, and the Heavenly Flame burns a Da Dou Shi. When one survivor begs to serve him, Yao Lao warns him never to trust such people. At the edge of the Tager Desert, Xiao Yan dreams of Yun Zhi and Nalan Yanran, and Yao Lao tells him to let go of his worries before the Three-year Agreement. At a lonely map shop, Xiao Yan finds a fragment of a map to the Purifying Demonic Lotus Flame. The owner, who Yao Lao believes was once a Dou Huang, will not sell it.",
+  "events": [
+    "Yao Lao refines the fifth-tier Blood Lotus Essence Pill aboard the flying transport.",
+    "The pill's anomaly draws the three-tier alchemist's men, who demand it.",
+    "Xiao Yan fights them; the Heavenly Flame burns a Da Dou Shi.",
+    "Yao Lao tells Xiao Yan not to spare a follower who would betray him.",
+    "At the edge of the Tager Desert, Xiao Yan dreams of Yun Zhi and Nalan Yanran; Yao Lao encourages him.",
+    "At the Ancient Map shop Xiao Yan finds a Purifying Demonic Lotus Flame map fragment.",
+    "The owner, once a Dou Huang, refuses to sell it."
+  ],
+  "introduced": [
+    "Purifying Demonic Lotus Flame",
+    "map fragment",
+    "Ancient Map (shop)",
+    "Map of Tager Desert",
+    "Snakemen",
+    "snake repellents",
+    "Demon Lizard",
+    "fifth-tier pill",
+    "pill anomalies (above fourth tier)"
+  ],
+  "cultivation": "Xiao Yan is called 'the youngest second-tier alchemist' (226.0). The Blood Lotus Essence Pill is a high-grade fifth-tier pill.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 822.8
+    }
+  ],
+  "flags": [
+    "Hai Bodong is the map-shop owner but is not named until EP14 (640.0). First on screen here.",
+    "884.3: the owner 'may have once been a Dou Huang' is Xiao Yan's (or Yao Lao's) guess, not a stated realm.",
+    "The attackers are the three-tier alchemist's party from EP12 (234 'You guys are everywhere'); none named.",
+    "460-470: Xiao Yan's thought 'Is this the power of the Heavenly Flame? That's a Da Dou Shi' - the Heavenly Flame is Yao Lao's.",
+    "597.8 'You might end up like that alchemist / with an unexpected dagger in your chest' suggests the three-tier alchemist was stabbed by his own man; not shown clearly.",
+    "635-647: Yun Zhi and Nalan Yanran appear only in a dream; not listed in cast.",
+    "808.5: the flame's name is both spoken and in brackets."
+  ],
+  "changes": []
+}

@@ -1,0 +1,72 @@
+{
+  "ep": 192,
+  "title": "Zi Yan and the Dragon Bear",
+  "summary": "The hidden Dou Zun chases the alchemists through the Pill Realm, and they split up. He corners Xiao Yan near the beasts' territory, and Xiao Yan recognises him as Mu Gu, who calls himself Xiao Yan's martial uncle. Xiao Yan uses all three changes of the Sky Fire Three Mysterious Changes and the Sea Flipping Seal, but Mu Gu is still too strong. Xiong Zhan, an Ancient Dragon Bear and a Dou Zun, steps in on Zi Yan's orders, and Mu Gu withdraws to save his strength. Zi Yan says she has been waiting in the Pill Realm for Xiao Yan, and Xiao Yan tells her about the Heaven Demon Phoenix Wings he refined. Xiong Zhan opens his hoard of herbs, and Xiao Yan takes what the mission needs and the Heavenly Hemp Jade Stone Essence. In seclusion he refines the Earth Core Soul Essence and becomes an eight-tier alchemist, tests the Soul Palms on Xiong Zhan, and leaves the Pill Realm just before it closes.",
+  "events": [
+    "The alchemists run toward the beasts' territory and split up.",
+    "Mu Gu corners Xiao Yan and reveals himself.",
+    "Xiao Yan fights Mu Gu with all three changes of the Sky Fire Three Mysterious Changes.",
+    "Zi Yan's Xiong Zhan fights Mu Gu, who withdraws.",
+    "Zi Yan explains she was waiting for Xiao Yan.",
+    "Xiong Zhan gives Xiao Yan herbs from his hoard.",
+    "Xiao Yan refines the Earth Core Soul Essence and becomes an eight-tier alchemist.",
+    "Xiao Yan tests the Soul Palms and leaves the Pill Realm in time."
+  ],
+  "introduced": [
+    "Spectral Demonic Flame Arm",
+    "Ancient Dragon Bear",
+    "Supreme Magical Bear",
+    "Heaven Demon Phoenix Wings",
+    "Rising Dragon Flower Core",
+    "Scarlet Flame Fruit",
+    "Sulfur Flame Spirit Saliva",
+    "Heavenly Hemp Jade Stone Essence",
+    "Soul Attack"
+  ],
+  "cultivation": "Xiao Yan becomes an eight-tier alchemist by refining the Earth Core Soul Essence (1005s). Xiong Zhan is a Dou Zun ('he became a Dou Zun several years ago', 467-470s).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "mu-gu",
+      "name": "Mu Gu",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "xiong-zhan",
+      "name": "Xiong Zhan",
+      "realm": "Dou Zun",
+      "quote": "I bet he's already a Dou Zun. Well, he became a Dou Zun several years ago.",
+      "first": false
+    },
+    {
+      "id": "cao-ying",
+      "name": "Cao Ying",
+      "first": false
+    },
+    {
+      "id": "song-qing",
+      "name": "Song Qing",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10s [Episode 192] card; 15-55s recap of EP191. 51s spells Cao Ying as 'Cao Yin'.",
+    "130-131s: 'Ying. I'm sorry.' is taken as Song Qing.",
+    "230s: Mu Gu calls himself Xiao Yan's martial uncle, matching EP189's account that he came from Yao Chen's sect.",
+    "467-470s: the speakers judging Xiong Zhan are not named.",
+    "603-620s: Xiao Yan tells Zi Yan about the Heaven Demon Phoenix Wings; it is taken as the Bone Wings from EP150.",
+    "Being an eight-tier alchemist is an alchemist grade, not a realm, so it is not set as realm.",
+    "894-959s: the people waiting outside the Pill Realm (Cao Ying, Pill Tower elders, Xiao Yan's companions) are not named."
+  ]
+}

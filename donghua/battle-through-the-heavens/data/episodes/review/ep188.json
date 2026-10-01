@@ -1,0 +1,104 @@
+{
+  "ep": 188,
+  "title": "The Five Clans' Assessment",
+  "summary": "The Ye Clan came fifth in the last assessment and will lose its place among the five major clans if that happens again. Xiao Yan represents the Ye Clan against Dan Xuan of the Dan Clan, Bai Ying of the Bai Clan, Qiu Ji of the Qiu Clan and Cao Xiu of the Cao Clan, under Elder Sheng. In the soul-testing stone test, Xiao Yan breaks the stone, and Elder Sheng judges his soul at about the 14th level, beating Cao Ying's record of nine. In the soul-controlling test, he catches 93 soul measuring orbs, beating Cao Ying's record of 89. For the last test, the Cao Clan swaps in Cao Ying herself, and the others drop out. Xiao Yan takes all three of her Soul Palms and copies the Soul Skill as he watches. Cao Ying concedes, and the Ye Clan passes the assessment in first place.",
+  "events": [
+    "Ye Chong brings Xiao Yan to the assessment ground of the five major clans.",
+    "The representatives are named: Dan Xuan, Bai Ying, Qiu Ji, Cao Xiu, with Cao Ying watching.",
+    "Elder Sheng opens the three-part assessment.",
+    "Soul testing: Xiao Yan breaks the stone and is judged at about the 14th level.",
+    "Soul controlling: Xiao Yan catches 93 orbs, a new record.",
+    "Cao Ying swaps in for the final test, and the others quit.",
+    "Xiao Yan withstands Cao Ying's three Soul Palms and learns the technique.",
+    "The Ye Clan is declared first."
+  ],
+  "introduced": [
+    "Bai Ying",
+    "Qiu Ji",
+    "Cao Xiu",
+    "Cao Ying",
+    "Elder Sheng",
+    "soul testing stone",
+    "Soul Value",
+    "soul measuring orbs",
+    "soul steel",
+    "Soul Palm",
+    "Soul Perception",
+    "Spiritual Barrier"
+  ],
+  "cultivation": "Xiao Yan's Spiritual Strength is judged at 'more or less of 14th level' Soul Value (447s). Others: Qiu Ji 7th level, Bai Ying 8th, Cao Xiu middle of the 8th, Dan Xuan 9th; Cao Ying's record was 9th.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "ye-chong",
+      "name": "Ye Chong",
+      "first": false
+    },
+    {
+      "id": "xin-lan",
+      "name": "Xin Lan",
+      "first": false
+    },
+    {
+      "id": "dan-xuan",
+      "name": "Dan Xuan",
+      "first": false
+    },
+    {
+      "id": "dan-chen",
+      "name": "Dan Chen",
+      "first": false
+    },
+    {
+      "id": "bai-ying",
+      "name": "Bai Ying",
+      "first": true,
+      "card": 142
+    },
+    {
+      "id": "qiu-ji",
+      "name": "Qiu Ji",
+      "first": true,
+      "card": 159
+    },
+    {
+      "id": "cao-ying",
+      "name": "Cao Ying",
+      "first": true,
+      "card": 181
+    },
+    {
+      "id": "cao-xiu",
+      "name": "Cao Xiu",
+      "first": true,
+      "card": 214
+    },
+    {
+      "id": "cao-dan",
+      "name": "Cao Dan",
+      "first": false
+    },
+    {
+      "id": "elder-sheng",
+      "name": "Elder Sheng",
+      "first": true,
+      "card": 250
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10s [Episode 188] card; 15-56s recap of EP187.",
+    "131-132s: Xiao Yan notices a woman with 'a unique constitution'; taken as Dan Chen.",
+    "137-144s: Bai Ying is called 'he' and 'the brightest young man'.",
+    "Soul Values are Spiritual Strength test scores, not cultivation realms, so they are kept in cultivation only.",
+    "709s: someone decides to quit the third test; Bai Ying, Qiu Ji and Dan Xuan seem to drop out but this is not spelled out.",
+    "799s: onlookers compare the palms to what seven-tier high-rank alchemists could withstand.",
+    "1025s: Xiao Yan notes 'the Spiritual Barrier'; context unclear.",
+    "1145s: preview of the next episode; not counted."
+  ]
+}

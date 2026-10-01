@@ -1,0 +1,137 @@
+{
+  "ep": 30,
+  "title": "The Mo Clan of Yan City",
+  "summary": "Hai Bodong brings Luo Bu to the Desert Metal Mercenary Company, and Luo Bu admits the Mo Clan of Yan City took Qing Lin. Mo Cheng, called Executioner Mo, leads the clan and is an External Deacon of the Misty Cloud Sect. In his underground laboratory he makes Qing Lin contract a Black Magical Serpent to test her Triple Jade-Green Snake Flower Pupils. Hai Bodong guesses that Xiao Yan's Dou Huang-level power is not his own and says he is now a Two-Star Dou Huang, down from five stars. Xiao Yan offers him a fifth-tier Spiritual Recovery Purple Pill in a year if he serves as his bodyguard until then, and Hai Bodong agrees. The two sneak into the Mo Residence during Mo Cheng's 60th birthday banquet and find a lab full of human and beast experiments, but no Qing Lin. Nalan Yanran arrives at the banquet.",
+  "events": [
+    "Hai Bodong brings Luo Bu; Luo Bu says the Mo Clan took Qing Lin.",
+    "Mo Cheng returns to Yan City for his 60th birthday; Misty Cloud Sect guests are expected.",
+    "In the lab, Qing Lin contracts a Black Magical Serpent; Mo Cheng plans an experiment on her.",
+    "Hai Bodong says he is a Two-Star Dou Huang, sealed down from Five-Star.",
+    "Xiao Yan and Hai Bodong agree: one year as bodyguard for a Spiritual Recovery Purple Pill.",
+    "Masked, they search the Mo Residence; twelve guards are already dead, killed by an unknown Dou Huang.",
+    "They find the lab of experiments and take a jar as evidence.",
+    "Nalan Yanran arrives to congratulate Mo Cheng."
+  ],
+  "introduced": [
+    "Mo Cheng (Executioner Mo)",
+    "Mo Residence",
+    "Yan City",
+    "Four Large Clans of the north-east",
+    "External Deacon (Misty Cloud Sect)",
+    "Black Magical Serpent",
+    "Triple Jade-Green Snake Flower Pupils",
+    "Spiritual Recovery Purple Pill (fifth-tier)",
+    "Bo Er, Governor of Yan City",
+    "Ye Cong, leader of the Ye Clan",
+    "Ye Clan",
+    "Mo Clan ancestor's fusion research"
+  ],
+  "cultivation": "Hai Bodong is a Two-Star Dou Huang, sealed from Five-Star (704.2, 712.5).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": "2-star Dou Huang",
+      "quote": "Two stars",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "luo-bu",
+      "name": "Luo Bu",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 93.5
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mo-cheng",
+      "name": "Mo Cheng",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 280.5
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 396.2
+    },
+    {
+      "id": "flame-spirit-serpent",
+      "name": "Flame Spirit Serpent",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bo-er",
+      "name": "Bo Er",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 1096.5
+    },
+    {
+      "id": "ye-cong",
+      "name": "Ye Cong",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 1099.0
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 1138.0
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-78s is the end of EP29 (Xiao Yan breaks Mo Ran's Dou Qi Armor); the [Episode 30] card is at 78.",
+    "242: a bystander says 'our Mo City'; elsewhere it is Yan City.",
+    "The last part (from 978) repeats at the start of ep31.en.srt (0-164s); ep31 comes from a different upload.",
+    "Mo Ran is called 'First Elder Mo Ran' of the Mo Clan (186).",
+    "Whether Mo Ran dies in EP29/30 is not stated; Luo Bu says 'that Da Dou Shi you took out earlier' (155)."
+  ]
+}

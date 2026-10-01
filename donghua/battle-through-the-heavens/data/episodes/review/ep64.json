@@ -1,0 +1,89 @@
+{
+  "ep": 64,
+  "title": "Yun Leng Falls",
+  "summary": "Medusa faces Yun Shan, who sends Yun Yun to stop Xiao Yan from fusing his two Heavenly Flames. Yun Yun pleads with Xiao Yan, but he says the Xiao Clan's dead were innocent too. He holds back so as not to hurt the sect's disciples, and Yun Leng ambushes him. Xiao Yan throws the Angry Buddha Lotus Flame, which kills Yun Leng and wrecks much of the sect, while watching guests say his strength is close to the sect's own. Yun Shan swears Xiao Yan will die there and shows clones with the power of his true body, one of which keeps Medusa busy. Hai Bodong steps in with a Black Ice Shield but falls to Yun Shan's Large Wind Handprint, and Xiao Yan is left near death. Yao Lao wakes from his sleep, takes over Xiao Yan's body and meets Yun Shan's Wind's Peak, Killer Meteorite with a Flame Splitting Tsunami.",
+  "events": [
+    "Medusa challenges Yun Shan; Yun Shan orders Yun Yun to stop the flame fusion.",
+    "Yun Yun tries to talk Xiao Yan down; he refuses.",
+    "Yun Leng attacks from behind; Xiao Yan unleashes the Angry Buddha Lotus Flame.",
+    "Yun Leng dies and the sect is badly damaged; Xiao Yan spares the disciples.",
+    "Yun Shan vows to keep Xiao Yan; his clones engage Medusa and Hai Bodong.",
+    "Hai Bodong is struck down by the Large Wind Handprint.",
+    "Yao Lao awakens and takes over Xiao Yan's body.",
+    "Yun Shan's Wind's Peak, Killer Meteorite meets the Flame Splitting Tsunami."
+  ],
+  "introduced": [
+    "Yun Shan's clones",
+    "Black Ice Shield (Hai Bodong)",
+    "Large Wind Handprint",
+    "Wind's Peak, Killer Meteorite"
+  ],
+  "cultivation": "No ranks stated for Xiao Yan. With Yao Lao in control his power 'suddenly soared by several classes' (859); Yao Lao says his power is 'hardly even at 20-30% of my peak' (990).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-shan",
+      "name": "Yun Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-leng",
+      "name": "Yun Leng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-35s: card and recap; not counted.",
+    "396.5 'Old Leader, save me!' is untagged; I read it as Yun Leng just before he dies. His death is confirmed at 550 ('killed our elder') and in EP66's recap.",
+    "436-461: unnamed watchers praise Xiao Yan and say 'Hai Bodong's eye is sharp'; EP66 says Hai Bodong and 'Mr. Fa' (Fa Ma) saw the battle.",
+    "540.3 'Have Elder Gu He heal him' does not say who is to be healed.",
+    "Yun Shan's 'clone' (599.8) is described by Medusa as having the power of the true body; two clones are mentioned at 693.5."
+  ]
+}

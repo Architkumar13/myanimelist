@@ -1,0 +1,101 @@
+{
+  "ep": 146,
+  "title": "The Black Emperor Sect Auction",
+  "summary": "Xiao Yan's Zong Breaking Pill draws a crowd to the Black Emperor Pavilion. Little Fairy Doctor reveals she is a Dou Zong and drives them back, and Xiao Li, chief of the Xiao Gate, pulls his people away. Xiao Yan finishes the pill and holds off the strong souls that probe his room. Mo Tian Xing, head of the Black Emperor Sect, opens the auction the next day. Xiao Li outbids the mysterious alchemist for the Six Joint Body Flowing Ruler scroll, not knowing the alchemist is his brother. Xiao Yan trades three Fighting Spirit Pills and two Mighty Huang Pills for a Magical Beast carcass that once neared Rank Eight. The Bodhisattva Body Transformation Saliva is the last item, and bidders must make their offers alone in a sealed space.",
+  "events": [
+    "The pill's aroma brings a crowd; Little Fairy Doctor shows she is a Dou Zong",
+    "Xiao Li of the Xiao Gate backs off, with Su Qian beside him",
+    "Xiao Yan finishes the Zong Breaking Pill and fends off spying souls",
+    "Little Fairy Doctor names Mo Tian Xing and Fang Yan's strength",
+    "Xiao Li buys the Six Joint Body Flowing Ruler for 3.1 million",
+    "Xiao Yan trades pills for the Magical Beast carcass; Zi Yan feels uneasy",
+    "The Bodhisattva Body Transformation Saliva goes up for sealed bids"
+  ],
+  "introduced": [
+    "Xiao Li (chief of the Xiao Gate)",
+    "Mo Tian Xing (head of the Black Emperor Sect)",
+    "Six Joint Body Flowing Ruler (Di Class Middle Rank Ruler Dou Skill)",
+    "Six Joint Zun Zhe",
+    "Magical Beast carcass (near Rank Eight)",
+    "Monster Core",
+    "Jade Bone Wings",
+    "Sky Bird Nine Flying Wings",
+    "Flame Creation Skill (Di Class Middle Rank, Demon Flame Valley)",
+    "Mighty Huang Pill"
+  ],
+  "cultivation": "Little Fairy Doctor is a Dou Zong. Mo Tian Xing is about a Four-Star Dou Zong. Fang Yan is a Half-Step Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "realm": "Dou Zong",
+      "quote": "This lady is a strong Dou Zong!",
+      "first": false,
+      "card": 98
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false,
+      "card": 131
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false,
+      "card": 45
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "look": "hidden in a gray robe",
+      "first": false,
+      "card": 38
+    },
+    {
+      "id": "fang-yan",
+      "name": "Fang Yan",
+      "realm": "Half-Step Dou Zong",
+      "quote": "Demon Flame Valley wouldn't only send Fang Yan, a Half-Step Dou Zong.",
+      "first": false,
+      "card": 978
+    },
+    {
+      "id": "mo-ya",
+      "name": "Mo Ya",
+      "first": false,
+      "card": 280
+    },
+    {
+      "id": "mo-tian-xing",
+      "name": "Mo Tian Xing",
+      "realm": "4-star Dou Zong",
+      "quote": "He is about on par with me, a Four-Star Dou Zong probably.",
+      "first": true,
+      "card": 672
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false,
+      "card": 493
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false,
+      "card": 890
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-180s, before the [Episode 146] card, are this episode's opening; the recap runs 191-226s.",
+    "38-48s: 'First Elder... I'm sensing something dangerous about the gray-robed man' and 'I didn't expect to see Su Qian here too' are spoken by two different sides; the speakers are not named.",
+    "564s: Mo Tian Xing's realm is Little Fairy Doctor's estimate ('probably'). She puts him 'about on par with me'; ep151 calls her 'a mere Four-Star Dou Zong'.",
+    "676s: the leader is subtitled 'Mo Tian Xiang' once and 'Mo Tian Xing' elsewhere (672, 558).",
+    "593-598s: the elder with Xiao Li in 'a strange hat' is First Elder Su Qian.",
+    "949s: '(These Jade Bone Wings are just what I need to refine the Sky Bird Nine Flying Wings.)' is Xiao Yan's thought about the carcass.",
+    "978s: 'Elder Fang' offers the Flame Creation Skill; this is Fang Yan."
+  ]
+}

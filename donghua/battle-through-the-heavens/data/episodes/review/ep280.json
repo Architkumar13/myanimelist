@@ -1,0 +1,108 @@
+{
+  "ep": 280,
+  "title": "Rescue at the Gu Realm",
+  "summary": "Hun Sha keeps chasing Xiao Yan, Yao Tian and Yao Ling toward the Gu Clan's realm, while Xiao Yan struggles to refine the ninth-grade Xuan Dan with Xiao Yi's help. Xiao Yan sends Yao Tian ahead for help and hides with Yao Ling, whose blood can nourish the soul. Hun Sha finds them, smashes Xiao Yan's puppets and nearly kills Yao Ling when she tries to self-destruct. Xiao Yan's power surges to Six-Star Dou Sheng strength from the Xuan Dan, and he badly wounds Hun Sha. Gu Clan elder Gu Dao and Xun Er arrive, and Hun Sha leaves vowing revenge. In the Gu Realm, Clan Chief Gu Yuan praises Xiao Yan's progress and agrees to shelter the Medicine Clan survivors, and he sends Ling Quan to call the Lei and Yan Clans. Xiao Yan tells him the Hun Clan is after the Tuoshe Ancient Emperor Jade and the ancient clans' bloodlines, and that the Devouring Spirit Clan has returned.",
+  "events": [
+    "Hun Sha chases the three toward the Gu Realm.",
+    "Xiao Yan sends Yao Tian ahead and hides with Yao Ling.",
+    "Hun Sha finds them and breaks Xiao Yan's puppets.",
+    "Xiao Yan's power surges from the Xuan Dan and he wounds Hun Sha.",
+    "Gu Dao and Xun Er arrive; Hun Sha retreats.",
+    "Gu Yuan welcomes Xiao Yan and shelters the Medicine Clan survivors.",
+    "Ling Quan is sent to call the Lei and Yan Clans.",
+    "Xiao Yan reports the Devouring Spirit Clan."
+  ],
+  "introduced": [
+    "Gu Dao",
+    "Gu Realm",
+    "Blood God Rifts the Sky"
+  ],
+  "cultivation": "Hun Sha calls out 'Six-Star Dou Sheng / You refined a ninth-grade Xuan Dan' (497.4-499.7) when Xiao Yan's power surges. Afterwards Xiao Yan says he has refined only a portion of the Xuan Dan (695.0, 710.2).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Six-Star Dou Sheng (strength, from the Xuan Dan)",
+      "quote": "Six-Star Dou Sheng / You refined a ninth-grade Xuan Dan.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ling",
+      "name": "Yao Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-tian",
+      "name": "Yao Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-yi",
+      "name": "Xiao Yi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-sha",
+      "name": "Hun Sha",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "gu-dao",
+      "name": "Gu Dao",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 614.2
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "gu-yuan",
+      "name": "Gu Yuan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ling-quan",
+      "name": "Ling Quan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-43s is a recap of EP279. The track calls Hun Sha 'Soul Fiend', 'Soul Demon' and 'evil spirit', Gu Dao 'Ancient Road', and the Gu Realm 'ancient realm'.",
+    "497.4 'Six-Star Dou Sheng' is taken as a temporary surge from the Xuan Dan; EP281 does not confirm a lasting breakthrough, and EP272-273 had him at late Five-Star.",
+    "The line 'Brother Xiao Yan, I'm late' (644.7) is Xun Er, per EP281's recap ('Xun'er Ancient Road provides timely assistance').",
+    "453.4 'Drug addicts buried with their families' is a mistranslation (probably 'the Medicine Clan buried with their kin').",
+    "440-475s: the one who threatens to self-destruct is read as Yao Ling (Hun Sha: 'Want to self-destruct / It's late ... We'll send you and your people back to each other'); the speakers are not labelled.",
+    "600.5 'Blood God Rifts the Sky' is taken as Hun Sha's attack.",
+    "780.0 the Gu Clan had already taken in 'another member of your medicine clan'; who is not said.",
+    "815.0 'Lingquan' = Ling Quan.",
+    "1003.0 'the Stone Spirit Clan' is read as the Stone Clan (and possibly the Ling Clan)."
+  ]
+}

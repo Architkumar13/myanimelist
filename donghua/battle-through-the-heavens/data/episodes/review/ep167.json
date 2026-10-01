@@ -1,0 +1,101 @@
+{
+  "ep": 167,
+  "title": "Feng Qing Er",
+  "summary": "Xiao Yan's first lightning avatar is only at Dou Ling, so on Tian Huo Zun Zhe's advice he tempers it with the Fallen Heart Flame, and in two months he matches the avatar Fei Tian took five years to temper. At the Heaven Eye Mountain Range, an Energy Tide shuts out strong outside experts, so only young contenders can enter. Feng Qing Er of the Wind Lightning Pavilion arrives on a Seven-Colored Soul Crane with Elder Mu and Elder Huo, who name the other pavilions' entrants: Tang Ying of the Ten Thousand Sword Pavilion, Wang Chen of the Yellow Spring Pavilion and Mu Qing Luan of the Falling Star Pavilion. When the range opens, Feng Qing Er races Xiao Yan with the Three Thousand Lightning Movement, names him in front of the crowd, and leaves their score for the Blood Pool. Lost in the foggy maze, Xiao Yan meets Tang Ying, who hopes to see him at the Heaven Mountain Stage. He then finds Nalan Yanran fighting off Wang Chen and Huang Tian of the Ground Spirit Gate, who want her Psychic White Fox, and steps in, and she recognizes him.",
+  "events": [
+    "Xiao Yan's avatar is only at Dou Ling; he tempers it with the Fallen Heart Flame.",
+    "In two months he reaches the level of Fei Tian's avatar.",
+    "Crowds gather at the Heaven Eye Mountain Range; the Energy Tide keeps strong experts out.",
+    "Feng Qing Er arrives on the Seven-Colored Soul Crane with Elder Mu and Elder Huo.",
+    "Elder Mu lists Tang Ying, Wang Chen and Mu Qing Luan as rivals.",
+    "Feng Qing Er chases Xiao Yan with the Three Thousand Lightning Movement and exposes his name.",
+    "Lost in the fog, Xiao Yan meets Tang Ying.",
+    "He steps in when Wang Chen and Huang Tian attack Nalan Yanran for her Psychic White Fox."
+  ],
+  "introduced": [
+    "Seven-Colored Soul Crane",
+    "Feng Qing Er",
+    "Elder Mu",
+    "Elder Huo",
+    "Energy Tide",
+    "Wang Chen",
+    "Mu Qing Luan",
+    "Sky Fountain Sword",
+    "Tang Ying",
+    "Heaven Mountain Stage",
+    "Wind Spirit Fractal Sword",
+    "Psychic White Fox",
+    "Huang Tian",
+    "Ground Spirit Gate",
+    "Ground Drawing Prison",
+    "Earth Melting Skill"
+  ],
+  "cultivation": "Xiao Yan's new lightning avatar is at Dou Ling level.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "feng-qing-er",
+      "name": "Feng Qing Er",
+      "first": true,
+      "card": 361
+    },
+    {
+      "id": "elder-mu",
+      "name": "Elder Mu",
+      "first": true,
+      "card": 361
+    },
+    {
+      "id": "elder-huo",
+      "name": "Elder Huo",
+      "first": true,
+      "card": 361
+    },
+    {
+      "id": "tang-ying",
+      "name": "Tang Ying",
+      "first": true,
+      "card": 775
+    },
+    {
+      "id": "wang-chen",
+      "name": "Wang Chen",
+      "first": true,
+      "card": 859
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "first": false
+    },
+    {
+      "id": "huang-tian",
+      "name": "Huang Tian",
+      "first": true,
+      "card": 959
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: moved the Gray Wolf King's promise to EP166 (the wolf is out of the cast); added from EP168 the meeting with Tang Ying and the start of the fight over Nalan Yanran's Psychic White Fox (Tang Ying, Wang Chen, Huang Tian and Nalan Yanran join the cast); card times moved to the new clock."
+  ],
+  "flags": [
+    "0-44s is the recap; 26s calls the Three Thousand Lightning Illusionary Body a 'Di Class High Rank Dou Skill', while EP163 said 'comparable to a Tian Class Dou Skill'.",
+    "345s: 'Miss Feng' from EP165 is confirmed here as Feng Qing Er.",
+    "361-362s: a joint name card '[Elder Mu, Elder Huo, Feng Qing Er]'.",
+    "438s: Elder Mu thinks Xiao Yan only escaped Fei Tian with help.",
+    "753-778s: Tang Ying is clearly a man here ('He drew his sword', 'So he is Tang Ying'), but EP165 at 894s calls Tang Ying 'She'. Treated as one male character; EP165's pronoun is likely a slip.",
+    "845s: 'Wind Spirit Fractal Sword!' is followed by Xiao Yan's 'Nalan Yanran?'; taken as her move.",
+    "859s: name card '[Wang Chen]'. 959s: Huang Tian of the Ground Spirit Gate names himself; Wang Chen is helping his group.",
+    "Nalan Yanran is a returning character; first: false."
+  ]
+}

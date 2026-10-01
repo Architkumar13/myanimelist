@@ -1,0 +1,106 @@
+{
+  "ep": 31,
+  "title": "Executioner Mo Unmasked",
+  "summary": "Nalan Yanran and Elder Ge Ye of the Misty Cloud Sect attend Mo Cheng's birthday banquet. Mo Cheng announces the Mo Alliance to unite the north-eastern Jia Ma Empire, and several forces join. A masked Xiao Yan with Yao Lao's power breaks in, uses Vacuum Hand, and demands Qing Lin, calling Yun Yun a blind old woman. Nalan Yanran defends her master and Mo Cheng's good name. Hai Bodong reveals a beast experiment from Mo's laboratory, and the Misty Cloud Sect withdraws its support. Mo Cheng turns himself into a half-human, half-beast monster, eats one of his own men, and flees with Qing Lin. He hides inside an Isolation Shield that even the Heavenly Flame cannot break.",
+  "events": [
+    "Nalan Yanran and Elder Ge Ye arrive at the Mo Residence.",
+    "Mo Cheng announces the Mo Alliance; Tao Homestead, Black Water Ridge and Feilun Castle join.",
+    "Xiao Yan, masked and with Dou Huang power, demands Qing Lin and insults Yun Yun.",
+    "Nalan Yanran tries to stop him; Mo Cheng claims he is a man of justice.",
+    "Xiao Yan and Hai Bodong show a lab experiment; the Misty Cloud Sect leaves.",
+    "Mo Cheng becomes a half-beast monster and eats one of his men.",
+    "He grabs Qing Lin and hides in an Isolation Shield."
+  ],
+  "introduced": [
+    "Mo Alliance",
+    "Tao Homestead",
+    "Black Water Ridge",
+    "Feilun Castle",
+    "Isolation Shield (blocks attacks below Dou Zong and Heavenly Flames)",
+    "Ge Ye"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mo-cheng",
+      "name": "Mo Cheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 216.2
+    },
+    {
+      "id": "ge-ye",
+      "name": "Ge Ye",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 239.4
+    },
+    {
+      "id": "bo-er",
+      "name": "Bo Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ye-cong",
+      "name": "Ye Cong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-193s repeats the end of EP30 (the lab and Nalan Yanran's arrival); the [Episode 31] card is at 193.2.",
+    "Ge Ye is named 'Elder Ge Ye' (239.4) and 'Mr. Ge' (765.2); he has appeared in earlier episodes.",
+    "Xiao Yan's Dou Huang strength here is Yao Lao's power (EP30 Hai Bodong).",
+    "1068: Yao Lao's thought 'It's a soul.' about the Isolation Shield is unclear.",
+    "The next lines continue straight into ep32.en.srt (0-156s, before the [Episode 32] card), which is counted as the end of this episode: Lu Man takes Qing Lin out of the shield."
+  ]
+}

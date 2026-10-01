@@ -1,0 +1,76 @@
+{
+  "ep": 236,
+  "title": "The Illusion at the Tree",
+  "summary": "Xiao Yan's group, the Hun Clan and the Heaven Demon Phoenix Tribe each take on a Ban Sheng puppet at the Bodhisattva Ancient Tree. The puppets feel no pain and can create their own space. Hun Yu tries to revive his clan's ancestor and loses many men. Xiao Yan's side cuts the strings that tie its puppet to the tree, and he finishes it with the Six Joint Body Flowing Ruler, the King Kong Glass Body and an Octane Blast. Xun Er and Gu Qing Yang go on with him toward the tree. Near it, Xiao Yan falls into an illusion where the Hall of Souls hurts his father and Yao Lao, and he goes into a rage. The Bodhisattva Seed brings him out before he becomes a puppet himself.",
+  "events": [
+    "The three sides split up to fight the three Ban Sheng puppets.",
+    "A puppet opens its own space around Xiao Yan's group.",
+    "Hun Yu tries to revive the Hun Clan ancestor and fails.",
+    "The group cuts the strings linking their puppet to the tree.",
+    "Xiao Yan beats it with the Six Joint Body Flowing Ruler, King Kong Glass Body and Octane Blast.",
+    "Only those above Six-Star Dou Zun go on; Xun Er and Gu Qing Yang join Xiao Yan.",
+    "Xiao Yan is caught in an illusion of the Hall of Souls hurting his father and Yao Lao.",
+    "The Bodhisattva Seed frees him."
+  ],
+  "introduced": [
+    "Dragon-Phoenix Ancient Armor"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "first": false
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "first": false
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false
+    },
+    {
+      "id": "gu-qing-yang",
+      "name": "Gu Qing Yang",
+      "first": false
+    },
+    {
+      "id": "hun-yu",
+      "name": "Hun Yu",
+      "first": false
+    },
+    {
+      "id": "jiu-feng",
+      "name": "Jiu Feng",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-45s is a recap of EP235.",
+    "The file is short (106 lines, ends at 965s); the episode seems to end on the illusion. EP237's recap matches.",
+    "522s: 'Dragon-Phoenix Ancient Armor!' and 624s 'Good thing I have Dragon-Phoenix Ancient Armor' - speaker unclear; possibly Jiu Feng of the Heaven Demon Phoenix Tribe.",
+    "697s: 'ancient three' is a typo for 'ancient tree'; 695s calls the puppets 'Dou Sheng puppets' though they are Ban Sheng elsewhere.",
+    "714s: 'Marshal Qing Yang and I will go in' and 718s 'Yes, Young Lady' - Xun Er speaking. 704s: the Flower Sect asks its leader Yun Yun to go with Xiao Yan.",
+    "Medusa and Little Fairy Doctor are not named in this file; included as part of the group."
+  ]
+}

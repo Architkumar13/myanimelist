@@ -1,0 +1,86 @@
+{
+  "ep": 170,
+  "title": "Dou Zong at the Bottom of the Blood Pool",
+  "summary": "Only eight people may enter the Heavenly Mountain Blood Pool, and the group is cut down to eight while Nalan Yanran keeps her place. Inside, Mu Qing Luan steals energy crystals from Feng Qing Er, and Xiao Yan dives alone past the spatial barrier, where his Heavenly Flame shields him from the Fire Poison. He sends out his Three Thousand Lightning Illusionary Body avatar to gather crystals faster. After two and a half months, when everyone else has left, he breaks through to Dou Zong. The breakthrough sends his Soul Power to the Spiritual Handprint Yao Lao left, and he sees his master in a Hall of Souls prison before Qin Tian drives him out. Afterward Jin Shi makes him a lifelong friend of the Gold Swallowing Mouse Tribe, and Jin Gu begins to tell him about the Gu Clan and its Dou Di bloodline.",
+  "events": [
+    "The contenders argue that one of the nine must drop out; Nalan Yanran refuses to give up her place.",
+    "Feng Qing Er and Xiao Yan trade threats before the pool opens.",
+    "Mu Qing Luan robs Feng Qing Er of energy crystals with a Wind Lightning Slash and flees.",
+    "Xiao Yan passes the spatial barrier and uses his avatar to gather crystals amid the Fire Poison.",
+    "After two and a half months Xiao Yan breaks through to Dou Zong.",
+    "Through Yao Lao's Spiritual Handprint he sees Yao Lao imprisoned; Qin Tian of the Hall of Souls attacks his soul.",
+    "Qin Tian presses Yao Lao to join the Hall of Souls; Yao Lao waits for his disciple.",
+    "Jin Shi thanks Xiao Yan, and Jin Gu starts explaining the Gu Clan."
+  ],
+  "introduced": [
+    "Heavenly Mountain Blood Pool (entered)",
+    "energy crystals",
+    "Wind Lightning Slash",
+    "spatial barrier",
+    "Spiritual Handprint",
+    "Qin Tian",
+    "Soul Fluctuation",
+    "Dou Di bloodline",
+    "three great ancient families of the Magical Beast World"
+  ],
+  "cultivation": "Xiao Yan breaks through from Nine-Star Dou Huang to Dou Zong at the bottom of the Blood Pool, the first person to do so there.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Zong",
+      "quote": "You managed to have a breakthrough / to become a Dou Zong",
+      "first": false
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "first": false
+    },
+    {
+      "id": "feng-qing-er",
+      "name": "Feng Qing Er",
+      "first": false
+    },
+    {
+      "id": "mu-qing-luan",
+      "name": "Mu Qing Luan",
+      "first": false,
+      "card": 318
+    },
+    {
+      "id": "jin-shi",
+      "name": "Jin Shi",
+      "first": false
+    },
+    {
+      "id": "jin-gu",
+      "name": "Jin Gu",
+      "first": false,
+      "card": 1026
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false,
+      "card": 750
+    },
+    {
+      "id": "qin-tian",
+      "name": "Qin Tian",
+      "first": true,
+      "card": 881
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Opening narration 15-40s is a recap of EP169.",
+    "107-160s: who is removed to bring the group to eight is not clear. 'Now, we have the right number' (155s) and 'Now you're qualified to get killed by me' (161s) have no named speakers. EP171's recap says Nalan Yanran earned her place with Xiao Yan's support.",
+    "166-192s: the exchange about borrowing others' strength reads as Xiao Yan and Feng Qing Er; 'Miss Feng' at 191s confirms one side.",
+    "91s: 'Sooner or later, I'll kill him.' Speaker not named (possibly Feng Qing Er or Wang Chen).",
+    "813-830s: Qin Tian is named by Xiao Yan at 881s; he guards Yao Lao and says their 'chief' wants Yao Lao's alchemy.",
+    "1055s: the list of those who fear the Gu Clan says 'the Pill Hall'; it may mean the Pill Tower.",
+    "Tang Ying and Wang Chen are inside the pool but have no clear named lines; left out of the cast."
+  ]
+}

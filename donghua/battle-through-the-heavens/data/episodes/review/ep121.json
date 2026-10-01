@@ -1,0 +1,77 @@
+{
+  "ep": 121,
+  "title": "Ghost Town",
+  "summary": "After two months of flying, Xiao Yan reaches Ghost Town on the Jia Ma Empire's border. There Meng Li, backed by the Misty Cloud elder Yun Fan, is trying to seize military command from the commander Mu Tie. Xiao Yan steps in, his followers crush the Misty Cloud force, and he runs down a fleeing Misty Cloud man until he surrenders. Mu Tie, who once let Xiao Yan escape, explains how the Misty Cloud Sect grew, attacked the Xiao Clan, and pushed Yun Yun out as leader. He adds that Ya Fei now heads the Mite'er family and that Yun Shan will strike them first. In the Misty Cloud Sect, Yun Shan orders Ghost Town taken within five days and readies his men against the Mite'er family. Xiao Yan hurries to the capital.",
+  "events": [
+    "Xiao Yan's group arrives at Ghost Town",
+    "Meng Li and Misty Cloud elder Yun Fan try to take power from Mu Tie",
+    "Xiao Yan intervenes and Mu Tie recognises him",
+    "Xiao Yan's followers and Xiao Li rout the Misty Cloud force",
+    "Xiao Yan catches a fleeing Misty Cloud man, who surrenders",
+    "Yun Shan orders Ghost Town taken and prepares to attack the Mite'er family",
+    "Mu Tie tells Xiao Yan about the past three years",
+    "Xiao Yan sets off for the capital"
+  ],
+  "introduced": [
+    "Meng Li",
+    "Yun Fan (Misty Cloud Sect elder)",
+    "City Lord Residence (Ghost Town)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "meng-li",
+      "name": "Meng Li",
+      "first": true,
+      "card": 294.4
+    },
+    {
+      "id": "mu-tie",
+      "name": "Mu Tie",
+      "first": false,
+      "card": 306.7
+    },
+    {
+      "id": "yun-fan",
+      "name": "Yun Fan",
+      "first": true,
+      "card": 355.7
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "yun-shan",
+      "name": "Yun Shan",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-153s of ep121.en.srt is the end of EP120.",
+    "1135-1223s is a preview montage of lines from EP122-EP127 (Yun Yun 'Don't come back', the wedding thought, 'two strikes', 'Let's end all the grievances'); not counted.",
+    "327-333s: 'You're just a strong Dou Ling' / 'You have just become a Dou Wang': which of Meng Li and Mu Tie is the Dou Ling and which the new Dou Wang is unclear; no realm recorded for either.",
+    "744.5 'You're just a Three-Star Dou Wang': said to the fleeing Misty Cloud man, read as Yun Fan (Yun Fan told Meng Li to run while he held them off). Not certain, so no realm recorded.",
+    "480.7-483.9 'that woman' is read as Medusa.",
+    "955.5: Hai Bodong called 'still a strong Dou Huang' (not on screen).",
+    "531.8: [Ghost Town] card is in a flashback to Mu Tie releasing Xiao Yan three years ago."
+  ]
+}

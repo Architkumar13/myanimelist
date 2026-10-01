@@ -1,0 +1,91 @@
+{
+  "ep": 63,
+  "title": "Xiao Yan Goes After Yun Leng",
+  "summary": "Yun Yun asks Yun Leng why he, Yun Lei and Yun Sheng left the Misty Cloud Sect, and he calls it a private affair. In Wu Tan City, Xiao Yan learns that Yun Leng took his father, and the Xiao Clan vows to get Xiao Zhan back. He retakes the clan's stores from the Ao Ba Clan and sends his people east to Rock Desert City, where Xiao Ding and Xiao Li are, leaving the Mite'er family to run the stores. The ancestral jade shows Xiao Zhan's soul light growing weaker, so Xiao Yan flies to the Misty Cloud Sect with Medusa. At the gate he calls out Yun Leng and meets Yun Yun, the sect leader, whom he knew as Yun Zhi while she knew him as Yao Yan. Yun Shan offers money in place of justice, and Yun Leng boasts that he may have killed Xiao Zhan. Xiao Yan begins fusing his two Heavenly Flames, and the sect moves to seize him.",
+  "events": [
+    "Yun Yun questions Yun Leng about leaving the sect with Yun Lei and Yun Sheng.",
+    "The Xiao Clan learns the three attackers were from the Misty Cloud Sect and vows to save Xiao Zhan.",
+    "Xiao Yan retakes the clan's workshops and stores from the Ao Ba Clan and sends the clan to Rock Desert City.",
+    "Hai Bodong sees Xiao Yan heading for the Misty Cloud Sect and decides to follow.",
+    "Yun Shan rebukes Yun Leng for attacking the Xiao Clan without permission.",
+    "Xiao Yan arrives with Medusa and demands Yun Leng; Yun Yun turns out to be 'Yun Zhi'.",
+    "Yun Shan offers compensation; Xiao Yan refuses and Yun Leng taunts him about his father.",
+    "Xiao Yan starts fusing two Heavenly Flames as the sect closes in."
+  ],
+  "introduced": [
+    "Rock Desert City",
+    "Ao Ba Clan",
+    "Mite'er Auction House",
+    "Shadow Guards (Hai Bodong's)",
+    "eastern region of the Empire"
+  ],
+  "cultivation": "Xiao Zhan \"is only a Da Dou Shi\"; Yun Leng, Yun Lei and Yun Sheng are called \"three Dou Wangs\" (863).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-leng",
+      "name": "Yun Leng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-shan",
+      "name": "Yun Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-clan-first-elder",
+      "name": "Xiao Clan First Elder",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-34s: card and recap of EP62; not counted.",
+    "The alias Yun Yun knew him by is 'Yao Yan' (692.7); in the capital he was 'Yan Xiao'.",
+    "374.7 and 379.0 carry stray speaker tags '[Ao]' and '[Xiao]' on narration lines.",
+    "545.3: someone tells 'Mr. Hai' not to expose the Shadow Guards; the speaker is unnamed (possibly Ya Fei).",
+    "126-190: I read the lines warning against killing Yun Leng as the Xiao Clan First Elder's; the speakers are untagged.",
+    "715-718: Yun Yun mentions 'the Xiao Yan Yanran spoke of'; Nalan Yanran herself is not clearly on screen."
+  ]
+}

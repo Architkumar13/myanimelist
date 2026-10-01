@@ -1,0 +1,54 @@
+{
+  "ep": 19,
+  "title": "Raging Sandstorms",
+  "summary": "Hai Bodong is poisoned and hunted by the masked Snakemen warrior and the whole Snakemen tribe, and he wants to leave the desert fast. The snakewoman with no memory follows him. At a caravan she talks the traders into giving food, but Hai Bodong finds they are Snakemen traffickers. Three of them reveal themselves as Dou Wang and attack him together with wind, lightning and earth attributes, and he kills them with the Frozen Ice Formation. She stops him from killing the captured people and treats his poisoned wound by sucking out some poison at his hidden supply base. He says they will part in the city the Snakemen dare not enter. The Snakemen find their trail, Medusa vows to bring the traitor back, and the warrior catches them in the desert.",
+  "events": [
+    "Hai Bodong leaves the snakewoman behind, but she follows him; she asks again for his name.",
+    "At a caravan she trades kindness for food while he wants to take it by force.",
+    "The traders are Snakemen traffickers; three Dou Wang among them attack Hai Bodong together.",
+    "Hai Bodong defeats them with the Frozen Ice Formation.",
+    "She begs him to spare the captives; he says killing everyone is his rule.",
+    "At his supply base she treats his poisoned wound and asks if he is happy.",
+    "Medusa says she will bring the traitor back; the Snakemen and the warrior catch up with them."
+  ],
+  "introduced": [
+    "Frozen Ice Formation",
+    "Snakemen traffickers (caravan)",
+    "Snake Spirit (Snakemen belief)"
+  ],
+  "cultivation": "The three caravan attackers are Dou Wang ('The three of us at level Dou Wang', 554.8).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "die",
+      "name": "Die",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-168s is before the '[Preview of the next episode]' line and the [Episode 19] card (171s); treated as the end of EP18 or a preview.",
+    "The ceremony and 'Why do I always end up like this?' lines (744-751) and Medusa's 'Stop it now!' (1069-1074) come back in EP20 as part of the twins' story; the order of scenes is not straight.",
+    "638-639: someone tells him to search for detoxification pills; Hai Bodong is poisoned from here on.",
+    "'Prevent this human from building up Advanced Dou Skills' (1174.8): Snakemen guards attacking Hai Bodong."
+  ]
+}

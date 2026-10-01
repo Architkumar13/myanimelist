@@ -1,0 +1,114 @@
+{
+  "ep": 40,
+  "title": "Liu Ling and Princess Yue Er",
+  "summary": "At the Nalan Residence, Gu He's disciple Liu Ling brings a pill for Nalan Jie and asks to meet the alchemist with the Heavenly Flame, but Xiao Yan gives him little. Nalan Jie, nearly cured, gives Xiao Yan herbs and promises his help in future. Nalan Yanran tells Liu Ling she sees him only as a friend, and he vows to prove himself by winning the Alchemist Conference. Refining the Searing Poison lifts Xiao Yan to Seven-Star Dou Shi, but the poison grows stronger each time he treats Nalan Jie and brings a nightmare of Nalan Yanran calling him trash. At the Alchemist Association's internal test, Princess Yue Er of the Jia Ma Imperial Family, a third-tier alchemist and disciple of Chairman Fa Ma, demands to see his Heavenly Flame and attacks him when he refuses. Fa Ma and Gu He arrive, Gu He asks to see the flame too, and when Xiao Yan refuses again Gu He wonders whether they have met before.",
+  "events": [
+    "Liu Ling brings Gu He's pill to the Nalan Residence and meets Yan Xiao.",
+    "Nalan Jie rewards Xiao Yan with herbs; one more treatment is needed.",
+    "Nalan Yanran turns Liu Ling down; he vows to win the Alchemist Conference.",
+    "Xiao Yan breaks through to Seven-Star Dou Shi using the poison's energy.",
+    "The poison gives him a nightmare of Nalan Yanran and his father; Hai Bodong urges him to stop.",
+    "At the internal test the imperial carriage brings Princess Yue Er, who attacks Yan Xiao.",
+    "Fa Ma and Gu He arrive; Gu He asks to see the Heavenly Flame and is refused."
+  ],
+  "introduced": [
+    "Liu Ling",
+    "Princess Yue Er",
+    "Fa Ma (chairman of the Alchemist Association)",
+    "internal test of the Alchemist Conference",
+    "Jia Ma Imperial Family carriage"
+  ],
+  "cultivation": "Xiao Yan breaks through to Seven-Star Dou Shi by refining the Searing Poison's energy. Princess Yue Er was promoted to third-tier alchemist half a year ago.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Seven-Star Dou Shi",
+      "quote": "I actually managed to break through / to become a Seven-Star Dou Shi",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-ling",
+      "name": "Liu Ling",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 236.7
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-jie",
+      "name": "Nalan Jie",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-zhan",
+      "name": "Xiao Zhan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yue-er",
+      "name": "Yue Er",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 916.7
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    },
+    {
+      "id": "gu-he",
+      "name": "Gu He",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ao-tuo",
+      "name": "Ao Tuo",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-122s is the end of EP39; the [Episode 40] card is at 134.",
+    "The last part of this episode is at the start of ep41.en.srt (0-115s): Fa Ma and Gu He arriving and Gu He asking to see the flame. Fa Ma's name card is at ep41.en.srt 58.0. EP41 replays this after its card.",
+    "916.7: the name card before Princess Yue Er's first line reads '[Tian Yue]'; she is called Princess Yue Er throughout. The card may be an OCR or translation slip.",
+    "ep1.en.srt 693 has a '[Liu Ling]' caption on a line in the engagement scene; it looks like a mislabel, so Liu Ling is counted as first on screen here.",
+    "Xiao Zhan appears only in the nightmare (704-706), not in person.",
+    "1067: someone notes 'This scent... It's not the Heavenly Flame' when Xiao Yan defends against Yue Er; he is using another flame, not the Green Lotus Core Flame."
+  ]
+}

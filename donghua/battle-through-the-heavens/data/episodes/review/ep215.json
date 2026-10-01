@@ -1,0 +1,99 @@
+{
+  "ep": 215,
+  "title": "Melting the Crystal on East Dragon Island",
+  "summary": "On East Dragon Island, Elder Zhu Li lets Qing Lin cultivate in the Ancient Dragon Tomb so she can refine the serpent soul inside her. Xiao Yan finds Tie Jian alive: Zhu Li saved him and had quietly helped during the rescue of Yao Lao from the Hall of Souls. Zhu Li gives Xiao Yan five drops of Ancient Dragon Essence Blood, and Xiao Yan spends a month melting the crystal around Zi Yan with his Heavenly Flame. Xia Ao of West Dragon Island then attacks with the Dragon Armored Troops, and Zhu Li fights another Ban Sheng-level dragon. Hei Qing holds off Man Yan, but Qing Yan of North Dragon Island slips past to seize Zi Yan's royal bloodline. Xiao Yan stalls him with a clone, and Zi Yan's royal bloodline finally awakens in full.",
+  "events": [
+    "Zhu Li grants Qing Lin access to the Ancient Dragon Tomb.",
+    "Tie Jian reappears; Zhu Li saved him and secretly helped at the Hall of Souls.",
+    "Zhu Li gives Xiao Yan five drops of Ancient Dragon Essence Blood.",
+    "Xiao Yan melts the Dragon-Phoenix crystal around Zi Yan for a month.",
+    "Xia Ao leads West Dragon Island's Dragon Armored Troops against East Dragon Island.",
+    "Zhu Li fights a Ban Sheng; Hei Qing fights Man Yan.",
+    "Qing Yan reaches the altar; Xiao Yan tricks him with a clone.",
+    "Zi Yan's royal bloodline awakens."
+  ],
+  "introduced": [
+    "Ancient Dragon Tomb",
+    "Ancient Dragon Essence Blood",
+    "Qi You",
+    "Xia Cha",
+    "West Dragon King",
+    "South Dragon King",
+    "Dragon Armored Troops",
+    "Dragon-Phoenix Crystal Layer"
+  ],
+  "cultivation": "Recap: Xiao Yan is a 4-star Dou Zun and his Flame Mantra is now Di Class. Zhu Li's opponent says she is a Ban Sheng. Hei Qing says his strength equals Man Yan's.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "quote": "(but he also had a breakthrough / and become a Four-Star Dou Zun.)",
+      "first": false
+    },
+    {
+      "id": "zhu-li",
+      "name": "Zhu Li",
+      "realm": "Ban Sheng",
+      "quote": "So you're now a Ban Sheng too.",
+      "first": false
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "first": false
+    },
+    {
+      "id": "tie-jian",
+      "name": "Tie Jian",
+      "first": false
+    },
+    {
+      "id": "hei-qing",
+      "name": "Hei Qing",
+      "first": false
+    },
+    {
+      "id": "qi-you",
+      "name": "Qi You",
+      "first": true,
+      "card": 222.7
+    },
+    {
+      "id": "xia-cha",
+      "name": "Xia Cha",
+      "first": true,
+      "card": 451.6
+    },
+    {
+      "id": "xia-ao",
+      "name": "Xia Ao",
+      "first": false
+    },
+    {
+      "id": "man-yan",
+      "name": "Man Yan",
+      "first": false
+    },
+    {
+      "id": "qing-yan",
+      "name": "Qing Yan",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10-50s: recap of EP214.",
+    "87s: Qing Lin's serpent is the 'Ancient Sky Serpent' here; EP216 at 967s says 'Nine-Headed Sky Serpent'.",
+    "359-380s: two unseen speakers praise Xiao Yan, and one addresses the other as 'Xiao Xuan'. Who they are is not shown.",
+    "451.6s: Xia Cha has a name card but the subtitles don't say which island he serves; he arrives with Xia Ao.",
+    "546-588s: someone tells Zhu Li 'So you're now a Ban Sheng too'; it is unclear which speaker is which, so Zhu Li's realm rests on this one line.",
+    "Island alignments: Xia Ao speaks for the West Dragon King; Qing Yan leads North Dragon Island (EP214 997s); Man Yan's island is not stated (likely South).",
+    "Tie Jian was believed dead (119s: 'Didn't you already...'). Treated as a returning character."
+  ]
+}

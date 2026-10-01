@@ -1,0 +1,77 @@
+{
+  "ep": 267,
+  "title": "Xiao Yan defeats Hun Miesheng",
+  "summary": "In the third match, Hun Miesheng admits he sent men to the Jia Ma Empire to capture Xiao Zhan and says he will settle the Xiao clan's blood feud himself. Xiao Yan fights him with soul attacks and, for the first time, the Purifying Demonic Lotus Flame. Hun Miesheng feeds his fighting energy to the Void Devouring Flame, second on the Heavenly Flame ranking, which swallows the Demon Flame and drains Xiao Yan. Xiao Yan sees that it is only a sub-flame, the same power Hun Feng had. Little Yi comes out of him, overpowers the Void Devouring Flame, and Xiao Yan beats Hun Miesheng. Hun Miesheng flees with part of his soul and says Xiao Zhan is still in his hands. The Sky Mansion Alliance wins and is hailed as the overlord of the Central Plains.",
+  "events": [
+    "Hun Miesheng admits to having Xiao Zhan captured.",
+    "Xiao Yan fights with soul attacks and the Purifying Demonic Lotus Flame.",
+    "Hun Miesheng summons the Void Devouring Flame.",
+    "The Void Devouring Flame devours the Demon Flame and Xiao Yan's fighting energy.",
+    "Xiao Yan sees it is a sub-flame.",
+    "Little Yi overpowers the Void Devouring Flame.",
+    "Xiao Yan beats Hun Miesheng, who flees, still holding Xiao Zhan.",
+    "The Sky Mansion Alliance is hailed as overlord of the Central Plains."
+  ],
+  "introduced": [
+    "Void Devouring Flame (second on the Heavenly Flame ranking, a sub-flame)",
+    "Lord Devouring Flame",
+    "Ten Thousand Souls Pay Homage",
+    "Buddha's Wrath Reincarnation",
+    "Reincarnation Bind",
+    "Soul Destruction, Life Extinction",
+    "Spirit of the Strange Flame"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-miesheng",
+      "name": "Hun Miesheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "void-devouring-flame",
+      "name": "Void Devouring Flame",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 599.7
+    },
+    {
+      "id": "little-yi",
+      "name": "Little Yi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "pill-tower-ancestor",
+      "name": "Pill Tower Ancestor",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file opens with a recap of EP266 (154-191s).",
+    "This track calls the Heavenly Flame ranking 'the List of Strange Fires' and writes both 'Lord Devouring Flame' and 'Lord Swallowing Flame'.",
+    "Who uses Buddha's Wrath Reincarnation (477.4), Soul Shield (482.4), Reincarnation Bind (513.1) and Falling Reincarnation (525.1) is not clear.",
+    "595.3 'in the presence of this Prince' is spoken by the Void Devouring Flame itself or by Hun Miesheng; read as the flame.",
+    "1135.5 Xiao Yan says he did not completely burn Hun Miesheng's soul; EP268's recap says Xiao Yan slew Hun Miesheng. Kept as: he fled.",
+    "1147.6-1162.0: the speaker who now believes a Xiao can beat the Hun Clan is not named (perhaps the Pill Tower Ancestor or Xiao Chen); the Pill Tower Ancestor is listed on that guess."
+  ]
+}

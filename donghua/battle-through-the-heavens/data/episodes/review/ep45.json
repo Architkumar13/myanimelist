@@ -1,0 +1,89 @@
+{
+  "ep": 45,
+  "title": "One Chance for Yao Lao",
+  "summary": "Jia Xing Tian and Hai Bodong end their fight above the capital as sparring, and Jia Xing Tian welcomes his old friend back as a match for the Misty Cloud Sect. Jia Xing Tian tests Yan Xiao with a light blow and asks who his master is, but Xiao Yan says his master lives hidden in the mountains. Hai Bodong reckons Jia Xing Tian is an Eight-Star or Nine-Star Dou Huang close to Dou Zong, and warns that he watches the Mite'er family, the Nalan Clan and the Mu Clan and will try to recruit Xiao Yan. In his room, Xiao Yan refines the Seven Magical Green Spirit Saliva with the Heavenly Flame and feeds it to Yao Lao; it sets off one surge of his master's Soul Power but does not wake him. Meanwhile Chu Yun Empire agents ready a plot against the Jia Ma Empire's alchemists. On the road to the capital, Xiao Zhan saves a Mite'er family man from Chu Yun Empire killers and asks him to take him to Ya Fei.",
+  "events": [
+    "Jia Xing Tian and Hai Bodong call off their bout and greet each other as old friends.",
+    "Jia Xing Tian tests Yan Xiao and asks about his master.",
+    "Hai Bodong rates Jia Xing Tian an Eight- or Nine-Star Dou Huang near Dou Zong.",
+    "Xiao Yan refines the Seven Magical Green Spirit Saliva while Hai Bodong stands guard.",
+    "Yao Lao's Soul Power surges once, but he does not wake.",
+    "Chu Yun Empire men prepare their plan before dawn.",
+    "Xiao Zhan rescues a Mite'er family man attacked by Chu Yun Empire killers.",
+    "The two head for Ya Fei so Xiao Zhan can look for Xiao Yan."
+  ],
+  "introduced": [
+    "Ice Dragon (Hai Bodong's skill, mentioned)",
+    "Furious Lion Roar",
+    "Raging Lion"
+  ],
+  "cultivation": "Hai Bodong says Jia Xing Tian is either an Eight-Star or a Nine-Star Dou Huang and could break through to Dou Zong. The Seven Magical Green Spirit Saliva fails to wake Yao Lao.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "realm": "8-star or 9-star Dou Huang",
+      "quote": "he's either an Eight-Star Dou Huang / or even a Nine-Star Dou Huang.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yue-er",
+      "name": "Yue Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-zhan",
+      "name": "Xiao Zhan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-221s is the end of EP44; the [Episode 45] card is at 233 and 273-279 replays 'Welcome back, my friend'.",
+    "The last part of this episode is at the start of ep46.en.srt (0-80s): Hai Bodong noting the Saliva failed and Xiao Yan pinning his hope on the Thawing Spirit Pill.",
+    "218-221: 'The Misty Cloud Sect. Now, our power is equal.' is Jia Xing Tian's line on Hai Bodong's return; its exact sense is unclear.",
+    "876-915: after 'Bastard.' Xiao Yan calls for his master and Hai Bodong feels a violent wave of Soul Power. The failure is stated in the EP46 recap (ep46.en.srt 107-114).",
+    "1027-1041: 'Furious Lion Roar' and 'Raging Lion' are called out in the rescue; taken as Xiao Zhan's skills, not stated.",
+    "Recap (251) calls the bout 'the battle of Dou Huangs between Jia Xing Tian and Hai Bodong'."
+  ]
+}

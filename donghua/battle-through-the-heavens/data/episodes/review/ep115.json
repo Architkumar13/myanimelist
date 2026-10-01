@@ -1,0 +1,76 @@
+{
+  "ep": 115,
+  "title": "A Deal with Medusa",
+  "summary": "In the Jia Ma capital, Hai Bodong fights off two Misty Cloud Sect Dou Huangs who attack him. At the academy, Xiao Yu visits Xiao Yan, and he tells her he will go back to the Jia Ma Empire to settle things with the Misty Cloud Sect. Su Qian lets Xiao Li build a force in the Black-Corner Region that is friendly to the academy, and Xiao Yan tells him the female Dou Zong is Queen Medusa. Xiao Yan finds Medusa, who still can't kill him because of the Heaven Swallowing Python inside her, and offers to refine the sixth-tier Soul Recovery Pill to free her if she guards and helps him for a year; he names her Cai Lin. Yun Shan absorbs the two elders who failed against Hai Bodong, and Xiao Yan practises the Open Mountain Seal.",
+  "events": [
+    "Two Misty Cloud Sect Dou Huangs attack Hai Bodong in the capital",
+    "Xiao Yu visits; Xiao Yan says he will go back to the Jia Ma Empire",
+    "Su Qian agrees to Xiao Li building a force in the Black-Corner Region",
+    "Xiao Yan tells Su Qian the female Dou Zong is Queen Medusa",
+    "He makes a one-year deal with Medusa for the Soul Recovery Pill and names her Cai Lin",
+    "Yun Shan absorbs the two failed elders",
+    "Xiao Yan practises the Open Mountain Seal"
+  ],
+  "introduced": [
+    "Soul Recovery Pill",
+    "Cai Lin (Medusa's new name)",
+    "Wind Spirit Fractal Sword",
+    "Xiao Mei"
+  ],
+  "cultivation": "Yun Shan's elders will reach Dou Huang combat level by absorbing the two who failed.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "first": false,
+      "card": 707.6
+    },
+    {
+      "id": "xiao-yu",
+      "name": "Xiao Yu",
+      "first": false,
+      "card": 116.8
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false,
+      "card": 428.7
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "first": false
+    },
+    {
+      "id": "yun-shan",
+      "name": "Yun Shan",
+      "first": false,
+      "card": 773.8
+    }
+  ],
+  "changes": [
+    "Moved out to EP114: Xun Er's message in the scroll (before this card in the old file). Xun Er removed from cast; the seal requirements moved to EP114's cultivation; cards moved to the new clock."
+  ],
+  "flags": [
+    "0-35s are a recap of EP114 and are not counted.",
+    "81.7 'Jia Nan Empire' and 365.9 'Jia Nan Empire': slips for Jia Ma Empire.",
+    "736.4 'Hai Baidong': slip for Hai Bodong.",
+    "152.5 'Patriarch Xiao!' and 169.3 'They're of no use to me': speaker and context unclear.",
+    "218-262s: the speaker who suggests building a force in the Black-Corner Region isn't named; it is probably Xiao Li.",
+    "Yun Shan is called only 'Mr. Yun' (773.8); identity from EP110's mention of Yun Shan leading the sect.",
+    "Ya Fei is the one Hai Bodong talks to at 707.6-722.5 (read from context, not named).",
+    "Xiao Mei is named only (200.9)."
+  ]
+}

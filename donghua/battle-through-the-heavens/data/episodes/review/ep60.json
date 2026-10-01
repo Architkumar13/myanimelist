@@ -1,0 +1,101 @@
+{
+  "ep": 60,
+  "title": "Ling Ying and the Old Leader",
+  "summary": "A hidden protector named Ling Ying steps out to shield Xiao Yan from the Covering Sun Cloud Formation. He says he comes from beyond the Jia Ma Empire and has orders to bring Xiao Yan back unharmed, because his Young Lady wishes to protect him. With his Ten Thousand Binding Shadows he breaks the formation, and onlookers judge him at least a Seven-Star Dou Huang. Yun Leng then calls out Yun Shan, the sect's old leader, who has broken through to Dou Zong in seclusion. Yun Shan hears Yun Leng blame Xiao Yan for everything and decides the sect's reputation must be restored. He beats Hai Bodong, Ling Ying and the Heaven Swallowing Python and orders Xiao Yan to stay in the sect for a few years.",
+  "events": [
+    "Ling Ying appears and shames the Misty Cloud Sect for attacking a youth.",
+    "He says he must bring Xiao Yan back unharmed on someone else's orders.",
+    "Ten Thousand Binding Shadows; Ling Ying breaks the formation.",
+    "Hai Bodong recognises him as someone who once spared him.",
+    "Yun Shan, the former leader, comes out of seclusion as a Dou Zong.",
+    "Yun Leng blames Xiao Yan for Mo Cheng's death and the damage to the sect.",
+    "Yun Shan defeats Hai Bodong, Ling Ying and the python and tells Xiao Yan to stay."
+  ],
+  "introduced": [
+    "Ling Ying",
+    "Ten Thousand Binding Shadows",
+    "Yun Shan (former leader, on screen)",
+    "Yun Po Tian (founder of the Misty Cloud Sect, named)",
+    "Thousand Flower Ice Mirror",
+    "Dou Zong",
+    "Misty Cloud Mountain"
+  ],
+  "cultivation": "Yun Shan \"has broken through the Dou Huang barrier and ascended to Dou Zong\". Ling Ying is \"at least that of a Seven-Star Dou Huang\".",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ling-ying",
+      "name": "Ling Ying",
+      "realm": "Seven-Star Dou Huang (at least)",
+      "quote": "his power must be at least that of a Seven-Star Dou Huang",
+      "first": true,
+      "card": 224.0
+    },
+    {
+      "id": "yun-leng",
+      "name": "Yun Leng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-shan",
+      "name": "Yun Shan",
+      "realm": "Dou Zong",
+      "quote": "he has broken through the Dou Huang barrier and ascended to Dou Zong.",
+      "first": true,
+      "card": 813.2
+    },
+    {
+      "id": "heaven-swallowing-python",
+      "name": "Heaven Swallowing Python",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-155s is the end of EP59 (formation attack, Thousand Flower Ice Mirror, the protector's first words) and is not counted; the card is at 155.0.",
+    "The end of this episode is at the start of ep61.en.srt (0-73s): Medusa appears to face Yun Shan.",
+    "Ling Ying's 'my Young Lady' (408.4) is not named here.",
+    "303-309: Hai Bodong says Ling Ying 'had no intention to kill you back then', suggesting he was one of the masked Dou Huangs linked to Mo Cheng's death; not confirmed.",
+    "Ling Ying is spelled 'Ying Ling' in the EP61 recap (91.9).",
+    "Yun Shan was named in EP38 but this is his first time on screen as far as I can tell; name card [Yun Shan] 813.2.",
+    "'Yun Po Tian' (335.8, 951.4) and 'Yun Potian' (148.8)."
+  ]
+}

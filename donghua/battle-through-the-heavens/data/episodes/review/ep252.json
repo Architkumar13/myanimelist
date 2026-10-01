@@ -1,0 +1,101 @@
+{
+  "ep": 252,
+  "title": "Zi Yan against the three Dragon Kings",
+  "summary": "Xiao Yan fights through North Dragon Island's men and leaves the rest to Yao Ming and the others so he can reach Zi Yan. Inside the Dragon Palace, Zi Yan fights the Northern, Western and Southern Dragon Kings alone, and they demand her throne and her Dragon-Phoenix bloodline. She calls them usurpers who split the Void Ancient Dragons for their own gain. When she isolates the space to gather power, the Dragon Kings attack the clansmen below, forcing her to spread her strength to shield them. Xiao Yan arrives as they close in, and Zi Yan asks for the time an incense stick takes to burn to ready her trump card. Xiao Yan holds off the three Dragon Kings, each a Three-Star Dou Sheng, hurting their souls with the Yellow Spring Divine Anger and burning them with the Extermination Fire Lotus. Their dragon bodies are too tough to kill.",
+  "events": [
+    "Xiao Yan breaks past North Dragon Island's guards; his allies hold the rest.",
+    "Zi Yan fights the three Dragon Kings in the Dragon Palace.",
+    "The Dragon Kings demand her throne and Dragon-Phoenix bloodline.",
+    "Zi Yan seals off the space to build up her power.",
+    "The Dragon Kings attack their own clansmen; Zi Yan shields them.",
+    "Xiao Yan arrives and tells them the phoenixes have gone home.",
+    "Zi Yan asks for time to prepare her trump card.",
+    "Xiao Yan hits the Dragon Kings with soul attacks and the Fire Lotus."
+  ],
+  "introduced": [
+    "Northern Dragon King",
+    "Western Dragon King",
+    "Southern Dragon King",
+    "Dragon-Phoenix physique",
+    "dragon monument"
+  ],
+  "cultivation": "The three Dragon Kings are 'all three-star Dou Saints' (Three-Star Dou Sheng). Zi Yan calls Xiao Yan a One-Star Dou Sheng.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "One-Star Dou Sheng",
+      "quote": "You are a one-star saint",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ming",
+      "name": "Yao Ming",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "northern-dragon-king",
+      "name": "Northern Dragon King",
+      "realm": "Three-Star Dou Sheng",
+      "quote": "the three old guys opposite are all three-star Dou Saints",
+      "first": true,
+      "card": null
+    },
+    {
+      "id": "western-dragon-king",
+      "name": "Western Dragon King",
+      "realm": "Three-Star Dou Sheng",
+      "quote": "the three old guys opposite are all three-star Dou Saints",
+      "first": true,
+      "card": null
+    },
+    {
+      "id": "southern-dragon-king",
+      "name": "Southern Dragon King",
+      "realm": "Three-Star Dou Sheng",
+      "quote": "the three old guys opposite are all three-star Dou Saints",
+      "first": true,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-136s is the opening song, 155-197s a narrated recap of EP251, 1157s on the ending song.",
+    "This track is a rough translation. From about 916s every line appears twice (two tracks merged).",
+    "Dragon Kings: which one speaks when is rarely named; 621.3 names the Northern Dragon King.",
+    "Little Fairy Doctor and Qing Lin are named only in the recap ('demon film little doctor fairy Qinglin', 187.2).",
+    "907.5 'He Fangxiao' means 'what kid is this', not a name.",
+    "951.1 'Izao incense' = the time an incense stick burns; Zi Yan's request for time.",
+    "1030-1033 'Buddha anger / Fire Lotus' and 1089.5 'Huangquan Heavenly Rage and Buddha's Rage Lotus' = Yellow Spring Divine Anger and the Fire Lotus; the summary uses the official tracks' 'Extermination Fire Lotus' (EP2xx) for the attack.",
+    "The Dragon Kings were mentioned in earlier episodes; this is the first time they are on screen as far as can be told."
+  ]
+}

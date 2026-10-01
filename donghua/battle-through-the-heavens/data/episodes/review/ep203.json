@@ -1,0 +1,102 @@
+{
+ "ep": 203,
+ "title": "Young Pavilion Chief",
+ "summary": "Xiao Yan, now the Young Pavilion Chief of the Falling Star Pavilion, sets out for the ancient ruins in the Skeleton Mountain Range of the Beast Region. Mu Qing Luan of the Green Mythical Bird Tribe joins him, and on the way she explains the three great beast clans: the Nine Serene Deep Ground Pythons, the Heaven Demon Phoenix Tribe and the Void Ancient Dragons. At the ruins they find Falling Star Pavilion men driven from their camp by Lei Zun Zhe of the Wind Lightning Pavilion. Xiao Yan beats Fei Tian, and Lei Zun Zhe and his beast-clan allies back down when four Dou Zuns stand behind Xiao Yan. Elder Hu tells him the ruins hold traps and corpse puppets, and that strong Nine Serene Deep Ground Pythons have been going missing. That night a mysterious woman in green attacks Zi Yan and escapes.",
+ "events": [
+  "Xiao Yan leaves for the ruins with a map, and Mu Qing Luan joins him.",
+  "Mu Qing Luan describes the Beast Region and its three great clans.",
+  "Zi Yan says the Void Ancient Dragons do have sub-clans, and argues with Mu Qing Luan.",
+  "Xiao Yan saves Falling Star Pavilion men from Wind Lightning Pavilion attackers.",
+  "Xiao Yan beats Fei Tian in the Wind Lightning Pavilion camp.",
+  "Lei Zun Zhe, the Silver Moon Wolf Clan Leader and the Earth Tiger Clan Leader retreat.",
+  "Elder Hu explains the ruins' spatial seal, traps and puppets.",
+  "A woman in green attacks Zi Yan and gets away."
+ ],
+ "introduced": [
+  "Young Pavilion Chief (Xiao Yan's title)",
+  "Skeleton Mountain Range",
+  "Nine Serene Deep Ground Pythons",
+  "Heaven Demon Phoenix Tribe",
+  "Void Ancient Dragons",
+  "Green Mythical Bird Tribe",
+  "Tian Class Dou Skill (said to be in the ruins)",
+  "Elder Hu",
+  "Silver Moon Wolf Clan Leader",
+  "Earth Tiger Clan Leader",
+  "ancient corpse puppets",
+  "spatial seal of the ruins"
+ ],
+ "cultivation": "Lei Zun Zhe calls Xiao Yan 'a newly advanced Dou Zun'. Xiao Yan's side shows four Dou Zuns.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "xiao-yan",
+   "name": "Xiao Yan",
+   "realm": "Dou Zun",
+   "quote": "just how much trouble a newly advanced Dou Zun like you can cause!",
+   "first": false
+  },
+  {
+   "id": "yao-lao",
+   "name": "Yao Lao",
+   "first": false
+  },
+  {
+   "id": "elder-feng",
+   "name": "Elder Feng",
+   "first": false
+  },
+  {
+   "id": "mu-qing-luan",
+   "name": "Mu Qing Luan",
+   "first": false
+  },
+  {
+   "id": "zi-yan",
+   "name": "Zi Yan",
+   "first": false
+  },
+  {
+   "id": "elder-hu",
+   "name": "Elder Hu",
+   "first": true,
+   "card": 412
+  },
+  {
+   "id": "fei-tian",
+   "name": "Fei Tian",
+   "first": false
+  },
+  {
+   "id": "lei-zun-zhe",
+   "name": "Lei Zun Zhe",
+   "first": false
+  },
+  {
+   "id": "silver-moon-wolf-clan-leader",
+   "name": "Silver Moon Wolf Clan Leader",
+   "first": true,
+   "card": 613
+  },
+  {
+   "id": "earth-tiger-clan-leader",
+   "name": "Earth Tiger Clan Leader",
+   "first": true,
+   "card": 619
+  },
+  {
+   "id": "qing-lin",
+   "name": "Qing Lin",
+   "look": "a hooded woman in green; not yet recognised",
+   "first": false
+  }
+ ],
+ "changes": [],
+ "flags": [
+  "Zi Yan's line 'Xiao Yan, don't worry. I'll protect you' (248) and the argument with Mu Qing Luan are assigned to Zi Yan from context.",
+  "The four Dou Zuns at 664 are not listed by name.",
+  "This Elder Hu is a Falling Star Pavilion elder; the 'Elder Hu' in EP133-138 is someone else.",
+  "The woman in green (954-994) is Qing Lin, revealed in EP206; listed in cast on that basis.",
+  "Both 'Void Ancient Dragons' and the earlier 'Ancient Dragon' forms are used for Zi Yan's clan."
+ ]
+}

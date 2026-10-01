@@ -1,0 +1,144 @@
+{
+  "ep": 257,
+  "title": "The ancient clans gather",
+  "summary": "Xiao Yan shows Yao Lao a soul avatar that looks exactly like him, and Yao Lao gives him the Nine Yin Yellow Spring Pill he made with Elder Lin. When the Purifying Demonic Lotus Flame emerges, Xiao Yan, Yao Lao and Zi Yan set out, while Little Fairy Doctor and Qing Lin stay in seclusion. At the scorched mountains they meet Hun Miesheng and Hun Feng, a Two-Star Dou Sheng who is set to be the next Hun Clan chief. Huo Xuan and Elder Huoyao of the Yan Clan greet Xiao Yan, and Xun Er arrives with Gu Qing Yang and Elder Gu Nanhai of the Gu Clan. Xun Er explains that the ancient clans only sent fighters below peak Five-Star Dou Sheng because of their rules. Then the Medicine Clan arrives with Yao Wangui, who banished Yao Lao, and its prodigy Yao Tian, who mocks Yao Lao. Xiao Yan uses his soul avatar and his Heavenly Realm soul to slap Yao Tian in front of everyone.",
+  "events": [
+    "Xiao Yan shows Yao Lao his new soul avatar.",
+    "Yao Lao gives him the Nine Yin Yellow Spring Pill, made with Elder Lin.",
+    "The Purifying Demonic Lotus Flame emerges; Xiao Yan, Yao Lao and Zi Yan set out.",
+    "Hun Miesheng and Hun Feng discuss killing Xiao Yan.",
+    "Huo Xuan and Elder Huoyao of the Yan Clan greet Xiao Yan.",
+    "Xun Er arrives with Gu Qing Yang and Elder Gu Nanhai.",
+    "Xun Er warns Xiao Yan about Hun Feng and explains the five-star limit.",
+    "Yao Wangui and Yao Tian of the Medicine Clan mock Yao Lao, and Xiao Yan slaps Yao Tian."
+  ],
+  "introduced": [
+    "soul avatar",
+    "Nine Yin Yellow Spring Pill (ninth-tier)",
+    "Tides of Heaven and Earth",
+    "Hun Feng",
+    "Huo Xuan",
+    "Elder Huoyao",
+    "Yan Clan",
+    "Eight Desolations Annihilation Flame",
+    "Fire Cloud Water Flame (16th on the Heavenly Flame ranking)",
+    "Gu Nanhai",
+    "Medicine Clan",
+    "Yao Wangui (Punishment Administrator)",
+    "Yao Tian",
+    "Clan Monument (Medicine Clan)",
+    "Spirit Clan (its disappearance)"
+  ],
+  "cultivation": "Xiao Yan's soul is at the Great Perfection of the Heavenly Realm ('Late Heaven Realm Grand Perfection!'). Hun Feng is a Two-Star Dou Sheng. Huo Xuan is called 'high-tier Half-Saint'. Yao Tian's soul is at the late Heavenly Realm.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Two-Star Dou Sheng",
+      "quote": "Late Heaven Realm Grand Perfection! (soul); Yao Tian's 'A mere One-Star Martial Saint' is a taunt",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-miesheng",
+      "name": "Hun Miesheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 598.7
+    },
+    {
+      "id": "hun-feng",
+      "name": "Hun Feng",
+      "realm": "Two-Star Dou Sheng",
+      "quote": "The Young Clan Chief has reached the Two-Star Martial Saint realm at such a young age.",
+      "first": true,
+      "card": 872.9
+    },
+    {
+      "id": "huo-xuan",
+      "name": "Huo Xuan",
+      "realm": "Ban Sheng (high tier)",
+      "quote": "Hasn't Brother Huo Xuan also reached the high-tier Half-Saint stage?",
+      "first": false,
+      "card": 709.2
+    },
+    {
+      "id": "huoyao",
+      "name": "Elder Huoyao",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 722.0
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 781.4
+    },
+    {
+      "id": "gu-qing-yang",
+      "name": "Gu Qing Yang",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 818.4
+    },
+    {
+      "id": "gu-nanhai",
+      "name": "Gu Nanhai",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 846.7
+    },
+    {
+      "id": "yao-wangui",
+      "name": "Yao Wangui",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 1025.8
+    },
+    {
+      "id": "yao-tian",
+      "name": "Yao Tian",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 1092.0
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file starts at 169s; 169-210s is a narrated recap of EP256.",
+    "This track uses 'Martial Saint' for Dou Sheng and 'Pure Lotus Demon Flame/Fire' or 'Demon Lotus Flame' for the Purifying Demonic Lotus Flame; 'Soul Temple', 'Soul Hall' = Hall of Souls; 'Celestial Realm Alliance' = Sky Mansion Alliance; 'Central Continent' = Central Plains; 'Ya Clan', 'Ya Chen', 'Yaochén' = Medicine Clan, Yao Chen; 'Ya Tian' = Yao Tian. Some lines have broken characters.",
+    "1156.4 Yao Tian calls Xiao Yan 'A mere One-Star Martial Saint', but Xiao Yan reached Two-Star in EP253 and is called Two-Star in EP254. Treated as a misjudgement or slip; the realm is kept at Two-Star.",
+    "243.1 'the Young Sect Master' and 432.4 'Sect Leader. Young Sect Leader.' seem to be Falling Star Pavilion members greeting Yao Lao and Xiao Yan.",
+    "406.8 'Elder Lin' is probably Grand Elder Lin of the Small Pill Tower (EP242), not confirmed.",
+    "468.7 someone unnamed stays to run the alliance.",
+    "Huo Xuan and Gu Qing Yang appeared in earlier episodes (EP218-222); marked not first.",
+    "1079.8 Yao Wangui is called 'Elder Wan Gui'.",
+    "Xiao Yan's Heavenly Flames are counted as five by the Hun Clan (664.9)."
+  ]
+}

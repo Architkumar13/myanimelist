@@ -1,0 +1,98 @@
+{
+  "ep": 76,
+  "title": "The Melee Begins",
+  "summary": "Wu Hao, back from killing in the Black-Corner Region, forces Yan Cheng to concede at once and then challenges Xiao Yan, but the referee tells them to wait for the next day. Xiao Mei greets Xiao Yan, and he tells Xun Er that their old trouble no longer matters to him. That night Xiao Yan judges he needs ten more days to reach Six-Star Da Dou Shi and finds a jade piece that resists his Green Lotus Core Flame. Yao Lao cannot sense the Fallen Heart Flame inside the academy, only somewhere within a thousand li, and thinks the Inner Academy is linked to it. On the last day, the vice dean changes the qualifier into a melee of all 20 students, ranked by how long each one lasts. Xiao Yan and Xun Er fight as a pair, and Bai Shan attacks him with the Shaking Lightning Arc Blast. Xiao Yan wraps himself in the Heavenly Flame, drops his heavy ruler and drives Bai Shan back, but then begins to break through in the middle of the fight.",
+  "events": [
+    "Wu Hao defeats Yan Cheng and challenges Xiao Yan.",
+    "Xiao Mei greets Xiao Yan.",
+    "Xiao Yan studies a jade piece that resists his flame.",
+    "Yao Lao senses the Fallen Heart Flame within a thousand li and points to the Inner Academy.",
+    "The final round becomes a 20-student melee.",
+    "Bai Shan attacks Xiao Yan with the Shaking Lightning Arc Blast.",
+    "Xiao Yan uses his Heavenly Flame and drops his ruler to overwhelm Bai Shan.",
+    "Xiao Yan starts to break through mid-fight."
+  ],
+  "introduced": [
+    "Xiao Mei",
+    "Little Witch (Hu Jia's nickname)",
+    "melee elimination round",
+    "Shaking Lightning Arc Blast"
+  ],
+  "cultivation": "Xiao Yan: 'I'll need at least another ten days before I become a Six-Star Da Dou Shi' (267). At 971 'He is about to ascend.'",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-mei",
+      "name": "Xiao Mei",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 185.7
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-shan",
+      "name": "Bai Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hu-jia",
+      "name": "Hu Jia",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hu-qian",
+      "name": "Hu Qian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-27s: card and recap; not counted.",
+    "184-218: Xiao Mei's lines are untagged after her card; 'Xiao Mei isn't really a bad person' (236) shows past friction with Xiao Yan.",
+    "294: the jade piece that resists the Green Lotus Core Flame is not identified.",
+    "267: the ten-days-to-Six-Star line suggests he is now Five-Star, a jump from Four-Star in EP73 not stated anywhere; not recorded as a realm.",
+    "The rule change is credited to the 'Vice Dean' (689), so I listed Hu Qian on screen.",
+    "'Heavy ruler' (927) is the Heavy Xuan Ruler (named in EP77's recap)."
+  ]
+}

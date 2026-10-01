@@ -1,0 +1,95 @@
+{
+  "ep": 69,
+  "title": "Farewell, Yun Zhi",
+  "summary": "Using the Green Lotus Change, Xiao Yan jumps a level and fights Yun Lei, but the half-learned technique strains his body. The Heaven Swallowing Python holds off the sect's Cloud Beast unit. Hai Bodong arrives, holds back Yun Sheng and is declared an enemy of the sect along with the Mite'er family. Ya Fei brings Hai Bodong's men and a map of the Magical Beast Mountain Range, and tells Xiao Yan to head south across the border. Yun Yun then catches Xiao Yan but cannot bring herself to kill him, and lets him go on the condition that he never comes back. They part with feelings unspoken, and Xiao Yan sends word that he will repay Yun Shan's strikes. With Yao Lao, he sets out for Jia Nan Academy and Xun Er.",
+  "events": [
+    "Xiao Yan's Green Lotus Change lifts him a level; he fights Yun Lei.",
+    "The technique's backlash hurts him; the python fights the Cloud Beast unit.",
+    "Hai Bodong confronts Yun Sheng and becomes the sect's enemy.",
+    "Ya Fei gives Xiao Yan a map and sends him south.",
+    "Yun Yun lets Xiao Yan go rather than kill him.",
+    "Xiao Yan and Yao Lao head for Jia Nan Academy."
+  ],
+  "introduced": [
+    "Cloud Beast unit",
+    "map of the Magical Beast Mountain Range"
+  ],
+  "cultivation": "Yun Lei: 'You know I'm a strong Dou Wang' (152.8). Xiao Yan 'managed to instantly surpass a level' with the change (145.5).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-lei",
+      "name": "Yun Lei",
+      "realm": "Dou Wang",
+      "quote": "You know I'm a strong Dou Wang.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-sheng",
+      "name": "Yun Sheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "heaven-swallowing-python",
+      "name": "Seven-Colored Heaven Swallowing Python",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-37s: card and recap; not counted.",
+    "Yun Lei's fate after 170-200 is not shown or stated.",
+    "Yun Sheng is named on screen at 288.5/306.6; he was one of the masked attackers in EP62 and named in EP63, so not marked first.",
+    "340.7: Hai Bodong speaks of 'the Di Wang consciousness hidden within you'; the term is not explained.",
+    "850-1150: song lyrics over the farewell; ignored.",
+    "1108.7 'Eldest Brother, they're here.' has no visible context; the speaker and place are unclear (possibly the Xiao brothers at Rock Desert City).",
+    "Ya Fei says the men are 'all Mr. Hai's subordinates' (415); these are likely the Shadow Guards from EP63."
+  ]
+}

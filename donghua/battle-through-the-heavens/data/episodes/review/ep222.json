@@ -1,0 +1,75 @@
+{
+  "ep": 222,
+  "title": "The Energy Storm",
+  "summary": "Hun Ya and Hun Li come out to fight Xiao Yan and Xun Er, and Hun Li, who lost an arm, goes after Xiao Yan. Hun Li uses the Hun Clan's clan mark to jump to 9-star Dou Zun power with no backlash. Xiao Yan answers with the Sky Fire Three Mysterious Changes, and the Hun pair are shocked to see the Xiao Clan's clan mark on him. His fully tempered Sky Demon Puppet holds off Hun Li. Before Xiao Yan can finish him, a great energy storm sweeps the second layer and everyone runs for the third layer. Xiao Yan and Xun Er team up with Huo Xuan of the Yan Clan and join Gu Qing Yang and the other clans at the barrier, now turned solid. The heirs cut a tunnel together, but its walls begin to close and turn out to be the nest of the Ancient Devouring Insects.",
+  "events": [
+    "Hun Ya fights Xun Er; Hun Li fights Xiao Yan.",
+    "Hun Li activates the Hun Clan's clan mark.",
+    "The Xiao Clan's clan mark appears on Xiao Yan.",
+    "A Sky Demon Puppet takes on Hun Li.",
+    "An energy storm hits the second layer; the fight breaks off.",
+    "Xiao Yan teams up with Huo Xuan.",
+    "The clans break the solid barrier together.",
+    "The tunnel closes; it is an Ancient Devouring Insect nest."
+  ],
+  "introduced": [
+    "Hun Clan clan mark",
+    "Xiao Clan clan mark",
+    "Open Mountain Seal",
+    "Soul Shattering Dark Palm",
+    "energy storm",
+    "Ancient Devouring Insects"
+  ],
+  "cultivation": "Hun Li calls Xiao Yan a 6-star Dou Zun. Hun Li's clan mark lifts him to 9-star Dou Zun level. The fully tempered Sky Demon Puppet can take on a 9-star Dou Zun. Huo Xuan has advanced.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "6-star Dou Zun",
+      "quote": "With your measly Six-Star Dou Zun strength,",
+      "look": "Xiao Clan clan mark on his face",
+      "first": false
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false
+    },
+    {
+      "id": "hun-ya",
+      "name": "Hun Ya",
+      "first": false
+    },
+    {
+      "id": "hun-li",
+      "name": "Hun Li",
+      "look": "has lost an arm",
+      "first": false
+    },
+    {
+      "id": "huo-xuan",
+      "name": "Huo Xuan",
+      "first": false
+    },
+    {
+      "id": "gu-qing-yang",
+      "name": "Gu Qing Yang",
+      "first": false
+    },
+    {
+      "id": "gu-zhen",
+      "name": "Gu Zhen",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10-40s: recap.",
+    "81-90s and 134s: the one-armed fighter is Hun Li; 'I'll take care of the girl' (126s) is Hun Ya.",
+    "302s: 'That's Xiao Clan's clan mark' is said of Xiao Yan by the Hun pair; EP224 explains it.",
+    "521-527s: the storm separates them; one Hun calls 'Hun Ya! Run'. Both survive (EP223).",
+    "622-628s: speakers planning to finish off Xiao Yan in the third layer are taken as the Hun pair.",
+    "810s: the Yao Clan offers to help break the barrier; the other heirs there aren't named on screen in this episode."
+  ]
+}

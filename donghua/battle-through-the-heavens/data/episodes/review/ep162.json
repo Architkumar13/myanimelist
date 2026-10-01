@@ -1,0 +1,70 @@
+{
+  "ep": 162,
+  "title": "The Stolen Lightning Movement",
+  "summary": "Hong Chen's sneak attack ends with all of his meridians snapped, leaving him crippled. Elder Shen Yun of the Wind Lightning Pavilion recognizes Xiao Yan's Three Thousand Lightning Movement as a technique once stolen from the pavilion. He demands that Xiao Yan come with him or be crippled. Han Chi stands by Xiao Yan, but Xiao Yan refuses to drag the Han family in. Shen Yun, a Four-Star Dou Zong, is held off by Xiao Yan's Dou Zong-level puppet, while Xiao Yan fights Hong Li, a Half-Step Dou Zong, and then the whole Hong family, wrecking half of Sky Stone Stage. Hong Li sends for the clan elder Hong Tian Xiao, said to be a Five-Star Dou Zong. When Hong Tian Xiao arrives, Xiao Yan already has Hong Li in his grip and threatens to kill him.",
+  "events": [
+    "Hong Chen is crippled after his sneak attack; Hong Li vows to kill Xiao Yan.",
+    "Han Chi invokes the rules of Sky Stone Stage.",
+    "Shen Yun says the Three Thousand Lightning Movement was stolen from the Wind Lightning Pavilion.",
+    "Xiao Yan refuses to go to the pavilion and keeps the Han family out of it.",
+    "Xiao Yan's Dou Zong-level puppet holds off Shen Yun.",
+    "Xiao Yan fights Hong Li and then the whole Hong family.",
+    "Hong Li sends for Hong Tian Xiao, a Five-Star Dou Zong.",
+    "Hong Tian Xiao arrives to find Xiao Yan holding Hong Li hostage."
+  ],
+  "introduced": [
+    "Three Thousand Lightning Illusionary Body",
+    "Hong Tian Xiao",
+    "Half-Step Dou Zong"
+  ],
+  "cultivation": "Shen Yun is a Four-Star Dou Zong. Hong Li is a Half-Step Dou Zong. Hong Tian Xiao is said to be a Five-Star Dou Zong. Xiao Yan is still a Dou Huang.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Huang",
+      "quote": "You are just a Dou Huang.",
+      "first": false
+    },
+    {
+      "id": "hong-chen",
+      "name": "Hong Chen",
+      "first": false
+    },
+    {
+      "id": "shen-yun",
+      "name": "Shen Yun",
+      "realm": "4-star Dou Zong",
+      "quote": "if I'm powerful enough to subdue you as a Four-Star Dou Zong.",
+      "first": false
+    },
+    {
+      "id": "hong-li",
+      "name": "Hong Li",
+      "realm": "Half-Step Dou Zong",
+      "quote": "You are nothing but a Half-Step Dou Zong.",
+      "first": false
+    },
+    {
+      "id": "han-chi",
+      "name": "Han Chi",
+      "first": false
+    },
+    {
+      "id": "hong-tian-xiao",
+      "name": "Hong Tian Xiao",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: Hong Chen's surrender and sneak attack now play in EP161 and are only replayed here; added from EP163 Hong Tian Xiao's arrival with Hong Li held hostage (Hong Tian Xiao is first on screen here; his name card is in EP163); Han Tian, Han Yue and Han Xue have no clear lines and are out of the cast."
+  ],
+  "flags": [
+    "0-45s is narration about the Wind Lightning Pavilion and the recap; 59-113s replays the end of EP161.",
+    "126s: Hong Chen's meridians snap after his sneak attack; the subtitles do not show exactly what hit him.",
+    "455s: the 'Dou Zong-level puppet' is the Earth Demon Puppet from EP157; not named here.",
+    "893s: Hong Tian Xiao's Five-Star Dou Zong is hearsay ('It's said').",
+    "956-964s: 'Save me, Elder Hong' is Hong Li, held by Xiao Yan, as EP163 (109-112s) shows."
+  ]
+}

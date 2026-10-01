@@ -1,0 +1,131 @@
+{
+  "ep": 98,
+  "title": "The Strong Ranking Grand Competition",
+  "summary": "The Strong Ranking Grand Competition of the Inner Academy begins, with fifty contestants drawing 25 blue and 25 red lots. Lin Xiu Ya, Liu Qing and Zi Yan are there, and onlookers wonder how Xiao Yan learned the Wind Lightning Pavilion's speed skill. Xiao Yan draws blue 15 and faces Bai Cheng again. In the first match Zi Yan knocks out Bei Ju, ranked 33rd, with one punch, after he had boasted he would beat Xiao Yan. Bai Cheng returns bald and one level stronger after secluded training, using a secret technique and the Blood Earthquake. He only wants to drain Xiao Yan's Dou Qi, so Xiao Yan forms Green Lotus Core Flame armor, then Octane Blast forces Bai Cheng to admit defeat.",
+  "events": [
+    "Lin Xiu Ya and Han Yue say the Snow Demon Sky Ape drove them off again.",
+    "Liu Fei pushes Liu Qing's gang to take revenge on Xun Er.",
+    "Su Qian explains the lot draw and warns against killing.",
+    "Xiao Yan draws blue 15 against Bai Cheng.",
+    "Zi Yan beats Bei Ju, ranked 33rd, with one punch.",
+    "Bai Cheng, bald and stronger, uses a secret technique and the Blood Earthquake.",
+    "Xiao Yan defends with Green Lotus Core Flame armor and wins with Octane Blast; Bai Cheng surrenders."
+  ],
+  "introduced": [
+    "Strong Ranking Grand Competition rules (50 lots, blue and red, 1-25)",
+    "Bei Ju",
+    "Blood Earthquake (part of Blood Ground Eight Split)",
+    "Green Lotus Core Flame armor (Heavenly Flame Armor)",
+    "Wind Lightning Pavilion (the speed skill's owner, named by onlookers)"
+  ],
+  "cultivation": "Bai Cheng 'broke through a level' after secluded training.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-xiu-ya",
+      "name": "Lin Xiu Ya",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "han-yue",
+      "name": "Han Yue",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-qing",
+      "name": "Liu Qing",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-fei",
+      "name": "Liu Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-sheng",
+      "name": "Yao Sheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bei-ju",
+      "name": "Bei Ju",
+      "realm": null,
+      "quote": "I'm the 33rd strongest student on the Strong Ranking. My name is Bei Ju.",
+      "first": true,
+      "card": 555.0
+    },
+    {
+      "id": "bai-cheng",
+      "name": "Bai Cheng",
+      "realm": null,
+      "quote": "You broke through a level.",
+      "first": false,
+      "card": null,
+      "look": "bald; he lost all his hair in seclusion"
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut subtitle file, which starts at the [Episode 98] card: events unchanged; Bei Ju's card moved to 555.0 and flag times moved to the new clock."
+  ],
+  "flags": [
+    "0-46s are a recap of EP97 and are not counted.",
+    "Bai Cheng's new realm is not stated, only 'broke through a level' (728.8).",
+    "222-246s: someone tells Xiao Yan 'Take care of your woman'; the speaker isn't clear, likely Yao Sheng or Liu Qing.",
+    "Han Yue's presence is inferred from the lines about the ape (135-151s)."
+  ]
+}

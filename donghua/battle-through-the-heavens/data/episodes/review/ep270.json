@@ -1,0 +1,66 @@
+{
+  "ep": 270,
+  "title": "The Northern Dragon King's betrayal",
+  "summary": "Xiao Yan feels Zi Yan's aura weakening through the Dragon Seal and finds she is not on East Dragon Island but on North Dragon Island. There Zi Yan is fighting the Northern Dragon King with the Dragon Slayer Sword, burning her own life essence. The Northern Dragon King starts the Dragon Transformation Array, a forbidden technique of the Void Ancient Dragons that refines everyone inside it into blood, and reveals he has devoured the Western and Southern Dragon Kings. Zi Yan orders the three islands' forces to retreat and is nearly finished when Xiao Yan arrives with Medusa. Xiao Yan cleanses the dragon-blood poison in Zi Yan with the Purifying Demonic Lotus Flame and fights the Northern Dragon King, who has not truly reached Six-Star Dou Sheng. The Dragon King shrugs off Xiao Yan's soul attacks, and Xiao Yan learns he is in league with the Hun Clan and means to offer Zi Yan's soul to them. Enraged, Xiao Yan merges with his flames into the Destruction Fire Body to kill him.",
+  "events": [
+    "Xiao Yan senses through the Dragon Seal that Zi Yan is in danger on North Dragon Island.",
+    "Zi Yan fights the Northern Dragon King with the Dragon Slayer Sword.",
+    "The Northern Dragon King starts the Dragon Transformation Array.",
+    "He reveals he devoured the Western and Southern Dragon Kings.",
+    "Xiao Yan and Medusa arrive and save Zi Yan.",
+    "Xiao Yan cleanses Zi Yan with the Purifying Demonic Lotus Flame.",
+    "Xiao Yan learns the Northern Dragon King serves the Hun Clan.",
+    "Xiao Yan takes the Destruction Fire Body."
+  ],
+  "introduced": [
+    "North Dragon Island",
+    "Dragon Transformation Array (forbidden technique of the Void Ancient Dragons)",
+    "Destruction Fire Body",
+    "King Kong Glass Body (as 'Vajra Lapis Lazuli Body')"
+  ],
+  "cultivation": "The Northern Dragon King has absorbed two Dragon Kings but 'can't be considered a true six-star Dou Sheng'. No change for Xiao Yan.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "northern-dragon-king",
+      "name": "Northern Dragon King",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "OCR of burned-in subtitles: garbled opening/ending text, stray characters, and some lines lose their subject. 154-182s is a recap of EP269; it says Xiao Yan condensed a six-colored fire lotus and killed Huang Tian, neither of which EP269's subtitles show.",
+    "Burned-in wording: 'Taixu Ancient Dragon Clan' / 'Ancient Dragon Clan of the Void' (Void Ancient Dragons), 'Tung Lung/Donglong Island' (East Dragon Island), 'Southwest Dragon King' (594.5, the Southern and Western Dragon Kings), 'Purple Research' (1027.5, Zi Yan), 'Destroy Fire Body' (1130.5).",
+    "684.5 'That guy Huang Tian is really a piece of trash': speaker unclear.",
+    "722.5 'He can't be considered a true six-star Dou Sheng' is said of the Northern Dragon King; not recorded as his realm.",
+    "823.5 'Vajra Lapis Lazuli Body' is read as Xiao Yan's King Kong Glass Body.",
+    "1013.0-1014.5 and 1087-1117s: who says each line between Xiao Yan and Zi Yan is not always clear."
+  ]
+}

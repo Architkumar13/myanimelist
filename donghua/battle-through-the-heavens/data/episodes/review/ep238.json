@@ -1,0 +1,105 @@
+{
+  "ep": 238,
+  "title": "Gu You of the Hun Clan",
+  "summary": "Xiao Yan leaves the Bodhisattva Ancient Tree with the Bodhisattva Heart, but Jiu Feng seals the space with the Illusory Heavenly Phoenix. Hun Yu calls in Gu You, a Ban Sheng of the Hun Clan who calls himself the Second Tianzun, to capture Xiao Yan and Xun Er. Xun Er holds Gu You back with the Gold Emperor Incinerating Heavenly Flame while Xiao Yan fuses his Heavenly Flames. Gu You merges his soul with a skeleton and puts on the Ten Thousand Soul Bone Armor, but Xiao Yan's Fire Lotus wounds him badly. Yao Lao arrives to protect his disciple, and Tong Xuan and other Gu Clan elders come too, so Gu You and Hun Yu withdraw. Tong Xuan takes Xun Er back to the Gu Clan and promises to watch the Hun Clan.",
+  "events": [
+    "Xiao Yan says goodbye to the Bodhisattva Ancient Tree.",
+    "Jiu Feng seals the space; Hun Yu summons Gu You.",
+    "Gu You names himself the Second Tianzun and targets Xiao Yan and Xun Er.",
+    "Xun Er fights Gu You with the Gold Emperor Incinerating Heavenly Flame and Formation.",
+    "Gu You uses Soul Sacrifice and the Ten Thousand Soul Bone Armor.",
+    "Xiao Yan's fused-flame attack wounds Gu You.",
+    "Yao Lao and the Gu Clan elder Tong Xuan arrive; the Hun Clan withdraws.",
+    "Xun Er leaves with Tong Xuan."
+  ],
+  "introduced": [
+    "Gu You",
+    "Illusory Heavenly Phoenix",
+    "Gold Emperor Incinerating Heavenly Flame",
+    "Gold Emperor Incinerating Heavenly Formation",
+    "Soul Sacrifice",
+    "Ten Thousand Soul Bone Armor",
+    "Yao Sheng Zhe (Yao Lao's new title)"
+  ],
+  "cultivation": "Xiao Yan is now a Ninth Turn Dou Zun (peak, per the recap). Gu You is a Ban Sheng. Yao Lao is greeted as Yao Sheng Zhe for reaching Ban Sheng.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false
+    },
+    {
+      "id": "gu-qing-yang",
+      "name": "Gu Qing Yang",
+      "first": false
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "first": false
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "first": false
+    },
+    {
+      "id": "hun-yu",
+      "name": "Hun Yu",
+      "first": false
+    },
+    {
+      "id": "jiu-feng",
+      "name": "Jiu Feng",
+      "first": false
+    },
+    {
+      "id": "gu-you",
+      "name": "Gu You",
+      "realm": "Ban Sheng",
+      "quote": "[Gu You, Ban Sheng]",
+      "first": true,
+      "card": 236.5
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "tong-xuan",
+      "name": "Tong Xuan",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file opens with an '[Episode 169]' card; it is EP238 (it follows EP237 and its recap matches).",
+    "0-40s is a recap of EP237. The recap says Xiao Yan received the Bodhisattva Heart.",
+    "320s: Gu You says 'address me as Second Tianzun'. Tianzun is a Hall of Souls title (EP228); here a Hun Clan man uses it. EP239 sends Hun Yu to the Hall of Souls to train, which links the two.",
+    "443s: the Gold Emperor Incinerating Heavenly Flame is Xun Er's (Gu You praises its power, then she says her task was to buy time).",
+    "188s: Jiu Feng's tribe is called 'the Hall of Souls' lapdog'.",
+    "850-865s: Gu Clan elders arrive; only Tong Xuan is named."
+  ]
+}

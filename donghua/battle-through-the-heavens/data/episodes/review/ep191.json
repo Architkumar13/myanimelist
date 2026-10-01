@@ -1,0 +1,73 @@
+{
+  "ep": 191,
+  "title": "The Hidden Dou Zun",
+  "summary": "In the Pill Realm, Chen Xian and two Profound Xuan Sect Dou Zongs attack Xiao Yan. He holds them off with his Earth Demon Puppet and the Green Lotus Change, then breaks Chen Xian's meridians with the Mysterious Fire Blades. Cao Ying invites Xiao Yan to join her group, but he chooses to work alone. Zi Yan is now the boss of Xiong Zhan and his beasts, and she complains that their herbs are inedible. Xiao Yan puts the Mystic Water Tiger Dragon to sleep with Water Cloud Fruit syrup and takes the Spiritual Pill Starch. A man hiding among the alchemists reveals himself as a Hall of Souls Dou Zun and traps Cao Ying, Song Qing and other Pill Tower geniuses in a Spiritual Barrier. Xiao Yan comes to help and holds the Dou Zun off with the Luminous Jadeite Change, the Flame Splitting Tsunami and his seals, giving Cao Ying time to break the barrier, and everyone flees as the Dou Zun gives chase.",
+  "events": [
+    "Chen Xian orders his men to kill Xiao Yan.",
+    "Xiao Yan cripples Chen Xian, and the Profound Xuan Sect vows revenge.",
+    "Xiao Yan turns down Cao Ying's offer of an alliance.",
+    "Zi Yan bosses Xiong Zhan's beasts around and mentions Dragon Island.",
+    "Xiao Yan drugs the Mystic Water Tiger Dragon and takes the Spiritual Pill Starch.",
+    "A hidden Hall of Souls Dou Zun traps the Pill Tower geniuses in a Spiritual Barrier.",
+    "Xiao Yan stalls the Dou Zun while Cao Ying breaks the barrier.",
+    "The alchemists flee, chased by the Dou Zun."
+  ],
+  "introduced": [
+    "Green Lotus Change",
+    "Mysterious Fire Blades",
+    "Dragon Island",
+    "Spiritual Pill Starch",
+    "Mystic Water Tiger Dragon",
+    "Water Cloud Fruit",
+    "Luminous Jadeite Change"
+  ],
+  "cultivation": "Chen Xian's two guards are called strong Dou Zongs (116s). The hidden enemy is called 'a strong Dou Zun' (889s).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "chen-xian",
+      "name": "Chen Xian",
+      "first": false
+    },
+    {
+      "id": "song-qing",
+      "name": "Song Qing",
+      "first": false
+    },
+    {
+      "id": "cao-ying",
+      "name": "Cao Ying",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "xiong-zhan",
+      "name": "Xiong Zhan",
+      "first": false
+    },
+    {
+      "id": "mu-gu",
+      "name": "Mu Gu",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10s [Episode 191] card; 16-47s recap.",
+    "125-129s: Song Qing's inner thought that he would like Xiao Yan to embarrass himself 'in front of Ying'.",
+    "159s: 'Octane...' looks like a garbled technique name.",
+    "223-237s: Xiao Yan fights beside a protector; EP192's recap says it is the Earth Demon Puppet.",
+    "420-487s: 'Boss' and 'My Lady' is Zi Yan; she is not named here but is named in EP192, where she commands Xiong Zhan.",
+    "651-971s: the hidden Dou Zun is not named here; EP192 shows it is Mu Gu ('These energy waves feel familiar' at 698s).",
+    "834-835s: 'Sky Fire Three Mysterious Changes. Luminous Jadeite Change!' is taken as the Second Change; the number is not said."
+  ]
+}

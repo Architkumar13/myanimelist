@@ -1,0 +1,86 @@
+{
+  "ep": 277,
+  "title": "The Medicine Emperor's Remnant Soul",
+  "summary": "Hun Xuzi seals the Medicine Clan's space and says the Hun Clan sees every other clan as stepping stones. Ethereal flames of the Void Devouring Flame fall on the clan, and only the Purifying Demonic Lotus Flame keeps them off Xiao Yan and Yao Lao for a while. Yao Dan orders the Heavenly Transformation Medicine Array, the protective array left by the clan's founder, the Medicine Emperor. The true Void Devouring Flame appears as a flame spirit, stronger than Yao Dan, and breaks the array. In despair Yao Dan calls back the Medicine Emperor's remnant soul. The Void Devouring Flame mocks the dazed remnant and finally devours it, though it is badly hurt. With the Medicine Emperor gone, the Medicine Clan's bloodline power fades, Yao Lao's too, and Yao Lao tells Xiao Yan to escape if he can because the Sky Mansion Alliance and his father need him.",
+  "events": [
+    "Hun Xuzi seals off the Medicine Clan's space.",
+    "The Void Devouring Flame's flames fall on the clan; the Purifying Demonic Lotus Flame shields Xiao Yan and Yao Lao.",
+    "Yao Dan activates the Heavenly Transformation Medicine Array.",
+    "The true Void Devouring Flame appears and breaks it.",
+    "Yao Dan summons the Medicine Emperor's remnant soul.",
+    "The Void Devouring Flame devours the remnant soul.",
+    "The clan's bloodline power fades; Yao Lao urges Xiao Yan to flee.",
+    "Hun Clan forces are called in to kill every Medicine Clan member."
+  ],
+  "introduced": [
+    "Heavenly Transformation Medicine Array",
+    "Medicine Emperor",
+    "Ancestor Returns to His Position",
+    "Wan Dan Hua Tian"
+  ],
+  "cultivation": "The Void Devouring Flame's spirit is said to be stronger than Yao Dan. Yao Lao loses his Medicine Clan bloodline power. No change for Xiao Yan.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-xuzi",
+      "name": "Hun Xuzi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-dan",
+      "name": "Yao Dan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "void-devouring-flame",
+      "name": "Void Devouring Flame",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null,
+      "look": "takes form as a flame spirit, the 'True Void Devouring Flame'"
+    },
+    {
+      "id": "medicine-emperor",
+      "name": "Medicine Emperor",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 718.8,
+      "look": "a dazed remnant soul"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "This track is a rough machine-like translation: 'Konkyoshi' = Hun Xuzi, 'medicinal pills' / 'Chief Yaodan' = Yao Dan, 'medicine dust' = Yao Chen (Yao Lao), 'Medicine Day' = Yao Tian, 'Medicine Spirit' = Yao Ling, 'Medicine Star' = Yao Xing Ji, 'Soul Clan' = Hun Clan, 'Soul Hall/Palace/Temple' = Hall of Souls, 'Tianfu Alliance' = Sky Mansion Alliance, 'Ancient Clan/tribe' = Gu Clan, 'pharmacopoeia' = Pill Gathering, 'strange fire' = Heavenly Flame. 'Void Master' = the Void Devouring Flame.",
+    "Many lines are fragments (e.g. 190-196s, 611-617s, 893-907s); events are read from the clearer lines and the EP278 recap.",
+    "133-176s is a recap of EP276.",
+    "Array name varies: 'Heavenly Medicine Array' (430.5), 'Transformation Heaven Medicine Array' (461.1); EP278's recap 'Heavenly Transformation Medicine Array' is used.",
+    "652.2 'Wan Dan Hua Tian' and 661.2 'Ancestor Returns to His Position' are Yao Dan's commands for summoning the Medicine Emperor's remnant soul.",
+    "525.3 'much stronger than the Spirit Race and the Stone Race': the Hun Clan has already attacked the Ling Clan and Stone Clan.",
+    "1077-1084s the line about bloodline power disappearing is read as Yao Lao's.",
+    "1152-1161s: someone (likely Yao Dan) says 'I never expected to meet you again. How did you end up in such a state?' to a 'Soul Clan Demon Saint'; who is not clear."
+  ]
+}

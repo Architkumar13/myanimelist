@@ -1,0 +1,82 @@
+{
+  "ep": 159,
+  "title": "The Spatial Storm",
+  "summary": "On the sixteenth day in the Wormhole, a spatial storm tears the route apart. The Little Fairy Doctor shields the ship and Zi Yan uses a spatial technique, then Xiao Yan goes outside and pushes the ship to the exit with the Three Thousand Lightning Movement. His companions come out safe and read a flickering spatial rune as a sign he survived, but he is pulled away by the storm. He wakes in the north of the Central Plains, rescued by Han Xue, the Second Young Lady of the Han family convoy from Tian Bei City, and her guard Han Chong. In the Ten Thousand Snake Gorge, the demon snake Xia Mang takes the convoy's toll and then tries to seize Han Xue. Still injured, Xiao Yan drives him off with Soul Power without showing his face, and Han Xue wonders whether the hidden rescuer was him.",
+  "events": [
+    "Sixteen days into the Wormhole, a spatial storm hits.",
+    "The Little Fairy Doctor shields the ship and Zi Yan uses a spatial technique.",
+    "Xiao Yan pushes the ship out with the Three Thousand Lightning Movement and is swallowed by the storm.",
+    "The others find a flickering spatial rune and hope he survived.",
+    "Han Xue's convoy finds Xiao Yan; Han Chong tends to him.",
+    "Han Chong explains the Ten Thousand Snake Gorge and the demon snake Xia Mang.",
+    "Xia Mang takes the toll, then turns on Han Xue.",
+    "A hidden Xiao Yan scares Xia Mang off with Soul Power."
+  ],
+  "introduced": [
+    "spatial storm",
+    "spatial rune",
+    "Han Xue",
+    "Han Chong",
+    "Han family",
+    "Tian Bei City",
+    "Ten Thousand Snake Gorge",
+    "Xia Mang",
+    "transformation pill"
+  ],
+  "cultivation": "Han Xue is a Three-Star Dou Wang. Xia Mang has just become a Dou Huang.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "xin-lan",
+      "name": "Xin Lan",
+      "first": false
+    },
+    {
+      "id": "han-chong",
+      "name": "Han Chong",
+      "first": true,
+      "card": 496
+    },
+    {
+      "id": "han-xue",
+      "name": "Han Xue",
+      "realm": "3-star Dou Wang",
+      "quote": "(A young Three-Star Dou Wang.)",
+      "first": true,
+      "card": 670
+    },
+    {
+      "id": "xia-mang",
+      "name": "Xia Mang",
+      "realm": "Dou Huang",
+      "quote": "He has just become a Dou Huang",
+      "first": true,
+      "card": 850
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: moved Luo Cheng's gift of the space ship to EP158 (Luo Cheng is out of the cast); added from EP160 Xiao Yan driving off Xia Mang in hiding; card times moved to the new clock."
+  ],
+  "flags": [
+    "0-40s is the recap, with faction name captions over the map at 5-14s.",
+    "273s: 'Soul condensation!' is called during the storm; it is taken as Zi Yan's spatial move but the speaker is not clear.",
+    "693s: Xiao Yan thinks Han Xue 'looks awfully familiar'; EP160 shows she is Han Yue's sister.",
+    "781-786s: Xia Mang is a Rank Six beast who took a transformation pill.",
+    "985-1047s: the rescuer is never shown; Xia Mang's 'Soul Power? You're an alchemist!' and EP160's recap identify him as Xiao Yan in disguise."
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "ep": 33,
+  "title": "Waking Without Yao Lao",
+  "summary": "Five days after the battle with Mo Cheng, Xiao Yan still lies unconscious in Shi Mo City, and Yao Lao has fallen asleep in his ring after spending all his Soul Power. At the Desert Metal Mercenary Company a captured Magical Beast breaks loose and hurts Xiao Li, and the mercenary Luo Bu steps in, then sneers that Xiao Yan will never recover. In a nightmare Xiao Yan fights his own hatred, strikes down a vision of his master, and remembers Yao Lao's lesson about letting go of grudges. He wakes understanding that every time he borrowed Yao Lao's power he was burning his master's Soul Power. His own Soul Power is damaged, so he gives Hai Bodong the Spiritual Recovery Purple Pill recipe, and Hai Bodong tells him herbs that restore Soul Power may be found at the Mite'er Auction House headquarters in the capital of the Jia Ma Empire. Xiao Ding quietly lays a trap for Luo Bu, while Xiao Yan starts refining the Core-Fire Lotus Seed and pushes its excess energy into the little Heaven Swallowing Python to survive it.",
+  "events": [
+    "Xiao Yan has been unconscious for five days; no physician or alchemist in Shi Mo City can help.",
+    "A captured Magical Beast escapes at the training ground and injures Xiao Li; Luo Bu subdues it and mocks Xiao Yan's condition.",
+    "In a nightmare Xiao Yan battles his hatred toward Nalan Yanran and dreams he has killed Yao Lao.",
+    "He wakes and realises that borrowing Yao Lao's power drained his master's Soul Power.",
+    "Xiao Ding asks Hai Bodong to keep the killing of Mo Cheng, External Deacon of the Misty Cloud Sect, secret.",
+    "Xiao Yan gives Hai Bodong the Spiritual Recovery Purple Pill recipe; Hai Bodong points him to the Mite'er Auction House headquarters in the capital.",
+    "Xiao Ding and Hai Bodong spread word that Hai Bodong is leaving, to bait Luo Bu.",
+    "Xiao Yan refines the Core-Fire Lotus Seed and channels its surplus energy into the little python."
+  ],
+  "introduced": [
+    "Core-Fire Lotus Seed",
+    "Mite'er Auction House headquarters (in the capital)",
+    "Sand Lizard",
+    "Shi Mo City"
+  ],
+  "cultivation": "No breakthrough. Xiao Yan says the Angry Buddha Lotus Flame has severely damaged his Soul Power, so he cannot refine the Spiritual Recovery Purple Pill for now. Yao Lao's Soul Power is exhausted and he is asleep.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "luo-bu",
+      "name": "Luo Bu",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "heaven-swallowing-python",
+      "name": "Heaven Swallowing Python",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-136s is the end of EP32 (Yao Lao falls asleep after the Angry Buddha Lotus Flame); the [Episode 33] card is at 162.",
+    "Subtitles carry stray OCR noise (e.g. 'go torsleep', 'haveiyou', trailing characters like 'ix-tJ'); meaning is clear throughout.",
+    "248.0: 'Xue Lan' is said once, apparently addressing someone at the mercenary company; it is not clear who.",
+    "382-389: a mercenary says the beast was sedated in its cage 'but that guy...', hinting Luo Bu let it out; not stated outright.",
+    "The 'little one' Xiao Yan feeds the lotus seed energy to (1057-1146) is not named here; EP34 shows it is the Heaven Swallowing Python, Medusa's evolved form."
+  ]
+}

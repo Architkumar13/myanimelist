@@ -1,0 +1,5799 @@
+[
+  {
+    "id": "ge-ye",
+    "name": "Ge Ye",
+    "zh": "葛叶",
+    "aka": [
+      "Elder Ge Ye",
+      "Mr. Ge Ye"
+    ],
+    "wiki": "Ge Ye",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Misty Cloud Sect",
+    "side": "rival",
+    "intro": "A Misty Cloud Sect elder who escorts Nalan Yanran to the Xiao Clan to break off her engagement (EP1) and later guards her as the sect's deacon. At the Three-Year Agreement he testifies that Mo Cheng was killed by masked Dou Huangs with a white flame, turning the sect against Xiao Yan (EP58).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "First seen",
+        "desc": "Misty Cloud Sect elder with a gold topknot crown, thin moustache and goatee, in pale robes with gold trim.",
+        "img": "img/wiki/3882DA32-23FF-4C1C-9D6B-D909FD952ADB-6d49a0.jpeg"
+      }
+    ],
+    "card": 408.5
+  },
+  {
+    "id": "han-feng",
+    "name": "Han Feng",
+    "zh": "韩枫",
+    "aka": [
+      "Medicine Emperor"
+    ],
+    "wiki": "Han Feng",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Black-Corner Region",
+    "side": "enemy",
+    "intro": "Yao Lao's disciple who betrayed him for the Flame Mantra (EP1 prologue) and became the Medicine Emperor of the Black-Corner Region, a sixth-tier alchemist with the Sea Heart Flame. He raids Jia Nan Academy for the Fallen Heart Flame (EP104-108), is killed by Medusa (EP114), returns as a Hall of Souls Dou Zong (EP148), and his captured soul is finally destroyed by Yao Lao (EP239).",
+    "power": [
+      {
+        "ep": 95,
+        "realm": "Dou Huang",
+        "detail": "called \"a strongest Dou Huang\" and a sixth-tier alchemist",
+        "conf": "high"
+      },
+      {
+        "ep": 114,
+        "realm": "peak Dou Huang",
+        "detail": "called a Half-Step Dou Zong when he fights Xiao Yan at Feng City",
+        "conf": "high"
+      },
+      {
+        "ep": 148,
+        "realm": "Dou Zong",
+        "detail": "Xiao Yan sees he has survived and broken through to Dou Zong",
+        "conf": "high"
+      },
+      {
+        "ep": 156,
+        "realm": "5-star Dou Zong",
+        "detail": "about Five-Star after taking Protector Xuan's power (an ally's estimate)",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "First seen",
+        "desc": "Long black hair under a gold crown; blue robes with gold shoulder pieces.",
+        "img": "img/wiki/Han_Feng-cb1eed.png"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 1,
+        "text": "In the prologue he betrays his master Yao Chen to get the Flame Mantra."
+      },
+      {
+        "ep": 95,
+        "text": "Shown as the Medicine Emperor of the Black-Corner Region, drawn by Yao Lao's pill phenomenon."
+      },
+      {
+        "ep": 108,
+        "text": "Fights Xiao Yan for the Fallen Heart Flame, learns his old master lives in Xiao Yan's ring, and is blasted into a coma."
+      },
+      {
+        "ep": 114,
+        "text": "Loses again at Feng City and is killed by Medusa's kick; the Hall of Souls takes his soul and the Sea Heart Flame."
+      },
+      {
+        "ep": 148,
+        "text": "Reappears in a gray robe as a Dou Zong serving the Hall of Souls and Demon Flame Valley."
+      },
+      {
+        "ep": 156,
+        "text": "Flees with a fragment of his soul, which Xiao Yan catches and keeps as a prisoner."
+      },
+      {
+        "ep": 239,
+        "text": "Given to Yao Lao, he attacks with a move Mu Gu taught him and is destroyed."
+      }
+    ],
+    "card": 9.0
+  },
+  {
+    "id": "jia-lie-ao",
+    "name": "Jia Lie Ao",
+    "zh": "賈列奧",
+    "aka": [
+      "Young Master Jia Lie"
+    ],
+    "wiki": "Jia Lie Ao",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Others",
+    "side": "enemy",
+    "intro": "Heir of the Jia Lie Clan, the Xiao Clan's rivals in Wu Tan City, who mocks Xiao Yan as trash (EP1). Xiao Yan floors him with the Vacuum Palm (EP2), and when the Jia Lie Clan attacks the Xiao Residence his own father turns on him for the clan's sake (EP3).",
+    "power": [
+      {
+        "ep": 2,
+        "realm": "6-star Dou Zhe",
+        "detail": "\"Six-Star Dou Zhe?\" as he shows his power before the fight",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "First seen",
+        "desc": "Young man with a gold topknot ornament, in dark green robes with gold trim.",
+        "img": "img/wiki/Jie_La_Ao-b4f9d8.jpg"
+      }
+    ],
+    "card": 1664.0
+  },
+  {
+    "id": "mu-gu",
+    "name": "Mu Gu",
+    "zh": "慕骨老人",
+    "aka": [
+      "Old Mu Gu",
+      "Old Monster Mu Gu"
+    ],
+    "wiki": "Old Mu Gu",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Hall of Souls",
+    "side": "enemy",
+    "intro": "An Honorable Elder of the Hall of Souls, a Dou Zun and eight-tier alchemist expelled from Yao Chen's sect, who stood beside Han Feng at Yao Chen's betrayal (EP1) and pushed him into it. He holds the Sea Heart Flame, hunts Xiao Yan at the Pill Gathering and tries to seize the Three Thousand Burning Flame (EP189-196), and Yao Lao, now a Dou Sheng, settles their score in the Human Hall (EP255).",
+    "power": [
+      {
+        "ep": 189,
+        "realm": "Dou Zun",
+        "detail": "Han Feng's soul names him a Dou Zun and eight-tier alchemist",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "First seen",
+        "desc": "White-haired old man in a dark robe, seen at Han Feng's side in the prologue."
+      }
+    ],
+    "card": 14.2
+  },
+  {
+    "id": "nalan-yanran",
+    "name": "Nalan Yanran",
+    "zh": "纳兰嫣然",
+    "aka": [
+      "Martial Sister Nalan",
+      "Young Lady"
+    ],
+    "wiki": "Nalan Yanran",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Misty Cloud Sect",
+    "side": "ally",
+    "intro": "Granddaughter of Nalan Jie and Yun Yun's disciple, the Misty Cloud Sect's Young Lady, who breaks off her betrothal to Xiao Yan and sets the Three-Year Agreement (EP1). She loses the duel (EP57-58), comes to regret the broken engagement, passes the Gate of Life and Death (EP127) and later follows Yun Yun to the Flower Sect, travelling with Xiao Yan as a friend (EP167-170).",
+    "power": [
+      {
+        "ep": 57,
+        "realm": "Da Dou Shi",
+        "detail": "\"Martial Sister Nalan has already advanced to become a Da Dou Shi\" before the duel",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "First seen",
+        "desc": "Young woman with dark hair in a bun, in a blue-and-white Misty Cloud Sect dress.",
+        "img": "img/wiki/Nalanyanran1-84e217.jpg"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 1,
+        "text": "Comes with Ge Ye to cancel the betrothal; Xiao Yan answers with a letter of repudiation and the Three-Year Agreement."
+      },
+      {
+        "ep": 38,
+        "text": "Admits she shamed the Xiao Clan but still insists she was not wrong."
+      },
+      {
+        "ep": 54,
+        "text": "Flashback to her childhood, her entry into the Misty Cloud Sect and her succession as Young Lady."
+      },
+      {
+        "ep": 58,
+        "text": "Loses to Xiao Yan's Angry Buddha Lotus Flame; he stops her taking her own life and ends the grudge."
+      },
+      {
+        "ep": 65,
+        "text": "Tells Yun Yun she regrets the broken engagement and asks to enter the Gate of Life and Death."
+      },
+      {
+        "ep": 127,
+        "text": "Comes out of seclusion having passed the Gate of Life and Death."
+      },
+      {
+        "ep": 167,
+        "text": "Saved by Xiao Yan in the Heaven Eye Mountain Range, she travels with him to the Blood Pool."
+      }
+    ],
+    "card": 373.5
+  },
+  {
+    "id": "xiao-yan",
+    "name": "Xiao Yan",
+    "zh": "萧炎",
+    "aka": [
+      "Yan Er",
+      "Yan Xiao",
+      "Yao Yan",
+      "Third Young Master",
+      "Young Pavilion Chief",
+      "Young Alliance Master"
+    ],
+    "wiki": "Xiao Yan",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Xiao Clan",
+    "side": "ally",
+    "intro": "The Xiao Clan's \"trash\" third young master who, guided by Yao Lao from his black ring, rises from Dou Zhi Qi to Dou Sheng by gathering Heavenly Flames and becomes a top alchemist. By EP281 he is a Five-Star Dou Sheng, holder of the Purifying Demonic Lotus Flame and Young Alliance Master of the Sky Mansion Alliance, still hunting the Hun Clan who hold his father.",
+    "power": [
+      {
+        "ep": 1,
+        "realm": "Dou Zhi Qi 3rd stage",
+        "detail": "stuck there for three years while Yao Lao drained his Dou Zhi Qi",
+        "conf": "high"
+      },
+      {
+        "ep": 2,
+        "realm": "Dou Zhi Qi 9th stage",
+        "detail": "half a year of Yao Lao's training; the last step comes in his sleep",
+        "conf": "high"
+      },
+      {
+        "ep": 3,
+        "realm": "Dou Zhe",
+        "detail": "condenses the Dou Zhi Qi cyclone with the Qi Gathering Pill",
+        "conf": "high"
+      },
+      {
+        "ep": 4,
+        "realm": "6-star Dou Zhe",
+        "detail": "after a month in a hidden cave in the Magical Beast Mountain Range",
+        "conf": "high"
+      },
+      {
+        "ep": 7,
+        "realm": "9-star Dou Zhe",
+        "detail": "skips two stars when Yun Zhi guides the Purple Flame into him",
+        "conf": "high"
+      },
+      {
+        "ep": 11,
+        "realm": "1-star Dou Shi",
+        "detail": "swallows the Purple Flame with the Flame Mantra",
+        "conf": "high"
+      },
+      {
+        "ep": 15,
+        "realm": "2-star Dou Shi",
+        "detail": "cultivating in the Tager Desert",
+        "conf": "high"
+      },
+      {
+        "ep": 28,
+        "realm": "4-star Dou Shi",
+        "detail": "refining the Green Lotus Core Flame",
+        "conf": "high"
+      },
+      {
+        "ep": 40,
+        "realm": "7-star Dou Shi",
+        "detail": "refining the Dou Qi hidden in Nalan Jie's Searing Poison",
+        "conf": "high"
+      },
+      {
+        "ep": 56,
+        "realm": "8-star Dou Shi",
+        "detail": "the Three Lines Green Spirit Pill; a Dou Crystal forms",
+        "conf": "high"
+      },
+      {
+        "ep": 56,
+        "realm": "Da Dou Shi",
+        "detail": "the same breakthrough; his Dou Qi can now leave his body",
+        "conf": "high"
+      },
+      {
+        "ep": 67,
+        "realm": "3-star Da Dou Shi",
+        "detail": "absorbing Yao Lao's medicine; a 'Two-Star' line in the scene is the power he can control, and EP68's recap confirms Three-Star",
+        "conf": "high"
+      },
+      {
+        "ep": 73,
+        "realm": "4-star Da Dou Shi",
+        "detail": "Fan Ling names it; no breakthrough is shown",
+        "conf": "medium"
+      },
+      {
+        "ep": 77,
+        "realm": "6-star Da Dou Shi",
+        "detail": "breaks through mid-melee in the qualifying competition (Bai Shan names it)",
+        "conf": "medium"
+      },
+      {
+        "ep": 86,
+        "realm": "7-star Da Dou Shi",
+        "detail": "four days on the tower's fourth level",
+        "conf": "high"
+      },
+      {
+        "ep": 88,
+        "realm": "8-star Da Dou Shi",
+        "detail": "a month of seclusion in the tower",
+        "conf": "high"
+      },
+      {
+        "ep": 92,
+        "realm": "Dou Ling",
+        "detail": "marrow washing with the Core Quenching Body Milk; two stars at once",
+        "conf": "high"
+      },
+      {
+        "ep": 97,
+        "realm": "2-star Dou Ling",
+        "detail": "students on the sixth floor name it",
+        "conf": "medium"
+      },
+      {
+        "ep": 102,
+        "realm": "5-star Dou Ling",
+        "detail": "after three days unconscious following the tie with Liu Qing",
+        "conf": "high"
+      },
+      {
+        "ep": 111,
+        "realm": "Dou Wang",
+        "detail": "two years inside the Fallen Heart Flame; his Dou Crystal dissolves",
+        "conf": "high"
+      },
+      {
+        "ep": 132,
+        "realm": "Dou Huang",
+        "detail": "a year of seclusion with Mighty Huang Pills",
+        "conf": "high"
+      },
+      {
+        "ep": 140,
+        "realm": "1-star Dou Huang",
+        "detail": "enemies call him \"a mere One-Star Dou Huang\"",
+        "conf": "medium"
+      },
+      {
+        "ep": 142,
+        "realm": "2-star Dou Huang",
+        "detail": "peak Two-Star, refining one vein of the Demon Poison Spot",
+        "conf": "high"
+      },
+      {
+        "ep": 149,
+        "realm": "4-star Dou Huang",
+        "detail": "Qi Shan's side names it; no breakthrough is shown",
+        "conf": "medium"
+      },
+      {
+        "ep": 154,
+        "realm": "6-star Dou Huang",
+        "detail": "after the lava world under the Inner Academy",
+        "conf": "high"
+      },
+      {
+        "ep": 161,
+        "realm": "7-star Dou Huang",
+        "detail": "Hong Chen names it",
+        "conf": "medium"
+      },
+      {
+        "ep": 169,
+        "realm": "9-star Dou Huang",
+        "detail": "Jin Shi: \"you just reached Nine-Star Dou Huang\"",
+        "conf": "medium"
+      },
+      {
+        "ep": 170,
+        "realm": "Dou Zong",
+        "detail": "at the bottom of the Heavenly Mountain Blood Pool",
+        "conf": "high"
+      },
+      {
+        "ep": 178,
+        "realm": "1-star Dou Zong",
+        "detail": "the Ice River Valley names it",
+        "conf": "high"
+      },
+      {
+        "ep": 179,
+        "realm": "2-star Dou Zong",
+        "detail": "absorbing part of the Demon Poison Spot while burning the Ice Zun Force out of Little Fairy Doctor",
+        "conf": "high"
+      },
+      {
+        "ep": 185,
+        "realm": "4-star Dou Zong",
+        "detail": "Ling Quan names it after he fully refines the Demon Poison Spot",
+        "conf": "medium"
+      },
+      {
+        "ep": 197,
+        "realm": "9-star Dou Zong",
+        "detail": "refining the Three Thousand Burning Flame",
+        "conf": "high"
+      },
+      {
+        "ep": 202,
+        "realm": "Dou Zun",
+        "detail": "a year unconscious in the Falling Star Pavilion while his shattered body is rebuilt",
+        "conf": "high"
+      },
+      {
+        "ep": 207,
+        "realm": "1-star Dou Zun",
+        "detail": "Chen Tian Nan names it; Feng Qing Er's 'two-star' in EP204 comes before the real step to Two-Star in EP211",
+        "conf": "high"
+      },
+      {
+        "ep": 211,
+        "realm": "2-star Dou Zun",
+        "detail": "energy refined from the Dou Sheng skeleton",
+        "conf": "high"
+      },
+      {
+        "ep": 214,
+        "realm": "4-star Dou Zun",
+        "detail": "fusing the Bone Chilling Flame at the Flower Sect",
+        "conf": "high"
+      },
+      {
+        "ep": 216,
+        "realm": "5-star Dou Zun",
+        "detail": "the Dragon-Phoenix power Zi Yan gave him and the Void Lightning Pool",
+        "conf": "high"
+      },
+      {
+        "ep": 221,
+        "realm": "6-star Dou Zun",
+        "detail": "a six-star energy core in the Heavenly Tomb",
+        "conf": "high"
+      },
+      {
+        "ep": 225,
+        "realm": "peak 8-star Dou Zun",
+        "detail": "Xiao Xuan's bloodline; one line says Nine-Star, but the direct 'Peak Eight-Star' and later episodes agree on Eight",
+        "conf": "high"
+      },
+      {
+        "ep": 237,
+        "realm": "peak 9-star Dou Zun",
+        "detail": "enlightenment under the Bodhisattva Ancient Tree (peak Ninth Turn)",
+        "conf": "high"
+      },
+      {
+        "ep": 240,
+        "realm": "1-star Dou Sheng",
+        "detail": "after two years of seclusion with the Bodhisattva Heart and Pill",
+        "conf": "high"
+      },
+      {
+        "ep": 249,
+        "realm": "late 1-star Dou Sheng",
+        "detail": "refining Demonic Saint Huang Quan's essence blood",
+        "conf": "high"
+      },
+      {
+        "ep": 253,
+        "realm": "2-star Dou Sheng",
+        "detail": "100 days of seclusion after the Dragon Kings fight",
+        "conf": "high"
+      },
+      {
+        "ep": 272,
+        "realm": "5-star Dou Sheng",
+        "detail": "one step from the late stage after Little Yi feeds him Black Demon Lightning; the climb from Two-Star is not shown",
+        "conf": "medium"
+      },
+      {
+        "ep": 273,
+        "realm": "late 5-star Dou Sheng",
+        "detail": "after taming the Nine Profound Golden Thunder",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "First seen",
+        "desc": "Fifteen-year-old with black hair in a topknot, in dark robes; from EP4 he carries the huge black Heavy Xuan Ruler on his back.",
+        "img": "img/wiki/NLKwsd3-5a7e7d.jpg"
+      },
+      {
+        "ep": 225,
+        "label": "Xiao Clan mark",
+        "desc": "A full nine-stroke Xiao Clan mark glows across his face when his power surges.",
+        "why": "inherits Xiao Xuan's bloodline in the Heavenly Tomb"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 1,
+        "text": "Called trash after three stuck years; Nalan Yanran breaks off the engagement and he meets Yao Lao in his ring."
+      },
+      {
+        "ep": 28,
+        "text": "Swallows his first Heavenly Flame, the Green Lotus Core Flame."
+      },
+      {
+        "ep": 58,
+        "text": "Wins the Three-Year Agreement duel against Nalan Yanran at the Misty Cloud Sect."
+      },
+      {
+        "ep": 110,
+        "text": "Spends two years inside the Fallen Heart Flame and merges it with his first flame."
+      },
+      {
+        "ep": 127,
+        "text": "Kills Yun Shan, but loses Yao Lao to the Hall of Souls (EP128) and founds the Yan Alliance (EP130)."
+      },
+      {
+        "ep": 194,
+        "text": "Wins the Pill Gathering, then subdues the Three Thousand Burning Flame (EP197)."
+      },
+      {
+        "ep": 200,
+        "text": "Rescues Yao Lao from the Hall of Souls and wakes up a Dou Zun (EP202)."
+      },
+      {
+        "ep": 264,
+        "text": "Refines the Purifying Demonic Lotus Flame; his flames become the fire spirit Little Yi, and the alliance wins at Fallen Mountain (EP267)."
+      }
+    ],
+    "card": 185.0
+  },
+  {
+    "id": "xiao-zhan",
+    "name": "Xiao Zhan",
+    "zh": "萧战",
+    "aka": [
+      "Patriarch Xiao"
+    ],
+    "wiki": "Xiao Zhan",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Xiao Clan",
+    "side": "ally",
+    "intro": "Xiao Yan's father, Patriarch of the Xiao Clan in Wu Tan City, who stands by his son through the \"trash\" years and visits him in the capital during the Alchemist Conference (EP50). Masked Misty Cloud Sect attackers take him in EP62; he turns out to be a prisoner of the Hall of Souls and the Hun Clan (EP125, EP244), the reason Xiao Yan keeps fighting them.",
+    "power": [
+      {
+        "ep": 3,
+        "realm": "6-star Da Dou Shi",
+        "detail": "Jia Lie Bi: \"he's merely a Six-Star Da Dou Shi\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "First seen",
+        "desc": "Middle-aged patriarch with long dark hair, a moustache and a goatee.",
+        "img": "img/wiki/Xiao_Zhan_New_Donghua-4164fb.jpg"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 1,
+        "text": "Hears the elders call his son trash after three stuck years."
+      },
+      {
+        "ep": 3,
+        "text": "Nearly killed with Xiao Yan when Jia Lie Bi attacks the Xiao Residence."
+      },
+      {
+        "ep": 50,
+        "text": "Visits Xiao Yan in the capital, comforts him and leaves at dawn."
+      },
+      {
+        "ep": 62,
+        "text": "Holds off masked attackers so the Xiao Clan can escape, then goes missing."
+      },
+      {
+        "ep": 125,
+        "text": "Yun Shan reveals that the Hall of Souls holds him."
+      },
+      {
+        "ep": 244,
+        "text": "Shown as the Hall of Souls' prisoner when the Deputy Hall Chief demands the jade of Tuo She Gu Di."
+      }
+    ],
+    "card": 203.2
+  },
+  {
+    "id": "xun-er",
+    "name": "Xun Er",
+    "zh": "古熏",
+    "aka": [
+      "Xiao Xun Er",
+      "Gu Xun Er",
+      "Young Lady"
+    ],
+    "wiki": "Xun Er",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Gu Clan",
+    "side": "ally",
+    "intro": "The girl raised alongside Xiao Yan in the Xiao Clan, really the Gu Clan's Young Lady, sent to watch over the Xiao Clan's key, who loves him and helps him in secret. She runs the Rock Gate with him at Jia Nan Academy until her clan takes her home (EP102), rescues him in Ye City (EP184), awakens a divine-grade bloodline (EP220) and helps him refine the Purifying Demonic Lotus Flame (EP263).",
+    "power": [
+      {
+        "ep": 82,
+        "realm": "Da Dou Shi",
+        "detail": "counted among \"four Da Dou Shis\" in the Fire Energy Hunting Competition",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "First seen",
+        "desc": "Slender girl with long dark hair and hair ornaments, in a pale green-and-white dress.",
+        "img": "img/wiki/Gu_Xun_Er39-02f4a8.png"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 2,
+        "text": "Uses a secret technique to attack Liu Xi and meets Yao Lao over his body (EP3)."
+      },
+      {
+        "ep": 70,
+        "text": "Waits for Xiao Yan at Jia Nan Academy with her guardian Ling Ying."
+      },
+      {
+        "ep": 87,
+        "text": "Reveals her clan sent her for the Xiao Clan's key and warns him about the jade of Tuo She Gu Di."
+      },
+      {
+        "ep": 102,
+        "text": "Leaves with Ling Quan of the Black Submerged Army; her scroll gives Xiao Yan the God Seal Technique (EP114)."
+      },
+      {
+        "ep": 184,
+        "text": "Arrives in Ye City and drives off the Ice River Valley and the Hall of Souls, then gives him the last seals (EP185)."
+      },
+      {
+        "ep": 220,
+        "text": "Tests as a divine-grade bloodline and wins back the Xiao Clan's Heavenly Tomb slot."
+      },
+      {
+        "ep": 225,
+        "text": "Gives part of her Gu bloodline to bind Xiao Xuan's bloodline inside Xiao Yan."
+      },
+      {
+        "ep": 263,
+        "text": "Defies her clan's elder to stay and help him refine the Purifying Demonic Lotus Flame."
+      }
+    ],
+    "card": 341.5
+  },
+  {
+    "id": "yao-lao",
+    "name": "Yao Lao",
+    "zh": "药老",
+    "aka": [
+      "Yao Chen",
+      "Mr. Yao",
+      "Teacher",
+      "Yao Zun Zhe",
+      "Yao Sheng Zhe"
+    ],
+    "wiki": "Yao Lao",
+    "ep": 1,
+    "mentionEp": null,
+    "group": "Xiao Yan's companions",
+    "side": "mentor",
+    "intro": "A great alchemist betrayed by his disciple Han Feng (EP1 prologue), living as a soul in Xiao Yan's black ring, who becomes his teacher and the source of his early power. Captured by the Hall of Souls (EP128) and rescued (EP200), he gets a new body (EP210), becomes a Half-Saint (EP212) and then a Dou Sheng (EP255), and leads the Sky Mansion Alliance against the Hall of Souls.",
+    "power": [
+      {
+        "ep": 126,
+        "realm": "Dou Zun",
+        "detail": "\"This old man is a Dou Zun\", thought on seeing his soul fight",
+        "conf": "medium"
+      },
+      {
+        "ep": 212,
+        "realm": "Half-Saint",
+        "detail": "in his new body he says he is no longer a peak Nine-Star Dou Zun but a Ban Sheng",
+        "conf": "high"
+      },
+      {
+        "ep": 255,
+        "realm": "1-star Dou Sheng",
+        "detail": "breaks through with Demonic Saint Huang Quan's essence blood",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "First seen",
+        "desc": "Translucent soul of an old man with long white hair and beard, in pale blue-and-white robes.",
+        "img": "img/wiki/YaoLaoNovel-90fd5f.jpg"
+      },
+      {
+        "ep": 212,
+        "label": "Restored body",
+        "desc": "A physical body again: the same white-haired, white-bearded old alchemist, now solid.",
+        "why": "Xiao Yan refines him a new body from the Bone Growing Blood Fusing Pill and Dou Sheng remains (EP210)"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 1,
+        "text": "Wakes in Xiao Yan's black ring and takes him as a disciple."
+      },
+      {
+        "ep": 32,
+        "text": "Spends his Soul Power on the Angry Buddha Lotus Flame and falls into a deep sleep until EP64."
+      },
+      {
+        "ep": 70,
+        "text": "Reveals his real name, Yao Chen, and that the Hall of Souls hunts him."
+      },
+      {
+        "ep": 108,
+        "text": "Confronts his traitor disciple Han Feng, then sleeps again after pouring his last Soul Power into Xiao Yan (EP109)."
+      },
+      {
+        "ep": 128,
+        "text": "Captured by Protector Wu of the Hall of Souls after the battle at the Misty Cloud Sect."
+      },
+      {
+        "ep": 200,
+        "text": "Rescued from the Soul-locking Hall; gets a new body in EP210 and beats two Tianzuns as a Half-Saint (EP212)."
+      },
+      {
+        "ep": 244,
+        "text": "Becomes chief of the Sky Mansion Alliance against the Hall of Souls."
+      },
+      {
+        "ep": 276,
+        "text": "Carves his parents' names on the Medicine Clan's monument, then saves its survivors when the Hun Clan destroys it (EP279)."
+      }
+    ],
+    "card": 1222.0
+  },
+  {
+    "id": "mu-li",
+    "name": "Mu Li",
+    "zh": "穆麗",
+    "aka": [
+      "Young Master Mu"
+    ],
+    "wiki": "Mu Li",
+    "ep": 4,
+    "mentionEp": null,
+    "group": "Mercenaries",
+    "side": "enemy",
+    "intro": "Son of Mu She, leader of the Wolf Head Mercenary Company, who hunts Xiao Yan in the Magical Beast Mountain Range for the key to a treasure chest. He sets traps and spreads rumours about Little Fairy Doctor's treasure (EP4-5); his fate after his father's death (EP9) is not shown.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 4,
+        "label": "First seen",
+        "desc": "Young mercenary with long red hair.",
+        "img": "img/wiki/MuLi-8f3da3.jpg"
+      }
+    ],
+    "card": 549.8
+  },
+  {
+    "id": "mu-she",
+    "name": "Mu She",
+    "zh": "木舍",
+    "aka": [
+      "Captain Mu She"
+    ],
+    "wiki": "Mu She",
+    "ep": 4,
+    "mentionEp": null,
+    "group": "Mercenaries",
+    "side": "enemy",
+    "intro": "Leader of the Wolf Head Mercenary Company and Mu Li's father, who sends his men after Xiao Yan for the treasure chest's key (EP4-5). He leads the company to the Thousand Medicine House and is killed by Xiao Yan's Flame Splitting Tsunami (EP9).",
+    "power": [
+      {
+        "ep": 4,
+        "realm": "2-star Dou Shi",
+        "detail": "a captured mercenary names his leader's rank",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 4,
+        "label": "First seen",
+        "desc": "Middle-aged mercenary captain with red-brown hair.",
+        "img": "img/wiki/Screen_Shot_2015-11-21_at_12_46_32_PM-785e43.png"
+      }
+    ],
+    "card": 547.0
+  },
+  {
+    "id": "little-fairy-doctor",
+    "name": "Little Fairy Doctor",
+    "zh": "小医仙",
+    "aka": [
+      "Sky Poison Woman",
+      "Poison Woman"
+    ],
+    "wiki": "Little Fairy Doctor",
+    "ep": 5,
+    "mentionEp": 4,
+    "group": "Xiao Yan's companions",
+    "side": "ally",
+    "intro": "A gentle healer from the Thousand Medicine House with the deadly Woeful Poison Body, who parts from Xiao Yan in EP10 and returns years later as the Sky Poison Woman, leader of the Chu Yun Empire's Poison Sect (EP131-135). She then travels with him as one of his closest companions; he seals and later controls her poison body (EP157, EP182), and she becomes a Seven-Star Dou Zun (EP217).",
+    "power": [
+      {
+        "ep": 146,
+        "realm": "Dou Zong",
+        "detail": "reveals her strength in Black Emperor City (\"This lady is a strong Dou Zong!\")",
+        "conf": "high"
+      },
+      {
+        "ep": 151,
+        "realm": "4-star Dou Zong",
+        "detail": "the Old Ground Demon Ghost: \"a mere Four-Star Dou Zong\"",
+        "conf": "high"
+      },
+      {
+        "ep": 157,
+        "realm": "5-star Dou Zong",
+        "detail": "after the All Day Fire Seal holds her poison body",
+        "conf": "high"
+      },
+      {
+        "ep": 198,
+        "realm": "peak 3-star Dou Zun",
+        "detail": "\"even Little Fairy Doctor is now at the peak of Three-Star Dou Zun\"",
+        "conf": "medium"
+      },
+      {
+        "ep": 217,
+        "realm": "7-star Dou Zun",
+        "detail": "returns from an ancient tomb having broken through",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 5,
+        "label": "First seen",
+        "desc": "Gentle young woman in a pale dress, with a blue eagle, Lan.",
+        "img": "img/wiki/E2Aa52g-7e6969.jpg"
+      },
+      {
+        "ep": 131,
+        "label": "Sky Poison Woman",
+        "desc": "Grey hooded robe that hides her face; her hair has turned white from the Woeful Poison Body.",
+        "why": "her Woeful Poison Body has awakened and she leads the Poison Sect"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 5,
+        "text": "Shelters Xiao Yan at the Thousand Medicine House against the Wolf Head Mercenary Company."
+      },
+      {
+        "ep": 10,
+        "text": "Takes him to Medicine Valley; Yao Lao finds she has the Woeful Poison Body, and she leaves."
+      },
+      {
+        "ep": 131,
+        "text": "Reappears in Qingshan Town as the grey-robed Sky Poison Woman and flees him."
+      },
+      {
+        "ep": 135,
+        "text": "Revealed as the Poison Sect leader; Xiao Yan holds back her poison body with his Heavenly Flame (EP136)."
+      },
+      {
+        "ep": 142,
+        "text": "Suppresses the Demon Poison Spot in Xiao Yan for two years."
+      },
+      {
+        "ep": 157,
+        "text": "Xiao Yan's All Day Fire Seal holds her poison body, and she rises to Five-Star Dou Zong."
+      },
+      {
+        "ep": 182,
+        "text": "At the Sun Fire Ancient Altar her poison is compressed into a Poison Pill, bringing it under control."
+      }
+    ],
+    "card": 215.5
+  },
+  {
+    "id": "yun-yun",
+    "name": "Yun Yun",
+    "zh": "云韵",
+    "aka": [
+      "Yun Zhi",
+      "Masked Dou Huang",
+      "Ms. Yun"
+    ],
+    "wiki": "Yun Yun",
+    "ep": 6,
+    "mentionEp": 1,
+    "group": "Misty Cloud Sect",
+    "side": "ally",
+    "intro": "Leader of the Misty Cloud Sect and Nalan Yanran's master, a young Dou Huang whom Xiao Yan first meets as \"Yun Zhi\" in the Magical Beast Mountain Range (EP6-8), each hiding their real name. Torn between him and her sect, she lets him go (EP69), is forced toward a wedding with Gu He (EP125), disbands the sect after Yun Shan's death (EP129) and later leads the Flower Sect into his alliance (EP213, EP244).",
+    "power": [
+      {
+        "ep": 6,
+        "realm": "Dou Huang",
+        "detail": "the Purple Crystal Winged Lion King: \"I know you are a Dou Huang\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 6,
+        "label": "First seen",
+        "desc": "Graceful woman with long black hair in ornaments, in a flowing pale pink dress.",
+        "img": "img/wiki/YunYun-d36980.jpg"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 6,
+        "text": "As Yun Zhi, hunts the Purple Spirit Crystal with \"Yao Yan\" and leaves him her Sea's Core Vest (EP8)."
+      },
+      {
+        "ep": 22,
+        "text": "Guards Gu He in the Tager Desert as a masked Dou Huang and meets Xiao Yan again (EP26)."
+      },
+      {
+        "ep": 63,
+        "text": "Revealed to Xiao Yan as the Misty Cloud Sect's leader; he returns her gift (EP66)."
+      },
+      {
+        "ep": 69,
+        "text": "Catches him but lets him go on condition he never returns."
+      },
+      {
+        "ep": 125,
+        "text": "Her forced wedding to Gu He is stopped by Xiao Yan."
+      },
+      {
+        "ep": 129,
+        "text": "Disbands the Misty Cloud Sect and leaves the Jia Ma Empire."
+      },
+      {
+        "ep": 213,
+        "text": "With Xiao Yan's help she becomes leader of the Flower Sect."
+      }
+    ],
+    "card": 1026.0
+  },
+  {
+    "id": "ka-gang",
+    "name": "Ka Gang",
+    "zh": "",
+    "aka": [],
+    "wiki": "Ka Gang",
+    "ep": 8,
+    "mentionEp": null,
+    "group": "Mercenaries",
+    "side": "ally",
+    "intro": "A member of the Bloody Battle Mercenary Company whom Xiao Yan saves from the Wolf Head Mercenary Company and who warns him of Mr. Yao's plot (EP8). Years later in Qingshan Town Xiao Yan rescues him again from the Snake Nest Mercenary Company and the He Clan (EP130-132), and he brings news of the war on the Jia Ma Empire (EP133).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 8,
+        "label": "First seen",
+        "desc": "Sturdy middle-aged mercenary with a red headband and leather armour.",
+        "img": "img/wiki/KaGangAnime-37d60b.png"
+      }
+    ],
+    "card": 513.5
+  },
+  {
+    "id": "ling-er",
+    "name": "Ling Er",
+    "zh": "灵儿",
+    "aka": [],
+    "wiki": "Ling Er",
+    "ep": 8,
+    "mentionEp": null,
+    "group": "Mercenaries",
+    "side": "ally",
+    "intro": "A young member of the Bloody Battle Mercenary Company whom Xiao Yan saves from Gan Mu (EP8) and again from an ice beast (EP10). He rescues her and Ka Gang once more in Qingshan Town (EP130).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 8,
+        "label": "First seen",
+        "desc": "Young girl with short brown hair, in mercenary clothes.",
+        "img": "img/wiki/LingErAnime-408bdb.png"
+      }
+    ],
+    "card": 515.7
+  },
+  {
+    "id": "ao-tuo",
+    "name": "Ao Tuo",
+    "zh": "奥托",
+    "aka": [
+      "Master Ao Tuo"
+    ],
+    "wiki": "Ao Tuo",
+    "ep": 11,
+    "mentionEp": null,
+    "group": "Alchemists",
+    "side": "ally",
+    "intro": "Vice leader of the Black Rock City Alchemist Association, who tests Xiao Yan for the second tier (EP11) and takes him to the shady alchemist Gu Te (EP12). Later he brings \"Yan Xiao\" to the capital to compete for Black Rock City at the Alchemist Conference and keeps his identity secret (EP39-46).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 11,
+        "label": "First seen",
+        "desc": "Heavy-set bearded alchemist in red-and-gold robes.",
+        "img": "img/wiki/AoTuoAnime-7106e2.png"
+      }
+    ],
+    "card": 331.0
+  },
+  {
+    "id": "xue-mei",
+    "name": "Xue Mei",
+    "zh": "雪梅",
+    "aka": [],
+    "wiki": "Xue Mei",
+    "ep": 11,
+    "mentionEp": null,
+    "group": "Alchemists",
+    "side": "ally",
+    "intro": "Fu Lan Ke's disciple, who takes the first-tier alchemist exam with Xiao Yan in Black Rock City (EP11). He later saves her from a cheating alchemist in the capital (EP39) and backs her against Elder Fu Yan over a Snake Scale Ice Fire Fruit (EP124).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 11,
+        "label": "First seen",
+        "desc": "Young woman with long silver hair, in a fitted silver dress.",
+        "img": "img/wiki/XueMeiAnime-939f4d.png"
+      }
+    ],
+    "card": 479.0
+  },
+  {
+    "id": "hai-bodong",
+    "name": "Hai Bodong",
+    "zh": "海波东",
+    "aka": [
+      "Ice Emperor",
+      "Mr. Hai"
+    ],
+    "wiki": "Hai Bodong",
+    "ep": 13,
+    "mentionEp": null,
+    "group": "Jia Ma Empire",
+    "side": "ally",
+    "intro": "The Ice Emperor, once one of the Jia Ma Empire's Top Ten, sealed at Dou Ling by Medusa and running a map shop at the edge of the Tager Desert. After Xiao Yan breaks his seal (EP29) he becomes his bodyguard and lasting ally, shelters the Xiao Clan with the Mite'er family, takes the first seat of the Yan Alliance (EP130) and, as a peak Dou Zong, defends its fortress (EP226).",
+    "power": [
+      {
+        "ep": 14,
+        "realm": "Dou Ling",
+        "detail": "sealed there by Medusa's Curse of the Snakes Seal; once a Five-Star Dou Huang",
+        "conf": "high"
+      },
+      {
+        "ep": 29,
+        "realm": "Dou Huang",
+        "detail": "the Breaking Adversity Pill breaks the seal",
+        "conf": "high"
+      },
+      {
+        "ep": 30,
+        "realm": "2-star Dou Huang",
+        "detail": "says he is now Two-Star, down from five stars",
+        "conf": "high"
+      },
+      {
+        "ep": 198,
+        "realm": "Dou Zong",
+        "detail": "a letter from the Jia Ma Empire says he has advanced",
+        "conf": "medium"
+      },
+      {
+        "ep": 226,
+        "realm": "peak Dou Zong",
+        "detail": "\"The peak of Dou Zong?\" as he kills Profound Lion Sect raiders",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 13,
+        "label": "First seen",
+        "desc": "Stern map seller at the desert's edge, the Ice Emperor in disguise; white-haired in the early seasons.",
+        "img": "img/wiki/Hai_Bo_Dong54-2f8dca.png"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 14,
+        "text": "Fights Xiao Yan over the map fragment and strikes a deal to break his seal."
+      },
+      {
+        "ep": 18,
+        "text": "Song of Desert: his past with the snakewoman Die and Medusa in the Tager Desert."
+      },
+      {
+        "ep": 29,
+        "text": "Takes the Breaking Adversity Pill and is a Dou Huang again."
+      },
+      {
+        "ep": 30,
+        "text": "Agrees to guard Xiao Yan for a year for the Spiritual Recovery Purple Pill."
+      },
+      {
+        "ep": 96,
+        "text": "Saves Xiao Ding when the Misty Cloud Sect attacks the Xiao Clan."
+      },
+      {
+        "ep": 123,
+        "text": "Receives the Spiritual Recovery Purple Pill and recovers his peak strength."
+      },
+      {
+        "ep": 130,
+        "text": "Takes the first seat on the Yan Alliance's Elder's Council."
+      }
+    ],
+    "card": 822.8
+  },
+  {
+    "id": "qing-lin",
+    "name": "Qing Lin",
+    "zh": "青鳞",
+    "aka": [
+      "Reincarnated Holy Lady"
+    ],
+    "wiki": "Qing Lin",
+    "ep": 15,
+    "mentionEp": null,
+    "group": "Xiao Yan's companions",
+    "side": "ally",
+    "intro": "A half-snakeman maid of the Desert Metal Mercenary Company whose Triple Jade-Green Snake Flower Pupils command serpents; Xiao Yan protects her, and she guides him to the Green Lotus Core Flame (EP15-17). Taken by the Sky Serpent Mansion after Mo Cheng's experiments (EP32), she returns grown up and powerful (EP206), joins his companions and holds a nine-headed Ancient Sky Serpent soul.",
+    "power": [
+      {
+        "ep": 211,
+        "realm": "1-star Dou Zun",
+        "detail": "named during the Hall of Souls attack on the Falling Star Pavilion",
+        "conf": "high"
+      },
+      {
+        "ep": 216,
+        "realm": "6-star Dou Zun",
+        "detail": "after refining the serpent soul in the Ancient Dragon Tomb",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 15,
+        "label": "First seen",
+        "desc": "Timid girl with long green hair in braids, in a green dress, with green snake scales on her skin.",
+        "img": "img/wiki/QingLinNovel-bed202.png"
+      },
+      {
+        "ep": 206,
+        "label": "Grown up",
+        "desc": "A young woman in a green hooded robe, with snake scales.",
+        "why": "years with the Sky Serpent Mansion"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 15,
+        "text": "Xiao Yan stands up for the half-snakeman maid in Rock Desert City."
+      },
+      {
+        "ep": 17,
+        "text": "Contracts the Flame Spirit Serpent and leads him into the magma world."
+      },
+      {
+        "ep": 32,
+        "text": "Lu Man of the Sky Serpent Mansion takes her to mend her soul."
+      },
+      {
+        "ep": 206,
+        "text": "Meets Xiao Yan again in the Skeleton Mountain Range and joins his group."
+      },
+      {
+        "ep": 210,
+        "text": "A nine-headed Ancient Sky Serpent soul bursts out of her as her poison is cured."
+      },
+      {
+        "ep": 233,
+        "text": "Takes the Ancient Heaven Demon Python as her beast."
+      }
+    ],
+    "card": 385.0
+  },
+  {
+    "id": "xiao-ding",
+    "name": "Xiao Ding",
+    "zh": "萧鼎",
+    "aka": [
+      "Eldest Brother"
+    ],
+    "wiki": "Xiao Ding",
+    "ep": 15,
+    "mentionEp": 3,
+    "group": "Xiao Clan",
+    "side": "ally",
+    "intro": "Xiao Yan's eldest brother, captain of the Desert Metal Mercenary Company in Rock Desert City, a calm planner who backs him in the desert (EP15-35). When the Misty Cloud Sect attacks the clan he stays behind and is saved by Hai Bodong (EP96), and though poison leaves his legs paralysed (EP123) he runs the Yan Alliance's affairs with Medusa.",
+    "power": [
+      {
+        "ep": 34,
+        "realm": "Dou Shi",
+        "detail": "Luo Bu calls the brothers Dou Shi",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 15,
+        "label": "First seen",
+        "desc": "Young man with long dark hair under a crown, in a blue robe with steel shoulder armour.",
+        "img": "img/wiki/Xiaoding1-bd7537.jpg"
+      }
+    ],
+    "card": 512.2
+  },
+  {
+    "id": "xiao-li",
+    "name": "Xiao Li",
+    "zh": "萧厉",
+    "aka": [
+      "Second Brother",
+      "Li"
+    ],
+    "wiki": "Xiao Li",
+    "ep": 15,
+    "mentionEp": 3,
+    "group": "Xiao Clan",
+    "side": "ally",
+    "intro": "Xiao Yan's fierce second brother, second captain of the Desert Metal Mercenary Company. Believing his brother dead, he takes a Life Devouring Pill and builds the Xiao Gate in the Black-Corner Region (EP110-113); Xiao Yan holds the pill's curse back with the Deep Green Longevity Pill (EP130) and later gives him the Sky Fire Three Mysterious Changes to teach the clan (EP229).",
+    "power": [
+      {
+        "ep": 34,
+        "realm": "Dou Shi",
+        "detail": "Luo Bu calls the brothers Dou Shi",
+        "conf": "high"
+      },
+      {
+        "ep": 96,
+        "realm": "Da Dou Shi",
+        "detail": "breaks through after Xiao Yan treats him at the Outer Academy",
+        "conf": "high"
+      },
+      {
+        "ep": 112,
+        "realm": "Dou Wang",
+        "detail": "forced up from Da Dou Shi by the Life Devouring Pill, at the cost of his lifespan",
+        "conf": "high"
+      },
+      {
+        "ep": 149,
+        "realm": "peak Dou Wang",
+        "detail": "\"the strongest Dou Wang\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 15,
+        "label": "First seen",
+        "desc": "Tall young man with dark hair in a crown, in dark blue robes and steel armour.",
+        "img": "img/wiki/EP157-Xiao_Li-7f545d.png"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 15,
+        "text": "Spars with his returning little brother and orders the company to back him."
+      },
+      {
+        "ep": 96,
+        "text": "Tells Xiao Yan of the Misty Cloud Sect's attack on the clan and leaves for the Black-Corner Region."
+      },
+      {
+        "ep": 112,
+        "text": "Saved from Fan Lao; admits he took the Life Devouring Pill."
+      },
+      {
+        "ep": 116,
+        "text": "Runs the Xiao Gate in Feng City."
+      },
+      {
+        "ep": 130,
+        "text": "Gets the Deep Green Longevity Pill and must reach Dou Huang within ten years."
+      },
+      {
+        "ep": 149,
+        "text": "Gives Xiao Yan the Six Joint Body Flowing Ruler and receives a seed of Heart Flame."
+      }
+    ],
+    "card": 496.2
+  },
+  {
+    "id": "xue-lan",
+    "name": "Xue Lan",
+    "zh": "",
+    "aka": [],
+    "wiki": "Xue Lan",
+    "ep": 15,
+    "mentionEp": null,
+    "group": "Mercenaries",
+    "side": "ally",
+    "intro": "A Desert Metal Mercenary Company member who brings Xiao Yan to his brothers' company (EP15) and leads its scouts in the search for the Heavenly Flame (EP16).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 15,
+        "label": "First seen",
+        "desc": "Young woman with dark hair tied up, in a short top and desert mercenary gear.",
+        "img": "img/wiki/Xuelan1-4b1a13.jpg"
+      }
+    ],
+    "card": 449.5
+  },
+  {
+    "id": "luo-bu",
+    "name": "Luo Bu",
+    "zh": "罗布",
+    "aka": [
+      "Boss"
+    ],
+    "wiki": "Luo Bu",
+    "ep": 16,
+    "mentionEp": null,
+    "group": "Mercenaries",
+    "side": "enemy",
+    "intro": "Captain of the Sand Mercenary Company, the old power of Rock Desert City, who backs off when he mistakes Xiao Yan for a Dou Wang (EP16). He later admits the Mo Clan took Qing Lin (EP30), then tries to seize the Desert Metal Mercenary Company and is beaten by Xiao Yan's Heavenly Flame (EP34).",
+    "power": [
+      {
+        "ep": 16,
+        "realm": "Da Dou Shi",
+        "detail": "\"The Captain of the Sand Mercenary Company is a Da Dou Shi\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 16,
+        "label": "First seen",
+        "desc": "Young man with grey hair and a false smile, in grey-and-white clothes.",
+        "img": "img/wiki/Luo_Bu-19f0df.jpg"
+      }
+    ],
+    "card": 733.7
+  },
+  {
+    "id": "die",
+    "name": "Die",
+    "zh": "蝶霸",
+    "aka": [],
+    "wiki": "Die Ba",
+    "ep": 18,
+    "mentionEp": null,
+    "group": "Snakemen",
+    "side": "neutral",
+    "intro": "A snakewoman with no memory whom Hai Bodong is hired to bring back in the Song of Desert side story (EP18-20). She is Medusa's twin sister, who fled their duel to the death for the throne; she dies at the end of EP20, and Medusa spares Hai Bodong.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 18,
+        "label": "First seen",
+        "desc": "Beautiful snakewoman with long black hair, a pink robe and a snake tail."
+      }
+    ],
+    "card": 183.5
+  },
+  {
+    "id": "medusa",
+    "name": "Medusa",
+    "zh": "美杜莎女王",
+    "aka": [
+      "Queen Medusa",
+      "Cai Lin",
+      "Her Majesty"
+    ],
+    "wiki": "Medusa",
+    "ep": 18,
+    "mentionEp": 14,
+    "group": "Snakemen",
+    "side": "ally",
+    "intro": "Queen of the Snakemen in the Tager Desert, who swallows the Green Lotus Core Flame and is reborn inside the Seven-Colored Heaven Swallowing Python (EP25). Bound to Xiao Yan first as an enemy, then by deals, she becomes his protector and partner (named Cai Lin, EP115), leads the Yan Alliance in the Jia Ma Empire and evolves into the Nine-Colored Heaven Swallowing Python (EP269).",
+    "power": [
+      {
+        "ep": 20,
+        "realm": "Dou Huang",
+        "detail": "the Song of Desert: \"the Snakemen tribe can't have two Dou Huang warriors\"",
+        "conf": "high"
+      },
+      {
+        "ep": 61,
+        "realm": "Dou Zong",
+        "detail": "Yun Shan sees she has broken through the Dou Huang barrier",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 18,
+        "label": "First seen",
+        "desc": "Queen of the Snakemen: long black hair and a revealing white dress.",
+        "img": "img/wiki/6ap4gvT-c37641.jpg"
+      },
+      {
+        "ep": 269,
+        "label": "Nine-Colored Heaven Swallowing Python",
+        "desc": "Evolved form after taking in her ancestors' remnant souls; her bloodline pressure crushes Huang Tian.",
+        "why": "seclusion in the Nine Serene Spring"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 18,
+        "text": "Song of Desert: hunts her twin Die and Hai Bodong across the desert."
+      },
+      {
+        "ep": 25,
+        "text": "Tries to swallow the Green Lotus Core Flame; her body burns away and the Heaven Swallowing Python is born."
+      },
+      {
+        "ep": 53,
+        "text": "Wakes inside the python and demands the Thawing Spirit Pill."
+      },
+      {
+        "ep": 61,
+        "text": "Faces Yun Shan as a Dou Zong and makes a one-year deal to protect Xiao Yan."
+      },
+      {
+        "ep": 114,
+        "text": "Kills Han Feng; in EP115 makes a new deal and is named Cai Lin."
+      },
+      {
+        "ep": 134,
+        "text": "Holds the Jia Ma border against three invading sects."
+      },
+      {
+        "ep": 227,
+        "text": "Defends the Mystic Yellow Fortress against the Profound Lion Sect."
+      },
+      {
+        "ep": 269,
+        "text": "Evolves into the Nine-Colored Heaven Swallowing Python in the Nine Serene Spring."
+      }
+    ],
+    "card": 902.5
+  },
+  {
+    "id": "gu-he",
+    "name": "Gu He",
+    "zh": "古河",
+    "aka": [
+      "Pill King",
+      "Sixth Ranked Pill King",
+      "Chief Gu"
+    ],
+    "wiki": "Gu He",
+    "ep": 21,
+    "mentionEp": 1,
+    "group": "Alchemists",
+    "side": "ally",
+    "intro": "The Jia Ma Empire's Pill King, a sixth-tier alchemist and honorary elder of the Misty Cloud Sect, who competes with Xiao Yan for the Green Lotus Core Flame in the Tager Desert (EP21-26) and courts the masked \"Yan Xiao\" and his master (EP40-42). After losing a ten-move duel at his wedding to Yun Yun (EP125) and a refining contest (EP138), he joins the Yan Alliance's Pill Hall.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 21,
+        "label": "First seen",
+        "desc": "Handsome middle-aged alchemist with long black hair, in pale robes.",
+        "img": "img/wiki/Guhe1-a18220.jpg"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 21,
+        "text": "Leads Yun Yun, Yan Shi and Feng Li into the desert after the Green Lotus Core Flame."
+      },
+      {
+        "ep": 26,
+        "text": "Chases Xiao Yan for the flame as he escapes the shrine."
+      },
+      {
+        "ep": 42,
+        "text": "Invites Yan Xiao to the Misty Cloud Sect after the internal test."
+      },
+      {
+        "ep": 125,
+        "text": "Loses a ten-move duel to Xiao Yan at his wedding to Yun Yun and calls it off."
+      },
+      {
+        "ep": 138,
+        "text": "Loses a refining contest to Xiao Yan and joins the Yan Alliance's Pill Hall."
+      }
+    ],
+    "card": 950.0
+  },
+  {
+    "id": "yue-mei",
+    "name": "Yue Mei",
+    "zh": "月梅",
+    "aka": [
+      "Commander Yue Mei"
+    ],
+    "wiki": "Yue Mei",
+    "ep": 21,
+    "mentionEp": null,
+    "group": "Snakemen",
+    "side": "ally",
+    "intro": "A Snakemen commander who chases Xiao Yan when he sneaks into Medusa's shrine; he cuts her face, but she beats him (EP21-22). Years later, after the Snakemen join his side, he saves her from the Gold Geese Sect and she brings him news of Medusa's danger (EP133).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 21,
+        "label": "First seen",
+        "desc": "Snakewoman with long purple hair, in a dark purple top.",
+        "img": "img/wiki/YueMei1-e88dc4.jpg"
+      }
+    ],
+    "card": 728.0
+  },
+  {
+    "id": "feng-li",
+    "name": "Feng Li",
+    "zh": "",
+    "aka": [
+      "the Walking Wind"
+    ],
+    "wiki": "Feng Li",
+    "ep": 22,
+    "mentionEp": null,
+    "group": "Jia Ma Empire",
+    "side": "rival",
+    "intro": "One of the Top Ten of the Jia Ma Empire, called the Walking Wind, who comes with Gu He to the Tager Desert for the Green Lotus Core Flame and fights Yue Mei and the Snakemen (EP22-26).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 22,
+        "label": "First seen",
+        "desc": "Lean man with long black hair, holding a large fan.",
+        "img": "img/wiki/Feng_Li-792ae5.jpg"
+      }
+    ],
+    "card": 477.8
+  },
+  {
+    "id": "yan-shi",
+    "name": "Yan Shi",
+    "zh": "",
+    "aka": [
+      "the Lion King"
+    ],
+    "wiki": "Yan Shi",
+    "ep": 22,
+    "mentionEp": null,
+    "group": "Jia Ma Empire",
+    "side": "rival",
+    "intro": "One of the Top Ten of the Jia Ma Empire, called the Lion King, who comes with Gu He to the Tager Desert for the Green Lotus Core Flame and fights Yue Mei and the Snakemen (EP22-26).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 22,
+        "label": "First seen",
+        "desc": "Muscular man with wild blond hair, in a fur vest.",
+        "img": "img/wiki/Screenshot_2015-08-05-12-00-46-b7ae3d.png"
+      }
+    ],
+    "card": 456.8
+  },
+  {
+    "id": "yin-shi",
+    "name": "Yin Shi",
+    "zh": "",
+    "aka": [
+      "Elder Yin Shi"
+    ],
+    "wiki": "Yin Shi",
+    "ep": 22,
+    "mentionEp": null,
+    "group": "Snakemen",
+    "side": "enemy",
+    "intro": "A Snakemen elder at Medusa's court who plans the Five Snake Poison Breaking Seal to trap the masked Dou Huang after Medusa falls (EP22-27).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 22,
+        "label": "First seen",
+        "desc": "Old snakeman with a long white beard, in a red-and-gold headdress.",
+        "img": "img/wiki/Yin_Shi-11b0ef.jpg"
+      }
+    ],
+    "card": 797.8
+  },
+  {
+    "id": "mo-ba-si",
+    "name": "Mo Ba Si",
+    "zh": "墨巴斯",
+    "aka": [],
+    "wiki": "Mo Basi",
+    "ep": 24,
+    "mentionEp": null,
+    "group": "Snakemen",
+    "side": "neutral",
+    "intro": "Leader of the Mo Snake Tribe, one of the Snakemen's Eight Large Tribes, who brings reinforcements against Gu He's party at the shrine (EP24-26). He appears again at the Snakemen Clan when Xiao Yan visits Medusa (EP136).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 24,
+        "label": "First seen",
+        "desc": "Burly snakeman with dark hair and a beard, in heavy ornate armour.",
+        "img": "img/wiki/Moo_Baa_Sii-46e1e4.jpg"
+      }
+    ],
+    "card": 357.2
+  },
+  {
+    "id": "heaven-swallowing-python",
+    "name": "Seven-Colored Heaven Swallowing Python",
+    "zh": "小蔡",
+    "aka": [
+      "Heaven Swallowing Python",
+      "little one"
+    ],
+    "wiki": "Xiao Cai - (Seven-Colored Heaven Swallowing Python)",
+    "ep": 25,
+    "mentionEp": 17,
+    "group": "Xiao Yan's companions",
+    "side": "ally",
+    "intro": "The tiny, newborn python that Medusa's companion spirit becomes when she tries to swallow the Green Lotus Core Flame (EP25); it shares one body with Medusa's sleeping soul. Xiao Yan raises it on Amethyst Essence and it fights for him (EP59-91), while Medusa slowly takes the body over until the two souls merge (EP117).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 25,
+        "label": "First seen",
+        "desc": "A tiny snake with shining seven-coloured scales and pale purple eyes."
+      }
+    ],
+    "card": 699.3
+  },
+  {
+    "id": "kui-xing",
+    "name": "Kui Xing",
+    "zh": "",
+    "aka": [
+      "Grand Commander"
+    ],
+    "wiki": null,
+    "ep": 26,
+    "mentionEp": null,
+    "group": "Snakemen",
+    "side": "rival",
+    "intro": "A Snakemen leader named among the Eight Large Tribes who plot against the masked Dou Huang (EP26). As Grand Commander he later attacks Xiao Yan for endangering Medusa, and she punishes him (EP138-139).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 26,
+        "label": "First seen",
+        "desc": "Snakemen leader at the gathering of the Eight Large Tribes."
+      }
+    ],
+    "card": 297.3
+  },
+  {
+    "id": "mo-cheng",
+    "name": "Mo Cheng",
+    "zh": "莫成",
+    "aka": [
+      "Executioner Mo",
+      "Clan Leader Mo"
+    ],
+    "wiki": "Mo Cheng",
+    "ep": 30,
+    "mentionEp": null,
+    "group": "Misty Cloud Sect",
+    "side": "enemy",
+    "intro": "Leader of the Mo Clan of Yan City and an External Deacon of the Misty Cloud Sect, who kidnaps Qing Lin for his human and beast fusion experiments (EP30). Exposed at his 60th birthday banquet, he turns into a monster (EP31) and is destroyed by Xiao Yan's first Angry Buddha Lotus Flame (EP32); his death later sets the sect against Xiao Yan.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 30,
+        "label": "First seen",
+        "desc": "Middle-aged man with dark hair and a short beard, in dark furs.",
+        "img": "img/wiki/Mo_Cheng_S3E11-4758d6.png"
+      }
+    ],
+    "card": 280.5
+  },
+  {
+    "id": "yun-leng",
+    "name": "Yun Leng",
+    "zh": "云棱",
+    "aka": [
+      "First Elder"
+    ],
+    "wiki": "Yun Leng",
+    "ep": 34,
+    "mentionEp": null,
+    "group": "Misty Cloud Sect",
+    "side": "enemy",
+    "intro": "First Elder of the Misty Cloud Sect, who hosts the Three-Year Agreement duel and then accuses Xiao Yan of killing Mo Cheng (EP57-60). He leads the masked raid that takes Xiao Zhan (EP62-63) and is killed by Xiao Yan's Angry Buddha Lotus Flame (EP64).",
+    "power": [
+      {
+        "ep": 63,
+        "realm": "Dou Wang",
+        "detail": "he, Yun Lei and Yun Sheng are called \"three Dou Wangs\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 34,
+        "label": "First seen",
+        "desc": "Stern old man with grey hair and beard, in white-and-gold sect robes.",
+        "img": "img/wiki/Yun_Leng_Donghua-d95219.jpg"
+      }
+    ],
+    "card": 104.3
+  },
+  {
+    "id": "ya-fei",
+    "name": "Ya Fei",
+    "zh": "雅妃",
+    "aka": [],
+    "wiki": "Ya Fei",
+    "ep": 35,
+    "mentionEp": null,
+    "group": "Jia Ma Empire",
+    "side": "ally",
+    "intro": "A Mite'er family woman Xiao Yan helped back in Wu Tan City, now running the Mite'er Auction House headquarters in the capital (EP36-37). She uses \"Yan Xiao\" to keep Mu Zhan away, gives Xiao Yan his escape map out of the empire (EP69), and later heads the Mite'er family and shelters the Xiao Clan with Hai Bodong (EP109).",
+    "power": [
+      {
+        "ep": 36,
+        "realm": "Dou Zhe",
+        "detail": "she says \"I'm a Dou Zhe too\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 35,
+        "label": "First seen",
+        "desc": "Elegant young woman with auburn hair, in a dark dress with gold ornaments.",
+        "img": "img/wiki/B3b906833f882ff247cbc1e29bf31b47-c59127.jpg"
+      }
+    ]
+  },
+  {
+    "id": "mite-er-tengshan",
+    "name": "Mite'er Tengshan",
+    "zh": "米特尔腾山",
+    "aka": [
+      "Tengshan",
+      "First Elder"
+    ],
+    "wiki": "Teng Shan",
+    "ep": 37,
+    "mentionEp": 20,
+    "group": "Jia Ma Empire",
+    "side": "ally",
+    "intro": "First Elder of the Mite'er family and Hai Bodong's old friend, who puts Ya Fei in charge of the headquarters auction house (EP37) and warmly backs \"Yan Xiao\" at the Nalan banquet (EP43). He fights Misty Cloud Sect elders when they besiege the Mite'er family (EP122).",
+    "power": [
+      {
+        "ep": 38,
+        "realm": "Dou Wang",
+        "detail": "Hai Bodong: \"You're a Dou Wang now\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 37,
+        "label": "First seen",
+        "desc": "White-haired old man with a dignified face."
+      }
+    ],
+    "card": 971.2
+  },
+  {
+    "id": "nalan-su",
+    "name": "Nalan Su",
+    "zh": "纳兰肃",
+    "aka": [],
+    "wiki": "Nalan Su",
+    "ep": 37,
+    "mentionEp": 1,
+    "group": "Jia Ma Empire",
+    "side": "neutral",
+    "intro": "Nalan Yanran's father and Nalan Jie's son, who doubts the masked second-tier alchemist \"Yan Xiao\" until he shows a Heavenly Flame and cures his father's Searing Poison (EP37-44).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 37,
+        "label": "First seen",
+        "desc": "Middle-aged man with long grey-brown hair, in pale robes with a red collar.",
+        "img": "img/wiki/Nalan_Su-d04441.png"
+      }
+    ],
+    "card": 1129.5
+  },
+  {
+    "id": "nalan-jie",
+    "name": "Nalan Jie",
+    "zh": "",
+    "aka": [
+      "Old Master Nalan",
+      "Lionheart Commander"
+    ],
+    "wiki": "Nalan Jie",
+    "ep": 38,
+    "mentionEp": 1,
+    "group": "Jia Ma Empire",
+    "side": "ally",
+    "intro": "Nalan Yanran's grandfather and the Jia Ma Empire's Lionheart Commander, who arranged her betrothal to Xiao Yan to repay Xiao Lin (EP54). Cured of the Searing Poison by the masked Xiao Yan (EP38-44), he pays him with the Seven Magical Green Spirit Saliva, becomes his friend and urges Nalan Yanran to apologise.",
+    "power": [
+      {
+        "ep": 39,
+        "realm": "Dou Wang",
+        "detail": "the Dou Qi in his poisoned body is \"the energy accumulated in a strong Dou Wang\"",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 38,
+        "label": "First seen",
+        "desc": "Old man with white hair and a thick white beard.",
+        "img": "img/wiki/Nalann_jiee-973694.jpg"
+      }
+    ]
+  },
+  {
+    "id": "fa-ma",
+    "name": "Fa Ma",
+    "zh": "法犸",
+    "aka": [
+      "Chairman Fa Ma"
+    ],
+    "wiki": "Fa Ma",
+    "ep": 40,
+    "mentionEp": null,
+    "group": "Alchemists",
+    "side": "ally",
+    "intro": "Chairman of the Jia Ma Empire's Alchemist Association, who runs the Alchemist Conference, gives Xiao Yan the Three Lines Green Spirit Pill prescription and crowns him champion and honorary elder (EP41-53). Once guided by Yao Lao, he brings the association into the Yan Alliance (EP130) and serves in its Pill Hall.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 40,
+        "label": "First seen",
+        "desc": "Gaunt old alchemist with a white beard, in purple robes.",
+        "img": "img/wiki/Fa_Ma_Dongua_pic-2301e8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "liu-ling",
+    "name": "Liu Ling",
+    "zh": "劉玲",
+    "aka": [],
+    "wiki": "Liu Ling",
+    "ep": 40,
+    "mentionEp": null,
+    "group": "Alchemists",
+    "side": "rival",
+    "intro": "Gu He's disciple, a young alchemist who courts Nalan Yanran and competes against \"Yan Xiao\" at the Alchemist Conference (EP40-52). He starts as a proud rival, but in the final he joins the other contestants in shielding Xiao Yan with their Soul Power (EP52).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 40,
+        "label": "First seen",
+        "desc": "Tall young man with long dark hair in a crown, in white alchemist robes with gold shoulder pieces.",
+        "img": "img/wiki/Liu_Ling_Donghua-e4da34.jpg"
+      }
+    ],
+    "card": 693.0
+  },
+  {
+    "id": "yue-er",
+    "name": "Yue Er",
+    "zh": "",
+    "aka": [
+      "Princess Yue Er",
+      "Tian Yue",
+      "Yue"
+    ],
+    "wiki": null,
+    "ep": 40,
+    "mentionEp": null,
+    "group": "Jia Ma Empire",
+    "side": "rival",
+    "intro": "The Jia Ma imperial family's youngest princess, a third-tier alchemist and Fa Ma's disciple, who attacks \"Yan Xiao\" to see his Heavenly Flame (EP40) and competes with him at the Alchemist Conference. She becomes a friendly rival and helps shield him with her Soul Power in the final (EP52).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 40,
+        "label": "First seen",
+        "desc": "Young princess in fine imperial dress."
+      }
+    ],
+    "card": 916.7
+  },
+  {
+    "id": "mu-zhan",
+    "name": "Mu Zhan",
+    "zh": "穆展",
+    "aka": [],
+    "wiki": "Mu Zhan",
+    "ep": 43,
+    "mentionEp": null,
+    "group": "Jia Ma Empire",
+    "side": "rival",
+    "intro": "Son of the Mu Clan's head, back from the border army and obsessed with Ya Fei, who attacks \"Yan Xiao\" to warn him off her (EP43-44). A flashback shows him as a child bully the young Nalan Yanran fought (EP53).",
+    "power": [
+      {
+        "ep": 43,
+        "realm": "Da Dou Shi",
+        "detail": "summons Dou Qi Armor, \"an ability exclusive to a Da Dou Shi\"",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 43,
+        "label": "First seen",
+        "desc": "Young man with long dark hair, bare-chested under a blue armoured robe.",
+        "img": "img/wiki/Muu_Zhann-61ed7a.jpg"
+      }
+    ],
+    "card": 559.1
+  },
+  {
+    "id": "jia-xing-tian",
+    "name": "Jia Xing Tian",
+    "zh": "加刑天",
+    "aka": [
+      "Mr. Jia",
+      "Great-grandfather"
+    ],
+    "wiki": "Jia Xing Tian",
+    "ep": 44,
+    "mentionEp": 42,
+    "group": "Jia Ma Empire",
+    "side": "ally",
+    "intro": "Guardian of the Jia Ma imperial family and one of the empire's Top Ten, Princess Yue Er's great-grandfather and Hai Bodong's old rival and friend (EP44-45). He keeps the imperial family neutral while the Misty Cloud Sect hunts Xiao Yan (EP68), then backs him against the sect (EP123-125) and joins the Yan Alliance.",
+    "power": [
+      {
+        "ep": 44,
+        "realm": "Dou Huang",
+        "detail": "his bout with Hai Bodong is \"the battle of Dou Huangs\"",
+        "conf": "high"
+      },
+      {
+        "ep": 45,
+        "realm": "8-star Dou Huang",
+        "detail": "Hai Bodong reckons him an Eight- or Nine-Star Dou Huang close to Dou Zong",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 44,
+        "label": "First seen",
+        "desc": "White-haired old man with a grey beard, in imperial robes with gold trim.",
+        "img": "img/wiki/Jia_Xing_Tian2-982749.png"
+      }
+    ]
+  },
+  {
+    "id": "yan-li",
+    "name": "Yan Li",
+    "zh": "炎利",
+    "aka": [
+      "the girl from the Chu Yun Empire"
+    ],
+    "wiki": "Yan Li",
+    "ep": 46,
+    "mentionEp": null,
+    "group": "Alchemists",
+    "side": "enemy",
+    "intro": "Deputy chairman of the Chu Yun Empire's Alchemist Association, who enters the Alchemist Conference disguised as a veiled 17-year-old girl and mixes Poison Master methods into alchemy (EP46-51). Unmasked (EP48) but allowed to compete, he loses the final to Xiao Yan's Three Lines Green Spirit Pill and is caught fleeing (EP52).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 46,
+        "label": "First seen",
+        "desc": "A veiled teenage girl from the Chu Yun Empire, his disguise.",
+        "img": "img/wiki/IMG_0956-4dd644.jpeg"
+      },
+      {
+        "ep": 48,
+        "label": "True form",
+        "desc": "A grim, heavily muscled middle-aged man.",
+        "why": "drops the girl's form when Hai Bodong, Jia Xing Tian and Fa Ma corner him"
+      }
+    ]
+  },
+  {
+    "id": "yao-ye",
+    "name": "Yao Ye",
+    "zh": "夭夜",
+    "aka": [
+      "Princess Yao Ye",
+      "General Yao Ye"
+    ],
+    "wiki": "Yao Ye",
+    "ep": 46,
+    "mentionEp": null,
+    "group": "Jia Ma Empire",
+    "side": "ally",
+    "intro": "Yue Er's elder sister, a princess and general who guards the Alchemist Conference and uses her banquet as bait to wipe out the Chu Yun Empire's puppets (EP46-49). She later leads imperial troops to arrest the Misty Cloud attackers of the Mite'er family (EP123) and brings the imperial family's support (EP129).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 46,
+        "label": "First seen",
+        "desc": "Tall princess general with dark hair in a crown, in silver armour, holding a long spear.",
+        "img": "img/wiki/YaoYe1-3bb478.jpg"
+      }
+    ]
+  },
+  {
+    "id": "yun-lei",
+    "name": "Yun Lei",
+    "zh": "",
+    "aka": [],
+    "wiki": "Yun Lei",
+    "ep": 59,
+    "mentionEp": null,
+    "group": "Misty Cloud Sect",
+    "side": "enemy",
+    "intro": "A Misty Cloud Sect elder who helps pin down Hai Bodong at the sect (EP59) and, with Yun Leng and Yun Sheng, raided the Xiao Clan and broke Xiao Zhan's limbs. He leads the sect's flight unit in the manhunt and is last seen fighting Xiao Yan in EP69.",
+    "power": [
+      {
+        "ep": 69,
+        "realm": "Dou Wang",
+        "detail": "\"You know I'm a strong Dou Wang\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 59,
+        "label": "First seen",
+        "desc": "Dark-haired, bearded Misty Cloud Sect elder in white-and-blue robes.",
+        "img": "img/wiki/99CF74AF-C702-475E-B854-7800F44226B1-8a0092.jpeg"
+      }
+    ],
+    "card": 259.2
+  },
+  {
+    "id": "ling-ying",
+    "name": "Ling Ying",
+    "zh": "凌影",
+    "aka": [
+      "Mr. Ling",
+      "Ying Ling"
+    ],
+    "wiki": "Ling Ying",
+    "ep": 60,
+    "mentionEp": null,
+    "group": "Gu Clan",
+    "side": "ally",
+    "intro": "Xun Er's guardian, who protected Xiao Yan in secret on her orders since Wu Tan City. He steps out to shield him from the Misty Cloud Sect's formation (EP60), then serves Xun Er at Jia Nan Academy as \"Mr. Ling\", warning of the Hall of Souls and her clan's plans (EP86-102).",
+    "power": [
+      {
+        "ep": 60,
+        "realm": "7-star Dou Huang",
+        "detail": "\"his power must be at least that of a Seven-Star Dou Huang\"",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 60,
+        "label": "First seen",
+        "desc": "Masked protector in a black robe."
+      }
+    ],
+    "card": 224.0
+  },
+  {
+    "id": "yun-shan",
+    "name": "Yun Shan",
+    "zh": "云山",
+    "aka": [
+      "Old Leader",
+      "Grandmaster",
+      "Mr. Yun"
+    ],
+    "wiki": "Yun Shan",
+    "ep": 60,
+    "mentionEp": 38,
+    "group": "Misty Cloud Sect",
+    "side": "enemy",
+    "intro": "The Misty Cloud Sect's former leader, who comes out of seclusion as a Dou Zong to stop Xiao Yan (EP60) and nearly kills him (EP64-66). Secretly made a Dou Zong by the Hall of Souls, he takes over the sect, attacks the Xiao Clan and the Mite'er family, and is killed by Xiao Yan (EP127).",
+    "power": [
+      {
+        "ep": 60,
+        "realm": "Dou Zong",
+        "detail": "\"he has broken through the Dou Huang barrier and ascended to Dou Zong\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 60,
+        "label": "First seen",
+        "desc": "Ageless man with long snow-white hair, in a plain white-and-blue robe.",
+        "img": "img/wiki/Yun-Shan-Battle-Through-the-Heavens-3-Year-Agreement-Countdo-0e0ec6.jpg"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 60,
+        "text": "Comes out of seclusion as a Dou Zong and beats Hai Bodong, Ling Ying and the python."
+      },
+      {
+        "ep": 61,
+        "text": "Lets Xiao Yan go rather than fight Medusa."
+      },
+      {
+        "ep": 64,
+        "text": "Fights Xiao Yan with clones, survives two Angry Buddha Lotus Flames and marks him (EP66)."
+      },
+      {
+        "ep": 110,
+        "text": "Removes Yun Yun as leader and ties the sect to the Hall of Souls."
+      },
+      {
+        "ep": 125,
+        "text": "Forces Yun Yun's wedding to Gu He and reveals that the Hall of Souls holds Xiao Zhan."
+      },
+      {
+        "ep": 127,
+        "text": "Killed by Xiao Yan; Protector Wu devours his soul."
+      }
+    ],
+    "card": 813.2
+  },
+  {
+    "id": "bai-shan",
+    "name": "Bai Shan",
+    "zh": "白山",
+    "aka": [],
+    "wiki": "Bai Shan",
+    "ep": 70,
+    "mentionEp": null,
+    "group": "Jia Nan Academy",
+    "side": "enemy",
+    "intro": "A Jia Nan Academy senior with lightning Dou Qi, in love with Xun Er, who challenges Xiao Yan in the Inner Academy qualifier (EP74-77). He walks out on the new students during the Fire Energy hunt (EP81) and joins his cousin Bai Cheng's White Gang against the Rock Gate (EP83-88).",
+    "power": [
+      {
+        "ep": 77,
+        "realm": "5-star Da Dou Shi",
+        "detail": "he, Wu Hao and Hu Jia are \"all Five or Six Star Da Dou Shis\"",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 70,
+        "label": "First seen",
+        "desc": "Young man with long dark hair, a gold-and-black helmet and a white scarf.",
+        "img": "img/wiki/Bai_Shan-f3a86e.png"
+      }
+    ],
+    "card": 269.1
+  },
+  {
+    "id": "ruo-lin",
+    "name": "Ruo Lin",
+    "zh": "若玲",
+    "aka": [
+      "Ms. Ruo Lin"
+    ],
+    "wiki": "Ruo Lin",
+    "ep": 70,
+    "mentionEp": null,
+    "group": "Jia Nan Academy",
+    "side": "ally",
+    "intro": "A Jia Nan Academy teacher and Xiao Yan's admission adviser, who scolds him for his two-year absence and enters him in the Inner Academy qualifier (EP70-75). She helps tend Xiao Li at the Outer Academy (EP96).",
+    "power": [],
+    "looks": [
+      {
+        "ep": 70,
+        "label": "First seen",
+        "desc": "Young woman with long brown hair, in a pale teal dress.",
+        "img": "img/wiki/Ruo_Lin-69f022.png"
+      }
+    ],
+    "card": 277.1
+  },
+  {
+    "id": "fan-ling",
+    "name": "Fan Ling",
+    "zh": "范凌",
+    "aka": [],
+    "wiki": "Fan Ling",
+    "ep": 71,
+    "mentionEp": null,
+    "group": "Black-Corner Region",
+    "side": "enemy",
+    "intro": "The young Dou Ling master of the Blood Sect, who outbids Xiao Yan for a Purifying Demonic Lotus Flame map fragment at Black Mark City (EP71) and robs others on the road (EP72). Xiao Yan kills him for the fragment (EP73), making Fan Lao his enemy.",
+    "power": [
+      {
+        "ep": 71,
+        "realm": "Dou Ling",
+        "detail": "\"He's a Dou Ling at such a young age\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 71,
+        "label": "First seen",
+        "desc": "Pale young man with black-and-white hair, in black and red robes.",
+        "img": "img/wiki/Fan_Ling-b914f2.png"
+      }
+    ],
+    "card": 139.3
+  },
+  {
+    "id": "fan-lao",
+    "name": "Fan Lao",
+    "zh": "樊老",
+    "aka": [
+      "Chief Fan"
+    ],
+    "wiki": "Fan Lao",
+    "ep": 72,
+    "mentionEp": null,
+    "group": "Black-Corner Region",
+    "side": "enemy",
+    "intro": "Leader of the Blood Sect and Fan Ling's father, a Black-Corner Dou Huang who swears revenge for his son (EP73). He joins Han Feng's raid on Jia Nan Academy (EP105-107), leads the Black Alliance against Xiao Li's fortress and is burned to death by Xiao Yan (EP112).",
+    "power": [
+      {
+        "ep": 72,
+        "realm": "Dou Huang",
+        "detail": "his own words as he seizes the Yin-Yang Mysterious Dragon Pill; his son: \"My father is a Dou Huang\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 72,
+        "label": "First seen",
+        "desc": "Grey-skinned old man with a cold smile, holding a red spear.",
+        "img": "img/wiki/Fan_Lao_4-97c63b.png"
+      }
+    ],
+    "card": 757.9
+  },
+  {
+    "id": "hu-jia",
+    "name": "Hu Jia",
+    "zh": "琥嘉",
+    "aka": [
+      "Little Witch"
+    ],
+    "wiki": "Hu Jia",
+    "ep": 74,
+    "mentionEp": null,
+    "group": "Jia Nan Academy",
+    "side": "ally",
+    "intro": "The Outer Academy vice dean Hu Qian's granddaughter, who first wants Xiao Yan expelled and fights him in the qualifier (EP74-77). She becomes one of the Rock Gate's leaders with Xun Er and Wu Hao and keeps it running in the Inner Academy (EP86-150).",
+    "power": [
+      {
+        "ep": 77,
+        "realm": "5-star Da Dou Shi",
+        "detail": "she, Bai Shan and Wu Hao are \"all Five or Six Star Da Dou Shis\"",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 74,
+        "label": "First seen",
+        "desc": "Young woman with dark hair in an ornamented bun and a red mark on her brow, in red and gold.",
+        "img": "img/wiki/HuJiaAnime-ee810c.png"
+      }
+    ],
+    "card": 140.8
+  },
+  {
+    "id": "hu-qian",
+    "name": "Hu Qian",
+    "zh": "琥乾",
+    "aka": [
+      "Vice Dean"
+    ],
+    "wiki": "Hu Gan",
+    "ep": 74,
+    "mentionEp": null,
+    "group": "Jia Nan Academy",
+    "side": "neutral",
+    "intro": "Vice dean of Jia Nan Academy's Outer Academy and Hu Jia's grandfather, who turns the Outer Academy's final round into a melee [76] and escorts the top five to the Inner Academy [78]. He later helps hold the energy net over the Fallen Heart Flame [104].",
+    "power": [
+      {
+        "ep": 103,
+        "realm": "Dou Huang",
+        "detail": "named a Dou Huang by one of Han Feng's allies",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 74,
+        "label": "First seen",
+        "desc": "White-haired old man in an elder's robes.",
+        "why": ""
+      }
+    ],
+    "card": 144.9
+  },
+  {
+    "id": "xiao-yu",
+    "name": "Xiao Yu",
+    "zh": "萧玉",
+    "aka": [],
+    "wiki": "Xiao Yu",
+    "ep": 74,
+    "mentionEp": null,
+    "group": "Xiao Clan",
+    "side": "ally",
+    "intro": "Xiao Yan's elder cousin from the Xiao Clan, a Jia Nan Academy student who backs him when he arrives [74]. She calls him to the Outer Academy when his brother Xiao Li is found unconscious [95] and keeps hoping he is alive while he is trapped in the tower [110].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 74,
+        "label": "First seen",
+        "desc": "Tall, beautiful young woman with long black hair.",
+        "why": "",
+        "img": "img/wiki/PgRPFVc-ca66b8.jpg"
+      }
+    ],
+    "card": 44.2
+  },
+  {
+    "id": "wu-hao",
+    "name": "Wu Hao",
+    "zh": "吴昊",
+    "aka": [
+      "Blood Demon",
+      "Bloody Sword",
+      "Elder Wu Hao"
+    ],
+    "wiki": "Wu Hao",
+    "ep": 75,
+    "mentionEp": null,
+    "group": "Jia Nan Academy",
+    "side": "ally",
+    "intro": "The \"Blood Demon\" of Jia Nan Academy's Enforcer Squad, who fights Xiao Yan in the Outer Academy finals [76–77] and then fights beside him and joins his Rock Gate [82]. Later an academy elder and a Dou Wang, he is saved by Xiao Yan from Demon Flame Valley [143].",
+    "power": [
+      {
+        "ep": 92,
+        "realm": "9-star Da Dou Shi",
+        "detail": "Bai Cheng mocks his rank during their arena duel",
+        "conf": "high"
+      },
+      {
+        "ep": 143,
+        "realm": "Dou Wang",
+        "detail": "Xiao Yan notes he has reached Dou Wang",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 75,
+        "label": "First seen",
+        "desc": "Plain-faced young man with a cold, bloody air, dressed in blood-red and black.",
+        "why": "",
+        "img": "img/wiki/Wu_Hao_Anime-0f2e91.png"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 76,
+        "text": "Forces Yan Cheng to concede at once and challenges Xiao Yan."
+      },
+      {
+        "ep": 77,
+        "text": "Joins Bai Shan and Hu Jia in a three-against-one attack on Xiao Yan."
+      },
+      {
+        "ep": 82,
+        "text": "Joins Xiao Yan against the Black Demon Group in the Fire Energy Hunting Competition."
+      },
+      {
+        "ep": 92,
+        "text": "Loses to Bai Cheng in the arena and tries a Forbidden Method."
+      },
+      {
+        "ep": 119,
+        "text": "Hears Xiao Yan is going back to the Jia Ma Empire and stays to keep the Rock Gate."
+      },
+      {
+        "ep": 143,
+        "text": "Trapped by Demon Flame Valley with academy students; Xiao Yan saves him."
+      }
+    ],
+    "card": 1057.8
+  },
+  {
+    "id": "sha-tie",
+    "name": "Sha Tie",
+    "zh": "沙铁",
+    "aka": [],
+    "wiki": "Sha Tie",
+    "ep": 79,
+    "mentionEp": null,
+    "group": "Jia Nan Academy",
+    "side": "rival",
+    "intro": "Leader of the senior students' Black Demon Group in the Fire Energy Hunting Competition, whose Gold Dou Qi shrugs off Xiao Yan's first blows [81]. He forces his strength up with a secret technique, then concedes and warns them about Luo Hou [82].",
+    "power": [
+      {
+        "ep": 79,
+        "realm": "peak Da Dou Shi",
+        "detail": "Xiao Yan judges him a half-step Dou Ling",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 79,
+        "label": "First seen",
+        "desc": "Tall, muscular senior student dressed in black.",
+        "why": "",
+        "img": "img/wiki/Sha_Tie-0a5496.png"
+      }
+    ],
+    "card": 86.5
+  },
+  {
+    "id": "tai",
+    "name": "Tai",
+    "zh": "阿泰",
+    "aka": [],
+    "wiki": "A'Tai",
+    "ep": 80,
+    "mentionEp": null,
+    "group": "Jia Nan Academy",
+    "side": "ally",
+    "intro": "A new Inner Academy student who stands up to the seniors' bullying [80] and proposes that Xiao Yan found a faction, which becomes the Rock Gate [84]. His group is hurt when the White Gang wrecks the Rock Gate's stall [88].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 80,
+        "label": "First seen",
+        "desc": "Young new student in academy clothes.",
+        "why": ""
+      }
+    ],
+    "card": 274.2
+  },
+  {
+    "id": "elder-liu",
+    "name": "Elder Liu",
+    "zh": "劉",
+    "aka": [],
+    "wiki": "Elder Liu",
+    "ep": 83,
+    "mentionEp": null,
+    "group": "Jia Nan Academy",
+    "side": "neutral",
+    "intro": "Inner Academy elder who guards the first level of the Blazing Qi Refining Tower and tells Xiao Yan to keep quiet when his Green Lotus Core Flame draws out the Fallen Heart Flame [84]. A stingy trader, he later gives Xiao Yan a Rank Six Water Type Monster Core for a Core-Fire Lotus Seed and a Dragon Strength Pill [94].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 83,
+        "label": "First seen",
+        "desc": "Old man in plain, rough clothes.",
+        "why": "",
+        "img": "img/wiki/Elder_Liu-06a7f1.png"
+      }
+    ],
+    "card": 595.5
+  },
+  {
+    "id": "han-yue",
+    "name": "Han Yue",
+    "zh": "韩月",
+    "aka": [],
+    "wiki": "Han Yue",
+    "ep": 83,
+    "mentionEp": null,
+    "group": "Jia Nan Academy",
+    "side": "ally",
+    "intro": "Silver-haired leader of the Inner Academy's all-girl Moon Spirit, who sides with Xiao Yan's Rock Gate against the White Gang [85] and is saved by him from the Snow Demon Sky Ape [90]. He meets her again in Tian Bei City as Han Xue's sister [160] and later rescues her family from the Wind Lightning Pavilion [241].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 83,
+        "label": "First seen",
+        "desc": "Tall young woman with long silver hair and a silver dress, cool and distant.",
+        "why": "",
+        "img": "img/wiki/Han_Yue-d8e32b.png"
+      }
+    ],
+    "card": 495.1
+  },
+  {
+    "id": "bai-cheng",
+    "name": "Bai Cheng",
+    "zh": "白程",
+    "aka": [],
+    "wiki": "Bai Cheng",
+    "ep": 84,
+    "mentionEp": 81,
+    "group": "Jia Nan Academy",
+    "side": "enemy",
+    "intro": "Bai Shan's cousin and leader of the Inner Academy's White Gang, who hurts Xiao Yan in a \"friendly spar\" [85] and wrecks the Rock Gate's pill stall [88]. Xiao Yan beats him in the arena with Dark Energy and a Dragon Strength Pill [93], and again at the Strong Ranking Competition [98].",
+    "power": [
+      {
+        "ep": 92,
+        "realm": "6-star Dou Ling",
+        "detail": "stated during his arena duel with Wu Hao",
+        "conf": "high"
+      },
+      {
+        "ep": 98,
+        "realm": "7-star Dou Ling",
+        "detail": "\"broke through a level\" in secluded training",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 84,
+        "label": "First seen",
+        "desc": "Young man with black hair and red eyes in the White Gang's white clothes.",
+        "why": "",
+        "img": "img/wiki/Bai_Cheng_Profile_19-b9ce8d.png"
+      },
+      {
+        "ep": 98,
+        "label": "Bald",
+        "desc": "Head shaved bare; he lost all his hair in secluded training.",
+        "why": "Comes back from seclusion bald and a level stronger."
+      }
+    ],
+    "card": 876.6
+  },
+  {
+    "id": "liu-fei",
+    "name": "Liu Fei",
+    "zh": "",
+    "aka": [],
+    "wiki": "Liu Fei",
+    "ep": 85,
+    "mentionEp": null,
+    "group": "Jia Nan Academy",
+    "side": "rival",
+    "intro": "Liu Qing's sister, an admired Inner Academy beauty whose follower Lei Na attacks Xiao Yan over a training room [85]. Xun Er slaps her for insulting Xiao Yan [93], and she pushes her brother's gang and Yao Sheng to take revenge [98–99].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 85,
+        "label": "First seen",
+        "desc": "Pretty young woman in a white fox-fur dress.",
+        "why": "",
+        "img": "img/wiki/Liufei_donghua_108_1-844f7c.jpg"
+      }
+    ],
+    "card": 696.6
+  },
+  {
+    "id": "su-qian",
+    "name": "Su Qian",
+    "zh": "苏千",
+    "aka": [
+      "First Elder"
+    ],
+    "wiki": "Su Qian",
+    "ep": 86,
+    "mentionEp": null,
+    "group": "Jia Nan Academy",
+    "side": "ally",
+    "intro": "First Elder of Jia Nan Academy's Inner Academy, who guards the Fallen Heart Flame's seal and asks Xiao Yan to help with it one day [97]. A Dou Zong, he holds off Han Feng's hired fighters when the flame breaks out [105], leads the academy against the Black Alliance [113] and stands against the Old Ground Demon Ghost [151].",
+    "power": [
+      {
+        "ep": 103,
+        "realm": "Dou Zong",
+        "detail": "named a Dou Zong by one of Han Feng's allies",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 86,
+        "label": "First seen",
+        "desc": "Old man with white hair and a large black robe, his face as calm as a monk's.",
+        "why": "",
+        "img": "img/wiki/Su_Qian-49a558.png"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 86,
+        "text": "Warns the elders that the Fallen Heart Flame is growing restless while the Dean is away."
+      },
+      {
+        "ep": 97,
+        "text": "Introduces himself and asks Xiao Yan to help with the flame later."
+      },
+      {
+        "ep": 102,
+        "text": "Orders Ling Quan out of the Inner Academy."
+      },
+      {
+        "ep": 105,
+        "text": "Refuses Han Feng the flame and fights Mr. Jin and Mr. Yin."
+      },
+      {
+        "ep": 113,
+        "text": "Leads the academy against the Black Alliance at Feng City."
+      },
+      {
+        "ep": 149,
+        "text": "Corners Old Ying Shan's soul clone in the chase for the saliva."
+      },
+      {
+        "ep": 151,
+        "text": "Faces the Old Ground Demon Ghost when he breaks into the Inner Academy."
+      },
+      {
+        "ep": 153,
+        "text": "Gives Xiao Yan the Flame Gathering Pot to restart the Blazing Qi Refining Tower."
+      }
+    ],
+    "card": 353.1
+  },
+  {
+    "id": "lin-yan",
+    "name": "Lin Yan",
+    "zh": "林焱",
+    "aka": [
+      "Crazy Axe"
+    ],
+    "wiki": "Lin Yan",
+    "ep": 87,
+    "mentionEp": null,
+    "group": "Jia Nan Academy",
+    "side": "ally",
+    "intro": "A hot-tempered Strong Ranking fighter whose Fire Poison Xiao Yan cures in exchange for the Green Wood Celestial Vine [87–88]. He joins the Rock Gate [102], brings Lin Xiu Ya and Liu Qing to fight for the Xiao Clan [119], and later, as a Dou Huang, travels with Xiao Yan to the Pill Region [174–177].",
+    "power": [
+      {
+        "ep": 87,
+        "realm": "7-star Dou Ling",
+        "detail": "Xiao Yan's estimate",
+        "conf": "medium"
+      },
+      {
+        "ep": 171,
+        "realm": "Dou Huang",
+        "detail": "Xiao Yan sees he has broken through",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 87,
+        "label": "First seen",
+        "desc": "Sturdy, gray-robed young man with red eyes.",
+        "why": "",
+        "img": "img/wiki/Lin_Yan-cf23d2.png"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 87,
+        "text": "Trades the Green Wood Celestial Vine for a cure for his Fire Poison."
+      },
+      {
+        "ep": 88,
+        "text": "Warns Xiao Yan about Liu Qing and stands with the Rock Gate."
+      },
+      {
+        "ep": 102,
+        "text": "Has joined the Rock Gate."
+      },
+      {
+        "ep": 112,
+        "text": "Takes on Fan Lao's men with Zi Yan."
+      },
+      {
+        "ep": 119,
+        "text": "Brings Lin Xiu Ya and Liu Qing to test Xiao Yan and join him."
+      },
+      {
+        "ep": 171,
+        "text": "Surrenders to Wang Chen at the Four Pavilion meeting; Xiao Yan steps in."
+      },
+      {
+        "ep": 174,
+        "text": "Sets off with Xiao Yan for the Pill Gathering."
+      }
+    ],
+    "card": 498.9
+  },
+  {
+    "id": "lin-xiu-ya",
+    "name": "Lin Xiu Ya",
+    "zh": "林修崖",
+    "aka": [],
+    "wiki": "Lin Xiuya",
+    "ep": 89,
+    "mentionEp": 85,
+    "group": "Jia Nan Academy",
+    "side": "ally",
+    "intro": "Second on the Strong Ranking and leader of the Wolf Fang, a polite rival with a crush on Xun Er, who loses to her at the Strong Ranking Competition [102]. Back as a Five-Star Dou Wang and academy elder, he loses to Xiao Yan in one move [111] and then follows him against the Misty Cloud Sect [119].",
+    "power": [
+      {
+        "ep": 111,
+        "realm": "5-star Dou Wang",
+        "detail": "stated when he spars with Xiao Yan as an elder",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 89,
+        "label": "First seen",
+        "desc": "Handsome young man in green clothes with an easy smile.",
+        "why": "",
+        "img": "img/wiki/Lin_Xiuya-8d0686.png"
+      }
+    ],
+    "card": 825.5
+  },
+  {
+    "id": "liu-qing",
+    "name": "Liu Qing",
+    "zh": "柳擎",
+    "aka": [
+      "Tyrant Spear"
+    ],
+    "wiki": "Liu Qing",
+    "ep": 93,
+    "mentionEp": 85,
+    "group": "Jia Nan Academy",
+    "side": "ally",
+    "intro": "\"Tyrant Spear\", chief of the Mountain Splitting Gang and Liu Fei's brother, who promises Xiao Yan a match at the Strong Ranking Competition [93]; it ends in a draw [101] and he calls him his rival [103]. Later an academy elder, he follows Xiao Yan against the Misty Cloud Sect [119] and opens his Liu Clan's Wormhole to the Pill Region for him [177].",
+    "power": [
+      {
+        "ep": 100,
+        "realm": "peak Dou Ling",
+        "detail": "an onlooker calls him \"almost a Dou Wang\"",
+        "conf": "medium"
+      },
+      {
+        "ep": 119,
+        "realm": "Dou Wang",
+        "detail": "called one of the two Dou Wang elders",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 93,
+        "label": "First seen",
+        "desc": "Tall, burly man with thick brows, carrying a black spear as tall as he is.",
+        "why": "",
+        "img": "img/wiki/Liu_Qing54-be9cbd.png"
+      }
+    ],
+    "card": 575.9
+  },
+  {
+    "id": "zi-yan",
+    "name": "Zi Yan",
+    "zh": "紫妍",
+    "aka": [
+      "Brute Force Queen",
+      "Dragon Emperor"
+    ],
+    "wiki": "Zi Yan",
+    "ep": 94,
+    "mentionEp": null,
+    "group": "Dragon Islands",
+    "side": "ally",
+    "intro": "A Magical Beast stuck in a little girl's body after eating a Shape-Shifting Flower, number one on the Inner Academy's Strong Ranking, who befriends Xiao Yan for his pills [94] and travels with him for years. She turns out to be a Void Ancient Dragon, awakens as their Dragon Emperor [216] and unites the four Dragon Islands [271].",
+    "power": [
+      {
+        "ep": 139,
+        "realm": "Dou Huang",
+        "detail": "she says only reaching Dou Huang saved her from his punch",
+        "conf": "high"
+      },
+      {
+        "ep": 254,
+        "realm": "4-star Dou Sheng",
+        "detail": "recognised at the Falling Star Pavilion",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 94,
+        "label": "First seen",
+        "desc": "Small girl of about twelve with long pale-purple hair, far stronger than she looks.",
+        "why": "",
+        "img": "img/wiki/Zi_Yan52-74997d.png"
+      },
+      {
+        "ep": 216,
+        "label": "Dragon Emperor",
+        "desc": "Grown into a young woman with long purple hair, in the Dragon Emperor's robes.",
+        "why": "Her royal bloodline awakens and she rises as Dragon Emperor."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 94,
+        "text": "Snatches the Asparagus Ice Fire Fruit and becomes Xiao Yan's friend for tasty pills."
+      },
+      {
+        "ep": 133,
+        "text": "Wakes from a cocoon as a Rank Six Magical Beast, still in a small body."
+      },
+      {
+        "ep": 178,
+        "text": "Goes home to the Void Ancient Dragons after sensing something."
+      },
+      {
+        "ep": 205,
+        "text": "Awakens the Void Ancient Dragon's ancestral spirit and crushes the phoenix's."
+      },
+      {
+        "ep": 216,
+        "text": "Wakes on Dragon Island as the Dragon Emperor."
+      },
+      {
+        "ep": 253,
+        "text": "Draws the Dragon Slayer Sword and is hailed as the true Dragon Emperor."
+      },
+      {
+        "ep": 270,
+        "text": "Fights the Northern Dragon King, burning her life essence, until Xiao Yan arrives."
+      },
+      {
+        "ep": 271,
+        "text": "Rules all four Dragon Islands as one clan."
+      }
+    ],
+    "card": 636.0
+  },
+  {
+    "id": "yao-sheng",
+    "name": "Yao Sheng",
+    "zh": "",
+    "aka": [],
+    "wiki": "Yao Sheng",
+    "ep": 97,
+    "mentionEp": null,
+    "group": "Jia Nan Academy",
+    "side": "rival",
+    "intro": "A Mountain Splitting Gang member ranked 17th on the Strong Ranking, who picks a fight with Xiao Yan [97] and bribes his way into a match to avenge Liu Fei [99]. Xiao Yan escapes his Black Water Border with the Purple Cloud Wings and beats him with Octane Blast [99].",
+    "power": [
+      {
+        "ep": 97,
+        "realm": "7-star Dou Ling",
+        "detail": "\"at least a Seven-Star Dou Ling\", an onlooker says",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 97,
+        "label": "First seen",
+        "desc": "Man in pale-red robes with a somewhat feminine face.",
+        "why": "",
+        "img": "img/wiki/Yao_Sheng-2dbe9b.png"
+      }
+    ],
+    "card": 119.3
+  },
+  {
+    "id": "ling-quan",
+    "name": "Ling Quan",
+    "zh": "靈泉",
+    "aka": [],
+    "wiki": "Ling Quan",
+    "ep": 101,
+    "mentionEp": null,
+    "group": "Gu Clan",
+    "side": "rival",
+    "intro": "A commander of the Gu Clan's Black Submerged Army, sent to take Xun Er home, who warns Xiao Yan off her until Su Qian throws him out [102]. Xiao Yan beats him as a Four-Star Dou Zong [185] and again at Ancient Holy City [217], and he later carries Clan Chief Gu Yuan's call to the Lei and Yan Clans [280].",
+    "power": [
+      {
+        "ep": 218,
+        "realm": "1-star Dou Zun",
+        "detail": "narration; his name card in EP219 says the same",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 101,
+        "label": "First seen",
+        "desc": "Handsome young man in a purple-black robe, leading a squad.",
+        "why": "",
+        "img": "img/wiki/Ling_Quan54-0ae478.png"
+      }
+    ],
+    "card": 979.6
+  },
+  {
+    "id": "mr-jin",
+    "name": "Mr. Jin",
+    "zh": "",
+    "aka": [
+      "Jin"
+    ],
+    "wiki": null,
+    "ep": 105,
+    "mentionEp": null,
+    "group": "Black-Corner Region",
+    "side": "enemy",
+    "intro": "One of the twin brothers Mr. Jin and Mr. Yin, Black-Corner Region fighters for hire whom Han Feng sets on Su Qian; with the Conjoining Skill the pair reach Dou Zong level [105]. They side with Xiao Yan out of fear of Medusa [117], then join Han Feng's alliance and are beaten by Xiao Yan at Demon Flame Valley [155].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 105,
+        "label": "First seen",
+        "desc": "One of a pair of twin brothers who always fight together with Mr. Yin.",
+        "why": ""
+      }
+    ],
+    "card": 263.9
+  },
+  {
+    "id": "mr-yin",
+    "name": "Mr. Yin",
+    "zh": "",
+    "aka": [
+      "Yin"
+    ],
+    "wiki": null,
+    "ep": 105,
+    "mentionEp": null,
+    "group": "Black-Corner Region",
+    "side": "enemy",
+    "intro": "One of the twin brothers Mr. Jin and Mr. Yin, Black-Corner Region fighters for hire whom Han Feng sets on Su Qian; with the Conjoining Skill the pair reach Dou Zong level [105]. They side with Xiao Yan out of fear of Medusa [117], then join Han Feng's alliance and are beaten by Xiao Yan at Demon Flame Valley [155].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 105,
+        "label": "First seen",
+        "desc": "One of a pair of twin brothers who always fight together with Mr. Jin.",
+        "why": ""
+      }
+    ],
+    "card": 263.9
+  },
+  {
+    "id": "protector-wu",
+    "name": "Protector Wu",
+    "zh": "吳英",
+    "aka": [
+      "Wu Ying"
+    ],
+    "wiki": "Protector Wu",
+    "ep": 122,
+    "mentionEp": null,
+    "group": "Hall of Souls",
+    "side": "enemy",
+    "intro": "A Hall of Souls protector hidden in the Misty Cloud Sect, who devours Yun Shan's soul [127] and captures Yao Lao's soul after Yao Lao and Medusa fight him [128]. Years later Xiao Yan beats him with a chain of Dou Skills [183], and Xun Er hands him over as a captive [184].",
+    "power": [
+      {
+        "ep": 183,
+        "realm": "8-star Dou Zong",
+        "detail": "stated after Xiao Yan defeats him",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 122,
+        "label": "First seen",
+        "desc": "A figure wrapped in black fog, only a pair of red eyes showing.",
+        "why": "",
+        "img": "img/wiki/IMG_0510-02032b.jpeg"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 122,
+        "text": "As a Hall of Souls envoy, raises Misty Cloud elders to Dou Huang."
+      },
+      {
+        "ep": 126,
+        "text": "Fights Yao Lao with the Triple Soul Lock."
+      },
+      {
+        "ep": 127,
+        "text": "Swallows Yun Shan's soul and the elders' souls."
+      },
+      {
+        "ep": 128,
+        "text": "Captures Yao Lao's soul and tells Xiao Yan to come to the Hall of Souls for him."
+      },
+      {
+        "ep": 182,
+        "text": "Attacks Xiao Yan at the Ye Clan."
+      },
+      {
+        "ep": 183,
+        "text": "Beaten by Xiao Yan and captured."
+      }
+    ],
+    "card": 62.0
+  },
+  {
+    "id": "elder-hutou",
+    "name": "Elder Hutou",
+    "zh": "",
+    "aka": [
+      "Elder Hu"
+    ],
+    "wiki": "Three Mulan Elders",
+    "ep": 133,
+    "mentionEp": null,
+    "group": "Others",
+    "side": "enemy",
+    "intro": "One of the Three Elders of Mulan Valley, who join Yan Luo Tian in pressing the wounded Medusa at the Black Mountain Fortress [134]. Xiao Yan knocks him out with Octane Blast [134], then seizes and kills him in the Mulan camp [137].",
+    "power": [
+      {
+        "ep": 133,
+        "realm": "peak Dou Huang",
+        "detail": "one of \"the three peak Dou Huang elders of the Mulan Valley\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 133,
+        "label": "First seen",
+        "desc": "Old man in a green robe marked with a tiger.",
+        "why": ""
+      }
+    ]
+  },
+  {
+    "id": "yan-luo-tian",
+    "name": "Yan Luo Tian",
+    "zh": "雁落天",
+    "aka": [],
+    "wiki": "Yan Luotian",
+    "ep": 133,
+    "mentionEp": null,
+    "group": "Others",
+    "side": "enemy",
+    "intro": "Leader of the Gold Geese Sect, who presses the wounded Medusa at the Black Mountain Fortress [134]. Xiao Yan maims him with the Angry Buddha Lotus Flame [135], and Medusa finishes him in the night raid on the camps [137].",
+    "power": [
+      {
+        "ep": 134,
+        "realm": "2-star Dou Zong",
+        "detail": "\"you're only a Two-Star Dou Zong\", said to him at the fortress",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 133,
+        "label": "First seen",
+        "desc": "Man in gold clothes with a pair of huge golden goose wings.",
+        "why": "",
+        "img": "img/wiki/IMG_1879-cdc6d3.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "protector-tie",
+    "name": "Protector Tie",
+    "zh": "铁",
+    "aka": [],
+    "wiki": "Protector Tie",
+    "ep": 139,
+    "mentionEp": null,
+    "group": "Hall of Souls",
+    "side": "enemy",
+    "intro": "A Man Protector of the Hall of Souls, called in by Xie Shan, who goes after Xiao Yan's soul until Medusa takes him on [140]. Captured, he explains the Hall's ranks [142], and his soul later goes into Xiao Yan's Earth Demon Puppet [157].",
+    "power": [
+      {
+        "ep": 140,
+        "realm": "Dou Zong",
+        "detail": "onlookers sense a Dou Zong when he joins the fight",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 139,
+        "label": "First seen",
+        "desc": "A dark figure in black fog whose face can't be seen; under it, a half-transparent spirit body.",
+        "why": "",
+        "img": "img/wiki/IMG_0765-c3cf87.jpeg"
+      }
+    ],
+    "card": 458
+  },
+  {
+    "id": "xie-biyan",
+    "name": "Xie Biyan",
+    "zh": "蝎毕岩",
+    "aka": [
+      "Xie Bi Yan"
+    ],
+    "wiki": "Xie Biyan",
+    "ep": 139,
+    "mentionEp": null,
+    "group": "Others",
+    "side": "enemy",
+    "intro": "Old master of the Ten Thousand Scorpion Gate, blessed by a Blood Demon Scorpion Emperor's spirit, who fights the Little Fairy Doctor [139–141]. Beaten, he plants the Demon Poison Spot in Xiao Yan with his dying life force, and Medusa kills him [142].",
+    "power": [
+      {
+        "ep": 139,
+        "realm": "peak 4-star Dou Zong",
+        "detail": "judged from his aura",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 139,
+        "label": "First seen",
+        "desc": "Old man in plain clothes with turbid eyes, holding a black staff topped with a scorpion's head.",
+        "why": "",
+        "img": "img/wiki/IMG_0764-c1d5d3.jpeg"
+      }
+    ],
+    "card": 1041
+  },
+  {
+    "id": "xie-shan",
+    "name": "Xie Shan",
+    "zh": "謝山",
+    "aka": [],
+    "wiki": "Xie Shan",
+    "ep": 139,
+    "mentionEp": null,
+    "group": "Others",
+    "side": "enemy",
+    "intro": "Chief of the Ten Thousand Scorpion Gate, who traps the Poison Sect in his Poison Cloud Formation [139] and sends in his Four-Wing Scorpion and Protector Tie [140]. Xiao Yan kills him with Octane Blast [141].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 139,
+        "label": "First seen",
+        "desc": "Middle-aged man with a dark, cold face in Chinese robes.",
+        "why": "",
+        "img": "img/wiki/IMG_0761-1905b9.jpeg"
+      }
+    ],
+    "card": 873
+  },
+  {
+    "id": "fang-yan",
+    "name": "Fang Yan",
+    "zh": "方岩",
+    "aka": [],
+    "wiki": "Fang Yan",
+    "ep": 144,
+    "mentionEp": null,
+    "group": "Black-Corner Region",
+    "side": "enemy",
+    "intro": "First Elder of Demon Flame Valley, who unmasks \"Yan Xiao\" as Xiao Yan in Black Emperor City [147]. With his two brothers he forms the Life Transforming Flame against Xiao Yan, who swallows it and kills all three [148–149].",
+    "power": [
+      {
+        "ep": 146,
+        "realm": "peak Dou Huang",
+        "detail": "called \"a Half-Step Dou Zong\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 144,
+        "label": "First seen",
+        "desc": "Red-haired old man in simple clothes.",
+        "why": "",
+        "img": "img/wiki/IMG_0805-4c225a.jpeg"
+      }
+    ],
+    "card": 1091
+  },
+  {
+    "id": "qi-shan",
+    "name": "Qi Shan",
+    "zh": "奇山",
+    "aka": [],
+    "wiki": "Old Qi",
+    "ep": 144,
+    "mentionEp": null,
+    "group": "Black-Corner Region",
+    "side": "enemy",
+    "intro": "Chief alchemist of the Black Emperor Sect, who loses a bidding for herbs to Xiao Yan's better Fighting Spirit Pill [144]. He later tries with Mo Ya to take Zi Yan hostage and is beaten [149].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 144,
+        "label": "First seen",
+        "desc": "Red-faced old man in a pale-yellow robe.",
+        "why": "",
+        "img": "img/wiki/Qi_Shan_Donghua-09294b.png"
+      }
+    ],
+    "card": 696
+  },
+  {
+    "id": "mo-ya",
+    "name": "Mo Ya",
+    "zh": "莫雅",
+    "aka": [],
+    "wiki": "Mo Ya",
+    "ep": 145,
+    "mentionEp": null,
+    "group": "Black-Corner Region",
+    "side": "enemy",
+    "intro": "Young Master of the Black Emperor Sect and Mo Tian Xing's son, whom the Little Fairy Doctor quietly poisons with the Soul Swallowing Flower [145]. He tries to take Zi Yan hostage [149], and Xiao Yan trades his antidote to win his father over [155–156].",
+    "power": [
+      {
+        "ep": 145,
+        "realm": "6-star Dou Huang",
+        "detail": "judged by Xiao Yan's side",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 145,
+        "label": "First seen",
+        "desc": "Handsome young man in snow-white clothes with a faintly feminine smile.",
+        "why": "",
+        "img": "img/wiki/Mo_ya-a2494b.jpg"
+      }
+    ],
+    "card": 330
+  },
+  {
+    "id": "mo-tian-xing",
+    "name": "Mo Tian Xing",
+    "zh": "莫天行",
+    "aka": [
+      "Chief Mo"
+    ],
+    "wiki": "Mo Tianxing",
+    "ep": 146,
+    "mentionEp": null,
+    "group": "Black-Corner Region",
+    "side": "enemy",
+    "intro": "Head of the Black Emperor Sect, who opens the auction in Black Emperor City [146] and sides with Han Feng over Xiao Yan's Zong Breaking Pill [148]. He drops out of Han Feng's alliance in exchange for an antidote for his son Mo Ya [155].",
+    "power": [
+      {
+        "ep": 146,
+        "realm": "4-star Dou Zong",
+        "detail": "the Little Fairy Doctor's estimate",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 146,
+        "label": "First seen",
+        "desc": "Old man in a yellow robe sewn with golden pythons.",
+        "why": "",
+        "img": "img/wiki/E77_Mo_Tian_Xing_1-dffaa9.png"
+      }
+    ],
+    "card": 672
+  },
+  {
+    "id": "old-ying-shan",
+    "name": "Old Ying Shan",
+    "zh": "英山",
+    "aka": [
+      "Ying Shan",
+      "Mr. Ying"
+    ],
+    "wiki": "Ying Shan",
+    "ep": 147,
+    "mentionEp": null,
+    "group": "Black-Corner Region",
+    "side": "rival",
+    "intro": "An old Black-Corner Region Dou Zong who snatches the Bodhisattva Body Transformation Saliva and flees with every faction after him [147]. He hid his soul in the saliva and gives it up when Su Qian corners him [149], and later apologizes to Xiao Yan at Demon Flame Valley [156].",
+    "power": [
+      {
+        "ep": 147,
+        "realm": "Dou Zong",
+        "detail": "judged from his aura",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 147,
+        "label": "First seen",
+        "desc": "Old Black-Corner fighter who escapes with clones.",
+        "why": ""
+      }
+    ],
+    "card": 2
+  },
+  {
+    "id": "xin-lan",
+    "name": "Xin Lan",
+    "zh": "叶欣蓝",
+    "aka": [
+      "Ye Xin Lan"
+    ],
+    "wiki": "Xin Lan",
+    "ep": 150,
+    "mentionEp": null,
+    "group": "Pill Tower",
+    "side": "ally",
+    "intro": "An alchemist from the Ye Clan of the Pill Region, studying at Jia Nan Academy, who tells Xiao Yan about the Three Thousand Burning Flame and the Pill Gathering [150] and travels with him to the Central Plains [158]. Xiao Yan rescues her from a forced marriage [177] and poses as her husband to enter the clans' assessment [186].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 150,
+        "label": "First seen",
+        "desc": "Beautiful, cool-mannered young woman in pale-blue clothes.",
+        "why": "",
+        "img": "img/wiki/Ye_Xin_Lan___Successor-6c9457.jpg"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 150,
+        "text": "Refines a Fourth-Tier Sky Qi Pill at the Rock Gate and tells Xiao Yan about the Pill Gathering."
+      },
+      {
+        "ep": 158,
+        "text": "Sets out for the Central Plains with Xiao Yan and explains its great factions."
+      },
+      {
+        "ep": 177,
+        "text": "Revealed as Ye Xin Lan; Xiao Yan breaks into Ye City and takes her away from a forced marriage."
+      },
+      {
+        "ep": 178,
+        "text": "Leads Xiao Yan to the hunted Little Fairy Doctor."
+      },
+      {
+        "ep": 186,
+        "text": "Agrees to Xiao Yan posing as her husband for the Ye Clan."
+      }
+    ],
+    "card": 180
+  },
+  {
+    "id": "yao-tian-huo",
+    "name": "Tian Huo Zun Zhe",
+    "zh": "曜天火",
+    "aka": [
+      "Yao Tian Huo",
+      "Senior Tian Huo"
+    ],
+    "wiki": "Tian Huo",
+    "ep": 154,
+    "mentionEp": null,
+    "group": "Xiao Yan's companions",
+    "side": "ally",
+    "intro": "Yao Tian Huo, a Dou Zun who died in the lava world beneath the Blazing Qi Refining Tower, whose fading soul becomes Xiao Yan's bodyguard in return for repairing it [154]. Xiao Yan gives him a new body with the Yin Yang Life Soul Pill [181], and he fights beside him through the Pill Region and the raid on the Hall of Souls [182, 200].",
+    "power": [
+      {
+        "ep": 154,
+        "realm": "8-star Dou Zong",
+        "detail": "his weakened soul, once a Dou Zun",
+        "conf": "high"
+      },
+      {
+        "ep": 181,
+        "realm": "Dou Zun",
+        "detail": "restored in his new body",
+        "conf": "high"
+      },
+      {
+        "ep": 198,
+        "realm": "peak 1-star Dou Zun",
+        "detail": "stabilised within a year",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 154,
+        "label": "Soul",
+        "desc": "Ghostly old man in white robes with snow-white hair.",
+        "why": "",
+        "img": "img/wiki/Tian_huo_side_profile_2-6e269e.jpg"
+      },
+      {
+        "ep": 181,
+        "label": "New body",
+        "desc": "A living body with dark hair, made from the Yin Yang Life Soul Pill.",
+        "why": "Xiao Yan refines the Yin Yang Life Soul Pill to give his soul a body."
+      }
+    ],
+    "arc": [
+      {
+        "ep": 154,
+        "text": "Offers Xiao Yan the Fallen Heart Flame seed and the Five Ring Flame Expelling Technique."
+      },
+      {
+        "ep": 155,
+        "text": "Absorbs Protector Xuan's fierce spirit through Xiao Yan's ring."
+      },
+      {
+        "ep": 166,
+        "text": "Holds Fei Tian off while Xiao Yan escapes."
+      },
+      {
+        "ep": 167,
+        "text": "Advises tempering the lightning avatar with the Fallen Heart Flame."
+      },
+      {
+        "ep": 181,
+        "text": "Takes his new body and drives off the Ice River Valley as a Dou Zun."
+      },
+      {
+        "ep": 182,
+        "text": "Faces Tian Shuang Zi, Dou Zun against Dou Zun."
+      },
+      {
+        "ep": 200,
+        "text": "Helps hold off the Hall of Souls branch's Dou Zuns while Xiao Yan goes for Yao Lao."
+      }
+    ],
+    "card": 378
+  },
+  {
+    "id": "han-xue",
+    "name": "Han Xue",
+    "zh": "韩雪",
+    "aka": [],
+    "wiki": "Han Xue",
+    "ep": 159,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "ally",
+    "intro": "Second Young Lady of the Han family of Tian Bei City, who rescues the injured Xiao Yan [159] and realises he was her hidden protector when he captures the Hong Clan's ambushers [160]. She falls for him, but her sister Han Yue tells her he already loves someone [161].",
+    "power": [
+      {
+        "ep": 159,
+        "realm": "3-star Dou Wang",
+        "detail": "Xiao Yan's thought",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 159,
+        "label": "First seen",
+        "desc": "Tall young woman in purple clothes with a cool, stern face.",
+        "why": "",
+        "img": "img/wiki/HanXueNovel-103051.jpg"
+      }
+    ],
+    "card": 670
+  },
+  {
+    "id": "han-chi",
+    "name": "Han Chi",
+    "zh": "韓馳",
+    "aka": [],
+    "wiki": "Han Chi",
+    "ep": 160,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "ally",
+    "intro": "Head of the Han family and father of Han Yue and Han Xue, who refuses Hong Chen's demand to marry both his daughters and pledges his gratitude to Xiao Yan [160]. He stands by Xiao Yan against the Hong Clan at Sky Stone Stage [162].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 160,
+        "label": "First seen",
+        "desc": "Middle-aged man in fine clothes with a quiet authority.",
+        "why": "",
+        "img": "img/wiki/Han_Chi_91-269344.jpg"
+      }
+    ],
+    "card": 80
+  },
+  {
+    "id": "hong-chen",
+    "name": "Hong Chen",
+    "zh": "",
+    "aka": [],
+    "wiki": "Hong Chen",
+    "ep": 160,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "enemy",
+    "intro": "Young master of the Hong Clan and a new Wind Lightning Pavilion disciple, who demands to marry both Han sisters [160]. Xiao Yan floors him at Sky Stone Stage [161], and his sneak attack afterward snaps all his meridians, crippling him [162].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 160,
+        "label": "First seen",
+        "desc": "Young man in green with a boastful air.",
+        "why": "",
+        "img": "img/wiki/Hong_Chan_91-e82877.jpg"
+      }
+    ],
+    "card": 89
+  },
+  {
+    "id": "hong-li",
+    "name": "Hong Li",
+    "zh": "",
+    "aka": [],
+    "wiki": "Hong Li",
+    "ep": 161,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "enemy",
+    "intro": "Head of the Hong Clan and Hong Chen's father, who fights Xiao Yan after his son is crippled and ends up held hostage [162]. Xiao Yan lets him go with Dark Energy planted in his body [163].",
+    "power": [
+      {
+        "ep": 162,
+        "realm": "peak Dou Huang",
+        "detail": "Xiao Yan calls him \"nothing but a Half-Step Dou Zong\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 161,
+        "label": "First seen",
+        "desc": "Large middle-aged man.",
+        "why": "",
+        "img": "img/wiki/Hong_Li-b4ccad.jpg"
+      }
+    ],
+    "card": 266
+  },
+  {
+    "id": "shen-yun",
+    "name": "Shen Yun",
+    "zh": "沈云",
+    "aka": [
+      "Elder Yun"
+    ],
+    "wiki": "Chen Yun",
+    "ep": 161,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "enemy",
+    "intro": "A Wind Lightning Northern Pavilion elder who recognises Xiao Yan's Three Thousand Lightning Movement as a stolen technique [162]. Xiao Yan takes his storage ring with part of the Three Thousand Lightning Illusionary Body, runs him down, and he blows himself up [163].",
+    "power": [
+      {
+        "ep": 162,
+        "realm": "4-star Dou Zong",
+        "detail": "his own words",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 161,
+        "label": "First seen",
+        "desc": "Old man in gray robes.",
+        "why": ""
+      }
+    ],
+    "card": 375
+  },
+  {
+    "id": "hong-tian-xiao",
+    "name": "Hong Tian Xiao",
+    "zh": "",
+    "aka": [],
+    "wiki": "Hong Tian Xiao",
+    "ep": 162,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "enemy",
+    "intro": "The Hong Clan's elder, who arrives to find Xiao Yan holding Hong Li hostage [162] and later helps the Wind Lightning elders trap him [164]. Xiao Yan refuses his offer of compensation and kills him [165].",
+    "power": [
+      {
+        "ep": 162,
+        "realm": "5-star Dou Zong",
+        "detail": "said by the Hong Clan",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 162,
+        "label": "First seen",
+        "desc": "Red-clothed, yellow-faced old man.",
+        "why": "",
+        "img": "img/wiki/Honge_Tian_Xiao_93-74d6ee.jpg"
+      }
+    ]
+  },
+  {
+    "id": "han-fei",
+    "name": "Han Fei",
+    "zh": "",
+    "aka": [],
+    "wiki": "Han Fei",
+    "ep": 163,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "ally",
+    "intro": "Grandfather of the Han family, who watches Xiao Yan's fights in secret because the family can't anger the Wind Lightning Pavilion [163]. He thanks Xiao Yan for helping the family and warns him to leave the Central Plains [164].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 163,
+        "label": "First seen",
+        "desc": "Elderly grandfather of the Han family.",
+        "why": "",
+        "img": "img/wiki/Han_Fei_1-a9cc19.jpg"
+      }
+    ],
+    "card": 699
+  },
+  {
+    "id": "fei-tian",
+    "name": "Fei Tian",
+    "zh": "费天",
+    "aka": [
+      "Pavilion Chief Fei",
+      "Tian Lei Zi"
+    ],
+    "wiki": "Fei Tian",
+    "ep": 165,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "enemy",
+    "intro": "Head of the Wind Lightning Northern Pavilion, who hunts Xiao Yan for the Three Thousand Lightning Illusionary Body and his way of merging Heavenly Flames [165–166]. Xiao Yan beats him in the Beast Region ruins [203] and later kills him for the Falling Star Pavilion members his pavilion killed [241].",
+    "power": [
+      {
+        "ep": 166,
+        "realm": "8-star Dou Zong",
+        "detail": "called \"just an Eight-Star Dou Zong\" when he corners Xiao Yan",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 165,
+        "label": "First seen",
+        "desc": "Silver-robed man with a youngish face, old-white hair and white eyes.",
+        "why": "",
+        "img": "img/wiki/Fei_Tian_aka_Tian_Lei_Zi___Leader_of_the_Northern_Wind_Light-815477.jpg"
+      }
+    ],
+    "card": 964
+  },
+  {
+    "id": "feng-qing-er",
+    "name": "Feng Qing Er",
+    "zh": "凤清儿",
+    "aka": [
+      "Qing Er",
+      "Miss Feng"
+    ],
+    "wiki": "Feng Qing-er",
+    "ep": 167,
+    "mentionEp": 161,
+    "group": "Beast Region",
+    "side": "enemy",
+    "intro": "Lei Zun Zhe's disciple at the Wind Lightning Pavilion and secretly of the Heaven Demon Phoenix Tribe, who duels Xiao Yan over the Three Thousand Lightning Movement and loses [172–173]. She hunts him for her tribe's essence blood [204–205] and, reborn with an Ancient Heaven Demon Phoenix's blood, attacks him again [234].",
+    "power": [
+      {
+        "ep": 171,
+        "realm": "Dou Zong",
+        "detail": "broke through in the Heavenly Mountain Blood Pool",
+        "conf": "high"
+      },
+      {
+        "ep": 173,
+        "realm": "3-star Dou Zong",
+        "detail": "raised by her tribe's secret technique in the duel",
+        "conf": "medium"
+      },
+      {
+        "ep": 234,
+        "realm": "peak Dou Zun",
+        "detail": "\"a peak Third Turn Dou Zun\" after the Ancient Heaven Demon Phoenix's blood",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 167,
+        "label": "First seen",
+        "desc": "Elegant young woman in a colourful dress, cold and princess-like.",
+        "why": "",
+        "img": "img/wiki/Feng_Qing_Er_Dou_Zun-7bffbf.png"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 167,
+        "text": "Arrives at Heaven Mountain on a Seven-Colored Soul Crane."
+      },
+      {
+        "ep": 170,
+        "text": "Is robbed of energy crystals by Mu Qing Luan in the Blood Pool."
+      },
+      {
+        "ep": 172,
+        "text": "Challenges Xiao Yan to a duel over the Three Thousand Lightning Movement."
+      },
+      {
+        "ep": 173,
+        "text": "Shows her Heaven Demon Phoenix wings and loses the duel."
+      },
+      {
+        "ep": 174,
+        "text": "Searches Xiao Yan for her tribe's essence blood, finds nothing and apologizes."
+      },
+      {
+        "ep": 205,
+        "text": "Awakens the Ancient Phoenix's ancestral spirit, which Zi Yan crushes."
+      },
+      {
+        "ep": 234,
+        "text": "Returns after a blood transplant and attacks Xiao Yan."
+      }
+    ],
+    "card": 361
+  },
+  {
+    "id": "huang-tian-ground-spirit-gate",
+    "name": "Huang Tian (Ground Spirit Gate)",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 167,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "enemy",
+    "intro": "A Ground Spirit Gate fighter who attacks Nalan Yanran with Wang Chen for her Psychic White Fox until Xiao Yan steps in [167]; Xiao Yan then drives his men off [168].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 167,
+        "label": "First seen",
+        "desc": "Ground Spirit Gate fighter.",
+        "why": ""
+      }
+    ],
+    "card": 959
+  },
+  {
+    "id": "wang-chen",
+    "name": "Wang Chen",
+    "zh": "王辰",
+    "aka": [],
+    "wiki": "Wang Chen",
+    "ep": 167,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "enemy",
+    "intro": "A bloodthirsty Yellow Spring Pavilion disciple, who withdraws when Xiao Yan's Heavenly Flame beats his Corpse Eroding Hand [168]. When he keeps attacking Lin Yan after he surrenders, Xiao Yan takes him on in a duel and beats him [171–172].",
+    "power": [
+      {
+        "ep": 168,
+        "realm": "peak Dou Huang",
+        "detail": "\"long reached the peak of the Dou Huang class\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 167,
+        "label": "First seen",
+        "desc": "Young man in yellow with a knife scar on his face.",
+        "why": "",
+        "img": "img/wiki/Wang_Chen_97-5c7e25.jpg"
+      }
+    ],
+    "card": 859
+  },
+  {
+    "id": "jin-gu",
+    "name": "Jin Gu",
+    "zh": "金谷",
+    "aka": [],
+    "wiki": "Jin Gu",
+    "ep": 168,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "ally",
+    "intro": "An elder of the Gold Swallowing Mouse Tribe at Heaven Mountain, who lets Xiao Yan through the maze for some Qi Mending Pills [168]. He later tells him about the Gu Clan's Dou Di bloodline and the Gu Realm [170–171].",
+    "power": [
+      {
+        "ep": 168,
+        "realm": "Dou Zong",
+        "detail": "Xiao Yan senses a Dou Zong",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 168,
+        "label": "First seen",
+        "desc": "Humble-looking old man in a gray robe.",
+        "why": "",
+        "img": "img/wiki/Jin_Gu_99-e9b427.png"
+      }
+    ],
+    "card": 571
+  },
+  {
+    "id": "jin-shi",
+    "name": "Jin Shi",
+    "zh": "金石",
+    "aka": [],
+    "wiki": "Jin Shi",
+    "ep": 168,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "ally",
+    "intro": "Leader of the Gold Swallowing Mouse Tribe, who sets the climbing test for the Heavenly Mountain Blood Pool [168] and offers its secret depths for a cure for his Fire Poison [169]. Xiao Yan cures him and becomes the tribe's lifelong friend [170–171].",
+    "power": [
+      {
+        "ep": 168,
+        "realm": "6-star Dou Zong",
+        "detail": "\"as strong as a Six-Star Dou Zong\"",
+        "conf": "medium"
+      },
+      {
+        "ep": 169,
+        "realm": "7-star Dou Zong",
+        "detail": "his own words",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 168,
+        "label": "First seen",
+        "desc": "Small old man.",
+        "why": "",
+        "img": "img/wiki/Jin_Shi_99-b66913.png"
+      }
+    ],
+    "card": 763
+  },
+  {
+    "id": "mu-qing-luan",
+    "name": "Mu Qing Luan",
+    "zh": "穆青鸞",
+    "aka": [],
+    "wiki": "Mu Qing Luan",
+    "ep": 168,
+    "mentionEp": 167,
+    "group": "Falling Star Pavilion",
+    "side": "ally",
+    "intro": "Feng Zun Zhe's disciple at the Falling Star Pavilion, a girl of the Green Mythical Bird Tribe, who tells Xiao Yan her master will come to the Four Pavilion meeting [169] and robs Feng Qing Er of energy crystals in the Blood Pool [170]. She later guides him into the Beast Region ruins [203].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 168,
+        "label": "First seen",
+        "desc": "Young girl in green clothes with bright, clever eyes.",
+        "why": "",
+        "img": "img/wiki/Donghua_2-4b1acc.jpg"
+      }
+    ],
+    "card": 827
+  },
+  {
+    "id": "feng-zun-zhe",
+    "name": "Feng Zun Zhe",
+    "zh": "风闲",
+    "aka": [
+      "Elder Feng",
+      "Feng Xian"
+    ],
+    "wiki": "Feng Xian",
+    "ep": 171,
+    "mentionEp": 72,
+    "group": "Falling Star Pavilion",
+    "side": "ally",
+    "intro": "Feng Xian, Yao Lao's old friend and deputy of the Falling Star Pavilion, who saves Xiao Yan at the Four Pavilion meeting when he recognises Yao Lao's ring [172]. He helps free Yao Lao from the Hall of Souls [200] and guards him while he takes a new body [210].",
+    "power": [
+      {
+        "ep": 171,
+        "realm": "Dou Zun",
+        "detail": "one of the four Dou Zun \"Zun Zhe\"; EP72 says he became a Dou Zun",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 171,
+        "label": "First seen",
+        "desc": "Old man in a blue robe with long hair loose over his shoulders, carefree.",
+        "why": ""
+      }
+    ],
+    "arc": [
+      {
+        "ep": 72,
+        "text": "Named at an auction: a Yin-Yang Mysterious Dragon Pill once saved him."
+      },
+      {
+        "ep": 128,
+        "text": "Yao Lao tells Xiao Yan to show his ring to his old friend Feng Zun Zhe."
+      },
+      {
+        "ep": 172,
+        "text": "Recognises Yao Lao's ring and the Bone Chilling Flame and protects Xiao Yan."
+      },
+      {
+        "ep": 199,
+        "text": "Arrives at the Pill Tower with Tie Jian Zun Zhe."
+      },
+      {
+        "ep": 200,
+        "text": "Holds off the Hall of Souls branch while Xiao Yan goes for Yao Lao."
+      },
+      {
+        "ep": 210,
+        "text": "Guards Yao Lao and gives a Four-Star Dou Zun skeleton for his body."
+      },
+      {
+        "ep": 211,
+        "text": "Takes on Black Tianzun and White Tianzun at the Falling Star Pavilion."
+      }
+    ],
+    "card": 519
+  },
+  {
+    "id": "lei-zun-zhe",
+    "name": "Lei Zun Zhe",
+    "zh": "雷尊者",
+    "aka": [],
+    "wiki": "Lei zun-zhe",
+    "ep": 171,
+    "mentionEp": 169,
+    "group": "Central Plains",
+    "side": "enemy",
+    "intro": "Head of the Wind Lightning Pavilion and Feng Qing Er's master, who accuses Xiao Yan of stealing the Three Thousand Lightning Movement [172] and ends the feud only with a warning [174]. He backs down in the Beast Region ruins when four Dou Zuns stand behind Xiao Yan [203].",
+    "power": [
+      {
+        "ep": 172,
+        "realm": "Dou Zun",
+        "detail": "\"With your Dou Zun level strength\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 171,
+        "label": "First seen",
+        "desc": "Large old man with a silver beard and long silver eyebrows, in a silver robe sewn with lightning.",
+        "why": ""
+      }
+    ],
+    "card": 410
+  },
+  {
+    "id": "tang-huo-er",
+    "name": "Tang Huo Er",
+    "zh": "唐火儿",
+    "aka": [
+      "Huo Er"
+    ],
+    "wiki": "Huo Er",
+    "ep": 175,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "ally",
+    "intro": "Daughter of Burning Flame Valley chief Tang Zhen, who doubts Xiao Yan at first [175] and has a year left to live after failing to absorb the Nine Dragon Lightning Flame [176]. She later stands with her father behind Xiao Yan in the Beast Region ruins [204].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 175,
+        "label": "First seen",
+        "desc": "Young woman in fiery red with a dark-red belt and a heroic air.",
+        "why": "",
+        "img": "img/wiki/Tang_Huo_Er-30aed2.png"
+      }
+    ],
+    "card": 663
+  },
+  {
+    "id": "tang-zhen",
+    "name": "Tang Zhen",
+    "zh": "唐震",
+    "aka": [
+      "Valley Chief Tang"
+    ],
+    "wiki": "Tang Zhen",
+    "ep": 175,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "ally",
+    "intro": "Chief of the Burning Flame Valley and Tang Huo Er's father, who lets Xiao Yan inherit the Sky Fire Three Mysterious Changes after he survives Wu Chen's ten blows [177]. He later stands behind Xiao Yan against the Heaven Demon Phoenix Tribe [204, 208].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 175,
+        "label": "First seen",
+        "desc": "Skinny red-haired old man in plain linen clothes.",
+        "why": "",
+        "img": "img/wiki/Tang_Zhen_173-583e69.png"
+      }
+    ],
+    "card": 739
+  },
+  {
+    "id": "ye-chong",
+    "name": "Ye Chong",
+    "zh": "",
+    "aka": [],
+    "wiki": "Ye Zhong",
+    "ep": 177,
+    "mentionEp": null,
+    "group": "Pill Tower",
+    "side": "ally",
+    "intro": "First Elder of the Ye Clan and Xin Lan's grandfather, who first tries to force her to marry Cao Dan [177]. He later apologizes, opens the Sun Fire Ancient Altar to Xiao Yan [181] and has him pose as Xin Lan's husband for the clans' assessment [186].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 177,
+        "label": "First seen",
+        "desc": "Old First Elder of the Ye Clan.",
+        "why": ""
+      }
+    ],
+    "card": 686
+  },
+  {
+    "id": "tian-she",
+    "name": "Tian She",
+    "zh": "",
+    "aka": [
+      "Elder Snake"
+    ],
+    "wiki": "Tian She",
+    "ep": 179,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "enemy",
+    "intro": "The Ice River Valley's strongest Dou Zong, who hunts the Little Fairy Doctor and overpowers her with the Ice Zun Force, then sacrifices his men to flee from Tian Huo Zun Zhe [181]. He attacks Xiao Yan again with Bing Xuan and Bing Hua at the Ye Clan [183].",
+    "power": [
+      {
+        "ep": 181,
+        "realm": "peak Dou Zong",
+        "detail": "\"A peak Dou Zong.\"",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 179,
+        "label": "First seen",
+        "desc": "Shrivelled white-haired old man with a white-jade snake-head staff.",
+        "why": "",
+        "img": "img/wiki/Tian_Shi_110-3118d1.jpg"
+      }
+    ],
+    "card": 875
+  },
+  {
+    "id": "elder-lin",
+    "name": "Elder Lin",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 182,
+    "mentionEp": null,
+    "group": "Gu Clan",
+    "side": "ally",
+    "intro": "One of the two Gu Clan elders who guard Xun Er when she comes to Ye City to find Xiao Yan [182]. He strikes the Ice River Valley master Bing He with the God Seal Technique's Sky Burying Seal [184] and takes down Ling Quan on Xun Er's order [185].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 182,
+        "label": "First seen",
+        "desc": "An elderly Gu Clan guard in robes who travels at Xun Er's side.",
+        "why": ""
+      }
+    ],
+    "card": 82
+  },
+  {
+    "id": "elder-yuan",
+    "name": "Elder Yuan",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 182,
+    "mentionEp": null,
+    "group": "Gu Clan",
+    "side": "ally",
+    "intro": "Xun Er's second Gu Clan guard, who travels with her and Elder Lin to Ye City [182] and holds off the Hall of Souls while Elder Lin deals with Bing He [184]. Ling Quan mocks his strength when he comes to take Xun Er home [185].",
+    "power": [
+      {
+        "ep": 185,
+        "realm": "5-star Dou Zong",
+        "detail": "Ling Quan scoffs at 'your Five-Star Dou Zong strength' right after Elder Yuan speaks",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 182,
+        "label": "First seen",
+        "desc": "An elderly Gu Clan guard in robes, Elder Lin's companion.",
+        "why": ""
+      }
+    ],
+    "card": 82
+  },
+  {
+    "id": "tian-shuang-zi",
+    "name": "Tian Shuang Zi",
+    "zh": "",
+    "aka": [
+      "Elder Tian Shuang"
+    ],
+    "wiki": "Tian Shuang Zi",
+    "ep": 182,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "enemy",
+    "intro": "A Dou Zun elder of the Ice River Valley who leads its men to the Ye Clan with Tian She to seize the Little Fairy Doctor [182]. He fights Tian Huo Zun Zhe Dou Zun against Dou Zun until Xun Er's arrival makes the valley back down [184].",
+    "power": [
+      {
+        "ep": 182,
+        "realm": "Dou Zun",
+        "detail": "'We are both strong Dou Zun', facing Tian Huo Zun Zhe",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 182,
+        "label": "First seen",
+        "desc": "An old Ice River Valley elder in pale robes.",
+        "why": "",
+        "img": "img/wiki/Tian_shuang_zi_113-652f2c.jpg"
+      }
+    ],
+    "card": 205
+  },
+  {
+    "id": "dan-chen",
+    "name": "Dan Chen",
+    "zh": "",
+    "aka": [],
+    "wiki": "Dan Chen",
+    "ep": 187,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "rival",
+    "intro": "A young alchemist of the Dan Clan who arrives in Holy Pill City with Dan Xuan [187] and is one of the favourites of the Pill Gathering. In the final round she refines an Eighth-Tier Pill with a two-colored thundercloud [193].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 187,
+        "label": "First seen",
+        "desc": "A small, elegant girl with black hair in the white dress of the Dan Clan.",
+        "why": "",
+        "img": "img/wiki/Dan_Chen-9720de.png"
+      }
+    ],
+    "card": 162
+  },
+  {
+    "id": "cao-ying",
+    "name": "Cao Ying",
+    "zh": "曹颖",
+    "aka": [
+      "Ying"
+    ],
+    "wiki": "Cao Ying",
+    "ep": 188,
+    "mentionEp": 186,
+    "group": "Pill Tower",
+    "side": "rival",
+    "intro": "The Cao Clan's prodigy, a Pill Tower core disciple and Xuan Kong Zi's student, whose soul records Xiao Yan breaks at the five clans' assessment; she concedes to him after he takes her Soul Palms [188]. At the Pill Gathering she works with him against the Hall of Souls in the Pill Realm [191] and raises a three-colored thundercloud with the Blood Demon Flame [193].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 188,
+        "label": "First seen",
+        "desc": "A tall, cold and beautiful young woman in a dark dress.",
+        "why": "",
+        "img": "img/wiki/CaoYingNovel-4dcb21.jpg"
+      }
+    ],
+    "card": 181
+  },
+  {
+    "id": "song-qing",
+    "name": "Song Qing",
+    "zh": "宋青",
+    "aka": [],
+    "wiki": "Song Qing",
+    "ep": 189,
+    "mentionEp": null,
+    "group": "Pill Tower",
+    "side": "rival",
+    "intro": "The youngest elder of the Pill Tower, asked with Cao Ying and Xiao Yan to keep the Hall of Souls out of the Pill Gathering's top ten [189]. He is sweet on Cao Ying, leaves her behind when Mu Gu attacks in the Pill Realm [192] and refines a peak seventh-tier pill in the final [193].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 189,
+        "label": "First seen",
+        "desc": "A handsome young man in dark clothes.",
+        "why": "",
+        "img": "img/wiki/Song_Qing_120-b45f84.jpg"
+      }
+    ],
+    "card": 905
+  },
+  {
+    "id": "xuan-kong-zi",
+    "name": "Xuan Kong Zi",
+    "zh": "玄空子",
+    "aka": [
+      "Uncle Xuan",
+      "Chairman Xuan Kong Zi"
+    ],
+    "wiki": "Xuan Kong Zi",
+    "ep": 189,
+    "mentionEp": null,
+    "group": "Pill Tower",
+    "side": "ally",
+    "intro": "Chairman of the Pill Tower and an old friend of Yao Chen, who drives Mu Gu off Xiao Yan with a split soul and asks to be called Uncle Xuan [189]. He runs the Pill Gathering, names Xiao Yan champion [194] and tells him where Yao Lao is held [198]; later he leads the Pill Tower when it joins the Sky Mansion Alliance [242].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 189,
+        "label": "First seen",
+        "desc": "A white-haired, wrinkled old man in white robes with no aura at all.",
+        "why": "",
+        "img": "img/wiki/Xuan_kong_Zi-18ce53.jpg"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 189,
+        "text": "Saves Xiao Yan from Mu Gu and gives him the herbs for Yao Lao's new body."
+      },
+      {
+        "ep": 194,
+        "text": "Declares Xiao Yan champion of the Pill Gathering and gives him the Taiyi Soul Technique."
+      },
+      {
+        "ep": 196,
+        "text": "Arrives in the Star Region and drives the Hall of Souls out."
+      },
+      {
+        "ep": 198,
+        "text": "Tells Xiao Yan the Hall of Souls has moved Yao Lao out of Ming City."
+      },
+      {
+        "ep": 242,
+        "text": "Leads the Pill Tower's heads as the Sky Mansion Alliance seeks the tower's vote."
+      }
+    ],
+    "card": 774
+  },
+  {
+    "id": "xiong-zhan",
+    "name": "Xiong Zhan",
+    "zh": "熊战",
+    "aka": [
+      "Big Guy"
+    ],
+    "wiki": "Xiong Zhan",
+    "ep": 190,
+    "mentionEp": null,
+    "group": "Xiao Yan's companions",
+    "side": "ally",
+    "intro": "An Ancient Dragon Bear and Dou Zun who rules the beasts of the Pill Realm until Zi Yan makes herself his boss [191]. On her orders he saves Xiao Yan from Mu Gu [192], fights Zhai Xing [201] and the phoenixes [205] beside the group, then goes to Dragon Island with Zi Yan [209].",
+    "power": [
+      {
+        "ep": 192,
+        "realm": "Dou Zun",
+        "detail": "'he became a Dou Zun several years ago'",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 190,
+        "label": "First seen",
+        "desc": "A huge, burly man.",
+        "why": "",
+        "img": "img/wiki/Xiong_Zhan_Donghua-42d646.png"
+      }
+    ],
+    "card": 956
+  },
+  {
+    "id": "xuan-yi",
+    "name": "Xuan Yi",
+    "zh": "宣儀",
+    "aka": [
+      "Aunt Xuan",
+      "Chairwoman Xuan Yi"
+    ],
+    "wiki": "Xuan Yi",
+    "ep": 190,
+    "mentionEp": null,
+    "group": "Pill Tower",
+    "side": "ally",
+    "intro": "One of the Pill Tower's three chairpersons, a woman with some old tie to Yao Chen [194]. She helps hold the Three Thousand Burning Flame's seal [195], stops Chen Tian Nan's sneak attack on Xiao Yan and tells him Yao Lao has been found [198].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 190,
+        "label": "First seen",
+        "desc": "A beautiful woman in a cheongsam who looks about thirty.",
+        "why": "",
+        "img": "img/wiki/Xuan_Yi54-95b7fe.jpg"
+      }
+    ],
+    "card": 147
+  },
+  {
+    "id": "qiu-ling",
+    "name": "Qiu Ling",
+    "zh": "秋玲",
+    "aka": [
+      "Elder Qiu"
+    ],
+    "wiki": "Qiu Ling",
+    "ep": 195,
+    "mentionEp": null,
+    "group": "Pill Tower",
+    "side": "ally",
+    "intro": "The Pill Tower's First Elder, who leads the Pill Gathering's top ten into the Star Region [195]. He fights Mu Gu beside Xiao Yan and holds him off while Xiao Yan grabs the Three Thousand Burning Flame [196].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 195,
+        "label": "First seen",
+        "desc": "An old Pill Tower elder in robes.",
+        "why": "",
+        "img": "img/wiki/Que_Ling_126-685572.jpg"
+      }
+    ],
+    "card": 109
+  },
+  {
+    "id": "chen-tian-nan",
+    "name": "Chen Tian Nan",
+    "zh": "陳天南",
+    "aka": [],
+    "wiki": "Chen Tian Nan",
+    "ep": 198,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "enemy",
+    "intro": "Chief of the Profound Xuan Sect, who blames Xiao Yan for the death of his son Chen Xian [198]. Xuan Yi stops his sneak attack at the Ye Residence [198], and when he attacks again in the Dou Sheng ruins Xiao Yan kills him [207].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 198,
+        "label": "First seen",
+        "desc": "A gray-robed old man.",
+        "why": "",
+        "img": "img/wiki/Chen_Tian_Nan56-d0bf4b.png"
+      }
+    ],
+    "card": 195
+  },
+  {
+    "id": "tie-jian",
+    "name": "Tie Jian",
+    "zh": "铁剑",
+    "aka": [
+      "Tie Jian Zun Zhe"
+    ],
+    "wiki": "Tie Jian",
+    "ep": 199,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "ally",
+    "intro": "A Dou Zun who owes Yao Lao a debt and joins the raid on the Hall of Souls branch to rescue him [199]. He blows himself up to cover the escape [201], but Zhu Li of the Void Ancient Dragons saved him, and Xiao Yan finds him alive on East Dragon Island [215].",
+    "power": [
+      {
+        "ep": 199,
+        "realm": "Dou Zun",
+        "detail": "counted among the five Dou Zun-level fighters of the rescue party",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 199,
+        "label": "First seen",
+        "desc": "A stiff, upright man as straight as a sword.",
+        "why": "",
+        "img": "img/wiki/Tie_Jian56-0213d9.png"
+      }
+    ],
+    "card": 465
+  },
+  {
+    "id": "zhai-xing",
+    "name": "Zhai Xing",
+    "zh": "翟星",
+    "aka": [
+      "Old Ghost Zhai Xing"
+    ],
+    "wiki": "Zhai Xing",
+    "ep": 200,
+    "mentionEp": null,
+    "group": "Hall of Souls",
+    "side": "enemy",
+    "intro": "A Five-Star Dou Zun Tianzun of the Hall of Souls who secretly guards Yao Lao's soul and blocks the escape [200]; Xiao Yan's fire lotus wrecks the branch and nearly kills them both [201]. He schemes over the Dou Sheng skeleton in the ruins [207] and leads the attack on the Falling Star Pavilion, where Xiao Yan beats him with the Great Heavenly Creation Palm [211].",
+    "power": [
+      {
+        "ep": 202,
+        "realm": "5-star Dou Zun",
+        "detail": "called a Five-Star Dou Zun; shows his full power in EP211",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 200,
+        "label": "First seen",
+        "desc": "A grayish-white robed old man.",
+        "why": "",
+        "img": "img/wiki/Zhai_Xing_Unmasked-5ee9f4.jpg"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 200,
+        "text": "Steps out to stop Xiao Yan and Yao Lao leaving the Soul-locking Hall."
+      },
+      {
+        "ep": 201,
+        "text": "Takes Xiao Yan's Extermination Fire Lotus head-on."
+      },
+      {
+        "ep": 207,
+        "text": "Wakes the Dou Sheng skeleton with blood and rallies the factions against it."
+      },
+      {
+        "ep": 208,
+        "text": "Makes a deal to split Xiao Yan, the Little Fairy Doctor and the bone shards."
+      },
+      {
+        "ep": 211,
+        "text": "Loses to Xiao Yan at the Falling Star Pavilion and is mocked by the Ninth Tianzun."
+      }
+    ],
+    "card": 1013
+  },
+  {
+    "id": "huang-xuan",
+    "name": "Huang Xuan",
+    "zh": "",
+    "aka": [
+      "Elder Huang Xuan"
+    ],
+    "wiki": "Huang Xuan",
+    "ep": 204,
+    "mentionEp": null,
+    "group": "Beast Region",
+    "side": "enemy",
+    "intro": "An elder of the Heaven Demon Phoenix Tribe who comes to the Dou Sheng ruins with Feng Qing Er to take Xiao Yan for hiding their clan's Essence Blood [204]. He fights for the Dragon-Phoenix Origin Fruit [205] and Tang Zhen takes him on [208], until Hei Qing crushes his group [209].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 204,
+        "label": "First seen",
+        "desc": "A black-robed old man.",
+        "why": "",
+        "img": "img/wiki/Huang_Xuan_135-951a8f.jpg"
+      }
+    ],
+    "card": 118
+  },
+  {
+    "id": "hei-qing",
+    "name": "Hei Qing",
+    "zh": "黑青",
+    "aka": [
+      "Hei Qing Zun Zhe",
+      "Uncle Hei"
+    ],
+    "wiki": "Hei Qing",
+    "ep": 208,
+    "mentionEp": null,
+    "group": "Dragon Islands",
+    "side": "ally",
+    "intro": "An elder of the Void Ancient Dragons and Zi Yan's uncle, who saves her from the phoenixes and slaps away Zhai Xing [208-209]. He takes Xiao Yan to Dragon Island to free Zi Yan [214], holds off Man Yan [215], and later burns his life force defending East Dragon Island until Xiao Yan saves him [251].",
+    "power": [
+      {
+        "ep": 209,
+        "realm": "7-star Dou Zun",
+        "detail": "Xiao Yan's guess: 'likely at the Seven to Eight-Star Dou Zun level'",
+        "conf": "medium"
+      },
+      {
+        "ep": 251,
+        "realm": "8-star Dou Zun",
+        "detail": "an enemy calls him 'a mere eighth-level Dou Zun' (rough translation)",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 208,
+        "label": "First seen",
+        "desc": "A strong figure with white hair.",
+        "why": "",
+        "img": "img/wiki/Hei_Qing59-4a60e2.jpg"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 208,
+        "text": "Appears as the phoenixes close in on Zi Yan."
+      },
+      {
+        "ep": 209,
+        "text": "Introduces himself as her uncle and takes her home to Dragon Island."
+      },
+      {
+        "ep": 214,
+        "text": "Finds Xiao Yan through the dragon seal and brings him to Dragon Island."
+      },
+      {
+        "ep": 215,
+        "text": "Holds off Man Yan during the attack on East Dragon Island."
+      },
+      {
+        "ep": 251,
+        "text": "Burns his life force against Qian Xuan and Huo Zhan; Xiao Yan arrives in time."
+      }
+    ],
+    "card": 1060
+  },
+  {
+    "id": "ninth-tianzun",
+    "name": "Ninth Tianzun",
+    "zh": "",
+    "aka": [
+      "Ms. Ninth Tianzun"
+    ],
+    "wiki": "Ninth Tianzun",
+    "ep": 210,
+    "mentionEp": null,
+    "group": "Hall of Souls",
+    "side": "enemy",
+    "intro": "A woman among the Hall of Souls' Tianzuns, who orders the attack on the Falling Star Pavilion [210] and nearly captures Xiao Yan until Yao Lao steps out as a Ban Sheng and beats her [211-212]. When Xiao Yan overpowers her at the Mystic Yellow Fortress, the Fourth Tianzun she called for kills her instead [228].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 210,
+        "label": "First seen",
+        "desc": "A woman of the Hall of Souls.",
+        "why": "",
+        "img": "img/wiki/Mo_Yu57-e7a81c.png"
+      }
+    ],
+    "card": 1100
+  },
+  {
+    "id": "qing-xianzi",
+    "name": "Qing Xianzi",
+    "zh": "青仙子",
+    "aka": [
+      "Grand Elder"
+    ],
+    "wiki": "Fairy Qing",
+    "ep": 213,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "ally",
+    "intro": "The Flower Sect's Grand Elder, who steps in to end Xiao Yan's fight with Yaohua Xiejun and names Yun Yun sect leader [213]. She holds a grudge against Yao Lao but brings the Flower Sect into the Sky Mansion Alliance [242-244].",
+    "power": [
+      {
+        "ep": 242,
+        "realm": "Half-Saint",
+        "detail": "name card [Qing Xianzi, Ban Sheng]",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 213,
+        "label": "First seen",
+        "desc": "A cold-looking woman of the Flower Sect.",
+        "why": ""
+      }
+    ]
+  },
+  {
+    "id": "zhu-li",
+    "name": "Zhu Li",
+    "zh": "朱莉",
+    "aka": [
+      "Elder Zhu Li"
+    ],
+    "wiki": "Zhu Li",
+    "ep": 214,
+    "mentionEp": null,
+    "group": "Dragon Islands",
+    "side": "ally",
+    "intro": "An elder of East Dragon Island who explains the Void Ancient Dragons' split and Zi Yan's sealing to Xiao Yan [214]. He secretly saved Tie Jian, gives Xiao Yan Ancient Dragon Essence Blood, fights a Ban Sheng dragon when the other islands attack [215] and later helps defend East Dragon Island [251].",
+    "power": [
+      {
+        "ep": 215,
+        "realm": "Half-Saint",
+        "detail": "'So you're now a Ban Sheng too', said to him in battle",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 214,
+        "label": "First seen",
+        "desc": "A white-robed old man.",
+        "why": "",
+        "img": "img/wiki/Zhu_Li54-ec6bd6.png"
+      }
+    ],
+    "card": 743
+  },
+  {
+    "id": "mang-tian-chi",
+    "name": "Mang Tian Chi",
+    "zh": "邙天尺",
+    "aka": [
+      "Mr. Mang",
+      "Dean Mang"
+    ],
+    "wiki": "Mang Tian Chi",
+    "ep": 216,
+    "mentionEp": 103,
+    "group": "Jia Nan Academy",
+    "side": "ally",
+    "intro": "The long-absent dean of Jia Nan Academy's Inner Academy, first met as an old man in the Void Lightning Pool [216]. At the Gu Clan's coming-of-age ceremony he makes the guards let Xiao Yan's group in and forces the Gu Clan to return the Xiao Clan's slot in the Heavenly Tomb [219-220].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 216,
+        "label": "First seen",
+        "desc": "A white-haired old man in tattered, lightning-burned robes.",
+        "why": ""
+      }
+    ],
+    "card": 877
+  },
+  {
+    "id": "gu-qian",
+    "name": "Gu Qian",
+    "zh": "古倩",
+    "aka": [],
+    "wiki": "Gu Qian",
+    "ep": 217,
+    "mentionEp": null,
+    "group": "Gu Clan",
+    "side": "rival",
+    "intro": "A Gu Clan elder who scorns the Xiao Clan's dried-up bloodline and says Xiao Yan should simply be killed [217]. He is among those ordered to let Xiao Yan's group into the coming-of-age ceremony [219].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 217,
+        "label": "First seen",
+        "desc": "A stern, cold old man in gray robes.",
+        "why": "",
+        "img": "img/wiki/Gu_Qian_148-408a85.jpg"
+      }
+    ],
+    "card": 571.0
+  },
+  {
+    "id": "hun-ya",
+    "name": "Hun Ya",
+    "zh": "魂崖",
+    "aka": [
+      "Hun Yai"
+    ],
+    "wiki": "Hun Ya",
+    "ep": 218,
+    "mentionEp": null,
+    "group": "Hun Clan",
+    "side": "enemy",
+    "intro": "A Hun Clan heir who taunts Xiao Yan that his ancestor killed Xiao Xuan [218]. In the Heavenly Tomb he and Hun Li hunt Xun Er and Xiao Yan [221-224], until Xiao Yan kills them both [225].",
+    "power": [
+      {
+        "ep": 221,
+        "realm": "8-star Dou Zun",
+        "detail": "'Both are Eight-star Dou Zuns' (Hun Ya and Hun Li)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 218,
+        "label": "First seen",
+        "desc": "A pale, skinny young man under a black hood.",
+        "why": "",
+        "img": "img/wiki/HunYa_Donghua_S5_149_1-0db46c.jpg"
+      }
+    ],
+    "card": 414.8
+  },
+  {
+    "id": "huo-xuan",
+    "name": "Huo Xuan",
+    "zh": "火炫",
+    "aka": [],
+    "wiki": "Huo Xuan",
+    "ep": 218,
+    "mentionEp": null,
+    "group": "Ancient clans",
+    "side": "ally",
+    "intro": "A young fighter of the Yan Clan with the Red Lotus Flame, who tells Xiao Yan about the Heavenly Tomb [218]. Inside, he teams up with Xiao Yan and Xun Er, and Xiao Yan uses his flame to burn through the insect nest [222-223]; he greets Xiao Yan again at the Purifying Demonic Lotus Flame [257].",
+    "power": [
+      {
+        "ep": 257,
+        "realm": "late Half-Saint",
+        "detail": "'Hasn't Brother Huo Xuan also reached the high-tier Half-Saint stage?'",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 218,
+        "label": "First seen",
+        "desc": "A young man of the Yan Clan in purple.",
+        "why": "",
+        "img": "img/wiki/HuoXuan_Donghua_S5_149_1-b6d7ff.jpg"
+      }
+    ],
+    "card": 290.3
+  },
+  {
+    "id": "yao-xing-ji",
+    "name": "Yao Xing Ji",
+    "zh": "药星极",
+    "aka": [],
+    "wiki": "Yao Xing Ji",
+    "ep": 218,
+    "mentionEp": null,
+    "group": "Medicine Clan",
+    "side": "neutral",
+    "intro": "A young eight-tier alchemist of the Medicine Clan, pointed out to Xiao Yan before the Heavenly Tomb [218]. At the Medicine Clan's Pill Gathering he places behind Yao Tian and Yao Ling in the young generation's round [275].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 218,
+        "label": "First seen",
+        "desc": "A young man of the Medicine Clan.",
+        "why": "",
+        "img": "img/wiki/Yao_Xing_Ji1-eb2292.png"
+      }
+    ],
+    "card": 546.8
+  },
+  {
+    "id": "tong-xuan",
+    "name": "Tong Xuan",
+    "zh": "童軒",
+    "aka": [
+      "Elder Tong Xuan"
+    ],
+    "wiki": "Tong Xuan",
+    "ep": 219,
+    "mentionEp": null,
+    "group": "Gu Clan",
+    "side": "neutral",
+    "intro": "A powerful Gu Clan elder who ends Xiao Yan's duel with Gu Yao [219] and draws Xun Er's Rainbow Clan Mark [220]. He sends the Hun Clan away after the Heavenly Tomb [226] and arrives to drive off Gu You, then takes Xun Er home [238].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 219,
+        "label": "First seen",
+        "desc": "A frail old man in white robes with snow-white hair and deep eyes.",
+        "why": "",
+        "img": "img/wiki/Tong_Xuan_169-b0a5fc.png"
+      }
+    ],
+    "card": 1124.5
+  },
+  {
+    "id": "gu-qing-yang",
+    "name": "Gu Qing Yang",
+    "zh": "顧清揚",
+    "aka": [
+      "Marshal Gu Qing Yang",
+      "Qing Yang"
+    ],
+    "wiki": "Gu Qing Yang",
+    "ep": 220,
+    "mentionEp": null,
+    "group": "Gu Clan",
+    "side": "ally",
+    "intro": "A marshal of the Gu Clan's Black Submerged Army who goes into the Heavenly Tomb with Xun Er and Xiao Yan [220-224]. He fights beside Xiao Yan at the Bodhisattva Ancient Tree [234-238] and the Purifying Demonic Lotus Flame [257-259], and is beaten by the Lei Clan's Lei Dong [281].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 220,
+        "label": "First seen",
+        "desc": "A young Gu Clan commander.",
+        "why": "",
+        "img": "img/wiki/Gu_Qing_Yang54-e38ff7.png"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 220,
+        "text": "Points out the other clans' heirs at the Heavenly Tomb."
+      },
+      {
+        "ep": 223,
+        "text": "Heads for the deepest part of the tomb with Xiao Yan and Xun Er."
+      },
+      {
+        "ep": 234,
+        "text": "Brings Xiao Yan to the Gu Clan's camp at the Ancient Region Stage."
+      },
+      {
+        "ep": 235,
+        "text": "Blasts a path along the cliff with Xiao Yan."
+      },
+      {
+        "ep": 257,
+        "text": "Arrives with Xun Er for the Purifying Demonic Lotus Flame."
+      }
+    ],
+    "card": 989.3
+  },
+  {
+    "id": "gu-yuan",
+    "name": "Gu Yuan",
+    "zh": "顧元",
+    "aka": [
+      "Clan Leader Gu Yuan"
+    ],
+    "wiki": "Gu Yuan",
+    "ep": 220,
+    "mentionEp": null,
+    "group": "Gu Clan",
+    "side": "ally",
+    "intro": "Xun Er's father and the Gu Clan's leader, who asks Xiao Yan for the jade of Tuo She Gu Di and is refused [220]. He later shelters the Medicine Clan survivors, calls the Lei and Yan Clans together against the Hun Clan [280] and explains the Devouring Spirit Clan [281].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 220,
+        "label": "First seen",
+        "desc": "An ordinary-looking middle-aged man in plain linen clothes.",
+        "why": "",
+        "img": "img/wiki/Gu_yuan_3-de39b8.png"
+      }
+    ],
+    "card": 812.0
+  },
+  {
+    "id": "hun-li",
+    "name": "Hun Li",
+    "zh": "魂厉",
+    "aka": [],
+    "wiki": "Hun Li",
+    "ep": 220,
+    "mentionEp": null,
+    "group": "Hun Clan",
+    "side": "enemy",
+    "intro": "A Hun Clan fighter who decides Xun Er must be killed [220]. He loses an arm to her in the Heavenly Tomb [221], uses the Hun Clan's clan mark against Xiao Yan [222] and dies with Hun Ya at Xiao Yan's hands [225].",
+    "power": [
+      {
+        "ep": 221,
+        "realm": "8-star Dou Zun",
+        "detail": "'Both are Eight-star Dou Zuns' (Hun Ya and Hun Li)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 220,
+        "label": "First seen",
+        "desc": "A scarred man in black robes with cold, empty eyes.",
+        "why": "",
+        "img": "img/wiki/Hun_Li_151-0588a2.jpg"
+      }
+    ],
+    "card": 481.1
+  },
+  {
+    "id": "xiao-xiao",
+    "name": "Xiao Xiao",
+    "zh": "萧萧",
+    "aka": [
+      "Little Xiao Xiao"
+    ],
+    "wiki": "Xiao Xiao",
+    "ep": 227,
+    "mentionEp": null,
+    "group": "Xiao Clan",
+    "side": "ally",
+    "intro": "A little girl of the Yan Alliance in Medusa's care, whom Xiao Yan saves from a Hall of Souls man sent for the Ninth Tianzun [227]. She can walk on air and has Dou Zong-level strength; Xiao Yan refines her a Primordial Pill [229] and Yao Lao takes over her training [230].",
+    "power": [
+      {
+        "ep": 229,
+        "realm": "Dou Zong",
+        "detail": "'That's the power of someone in the Dou Zong realm'",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 227,
+        "label": "First seen",
+        "desc": "A cute little girl of four or five in white, with a small snake mark on her brow.",
+        "why": "",
+        "img": "img/wiki/Xiao_Xiao_02-5aa85e.png"
+      }
+    ],
+    "card": 642
+  },
+  {
+    "id": "hun-yu",
+    "name": "Hun Yu",
+    "zh": "魂玉",
+    "aka": [],
+    "wiki": "Hun Yu",
+    "ep": 234,
+    "mentionEp": null,
+    "group": "Hun Clan",
+    "side": "enemy",
+    "intro": "A Hun Clan heir with a divine-grade bloodline and a contender to lead the clan, who leaves the others as bait in the beast tide [234-235]. He tries to stop Xiao Yan at the Bodhisattva Ancient Tree and loses to him [237], calls in Gu You [238] and is scolded at home for coming back empty-handed [239].",
+    "power": [
+      {
+        "ep": 234,
+        "realm": "peak 8-star Dou Zun",
+        "detail": "name card [Hun Yu, Peak Eighth Turn Dou Zun]",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 234,
+        "label": "First seen",
+        "desc": "A pale, gentle-looking man with long, loose black hair.",
+        "why": "",
+        "img": "img/wiki/Hun_Yu_165-2-9667c1.png"
+      }
+    ],
+    "card": 637.7
+  },
+  {
+    "id": "jiu-feng",
+    "name": "Jiu Feng",
+    "zh": "九凤",
+    "aka": [
+      "Jiufeng"
+    ],
+    "wiki": "Jiu Feng",
+    "ep": 234,
+    "mentionEp": null,
+    "group": "Beast Region",
+    "side": "enemy",
+    "intro": "Son of the Heaven Demon Phoenix Tribe's leader, who blames Xiao Yan for the Dragon-Phoenix Origin Fruit [234] and seals the space against him at the Bodhisattva Ancient Tree [238]. Yao Ming's elders capture him in the dragons' war, and he is held hostage [250] until Xiao Yan sends him home [254].",
+    "power": [
+      {
+        "ep": 234,
+        "realm": "peak 8-star Dou Zun",
+        "detail": "name card [Jiu Feng, Peak Eighth Turn Dou Zun]",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 234,
+        "label": "First seen",
+        "desc": "A slim, refined young man of the phoenix tribe.",
+        "why": "",
+        "img": "img/wiki/Jiu_Feng54-8f775f.png"
+      }
+    ],
+    "card": 194.8
+  },
+  {
+    "id": "gu-you",
+    "name": "Gu You",
+    "zh": "顧友",
+    "aka": [
+      "Second Tianzun"
+    ],
+    "wiki": "Gu You",
+    "ep": 238,
+    "mentionEp": null,
+    "group": "Hun Clan",
+    "side": "enemy",
+    "intro": "A Ban Sheng of the Hun Clan who calls himself the Second Tianzun, summoned by Hun Yu to capture Xiao Yan and Xun Er; Xiao Yan's Fire Lotus wounds him badly [238]. He attacks the Xing Realm with Old Demon Tian Ming and is carried off by a Hun Clan Dou Sheng after Xiao Yan becomes a Dou Sheng [240-241].",
+    "power": [
+      {
+        "ep": 238,
+        "realm": "Half-Saint",
+        "detail": "name card [Gu You, Ban Sheng]",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 238,
+        "label": "First seen",
+        "desc": "A hunched old man in grayish-white clothes with a skeleton staff.",
+        "why": "",
+        "img": "img/wiki/Gu_You54-e9dcb0.png"
+      }
+    ],
+    "card": 236.5
+  },
+  {
+    "id": "hun-miesheng",
+    "name": "Hun Miesheng",
+    "zh": "魂灭生",
+    "aka": [
+      "Hall Master",
+      "Leader of the Hall of Souls"
+    ],
+    "wiki": "Hun Mie Sheng",
+    "ep": 239,
+    "mentionEp": null,
+    "group": "Hall of Souls",
+    "side": "enemy",
+    "intro": "Hall Master of the Hall of Souls, of the Hun Clan, who fights over the Purifying Demonic Lotus Flame and reveals hidden Five-Star Dou Sheng strength [257-262]. He holds Xiao Zhan prisoner, loses the deciding match at Fallen Mountain to Xiao Yan and flees with part of his soul [267], and the Hun Clan rebuilds his body [272].",
+    "power": [
+      {
+        "ep": 262,
+        "realm": "5-star Dou Sheng",
+        "detail": "reveals he has been hiding his strength",
+        "conf": "high"
+      },
+      {
+        "ep": 272,
+        "realm": "7-star Dou Sheng",
+        "detail": "his rebuilt body: 'An obedient Seven-Star Battle Saint' (OCR track)",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 239,
+        "label": "First seen",
+        "desc": "An ordinary-looking man in black robes.",
+        "why": ""
+      },
+      {
+        "ep": 272,
+        "label": "Rebuilt body",
+        "desc": "A new body rebuilt by the Void Devouring Flame's Primordial Flame.",
+        "why": "his old body was destroyed when he lost to Xiao Yan (EP267)"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 239,
+        "text": "Scolds Hun Yu for coming back with nothing."
+      },
+      {
+        "ep": 256,
+        "text": "Attacks Xiao Yan's soul on its journey; a mysterious powerhouse stops him."
+      },
+      {
+        "ep": 260,
+        "text": "Seals the Purifying Demonic Lotus Flame with the Heavenly Net Demon Sealing Formation."
+      },
+      {
+        "ep": 262,
+        "text": "Reveals Five-Star Dou Sheng strength; Xiao Chen and the Pill Tower Ancestor stop him."
+      },
+      {
+        "ep": 267,
+        "text": "Feeds the Void Devouring Flame in the final match, loses to Xiao Yan and flees."
+      },
+      {
+        "ep": 272,
+        "text": "Gets a new body from the Void Devouring Flame's Primordial Flame and orders to take Xiao Yan's jade."
+      }
+    ]
+  },
+  {
+    "id": "old-demon-tian-ming",
+    "name": "Old Demon Tian Ming",
+    "zh": "天明",
+    "aka": [
+      "Tian Ming"
+    ],
+    "wiki": "Tian Ming",
+    "ep": 239,
+    "mentionEp": null,
+    "group": "Central Plains",
+    "side": "enemy",
+    "intro": "The Profound Sky Sect's Ban Sheng, who wrecks the Falling Star Pavilion's Wormhole [239] and leads the Profound River Alliance and the Hall of Souls against the Xing Realm [240]. When Xiao Yan comes out as a Dou Sheng, Tian Ming blows himself up, and Xiao Yan drives out the soul that tries to hide [241].",
+    "power": [
+      {
+        "ep": 239,
+        "realm": "Half-Saint",
+        "detail": "name card [Old Demon Tian Ming, Ban Sheng]",
+        "conf": "high"
+      },
+      {
+        "ep": 240,
+        "realm": "late Half-Saint",
+        "detail": "called an advanced Ban Sheng",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 239,
+        "label": "First seen",
+        "desc": "A gray-haired man in dark gray robes with old blue eyes.",
+        "why": ""
+      }
+    ],
+    "card": 900.5
+  },
+  {
+    "id": "grand-elder-lin",
+    "name": "Grand Elder Lin",
+    "zh": "林大长",
+    "aka": [
+      "Elder Lin"
+    ],
+    "wiki": "Lin Mo",
+    "ep": 242,
+    "mentionEp": null,
+    "group": "Pill Tower",
+    "side": "ally",
+    "intro": "Grand Elder of the Small Pill Tower, who judges the elder selection and declares Xiao Yan the winner over Old Demon Hou [242-243]. He joins the Sky Mansion Alliance's founding meeting [244] and helps Yao Lao make the Nine Yin Yellow Spring Pill [257].",
+    "power": [
+      {
+        "ep": 242,
+        "realm": "2-star Dou Sheng",
+        "detail": "name card [Grand Elder Lin, Two-Star Dou Sheng]",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 242,
+        "label": "First seen",
+        "desc": "An old elder in linen clothes.",
+        "why": ""
+      }
+    ],
+    "card": 941.4
+  },
+  {
+    "id": "old-demon-hou",
+    "name": "Old Demon Hou",
+    "zh": "火青",
+    "aka": [
+      "Hou Qing"
+    ],
+    "wiki": "Old Demon Hou",
+    "ep": 242,
+    "mentionEp": null,
+    "group": "Pill Tower",
+    "side": "rival",
+    "intro": "An eight-tier alchemist of the Small Pill Tower who still resents Yao Lao for winning a Pill Gathering long ago. He loses the elder selection to Xiao Yan despite drawing a nine-colored thundercloud [242-243].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 242,
+        "label": "First seen",
+        "desc": "A small, skinny old man in gray robes with a gaunt face.",
+        "why": "",
+        "img": "img/wiki/Huo_Qing54-2de12a.png"
+      }
+    ],
+    "card": 782.3
+  },
+  {
+    "id": "yao-ming",
+    "name": "Yao Ming",
+    "zh": "妖暝",
+    "aka": [
+      "Chief Yao Ming"
+    ],
+    "wiki": "Yao Ming",
+    "ep": 245,
+    "mentionEp": null,
+    "group": "Beast Region",
+    "side": "ally",
+    "intro": "The rightful chief of the Nine Serene Deep Ground Pythons, chained for centuries under the Nine Serene Spring by his brother Yao Xiaotian until Xiao Yan frees him for the Spring Blood Crystal [245]. He takes back his tribe [246], fights beside Xiao Yan against the phoenixes and the Dragon Kings [249-253], and shelters Medusa [268-269].",
+    "power": [
+      {
+        "ep": 245,
+        "realm": "2-star Dou Sheng",
+        "detail": "name card and his own words",
+        "conf": "high"
+      },
+      {
+        "ep": 248,
+        "realm": "late 2-star Dou Sheng",
+        "detail": "'I am now at the late stage of a two-star Dou Sheng'",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 245,
+        "label": "First seen",
+        "desc": "A shriveled, skeleton-thin prisoner in chains with wild eyes.",
+        "why": "",
+        "img": "img/wiki/Yao_Ming_179-646c88.jpg"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 245,
+        "text": "Bargains with Xiao Yan for his freedom and accepts a soul mark."
+      },
+      {
+        "ep": 246,
+        "text": "Shows the elders the Nine Serene Profound Scepter and beats Yao Xiaotian."
+      },
+      {
+        "ep": 247,
+        "text": "Sends Xiao Yan into Demonic Saint Huang Quan's tablet."
+      },
+      {
+        "ep": 249,
+        "text": "Ambushes the Three Phoenixes with Xiao Yan."
+      },
+      {
+        "ep": 251,
+        "text": "Captures Qian Xuan and sides with East Dragon Island."
+      },
+      {
+        "ep": 268,
+        "text": "Refuses to hand Medusa over to Huang Tian."
+      }
+    ],
+    "card": 417.2
+  },
+  {
+    "id": "yao-xiaotian",
+    "name": "Yao Xiaotian",
+    "zh": "妖啸天",
+    "aka": [],
+    "wiki": "Yao Xiaotian",
+    "ep": 245,
+    "mentionEp": null,
+    "group": "Beast Region",
+    "side": "enemy",
+    "intro": "Yao Ming's younger brother, who sealed him under the Nine Serene Spring and took over the pythons [245]. He badly hurts the Little Fairy Doctor and Qing Lin, loses to Xiao Yan and then to Yao Ming, and dies in a last attack [246].",
+    "power": [
+      {
+        "ep": 245,
+        "realm": "1-star Dou Sheng",
+        "detail": "name card; Medusa calls him mid-stage One-Star (EP246)",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 245,
+        "label": "First seen",
+        "desc": "A handsome man in black with a cold, snake-like gaze.",
+        "why": "",
+        "img": "img/wiki/Yao_Xiaotian_Donghua-c189cb.png"
+      }
+    ],
+    "card": 1049.4
+  },
+  {
+    "id": "elder-ming",
+    "name": "Elder Ming",
+    "zh": "明倉",
+    "aka": [],
+    "wiki": "Ming Cang",
+    "ep": 246,
+    "mentionEp": null,
+    "group": "Beast Region",
+    "side": "ally",
+    "intro": "An elder of the Nine Serene Deep Ground Pythons who recognises Yao Ming when he returns and stays loyal to him [246-247]. He helps capture Jiu Feng in the ambush on the phoenix fleet [250].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 246,
+        "label": "First seen",
+        "desc": "An elder of the python tribe.",
+        "why": ""
+      }
+    ],
+    "card": 616.8
+  },
+  {
+    "id": "northern-dragon-king",
+    "name": "Northern Dragon King",
+    "zh": "北龍王",
+    "aka": [
+      "Dragon King"
+    ],
+    "wiki": "Northern Dragon King",
+    "ep": 252,
+    "mentionEp": 248,
+    "group": "Dragon Islands",
+    "side": "enemy",
+    "intro": "Ruler of North Dragon Island, who with the Western and Southern Dragon Kings attacks Zi Yan for her throne [252] and flees from her Dragon Slayer Sword [253]. He devours the other two kings and allies with the Hun Clan [270], and Xiao Yan kills him and makes his body into the Northern King Puppet [271-272].",
+    "power": [
+      {
+        "ep": 252,
+        "realm": "3-star Dou Sheng",
+        "detail": "'the three old guys opposite are all three-star Dou Saints'",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 252,
+        "label": "First seen",
+        "desc": "A shady-looking middle-aged man with scarlet eyes.",
+        "why": "",
+        "img": "img/wiki/Northern_Dragon_King-0f287f.jpg"
+      },
+      {
+        "ep": 253,
+        "label": "True dragon form",
+        "desc": "A huge Void Ancient Dragon.",
+        "why": "the three Dragon Kings take their true forms to fight"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 248,
+        "text": "Sends an envoy to win the Nine Serene pythons over."
+      },
+      {
+        "ep": 252,
+        "text": "Fights Zi Yan in the Dragon Palace with the other Dragon Kings."
+      },
+      {
+        "ep": 253,
+        "text": "Flees when Zi Yan draws the Dragon Slayer Sword."
+      },
+      {
+        "ep": 270,
+        "text": "Reveals he has devoured the Western and Southern Dragon Kings and serves the Hun Clan."
+      },
+      {
+        "ep": 271,
+        "text": "Traps Xiao Yan in the Dragon Soul Pearl and is killed by the Yellow Spring Divine Anger."
+      },
+      {
+        "ep": 272,
+        "text": "His soul fails to take Xiao Yan over and goes into the Northern King Puppet."
+      }
+    ]
+  },
+  {
+    "id": "pill-tower-ancestor",
+    "name": "Pill Tower Ancestor",
+    "zh": "丹塔老祖",
+    "aka": [
+      "Ancestor"
+    ],
+    "wiki": "Pill Tower Ancestor",
+    "ep": 256,
+    "mentionEp": null,
+    "group": "Pill Tower",
+    "side": "ally",
+    "intro": "The Pill Tower's Six-Star Dou Sheng ancestor, whose true form is a ninth-grade pill; he stops Hun Miesheng from attacking Xiao Yan's soul [256] and stands up to him again in the Demon Flame space [262]. He brings the Pill Tower into the Sky Mansion Alliance and fights Hun Qianmo to a draw at Fallen Mountain [266].",
+    "power": [
+      {
+        "ep": 262,
+        "realm": "6-star Dou Sheng",
+        "detail": "'The Little Pill Tower actually has a six-star Dou Sheng!'",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 262,
+        "label": "Named",
+        "desc": "A boy-like figure in plain clothes.",
+        "why": "",
+        "img": "img/wiki/Pill_Tower_Ancestor_1930-efcee9.png"
+      }
+    ],
+    "card": 625.0
+  },
+  {
+    "id": "gu-nanhai",
+    "name": "Gu Nanhai",
+    "zh": "顧南海",
+    "aka": [
+      "Elder Gu",
+      "South Sea Elder"
+    ],
+    "wiki": "Gu Nanhai",
+    "ep": 257,
+    "mentionEp": null,
+    "group": "Gu Clan",
+    "side": "neutral",
+    "intro": "A Gu Clan elder who escorts Xun Er to the Purifying Demonic Lotus Flame [257] and warns Yao Wangui off Xiao Yan [258]. He begs Xun Er to leave the collapsing flame space, but she goes back to Xiao Yan [263].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 257,
+        "label": "First seen",
+        "desc": "A white-haired old man in blue robes with a warm smile.",
+        "why": "",
+        "img": "img/wiki/Gu_Nanhai-c21221.jpg"
+      }
+    ],
+    "card": 846.7
+  },
+  {
+    "id": "yao-tian",
+    "name": "Yao Tian",
+    "zh": "药天",
+    "aka": [],
+    "wiki": "Yao Tian",
+    "ep": 257,
+    "mentionEp": null,
+    "group": "Medicine Clan",
+    "side": "rival",
+    "intro": "The Medicine Clan's young prodigy, who mocks Yao Lao and is slapped by Xiao Yan [257], then loses to him with the Turtle Spirit Earth Flame [258]. He wins the young round of the clan's Pill Gathering [275], survives the clan's fall [278] and flees with Xiao Yan to the Gu Clan [279-280].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 257,
+        "label": "First seen",
+        "desc": "A handsome, slightly feminine young man in fine robes.",
+        "why": "",
+        "img": "img/wiki/Yao_Tian_188-cb83da.png"
+      }
+    ],
+    "card": 1092.0
+  },
+  {
+    "id": "yao-wangui",
+    "name": "Yao Wangui",
+    "zh": "药万归",
+    "aka": [
+      "Elder Wan Gui"
+    ],
+    "wiki": "Yao Wangui",
+    "ep": 257,
+    "mentionEp": null,
+    "group": "Medicine Clan",
+    "side": "enemy",
+    "intro": "The Medicine Clan elder who banished the young Yao Lao [274]. He arrives at the Purifying Demonic Lotus Flame [257-258] and tries to stop Yao Lao carving his parents' names, but Xiao Yan beats him [274].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 257,
+        "label": "First seen",
+        "desc": "A stern old elder of the Medicine Clan.",
+        "why": "",
+        "img": "img/wiki/Yao_Wangui___Elder-960333.jpg"
+      }
+    ],
+    "card": 1025.8
+  },
+  {
+    "id": "xiao-chen",
+    "name": "Xiao Chen",
+    "zh": "曉陳",
+    "aka": [
+      "Xiao Chen of the Blood Axe"
+    ],
+    "wiki": "Xiao Chen",
+    "ep": 258,
+    "mentionEp": null,
+    "group": "Xiao Clan",
+    "side": "ally",
+    "intro": "Xiao Xuan's cousin, trapped for ages as a Fire Slave of the Purifying Demonic Lotus Flame, who remembers himself when Xiao Yan sees the Xiao crest on him [258-259]. He saves Xiao Yan from Hun Miesheng [262] and fights the Soul Demon Elder to a draw at Fallen Mountain [266].",
+    "power": [
+      {
+        "ep": 258,
+        "realm": "4-star Dou Sheng",
+        "detail": "a Four-Star Dou Sheng Fire Slave",
+        "conf": "high"
+      },
+      {
+        "ep": 262,
+        "realm": "5-star Dou Sheng",
+        "detail": "mid Five-Star after wearing off the Hun Clan mark",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 258,
+        "label": "First seen",
+        "desc": "A skinny Fire Slave bearing the Xiao clan crest.",
+        "why": "",
+        "img": "img/wiki/Xiao_Chen192-c0b86e.png"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 258,
+        "text": "Attacks as a Fire Slave who still keeps some of his mind."
+      },
+      {
+        "ep": 259,
+        "text": "Remembers he is Xiao Chen and leads the group toward the flame."
+      },
+      {
+        "ep": 262,
+        "text": "Fights Hun Miesheng with his axe to save Xiao Yan."
+      },
+      {
+        "ep": 266,
+        "text": "Mocks Hun Qianmo and fights the Soul Demon Elder to a draw."
+      }
+    ],
+    "card": 1029.6
+  },
+  {
+    "id": "hun-qianmo",
+    "name": "Hun Qianmo",
+    "zh": "魂千陌",
+    "aka": [],
+    "wiki": "Hun Qian Mo",
+    "ep": 264,
+    "mentionEp": null,
+    "group": "Hun Clan",
+    "side": "enemy",
+    "intro": "A Hun Clan elder who helped ambush Xiao Xuan long ago; he scolds Hun Miesheng for losing the Demon Flame [264]. At Fallen Mountain the Pill Tower Ancestor fights him to a draw [266].",
+    "power": [
+      {
+        "ep": 265,
+        "realm": "6-star Dou Sheng",
+        "detail": "'His name is Hun Qianmo, a Six-Star Martial Saint'",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 264,
+        "label": "First seen",
+        "desc": "A bone-thin old man with a walking stick and strangely bright eyes.",
+        "why": ""
+      }
+    ],
+    "card": 450.1
+  },
+  {
+    "id": "xiao-yi",
+    "name": "Xiao Yi",
+    "zh": "伊娃",
+    "aka": [
+      "Little Yi"
+    ],
+    "wiki": "Little Yi",
+    "ep": 264,
+    "mentionEp": null,
+    "group": "Xiao Yan's companions",
+    "side": "ally",
+    "intro": "A small fire spirit born from all of Xiao Yan's Heavenly Flames when he refines the Purifying Demonic Lotus Flame [264]. It overpowers the Void Devouring Flame [267], gains its devouring power [268] and helps Xiao Yan tame the Nine Profound Golden Thunder [273].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 264,
+        "label": "First seen",
+        "desc": "A tiny, chubby fire baby with pink flames in its big eyes.",
+        "why": ""
+      }
+    ],
+    "card": 1010.6
+  },
+  {
+    "id": "huang-tian",
+    "name": "Huang Tian",
+    "zh": "",
+    "aka": [
+      "Clan Leader of the Heaven Demon Phoenix Tribe"
+    ],
+    "wiki": "Huang Tian",
+    "ep": 268,
+    "mentionEp": null,
+    "group": "Beast Region",
+    "side": "enemy",
+    "intro": "Clan Leader of the Heaven Demon Phoenix Tribe, a Five-Star Dou Sheng. He raids the Nine Serene Spring (EP268) and is beaten by Xiao Yan and the newly evolved Medusa (EP269).",
+    "power": [
+      {
+        "ep": 268,
+        "realm": "5-star Dou Sheng",
+        "detail": "stated as the clan leader's rank",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 268,
+        "label": "First seen",
+        "desc": "",
+        "why": ""
+      }
+    ]
+  },
+  {
+    "id": "yao-wanhuo",
+    "name": "Yao Wanhuo",
+    "zh": "药万火",
+    "aka": [
+      "Elder Yao Wanhuo"
+    ],
+    "wiki": "Yao Wanhuo",
+    "ep": 274,
+    "mentionEp": null,
+    "group": "Medicine Clan",
+    "side": "ally",
+    "intro": "A Medicine Clan elder who stops the fight with Yao Wangui, apologises for the clan and invites Xiao Yan to the Pill Gathering [274]. In the final he gives his nascent pill to Xiao Yan [276], and he stays behind with Yao Dan to blow himself up so the others can escape [278].",
+    "power": [
+      {
+        "ep": 274,
+        "realm": "6-star Dou Sheng",
+        "detail": "name card",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 274,
+        "label": "First seen",
+        "desc": "A red-haired old man.",
+        "why": "",
+        "img": "img/wiki/Yao_Wanhuo___Donghua-8f47c4.jpg"
+      }
+    ],
+    "card": 791.4
+  },
+  {
+    "id": "hun-xuzi",
+    "name": "Hun Xuzi",
+    "zh": "魂虚子",
+    "aka": [],
+    "wiki": "Hun Xuzi",
+    "ep": 275,
+    "mentionEp": null,
+    "group": "Hun Clan",
+    "side": "enemy",
+    "intro": "The Hun Clan's chief alchemist, once a spy in the Small Pill Tower who wounded his own master, who enters the Medicine Clan's Pill Gathering [275]. He tries to steal the others' energy in the final [276], then seals the clan's space and leads the Hun Clan's attack that destroys it [277-279].",
+    "power": [
+      {
+        "ep": 275,
+        "realm": "6-star Dou Sheng",
+        "detail": "name card",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 275,
+        "label": "First seen",
+        "desc": "A middle-aged man in black.",
+        "why": "",
+        "img": "img/wiki/Hun_Huzi2-dbb519.png"
+      }
+    ],
+    "card": 714.9
+  },
+  {
+    "id": "old-shennong",
+    "name": "Old Shennong",
+    "zh": "神农",
+    "aka": [
+      "Shennong"
+    ],
+    "wiki": "Shen Nong",
+    "ep": 275,
+    "mentionEp": null,
+    "group": "Alchemists",
+    "side": "ally",
+    "intro": "The oldest master of alchemy, who comes out of seclusion for the Medicine Clan's Pill Gathering [275]. In the final he gives his nascent pill to Xiao Yan [276], lends him his Flame of Life to break out [278] and escapes with Yao Lao to the Sky Mansion Alliance [279].",
+    "power": [
+      {
+        "ep": 275,
+        "realm": "6-star Dou Sheng",
+        "detail": "name card",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 275,
+        "label": "First seen",
+        "desc": "An old man in linen robes with a herb staff hung with jade bottles.",
+        "why": ""
+      }
+    ],
+    "card": 342.0
+  },
+  {
+    "id": "yao-dan",
+    "name": "Yao Dan",
+    "zh": "药丹",
+    "aka": [
+      "Clan Chief Yao Dan"
+    ],
+    "wiki": "Yao Dan",
+    "ep": 275,
+    "mentionEp": null,
+    "group": "Medicine Clan",
+    "side": "ally",
+    "intro": "Chief of the Medicine Clan, who welcomes Yao Lao back and grants his wish for the clan monument [275-276]. When the Hun Clan attacks, he calls up the Medicine Emperor's remnant soul [277] and blows himself up with Yao Wanhuo so the survivors can escape [278].",
+    "power": [
+      {
+        "ep": 275,
+        "realm": "7-star Dou Sheng",
+        "detail": "name card",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 275,
+        "label": "First seen",
+        "desc": "A friendly white-haired old man.",
+        "why": "",
+        "img": "img/wiki/Yao_Dan3-e4c799.png"
+      }
+    ],
+    "card": 253.7
+  },
+  {
+    "id": "yao-ling",
+    "name": "Yao Ling",
+    "zh": "药灵",
+    "aka": [],
+    "wiki": "Yao Ling",
+    "ep": 275,
+    "mentionEp": null,
+    "group": "Medicine Clan",
+    "side": "ally",
+    "intro": "Yao Tian's younger sister, second in the young round of the Pill Gathering [275], who survives the Medicine Clan's fall [278]. Hiding with Xiao Yan from Hun Sha, she nearly dies trying to self-destruct before the Gu Clan arrives [280].",
+    "power": [],
+    "looks": [
+      {
+        "ep": 275,
+        "label": "First seen",
+        "desc": "A cold, beautiful young woman with long blue hair.",
+        "why": "",
+        "img": "img/wiki/Yao_Ling-4b728e.png"
+      }
+    ],
+    "card": 459.5
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "ep": 281,
+  "title": "Lei Dong of the Lei Clan",
+  "summary": "Gu Yuan explains that the Devouring Spirit Clan was an ancient race that devoured other clans' bloodlines until the ancient clans together wiped it out. He thinks the Void Devouring Flame devoured its last chief, and that the flame, which he once badly wounded, hid the whole Hun Clan by swallowing their realm. The Hun Clan now holds four pieces of the Tuoshe Ancient Emperor Jade, and of the eight ancient clans only the Gu, Lei and Yan Clans are left besides them, so Gu Yuan summons the Lei and Yan chiefs. Meanwhile a group of young Lei Clan fighters beats the Black Submerged Army. Their leader Lei Dong, the Lei Clan's greatest genius in centuries, has also beaten Gu Qing Yang and once sought to marry Xun Er. Xiao Yan accepts their challenge, devours Lei Dong's Black Thunder, and answers with a thunder stronger than Black Demon Lightning until Lei Dong gives up. An old man then steps in and challenges Xiao Yan to take his palm.",
+  "events": [
+    "Gu Yuan explains the Devouring Spirit Clan.",
+    "He says the Void Devouring Flame hid the Hun Clan inside itself.",
+    "The Hun Clan holds four pieces of the Tuoshe Ancient Emperor Jade; Gu Yuan summons the Lei and Yan chiefs.",
+    "Xiao Yan refines the Xuan Dan's power with Xun Er's herbs.",
+    "Lei Clan youths beat the Black Submerged Army and Gu Qing Yang.",
+    "Xiao Yan fights Lei Dong and his group.",
+    "Lei Dong concedes; an old man challenges Xiao Yan."
+  ],
+  "introduced": [
+    "Lei Dong",
+    "Lei Clan",
+    "Yan Clan",
+    "Demonic Thunder Pool of the Thunder Realm",
+    "Thunder Dragon Kill",
+    "Demonic Lightning Meteor"
+  ],
+  "cultivation": "Lei Dong: 'a late-stage Samsung [Three-Star]', 'comparable to a four-star Dou Sheng' (850.3-852.5). His group includes three high-level Ban Sheng; the rest are at least Nine-Star Dou Zun.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "gu-yuan",
+      "name": "Gu Yuan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lei-dong",
+      "name": "Lei Dong",
+      "realm": "late-stage Three-Star Dou Sheng",
+      "quote": "Although Lei Dong is a late-stage Samsung / But his strength is comparable to a four-star Dou Sheng.",
+      "first": true,
+      "card": 617.9
+    },
+    {
+      "id": "gu-qing-yang",
+      "name": "Gu Qing Yang",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "133-165s is a recap of EP280.",
+    "850.3 'late-stage Samsung' is a mistranslation of 'late-stage Three-Star'.",
+    "'Black Annihilation Army' = Black Submerged Army; 'Brother Qingyang' = Gu Qing Yang; 'Heavenly Emperor of Souls' / 'Soul Emperor' = Hun Tiandi.",
+    "339.7 'The Soul Clan has now collected all four ancient jade pieces' is read as four pieces of the jade, not all of it.",
+    "373.6 'the three clans of Ling Shi Yao' = the Ling, Stone and Medicine Clans.",
+    "456.7 'Old Ling' is not identified (one of Xun Er's guardians, possibly Ling Quan or Ling Ying).",
+    "625.7 'ThunderClan Chief Thunderwin' is the Lei Clan chief; spelling unclear (possibly Lei Ying).",
+    "'Thundercloud' (688.1, 712.0, 756.2) is an outspoken Lei Clan youth, possibly a name (Lei Yun); kept out of cast.",
+    "739.2 'Gu Hua had previously slipped away' and 669.9 'Ancient Demon' are unclear.",
+    "781-803s an unnamed young man who saw Xiao Yan and Xun Er in the Demon Flame space wants to join; faction not said.",
+    "1021.3 'He devoured the Black Thunder': whether Xiao Yan or Xiao Yi does the devouring is not shown in text. The thunder Xiao Yan uses (1091.2) is taken as the Nine Profound Golden Thunder.",
+    "1163-1179s the old man who challenges Xiao Yan at the end is not named."
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "ep": 253,
+  "title": "The Dragon Slayer Sword",
+  "summary": "The three Dragon Kings take their true dragon forms and nearly kill Xiao Yan, and the Bodhisattva Heart keeps him alive. Zi Yan then draws the Dragon Slayer Sword, and the island's elders see it as proof that she is the true Dragon Emperor. Many of the three islands' soldiers kneel to her. Her sword nearly kills the Western Dragon King but drains her life force, and the three Dragon Kings flee. Xiao Yan spends a hundred days in seclusion healing. He comes out a Two-Star Dou Sheng, with Dragon-Phoenix bloodline power in his body and a body as tough as a Void Ancient Dragon's. News from Yao Lao calls him back to the Falling Star Pavilion because the Purifying Demonic Lotus Flame is about to appear, and Zi Yan says she will come too.",
+  "events": [
+    "The three Dragon Kings reveal their true forms and attack Xiao Yan.",
+    "Xiao Yan fights back with Buddha's Wrathful Rebirth and the Yellow Spring Divine Anger.",
+    "He is nearly killed and survives through the Bodhisattva Heart.",
+    "Zi Yan summons the Dragon Slayer Sword and the dragons hail her as Dragon Emperor.",
+    "Her sword wounds the Western Dragon King; the Dragon Kings flee.",
+    "Zi Yan orders Elder Qingshan to handle the dragons who stayed.",
+    "Xiao Yan heals for a hundred days and breaks through to Two-Star Dou Sheng.",
+    "Yao Lao sends word to return to the Falling Star Pavilion; Zi Yan joins him."
+  ],
+  "introduced": [
+    "Dragon Slayer Sword",
+    "Buddha's Wrathful Rebirth",
+    "Dragon Emperor Bell"
+  ],
+  "cultivation": "Xiao Yan breaks through from One-Star to Two-Star Dou Sheng after a hundred days of healing, helped by Dragon-Phoenix bloodline power ('Two-Star Dou Sheng / Xiao Yan, you've advanced!'). He says his body is now comparable to a Void Ancient Dragon's. The three Dragon Kings are Three-Star Dou Sheng.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Two-Star Dou Sheng",
+      "quote": "Two-Star Dou Sheng / Xiao Yan, you've advanced!",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ming",
+      "name": "Yao Ming",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "elder-qingshan",
+      "name": "Elder Qingshan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "northern-dragon-king",
+      "name": "Northern Dragon King",
+      "realm": "Three-Star Dou Sheng",
+      "quote": "all three of them were at the three-star Dou Sheng level.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "western-dragon-king",
+      "name": "Western Dragon King",
+      "realm": "Three-Star Dou Sheng",
+      "quote": "all three of them were at the three-star Dou Sheng level.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "southern-dragon-king",
+      "name": "Southern Dragon King",
+      "realm": "Three-Star Dou Sheng",
+      "quote": "all three of them were at the three-star Dou Sheng level.",
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file starts at 154s; 154-208s is a narrated recap of EP252 with repeated lines.",
+    "Rough translation: 'Purple Lab' = Zi Yan; 'Mishima' = the three Dragon Islands; 'Wrath of the Underworld' = Yellow Spring Divine Anger; 'Pure Lotus Demon Flame' = Purifying Demonic Lotus Flame; 'Starfall Pavilion' = Falling Star Pavilion; 'old master of medicine' = Yao Lao; 'the league' = the Sky Mansion Alliance.",
+    "412.3 'Bodhicitta' = the Bodhisattva Heart.",
+    "946.0 'I have severed the hands and feet of the Western Dragon King and the Southern Dragon King' seems figurative (their power is cut down), said by Zi Yan.",
+    "1120-1127s: an onlooker says the Dragon-Phoenix bloodline power in Xiao Yan is 'not one of my kind'; where it came from (Zi Yan?) is not stated.",
+    "Little Fairy Doctor and Qing Lin are not named here; 'Young Master Xiao Yan' lines may be Qing Lin."
+  ]
+}

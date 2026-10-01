@@ -1,0 +1,69 @@
+{
+  "ep": 154,
+  "title": "Tian Huo Zun Zhe",
+  "summary": "Inside a ball of light deep in the lava world, Xiao Yan finds the seed of a Fallen Heart Flame and the soul of its old owner, Yao Tian Huo, called Tian Huo Zun Zhe. He was a Dou Zun who died when two Heavenly Flames clashed in his body and the Fire Lizard People ambushed him. His soul is fading, so he offers Xiao Yan the seed and the Five Ring Flame Expelling Technique, a Tian Class Dou Skill, if Xiao Yan will repair his soul, and Xiao Yan also makes him serve as bodyguard for a year. Above ground, Han Feng promises a powerful backer that he will gather allies from the Black-Corner Region to crush Jia Nan Academy and kill Xiao Yan. Xiao Yan comes back up as a Six-Star Dou Huang and gives the seed to Su Qian, which gets the Blazing Qi Refining Tower making Heart Flame again. When news comes that Han Feng is gathering Black-Corner experts at Demon Flame Valley, Xiao Yan orders Xiao Li to mobilize the Xiao Gate and march on the valley the next day.",
+  "events": [
+    "Xiao Yan finds a Fallen Heart Flame seed and meets the soul of Yao Tian Huo.",
+    "Yao Tian Huo tells how he died and offers the seed and the Five Ring Flame Expelling Technique for soul repair.",
+    "Xiao Yan accepts and asks him to be his bodyguard for a year.",
+    "The jade of Tuo She Gu Di stirs, but Yao Tian Huo warns of something terrifying deeper in the lava.",
+    "Han Feng tells his backer he will ally with Black-Corner Region experts to attack the academy.",
+    "Xiao Yan trains the Five Ring Flame Expelling Technique and makes its Wolf form.",
+    "He returns as a Six-Star Dou Huang and the seed rekindles the Blazing Qi Refining Tower.",
+    "News of Han Feng arrives; Xiao Yan orders Xiao Li to mobilize the Xiao Gate against Demon Flame Valley."
+  ],
+  "introduced": [
+    "Yao Tian Huo",
+    "Tian Huo Zun Zhe",
+    "Fallen Heart Flame seed",
+    "Five Ring Flame Expelling Technique",
+    "Wolf form",
+    "Tuo She Gu Di"
+  ],
+  "cultivation": "Xiao Yan breaks through to Six-Star Dou Huang in the lava world. Yao Tian Huo was a Dou Zun; his weakened soul is at Eight-Star Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "6-star Dou Huang",
+      "quote": "I'm a Six-Star Dou Huang now.",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "realm": "8-star Dou Zong",
+      "quote": "Although my soul has weakened and become an Eight-Star Dou Zong",
+      "first": true,
+      "card": 378
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "first": false
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: moved the Fire Lizard People fight and Octane Blast to EP153; added the closing scene from EP155 where news of Han Feng's alliance arrives and Xiao Yan orders Xiao Li to mobilize the Xiao Gate; card times moved to the new clock."
+  ],
+  "flags": [
+    "0-35s is the recap.",
+    "378s: name caption '[Yao Tian Huo]'; he is also called Tian Huo Zun Zhe (381s). He was a Dou Zun; 636s says his soul has weakened to Eight-Star Dou Zong.",
+    "540-568s: Han Feng speaks to a backer he calls 'Honorable Elder', who threatens to make him 'a soul in the lamp'. The backer is not named.",
+    "662s: the jade of Tuo She Gu Di reacts to something deep in the lava; Xiao Yan guesses a Dou Di left something there.",
+    "785-803s and 1049-1067s: people at the academy who worry about and greet Xiao Yan are not named.",
+    "1073s: the person who brings news of Han Feng is not named.",
+    "1102s: 'Li.' is taken as Xiao Li."
+  ]
+}

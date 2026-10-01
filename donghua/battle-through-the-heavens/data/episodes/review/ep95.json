@@ -1,0 +1,137 @@
+{
+  "ep": 95,
+  "title": "The Ground Spirit Pill",
+  "summary": "Yao Lao refines the Sixth-Tier Ground Spirit Pill in the mountains with the Black Demon Cauldron while Xiao Yan watches. Meanwhile, Mr. Ling tells Xun Er that her clan will come to take her home in a month and that the elders think Xiao Yan doesn't deserve her. The pill's forming causes a sky phenomenon that draws Han Feng, the Medicine Emperor of the Black-Corner Region, though he turns back. The First Elder also comes looking, and Xiao Yan hides. Zi Yan then finds him, fakes the elder's voice, and drags him back to the Rock Gate to refine more pills. She reveals she told Han Yue about the Core Quenching Body Milk and makes a herb-hunting deal with him. At the end, Xiao Yu calls him to the Outer Academy, where his second brother Xiao Li lies unconscious.",
+  "events": [
+    "Yao Lao refines the Ground Spirit Pill with the Black Demon Cauldron, herb by herb.",
+    "Mr. Ling tells Xun Er the clan will fetch her in a month.",
+    "The pill's phenomenon draws Han Feng, who decides not to interfere.",
+    "The First Elder searches for the alchemist; Xiao Yan hides.",
+    "Zi Yan fakes the elder's voice and takes Xiao Yan back to the Rock Gate.",
+    "Zi Yan says she told the gray-haired Han Yue about the milk; she and Xiao Yan agree to hunt herbs together.",
+    "Lin Yan attacks Xiao Yan for a spar; Zi Yan scares him off.",
+    "Xiao Yu summons Xiao Yan; Xiao Li is unconscious."
+  ],
+  "introduced": [
+    "Ground Spirit Pill (Sixth-Tier)",
+    "Black Demon Cauldron",
+    "Han Feng, the Medicine Emperor",
+    "Black-Corner Region (named here)",
+    "Mr. Ling",
+    "the Matriarch (of Xun Er's clan)",
+    "'the part of the key'",
+    "Old Huo"
+  ],
+  "cultivation": "Han Feng: 'Han Feng isn't just a strongest Dou Huang. He is also a Sixth-Tier Alchemist.'",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mr-ling",
+      "name": "Mr. Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "realm": "Dou Huang",
+      "quote": "Han Feng isn't just a strongest Dou Huang. He is also a Sixth-Tier Alchemist.",
+      "first": true,
+      "card": 430.9
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hu-jia",
+      "name": "Hu Jia",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-yu",
+      "name": "Xiao Yu",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut subtitle file, which starts at the [Episode 95] card: events unchanged; Han Feng's card moved to 430.9 and flag times moved to the new clock."
+  ],
+  "flags": [
+    "0-29s are a recap of EP94; they link the Ground Spirit Pill to taming the Fallen Heart Flame and to getting the pills for Yao Lao's body (26-29s).",
+    "Mr. Ling is the name used for Xun Er's guardian (169.6). He may have appeared in earlier seasons.",
+    "The First Elder who searches for Xiao Yan is named Su Qian only in the EP96 recap (7.5).",
+    "386-402s: someone asks about the Black-Corner Region and Han Feng; the speakers are not named.",
+    "Han Feng thinks the phenomenon might be Old Huo's work (447.3); who Old Huo is isn't explained.",
+    "Yao Lao uses the Bone Chilling Flame to catalyze the pill (518.1).",
+    "174.1 'The Matriarch' here but 'The Patriarch' in EP97 (765.8); one is likely a translation slip."
+  ]
+}

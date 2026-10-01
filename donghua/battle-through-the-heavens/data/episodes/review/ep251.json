@@ -1,0 +1,99 @@
+{
+  "ep": 251,
+  "title": "The siege of East Dragon Island",
+  "summary": "Hei Qing and Zhu Li, elders of East Dragon Island, were lured away and come back to find the island sealed by warships from the three other Dragon Islands. They fight Qian Xuan of West Dragon Island and Huo Zhan of North Dragon Island, both Ban Sheng, and Hei Qing burns his own life force to hold them back. Xiao Yan feels through the dragon bloodline in his body that Zi Yan is in danger, and he arrives in time to save Hei Qing. He catches Huo Zhan, and Yao Ming captures Qian Xuan and declares himself on East Dragon Island's side. Hei Qing says the Dragon Palace is locked down and Zi Yan is surrounded by the three Dragon Kings. Inside the island, Elder Qingshan holds out against the attackers. Xiao Yan's group breaks through toward the barrier around the Dragon Palace.",
+  "events": [
+    "Hei Qing and Zhu Li find East Dragon Island sealed off.",
+    "They fight Qian Xuan and Huo Zhan, both Ban Sheng, at the island's entrance.",
+    "Hei Qing burns his life force to let Zhu Li go ahead.",
+    "Xiao Yan senses Zi Yan's danger and rushes in.",
+    "He saves Hei Qing and captures Huo Zhan; Yao Ming captures Qian Xuan.",
+    "Hei Qing explains the Dragon Palace is sealed and Zi Yan is besieged.",
+    "Elder Qingshan resists the three Dragon Islands' men on the island.",
+    "Xiao Yan's group reaches the barrier around the Dragon Palace."
+  ],
+  "introduced": [
+    "Qian Xuan (West Dragon Island elder)",
+    "Huo Zhan (North Dragon Island elder)",
+    "Elder Qingshan (East Dragon Island)",
+    "Dragon Palace (East Dragon Island)",
+    "Dragon Tomb"
+  ],
+  "cultivation": "Qian Xuan and Huo Zhan are called Ban Sheng ('They are all semi-saints'; 'a semi-saint powerhouse from North Dragon Island'). Hei Qing is called 'A mere eighth-level Dou Zun' by an enemy.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ming",
+      "name": "Yao Ming",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hei-qing",
+      "name": "Hei Qing",
+      "realm": "Dou Zun (eighth level)",
+      "quote": "A mere eighth-level Dou Zun",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zhu-li",
+      "name": "Zhu Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "qian-xuan",
+      "name": "Qian Xuan",
+      "realm": "Ban Sheng",
+      "quote": "They are all semi-saints",
+      "first": true,
+      "card": 251.3
+    },
+    {
+      "id": "huo-zhan",
+      "name": "Huo Zhan",
+      "realm": "Ban Sheng",
+      "quote": "He is a semi-saint powerhouse from North Dragon Island.",
+      "first": true,
+      "card": 653.0
+    },
+    {
+      "id": "elder-qingshan",
+      "name": "Elder Qingshan",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 931.2
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-136s is the opening song (lyrics), 154-189s a narrated recap of EP250, 1092s on the ending song.",
+    "This track is a rough translation: 'Black Engine' = Hei Qing (the official track spells it Hei Qing in EP209-216); 'Zhuli' = Zhu Li; 'Qianxuan' = Qian Xuan; 'Fire War' (653.0) = Huo Zhan; 'Xilong Island' = West Dragon Island; 'Yao Mo', 'Chief Yaoga' (852.8, 863.0) = Yao Ming; 'Demon Membrane Clan' (157.8) = the pythons.",
+    "304.3 'A mere eighth-level Dou Zun' is said by an enemy to one of the East Dragon Island elders, probably Hei Qing.",
+    "437.6 'Pihanshu' is garbled.",
+    "Zi Yan is not on screen except possibly at the end; she is mentioned throughout.",
+    "968.8 'Your Jingge Gu Dachou' is garbled."
+  ]
+}

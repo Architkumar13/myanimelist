@@ -23,4 +23,15 @@ window.SHOWS = [
       "--cinnabar": "#a33b32", "--cinnabar-ink": "#f6efe2", "--star": "#e7d7a8",
     },
   },
+  {
+    id: "btth", dir: "battle-through-the-heavens",
+    title: "Battle Through the Heavens", zh: "斗破苍穹", mark: "斗破", glyph: "斗",
+    blurb: "Xiao Yan, a fallen genius of Wu Tan City, the old soul hiding in his mother's ring, and a hunt for the Heavenly Flames.",
+    hero: "img/hero/xiao-yan.jpg",
+    theme: {
+      "--patina": "#1b1210", "--patina-deep": "#120c0a", "--patina-lift": "#291c18", "--verdigris": "#6fc2a0",
+      "--bone": "#f5ebdf", "--bone-dim": "#c2afa0", "--bronze": "#f0773c", "--bronze-bright": "#ffa872",
+      "--cinnabar": "#a82a22", "--cinnabar-ink": "#fbefe6", "--star": "#cfe3dc",
+    },
+  },
 ];

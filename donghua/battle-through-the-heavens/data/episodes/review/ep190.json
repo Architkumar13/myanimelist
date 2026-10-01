@@ -1,0 +1,83 @@
+{
+  "ep": 190,
+  "title": "The Soul Illusionary Realm",
+  "summary": "The Pill Gathering opens at the Pill Tower, where Xuan Kong Zi and Xuan Yi appear among the Pill Tower's three most powerful figures. Xuan Kong Zi explains the three rounds: the Soul Illusionary Realm, the Pill Realm and a final pill-refining contest. The champion becomes a candidate for the Pill Tower's leaders and wins an ancient soul cultivation scroll. In the illusion, Xiao Yan relives a happy day fishing with Xiao Zhan and Yao Lao, then loses them and hears that he deserves to die, but he breaks free, resolved to save them. In the Pill Realm he finds a Thousand-Year Rehmannia Essence and an Earth Core Jade Essence in the Myriad Herbs Mountain Range. A hidden alchemist tries to take the jade, and Xiao Yan sends his Earth Demon Puppet, now at Eight-Star Dou Zong, until the man retreats. Song Qing then forms an alliance against a nearly Rank Eight beast whose master is Xiong Zhan, and the Profound Xuan Sect finds Xiao Yan.",
+  "events": [
+    "The five major clans and the Pill Tower's three leaders arrive at the Pill Gathering.",
+    "Xuan Kong Zi explains the three rounds and the champion's rewards.",
+    "Pill Tower leaders talk about Yao Chen and want to meet Xiao Yan.",
+    "Xiao Yan passes the Soul Illusionary Realm after a vision of Xiao Zhan and Yao Lao.",
+    "In the Pill Realm he finds an Earth Core Jade Essence.",
+    "He drives off a hidden rival with the Earth Demon Puppet.",
+    "Xiong Zhan's beasts capture alchemists, and Song Qing proposes an alliance.",
+    "Profound Xuan Sect members confront Xiao Yan."
+  ],
+  "introduced": [
+    "Xuan Yi",
+    "Soul Illusionary Realm",
+    "Pill Realm",
+    "space stone",
+    "Myriad Herbs Mountain Range",
+    "Thousand-Year Rehmannia Essence",
+    "Earth Core Jade Essence",
+    "Earth Core Soul Essence",
+    "Supreme Cauldron",
+    "Xiong Zhan"
+  ],
+  "cultivation": "Xiao Yan's Earth Demon Puppet is now an Eight-Star Dou Zong puppet (843s); EP162 called it Five-Star. The hidden rival is called 'a mere Two-Star Dou Zong' (827s). The beast in the mountains is nearly Rank Eight, 'equivalent to a strong Dou Zun'.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "xuan-kong-zi",
+      "name": "Xuan Kong Zi",
+      "first": false
+    },
+    {
+      "id": "xuan-yi",
+      "name": "Xuan Yi",
+      "first": true,
+      "card": 147
+    },
+    {
+      "id": "cao-ying",
+      "name": "Cao Ying",
+      "first": false
+    },
+    {
+      "id": "song-qing",
+      "name": "Song Qing",
+      "first": false
+    },
+    {
+      "id": "xiao-zhan",
+      "name": "Xiao Zhan",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "xiong-zhan",
+      "name": "Xiong Zhan",
+      "first": true,
+      "card": 956
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10s [Episode 190] card; 16-52s recap and set-up.",
+    "143-147s: Xuan Yi's name card follows Xiao Yan's thought about the leader 'cultivating in seclusion'; the third leader is not named.",
+    "269-361s: the Pill Tower leaders' talk about Yao Chen is between unnamed elders (one of them hides his worry about Yao Chen).",
+    "442-694s: Xiao Zhan and Yao Lao appear only in the illusion.",
+    "827s: 'A mere Two-Star Dou Zong who is a boaster' is taken as Xiao Yan speaking of the hidden rival, and 839s 'Earth Demon Puppet, beat him up' as Xiao Yan; EP192's recap confirms Xiao Yan uses the puppet. The rival is not named.",
+    "861s: 'Supreme Cauldron!' is taken as the rival's move.",
+    "1053-1065s: the Profound Xuan Sect speaker is taken as Chen Xian, confirmed by EP191's recap."
+  ]
+}

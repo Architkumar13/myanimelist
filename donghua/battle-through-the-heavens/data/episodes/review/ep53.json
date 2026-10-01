@@ -1,0 +1,123 @@
+{
+  "ep": 53,
+  "title": "The Thawing Spirit Pill Prescription",
+  "summary": "Xiao Yan wakes at the Alchemist Association, and an attendant called Xun Er leads him to Fa Ma's study. Fa Ma gives him the prize, the Sixth-Tier prescription for the Thawing Spirit Pill, and the badge of an honorary elder of the association. On the way out, Medusa takes over the Heaven Swallowing Python's body and demands the prescription. Xiao Yan says he is not yet a fourth-tier alchemist, but he promises to refine the pill soon. He finds a farewell letter from Xiao Zhan, who has already left the capital. Nalan Yanran returns to the Misty Cloud Sect, where Elder Yun Leng has invited the empire's great forces to watch her duel with Xiao Yan. The episode then goes back years to the capital, where the child Nalan Yanran fights Mu Zhan's gang and Xiao Zhan brings the young Xiao Yan to visit Nalan Jie.",
+  "events": [
+    "Xiao Yan wakes; an association attendant named Xun Er guides him to Chairman Fa Ma.",
+    "Nalan Jie, recovered, sends Nalan Yanran back to the Misty Cloud Sect.",
+    "Fa Ma gives Xiao Yan the Thawing Spirit Pill prescription (Sixth-Tier) and an honorary elder's badge.",
+    "Medusa emerges, having subdued the python's soul, and demands the prescription; Xiao Yan asks for time.",
+    "Xiao Yan reads Xiao Zhan's farewell letter.",
+    "At the Misty Cloud Sect, Yun Leng tells Nalan Yanran he has invited the empire's forces to the duel.",
+    "Flashback: young Nalan Yanran fights Mu Zhan's gang; Xiao Zhan and the young Xiao Yan visit Nalan Jie."
+  ],
+  "introduced": [
+    "Thawing Spirit Pill prescription (Sixth-Tier)",
+    "Honorary elder badge of the Alchemist Association",
+    "Breaking Adversity Pill (Sixth-Tier, made earlier for Hai Bodong)",
+    "Xun Er (association attendant)"
+  ],
+  "cultivation": "Xiao Yan: \"I'm not even a fourth-tier alchemist.\" Medusa has subdued the Heaven Swallowing Python's soul enough to come out.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": "I'm not even a fourth-tier alchemist",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 897.2
+    },
+    {
+      "id": "nalan-jie",
+      "name": "Nalan Jie",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": "Your Majesty is getting increasingly powerful. It seems like you have subdued the soul of the Swallowing Python",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "heaven-swallowing-python",
+      "name": "Heaven Swallowing Python",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-zhan",
+      "name": "Xiao Zhan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-leng",
+      "name": "Yun Leng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 816.5
+    },
+    {
+      "id": "mu-zhan",
+      "name": "Mu Zhan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 916.0
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-93s is the end of EP52 (Xiao Yan faints; in the ring he thanks the sleeping Yao Lao for the Bone Chilling Flame) and is not counted; the card is at 93.5.",
+    "The end of this episode is at the start of ep54.en.srt (0-15s): 'Yan. Let's go home.'",
+    "199.2: the attendant says 'My name is Xun Er'; Xiao Yan notes it is close to his friend's name. She is kept apart from Gu Xun Er (cast left out, no id). The line may be a translation slip for a different name.",
+    "Name cards: [Nalan Yanran] 897.2 and [Mu Zhan] 916.0 are on the flashback (child) versions; [Nalan] 1037.5 and [Xiao Yan] 1049.0 are on the flashback too.",
+    "'Nalan Yanran' card at 897.2 is a flashback, so she is not first here.",
+    "The flashback (895-1110) is Nalan Yanran's childhood in the capital, years before the series; Ya Fei appears as a child being bullied (from EP54's line 'he disturbed Ya Fei').",
+    "Yun Leng says the duel is 'tomorrow' (830.5); EP56 shows Xiao Yan breaking through to Da Dou Shi before he goes.",
+    "Yun Leng (card in EP34) and Mu Zhan (card in EP43) were seen before, so neither is first here; card times given are this file's."
+  ]
+}

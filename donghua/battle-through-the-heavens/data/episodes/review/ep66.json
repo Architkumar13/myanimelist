@@ -1,0 +1,99 @@
+{
+  "ep": 66,
+  "title": "Escape into the Magical Beast Mountain Range",
+  "summary": "Xiao Yan's second Angry Buddha Lotus Flame hits Yun Shan, who survives. Yun Yun steps in front of Xiao Yan to protect her master, and Yun Shan uses the moment to strike him. Xiao Yan hands Yun Yun back her gift, says they are nothing to each other now, and flees on his Purple Cloud Wings with a mark from Yun Shan in his body. The sect puts him on its wanted list until he dies, and its elders and disciples give chase. Yao Lao, kept awake by the Seven Magical Green Spirit Saliva, hides the mark's pulses, and the Heaven Swallowing Python leads Xiao Yan deep into the Magical Beast Mountain Range. In the Jia Ma capital, the imperial family calls a meeting because a Dou Zong now leads the sect. Yao Lao brews a medicine with the Bone Chilling Flame to heal Xiao Yan and release the leftover power of the Three Lines Green Spirit Pill, while Yun Lei readies a flight unit.",
+  "events": [
+    "The second Lotus Flame hits Yun Shan; the sect is shaken.",
+    "Yun Yun shields Yun Shan, and Yun Shan wounds Xiao Yan from ambush.",
+    "Xiao Yan returns Yun Yun's gift and flees, vowing tenfold revenge.",
+    "The sect puts Xiao Yan on its wanted list; Yun Shan has left a mark in his body.",
+    "Yao Lao suppresses the mark; the Heaven Swallowing Python guides Xiao Yan into the Magical Beast Mountain Range.",
+    "The Jia Ma imperial family meets about Yun Shan becoming a Dou Zong.",
+    "The python tames a territory beast; Yao Lao makes healing medicine with the Bone Chilling Flame.",
+    "Yun Lei takes command of the flight unit."
+  ],
+  "introduced": [
+    "wanted list (of the Misty Cloud Sect)",
+    "Yun Shan's mark (energy signature)",
+    "Flight Unit",
+    "Xuan Class advanced techniques (reward for killing Xiao Yan)"
+  ],
+  "cultivation": "The Heaven Swallowing Python is 'just as strong as a Dou Wang' (716). Xiao Yan's blood flow is unstable, 'a sign of me becoming stronger' (978).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-shan",
+      "name": "Yun Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "heaven-swallowing-python",
+      "name": "Seven-Colored Heaven Swallowing Python",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-lei",
+      "name": "Yun Lei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-45s: card, recap and a repeat of EP65's last line; not counted.",
+    "285.5 'You can have this back': the item Xiao Yan returns to Yun Yun is not named.",
+    "338.7 'As the eighth Leader of the Misty Cloud Sect' is untagged; it could be Yun Shan or Yun Yun.",
+    "239-242 'Yun Shan! How could you ambush him?' has no speaker; it could be Medusa or Hai Bodong.",
+    "475 'Little one. It's your turn to take over the body' reads as Medusa giving her body to the Heaven Swallowing Python.",
+    "569-590: the speaker at the imperial meeting is unnamed; I listed Jia Xing Tian as the likely one (he is 'Mr. Jia' in EP68).",
+    "Yao Lao says he will remove the Searing Poison later (1025)."
+  ]
+}

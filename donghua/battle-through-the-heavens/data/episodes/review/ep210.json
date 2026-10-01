@@ -1,0 +1,76 @@
+{
+ "ep": 210,
+ "title": "The Creation Saint's palm",
+ "summary": "While Xiao Yan purges Qing Lin's poison, a nine-headed Ancient Sky Serpent soul bursts out of her and attacks him. It also clears the last of the poison, and Qing Lin explains that she summoned it from an ancient skeleton with her pupil technique. Elder Feng watches over Yao Lao as he absorbs the Soul Baby Fruit. Xiao Yan studies the Dou Sheng bone fragments and enters a memory space, where the Creation Saint teaches him the three strikes of the Great Heavenly Creation Palm. Xiao Yan then brings out the Heaven Demon Phoenix Essence Blood, an Eighth-Tier Bone Growing Blood Fusing Pill and a Dou Sheng arm, and Elder Feng adds the skeleton of a Four-Star Dou Zun. In the Stone Tower, Xiao Yan refines a new body for Yao Lao, who relives his past as they fuse it. Meanwhile the Ninth Tianzun orders the Hall of Souls to destroy the Falling Star Pavilion.",
+ "events": [
+  "A nine-headed serpent soul comes out of Qing Lin and attacks Xiao Yan.",
+  "Qing Lin's poison is gone; she explains the Ancient Sky Serpent.",
+  "Yao Lao absorbs the Soul Baby Fruit under Elder Feng's guard.",
+  "Xiao Yan learns the Great Heavenly Creation Palm from the Creation Saint's memory.",
+  "Xiao Yan and Elder Feng gather the materials for Yao Lao's body.",
+  "In the Stone Tower, Xiao Yan refines the body while Yao Lao relives his memories.",
+  "Yao Lao begins the final fusing himself.",
+  "The Ninth Tianzun orders an attack on the Falling Star Pavilion."
+ ],
+ "introduced": [
+  "Ancient Sky Serpent",
+  "Memory Space",
+  "Creation Saint",
+  "First, Second and Third Strike of the Great Heavenly Creation Palm",
+  "Heaven Demon Phoenix Essence Blood",
+  "Bone Growing Blood Fusing Pill",
+  "Dou Sheng arm",
+  "Medicine Realm",
+  "Ninth Tianzun"
+ ],
+ "cultivation": "No breakthroughs. The body Elder Feng provides is the skeleton of a Four-Star Dou Zun.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "xiao-yan",
+   "name": "Xiao Yan",
+   "first": false
+  },
+  {
+   "id": "qing-lin",
+   "name": "Qing Lin",
+   "first": false
+  },
+  {
+   "id": "yao-lao",
+   "name": "Yao Lao",
+   "first": false
+  },
+  {
+   "id": "elder-feng",
+   "name": "Elder Feng",
+   "first": false
+  },
+  {
+   "id": "creation-saint",
+   "name": "Creation Saint",
+   "first": true,
+   "card": 600
+  },
+  {
+   "id": "ninth-tianzun",
+   "name": "Ninth Tianzun",
+   "first": true,
+   "card": 1100
+  },
+  {
+   "id": "han-feng",
+   "name": "Han Feng",
+   "first": false
+  }
+ ],
+ "changes": [],
+ "flags": [
+  "269: 'Cai Ling' is a slip for Cai Lin (Medusa); only mentioned in Xiao Yan's thoughts.",
+  "922-948: lines heard during the fusing are memories: Yao Chen cast out of the Medicine Realm, Han Feng's demand for the Flame Mantra, and Xiao Yan's first meeting with him. Speakers are inferred.",
+  "Han Feng is in cast only for the memory scene; he is not named in this file.",
+  "The Creation Saint's name is spoken at 600; there is no bracket card.",
+  "Who refined the Bone Growing Blood Fusing Pill is not stated; Xiao Yan hands it over.",
+  "The 'Dou Sheng arm' is presumably made from the Dou Sheng fragments; not stated."
+ ]
+}

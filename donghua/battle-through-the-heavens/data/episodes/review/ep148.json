@@ -1,0 +1,86 @@
+{
+  "ep": 148,
+  "title": "The Life Transforming Flame",
+  "summary": "The gray-robed man is Han Feng, Yao Lao's traitor disciple, who survived and is now a Dou Zong working for the Hall of Souls. He mocks Xiao Yan for losing Yao Lao to the Hall of Souls, and Xiao Yan swears to kill him. Old Ying Shan, facing four Dou Zongs, throws the Bodhisattva Body Transformation Saliva into the crowd, and it ends up with Xiao Yan. Xiao Yan offers Mo Tian Xing the Zong Breaking Pill to stay out, but Han Feng wins him over instead. Su Qian takes on Han Feng, and Little Fairy Doctor and Zi Yan face the others. Fang Yan and his two brothers use the Flame Creation Skill to form the Life Transforming Flame and then the Star Fire Phoenix. Xiao Yan breaks it with his Heavenly Flame and moves to take the flame for himself.",
+  "events": [
+    "Han Feng shows his face and taunts Xiao Yan about Yao Lao",
+    "Old Ying Shan throws the Bodhisattva Body Transformation Saliva away",
+    "Xiao Yan offers Mo Tian Xing the Zong Breaking Pill; Mo Tian Xing sides with Han Feng",
+    "Su Qian fights Han Feng",
+    "Fang Yan and his brothers attack Xiao Yan with the Life Transforming Flame",
+    "They merge it into the Star Fire Phoenix",
+    "Xiao Yan answers with the Sacrificial Flame and captures the Life Transforming Flame"
+  ],
+  "introduced": [
+    "Life Transforming Flame (Demon Flame Valley, made with the Flame Creation Skill)",
+    "Star Fire Phoenix",
+    "Sacrificial Flame",
+    "King of Alchemy (Han Feng's old title in the Black-Corner Region)"
+  ],
+  "cultivation": "Han Feng has broken through to Dou Zong.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "realm": "Dou Zong",
+      "quote": "but you have also broken through and become a Dou Zong.",
+      "first": false,
+      "card": 51
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false,
+      "card": 55
+    },
+    {
+      "id": "old-ying-shan",
+      "name": "Old Ying Shan",
+      "first": false,
+      "card": 215
+    },
+    {
+      "id": "mo-tian-xing",
+      "name": "Mo Tian Xing",
+      "first": false,
+      "card": 348
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false,
+      "card": 431
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false,
+      "card": 447
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false,
+      "card": 448
+    },
+    {
+      "id": "fang-yan",
+      "name": "Fang Yan",
+      "first": false,
+      "card": 477
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0s: 'It is you.' (Xiao Yan) closes ep147's reveal; the recap runs 8-37s.",
+    "151-157s: 'Not only are you still alive, but you have also broken through and become a Dou Zong' is Xiao Yan to Han Feng, who seemed to die in ep114.",
+    "168-173s: 'How is the First Elder doing?' / 'The clone of his soul has disappeared. I came here following the trace you left behind.' The speakers are not clear.",
+    "296-298s: someone tells Xiao Yan to look at the thrown item; the ep149 recap says Xiao Yan got the saliva 'by chance'.",
+    "431-441s: Han Feng greets 'Old geezer' and the reply calls Han Feng the former King of Alchemy of the Black-Corner Region; read as Su Qian, who fights him in ep149.",
+    "447s: 'I'll handle these two.' Speaker not clear (Little Fairy Doctor or Su Qian).",
+    "564s: Fang Yan's two brothers ('Second Brother, Third Brother') are not named.",
+    "745s: '(Will swallowing it evolve the Flame Mantra?)' Xiao Yan's thought.",
+    "Confidence medium: in the battle scenes many lines have no clear speaker."
+  ]
+}

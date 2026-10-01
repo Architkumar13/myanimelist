@@ -1,0 +1,79 @@
+{
+ "ep": 206,
+ "title": "Qing Lin returns",
+ "summary": "The woman in green comes back for the Pill Beast with two controlled Nine Serene Deep Ground Python Dou Zuns. Xiao Yan chases her, and she tries Demon Eye Body Control and then the Triple Jade-Green Snake Flower Pupils on him. He recognises her as Qing Lin, the snake girl he once helped in the Tager Desert, and she remembers him when he shows her his ruler. The Sky Serpent Mansion had raised her as its next leader, but she fled when they wanted her to marry. In the Beast Region she was struck with the Emperor Python Heart Eroding Poison and hunted by the Nine Serene Deep Ground Pythons. Little Fairy Doctor says the poison can be cured, and Qing Lin joins the group. In the main hall, Tang Zhen, Zhai Xing and Chen Tian Nan arrive as ten scrolls wait to unseal, and the scramble for the Tian Class Dou Skill begins.",
+ "events": [
+  "The woman in green attacks again to take the Pill Beast.",
+  "Her controlled Nine Serene Deep Ground Pythons include two Dou Zuns.",
+  "Xiao Yan resists her Demon Eye Body Control and her pupil technique.",
+  "He recognises Qing Lin, and she remembers him.",
+  "Qing Lin tells of the Sky Serpent Mansion and the Emperor Python Heart Eroding Poison.",
+  "Little Fairy Doctor agrees to cure her, and she joins the group.",
+  "At the main hall, Tang Zhen and Tang Huo Er wait as ten scrolls unseal.",
+  "Zhai Xing of the Hall of Souls arrives; Chen Tian Nan attacks Xiao Yan over his son."
+ ],
+ "introduced": [
+  "Demon Eye Body Control",
+  "Six Joint Fire",
+  "Sky Serpent Mansion",
+  "Emperor Python Heart Eroding Poison",
+  "Main hall with ten scrolls"
+ ],
+ "cultivation": "No realm changes. Two of Qing Lin's controlled Nine Serene Deep Ground Pythons are Dou Zuns.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "xiao-yan",
+   "name": "Xiao Yan",
+   "first": false
+  },
+  {
+   "id": "qing-lin",
+   "name": "Qing Lin",
+   "look": "grown up; green hooded robe; snake scales",
+   "first": false
+  },
+  {
+   "id": "little-fairy-doctor",
+   "name": "Little Fairy Doctor",
+   "first": false
+  },
+  {
+   "id": "zi-yan",
+   "name": "Zi Yan",
+   "first": false
+  },
+  {
+   "id": "tang-zhen",
+   "name": "Tang Zhen",
+   "first": false
+  },
+  {
+   "id": "tang-huo-er",
+   "name": "Tang Huo Er",
+   "first": false
+  },
+  {
+   "id": "zhai-xing",
+   "name": "Zhai Xing",
+   "first": false
+  },
+  {
+   "id": "huang-xuan",
+   "name": "Huang Xuan",
+   "first": false
+  },
+  {
+   "id": "chen-tian-nan",
+   "name": "Chen Tian Nan",
+   "first": false
+  }
+ ],
+ "changes": [],
+ "flags": [
+  "Qing Lin says she 'fled to the Jia Ma Empire' but 'nothing from my memories remained' (523-526); her memory loss is not explained here.",
+  "Zhai Xing's arm has grown back (851).",
+  "Chen Tian Nan is not named in this file (only 'You murdered my son' at 1094-1097); EP207's recap names him. EP198 calls him the chief of the Profound Xuan Sect.",
+  "Huang Xuan is placed in cast for 834-843 ('this is the golden opportunity... to retrieve the Dragon-Phoenix Origin Fruit'), but he is not named."
+ ]
+}

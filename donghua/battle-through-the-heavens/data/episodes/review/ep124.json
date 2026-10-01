@@ -1,0 +1,116 @@
+{
+  "ep": 124,
+  "title": "The Alliance at the Alchemist Association",
+  "summary": "The capital's powers agree to meet at the neutral Alchemist Association, and Hai Bodong warns that the Pill King Gu He could bring many strong men to the Misty Cloud Sect. On the way, Xiao Yan backs Xue Mei against Elder Fu Yan over a Snake Scale Ice Fire Fruit and stops Fu Yan's attack until Chairman Fa Ma steps in. At the meeting Xiao Yan asks every power to choose a side. Yao Lao shows himself as his master, and Fa Ma recognises him as the man who once guided him. The Alchemist Association, the Mu Clan, the imperial family and the Nalan Clan all join him. Ya Fei then reports that Yun Shan will marry Yun Yun to Gu He in two days, and Gu He visits the sealed Yun Yun, who refuses him. The alliance sets the attack for the wedding day.",
+  "events": [
+    "Hai Bodong names Gu He as the key threat",
+    "Xiao Yan outbids Elder Fu Yan for Xue Mei and blocks his attack",
+    "Fa Ma ends the quarrel",
+    "Xiao Yan asks the capital's powers to take a side",
+    "Yao Lao appears and Fa Ma recognises him",
+    "The Alchemist Association, Mu Clan, imperial family and Nalan Clan join",
+    "News of Yun Yun's forced wedding to Gu He; Gu He visits Yun Yun",
+    "The attack is set for the wedding in two days"
+  ],
+  "introduced": [
+    "Fu Yan (Alchemist Association elder)",
+    "Fu Lan Ke (named)",
+    "Snake Scale Ice Fire Fruit",
+    "Pill King (Gu He's title)"
+  ],
+  "cultivation": "Fu Yan is a strong Dou Huang and a fifth-tier alchemist. Gu He is called a Sixth Ranked Pill King. Yun Yun's Dou Qi is sealed by Yun Shan.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "first": false
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "first": false
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "xue-mei",
+      "name": "Xue Mei",
+      "first": false,
+      "card": 531.5
+    },
+    {
+      "id": "fu-yan",
+      "name": "Fu Yan",
+      "realm": "Dou Huang",
+      "quote": "he's also a strong Dou Huang",
+      "first": true,
+      "card": 557.2
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "first": false,
+      "card": 652.5
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "first": false,
+      "card": 736.3
+    },
+    {
+      "id": "yao-ye",
+      "name": "Yao Ye",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "head of the Mu Clan",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "head of the Nalan Clan",
+      "first": false
+    },
+    {
+      "id": "gu-he",
+      "name": "Gu He",
+      "first": false,
+      "card": 1162.7
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-235s of ep124.en.srt is the end of EP123.",
+    "ep125.en.srt 0-89s (Medusa and Xiao Yan on the Soul Recovery Pill: she will kill him once free) is counted here.",
+    "889.8 'Of course, a strong Dou Zong too': said as Yao Lao appears; he is presented as a Dou Zong to the meeting, which is not his true rank (EP126 thinks him a Dou Zun).",
+    "904.0 '(If only the engagement wasn't called off...)': a Nalan Clan thought.",
+    "1239.5 'Two days from now, the imperial family will aid you': speaker read as Jia Xing Tian.",
+    "Xue Mei is the disciple of Fu Lan Ke (572.8)."
+  ]
+}

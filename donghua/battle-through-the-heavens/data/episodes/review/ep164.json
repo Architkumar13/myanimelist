@@ -1,0 +1,107 @@
+{
+  "ep": 164,
+  "title": "The Northern Pavilion Elders",
+  "summary": "After Shen Yun's self-destruction, Han Fei, watching with his granddaughters, decides he will help Xiao Yan if needed. Xiao Yan catches the trace of soul Shen Yun let slip away and destroys it. Han Fei comes out to meet him, thanks him for helping the Han family, and warns him to leave the Central Plains. Xiao Yan promises Tian Huo Zun Zhe that he will take the Mighty Huang Pill to reach Dou Zong and refine a new body for him. At the Wind Lightning Pavilion's Northern Pavilion, Shen Yun's Spiritual Lightning Tablet shatters, and Elder Dian, Elder Lei and Elder Feng surround the Han Manor to draw out his killer. Xiao Yan comes back in a black robe on his Bone Wings, and the three elders and Hong Tian Xiao trap him inside the Nine Heavenly Lightning Prison Formation. He vows to fight until the Han Clan is free, and the elders open with Wind Blade and Lightning Slash.",
+  "events": [
+    "Han Fei resolves to help Xiao Yan after Shen Yun's death.",
+    "Xiao Yan destroys the trace of soul Shen Yun tried to save.",
+    "Han Fei introduces himself and warns Xiao Yan about the Wind Lightning Pavilion.",
+    "Xiao Yan promises Tian Huo Zun Zhe a new body and plans to take the Mighty Huang Pill.",
+    "Shen Yun's Spiritual Lightning Tablet shatters at the Northern Pavilion.",
+    "Elder Dian, Elder Lei and Elder Feng besiege the Han Manor.",
+    "Xiao Yan arrives to free the Han family and faces the three elders.",
+    "The Heaven Hall disciples form the Nine Heavenly Lightning Prison Formation and the fight begins."
+  ],
+  "introduced": [
+    "Mighty Huang Pill",
+    "Spiritual Lightning Tablet",
+    "Elder Dian",
+    "Elder Lei",
+    "Elder Feng",
+    "Northern Pavilion",
+    "Northern Region",
+    "Northern Lightning Tower",
+    "Heaven Hall",
+    "Nine Heavenly Lightning Prison Formation",
+    "Wind Blade",
+    "Lightning Slash"
+  ],
+  "cultivation": "The Earth Demon Puppet is called a Five-Star Dou Zong puppet. Elder Dian, Elder Lei and Elder Feng are called senior Dou Zongs.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "shen-yun",
+      "name": "Shen Yun",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "han-fei",
+      "name": "Han Fei",
+      "first": false
+    },
+    {
+      "id": "han-xue",
+      "name": "Han Xue",
+      "first": false
+    },
+    {
+      "id": "han-yue",
+      "name": "Han Yue",
+      "first": false
+    },
+    {
+      "id": "han-tian",
+      "name": "Han Tian",
+      "first": false
+    },
+    {
+      "id": "hong-tian-xiao",
+      "name": "Hong Tian Xiao",
+      "first": false
+    },
+    {
+      "id": "elder-dian",
+      "name": "Elder Dian",
+      "realm": "Dou Zong",
+      "quote": "They actually sent out three senior Dou Zongs to capture a junior like me.",
+      "first": true,
+      "card": 318
+    },
+    {
+      "id": "elder-lei",
+      "name": "Elder Lei",
+      "realm": "Dou Zong",
+      "quote": "They actually sent out three senior Dou Zongs to capture a junior like me.",
+      "first": true,
+      "card": 323
+    },
+    {
+      "id": "elder-feng",
+      "name": "Elder Feng",
+      "realm": "Dou Zong",
+      "quote": "They actually sent out three senior Dou Zongs to capture a junior like me.",
+      "first": true,
+      "card": 323
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: Shen Yun's self-destruction now ends EP163 and is only replayed here; added from EP165 the start of the fight inside the formation (Wind Blade, Lightning Slash); card times moved to the new clock."
+  ],
+  "flags": [
+    "0-38s is the recap; 45-71s replays the explosion.",
+    "313s: Shen Yun is called 'Elder Yun' here as well.",
+    "318-323s: name cards '[Elder Dian]' and '[Elder Lei, Elder Feng]' sit on their lines; the elders first suspect the Ten Thousand Sword Pavilion of killing Shen Yun.",
+    "759s: 'A Five-Star Dou Zong puppet' is the Earth Demon Puppet's strength, stated by an enemy.",
+    "930-944s: 'Wind Blade!' and 'Lightning Slash!' are called without named speakers; taken as the elders' attacks."
+  ]
+}

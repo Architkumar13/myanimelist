@@ -1,0 +1,113 @@
+{
+  "ep": 130,
+  "title": "The Yan Alliance",
+  "summary": "Xiao Yan gives Xiao Li the Deep Green Longevity Pill, which holds back the Life Devouring Pill, and tells him to reach Dou Huang within ten years. He then gathers the capital's powers and proposes an alliance in which members serve it first and an Elder's Council decides. Hai Bodong takes the first seat for the Mite'er family, and the Mu Clan, the Nalan Clan and the imperial family join. Fa Ma agrees to bring in the Alchemist Association in return for ten fifth-tier alchemists within a decade. Xiao Yan names it the Yan Alliance and rewards his allies with Fighting Spirit Pills and Mighty Huang Pills, and Medusa reminds him their one-year deal ends in two months. Feeling close to breaking through, Xiao Yan takes Zi Yan and Medusa to the Magical Beast Mountain Range by way of Qingshan Town. There he saves Ka Gang and Ling Er of the Bloody Battle Mercenary Company from the Snake Nest Mercenary Company.",
+  "events": [
+    "Xiao Yan gives Xiao Li the Deep Green Longevity Pill",
+    "He proposes the alliance and its Elder's Council",
+    "Hai Bodong, the Mu Clan, the Nalan Clan and the imperial family join",
+    "Fa Ma joins in return for ten fifth-tier alchemists in a decade",
+    "The alliance is named the Yan Alliance",
+    "Xiao Yan hands out Fighting Spirit Pills and promises Mighty Huang Pills",
+    "Medusa reminds him the one-year deal ends in two months",
+    "At Qingshan Town he rescues Ka Gang and Ling Er"
+  ],
+  "introduced": [
+    "Yan Alliance",
+    "Elder's Council",
+    "Fighting Spirit Pill",
+    "Qingshan Town",
+    "Bloody Battle Mercenary Company",
+    "Snake Nest Mercenary Company",
+    "He family (He Clan)"
+  ],
+  "cultivation": "Xiao Yan can feel the Dou Huang barrier. Lin Xiu Ya, Liu Qing and Lin Yan each rose by at least one star. Xiao Li must reach Dou Huang within ten years.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "first": false
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "first": false
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "first": false,
+      "card": 313.2
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "head of the Mu Clan",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "head of the Nalan Clan",
+      "first": false
+    },
+    {
+      "id": "lin-xiu-ya",
+      "name": "Lin Xiu Ya",
+      "first": false
+    },
+    {
+      "id": "liu-qing",
+      "name": "Liu Qing",
+      "first": false
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "ka-gang",
+      "name": "Ka Gang",
+      "first": false
+    },
+    {
+      "id": "ling-er",
+      "name": "Ling Er",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The lyrics at 0-66s are the ending song of EP129.",
+    "ep131.en.srt 0-184s (the Snake Nest Mercenary Company hunting Ka Gang and Ling Er, Xiao Yan's rescue) is counted here.",
+    "569.9 'I only spent seven years in alchemy practice and has reached the sixth tier'.",
+    "690-731s: the three thanked and given Fighting Spirit Pills are read as Lin Xiu Ya, Liu Qing and Lin Yan (not named here).",
+    "741-766s: those promised three Mighty Huang Pills each and leaving for the Black-Corner Region are read as the Black-Corner sect leaders; not named.",
+    "634.2: who asks for the imperial family to join (Jia Xing Tian or Yao Ye) is unclear; Yao Ye left out of cast."
+  ]
+}

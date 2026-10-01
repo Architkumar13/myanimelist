@@ -1,0 +1,68 @@
+{
+  "ep": 176,
+  "title": "The Flame Bodhi Pill",
+  "summary": "Tang Zhen explains that his daughter Tang Huo Er failed to absorb the Nine Dragon Lightning Flame and will die within a year. The seventh-tier Flame Bodhi Pill is his last chance to save her. He, Master Huan and Xiao Yan refine it for ten days in the Mountain Melting Cauldron. Master Huan runs out of Spiritual Strength at the last step, and Xiao Yan finishes the pill alone. His Earth Demon Puppet takes the Pill Lightning. Three days later, the valley's elders object to giving away the Sky Fire Three Mysterious Changes, and one reveals that Yan Xiao is Xiao Yan, the man who defeated Feng Qing Er. Xiao Yan unmasks and agrees to survive ten blows from Second Elder Wu Chen, an Eight-Star Dou Zong, and he meets the last blow with the Angry Buddha Lotus Flame.",
+  "events": [
+    "Tang Zhen tells of Tang Huo Er's year left to live.",
+    "The three refine the Flame Bodhi Pill in the Mountain Melting Cauldron.",
+    "Master Huan fails at the last step; Xiao Yan asks to go on alone.",
+    "Xiao Yan completes the pill, and the Earth Demon Puppet takes the Pill Lightning.",
+    "The elders object, and Xiao Yan's identity is exposed.",
+    "Second Elder Wu Chen tests him with ten blows.",
+    "Xiao Yan matches the Celestial Astral Stone Crushing Steps with the Three Thousand Lightning Movement.",
+    "Wu Chen's Taiyi Infernal Luo Talisman meets the Angry Buddha Lotus Flame."
+  ],
+  "introduced": [
+    "Flame Bodhi Pill",
+    "Mountain Melting Cauldron",
+    "Cauldron Ranking",
+    "Glaze Lotus Core Flame (name)",
+    "Wu Chen",
+    "Pure Yang Palm",
+    "Celestial Astral Stone Crushing Steps",
+    "Almighty Fire Luo Flame",
+    "Taiyi Infernal Luo Talisman"
+  ],
+  "cultivation": "Wu Chen is an Eight-Star Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "tang-zhen",
+      "name": "Tang Zhen",
+      "first": false
+    },
+    {
+      "id": "tang-huo-er",
+      "name": "Tang Huo Er",
+      "first": false
+    },
+    {
+      "id": "master-huan",
+      "name": "Master Huan",
+      "first": false
+    },
+    {
+      "id": "wu-chen",
+      "name": "Wu Chen",
+      "realm": "8-star Dou Zong",
+      "quote": "Moreover, Elder Wu Chen / is an Eight Star Dou Zong, no less.",
+      "first": true,
+      "card": 778
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10-54s is a recap of EP175 read as plain lines, not in round brackets.",
+    "22s: the recap spells Liu Qing as 'Liu Qin'.",
+    "40s: the recap names Xiao Yan's flame the 'Glaze Lotus Core Flame'; EP175 compared it to the Green Lotus Core Flame.",
+    "469-475s: 'Remember to observe my techniques' / 'Master, I wouldn't miss out' is an onlooking alchemist and his student; not named.",
+    "657-683s: the elder who links Yan Xiao to Xiao Yan is not named; the second objecting elder is not named either.",
+    "608s: Xiao Yan notes it is hard to upgrade the puppet to the Sky Demon Puppet.",
+    "1054-1136s: ending-song lyrics."
+  ]
+}

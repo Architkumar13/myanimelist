@@ -1,0 +1,97 @@
+{
+  "ep": 55,
+  "title": "The Succession Ceremony",
+  "summary": "The flashback goes on: the Gate of Life and Death accepts Nalan Yanran, and she is to become Young Lady of the Misty Cloud Sect. An old sect rule says the Young Lady must never be involved with a man, and Elder Yun Leng reminds her of it. Nalan Jie says she will marry Xiao Yan next year, and Liu Ling learns of the betrothal. Nalan Yanran cries to Yun Yun, who tells her to get to know her fiance first and promises to back her either way. A senior's report that Xiao Yan lost his power to gather Dou Qi three years ago turns her against him. At the ceremony, before Jia Xing Tian, Fa Ma and the sect, a man exposes her betrothal. Nalan Yanran declares that it was her family's choice and that she will not honour it.",
+  "events": [
+    "Nalan Yanran shows Nalan Jie her ceremony cape; Ge Ye is assigned as her guard.",
+    "Nalan Jie mentions her marriage to Xiao Yan; Yun Leng overhears and warns her of the rule against men.",
+    "Liu Ling reveals he knows of the betrothal.",
+    "Yun Yun comforts Nalan Yanran and promises to stand by her.",
+    "A senior calls Xiao Yan 'trash' who lost his Dou Qi three years ago.",
+    "At the succession ceremony, someone raises her betrothal before the guests.",
+    "Nalan Yanran publicly rejects the betrothal as her family's decision (end, in ep56 file)."
+  ],
+  "introduced": [
+    "Succession ceremony of the Young Lady",
+    "Misty Cloud Sect rule against the Young Lady being involved with men"
+  ],
+  "cultivation": "Yun Leng: Yun Yun \"managed to become Dou Huang at such a young age\" (in the past).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-jie",
+      "name": "Nalan Jie",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-leng",
+      "name": "Yun Leng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ge-ye",
+      "name": "Ge Ye",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 143.8
+    },
+    {
+      "id": "liu-ling",
+      "name": "Liu Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": "Dou Huang",
+      "quote": "That was how she managed to become Dou Huang at such a young age",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-72s is the end of EP54 (the Gate of Life and Death approves her) and is not counted; the card is at 72.2.",
+    "The end of this episode is at the start of ep56.en.srt (0-219s): her public rejection and her quarrel with Nalan Jie.",
+    "Whole episode is a flashback.",
+    "311.4: someone says 'Liu Ling.'; the next speaker, who knows of the betrothal, is taken to be Liu Ling. It could be the other way round.",
+    "600-631: the person who calls Xiao Yan 'trash' ('I don't want you to marry him') is not named; possibly Liu Ling again.",
+    "849-853: the man who exposes the betrothal at the ceremony is not named.",
+    "Ge Ye is called an elder here (145.8) and a deacon in EP58 (424.4).",
+    "Ge Ye is named in EP1 and EP34, so he is not first here."
+  ]
+}

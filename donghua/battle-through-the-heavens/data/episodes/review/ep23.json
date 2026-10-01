@@ -1,0 +1,114 @@
+{
+  "ep": 23,
+  "title": "The Queen Is Only Energy",
+  "summary": "Gu He and his group arrive at the shrine during the ceremony and demand to see Queen Medusa. When she appears he offers two Sixth-Tier Fighting Spirit Pills and a Seventh-Tier Body Transformation Pill for the Green Lotus Core Flame. Medusa refuses, and Gu He reveals that the figure before them is only a body of energy holding a touch of her mind. Ms. Yun strikes, the energy body breaks, and the Snakemen think their queen is dead and attack. The Snakemen light the Summoning Order to call the leaders of the Eight Large Tribes. Hua She Er unmasks the disguised Xiao Yan and chases him with Art of Snake, Rampage, at peak Dou Wang strength. He escapes into a trapped hall with rune tiles, where Yao Lao senses the Heavenly Flame right below them.",
+  "events": [
+    "Snake guards hold the forbidden altar as Gu He's group breaks in.",
+    "Medusa appears; Gu He offers two Sixth-Tier Fighting Spirit Pills and a Seventh-Tier Body Transformation Pill.",
+    "Medusa refuses; Gu He reveals she is only a body of energy.",
+    "Ms. Yun breaks the energy body; the Snakemen attack to avenge their queen.",
+    "Ms. Yun says she will never let the Snakemen gain a Dou Zong; the Summoning Order is lit.",
+    "Hua She Er exposes Xiao Yan's disguise and chases him at peak Dou Wang strength.",
+    "Xiao Yan reaches a hall with rune traps above the hidden Heavenly Flame."
+  ],
+  "introduced": [
+    "forbidden altar / West Shrine",
+    "Sixth-Tier Fighting Spirit Pill",
+    "Seventh-Tier Body Transformation Pill",
+    "energy body of the Queen",
+    "Summoning Order",
+    "Eight Large Tribes",
+    "rune tile traps"
+  ],
+  "cultivation": "Hua She Er reaches peak Dou Wang strength for a moment with Art of Snake, Rampage (946.2).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "gu-he",
+      "name": "Gu He",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": "Dou Huang",
+      "quote": "as a Dou Huang from the Jia Ma Empire, I'll never allow the Snakemen to have a Dou Zong!",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yue-mei",
+      "name": "Yue Mei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hua-she-er",
+      "name": "Hua She Er",
+      "realm": "peak Dou Wang (with Art of Snake, Rampage)",
+      "quote": "Her ability has reached the peak of a Dou Wang in an instant!",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yan-shi",
+      "name": "Yan Shi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "feng-li",
+      "name": "Feng Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yin-shi",
+      "name": "Yin Shi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-140s is the end of EP22; '[Preview of the next episode]' at 138.5 and the [Episode 23] card at 140.",
+    "Hua She Er's peak Dou Wang is a temporary boost from Art of Snake, Rampage, not her normal realm.",
+    "223-277: the Snakemen 'Elder' who speaks to Gu He is not named in this file (likely Yin Shi).",
+    "File ep24.en.srt 0-106s (before the [Episode 24] card) is the end of this episode: Yao Lao blasts through the floor with Octane Blast."
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "ep": 106,
+  "title": "Flame Splitting Tsunami",
+  "summary": "Zi Yan, Liu Qing and the other students hold Fan Lao off with their best skills, and Zi Yan is hurt by his Blood Demon Palm. Xiao Yan comes back fighting at Dou Huang strength, borrowed from Yao Lao, and sends his friends back with healing medicine. Watching him, Han Feng recognises the Green Lotus Core Flame, 19th on the Heavenly Flames Ranking, and decides he wants both flames. Fan Lao, chief of the Blood Sect, answers with his Blood Transforming Skill and then the Di Class Great Blood Bodhisattva Devourer, which Xiao Yan meets with his own Flame Splitting Tsunami. Xiao Yan wins the exchange and presses him with Octane Blast, but Fan Lao escapes by cutting himself with a blood technique. Then the Fallen Heart Flame starts to break its seal again.",
+  "events": [
+    "The students fight Fan Lao's Blood Consuming Armor and Blood Demon Palm; Zi Yan is hurt",
+    "Liu Qing uses Sky Splitting Mountain; Green Smoke Sword Blade is used against Fan Lao",
+    "Xiao Yan returns at Dou Huang strength and sends his friends back with medicine",
+    "Han Feng recognises the Green Lotus Core Flame and wants both flames",
+    "Fan Lao uses the Blood Transforming Skill",
+    "Flame Splitting Tsunami beats Fan Lao's Great Blood Bodhisattva Devourer",
+    "Fan Lao flees by wounding himself; the Fallen Heart Flame moves to break its seal"
+  ],
+  "introduced": [
+    "Blood Consuming Armor",
+    "Blood Demon Palm",
+    "Blood Devouring Seal",
+    "Blood Transforming Skill",
+    "Sky Splitting Mountain",
+    "Great Blood Bodhisattva Devourer",
+    "Fan Ling (named)"
+  ],
+  "cultivation": "Xiao Yan, a Dou Ling, borrows Yao Lao's power and fights at Dou Huang strength (a temporary jump of two levels); onlookers call him 'a young and strong Dou Huang'. Fan Lao says the borrowed power has a time limit. Zi Yan's strength is called greater than a skilled Dou Wang's.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Ling (fights as a Dou Huang with Yao Lao's power)",
+      "quote": "How did you break through two levels at once and become a Dou Huang?",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "fan-lao",
+      "name": "Fan Lao",
+      "realm": "Dou Huang",
+      "quote": "Although it's a strong attack, it's very difficult to harm a strong Dou Huang.",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false,
+      "card": 205.0
+    },
+    {
+      "id": "liu-qing",
+      "name": "Liu Qing",
+      "first": false,
+      "card": 222.9
+    },
+    {
+      "id": "lin-xiu-ya",
+      "name": "Lin Xiu Ya",
+      "first": false
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "first": false
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false
+    },
+    {
+      "id": "mr-jin",
+      "name": "Mr. Jin",
+      "first": false
+    },
+    {
+      "id": "mr-yin",
+      "name": "Mr. Yin",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Moved out to EP105: Fan Lao spotting Xiao Yan, the students stepping in and the three-minute request (before this card in the old file). Moved in from the old EP107 review: Flame Splitting Tsunami against the Great Blood Bodhisattva Devourer and Fan Lao's escape (before the [Episode 107] card). New title; cards moved to the new clock."
+  ],
+  "flags": [
+    "0-33s are a recap of EP105 and are not counted.",
+    "446.6 'How did you break through two levels at once and become a Dou Huang?': EP107's recap (6.2) says it came with the help of Yao Lao's power, so treated as temporary.",
+    "Lin Xiu Ya is not named in this episode's lines; Green Smoke Sword Blade (244.9) is read as his, since EP102 (499.1) calls it his ultimate blade skill.",
+    "Fan Ling, Fan Lao's son, is named only (491.4).",
+    "966.8-979.9 ('Little man. It's just a misunderstanding.', 'Did he cut himself again?'): the speakers around Fan Lao's escape aren't clear."
+  ]
+}

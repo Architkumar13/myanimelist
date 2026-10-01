@@ -1,0 +1,64 @@
+{
+  "ep": 132,
+  "title": "The He Clan Bows",
+  "summary": "In the valley, Xiao Yan refines Mighty Huang Pills and causes a small explosion by being greedy with his last ingredients, while Zi Yan sleeps in a cocoon. Medusa tells him the step from Dou Wang to Dou Huang can take half a year or more. Taking the pills to Qingshan Town, Xiao Yan finds that He Qian, head of the He Clan, has seized Ka Gang over the Fire Lotus Vial. Xiao Yan slaps He Qian down with Dou Huang force, and He Qian recognises him as leader of the Yan Alliance and begs for mercy. Xiao Yan accepts the He Clan into the alliance but warns them off the Bloody Battle Mercenary Company. Back in the valley he enters seclusion, and Medusa seals the valley before her clan summons her away. Xiao Yan breaks through to Dou Huang and glimpses Yao Lao in the Hall of Souls.",
+  "events": [
+    "Xiao Yan refines Mighty Huang Pills; Zi Yan is in a cocoon",
+    "He Qian of the He Clan seizes Ka Gang over a Fire Lotus Vial",
+    "Xiao Yan defeats He Qian's men and slaps He Qian",
+    "He Qian recognises the Yan Alliance leader and submits",
+    "The He Clan joins the Yan Alliance",
+    "Xiao Yan goes into seclusion",
+    "Medusa seals the valley and leaves for the Snakemen Clan",
+    "Xiao Yan becomes a Dou Huang and sees the Hall of Souls"
+  ],
+  "introduced": [
+    "He Qian",
+    "Space Lock"
+  ],
+  "cultivation": "Xiao Yan breaks through from Dou Wang to Dou Huang at the end of his seclusion. Medusa says the step takes at least half a year.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Huang",
+      "quote": "Is this what it feels like to be a Dou Huang?",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "look": "in a cocoon",
+      "first": false
+    },
+    {
+      "id": "ka-gang",
+      "name": "Ka Gang",
+      "first": false
+    },
+    {
+      "id": "ling-er",
+      "name": "Ling Er",
+      "first": false
+    },
+    {
+      "id": "he-qian",
+      "name": "He Qian",
+      "first": true,
+      "card": 245.1
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-42s of ep132.en.srt is the end of EP131.",
+    "ep133.en.srt 0-218s (Medusa's Space Lock, her summons to the Snakemen Clan, the ending-song lyrics, Xiao Yan's breakthrough at 185.0 and the vision of the Hall of Souls at 209.3) is counted here; the realm quote is from ep133.en.srt 186.5.",
+    "527.6 He Qian: 'A strong Dou Huang?': said before Xiao Yan has broken through; not used as his realm.",
+    "The EP134 recap says the seclusion lasted a year."
+  ]
+}

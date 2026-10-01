@@ -1,0 +1,102 @@
+{
+  "ep": 86,
+  "title": "Elder He's Verdict",
+  "summary": "Elder He stops Xiao Yan's Angry Buddha Lotus Flame before it can kill Lei Na. He fines Lei Na thirty days of Fire Energy, Liu Fei ten days and Xiao Yan five days for fighting too hard. First Elder Su Qian warns the elders that the Fallen Heart Flame is growing restless and may break out within a few years and, with the Dean away, wants the forces of the Black-Corner Region watched and the young owner of a Heavenly Flame looked after. After four days in the tower without food or water, Xiao Yan breaks through to Seven-Star Da Dou Shi. He returns to find that Xun Er has given Rock Gate badges, a guard squad and Fire Energy rewards. Xun Er then brings in Mr. Ling, her guard, who says her clan had nothing to do with the disappearance of Xiao Yan's father. Mr. Ling tells Xun Er that a hidden force in the Jia Ma Empire, the Hall of Souls, has secret dealings with the Misty Cloud Sect.",
+  "events": [
+    "Elder He stops the fight and hears both sides.",
+    "He fines Lei Na, Liu Fei and Xiao Yan in Fire Energy; Liu Fei vows revenge.",
+    "Su Qian and the elders discuss the restless Fallen Heart Flame and the absent Dean.",
+    "Xiao Yan breaks through to Seven-Star Da Dou Shi after four days in the tower.",
+    "Rock Gate now has badges, guards and Fire Energy rewards, all set up by Xun Er with Hu Jia.",
+    "Xun Er introduces Mr. Ling, who has protected Xiao Yan in secret on her orders.",
+    "Mr. Ling says Xun Er's clan did not take Xiao Zhan; Xiao Yan suspects the Misty Cloud Sect.",
+    "Mr. Ling tells Xun Er the Misty Cloud Sect is dealing with the Hall of Souls."
+  ],
+  "introduced": [
+    "Elder He",
+    "Su Qian",
+    "First Elder",
+    "the Dean (away, not named)",
+    "Rock Gate badge",
+    "Rock Gate guard squad",
+    "Mr. Ling (by this name)",
+    "Hall of Souls (named in Season 5)"
+  ],
+  "cultivation": "Xiao Yan breaks through to Seven-Star Da Dou Shi in four days of tower training.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "7-star Da Dou Shi",
+      "quote": "It only took me four days to break through to a Seven-Star Da Dou Shi.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "elder-he",
+      "name": "Elder He",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    },
+    {
+      "id": "lei-na",
+      "name": "Lei Na",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-fei",
+      "name": "Liu Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 353.1
+    },
+    {
+      "id": "elder-liu",
+      "name": "Elder Liu",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mr-ling",
+      "name": "Mr. Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-35s is a recap of EP85.",
+    "Mr. Ling helped Xiao Yan before ('we parted in haste last time... I thank you for your help', 865.8). He is very likely Ling Ying from EP60, who protected Xiao Yan for a 'Young Lady', but the name Ling Ying is not used here. Kept as Mr. Ling.",
+    "841.0-847.8 'ever since you left Wu Tan City, in less than half a year, I've been following you' is a muddled line.",
+    "Su Qian is called First Elder (363.9); Elder He's 'First Elder or the Dean' (264.0) refers to the same post.",
+    "988.9 '[Battle Through the Heavens] / [Medusa]' at the end is a title caption.",
+    "The Mr. Ling conversation at 950-971 is repeated at the start of EP87."
+  ]
+}

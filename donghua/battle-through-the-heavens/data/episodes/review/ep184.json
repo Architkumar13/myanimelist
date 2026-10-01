@@ -1,0 +1,99 @@
+{
+  "ep": 184,
+  "title": "Xun Er Arrives",
+  "summary": "The Little Fairy Doctor has condensed her Poison Pill and holds off Qing Hai Zun Zhe with her new poison. Then the Ice River Valley master Bing He arrives, said to be as strong as Tang Zhen, wanting her innate Woeful Poison Body to perfect his own flawed, acquired one. He nearly kills Xiao Yan before Xun Er arrives and warns that the Ice River Valley will cease to exist if he hurts him. Her Heavenly Flame awes even Xiao Yan's Glaze Lotus Core Flame. Her guard Elder Lin hits Bing He with the Sky Burying Seal, a God Seal Technique, which marks her as Gu Clan. Bing He apologizes and swears that the Ice River Valley will leave the Woeful Poison Body alone. Xun Er hands the captured Protector Wu to Xiao Yan and thanks the Little Fairy Doctor for looking after him.",
+  "events": [
+    "The Little Fairy Doctor fights Qing Hai Zun Zhe with her poison.",
+    "Ice River Valley master Bing He arrives.",
+    "Bing He reveals his acquired Woeful Poison Body and attacks.",
+    "Xun Er arrives and saves Xiao Yan.",
+    "Xun Er's side breaks the Cold Air Array.",
+    "Elder Lin uses the Sky Burying Seal on Bing He, showing they are Gu Clan.",
+    "Bing He gives up the Woeful Poison Body.",
+    "Xun Er gives Protector Wu to Xiao Yan and meets the Little Fairy Doctor."
+  ],
+  "introduced": [
+    "acquired Woeful Poison Body",
+    "Cold Air Array",
+    "Gan Da",
+    "Icy Cold Palm",
+    "Sky Burying Seal"
+  ],
+  "cultivation": "None stated for Xiao Yan. Bing He is said to be as strong as Tang Zhen.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "qing-hai-zun-zhe",
+      "name": "Qing Hai Zun Zhe",
+      "first": false
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "bing-he",
+      "name": "Bing He",
+      "first": false,
+      "card": 300
+    },
+    {
+      "id": "tian-shuang-zi",
+      "name": "Tian Shuang Zi",
+      "first": false,
+      "card": 893
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false,
+      "card": 536
+    },
+    {
+      "id": "elder-lin",
+      "name": "Elder Lin",
+      "first": false,
+      "card": 883
+    },
+    {
+      "id": "elder-yuan",
+      "name": "Elder Yuan",
+      "first": false,
+      "card": 639
+    },
+    {
+      "id": "protector-wu",
+      "name": "Protector Wu",
+      "first": false,
+      "card": 946
+    },
+    {
+      "id": "gan-da",
+      "name": "Gan Da",
+      "first": true,
+      "card": 695
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Opening lines 15-46s are a recap of EP183 in plain lines.",
+    "300s: 'the valley master of Ice River Valley, Bing He'. EP185's recap calls him 'Bing Zun Zhe, the Chief of the Ice River Valley'. An EP178 Ice River Two-Star Dou Zong is also called Bing He; kept apart.",
+    "536s: name card '[Xiao Xun Er]'.",
+    "639-644s: one of Xun Er's two elders takes Bing He and the other the Hall of Souls; the second is taken as Elder Yuan (EP182), who is not named here.",
+    "695s: Gan Da is ordered to seize Xiao Yan; who gives the order (Qing Hai Zun Zhe or Protector Wu) is not clear.",
+    "740-744s: Xun Er's Heavenly Flame is not named.",
+    "361s: Tian Huo Zun Zhe says 'I ever died once' (a slip for 'I've died once').",
+    "Qing Hai Zun Zhe's fate is not shown; EP185's recap says Xun Er drove the enemy away."
+  ]
+}

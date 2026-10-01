@@ -1,0 +1,72 @@
+{
+  "ep": 231,
+  "title": "The Ghost Scorpion Demons",
+  "summary": "On the way home from the fair, Tian Xie Zi and Di Xie Zi of the Cloud Rain Sect ambush Yao Lao's group for the map fragment. Tian Xie Zi traps Yao Lao with an array while Di Xie Zi, a Sixth Turn peak Dou Zun, goes after Xiao Yan, Medusa and Little Fairy Doctor. Medusa and Little Fairy Doctor hold Di Xie Zi off while Xiao Yan fuses his Heavenly Flames into a Fire Lotus, which destroys both demons despite their King Kong Glass Body. Xiao Yan drips his blood on the four joined map pieces and burns them with Heavenly Flame. A verse appears: the Purifying Demonic Lotus Flame will come when two moons rise and nine planets align, which Yao Lao counts as three years from now. A wisp of soul energy from the map enters Xiao Yan's brow, carrying the message of the Purifying Demonic Lotus Saint. To be strong enough in three years, Xiao Yan decides to find the Bodhisattva Ancient Tree and its Bodhisattva Heart.",
+  "events": [
+    "Tian Xie Zi and Di Xie Zi of the Cloud Rain Sect stop the group for the map.",
+    "Tian Xie Zi holds Yao Lao in an array; Di Xie Zi attacks the others.",
+    "Xiao Yan uses a burst technique to jump from Eight-Star Dou Zun to Triple Turn peak Dou Zun.",
+    "Medusa and Little Fairy Doctor buy time; Xiao Yan fuses four Heavenly Flames.",
+    "The Fire Lotus kills both demons; they had used the King Kong Glass Body.",
+    "Blood and Heavenly Flame reveal the map's verse: the flame appears in three years.",
+    "Soul energy from the map enters Xiao Yan's brow: the Purifying Demonic Lotus Saint.",
+    "Yao Lao points him to the Bodhisattva Heart; Xiao Yan resolves to go to the Ancient Wasteland Region."
+  ],
+  "introduced": [
+    "Tian Xie Zi",
+    "Di Xie Zi",
+    "Ghost Scorpion Demons",
+    "Cloud Rain Sect",
+    "Thick Earth Bell",
+    "Purifying Demonic Lotus Saint",
+    "the two moons and nine planets verse"
+  ],
+  "cultivation": "Di Xie Zi is a Sixth Turn peak Dou Zun. Xiao Yan is an Eight-Star Dou Zun and boosts himself to Triple Turn peak Dou Zun with a secret technique. Yao Lao has reached Ban Sheng. Xiao Yan must reach Dou Sheng within three years to take the Purifying Demonic Lotus Flame.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "di-xie-zi",
+      "name": "Di Xie Zi",
+      "realm": "Sixth Turn peak Dou Zun",
+      "quote": "He's a Sixth Turn Peak Dou Zun.",
+      "first": true,
+      "card": 101.4
+    },
+    {
+      "id": "tian-xie-zi",
+      "name": "Tian Xie Zi",
+      "first": true,
+      "card": 141.4
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-46s is a recap of EP230.",
+    "351s: 'It boosted him from an Eight-Star Dou Zun to a Triple Turn Peak Dou Zun' (Tian Xie Zi on Xiao Yan); the technique 'looks a bit like Burning Flame Valley's secret technique'. Probably his Sky Fire Three Mysterious Changes; it is not named.",
+    "455-463s: 'Four Heavenly Flames?' then 'I'll use you to test the power of my five-colored Lotus Flame!' The speaker of the second line is unclear (Xiao Yan or Yao Lao). EP232's recap credits the kill to Xiao Yan's Extermination Fire Lotus.",
+    "572s: 'Thick Earth Bell!' speaker unclear.",
+    "641s: the demons use the King Kong Glass Body bought at the auction; EP232 shows Xiao Yan cultivating it afterwards, so he took it from them.",
+    "Tian Xie Zi's realm (Ninth Turn Dou Zun) is only stated in EP232's recap.",
+    "Medusa is called Cai Lin in the subtitles."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+ "ep": 207,
+ "title": "The Dou Sheng skeleton wakes",
+ "summary": "Chen Tian Nan of the Profound Xuan Sect attacks Xiao Yan to avenge his son, but Xiao Yan grabs a scroll and then kills him in a fight alone. The scrolls turn out to hold ordinary Dou Skills, not the Tian Class Dou Skill. Zhai Xing gets blood on the Dou Sheng skeleton in the hall, and the remnant spiritual imprint inside wakes it. Its sonic waves kill many, and it drinks the blood mist and grows stronger. Zhai Xing gets the Burning Flame Valley, the Ice River Valley and the Falling Star Pavilion to fight it with him, and Xiao Yan agrees to go first. Xiao Yan notices characters on the skeleton and realises it is the real treasure. The skeleton rises again and unleashes the Great Heavenly Creation Palm.",
+ "events": [
+  "Chen Tian Nan attacks Xiao Yan; Yao Tian Huo and the puppet stall him.",
+  "Xiao Yan takes a scroll, then kills Chen Tian Nan.",
+  "Qing Lin reports three scrolls left; Xiao Yan sees the scrolls are not the Tian Class Dou Skill.",
+  "Zhai Xing's blood wakes the Dou Sheng skeleton, whose sonic wave kills many.",
+  "The factions blame Zhai Xing but agree to join forces.",
+  "Xiao Yan leads the attack and sees characters written on the bones.",
+  "The skeleton revives and uses the Great Heavenly Creation Palm.",
+  "Xiao Yan answers with the Flame Splitting Tsunami."
+ ],
+ "introduced": [
+  "Dou Sheng skeleton",
+  "remnant spiritual imprint",
+  "Great Heavenly Creation Palm",
+  "Three Thousand Lightning Illusionary Body"
+ ],
+ "cultivation": "Chen Tian Nan calls Xiao Yan 'a One-Star Dou Zun'.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "xiao-yan",
+   "name": "Xiao Yan",
+   "realm": "1-star Dou Zun",
+   "quote": "a One-Star Dou Zun like you wouldn't stand a chance against me!",
+   "first": false
+  },
+  {
+   "id": "chen-tian-nan",
+   "name": "Chen Tian Nan",
+   "first": false
+  },
+  {
+   "id": "qing-lin",
+   "name": "Qing Lin",
+   "first": false
+  },
+  {
+   "id": "little-fairy-doctor",
+   "name": "Little Fairy Doctor",
+   "first": false
+  },
+  {
+   "id": "zhai-xing",
+   "name": "Zhai Xing",
+   "first": false
+  },
+  {
+   "id": "tang-zhen",
+   "name": "Tang Zhen",
+   "first": false
+  },
+  {
+   "id": "huang-xuan",
+   "name": "Huang Xuan",
+   "first": false
+  }
+ ],
+ "changes": [],
+ "flags": [
+  "Chen Tian Nan's death is not stated outright; Xiao Yan says 'Old geezer, join your son in afterlife!' (255) and he is not seen again.",
+  "Realm: 'One-Star Dou Zun' (170) conflicts with EP204's 'two-star'. EP211 has him reaching Two-Star, so One-Star fits.",
+  "Who stalls Chen Tian Nan (95-102, 'a Dou Zun-level puppet') is not named; the puppet is the Sky Demon Puppet.",
+  "Zhai Xing names 'Burning Flame Valley, Ice River Valley, and Falling Star Pavilion... all four of us' (763-767): the four are those three plus the Hall of Souls.",
+  "988-999: the skill name appears as separate bracket captions '[The] [Great] [Heavenly] [Creation] [Palm]'.",
+  "Who uses the Three Thousand Lightning Illusionary Body (1043) is not clear.",
+  "Little Fairy Doctor is placed in cast from EP207's recap ('Under the protection of Little Fairy Doctor')."
+ ]
+}

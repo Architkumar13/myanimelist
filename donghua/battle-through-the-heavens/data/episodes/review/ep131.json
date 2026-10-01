@@ -1,0 +1,64 @@
+{
+  "ep": 131,
+  "title": "The Sky Poison Woman in the Valley",
+  "summary": "At Qingshan Town, Ka Gang tells Xiao Yan that the Snake Nest Mercenary Company, led by a Six-Star Dou Ling and backed by the He family, is crushing the Bloody Battle Mercenary Company. Xiao Yan gives him Fire Lotus Vials and a jade shard to call for help, then heads into the Magical Beast Mountain Range. He takes Zi Yan and Medusa to the valley of his first seclusion, now guarded by poison and roaming Rank Four Wind Leopard Beasts. A grey-robed poison master fights Medusa, and her poison eats into Medusa's Dou Qi and sickens Zi Yan. She gives them an antidote, and Xiao Yan recognises her as Little Fairy Doctor. She flees, asking him to remember her as she was and not as the Sky Poison Woman. Xiao Yan suspects her Woeful Poison Body has taken hold, and her antidote saves Zi Yan.",
+  "events": [
+    "Ka Gang explains the Snake Nest Mercenary Company and the He family",
+    "Xiao Yan gives him Fire Lotus Vials and a soul-marked jade shard",
+    "Xiao Yan, Zi Yan and Medusa reach his old valley",
+    "A poison master fights Medusa; Zi Yan is poisoned",
+    "She leaves an antidote and Xiao Yan recognises Little Fairy Doctor",
+    "She flees, calling herself the Sky Poison Woman",
+    "The antidote cures Zi Yan, who starts her breakthrough"
+  ],
+  "introduced": [
+    "Fire Lotus Vials",
+    "Wind Leopard Beast (Rank Four Magical Beast)",
+    "Sky Poison Woman",
+    "Woeful Poison Body"
+  ],
+  "cultivation": "The Snake Nest Mercenary Company's leader is a Six-Star Dou Ling. Zi Yan starts to advance.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "ka-gang",
+      "name": "Ka Gang",
+      "first": false
+    },
+    {
+      "id": "ling-er",
+      "name": "Ling Er",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "look": "grey robe, hidden face",
+      "first": false,
+      "card": 746.6
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-184s of ep131.en.srt is the end of EP130.",
+    "ep132.en.srt 0-42s (Zi Yan to Cai Lin; 'She moves on to the next level') is counted here.",
+    "935.8 'Woeful Poison Body' is Xiao Yan's guess in thought.",
+    "201.1 recap spells 'Lin Xiuya'.",
+    "Little Fairy Doctor's card time is when Xiao Yan first confronts her (746.6); she is named at 829.6."
+  ]
+}

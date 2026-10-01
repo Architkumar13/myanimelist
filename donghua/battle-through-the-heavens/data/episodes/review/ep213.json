@@ -1,0 +1,74 @@
+{
+ "ep": 213,
+ "title": "The Flower Sect duel",
+ "summary": "Qing Lin guides Xiao Yan through the Flower Sect's Bewildering Array in time for the duel. Hua Jin accuses Yun Yun of plotting for the leader's seat and attacks, and Xiao Yan steps in. He names himself the Young Pavilion Chief of the Falling Star Pavilion, sends Yao Lao's greetings to the Grand Elder, Qing Xianzi, and sets terms: if Hua Jin loses, the seat goes to Yun Yun. Yun Yun fights Hua Jin, and Xiao Yan fights Yaohua Xiejun with the Sky Demon Puppet and the Sky Fire Three Mysterious Changes. Yaohua Xiejun's Qi Transformation Heaven and Earth meets Xiao Yan's Extermination Fire Lotus, and Qing Xianzi steps in to save the sect. Yaohua Xiejun loses and abandons Hua Jin, and Qing Xianzi names Yun Yun the new sect leader.",
+ "events": [
+  "Qing Lin leads Xiao Yan through the Bewildering Array.",
+  "Hua Jin confronts Yun Yun at the duel.",
+  "Xiao Yan steps in and introduces himself as Yao Chen's disciple.",
+  "Hua Jin accepts his terms.",
+  "Xiao Yan uses the Third Change to fight at Four-Star Dou Zun strength.",
+  "His Extermination Fire Lotus beats Yaohua Xiejun's Qi Transformation Heaven and Earth.",
+  "Qing Xianzi chooses the Falling Star Pavilion over the Profound Sky Sect.",
+  "Yaohua Xiejun abandons Hua Jin; Yun Yun becomes sect leader."
+ ],
+ "introduced": [
+  "Bewildering Array",
+  "Qing Xianzi",
+  "Grand Elder (Flower Sect)",
+  "Third Change (of the Sky Fire Three Mysterious Changes)",
+  "Qi Transformation Heaven and Earth"
+ ],
+ "cultivation": "Xiao Yan is a Two-Star Dou Zun; the Third Change lifts him to Four-Star strength for the fight. Hua Jin is a Four-Star Dou Zun and Yaohua Xiejun a Six-Star Dou Zun.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "xiao-yan",
+   "name": "Xiao Yan",
+   "realm": "2-star Dou Zun",
+   "quote": "He's a mere Two-Star Dou Zun, but that Six-Star Dou Zun is having a hard time dealing with him.",
+   "first": false
+  },
+  {
+   "id": "qing-lin",
+   "name": "Qing Lin",
+   "first": false
+  },
+  {
+   "id": "nalan-yanran",
+   "name": "Nalan Yanran",
+   "first": false
+  },
+  {
+   "id": "yun-yun",
+   "name": "Yun Yun",
+   "first": false
+  },
+  {
+   "id": "hua-jin",
+   "name": "Hua Jin",
+   "realm": "4-star Dou Zun",
+   "quote": "Hua Jin is a Four-Star Dou Zun.",
+   "first": false
+  },
+  {
+   "id": "yaohua-xiejun",
+   "name": "Yaohua Xiejun",
+   "realm": "6-star Dou Zun",
+   "quote": "That Yaohua Xiejun is a Six-Star Dou Zun.",
+   "first": true
+  },
+  {
+   "id": "qing-xianzi",
+   "name": "Qing Xianzi",
+   "first": true
+  }
+ ],
+ "changes": [],
+ "flags": [
+  "Hua Jin calls Yaohua Xiejun 'Yao!' (543, 880, 1023, 1035).",
+  "Qing Xianzi is named at 404-420 and seen when she steps in (884). It is not certain she is the woman speaking at 261-267 and 911-958, but the Grand Elder hands the seat to Yun Yun.",
+  "The Third Change is called 'a secret technique from Burning Flame Valley' (614).",
+  "The EP214 recap calls the finishing move the Four-Colored Fire Lotus."
+ ]
+}

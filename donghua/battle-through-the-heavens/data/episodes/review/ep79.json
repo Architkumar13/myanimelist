@@ -1,0 +1,111 @@
+{
+  "ep": 79,
+  "title": "The Hunters Become the Hunted",
+  "summary": "Xiao Yan's group enters the forest outside the Inner Academy for the Fire Energy Hunting Competition. They watch Sha Tie's Black Demon Group beat a team of new students in one hit, and Xiao Yan judges Sha Tie a Half-Step Dou Ling. Xun Er proposes Xiao Yan as leader, and Hu Jia, Wu Hao and Bai Shan agree for now. Xiao Yan uses Soul Perception to find a weaker senior team, Lin Ge's, and the five beat it and question its members one by one. They learn there are seven senior teams of five, with the Black Demon Group and Luo Hou's White Demon Group the strongest. They also learn that Fire Energy pays for training in the Blazing Sky Qi Refining Tower and that the Strong Ranking is the surest way to earn it. Xiao Yan decides to hunt the seniors for their Fire Energy, but Liu Mu's team then ambushes the group.",
+  "events": [
+    "The Black Demon Group under Sha Tie defeats a group of new students.",
+    "Xun Er names Xiao Yan leader; the other three agree.",
+    "Xiao Yan uses Soul Perception to pick a weaker senior team.",
+    "They beat Lin Ge's team and question the seniors separately.",
+    "They learn about the seven teams, the Blazing Sky Qi Refining Tower, Fire Energies and the Strong Ranking.",
+    "Xiao Yan proposes hunting the seniors; Elder Lu approves of his use of the rules.",
+    "Liu Mu's team, warned of the newcomers, ambushes them in the woods."
+  ],
+  "introduced": [
+    "Sha Tie",
+    "Black Demon Group",
+    "White Demon Group",
+    "Luo Hou (named)",
+    "Lin Ge",
+    "Leng Bai (named)",
+    "Liu Mu",
+    "Blazing Sky Qi Refining Tower",
+    "Strong Ranking (Inner Academy Strong Ranking)",
+    "Fire Crystal Card",
+    "Half-Step Dou Ling"
+  ],
+  "cultivation": "Sha Tie, leader of the Black Demon Group, is a Half-Step Dou Ling.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-shan",
+      "name": "Bai Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hu-jia",
+      "name": "Hu Jia",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "sha-tie",
+      "name": "Sha Tie",
+      "realm": "Half-Step Dou Ling",
+      "quote": "The leader of that group was a Half-Step Dou Ling.",
+      "first": true,
+      "card": 86.5
+    },
+    {
+      "id": "lin-ge",
+      "name": "Lin Ge",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 341.0
+    },
+    {
+      "id": "elder-lu",
+      "name": "Elder Lu",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 772.4
+    },
+    {
+      "id": "liu-mu",
+      "name": "Liu Mu",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 816.0
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-25s is a recap of EP78. 5.6: '(After parting ways with Mentored by Ms. Ruo Lin, Xiao Yu, and the others,)' is garbled; it means parting from Ruo Lin, Xiao Yu and the others.",
+    "The recap (14.5) says Vice Dean Hu Qian escorted them.",
+    "351.0 'Leng Bai is right' is said by Lin Ge's team about a scout; Leng Bai's name card comes later, at the end of EP80 (1031.1).",
+    "386.8 'They're about the level of Two-Star Dou Shis' is Lin Ge's wrong guess about the newcomers, not a stated realm.",
+    "Sha Tie's Half-Step Dou Ling is Xiao Yan's estimate (142.6); EP82 has Sha Tie lose to Xiao Yan."
+  ]
+}

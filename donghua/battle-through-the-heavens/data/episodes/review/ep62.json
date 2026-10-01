@@ -1,0 +1,96 @@
+{
+  "ep": 62,
+  "title": "The Xiao Clan Attacked",
+  "summary": "Masked attackers storm the Xiao Clan in Wu Tan City and toy with Xiao Zhan, who keeps standing so his people can escape. In a tavern, Xiao Yan hears that his duel is the talk of the empire and that the Xiao Clan is in trouble. He rushes home, refusing Medusa's demand to stop for herbs. At the Misty Cloud Sect, Yun Yun tells Yun Shan she sensed a presence full of death on her way back. In Wu Tan City, Ao Ba Pa and the alchemist teacher of Liu Xi try to force the weakened Xiao Clan to sell its market. Xiao Yan arrives, and Medusa, given a Tomb Monster Needle Fruit for her help, drives them off. The First Elder of the Xiao Clan then admits that Xiao Zhan is missing.",
+  "events": [
+    "Masked attackers hunt Xiao Zhan; he holds out for an incense stick of time.",
+    "Xiao Yan hears in a tavern that 'Yan Xiao' and Xiao Yan are the same and that the Xiao Clan is in trouble.",
+    "He turns down Medusa's herb hunt and heads for Wu Tan City.",
+    "Yun Yun reports to Yun Shan about a presence of death; Yun Shan then speaks with a hidden figure.",
+    "Ao Ba Pa and Liu Xi's teacher (a Six-Star Da Dou Shi) try to take over the Xiao Clan's market.",
+    "Xiao Yan arrives; Medusa's appearance sends the enemies fleeing.",
+    "The First Elder apologises; Xiao Zhan is missing."
+  ],
+  "introduced": [
+    "Tomb Monster Needle Fruit",
+    "Snakemen Clan (Medusa's)",
+    "Liu Xi's teacher (alchemist)"
+  ],
+  "cultivation": "Liu Xi's teacher \"has the power of a Six-Star Da Dou Shi\".",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-zhan",
+      "name": "Xiao Zhan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-shan",
+      "name": "Yun Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ao-ba-pa",
+      "name": "Ao Ba Pa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-xis-teacher",
+      "name": "Liu Xi's teacher",
+      "realm": "Six-Star Da Dou Shi",
+      "quote": "That alchemist has the power of a Six-Star Da Dou Shi!",
+      "first": true,
+      "card": 908.2
+    },
+    {
+      "id": "xiao-clan-first-elder",
+      "name": "Xiao Clan First Elder",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-99s is the end of EP61 (attack on the Xiao Clan begins) and is not counted; the card is at 99.9.",
+    "The end of this episode is at the start of ep63.en.srt (0-60s): the ancestral jade's Soul Light shows Xiao Zhan alive, and Medusa senses Yun Leng's residual energy.",
+    "The attackers are masked and unnamed in this episode; the EP62 recap and EP63 say it was Yun Leng (with Yun Lei and Yun Sheng).",
+    "760-782: an inner exchange ('I came across her on the way, so I teased her a little'; 'Looks like your mission went well'; 'his wits leave much to be desired') between Yun Shan and someone unseen; who says which line is unclear.",
+    "Liu Xi's teacher is unnamed; cast ids for him and the Xiao Clan First Elder are left as generic kebab names.",
+    "Ao Ba Pa was seen in EP2-3."
+  ]
+}

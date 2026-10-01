@@ -1,0 +1,88 @@
+{
+  "ep": 3,
+  "title": "Becoming a Dou Zhe Again",
+  "summary": "Xun Er meets Yao Lao over Liu Xi's body and warns him not to deceive Xiao Yan, and asks him to keep the night secret. Jia Lie Bi blames the Xiao Clan for Liu Xi's death and attacks the Xiao Residence while Xiao Yan is taking the Qi Gathering Pill to become a Dou Zhe, and Jia Lie Ao finds him mid-breakthrough. Xiao Yan breaks off to save his father, while Yao Lao, who says he was once betrayed by those close to him, argues against it. Jia Lie Bi turns on his own son for the clan's sake and nearly kills Xiao Zhan and Xiao Yan. Yao Lao holds him back while Xiao Yan completes the breakthrough to Dou Zhe and kills him with Octane Blast. Yao Lao, only a soul who wants a new body, then offers a red Di Class fire scroll or the black scroll of the Flame Mantra, which evolves by devouring Heavenly Flames. Xiao Yan picks the Flame Mantra, takes first place at the Jia Nan Academy enrolment with a year's leave, says goodbye to Xun Er and his father, and leaves Wu Tan City.",
+  "events": [
+    "Xun Er confronts Yao Lao and warns him not to deceive Xiao Yan.",
+    "Jia Lie Bi blames the Xiao Clan for Liu Xi's death and storms the Xiao Residence.",
+    "Xiao Yan takes the Qi Gathering Pill to condense his Dou Zhi Qi cyclone; Jia Lie Ao attacks him.",
+    "Xiao Yan and Yao Lao argue about family; Yao Lao admits he was betrayed by loved ones.",
+    "Jia Lie Bi sacrifices his son for the clan and nearly kills Xiao Zhan and Xiao Yan; Yao Lao blocks him.",
+    "Xiao Yan becomes a Dou Zhe and kills Jia Lie Bi with Octane Blast.",
+    "Yao Lao explains he is a soul and offers a Di Class fire scroll or the Flame Mantra; Xiao Yan chooses the Flame Mantra.",
+    "A month later Xiao Yan takes first place at the Jia Nan Academy enrolment, takes leave, and sets out with Yao Lao."
+  ],
+  "introduced": [
+    "Jia Nan Academy (subtitles: Jianan Academy)",
+    "Black Rock City (named in narration)",
+    "Fallen Heart Flame (14th, named in narration)",
+    "Xiao Residence",
+    "Furious Lion Roar",
+    "Dou Zhi Qi cyclone in the dantian",
+    "Flame Mantra (named)",
+    "Di Class technique (red scroll)",
+    "Rock Desert City (named only)",
+    "Xiao Ding and Xiao Li (mentioned as Xiao Yan's elder brothers)"
+  ],
+  "cultivation": "Xiao Yan condenses the cyclone of Dou Zhi Qi and becomes a Dou Zhe again. Xiao Zhan is a 6-star Da Dou Shi; Jia Lie Bi is at peak Da Dou Shi strength.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Zhe",
+      "quote": "You could actually condense  the cyclone of Dou Zhi Qi successfully.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-zhan",
+      "name": "Xiao Zhan",
+      "realm": "6-star Da Dou Shi",
+      "quote": "But he's merely a Six-Star Da Dou Shi",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-lie-bi",
+      "name": "Jia Lie Bi",
+      "realm": "peak Da Dou Shi",
+      "quote": "Given my father's peak strength as a Da Dou Shi.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-lie-ao",
+      "name": "Jia Lie Ao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "flags": [
+    "0-50s opening narration recaps EP2 and adds things not shown there: Yao Lao told Xiao Yan that Jianan Academy in Black Rock City has the Fallen Heart Flame (14th on the ranking), and Xiao Yan planned to leave.",
+    "Academy spelled 'Jianan Academy' here; REVIEW-NOTES canonical is Jia Nan Academy.",
+    "603-641: Jia Lie Ao begs 'Father, save me'; Jia Lie Bi says 'Ao... forgive me for doing this!' and attacks. What happens to Jia Lie Ao is not said; read as Jia Lie Bi striking through his own son (likely held as a hostage).",
+    "348.0 'Furious Lion Roar!' is shouted during the attack, probably Xiao Zhan's skill.",
+    "898-912: Xun Er is scolded by someone for luring Yao Lao away; 'it's the clan rule that we can't interfere in the matters of the Xiao Clan'. Speaker unnamed.",
+    "1180: first place at the Jianan Academy enrolment and a year-long leave happen in a one-month time skip."
+  ],
+  "changes": []
+}

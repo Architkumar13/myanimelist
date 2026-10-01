@@ -1,0 +1,72 @@
+{
+  "ep": 196,
+  "title": "Soul Battle with the Flame",
+  "summary": "The Three Thousand Burning Flame breaks the seal, and Xuan Yi calls for help from outside the city. Mu Gu had promised it freedom in exchange for joining the Hall of Souls, but the flame now refuses. Mu Gu summons three more Honorable Elders with a Spatial Jade Plate, and the four Dou Zun trap it with the Ten Thousand Ghost Devouring Spiritual Formation and their Life Soul Locks, then try to seize its newly formed essence flame. Xiao Yan asks Qiu Ling to hold off Mu Gu, and he grabs the flame himself and activates the dragon seal. The flame pulls him into its Spiritual Space, and they fight a soul battle. Xuan Kong Zi arrives and drives the Hall of Souls out. The chairpersons send everyone else out of the Star Region and try to stabilise it, as Xiao Yan cannot be pulled out safely during the soul battle.",
+  "events": [
+    "The seal fails, and Xuan Yi calls for help.",
+    "The flame breaks its deal with Mu Gu.",
+    "Mu Gu summons three Honorable Elders with a Spatial Jade Plate.",
+    "The four Dou Zun trap the flame with formations and Life Soul Locks.",
+    "The flame releases its essence flame and fights back.",
+    "Xiao Yan activates the dragon seal and starts a soul battle with the flame.",
+    "Xuan Kong Zi arrives and the Hall of Souls retreats.",
+    "The chairpersons stabilise the Star Region while Xiao Yan stays inside."
+  ],
+  "introduced": [
+    "Spatial Jade Plate",
+    "Ten Thousand Ghost Devouring Spiritual Formation",
+    "Ten Thousand Soul Heavenly Lock",
+    "Life Soul Lock",
+    "essence flame",
+    "Spiritual Space",
+    "soul battle"
+  ],
+  "cultivation": "The four Hall of Souls Honorable Elders are called 'the four Dou Zun' (206s).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "three-thousand-burning-flame",
+      "name": "Three Thousand Burning Flame",
+      "first": false
+    },
+    {
+      "id": "mu-gu",
+      "name": "Mu Gu",
+      "first": false
+    },
+    {
+      "id": "qiu-ling",
+      "name": "Qiu Ling",
+      "first": false
+    },
+    {
+      "id": "xuan-kong-zi",
+      "name": "Xuan Kong Zi",
+      "first": false
+    },
+    {
+      "id": "xuan-yi",
+      "name": "Xuan Yi",
+      "first": false
+    },
+    {
+      "id": "tian-lei-zi",
+      "name": "Tian Lei Zi",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "16-54s recap of EP195. 39s says Mu Gu 'defended the Star Region's seal using the three great heads', which reads garbled (he tied them down holding the seal).",
+    "176-198s: the three other Honorable Elders are not named.",
+    "534-540s: 'Leaven the rest' is a typo for 'Leave the rest'; Xiao Yan says it and brings out a puppet.",
+    "732-740s: a Hall of Souls elder plans to take both Xiao Yan and the flame during the soul battle; not named.",
+    "807s: someone calls Xuan Kong Zi 'Master' (likely Cao Ying).",
+    "933s: the puppet guarding Xiao Yan treats Xuan Kong Zi as an enemy."
+  ]
+}

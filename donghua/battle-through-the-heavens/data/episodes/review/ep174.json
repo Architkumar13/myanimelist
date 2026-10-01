@@ -1,0 +1,73 @@
+{
+  "ep": 174,
+  "title": "The Ancient Phoenix Essence Blood",
+  "summary": "Feng Qing Er's search finds nothing, because Xiao Yan has hidden the Ancient Phoenix Essence Blood in his Heavenly Flame. She apologizes, and Lei Zun Zhe ends the feud but warns Xiao Yan never to teach the Three Thousand Lightning Movement. The heat has spread the rest of the essence blood through his body, so Xiao Yan tries to absorb it and nearly bursts. His Bone Wings, which are Heaven Demon Phoenix wings, take in the excess and grow stronger, and he lets out a phoenix cry with his dragon roar. Xiao Yan then brings out Han Feng's soul, who says Yao Lao is held in Ming City in the Western Region of the Central Plains. Feng Zun Zhe reveals that he and Yao Lao founded the Falling Star Pavilion, and he gives Xiao Yan a star jade to call for help. Xiao Yan sets off with Lin Yan for the Pill Tower's Pill Gathering, hoping to win the Three Thousand Burning Flame.",
+  "events": [
+    "The art of search fails, and Feng Qing Er apologizes to Xiao Yan.",
+    "Lei Zun Zhe ends the feud, and Feng Qing Er tells her tribe about the essence blood.",
+    "Xiao Yan collapses; the essence blood has spread through his body.",
+    "His Bone Wings absorb the excess energy and grow stronger.",
+    "Han Feng's soul names Ming City as Yao Lao's prison and claims only one Honorable Elder guards it.",
+    "Feng Zun Zhe says he and Yao Lao founded the Falling Star Pavilion and gives Xiao Yan a star jade.",
+    "Xiao Yan and Lin Yan leave for the Pill City."
+  ],
+  "introduced": [
+    "Heaven Demon Phoenix Wings",
+    "Yin-Yang Mysterious Dragon Pill",
+    "Yao Zun Zhe",
+    "star jade",
+    "Pill City"
+  ],
+  "cultivation": "Xiao Yan fully absorbs the Ancient Phoenix Essence Blood; his Bone Wings grow stronger. No new realm is stated.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "feng-qing-er",
+      "name": "Feng Qing Er",
+      "first": false
+    },
+    {
+      "id": "lei-zun-zhe",
+      "name": "Lei Zun Zhe",
+      "first": false
+    },
+    {
+      "id": "feng-zun-zhe",
+      "name": "Feng Zun Zhe",
+      "first": false
+    },
+    {
+      "id": "mu-qing-luan",
+      "name": "Mu Qing Luan",
+      "first": false,
+      "card": 669
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "first": false,
+      "card": 662
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Opening narration 15-55s is a recap of EP173.",
+    "300s: the essence blood is called Dou Zun-class; only a Dou Zun with the tribe's bloodline can refine it. Who says this is not named; it fits Feng Zun Zhe.",
+    "322s: 'more than three drops' of essence blood; how Xiao Yan got it is not said here.",
+    "776-789s: Han Feng says one Honorable Elder guards Ming City; Feng Zun Zhe says a chapter has at least two. EP161 said the Ming City branch is run by a Dou Zun elder.",
+    "834s: Yao Lao is called 'Yao Zun Zhe', chief of the Falling Star Pavilion.",
+    "1055-1107s looks like a preview of later episodes (Burning Flame Valley, the third change, Ice River Valley, Woeful Poison Body); not counted.",
+    "1111s: a season title card '[Battle Through the Heavens] / [The Battle in the Central Plains]'. 1125-1134s, repeated at 1265-1274s, a 'Young lady' (fits Xun Er) hears Xiao Yan is in the Northern Region and leaves the Gu Realm; it reads as a teaser and is not counted.",
+    "1022s: '(I hope they arrive in the Pill City safely.)' Speaker not named."
+  ]
+}

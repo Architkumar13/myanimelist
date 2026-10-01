@@ -1,0 +1,93 @@
+{
+  "ep": 81,
+  "title": "Bai Shan Walks Away",
+  "summary": "The new students fight Su Xiao's and Xiu Yan's teams together in the forest. Xiao Yan beats Su Xiao with the Lion Tiger Gold Shattering Roar and the Octane Blast, and Xiu Yan gives up and hands over his Fire Crystal Card. Two watching elders praise Xiao Yan and plan to have Hu Qian send over his record. Then Sha Tie's Black Demon Group arrives to take all the Fire Energy. Sha Tie knows Bai Shan's cousin Bai Cheng and lets Bai Shan leave, and Bai Shan walks out on the team. Xiao Yan takes on Sha Tie himself, while Xun Er, Wu Hao and Hu Jia hold off the others. Sha Tie's Gold Dou Qi gives him strong attack and defense, and Xiao Yan's first blows do not break him.",
+  "events": [
+    "Xiao Yan assigns opponents: he, Wu Hao and Bai Shan take the three strongest seniors; Xun Er and Hu Jia help the new students.",
+    "Xiao Yan beats Su Xiao with the Lion Tiger Gold Shattering Roar, Dou Qi Armor and Octane Blast.",
+    "Xiao Yan stops a new student hitting a senior who has conceded and gives the senior pills.",
+    "Xiu Yan concedes and hands over the Fire Crystal Card; watching elders praise Xiao Yan.",
+    "Sha Tie's Black Demon Group arrives; Bai Shan leaves the team.",
+    "Xiao Yan faces Sha Tie, whose Gold Dou Qi resists his attacks."
+  ],
+  "introduced": [
+    "Bai Cheng (named; Bai Shan's cousin)",
+    "Gold Dou Qi"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-shan",
+      "name": "Bai Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hu-jia",
+      "name": "Hu Jia",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "su-xiao",
+      "name": "Su Xiao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiu-yan",
+      "name": "Xiu Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "sha-tie",
+      "name": "Sha Tie",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-30s is a recap of EP80.",
+    "The two elders talking at 449-484 are not named; one plans to 'have Hu Qian send over Xiao Yan's information'.",
+    "390-412: who attacked the senior who had conceded is not named; the senior says 'Tell your companion I will get him back for that.'",
+    "Bai Cheng is only named here (Sha Tie's friend, Bai Shan's cousin); he appears in EP84.",
+    "The episode ends mid-fight with Sha Tie (1012.9); the fight continues in EP82."
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "ep": 35,
+  "title": "A Toast Before the Capital",
+  "summary": "Xiao Ding and Xiao Li find Xiao Yan drinking alone, share their own stories of failure so he stops blaming himself, and swear to make the Misty Cloud Sect pay if he does not come back from the Three-year Agreement; he gives them a Xuan Class Medium Rank Technique with Xuan Class Advanced Dou Skills. At the Misty Cloud Sect, Nalan Yanran trains with the Wind Spirit Fractal Sword, and Yun Yun leaves for a few days after hearing that the Searing Poison in Nalan Yanran's grandfather is getting worse, promising to ask Gu He for help. Xiao Yan and Hai Bodong leave the Desert Metal Mercenary Company, while Xiao Zhan sets out for the capital with his guards. On a Flying Beast, young alchemists tell Xiao Yan about the Alchemist Conference, which Jia Ma Empire alchemists have won seven times running. At Jianan Academy, Xun Er hears that Xiao Yan fused two Heavenly Flames and killed a Dou Huang-level enemy, and that his companion is Hai Bodong, the Ice Emperor. In the capital, Xiao Yan and Hai Bodong reach the Mite'er Auction House headquarters, and Ya Fei steps in when the doorman tries to throw Xiao Yan out.",
+  "events": [
+    "Xiao Ding and Xiao Li drink with Xiao Yan and lift his spirits.",
+    "Xiao Yan gives them a Xuan Class Medium Rank Technique and Xuan Class Advanced Dou Skills.",
+    "Nalan Yanran defeats a Cloud Mist Beast with the Wind Spirit Fractal Sword.",
+    "Yun Yun leaves the sect and promises to ask Gu He to treat Old Master Nalan's Searing Poison.",
+    "Xiao Zhan and the Xiao Clan guards set off for the capital.",
+    "Fellow travellers tell Xiao Yan, a second-tier alchemist, about the Alchemist Conference and the Chu Yun Empire's entrants.",
+    "Xun Er, at Jianan Academy, is briefed on Xiao Yan, Hai Bodong and Yun Zhi.",
+    "At the Mite'er Auction House headquarters a doorman scorns Xiao Yan's 200,000 gold coins, and Ya Fei arrives."
+  ],
+  "introduced": [
+    "Searing Poison",
+    "Wind Spirit Fractal Sword",
+    "Cloud Mist Beast",
+    "Alchemist Conference",
+    "Chu Yun Empire",
+    "Butler Xiao",
+    "Xuan Class Medium Rank Technique",
+    "Flying Beast",
+    "technique tiers: Tian, Di, Xuan, Huang",
+    "Ya Fei"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-zhan",
+      "name": "Xiao Zhan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 621.3
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 835.8
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-24s is the end of EP34; the [Episode 35] card is at 48.",
+    "The last part of this episode is at the start of ep36.en.srt (0-165s, before the [Episode 36] card): arrival at the Mite'er Auction House and meeting Ya Fei; EP36 replays the reunion after its card.",
+    "Ya Fei's name card is at ep36.en.srt 154.7. The EP32 file ends with a '[Ya Fei] [A new character in Season Four]' teaser card (1333). Earlier meetings in Wu Tan City are referred to but she is not named in the official tracks for EP1-31.",
+    "827-932: the attendant who briefs Xun Er and calls her 'Young Lady' is not named.",
+    "847: Xun Er's informant says Xiao Yan 'killed a man who was as powerful as a Dou Huang' (Mo Cheng).",
+    "771: 'For the past seven contests all the winning alchemists are from Jia Ma Empire'."
+  ]
+}

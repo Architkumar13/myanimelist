@@ -1,0 +1,59 @@
+{
+  "ep": 20,
+  "title": "Song of Desert",
+  "summary": "The masked Snakemen warrior attacks again, and Hai Bodong and the snakewoman run. On the run she tells him she wants to be free like a butterfly, and he tells her about his martial sister, whom he loved and who killed herself when the elders found out. They split up near Rock City; he gives her a ring and the name Tengshan in the Jia Ma capital, and she gives him her necklace. He finds the masked warrior and learns it is Medusa. The snakewoman remembers who she is: Medusa's identical twin, who should have fought her sister to the death for the throne and instead fled with a forbidden spatial spell. Medusa was crowned and ordered the traitor brought back. The episode closes with the sisters and Hai Bodong meeting in the desert.",
+  "events": [
+    "The masked warrior attacks again; Hai Bodong says finishing a job is his rule.",
+    "She talks of freedom and the free butterfly; he tells the story of his martial sister.",
+    "Medusa's people trace the traitor; the masked warrior kills the trader who hired Hai Bodong.",
+    "Hai Bodong and the snakewoman split up; he gives her a ring and tells her to find Tengshan; she gives him her necklace.",
+    "Hai Bodong fights the masked warrior and realises it is Medusa.",
+    "The snakewoman remembers she is Medusa's twin and that she fled the death duel with a forbidden spatial spell.",
+    "Medusa is crowned and vows to bring the traitor back."
+  ],
+  "introduced": [
+    "Medusa's twin sister",
+    "Tengshan (named, in the Jia Ma capital)",
+    "forbidden spatial spell",
+    "Free Butterfly",
+    "Rock City",
+    "Snakemen rule: one Medusa per generation, born from an egg"
+  ],
+  "cultivation": "Medusa is a Dou Huang ('It's impossible for the Snakemen tribe to have two Dou Huang warriors', 866.5).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "die",
+      "name": "Die",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": "Dou Huang",
+      "quote": "It's impossible for the Snakemen tribe to have two Dou Huang warriors.",
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-52s ('[Preview of the next episode]' at 49.5 and the [Episode 20] card at 52.5) is the end of EP19.",
+    "The end of this episode is in ep21.en.srt 0-223s, before the [Episode 21] card: the snakewoman tells Hai Bodong her name is Die (56.5, glossed 'butterfly'), dies, Medusa spares Hai Bodong, stops her people from killing him, and vows to abolish unreasonable tribal rules. Counted here.",
+    "216-225: 'I remember its name. It's Sha Ying ... I named it the Free Butterfly'. Unclear whether Sha Ying is the butterfly, a flower or herself; her own name is given later as Die.",
+    "The scene order is not straight; the coronation lines (1007-1039) repeat EP19's.",
+    "1240-1242: Hai Bodong says he 'will no longer be shackled'. Nothing here says Medusa seals his power; later episodes (EP29-30) say he was sealed from 5-star to 2-star Dou Huang.",
+    "0-49 and 106-120: who says 'I always finish what I've started ... Bringing the prey back to the employer is my rule' and 'I should've killed you last time' is unclear without the picture."
+  ]
+}

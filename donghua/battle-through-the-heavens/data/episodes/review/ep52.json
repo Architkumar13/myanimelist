@@ -1,0 +1,122 @@
+{
+  "ep": 52,
+  "title": "Champion of the Alchemist Conference",
+  "summary": "To make a Three Lines Green Spirit Pill, Xiao Yan calls up a third flame: the Bone Chilling Flame Yao Lao left in the ring. The square turns cold, and the crowd is stunned that he holds two Heavenly Flames. His cheap cauldron cannot take three flames and explodes. Remembering Yao Lao's lesson, he shapes the Bone Chilling Flame into a cauldron and refines without one. Yan Li sends his poison servants to disrupt him, but Yue Er, Liu Ling and the other contestants pool their Soul Power to shield him. Yan Li finishes a Purple Heart Barrier Breaking Pill, but Xiao Yan's Three Lines pill rates as a strong Fifth-Tier Pill and Fa Ma names him champion. Xiao Yan collapses, and the fleeing Yan Li is caught; he begs to be made a spy, and Hai Bodong refuses.",
+  "events": [
+    "Xiao Yan's Soul Power breakthrough steadies his refining.",
+    "He summons the Bone Chilling Flame, his second Heavenly Flame.",
+    "Yan Li calls his loyal servants to attack; Yao Ye's soldiers stand ready.",
+    "Xiao Yan's cauldron explodes; he refines inside the Bone Chilling Flame with no cauldron.",
+    "Yue Er, Liu Ling and the other young alchemists release Soul Power to protect him.",
+    "Yan Li completes a Purple Heart Barrier Breaking Pill (on par with Fifth-Tier).",
+    "Xiao Yan's Three Lines Green Spirit Pill wins; Fa Ma declares 'Yan Xiao' champion.",
+    "Xiao Yan faints; Yan Li is caught fleeing and begs to spy for Jia Ma; Hai Bodong refuses."
+  ],
+  "introduced": [
+    "Bone Chilling Flame (named in EP53)",
+    "Refining pills without a cauldron",
+    "Purple Heart Barrier Breaking Pill"
+  ],
+  "cultivation": "No realm change. Xiao Yan's Soul Power has broken through; Fa Ma: \"something that even some of the elders of our association won't be able to achieve.\"",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yan-li",
+      "name": "Yan Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yue-er",
+      "name": "Yue Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-ling",
+      "name": "Liu Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ye",
+      "name": "Yao Ye",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-zhan",
+      "name": "Xiao Zhan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-126s is the end of EP51 (Soul Power breakthrough, Fa Ma on the third flame) and is not counted; the card is at 126.0.",
+    "The end of this episode is at the start of ep53.en.srt (0-93s): Xiao Yan resting and thanking the sleeping Yao Lao for the Bone Chilling Flame.",
+    "The second flame is only called 'another Heavenly Flame' here (234.3); EP53 names it the Bone Chilling Flame left in the Black Ring.",
+    "392-415: Yao Lao's lesson about refining without a cauldron is a flashback.",
+    "Yan Li's fate is not shown: the scene ends with Hai Bodong refusing to spare him (1115.0).",
+    "604-628: the people protecting Xiao Yan include Yue Er ('Right, Liu?') and Liu Ling; others are unnamed.",
+    "Ending-song lyrics run over the result scenes (893-1026); ignored."
+  ]
+}

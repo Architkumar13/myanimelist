@@ -1,0 +1,85 @@
+{
+  "ep": 32,
+  "title": "The Angry Buddha Lotus Flame",
+  "summary": "Lu Man of the Sky Serpent Mansion slips into the Isolation Shield and takes Qing Lin, whom she calls the Reincarnated Holy Lady. Xiao Yan and Hai Bodong chase and fight her until the monster Mo Cheng attacks, and Lu Man shields Qing Lin. Part of Qing Lin's soul has been drawn out, and Lu Man says only her mansion's Holy Pond can mend it. Xiao Yan lets Lu Man take her and warns that the mansion will pay if she is hurt. Mo Cheng is now growing toward the strength of the strongest Dou Huang, and the Green Lotus Core Flame cannot catch him. Against Yao Lao's warning, Xiao Yan fuses two Heavenly Flames into a new skill he names the Angry Buddha Lotus Flame and blasts Mo Cheng with it. The effort uses up Yao Lao's Soul Power, and Yao Lao falls into a deep sleep, leaving Xiao Yan on his own.",
+  "events": [
+    "Lu Man takes Qing Lin out of Mo Cheng's Isolation Shield.",
+    "Xiao Yan and Hai Bodong fight Lu Man to get Qing Lin back.",
+    "Mo Cheng attacks Qing Lin; Lu Man protects her as the Holy Lady of the Sky Serpent Mansion.",
+    "Qing Lin has lost part of her soul; Xiao Yan lets Lu Man take her to the Holy Pond.",
+    "Xiao Yan and Hai Bodong fight the monster Mo Cheng with ice and the Green Lotus Core Flame.",
+    "Xiao Yan fuses two Heavenly Flames into the Angry Buddha Lotus Flame and strikes Mo Cheng.",
+    "Yao Lao's Soul Power runs out and he falls asleep; Xiao Yan blames himself."
+  ],
+  "introduced": [
+    "Lu Man",
+    "Sky Serpent Mansion",
+    "Reincarnated Holy Lady",
+    "Holy Pond (Sky Serpent Mansion)",
+    "Soul Shrine (item)",
+    "Fusion Technique (Mo Clan)",
+    "Angry Buddha Lotus Flame",
+    "fusion of two Heavenly Flames"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mo-cheng",
+      "name": "Mo Cheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lu-man",
+      "name": "Lu Man",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 69.7
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-156s is the end of EP31 (Lu Man takes Qing Lin from the shield); the [Episode 32] card is at 156.6.",
+    "84.2: Lu Man says 'So, it's an item from the Soul Shrine' about the Isolation Shield. 'Soul Shrine' may be the Hall of Souls; kept as written.",
+    "856-940: the two Heavenly Flames fused are not named; Hai Bodong says Xiao Yan has 'two different types of Heavenly Flames' (728.3) - the Green Lotus Core Flame and Yao Lao's Bone Chilling Flame. EP33's recap says he 'made use of Yao Lao's power'.",
+    "Mo Cheng's death is not stated in this file; EP33's recap says the flame destroyed him completely.",
+    "The Yao Lao sleep scene (1139-1275) is repeated at the start of ep33.en.srt (0-136s).",
+    "1333.2: caption '[Ya Fei] [A new character in Season Four]' is a teaser; Ya Fei is not on screen in this episode."
+  ]
+}

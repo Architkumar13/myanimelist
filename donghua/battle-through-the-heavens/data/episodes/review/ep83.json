@@ -1,0 +1,120 @@
+{
+  "ep": 83,
+  "title": "The Heart Flame Scorching Test",
+  "summary": "The new students reach their quarters in the Inner Academy, where an elder explains there are no classes, only training in the Blazing Sky Qi Refining Tower paid with Fire Energy. Yao Lao tells Xiao Yan he feels an unusual aura in the north, and Xiao Yan follows the crowd to the tower, which is buried in magma. Inside, an invisible flame gets past his Green Lotus Core Flame into his body. Yao Lao identifies it as a projected form of the Fallen Heart Flame and has him use it to condense his Dou Qi. Han Yue, leader of the Moon Spirit, sends for Elder Liu, who guards the first level. Xiao Yan wakes from the Heart Flame Scorching Test by himself after almost eighteen minutes, the first to do so in years. Meanwhile Fu Ao of the White Gang, with Bai Shan now on his side, comes to the new students' area to demand tribute.",
+  "events": [
+    "An elder shows the new students their residence and explains the Inner Academy has no courses.",
+    "Yao Lao senses an unusual aura in the north part of the Inner Academy.",
+    "Xiao Yan enters the Blazing Sky Qi Refining Tower; an invisible flame enters his body.",
+    "Yao Lao names it a projected form of the Fallen Heart Flame; Xiao Yan uses it to purify his Dou Qi.",
+    "Han Yue sends for help; Fu Ao and Bai Shan demand tribute for the White Gang from the new students.",
+    "Elder Liu arrives; Han Yue says she lasted seventeen minutes in her first test.",
+    "Xiao Yan wakes by himself; an unknown force bursts out and Elder Liu clears the room.",
+    "Elder Liu introduces Han Yue and explains the tower's cultivation rooms."
+  ],
+  "introduced": [
+    "Heart Flame Scorching Test",
+    "Fallen Heart Flame (projected form)",
+    "Han Yue",
+    "Moon Spirit",
+    "White Gang",
+    "Fu Ao",
+    "tribute",
+    "Elder Liu",
+    "tower levels and High-level and Low-level cultivation rooms"
+  ],
+  "cultivation": "Six-star Dou Ling is the minimum to go down to the tower's sixth level, where Han Yue plans to train.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hu-jia",
+      "name": "Hu Jia",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-shan",
+      "name": "Bai Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "heaven-swallowing-python",
+      "name": "Seven-Colored Heaven Swallowing Python",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "han-yue",
+      "name": "Han Yue",
+      "realm": null,
+      "quote": "Level six? That requires at least a six-star Dou Ling to go down.",
+      "first": true,
+      "card": 495.1
+    },
+    {
+      "id": "fu-ao",
+      "name": "Fu Ao",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 530.4
+    },
+    {
+      "id": "elder-liu",
+      "name": "Elder Liu",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 595.5
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-31s is a recap of EP82.",
+    "Han Yue's realm is not stated directly; she plans to train on the sixth level, which 'requires at least a six-star Dou Ling' (606.2).",
+    "166.7 'Here you go, little one.' is Xiao Yan feeding the python (not named in this episode).",
+    "The subtitles write both 'Blazing Sky Qi Refining Tower' and, from EP84, 'Blazing Qi Refining Tower'.",
+    "704-740: something bursts out ('Come out!', 'Everyone, leave!') and Elder Liu thinks 'You're truly heaven's favored one'. EP84 shows it was the Fallen Heart Flame's true form.",
+    "550-560: Bai Shan asks Xun Er and Hu Jia to join the White Gang because 'my cousin will look out for us' (Bai Cheng).",
+    "916.8 '[Battle Through the Heavens] / [Fallen Heart Flame]' at the end is a title caption, not dialogue."
+  ]
+}

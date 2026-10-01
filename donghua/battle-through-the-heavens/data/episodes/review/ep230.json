@@ -1,0 +1,77 @@
+{
+  "ep": 230,
+  "title": "The Spatial Trade Fair",
+  "summary": "Back at the Falling Star Pavilion, Xiao Yan brings Xiao Xiao to Yao Lao. Yao Lao finds she has a rare wood and fire affinity and takes over her training. Yao Lao shows a map of cities the Hall of Souls controls, and they leave for the spatial trade fair, where the last fragment of the Purifying Demonic Lotus Flame map will be sold. At a street stall, Xiao Yan trades two Eighth-Tier Pills for a Seven-colored Origin Stone, which turns out to be eight-colored and helps Medusa's cultivation. In the auction run by Old Bao Shan of Reflecting Treasure Mountain, Xiao Yan buys the Sky Quiet Poison Code for Little Fairy Doctor. Yao Lao wins the map fragment with a nine-colored thundercloud pill. The last lot is free news: the Bodhisattva Ancient Tree has been seen in the Ancient Wasteland Region.",
+  "events": [
+    "Xiao Yan introduces Xiao Xiao to Yao Lao, who takes over her training.",
+    "Yao Lao shows the cities under Hall of Souls control and plans for the spatial trade fair.",
+    "Xiao Yan tells Medusa he will protect everyone; she says she will grow stronger too.",
+    "At the fair, Xiao Yan buys a Seven-colored Origin Stone that proves to be eight-colored.",
+    "Old Bao Shan opens the auction; Heaven Demon Phoenix Wings and the King Kong Glass Body are sold.",
+    "Xiao Yan buys the Sky Quiet Poison Code for two five-colored thundercloud Eighth-Tier Pills.",
+    "Yao Lao wins the last map fragment with a nine-colored thundercloud pill.",
+    "Old Bao Shan reveals the Bodhisattva Ancient Tree has been seen in the Ancient Wasteland Region; someone greets Yao Lao as an old friend."
+  ],
+  "introduced": [
+    "spatial trade fair",
+    "Ground Line Gate",
+    "Mysterious Space Sect",
+    "Reflecting Treasure Mountain",
+    "Old Bao Shan",
+    "Seven-colored Origin Stone",
+    "Nine-Colored Heaven Swallowing Python",
+    "Heaven Demon Phoenix Wings",
+    "King Kong Glass Body",
+    "Sky Quiet Poison Code",
+    "Great Mysterious Skill",
+    "Body Transformation Pill",
+    "Ten-Thousand-Year-Old Bloody Spiritual Ginseng",
+    "Bodhisattva Ancient Tree (Wisdom Reincarnation Tree)",
+    "Ancient Wasteland Region"
+  ],
+  "cultivation": "Old Bao Shan is a peak Ninth Turn Dou Zun, one step from Ban Sheng. Xiao Xiao has a dual wood and fire affinity. Every presence at the fair is at least a Three-Star Dou Zun.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "xiao-xiao",
+      "name": "Xiao Xiao",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "old-bao-shan",
+      "name": "Old Bao Shan",
+      "realm": "peak Ninth Turn Dou Zun",
+      "quote": "He's a peak Ninth Turn Dou Zun.",
+      "first": true,
+      "card": 727.4
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The subtitles call Medusa 'Cai Lin' throughout; the canonical name Medusa is used.",
+    "846s: 'Thank you, Xiao Yan' after the Sky Quiet Poison Code is bought; taken as Little Fairy Doctor (the poison code suits her Woeful Poison Body). She is not named in this file.",
+    "622s: the stone is 'only an eight-colored one'; the stall owner sold it as seven-colored.",
+    "907s: the rival bidder 'is nearly at Ban Sheng's realm'; not named. 1070s: 'We meet again, old friend' is the cliffhanger; EP231 shows it is Di Xie Zi and Tian Xie Zi.",
+    "Xiao Xiao's grandmaster at 49s is Yao Lao (Xiao Xiao calls him grandmaster; Medusa thanks 'Elder Yao Lao')."
+  ]
+}

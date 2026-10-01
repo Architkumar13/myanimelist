@@ -1,0 +1,99 @@
+{
+  "ep": 24,
+  "title": "The Toxic Lake",
+  "summary": "Xiao Yan falls through the floor into a strange space under the altar where flying is banned, and the Sea's Core Vest that Yun Zhi gave him saves him from the fall. Above, Mo Ba Si, leader of the Mo Snake Tribe, arrives with reinforcements and fights Gu He's group. Gu He senses the flame's scent from four places and leads his group toward the weakest. Xiao Yan and Yao Lao cross a highly toxic lake under the Bone Chilling Flame to an island, but the Green Lotus Core Flame there is a fake. Following the real scent, Xiao Yan finds Queen Medusa in her true snake form about to swallow the Heavenly Flame. Yao Lao explains she risks death to become a Dou Zong and lead her people back to their homeland. Xiao Yan sees himself in her, and waits for her weakest moment to strike.",
+  "events": [
+    "Xiao Yan's Purple Cloud Wings fail under a flight ban; the Sea's Core Vest saves him.",
+    "Snake guards attack Gu He's group; Mo Ba Si of the Mo Snake Tribe arrives.",
+    "Gu He senses four flame scents and heads for the weakest one with Ms. Yun.",
+    "Xiao Yan crosses a toxic lake inside the Bone Chilling Flame; the flame on the island is a fake.",
+    "Xiao Yan follows the real scent and finds Medusa, who sees him but lets him be.",
+    "Medusa takes her original form and starts to swallow the Heavenly Flame.",
+    "Yao Lao explains the Snakemen's exile and Medusa's wish to lead them home; Xiao Yan waits to strike."
+  ],
+  "introduced": [
+    "flight ban",
+    "Sea's Core Vest",
+    "Mo Ba Si",
+    "Mo Snake Tribe",
+    "toxic lake",
+    "Snakemen's original form (snake beast soul merged at birth)",
+    "Snakemen exile in the desert"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "gu-he",
+      "name": "Gu He",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yan-shi",
+      "name": "Yan Shi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "feng-li",
+      "name": "Feng Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mo-ba-si",
+      "name": "Mo Ba Si",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 357.2
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-106s is the end of EP23; the [Episode 24] card is at 106.6.",
+    "227.9: Yao Lao says the Sea's Core Vest was a gift from 'Yun Zhi'; EP27 391 says the same. The gift was in an earlier season.",
+    "556-588: it is not fully clear who first reaches the fake flame on the island; Xiao Yan and Yao Lao react to it ('We've been tricked'), while Gu He was also heading to the weakest scent.",
+    "633-676: a short battle with a Dou Huang arriving and 'It's him?' is hard to follow without the picture.",
+    "File ep25.en.srt 0-68s (before the [Episode 25] card) is the end of this episode: Xiao Yan's thoughts while watching Medusa."
+  ]
+}

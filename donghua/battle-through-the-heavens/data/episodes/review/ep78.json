@@ -1,0 +1,101 @@
+{
+  "ep": 78,
+  "title": "The Book Collection Hall",
+  "summary": "Inside the Book Collection Hall, the top five may each take one reward from the energy barriers before the flames on a rune go out. Xiao Yan grabs the Di Class Nine Layer Phoenix Flame Skill and gives it to Xun Er, who needs it for her advancement. He uses Soul Perception to hunt for a Sonic Dou Skill and finds a sonic wave just as time runs out. Xun Er helps him pull it out at the last moment, and it is the Lion Tiger Gold Shattering Roar. A hall elder tells him he has grasped only its first stage, 30 to 40 percent of its power. Vice Dean Hu Qian then leads the five through the dangerous mountains behind the academy to Elder Zhao and Elder Lu of the Inner Academy. Elder Zhao gives each a crystal card and starts the Fire Energy Hunting Competition, where seniors hunt the newcomers for the Fire Energy in their cards.",
+  "events": [
+    "A voice explains the hall's rules: one item each, taken only from the energy layer, within the time limit.",
+    "Rewards appear, including the Xuan Class Purple Lightning Burst and a Rank Six Magical Beast Core.",
+    "Xiao Yan takes the Nine Layer Phoenix Flame Skill (Di Class Middle Rank) and gives it to Xun Er.",
+    "Xiao Yan senses a sonic wave with Soul Perception; with Xun Er's help he retrieves the Lion Tiger Gold Shattering Roar.",
+    "He practises it in the hall and learns its first stage.",
+    "Hu Qian advises the five to put aside their quarrels and leads them to the Inner Academy.",
+    "Elder Zhao and Elder Lu meet them and announce the Fire Energy Hunting Competition."
+  ],
+  "introduced": [
+    "Purple Lightning Burst (Xuan Class High Rank)",
+    "Nine Layer Phoenix Flame Skill (Di Class Middle Rank)",
+    "Rank Six Magical Beast Core",
+    "Lion Tiger Gold Shattering Roar (Sonic Dou Skill)",
+    "Elder Zhao",
+    "Elder Lu",
+    "crystal card",
+    "Fire Energy",
+    "Fire Energy Hunting Competition"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-shan",
+      "name": "Bai Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hu-jia",
+      "name": "Hu Jia",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hu-qian",
+      "name": "Hu Qian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "elder-zhao",
+      "name": "Elder Zhao",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 920.6
+    },
+    {
+      "id": "elder-lu",
+      "name": "Elder Lu",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-31s is a recap of EP77.",
+    "258.0 'Sorry. I found it first.' and 306.2 'Sorry to disappoint you.' have no speaker tag; it reads as Xiao Yan beating another top-five student (likely Bai Shan) to the Nine Layer Phoenix Flame Skill.",
+    "646-668: the man who comments on the Lion Tiger Gold Shattering Roar ('use the silent state to fuse the tiger's roar') is not named; read as the elder guarding the hall.",
+    "Who takes which other reward is not shown.",
+    "Elder Lu is named at 936.9; his own name card is in EP79 (772.4)."
+  ]
+}

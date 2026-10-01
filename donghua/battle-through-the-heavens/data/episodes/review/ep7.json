@@ -1,0 +1,66 @@
+{
+  "ep": 7,
+  "title": "Parting with Yun Zhi",
+  "summary": "Xiao Yan drives off two low-ranked beasts and comes back hurt, and Yun Zhi apologises and cooks him grilled fish. She seasons it with a powder that turns out to be an aphrodisiac Xiao Yan made by accident. Yao Lao teaches him how to break its effect by massaging her acupuncture points with Dou Qi, and Yun Zhi tells him to forget what happened. When the Purple Crystal Winged Lion King finds her again, Yao Lao sends Xiao Yan to its cave. There he finds the Purple Spirit Crystal and, with a Purple Smoke Fruit and a laxative for the young lion, the Amethyst Essence, which he gathers in a jade bottle. A few drops give him great speed, and he runs back to help Yun Zhi, and they face the Lion King with Flame Splitting Tsunami and Wind's Peak, Killer Meteorite. Afterwards Yun Zhi is gone, leaving him a personal gift, and Xiao Yan finds he is now a Nine-Star Dou Zhe.",
+  "events": [
+    "Xiao Yan fights off two beasts drawn by Yun Zhi's tracks.",
+    "Yun Zhi's grilled fish contains Xiao Yan's accidental aphrodisiac.",
+    "Yao Lao shows him how to break the effect with Dou Qi acupuncture massage; Yun Zhi asks him to forget it.",
+    "The Lion King finds Yun Zhi; Xiao Yan raids its cave for the Purple Spirit Crystal.",
+    "He tricks the young lion with a Purple Smoke Fruit and a laxative and collects the Amethyst Essence.",
+    "A few drops of the Essence give him great speed; he rushes to help Yun Zhi.",
+    "Xiao Yan uses Flame Splitting Tsunami and Yun Zhi uses Wind's Peak, Killer Meteorite against the Lion King.",
+    "Yun Zhi leaves him a gift and goes; Xiao Yan is a Nine-Star Dou Zhe."
+  ],
+  "introduced": [
+    "Purple Smoke Fruit",
+    "juvenile Purple Crystal Winged Lion King (Rank Three)",
+    "jade bottle",
+    "aphrodisiac (Xiao Yan's accidental mixture)"
+  ],
+  "cultivation": "Xiao Yan says he has gone up two ranks to 9-star Dou Zhe (1256.2).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "9-star Dou Zhe",
+      "quote": "I've leveled up by two ranks. / I think I'm a Nine-Star Dou Zhe now",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "purple-crystal-winged-lion-king",
+      "name": "Purple Crystal Winged Lion King",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "flags": [
+    "This file opens with an '[Episode 8] [Parting]' card at 0.0 but sits between ep6 and ep8 in the upload; ep8.en.srt opens with '[Episode 6] [Forward]'. The cards look mislabelled; the site number here is EP7.",
+    "Song lyrics run through 221-378 and are not events.",
+    "243.5 '(There goes my first kiss.)' is an inner line during the aphrodisiac scene; whose thought it is and what exactly happens is unclear.",
+    "633-643 and 1036-1046 repeat earlier lines as flashbacks.",
+    "'I've leveled up by two ranks' to Nine-Star implies he was Seven-Star; EP4 had him at Six-Star. The step to Seven-Star is not shown.",
+    "1203-1265 (Yun Zhi gone, the gift, Nine-Star) is told again at more length at the start of ep8.en.srt."
+  ],
+  "changes": []
+}

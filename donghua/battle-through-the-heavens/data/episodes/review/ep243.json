@@ -1,0 +1,64 @@
+{
+  "ep": 243,
+  "title": "The Elder Selection",
+  "summary": "In the Small Pill Tower's elder selection, Old Demon Hou refines the Flame Demon Quiet Mysterious Pill by the book, while Xiao Yan uses his fused Heavenly Flames as a cauldron and doubles the herbs of the Bodhisattva Pill. Old Demon Hou, who still resents Yao Lao for winning the Pill Gathering with shortcuts, draws a nine-colored thundercloud. Xiao Yan refines each herb separately, then forms the pill with fire and holds it in a fire dragon. His pill draws the Black Demon Lightning, and he takes it head-on as a One-Star Dou Sheng, with help from his Sky Demon Puppet. The pill takes human form, a Ninth-Tier Treasure Pill: the Great Bodhisattva Return Pill, which doubles the chance of breaking through to Ban Sheng. Grand Elder Lin declares Xiao Yan the winner and a new elder of the Small Pill Tower.",
+  "events": [
+    "Old Demon Hou and Xiao Yan start the elder selection in the Small Pill Tower.",
+    "Xiao Yan uses four fused Heavenly Flames as a cauldron and doubles the herbs.",
+    "Old Demon Hou refines the Flame Demon Quiet Mysterious Pill.",
+    "Old Demon Hou's pill draws a nine-colored thundercloud.",
+    "Xiao Yan forms his pill with a fire dragon, a rare technique.",
+    "His pill draws the Black Demon Lightning, which he takes head-on.",
+    "The Great Bodhisattva Return Pill, a Ninth-Tier Treasure Pill, takes human form.",
+    "Grand Elder Lin declares Xiao Yan the winner."
+  ],
+  "introduced": [
+    "Flame Demon Quiet Mysterious Pill",
+    "Great Bodhisattva Return Pill",
+    "Ninth-Tier Treasure Pill",
+    "Black Demon Lightning",
+    "Pill Lightning",
+    "Hou Qing (Old Demon Hou's name)"
+  ],
+  "cultivation": "Xiao Yan is an early-stage One-Star Dou Sheng.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "1-star Dou Sheng",
+      "quote": "Xiao Yan possesses the power of an early-stage One-Star Dou Sheng.",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "old-demon-hou",
+      "name": "Old Demon Hou",
+      "first": false
+    },
+    {
+      "id": "grand-elder-lin",
+      "name": "Grand Elder Lin",
+      "first": false
+    },
+    {
+      "id": "xuan-kong-zi",
+      "name": "Xuan Kong Zi",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-41s is a recap of EP242.",
+    "564s: 'Hou Qing has a good chance' - taken as Old Demon Hou's name.",
+    "220s: 'Four Heavenly Flames! And he's merged them.'",
+    "294s: Yao Lao left Xiao Yan two low-grade Ninth-Tier prescriptions; Xiao Yan used neither.",
+    "876s: 'Sky Demon Puppet, hold it!' - Xiao Yan's puppet.",
+    "Xuan Kong Zi is listed as a likely onlooker (the Pill Tower heads watch); he is not named in this file.",
+    "1123s: what Yao Lao said to Old Demon Hou is not shown."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "ep": 180,
+  "title": "The Sky Poison Dragon Scorpion Beast",
+  "summary": "In the Sky Scorpion Region of the Fallen God Stream, the Rank Seven Sky Poison Dragon Scorpion Beast demands that the Little Fairy Doctor become his woman. She demands his Demon Core instead, and the fight begins. The beast, of the Scorpion Dragon Tribe with Void Ancient Dragon blood, sends a swarm of poison beasts at them and uses Scorpion Dragon Swallowing The Heaven. Tian Huo Zun Zhe holds it while Xiao Yan prepares, and the Little Fairy Doctor breaks one of its horns. Xiao Yan kills it with the Angry Buddha Lotus Flame. On the Little Fairy Doctor's advice, he first refines the Yin Yang Life Soul Pill to give Tian Huo Zun Zhe a body, hoping a Dou Zun can face the Ice River Valley. The seventh-tier pill's Pill Lightning fades in the poison fog, but Tian She and the Ice River pursuers notice it.",
+  "events": [
+    "The beast courts the Little Fairy Doctor and attacks Tian Huo Zun Zhe.",
+    "Poison beasts of the Fallen God Stream swarm the group.",
+    "The Little Fairy Doctor's Eroding Poison Demon Hand breaks the beast's horn.",
+    "The beast uses Scorpion Dragon Swallowing The Heaven.",
+    "Xiao Yan kills it with the Angry Buddha Lotus Flame.",
+    "The group decides to rebuild Tian Huo Zun Zhe's body first.",
+    "Xiao Yan refines the Yin Yang Life Soul Pill; its Pill Lightning vanishes.",
+    "Tian She's party closes in."
+  ],
+  "introduced": [
+    "Sky Scorpion Region",
+    "Scorpion Dragon Tribe",
+    "Scorpion Dragon Swallowing The Heaven"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "sky-poison-dragon-scorpion-beast",
+      "name": "Sky Poison Dragon Scorpion Beast",
+      "first": true,
+      "card": 63
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "tian-she",
+      "name": "Tian She",
+      "first": false,
+      "card": 968
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Opening narration 15-50s is a recap of EP179; 28s spells Xiao Yan 'Xian Yan'.",
+    "38s: the recap names Elder Tian She as the Ice River Valley's strongest Dou Zong.",
+    "256-260s: the beast is 'a Magical Beast whose bloodline is Void Ancient Dragons', not a true Void Ancient Dragon.",
+    "325s: 'Eroding Poison Demon Hand!' is taken as the Little Fairy Doctor's move (she used it in EP151).",
+    "919-935s: the body chosen for Tian Huo Zun Zhe 'doesn't look righteous'; whose body it is is not said.",
+    "699-703s: with a body he 'shouldn't have any problem turning into a Dou Zun'."
+  ]
+}

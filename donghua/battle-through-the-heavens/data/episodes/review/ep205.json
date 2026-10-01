@@ -1,0 +1,73 @@
+{
+ "ep": 205,
+ "title": "The Dragon-Phoenix Origin Fruit",
+ "summary": "Zi Yan follows the call to a Beast Spiritual Barrier in the centre of the ancient forest and breaks into it. Inside lie the remains of a Void Ancient Dragon and an Ancient Phoenix that died fighting, and a Dragon-Phoenix Origin Fruit. Huang Xuan and Feng Qing Er of the Heaven Demon Phoenix Tribe arrive to take it, and Xiong Zhan, an Ancient Dragon Bear, fights them alongside Xiao Yan's group. Feng Qing Er awakens the Ancient Phoenix's ancestral spirit, but Zi Yan awakens the Void Ancient Dragon's and crushes it. The phoenixes retreat to wait outside the barrier, and Zi Yan keeps the fruit for Dragon Island. Searching for the Tian Class Dou Skill, the group finds a ruined Pill Hall and a Pill Beast, a near Ninth-Tier pill that has come alive. Xiao Yan lures it with Sixth-Tier pills and catches it.",
+ "events": [
+  "Zi Yan finds a Beast Spiritual Barrier and breaks in.",
+  "Inside are the remains of a Void Ancient Dragon and an Ancient Phoenix, and a Dragon-Phoenix Origin Fruit.",
+  "Huang Xuan and Feng Qing Er come for the fruit and fight Xiao Yan's group.",
+  "Xiong Zhan, an Ancient Dragon Bear, takes on the phoenixes.",
+  "Feng Qing Er and Zi Yan each awaken an ancestral spirit; Zi Yan's wins.",
+  "The phoenixes retreat; Zi Yan keeps the fruit.",
+  "The group finds a Pill Hall in a poisonous mist.",
+  "Xiao Yan catches a Pill Beast by feeding it pills."
+ ],
+ "introduced": [
+  "Beast Spiritual Barrier",
+  "Ancient Phoenix",
+  "Dragon-Phoenix Origin Fruit",
+  "Dragon-Phoenix Bloodline",
+  "Dragon Island",
+  "Ancient Dragon Bear",
+  "ancestral spirit",
+  "Pill Hall (in the ruins)",
+  "Pill Beast",
+  "Ninth-Tier Pill"
+ ],
+ "cultivation": "Xiao Yan calls himself an Eighth-Tier alchemist. No realm changes.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "xiao-yan",
+   "name": "Xiao Yan",
+   "first": false
+  },
+  {
+   "id": "zi-yan",
+   "name": "Zi Yan",
+   "first": false
+  },
+  {
+   "id": "xiong-zhan",
+   "name": "Xiong Zhan",
+   "first": false
+  },
+  {
+   "id": "huang-xuan",
+   "name": "Huang Xuan",
+   "first": false
+  },
+  {
+   "id": "feng-qing-er",
+   "name": "Feng Qing Er",
+   "first": false
+  },
+  {
+   "id": "little-fairy-doctor",
+   "name": "Little Fairy Doctor",
+   "first": false
+  },
+  {
+   "id": "mu-qing-luan",
+   "name": "Mu Qing Luan",
+   "first": false
+  }
+ ],
+ "changes": [],
+ "flags": [
+  "The fighters on Xiao Yan's side are mostly unnamed. 'An Ancient Dragon Bear?' (353) is taken as Xiong Zhan, as EP209 says the Ancient Dragon Bear is a Void Ancient Dragon sub-clan and Xiong Zhan goes to Dragon Island. The poison user at 448-451 is taken as Little Fairy Doctor.",
+  "Mu Qing Luan is placed in the cast from context (she travels with the group in EP203-209); she is not named in this file.",
+  "The Pill Beast is called both 'almost at the Ninth-Tier' and a pill from 'an eight- or nine-colored thundercloud'.",
+  "'the greatest of beats' (240) is a typo for 'beasts'."
+ ]
+}

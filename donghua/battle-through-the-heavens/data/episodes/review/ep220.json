@@ -1,0 +1,137 @@
+{
+  "ep": 220,
+  "title": "Xun Er's Divine-Grade Bloodline",
+  "summary": "Elder Tong Xuan ends the duel, and Dean Mang says the Gu Clan can no longer withhold the Xiao Clan's slot in the Heavenly Tomb. Xun Er's test passes ninth rank and reaches ten stars, a divine-grade bloodline the Gu Clan hasn't seen in a thousand years. Tong Xuan draws her the Rainbow Clan Mark with the Rainbow Divine Brush, and Hun Li of the Hun Clan decides she must be killed. That night Xun Er uses the Rainbow Clan Mark's authority to make the elders return the Xiao Clan's slot. Her father, Clan Leader Gu Yuan, asks Xiao Yan to give him the jade of Tuo She Gu Di, a key to a Dou Di ruin, but Xiao Yan refuses because it holds his father's soul signature. At the opening, Gu Qing Yang points out the other clans' heirs, including Hun Ya. The Heavenly Tomb gate appears, and each clan sends two people in for up to three years.",
+  "events": [
+    "Tong Xuan stops the fight; Dean Mang secures the Xiao Clan's slot.",
+    "Xun Er tests at ten stars, a divine-grade bloodline.",
+    "Tong Xuan draws Xun Er the Rainbow Clan Mark.",
+    "Hun Li plots to kill Xun Er.",
+    "Xun Er makes the elders return the Xiao Clan's quota.",
+    "Gu Yuan asks for the jade of Tuo She Gu Di; Xiao Yan refuses.",
+    "Gu Qing Yang introduces the Ancient Clans' heirs.",
+    "The Heavenly Tomb opens."
+  ],
+  "introduced": [
+    "Rainbow Clan Mark",
+    "Rainbow Divine Brush",
+    "Hun Li",
+    "Gu Yuan",
+    "Dou Di ruin",
+    "Gu Qing Yang",
+    "Lei Xue",
+    "Lei Luo",
+    "Shi Ping",
+    "Shi Chui"
+  ],
+  "cultivation": "Xun Er's bloodline is tenth rank (divine-grade). Ninth-rank bloodline gives a chance at Dou Sheng (EP219). Tong Xuan says even he wouldn't have a fifty percent chance against Xiao Xuan.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "look": "Rainbow Clan Mark drawn on her",
+      "first": false
+    },
+    {
+      "id": "tong-xuan",
+      "name": "Tong Xuan",
+      "first": false
+    },
+    {
+      "id": "mang-tian-chi",
+      "name": "Mang Tian Chi",
+      "first": false
+    },
+    {
+      "id": "gu-yao",
+      "name": "Gu Yao",
+      "first": false
+    },
+    {
+      "id": "mr-ling",
+      "name": "Mr. Ling",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "hun-li",
+      "name": "Hun Li",
+      "first": true,
+      "card": 481.1
+    },
+    {
+      "id": "gu-shan",
+      "name": "Gu Shan",
+      "first": false
+    },
+    {
+      "id": "gu-qian",
+      "name": "Gu Qian",
+      "first": false
+    },
+    {
+      "id": "gu-yuan",
+      "name": "Gu Yuan",
+      "first": true,
+      "card": 812.0
+    },
+    {
+      "id": "gu-qing-yang",
+      "name": "Gu Qing Yang",
+      "first": true,
+      "card": 989.3
+    },
+    {
+      "id": "lei-xue",
+      "name": "Lei Xue",
+      "first": true,
+      "card": 1001.3
+    },
+    {
+      "id": "lei-luo",
+      "name": "Lei Luo",
+      "first": true,
+      "card": 1002.2
+    },
+    {
+      "id": "shi-ping",
+      "name": "Shi Ping",
+      "first": true,
+      "card": 1004.0
+    },
+    {
+      "id": "shi-chui",
+      "name": "Shi Chui",
+      "first": true,
+      "card": 1004.0
+    },
+    {
+      "id": "huo-xuan",
+      "name": "Huo Xuan",
+      "first": false
+    },
+    {
+      "id": "hun-ya",
+      "name": "Hun Ya",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10-50s: recap; it calls Xiao Yan's finishing move the Four-Colored Extermination Fire Lotus.",
+    "549-564s: each clan has two slots; the Ling Clan sent no one; the Gu Clan sends six.",
+    "1079s: three years inside the tomb equal half a year outside.",
+    "740-746s: an unnamed elder asks the Clan Leader about Xiao Yan; taken as Gu Yuan.",
+    "Who enters with Xiao Yan for the Xiao Clan isn't stated here; EP221 shows him with Xun Er."
+  ]
+}

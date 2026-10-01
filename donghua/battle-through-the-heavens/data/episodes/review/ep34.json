@@ -1,0 +1,120 @@
+{
+  "ep": 34,
+  "title": "Medusa Wakes, Luo Bu Rebels",
+  "summary": "At the Misty Cloud Sect, Nalan Yanran and Ge Ye report to Yun Yun that two strangers, one a strong Dou Huang, exposed Mo Cheng's experiments on human bodies before he died. Elder Yun Leng argues the sect should not dig into the affair, and Yun Yun agrees to keep quiet because Nalan Yanran's Three-year Agreement is close, but orders the victims to be found and helped. In Shi Mo City the extra energy of the Core-Fire Lotus Seed wakes Queen Medusa, who bites Xiao Yan's finger and promises to kill him the next time she wakes. Xiao Yan feeds the Heaven Swallowing Python Amethyst Essence, shapes the purple flame it spits into a Purple Flame Pill and tries fusing it with the Green Lotus Core Flame. Meanwhile Luo Bu, sure that Xiao Yan is finished, demands the leadership of the Desert Metal Mercenary Company. Xiao Ding and Xiao Li break his Dou Qi Armor, and when Luo Bu turns on Xiao Ding, Xiao Yan appears and overwhelms him with his Heavenly Flame until Xiao Ding steps in to deal with Luo Bu himself.",
+  "events": [
+    "Nalan Yanran and Ge Ye tell Yun Yun what happened at Mo Cheng's birthday banquet.",
+    "Yun Leng urges the sect not to investigate; Yun Yun agrees but orders help for Mo Cheng's victims.",
+    "Medusa wakes in human form, bites Xiao Yan and vows to kill him when she next wakes.",
+    "Xiao Yan feeds the python Amethyst Essence and makes a Purple Flame Pill from its flame, then tries fusing it with the Green Lotus Core Flame.",
+    "Luo Bu and his followers challenge Xiao Ding for the leadership of the company.",
+    "Xiao Ding and Xiao Li break Luo Bu's Dou Qi Armor; Luo Bu attacks Xiao Ding.",
+    "Xiao Yan arrives and beats Luo Bu with the Heavenly Flame; Xiao Ding takes over.",
+    "That night Xiao Yan tells Hai Bodong they leave for the capital first thing tomorrow."
+  ],
+  "introduced": [
+    "Yun Leng",
+    "Purple Flame Pill",
+    "Old Leader of the Misty Cloud Sect (in retreat)"
+  ],
+  "cultivation": "Yun Leng says the Misty Cloud Sect has only one Dou Huang left, its leader Yun Yun. Luo Bu calls Xiao Ding and Xiao Li Dou Shi.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ge-ye",
+      "name": "Ge Ye",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": "Dou Huang",
+      "quote": "our sect is only left with one Dou Huang, / who is our leader.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-leng",
+      "name": "Yun Leng",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 104.3
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "heaven-swallowing-python",
+      "name": "Heaven Swallowing Python",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "luo-bu",
+      "name": "Luo Bu",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "realm": "Dou Shi",
+      "quote": "You're just two Dou Shis.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "realm": "Dou Shi",
+      "quote": "You're just two Dou Shis.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The last part of this episode (Xiao Yan telling Hai Bodong they leave for the capital tomorrow) is at the start of ep35.en.srt, 0-24s.",
+    "54-64: the 'strong Dou Huang' and the man who 'didn't reveal his true strength' are Hai Bodong and Xiao Yan, not named here.",
+    "206-410: Medusa's form while she bites him is not described in words; she says Xiao Yan kept 'the original form I evolved into' as a pet, i.e. the python.",
+    "813, 888: Luo Bu says the brothers used 'channeling' and 'an external force' to break his Dou Qi Armor; what that force was is not explained.",
+    "951-961: someone says Xiao Yan is about to use 'that technique again'; it is not named (probably a Heavenly Flame attack)."
+  ]
+}

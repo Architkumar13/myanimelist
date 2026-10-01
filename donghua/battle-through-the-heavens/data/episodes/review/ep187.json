@@ -1,0 +1,83 @@
+{
+  "ep": 187,
+  "title": "The Copper Plate",
+  "summary": "In Holy Pill City, Xiao Yan looks for the herbs for the Bone Growing Blood Fusing Pill, which will remake Yao Lao's body: Ten Thousand Year Old Green Spiritual Vine, Blood Essence Demon Fruit and Snow Bone Ginseng. The Dan Clan's Dan Chen and Dan Xuan arrive in a carriage pulled by a Void Heavenly Horse Beast. At the Alchemist Trade Fair, a man trades his Snow Bone Ginseng for Xiao Yan's Elemental Heart Pill, and on Yao Tian Huo's advice Xiao Yan also takes an old copper plate. Chen Xian, the young master of the Profound Xuan Sect, demands the plate, and Xiao Yan threatens him off. At the Ye Residence, Xiao Yan refines the plate's rust with Heavenly Flame and gets Spirit Nourishment Powder, which strengthens the soul. While training his soul, he senses the Three Thousand Burning Flame in the Star Region of the city, and a strong Pill Tower expert drives his soul back. Pill Tower elders then speak of Yao Chen's disciple and want to meet him.",
+  "events": [
+    "People in Holy Pill City notice Xiao Yan, the Ye Clan's young seven-tier middle-rank alchemist.",
+    "The Dan Clan's Dan Chen and Dan Xuan arrive for the test and the Pill Gathering.",
+    "Xiao Yan trades an Elemental Heart Pill for a Snow Bone Ginseng and an old copper plate.",
+    "Chen Xian of the Profound Xuan Sect tries to take the plate and is threatened off.",
+    "A companion finds a Blood Essence Demon Fruit; only the Green Spiritual Vine is still missing.",
+    "Xiao Yan refines the plate's rust into Spirit Nourishment Powder.",
+    "His soul senses the Three Thousand Burning Flame in the Star Region and is driven back.",
+    "Pill Tower elders discuss the spy and Yao Chen's disciple."
+  ],
+  "introduced": [
+    "Holy Pill City Trade Fair",
+    "Alchemist Trade Fair",
+    "Void Heavenly Horse Beast",
+    "Dan Clan",
+    "Dan Chen",
+    "Dan Xuan",
+    "Ten Thousand Year Old Green Spiritual Vine",
+    "Blood Essence Demon Fruit",
+    "Snow Bone Ginseng",
+    "Elemental Heart Pill",
+    "copper plate",
+    "Chen Xian",
+    "Profound Xuan Sect",
+    "Bone Growing Blood Fusing Pill",
+    "Ye Residence",
+    "Spirit Nourishment Powder",
+    "Soul State",
+    "Star Region"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "ye-chong",
+      "name": "Ye Chong",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "dan-chen",
+      "name": "Dan Chen",
+      "first": true,
+      "card": 162
+    },
+    {
+      "id": "dan-xuan",
+      "name": "Dan Xuan",
+      "first": true,
+      "card": 167
+    },
+    {
+      "id": "chen-xian",
+      "name": "Chen Xian",
+      "first": true,
+      "card": 482
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "12s [Episode 187] card; 17-47s recap.",
+    "90-101s and 599-606s: the companion who calls Xiao Yan 'Xiao' and finds the Blood Essence Demon Fruit is not named (possibly Zi Yan or Little Fairy Doctor).",
+    "162-183s: name captions [Dan Chen] then [Dan Xuan]; one calls the other 'Chen'. EP188 has Dan Xuan as the Dan Clan's assessment representative.",
+    "228-468s: the stallholder is called 'Yan' by others and is not Xiao Yan; the man who trades the Snow Bone Ginseng is not named.",
+    "202-208s: a Dou Zong guide guards the Alchemist Trade Fair; not named.",
+    "511s: Chen Xian's side notes 'Two strong Dou Zun' with Xiao Yan (taken as Yao Tian Huo and Little Fairy Doctor).",
+    "723s: Spirit Nourishment Powder is needed for 'Eight-Tier Pills and above'; EP188's recap says the plate gave five portions.",
+    "915-994s: the expert who drives off Xiao Yan's soul and the elders speaking afterwards are Pill Tower elders (EP188 recap: 'the three great elders of Pill Tower'); none is named."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "ep": 112,
+  "title": "Fan Lao's End and the Life Devouring Pill",
+  "summary": "Fan Lao leads the Black Alliance against Xiao Li's nameless organization and storms its fortress in the Black-Corner Region. As Fan Lao is about to make Xiao Li a Blood Slave, Xiao Yan arrives, and Xiao Li learns his brother is alive. Medusa turns up too, refuses Fan Lao's offer to team up and tells Xiao Yan his life is hers before she leaves. Zi Yan and Lin Yan take on two of Fan Lao's men while Xiao Yan burns Fan Lao to death with his Heavenly Flame, then breaks the rest of the attackers and sends word that he will soon come for Han Feng. Afterwards Xiao Li admits he took a Life Devouring Pill, which raised him from Da Dou Shi to Dou Wang but leaves him only three years to live. Xiao Yan takes its sealed prescription, promises an antidote within a year, and asks his brother to recover at the Jia Nan Academy.",
+  "events": [
+    "The Black Alliance under Fan Lao storms Xiao Li's fortress",
+    "Fan Lao beats Xiao Li and threatens to make him a Blood Slave",
+    "Xiao Yan arrives and Xiao Li learns he is alive",
+    "Medusa refuses Fan Lao's offer to join forces and leaves",
+    "Zi Yan and Lin Yan take two Dou Wangs; Xiao Yan kills Fan Lao",
+    "Xiao Yan breaks the remaining attackers and sends a warning to Han Feng",
+    "Xiao Li reveals the Life Devouring Pill and its three-year cost",
+    "Xiao Yan takes the pill's prescription to make an antidote"
+  ],
+  "introduced": [
+    "Blood Slave",
+    "Life Devouring Pill"
+  ],
+  "cultivation": "Fan Lao is a strong Dou Huang backed by three Dou Wangs. Xiao Li went from Da Dou Shi to Dou Wang with the Life Devouring Pill, which leaves him three years to live.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "realm": "Dou Wang (via the Life Devouring Pill)",
+      "quote": "can forcefully raise the strength of a Da Dou Shi all the way to a Dou Wang",
+      "first": false,
+      "card": 107.8
+    },
+    {
+      "id": "fan-lao",
+      "name": "Fan Lao",
+      "realm": "Dou Huang",
+      "quote": "He is a strong Dou Huang, and he is backed by three Dou Wangs.",
+      "first": false,
+      "card": 230.4
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Moved out to EP111: Xiao Li's side preparing for Fan Lao (before this card in the old file). Moved in from the old EP113 review: the Life Devouring Pill scene (before the [Episode 113] card). New title; cards moved to the new clock."
+  ],
+  "flags": [
+    "0-27s are a recap of EP111 and are not counted.",
+    "563.4 'Leave the other two to me and Zi Yan': speaker read as Lin Yan (not named in the line).",
+    "EP113's recap calls Xiao Li's group the 'Xiao Gate' (5.8); here it is the 'nameless organization' (107.8).",
+    "Xiao Li says he can live 'three years' after the pill (908.4); EP118 (525.7) says he has one year left."
+  ]
+}

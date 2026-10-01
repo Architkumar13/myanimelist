@@ -1,0 +1,83 @@
+{
+  "ep": 254,
+  "title": "Back to the Falling Star Pavilion",
+  "summary": "Xiao Yan asks Yao Ming to return Jiu Feng to the Heaven Demon Phoenix Tribe and keep the two Supreme Elders, and Zi Yan leaves her elders to run East Dragon Island so she can go with him. At the Falling Star Pavilion, the Sky Mansion Alliance leaders report that the Hall of Souls has attacked half of the alliance's 300 key cities and broken many wormholes. Yao Lao decides to stop defending and strike a Hall of Souls branch first. The Intelligence Hall has learned that the Hall of Souls has Heaven, Earth and Human Halls, and only the Human Hall has been found. Xiao Yan comes back a Two-Star Dou Sheng and gives Yao Lao a drop of Demonic Saint Huang Quan's essence blood. Deep in the Nine Serene Spring, Medusa meets the soul of the Nine-Colored Heaven Swallowing Python ancestor. Xiao Yan, Yao Lao and Zi Yan reach the hidden stone gate of the Human Hall and go in to wipe it out.",
+  "events": [
+    "Xiao Yan and Yao Ming part; Jiu Feng is to be sent back to the phoenixes.",
+    "Zi Yan hands East Dragon Island to her elders and goes with Xiao Yan.",
+    "The alliance meets at the Falling Star Pavilion about the Hall of Souls' raids.",
+    "Yao Lao chooses to attack a Hall of Souls branch first.",
+    "Xiao Yan returns as a Two-Star Dou Sheng and introduces Zi Yan as the Dragon Emperor.",
+    "He gives Yao Lao a drop of Huang Quan's essence blood.",
+    "Medusa meets the soul of the Nine-Colored Heaven Swallowing Python ancestor.",
+    "Xiao Yan, Yao Lao and Zi Yan enter the Human Hall."
+  ],
+  "introduced": [
+    "Heaven Hall, Earth Hall and Human Hall of the Hall of Souls",
+    "24 Earth Fiend Halls",
+    "Intelligence Hall (Sky Mansion Alliance)",
+    "Nine-Colored Heaven Swallowing Python ancestor (soul)"
+  ],
+  "cultivation": "Xiao Yan is a Two-Star Dou Sheng ('two star Dou Sheng / just half a year / He actually advanced from the initial stage of a one star Dou Sheng to a two star Dou Sheng'). Zi Yan is recognised as a Four-Star Dou Sheng.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Two-Star Dou Sheng",
+      "quote": "two star Dou Sheng",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": "Four-Star Dou Sheng",
+      "quote": "four star Dou Sheng / been disrespectful",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ming",
+      "name": "Yao Ming",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": null,
+      "name": "Nine-Colored Heaven Swallowing Python ancestor",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 1003.4
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file starts at 154s; 154-188s is a narrated recap of EP253.",
+    "Very rough translation: 'Choi Lin' = Medusa (Cai Lin); 'day demon burn race' = Heaven Demon Phoenix Tribe; 'Too ancient dragon' = Void Ancient Dragons; 'soul temple', 'Temple of Man' = Hall of Souls, Human Hall; 'net lotus demon fire' = Purifying Demonic Lotus Flame; 'tianfu alliance' = Sky Mansion Alliance; 'Danta' = Pill Tower.",
+    "195.6 'Give the Nine Phoenix to the Phoenix Emissary ... As for the other two, just keep it': Jiu Feng goes back, Kun Huang and Ying Huang stay hostage.",
+    "449-483s: an unnamed voice speaks about controlling souls; 1170s an unnamed figure eats 'the soul of this ... tianfu alliance'. Probably the Hall of Souls; not identified.",
+    "739-743s: someone at the pavilion recognises Zi Yan as a Four-Star Dou Sheng. Who says it is not clear.",
+    "The alliance leaders at the meeting are not named except Yao Chen; the Flower Sect and Pill Tower ('Danta') are mentioned.",
+    "951.1 Xiao Yan says he has already taken the essence blood once and a second dose would do little."
+  ]
+}

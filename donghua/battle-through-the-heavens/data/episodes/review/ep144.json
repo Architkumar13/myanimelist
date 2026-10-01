@@ -1,0 +1,89 @@
+{
+  "ep": 144,
+  "title": "Black Emperor City",
+  "summary": "Xiao Yan frees the hostages, and the Fourth Elder of Demon Flame Valley dies in Little Fairy Doctor's poison gas. After seeing the students to safety, Xiao Yan, Little Fairy Doctor and Zi Yan enter Black Emperor City under the name Yan Xiao. A Black Emperor Sect guard sends them to the Black Emperor Pavilion and warns them about the Kui Wolf Gang. At the Thousand Medicinal House, Xiao Yan buys herbs and wants three rare ones in exchange for a Fifth-Tier Pill. Qi Shan, chief alchemist of the Black Emperor Sect, wants the same herbs, and both offer a Fighting Spirit Pill. Xiao Yan's pill is better, and he wins the herbs and makes an enemy of Qi Shan. The shop's alchemist tells him the Bodhisattva Body Transformation Saliva will be sold at the auction.",
+  "events": [
+    "The Fourth Elder dies of poison gas while fleeing",
+    "Xiao Yan's group enters Black Emperor City and ignores Kui Wolf Gang thugs",
+    "A guard gives 'Yan Xiao' a badge for the Black Emperor Pavilion",
+    "At the Thousand Medicinal House, Xiao Yan asks for eight herbs",
+    "Qi Shan and Xiao Yan compete with Fighting Spirit Pills; Xiao Yan wins",
+    "The shop alchemist explains the Bodhisattva Heart and its saliva",
+    "At the Pavilion, Xiao Yan sees Fang Yan of Demon Flame Valley and a strange gray-robed man"
+  ],
+  "introduced": [
+    "Black Emperor City",
+    "Black Mirror Rock",
+    "Black Emperor Sect",
+    "Black Emperor Pavilion",
+    "Kui Wolf Gang",
+    "Thousand Medicinal House",
+    "Qi Shan (chief alchemist of the Black Emperor Sect)",
+    "Blue Orchid Grass",
+    "Flaming Phoenix Phosphorus Fruit",
+    "Thousand Spiritual Ginseng",
+    "Demon Spiritual Valley Grass",
+    "Jade Bone Fruit",
+    "Fighting Spirit Pill (Fifth-Tier)",
+    "Bodhisattva Heart",
+    "Bodhisattva Ancient Tree",
+    "Fang Yan (Demon Flame Valley)",
+    "the gray-robed man"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false,
+      "card": 342
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false,
+      "card": 46
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false,
+      "card": 26
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "first": false,
+      "card": 38
+    },
+    {
+      "id": "qi-shan",
+      "name": "Qi Shan",
+      "first": true,
+      "card": 696
+    },
+    {
+      "id": "fang-yan",
+      "name": "Fang Yan",
+      "first": true,
+      "card": 1091
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "look": "hidden in a gray robe",
+      "first": false,
+      "card": 1106
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-57s, before the [Episode 144] card, end the canyon fight; the recap runs 68-99s.",
+    "47-49s: 'he died after his heart was attacked by the poisonous gas' is about the Fourth Elder, said by Little Fairy Doctor.",
+    "321-325s: Xiao Yan tells the guard he can't judge a Dou Huang until he reaches Five-Star Dou Huang; no realm is stated for Xiao Yan.",
+    "876-882s: Qi Shan realises 'Yan Xiao' is a Dou Huang.",
+    "938-1003s: the alchemist who explains the Bodhisattva Heart is the Thousand Medicinal House's man; he is not named.",
+    "1106-1113s: the gray-robed man is Han Feng (shown in ep147-148); here he is only 'the person in the gray robe'."
+  ]
+}

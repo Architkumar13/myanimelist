@@ -1,0 +1,82 @@
+{
+  "ep": 107,
+  "title": "The Fallen Heart Flame Wakes",
+  "summary": "The Fallen Heart Flame, 14th on the Heavenly Flames Ranking, breaks its seal again, and it has formed a body with a mind of its own. Han Feng holds his allies back until the elders and the flame wear each other out, and plans to take Xiao Yan's flame later; Yao Lao warns Xiao Yan not to face Han Feng until he is a Dou Wang. The flame goes after Han Feng to eat his Heavenly Flame, the injured Fan Lao leaves, and Han Feng promises the rest double pills and fights back with Sky Cold Air. Mr. Jin and Mr. Yin back off, and the flame hides among ordinary flames and turns on Xiao Yan. Guided by Yao Lao, Xiao Yan finds its hidden core and strikes it, forcing it into its true form. As he moves to seize it, Han Feng's allies hold off Su Qian, who vows to teach the Black-Corner Region a lesson.",
+  "events": [
+    "The Fallen Heart Flame breaks the seal again and has formed a body with intelligence",
+    "Han Feng holds Ban Lao back and plans to take Xiao Yan's Heavenly Flame later",
+    "Yao Lao warns Xiao Yan to avoid Han Feng until he is a Dou Wang",
+    "The flame targets Han Feng; Fan Lao leaves hurt and Han Feng promises double pills to the rest",
+    "Han Feng uses Sky Cold Air; Mr. Jin and Mr. Yin pull out",
+    "The flame hides among ordinary flames and turns on Xiao Yan",
+    "Xiao Yan strikes its core and it shows its true form",
+    "Han Feng's allies hold off Su Qian as Xiao Yan and Han Feng go for the flame"
+  ],
+  "introduced": [
+    "Fallen Heart Flame (14th on the Heavenly Flames Ranking)",
+    "Sky Cold Air"
+  ],
+  "cultivation": "Han Feng judges Xiao Yan to be as strong as a Five-Star Dou Huang with borrowed power. Yao Lao says Xiao Yan should avoid Han Feng until he reaches Dou Wang; Xiao Yan sees the Fallen Heart Flame as his fast route to Dou Wang. Han Feng hopes a second Heavenly Flame will take him from Dou Huang to Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "fan-lao",
+      "name": "Fan Lao",
+      "realm": "Dou Huang",
+      "quote": "there was finally a winner in the battle between two Dou Huangs.",
+      "first": false
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "first": false
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false
+    },
+    {
+      "id": "ban-lao",
+      "name": "Ban Lao",
+      "first": false,
+      "card": 130.8
+    },
+    {
+      "id": "mr-jin",
+      "name": "Mr. Jin",
+      "first": false
+    },
+    {
+      "id": "mr-yin",
+      "name": "Mr. Yin",
+      "first": false
+    },
+    {
+      "id": "fallen-heart-flame",
+      "name": "Fallen Heart Flame",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Moved out to EP106: Flame Splitting Tsunami against the Great Blood Bodhisattva Devourer and Fan Lao's escape (before this card in the old file). Moved in from the old EP108 review: Xiao Yan finding and striking the flame's core, its true form, and Han Feng's allies blocking Su Qian (before the [Episode 108] card). Ban Lao's card moved to 130.8."
+  ],
+  "flags": [
+    "0-31s are a recap of EP106 and are not counted.",
+    "27.7 typo 'Fallen Heart Blame'.",
+    "198.3 '(he is as strong as a Five-Star Dou Huang)' is Han Feng's estimate of Xiao Yan's borrowed strength, not a realm.",
+    "Xiao Yan's own realm is still Dou Ling; his Dou Huang strength is borrowed from Yao Lao (recap at 6.2).",
+    "264-267s: Han Feng's thought that a second flame would 'break through that barrier between Dou Huang and Dou Zong' implies he is a Dou Huang; EP114 calls him a Half-Step Dou Zong.",
+    "983.7 '(So this is the original form of the Heavenly Heart Flame)': slip for Fallen Heart Flame."
+  ]
+}

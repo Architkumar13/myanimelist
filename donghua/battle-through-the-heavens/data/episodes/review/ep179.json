@@ -1,0 +1,76 @@
+{
+  "ep": 179,
+  "title": "The Ice Zun Force",
+  "summary": "An Ice River Valley elder offers Tian Huo Zun Zhe a new body if he kills Xiao Yan and hands over the Little Fairy Doctor, and Tian Huo Zun Zhe kills him instead. The Ice Zun Force is eating into the Little Fairy Doctor's blood, so Xiao Yan spends days burning it out with his Heavenly Flame and medicine. While doing so he absorbs some of the Demon Poison Spot and becomes a Two-Star Dou Zong. The Little Fairy Doctor says she has two or three months before her poison takes over, and that a Rank Seven Sky Poison Dragon Scorpion Beast rules the Fallen God Stream. Xiao Yan plans to kill it for its core, which can control her Woeful Poison Body, and for blood and essence for the Yin Yang Life Soul Pill, which can give Tian Huo Zun Zhe a body. Xin Lan returns with the herbs and warns that the Ice River Valley has declared them wanted and sent its strongest Dou Zong. The three go to the beast's stone castle, and it comes out for the Little Fairy Doctor.",
+  "events": [
+    "Tian Huo Zun Zhe kills the Ice River elder who tries to bargain.",
+    "Xiao Yan begins burning out the Ice Zun Force with his Heavenly Flame.",
+    "Xin Lan leaves with the Earth Demon Puppet to gather herbs.",
+    "Elder Bing Xian leaves to report to the Ice River Valley master.",
+    "Xiao Yan reaches Two-Star Dou Zong.",
+    "Xiao Yan proposes the Yin Yang Life Soul Pill and teases Tian Huo Zun Zhe into hunting the beast.",
+    "Xin Lan reports that the Ice River Valley's strongest Dou Zong is coming.",
+    "The group reaches the Sky Poison Dragon Scorpion Beast's den."
+  ],
+  "introduced": [
+    "Elder Bing Xian",
+    "Bing Yuan (three elders)",
+    "Tian She",
+    "Sky Poison Dragon Scorpion Beast (in the Fallen God Stream)",
+    "Bone Growing Blood Fusing Pill",
+    "Yin Yang Life Soul Pill"
+  ],
+  "cultivation": "Xiao Yan goes from One-Star to Two-Star Dou Zong by absorbing part of the Demon Poison Spot while healing the Little Fairy Doctor.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "2-star Dou Zong",
+      "quote": "Now, I'm a Two-Star Dou Zong.",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "xin-lan",
+      "name": "Xin Lan",
+      "first": false
+    },
+    {
+      "id": "bing-fu",
+      "name": "Bing Fu",
+      "first": false
+    },
+    {
+      "id": "bing-xian",
+      "name": "Bing Xian",
+      "first": true,
+      "card": 458
+    },
+    {
+      "id": "tian-she",
+      "name": "Tian She",
+      "first": true,
+      "card": 875
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Opening narration 15-45s is a recap of EP178.",
+    "77-125s: the Ice River man who bargains and is killed is not named; taken as Bing Fu from EP178.",
+    "199-202s: 'There's no cure! Unless you find the valley master' is a captured Ice River member; not named.",
+    "537s: 'It's all thanks to the leveling tonic provided by Xie Biyan' is a joke: Xie Biyan planted the Demon Poison Spot (EP142).",
+    "614s 'Sky Poison Scorpion Dragon Beast' and 624s 'Level Seven'; the name and rank are written several ways. This file uses Sky Poison Dragon Scorpion Beast (the EP157 form) and Rank Seven.",
+    "651s: the Little Fairy Doctor guesses it is 'as strong as a Level Eight Dou Zong' (Eight-Star).",
+    "875s: 'Elder Snake' is taken as Tian She, the Ice River Valley's strongest Dou Zong named in EP180's recap."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "ep": 241,
+  "title": "The Profound River Alliance Falls",
+  "summary": "Xiao Yan, now a One-Star Dou Sheng, turns the battle at the Xing Realm with the Angry Buddha Reincarnation. Old Demon Tian Ming begs for mercy, then blows himself up with a Ban Sheng Explosion, and Xiao Yan drives his soul out of the body it tries to hide in. A Hun Clan Dou Sheng appears to rescue Gu You and the others, warns that Xiao Yan's father is still a Hun Clan prisoner, and tells him to come to the Realm of Souls. Xiao Yan then goes to Tian Bei City, where the Wind Lightning Northern Pavilion is holding the Han Clan hostage with lightning seals. He saves Han Yue and her family and kills Fei Tian for the 28 Falling Star Pavilion members his pavilion killed. He offers the Han Clan the Northern Region and names the Profound Sky Sect and Ice River Valley as next.",
+  "events": [
+    "Xiao Yan beats the Ban Shengs with the Angry Buddha Reincarnation.",
+    "Old Demon Tian Ming self-destructs; Xiao Yan crushes his soul.",
+    "Xiao Yan stops Gu You from fleeing.",
+    "A Hun Clan Dou Sheng rescues the Hall of Souls survivors and taunts Xiao Yan about his father.",
+    "Wind Lightning Pavilion holds the Han Clan in Tian Bei City.",
+    "Xiao Yan arrives and frees the hostages.",
+    "Fei Tian is killed for the Falling Star Pavilion's dead.",
+    "Xiao Yan gives the Han Clan the Northern Region and vows to face the Profound Sky Sect and Ice River Valley."
+  ],
+  "introduced": [
+    "Angry Buddha Reincarnation",
+    "Ban Sheng Explosion",
+    "Hun Clan Dou Sheng (unnamed)",
+    "lightning seals"
+  ],
+  "cultivation": "Xiao Yan is a One-Star Dou Sheng; he was a peak Ninth Turn Dou Zun two years earlier.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "1-star Dou Sheng",
+      "quote": "A mere One-Star Dou Sheng is nothing to fear.",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "old-demon-tian-ming",
+      "name": "Old Demon Tian Ming",
+      "first": false
+    },
+    {
+      "id": "gu-you",
+      "name": "Gu You",
+      "first": false
+    },
+    {
+      "id": "han-yue",
+      "name": "Han Yue",
+      "first": false
+    },
+    {
+      "id": "han-fei",
+      "name": "Han Fei",
+      "first": false
+    },
+    {
+      "id": "fei-tian",
+      "name": "Fei Tian",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-46s is a recap of EP240.",
+    "306-334s: 'Old demon, get out of him' / 'He was possessed by another soul!' - Tian Ming's soul had taken someone over; that person thanks Xiao Yan. Who it is is not said.",
+    "358-389s: what happens to Gu You and the Third Tianzun is unclear; a Hun Clan Dou Sheng ('Thank you for saving me, sir') takes the survivors away. The Dou Sheng is not named.",
+    "429s: 'The Hun Clan has dozens of Dou Shengs.'",
+    "624s: caption '[Han Clan, Tian Bei City]'; 707s '[Wind Lightning Northern Pavilion]'.",
+    "823s: Fei Tian is named; his death is implied by 'Wind Lightning Pavilion is gone from the Northern Region' (949s).",
+    "635s: 'Han Fei, stop resisting' - Han Fei is a Han Clan member; 'Great-grandpa' (Senior Han) is an old Han, unnamed."
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "ep": 197,
+  "title": "The Three Thousand Lotus Heart Flame",
+  "summary": "The chairpersons restore the seal, and Little Fairy Doctor and Xiao Yan's friends rush to the Pill Tower demanding to know where he is. Xuan Kong Zi stops her from forcing her way into the Star Region, which could doom Holy Pill City. Someone senses that Xiao Yan's dragon seal is shining gold, which means he is winning. Inside, Xiao Yan finds that the flame's core is feeding him power through the dragon seal, so every wound heals at once. He fights back with the Sky Demon Puppet and makes the flame submit, promising to take it to Dragon Island and find its old master. He refines it, rises from Four-Star to Nine-Star Dou Zong, and fuses it with his other Heavenly Flames into the Three Thousand Lotus Heart Flame. As the Star Region collapses and Holy Pill City shakes, Little Fairy Doctor and others prepare to go in through a spatial tunnel opened by Zi Yan.",
+  "events": [
+    "The seal is restored, and Little Fairy Doctor demands to go in after Xiao Yan.",
+    "Xuan Kong Zi says forcing the Star Region open would doom the city.",
+    "Xiao Yan's dragon seal shows he is still safe.",
+    "In the Star Region, the dragon seal turns the flame's attacks into healing for Xiao Yan.",
+    "Xiao Yan makes the Three Thousand Burning Flame submit.",
+    "He refines it and rises to Nine-Star Dou Zong.",
+    "He fuses his flames into the Three Thousand Lotus Heart Flame.",
+    "The Star Region begins to collapse, and a rescue through a spatial tunnel begins."
+  ],
+  "introduced": [
+    "Three Thousand Lotus Heart Flame",
+    "spatial tunnel"
+  ],
+  "cultivation": "Xiao Yan rises through Four-Star to Eight-Star cards and states 'I've become a Nine-Star Dou Zong' (759-772s). The Three Thousand Burning Flame is 'the No. 9 flame on the ranking' (723s).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "9-star Dou Zong",
+      "quote": "I've become a Nine-Star Dou Zong.",
+      "first": false
+    },
+    {
+      "id": "three-thousand-burning-flame",
+      "name": "Three Thousand Burning Flame",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "xuan-kong-zi",
+      "name": "Xuan Kong Zi",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10s [Episode 197] card; 15-62s recap of EP196.",
+    "250-281s: the one who senses the dragon seal shining gold and promises to go in 'when the time is right' is taken as Xuan Kong Zi; it could be Zi Yan.",
+    "759-762s: the stage cards begin at [Four-Star], which suggests he started at Three- or Four-Star Dou Zong. EP185 calls him Four-Star; EP183 called him Two-Star.",
+    "487s and 807s: the puppet is called 'Sky Demon Puppet' here; EP190-194 call Xiao Yan's puppet 'Earth Demon Puppet'. Taken as the same puppet.",
+    "794-797s: 'the fusion of three Heavenly Flames' does not say which three; taken as his Glaze Lotus Core Flame and Fallen Heart Flame with the new flame, but this is not stated.",
+    "913-942s: 'Zi Yan. Open a spatial tunnel for me' and 'Little Fairy Doctor and I will get Xiao Yan out' are taken as Yao Tian Huo; 'Count me in' is not assigned."
+  ]
+}

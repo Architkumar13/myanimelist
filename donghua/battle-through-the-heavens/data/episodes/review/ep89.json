@@ -1,0 +1,111 @@
+{
+  "ep": 89,
+  "title": "The Dragon Strength Pill",
+  "summary": "Xiao Yan and Han Xian, chief of the Medicine Gang and a fourth-tier alchemist, hold their pill-refining match before a crowd. Elder Hao sets the Fifth-Tier Dragon Strength Pill, with two sets of herbs each, and Han Xian uses the Illusionary Golden Flame, taken from the shell of a Rank Seven Illusionary Fire Scorpion Dragon Beast. He hands in a half-done pill, betting that Xiao Yan will fail. Xiao Yan's cheap cauldron explodes, but he comes out of the smoke with a finished Dragon Strength Pill. Elder Hao declares him the winner, so Rock Gate takes over the Medicine Gang's five busiest trading spots. Half a month later Han Yue and Lin Xiu Ya set out on a mission, and Xiao Yan goes into the mountains with Yao Lao. There he starts the Three Thousand Lightning Movement by drawing the wind-lightning strength out of its scroll and refining it with the Green Lotus Core Flame.",
+  "events": [
+    "Han Xian and Xiao Yan take the stage; Xiao Yan stakes three prescriptions against the Medicine Gang's five trading spots.",
+    "Elder Hao sets the Fifth-Tier Dragon Strength Pill with two tries each.",
+    "Han Xian shows the Illusionary Golden Flame.",
+    "Han Xian hands in a half-done pill.",
+    "Xiao Yan's cauldron explodes, but his pill is finished; Elder Hao rules him the winner.",
+    "First Elder Su Qian watches; an elder admits he lost his bet on the result.",
+    "Han Yue and Lin Xiu Ya set off on a mission.",
+    "In the mountains Xiao Yan begins refining the wind-lightning strength of the Three Thousand Lightning Movement."
+  ],
+  "introduced": [
+    "Elder Hao",
+    "Dragon Strength Pill (Fifth-Tier)",
+    "Illusionary Golden Flame",
+    "Rank Seven Illusionary Fire Scorpion Dragon Beast",
+    "Three Thousand Lightning Movement",
+    "wind-lightning strength",
+    "Lin Xiu Ya (on screen)"
+  ],
+  "cultivation": "Han Xian is a fourth-tier alchemist. Xiao Yan refines a Fifth-Tier Pill. An alchemist who can do that is called 'almost as valuable as a Dou Wang if not a Dou Huang'.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "han-xian",
+      "name": "Han Xian",
+      "realm": null,
+      "quote": "Han Xian, the fourth-tier alchemist",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "elder-hao",
+      "name": "Elder Hao",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 116.8
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-cheng",
+      "name": "Bai Cheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-xiu-ya",
+      "name": "Lin Xiu Ya",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 825.5
+    },
+    {
+      "id": "han-yue",
+      "name": "Han Yue",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-36s is a recap of EP88. 957.4 is the start of the preview.",
+    "The Medicine Gang chief's rank as a fourth-tier alchemist is only in the recap narration (35.6).",
+    "214.0 'compared to Xiao Han' and 218.0 'Han Xiao is the winner' are slips for Xiao Yan and Han Xian.",
+    "207.9: someone addresses the First Elder (Su Qian) in the stands; she is not named in this episode.",
+    "771.8 'I admit my defeat.' is an unnamed elder losing a bet to the First Elder.",
+    "The Illusionary Golden Flame is not a Heavenly Flame; an onlooker asks 'Heavenly Flame?' (336.7) about Xiao Yan's flame.",
+    "Where Xiao Yan got the Three Thousand Lightning Movement scroll is not shown here.",
+    "The end of the wind-lightning refining continues at the start of EP90."
+  ]
+}

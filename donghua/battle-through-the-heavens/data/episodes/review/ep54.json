@@ -1,0 +1,70 @@
+{
+  "ep": 54,
+  "title": "How Nalan Yanran Became a Disciple",
+  "summary": "This episode is a flashback to Nalan Yanran's childhood. Years ago Xiao Lin, Xiao Yan's grandfather, saved Nalan Jie in battle, and Nalan Jie betrothed his granddaughter to Xiao Yan, born on the same day. After Xiao Lin died, the Xiao Clan lost its place in the capital and moved to Wu Tan City. Young Nalan Yanran joins the Misty Cloud Sect, where Yun Yun and an instructor, Mr. Han, teach the new disciples the Covering Sun Cloud Formation. When a Cloud Beast breaks loose during the lesson, Nalan Yanran keeps fighting, and Yun Yun takes her as her first direct disciple. Years later she learns that Xiao Yan of Wu Tan City is her fiance. Desperate for the Gate of Life and Death to recognise her, she keeps pushing herself even when Yun Yun warns her it could kill her.",
+  "events": [
+    "Narration: Xiao Lin and Nalan Jie's bond, the betrothal, Xiao Lin's death and the Xiao Clan's move to Wu Tan City.",
+    "Nalan Jie insists the betrothal stands; he gives his granddaughter a portrait before she leaves.",
+    "Young Nalan Yanran tells him she beat Mu Zhan for bothering Ya Fei and hears about her betrothal for the first time.",
+    "At the Misty Cloud Sect, Yun Yun teaches the Covering Sun Cloud Formation; Mr. Han leads the exercise.",
+    "A Cloud Beast goes wild; Nalan Yanran helps hold it off and Yun Yun makes her a direct disciple.",
+    "Years later a junior mentions Xiao Yan of the Xiao Clan is Nalan's fiance.",
+    "Nalan Yanran forces herself at the Gate of Life and Death against Yun Yun's warning."
+  ],
+  "introduced": [
+    "Xiao Lin (Xiao Yan's grandfather, mentioned)",
+    "Covering Sun Cloud Formation",
+    "Cloud Beast",
+    "Shield Defense / Cloud Shield",
+    "Gate of Life and Death",
+    "Young Lady of the Misty Cloud Sect",
+    "Mr. Han (Misty Cloud Sect instructor)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null,
+      "look": "Shown as a child, then as a teenage disciple."
+    },
+    {
+      "id": "nalan-jie",
+      "name": "Nalan Jie",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 311.1
+    },
+    {
+      "id": "han",
+      "name": "Han",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 397.2
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-15s is the end of EP53 and is not counted; the card is at 15.7.",
+    "The end of this episode is at the start of ep55.en.srt (0-72s): the Gate of Life and Death approves her.",
+    "Whole episode is a flashback; no present-day events.",
+    "111-127: Nalan Jie talks with an unnamed man about Nalan Yanran ('You're spoiling her'); probably her father (Nalan Su is named in EP56).",
+    "928.2: 'Wind's Peak.' is a garbled line; 'Wind's Peak, Dazzling Sunset' is Nalan Yanran's move in EP58.",
+    "Mr. Han's id is 'han' since only 'Mr. Han' is given.",
+    "Yun Yun has been on screen since early episodes (as Yun Zhi), so she is not first; card 311.1 is her first line here."
+  ]
+}

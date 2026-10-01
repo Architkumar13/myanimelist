@@ -1,0 +1,67 @@
+{
+  "ep": 14,
+  "title": "The Ice Emperor",
+  "summary": "The map-shop owner is Hai Bodong, the Ice Emperor, once one of the Top Ten of the Jia Ma Empire. He once fought the former Misty Cloud Sect leader and beat two Dou Huangs at the Convention for the Strong, and Yao Lao sees that his Dou Huang strength is suppressed to Dou Ling. Xiao Yan fights him for the map fragment through Condensed Ice Mirror, an ice cave and Mysterious Ice Killing Vortex, and with Yao Lao's Soul Power and a snow-white flame he traps Hai Bodong in ice. Hai Bodong explains that Queen Medusa of the Snakemen defeated him and sealed him at Dou Ling with her Curse of the Snakes Seal. He offers the other map fragment and a Dou Huang's favour if Xiao Yan refines a six-tier Spiritual Recovery Purple Pill. He also needs Sand's Datura from Snakemen land, which he cannot enter because Medusa would sense him. In return he promises his research on where the Heavenly Flame is in the Tager Desert, and Xiao Yan agrees.",
+  "events": [
+    "Narration: the Ice Emperor's history as one of the Jia Ma Empire's Top Ten.",
+    "Yao Lao sees the man is a Dou Huang suppressed to Dou Ling.",
+    "Xiao Yan fights him for the map fragment; ice mist, Condensed Ice Mirror and an ice cave.",
+    "Yao Lao lends Soul Power; a snow-white flame traps the old man in ice.",
+    "He names himself Hai Bodong, the Ice Emperor, sealed by Queen Medusa's Curse of the Snakes Seal.",
+    "He asks for a six-tier Spiritual Recovery Purple Pill and Sand's Datura from Snakemen territory.",
+    "In return he offers the second map fragment, a favour and his Heavenly Flame research; Xiao Yan agrees."
+  ],
+  "introduced": [
+    "Hai Bodong (Ice Emperor)",
+    "Top Ten of the Jia Ma Empire",
+    "Misty Cloud Mountain",
+    "Convention for the Strong",
+    "Chu Yun Empire",
+    "Queen Medusa (named only)",
+    "Curse of the Snakes Seal",
+    "Condensed Ice Mirror",
+    "Mysterious Ice Killing Vortex",
+    "Soul Power",
+    "Spiritual Recovery Purple Pill (six-tier)",
+    "Sand's Datura",
+    "Dou Ling",
+    "Dou Huang"
+  ],
+  "cultivation": "Hai Bodong is a Dou Huang sealed at the Dou Ling level. Xiao Yan calls himself a two-tier alchemist.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": "Dou Huang, sealed at Dou Ling",
+      "quote": "my strength sealed at the Dou Ling level.",
+      "first": false,
+      "card": 640.0
+    }
+  ],
+  "flags": [
+    "Hai Bodong's name line is 640.0 ('My name is Hai Bodong'); 644.0 shows the '[Ancient Map]' shop sign.",
+    "282.8-294 'Dou Qi Wings? Doesn't look like it': Xiao Yan flies on wings that are not Dou Qi Wings; they are not named here.",
+    "The 'snow-white flame' / 'terrifying cold flame' (617, 712) is Yao Lao's Bone Chilling Flame used through Xiao Yan; not named here.",
+    "329.8 'a two-level difference between you'; Xiao Yan is a Dou Shi and Hai Bodong a sealed Dou Ling.",
+    "733.0 the pill is 'Six-tier'; EP30 (later digest) calls the Spiritual Recovery Purple Pill fifth-tier. Possible slip.",
+    "Medusa is named only; she is 'one of the top powerhouses among Dou Huangs' (681.3)."
+  ],
+  "changes": []
+}

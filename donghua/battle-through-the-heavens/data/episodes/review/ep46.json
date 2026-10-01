@@ -1,0 +1,142 @@
+{
+  "ep": 46,
+  "title": "The Alchemist Conference Opens",
+  "summary": "Ao Tuo leads Yan Xiao and Hai Bodong to the Alchemist Conference, where more than 2,000 alchemists will compete in an elimination round and a final. Chairman Fa Ma recognises Hai Bodong as the Ice Emperor, and Princess Yue Er introduces her elder sister Princess Yao Ye, who commands the soldiers guarding the event. Liu Ling vows to beat Yan Xiao in front of Nalan Yanran, and when Xiao Yan is mocked as a coward he crosses to his seat with a control of air that even Dou Wangs could not match. Mu Chen, head of the Mu Clan, tells his son Mu Zhan to court Ya Fei openly and stop picking on Yan Xiao. Fa Ma opens the conference and sets the first round: refine a pill from the association's prescription before a giant hourglass runs out. A veiled 17-year-old from the Chu Yun Empire shows the Soul Power of at least a fourth-tier alchemist and sees through the sand drift technique used to check her, while other contestants' cauldrons explode because the prescription has a hidden flaw.",
+  "events": [
+    "Ao Tuo brings Yan Xiao and Hai Bodong to the VIP area.",
+    "Fa Ma recognises Hai Bodong, the Ice Emperor once sealed by Medusa.",
+    "Jia Xing Tian arrives; Yue Er introduces Princess Yao Ye.",
+    "Liu Ling and Yue Er make showy entrances; Xiao Yan answers a taunt with precise air control.",
+    "Mu Chen restrains Mu Zhan and praises Yan Xiao.",
+    "Soldiers report an enemy intrusion to General Yao Ye.",
+    "Fa Ma opens the conference and the first round begins.",
+    "The veiled Chu Yun girl draws suspicion; flawed prescriptions make cauldrons explode."
+  ],
+  "introduced": [
+    "Princess Yao Ye",
+    "Mu Chen",
+    "elimination round and finals",
+    "giant hourglass",
+    "sand drift technique",
+    "the veiled girl from the Chu Yun Empire (Yan Li)"
+  ],
+  "cultivation": "The Chu Yun girl is a 17-year-old wearing a second-tier badge whose Soul Power means she is at least a fourth-tier alchemist.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ao-tuo",
+      "name": "Ao Tuo",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fa-ma",
+      "name": "Fa Ma",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yue-er",
+      "name": "Yue Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ye",
+      "name": "Yao Ye",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-ling",
+      "name": "Liu Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mu-chen",
+      "name": "Mu Chen",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 669.0
+    },
+    {
+      "id": "mu-zhan",
+      "name": "Mu Zhan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yan-li",
+      "name": "Yan Li",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-80s is the end of EP45; the [Episode 46] card is at 92.",
+    "The last part of this episode is at the start of ep47.en.srt (0-221s): the Chu Yun girl, the sand drift technique and the flawed prescription.",
+    "55.2: a bracket card reads '[Tian Yi]' with no matching speaker; probably sign text or an OCR slip.",
+    "497: Fa Ma calls it 'the Seventh Alchemist Conference', while EP35 (771) says Jia Ma Empire won 'the past seven contests'; the count is inconsistent.",
+    "309: 'Black Metal Soul Leaf' is a slip for Black Iron Spiritual Leaf.",
+    "611-628: the man who mocks Yan Xiao as 'cowardly' is not identified (Mu Chen or Mu Zhan).",
+    "ep47.en.srt 73-134: who uses the sand drift technique on the veiled girl is not stated.",
+    "The Chu Yun girl is named Yan Li only in the EP48 recap (ep48.en.srt 61)."
+  ]
+}

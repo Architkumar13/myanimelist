@@ -1,0 +1,103 @@
+{
+  "ep": 168,
+  "title": "The Gold Swallowing Mouse Tribe",
+  "summary": "Xiao Yan drives off the Ground Spirit Gate men, and his Heavenly Flame suppresses Wang Chen's darkness-type Corpse Eroding Hand, so Wang Chen withdraws and promises to meet him at the Heaven Mountain Stage. Nalan Yanran tells Xiao Yan she now trains alone, and the two travel on together with her Psychic White Fox. At the maze, Wang Chen tells a band of Dou Huangs about the fox, and when they attack, Xiao Yan kills them all with the Flame Splitting Tsunami. Jin Gu, a Dou Zong of the Gold Swallowing Mouse Tribe, lets him pass after Xiao Yan gives him Qi Mending Pills. With the fox leading, the pair cross the maze and reach the Heaven Mountain Stage just in time. The tribe's leader Jin Shi sets the first test: climb to the summit within an hour under the mice's sonic waves. Hu Ya and Hu Cheng of the Bone Transforming Gate try first and fail.",
+  "events": [
+    "Xiao Yan drives off the Ground Spirit Gate men.",
+    "Wang Chen withdraws after Xiao Yan's Heavenly Flame beats his Corpse Eroding Hand.",
+    "Nalan Yanran explains the Psychic White Fox and the Gold Swallowing Mouse Tribe, and the two travel together.",
+    "Wang Chen sets a group of Dou Huangs on them; Xiao Yan kills them.",
+    "Jin Gu of the Gold Swallowing Mouse Tribe lets Xiao Yan through for some pills.",
+    "Xiao Yan and Nalan Yanran cross the maze with the fox and reach the Heaven Mountain Stage.",
+    "Jin Shi announces the sonic-wave climbing test.",
+    "Hu Ya and Hu Cheng of the Bone Transforming Gate fail the test."
+  ],
+  "introduced": [
+    "Corpse Eroding Hand",
+    "Gold Swallowing Mouse Tribe",
+    "Jin Gu",
+    "Qi Mending Pill",
+    "Jin Shi",
+    "Hu Ya",
+    "Hu Cheng",
+    "Bone Transforming Gate",
+    "Lion Tiger Gold Shattering Roar"
+  ],
+  "cultivation": "Wang Chen is said to be at the peak of Dou Huang. Jin Gu is a Dou Zong. The leader of the Gold Swallowing Mouse Tribe is as strong as a Six-Star Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "first": false
+    },
+    {
+      "id": "wang-chen",
+      "name": "Wang Chen",
+      "realm": "peak Dou Huang",
+      "quote": "He has long reached the peak of the Dou Huang class.",
+      "first": false
+    },
+    {
+      "id": "huang-tian",
+      "name": "Huang Tian",
+      "first": false
+    },
+    {
+      "id": "jin-gu",
+      "name": "Jin Gu",
+      "realm": "Dou Zong",
+      "quote": "(A Dou Zong?)",
+      "first": true,
+      "card": 571
+    },
+    {
+      "id": "jin-shi",
+      "name": "Jin Shi",
+      "realm": "6-star Dou Zong",
+      "quote": "The leader of the tribe is as strong as a Six-Star Dou Zong.",
+      "first": true,
+      "card": 763
+    },
+    {
+      "id": "mu-qing-luan",
+      "name": "Mu Qing Luan",
+      "first": true,
+      "card": 827
+    },
+    {
+      "id": "feng-qing-er",
+      "name": "Feng Qing Er",
+      "first": false
+    },
+    {
+      "id": "hu-ya",
+      "name": "Hu Ya",
+      "first": true,
+      "card": 906
+    },
+    {
+      "id": "hu-cheng",
+      "name": "Hu Cheng",
+      "first": true,
+      "card": 906
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: moved the meeting with Tang Ying and the start of the attack on Nalan Yanran to EP167 (Tang Ying is out of the cast; Wang Chen and Huang Tian are first: false); added the failed attempt by Hu Ya and Hu Cheng at the end; read the latecomer at the stage as Xiao Yan; card times moved to the new clock."
+  ],
+  "flags": [
+    "0-44s is the recap; 48-56s repeats the end of EP167.",
+    "75s: 'Brothers. Attack!' is taken as Huang Tian ordering his men; the speaker is not named.",
+    "339s: the Six-Star Dou Zong leader is taken as Jin Shi, who names himself tribe leader at 832s.",
+    "436s: 'A Nine-Star Dou Huang?' is said of someone among the group at the maze; who is not clear.",
+    "763s: name card '[Jin Shi]'; 827s: name card '[Mu Qing Luan]'.",
+    "782-815s: the latecomer who apologizes for being late is not named; an unnamed Wind Lightning Pavilion member (likely Feng Qing Er) thinks he barely made it and plans to capture him for the Northern Pavilion, which fits Xiao Yan.",
+    "949-962s: 'This is as far as I can go. Don't worry about me.' has no named speaker; it may be Nalan Yanran."
+  ]
+}

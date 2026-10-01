@@ -1,0 +1,84 @@
+{
+  "ep": 29,
+  "title": "The Breaking Adversity Pill",
+  "summary": "Xiao Yan returns to Hai Bodong with the Sand's Datura and refines the sixth-tier Breaking Adversity Pill for him in an ice chamber under the desert, with Yao Lao doing the refining and Xiao Yan watching. Yao Lao hides a cube of Bone Chilling Flame ice in the pill to protect them. Hai Bodong takes the pill, his seal breaks, and he is a Dou Huang again. He thinks about turning on Xiao Yan, then decides to stay friends and hands over the fragmented map. In Rock Desert City, Mo Ran, a One-Star Da Dou Shi sent by the Mo Clan of Yan City, beats Xiao Li and Xiao Ding. Xiao Yan arrives and fights Mo Ran himself, without Yao Lao's help.",
+  "events": [
+    "Xiao Yan gives Hai Bodong the Sand's Datura and agrees to refine the pill first.",
+    "In a sealed ice chamber, Yao Lao refines the Breaking Adversity Pill with the cauldron Black Demon while Xiao Yan watches.",
+    "Yao Lao hides Bone Chilling Flame ice in the pill as a safeguard.",
+    "Hai Bodong takes the pill and breaks his seal, becoming a Dou Huang again.",
+    "Hai Bodong gives Xiao Yan the fragmented map.",
+    "Mo Ran beats Xiao Li and Xiao Ding at the Desert Metal compound.",
+    "Xiao Yan arrives and fights Mo Ran alone, and Mo Ran shows his Dou Qi Armor."
+  ],
+  "introduced": [
+    "Breaking Adversity Pill (tier six, breaks most seals)",
+    "Black Demon (cauldron)",
+    "Bone Chilling Flame ice cube (safeguard)",
+    "fragmented map",
+    "Mo Ran",
+    "Mo Clan of Yan City",
+    "Dou Qi Armor"
+  ],
+  "cultivation": "Hai Bodong breaks his seal: 'I'm now a Dou Huang again!' (743.5). Mo Ran is a One-Star Da Dou Shi (1038.2).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": "Dou Huang",
+      "quote": "I'm now a Dou Huang again!",
+      "first": false,
+      "card": 215.0
+    },
+    {
+      "id": "mo-ran",
+      "name": "Mo Ran",
+      "realm": "1-star Da Dou Shi",
+      "quote": "He's the One-Star Da Dou Shi that Luo Bu found somewhere",
+      "first": true,
+      "card": 932.5
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-204s is the end of EP28 (Flame Mantra evolution); the [Episode 29] card is at 204.",
+    "300 'Breaking Adversity Pill' is called a 'seal-breaking pill' at 255; same pill.",
+    "443-446: 'This cauldron of mine is known to the world as Black Demon' - most likely Yao Lao speaking, not fully clear.",
+    "1110-1113: Xiao Ding says Xiao Yan is at his strongest 'without that odd black ruler' (his heavy ruler).",
+    "The end of the Mo Ran fight is in ep30.en.srt 0-78s, before the [Episode 30] card: Xiao Yan breaks the Dou Qi Armor. Counted here.",
+    "Hai Bodong's realm before the seal broke is given in EP30 (sealed from 5-star; now 2-star)."
+  ]
+}

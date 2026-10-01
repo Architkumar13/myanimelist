@@ -1,0 +1,109 @@
+{
+  "ep": 97,
+  "title": "The Tower Quakes",
+  "summary": "Xiao Yan, now a Two-Star Dou Ling, trains on the sixth floor of the Blazing Qi Refining Tower. Yao Sheng of the Mountain Splitting Gang, ranked 17th, picks a fight with his Ghost Whale Water Wall until Liu Qing stops it. Zi Yan then arrives and lends Xiao Yan her own training spot. Soon the tower shakes because the Fallen Heart Flame is pushing at its seal, and the elders patch it with a Small Space Seal. The First Elder, Su Qian, knows Xiao Yan has a Heavenly Flame and asks him to help the academy with the seal one day. That night Xiao Yan and Xun Er watch fireflies and a shooting star, and he gives her a gift he puts on her himself.",
+  "events": [
+    "Students mock Xiao Yan for being a Two-Star Dou Ling on the sixth floor.",
+    "Yao Sheng challenges him; Xiao Yan blocks the corrosive Ghost Whale Water Wall.",
+    "Liu Qing stops the fight and says it will be settled at the competition.",
+    "Zi Yan arrives and lends Xiao Yan her training spot.",
+    "The Fallen Heart Flame shakes the tower; the elders repair the seal with a Small Space Seal and close the tower.",
+    "Su Qian introduces himself and asks Xiao Yan to help with the Fallen Heart Flame later.",
+    "Xun Er remembers Mr. Ling's warning; she and Xiao Yan watch the stars and he gives her a gift."
+  ],
+  "introduced": [
+    "Yao Sheng",
+    "Ghost Whale Water Wall",
+    "Small Space Seal",
+    "sixth floor of the Blazing Qi Refining Tower",
+    "Su Qian (named, introduces himself)"
+  ],
+  "cultivation": "Xiao Yan is called a Two-Star Dou Ling. Yao Sheng is 'at least a Seven-Star Dou Ling', ranked 17th on the Strong Ranking.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "2-star Dou Ling",
+      "quote": "A Two-Star Dou Ling. Why is someone with his capability allowed on the sixth floor?",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-sheng",
+      "name": "Yao Sheng",
+      "realm": "7-star Dou Ling",
+      "quote": "He is at least a Seven-Star Dou Ling.",
+      "first": true,
+      "card": 119.3
+    },
+    {
+      "id": "liu-qing",
+      "name": "Liu Qing",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "realm": null,
+      "quote": "I'm Su Qian. The First Elder of the Inner Academy.",
+      "first": false,
+      "card": 678.8
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mr-ling",
+      "name": "Mr. Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut subtitle file, which starts at the [Episode 97] card: the file already started at the card, so events are unchanged; flags updated."
+  ],
+  "flags": [
+    "0-44s are a recap of EP96 and are not counted. Xiao Yan's closing thought about the top ten (982.8) belongs to this episode.",
+    "Yao Sheng's realm is a lower bound ('at least a Seven-Star Dou Ling').",
+    "Xun Er's guardian says 'The Patriarch' (765.8) here but 'The Matriarch' in EP95 (174.1); one of these is likely a translation slip.",
+    "'Broth Xiao Yan' (775, 792, 802, 849, 925) is a typo for 'Brother Xiao Yan'.",
+    "The gift Xiao Yan gives Xun Er (891-925s) is not named; it is something he puts on her.",
+    "748-750s '(I want the Fallen Heart Flame.) (Can you give me that?)' is Xiao Yan's inner thought.",
+    "Su Qian was seen earlier as 'First Elder' (EP89, EP95); first marked false."
+  ]
+}

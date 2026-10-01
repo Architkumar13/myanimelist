@@ -1,0 +1,86 @@
+{
+  "ep": 68,
+  "title": "Hunted by the Flight Unit",
+  "summary": "In the Jia Ma capital, Jia Xing Tian decides the imperial family will not stand against the Misty Cloud Sect for Xiao Yan, despite Hai Bodong's plea. Three Misty Cloud Sect elders lead the hunt in the Magical Beast Mountain Range, and their disciples shadow Xiao Yan without fighting him. When the disciples stop, Xiao Yan senses a Dou Huang arrive: Yun Yun, who draws Yun Shan's mark out of his body. Chased by a large flight unit, he finds his Purple Cloud Wings slower than true Dou Qi Wings, and Yao Lao spends his soul power to help him. Yun Lei catches him and boasts that he and Yun Sheng broke Xiao Zhan's limbs and that the sect has gone after the rest of the Xiao Clan. Xiao Yan sends the Heaven Swallowing Python ahead and uses the first change, the Green Lotus Change.",
+  "events": [
+    "The imperial council chooses not to intervene; Hai Bodong objects.",
+    "Three sect elders sharpen the search; disciples tail but do not engage.",
+    "Yun Yun, a Dou Huang, arrives and draws out the mark.",
+    "The flight unit chases Xiao Yan; Yao Lao helps him until his soul power runs low.",
+    "Yun Lei taunts Xiao Yan about the attack on the Xiao Clan and his father.",
+    "Xiao Yan activates the Green Lotus Change."
+  ],
+  "introduced": [
+    "Mu Clan (serves the imperial family)",
+    "Green Lotus Change (first change)",
+    "Dou Qi Wings (true) vs Purple Cloud Wings"
+  ],
+  "cultivation": "The arriving aura 'It's a Dou Huang' (359.8), revealed as Yun Yun. EP68 recap: Xiao Yan 'has successfully broken through to the Three-Star Da Dou Shi level' (14).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Three-Star Da Dou Shi",
+      "quote": "He has successfully broken through to the Three-Star Da Dou Shi level.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jia-xing-tian",
+      "name": "Jia Xing Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-lei",
+      "name": "Yun Lei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": "Dou Huang",
+      "quote": "It's a Dou Huang.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "heaven-swallowing-python",
+      "name": "Seven-Colored Heaven Swallowing Python",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-35s: card and recap; the realm quote for Xiao Yan comes from the recap narration.",
+    "53.8: a Mu Clan head pledges loyalty; he is unnamed.",
+    "The three elders are not all named; Yun Lei is named (284), and Yun Sheng is named as present on the night of the attack (776).",
+    "766-800 and 996-1045: the taunting elder is untagged; 'Yun Sheng and I were both there' marks him as Yun Lei.",
+    "Yun Yun's 'I'm sorry' (534) suggests she drew the mark out reluctantly."
+  ]
+}

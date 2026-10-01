@@ -1,0 +1,79 @@
+{
+  "ep": 110,
+  "title": "Two Heavenly Flames",
+  "summary": "Xiao Yan survives the Fallen Heart Flame's refining: his meridians are tougher, his Dou Crystal is gone, and Dou Qi now flows from his whole body, enough to form Dou Qi Wings. His storage ring has burned away, and he believes the pills and herbs inside kept him alive. He finds the flame's core and, using the Flame Mantra, merges the Fallen Heart Flame with his Green Lotus Core Flame, then has to fight off the evil fire the merge sets off. In the capital, Hai Bodong and Ya Fei note that the Misty Cloud Sect has turned shady since Yun Shan removed Yun Yun as leader, and in the Black-Corner Region Xiao Li fights the Black Alliance to avenge his brother. Underground, Xiao Yan talks Medusa into a truce so they can break out together. At the academy, Xiao Yu still hopes he is alive, and when the elders reopen the Blazing Qi Refining Tower, the Fallen Heart Flame bursts out and Xiao Yan comes out with it, free.",
+  "events": [
+    "Xiao Yan wakes alive with stronger meridians and no Dou Crystal",
+    "He grows Dou Qi Wings and finds his storage ring gone",
+    "He hunts down the Fallen Heart Flame's core",
+    "Hai Bodong and Ya Fei discuss the Misty Cloud Sect under Yun Shan",
+    "Xiao Yan merges the Fallen Heart Flame with the Green Lotus Core Flame and fights the evil fire it sets off",
+    "Xiao Li fights Black Alliance members in the Black-Corner Region",
+    "Xiao Yan and Medusa agree to work together to break the seal",
+    "The tower is reopened, the Fallen Heart Flame bursts out, and Xiao Yan comes out with it"
+  ],
+  "introduced": [
+    "Dou Qi Wings",
+    "Black Alliance",
+    "Seven-Colored Dou Qi",
+    "evil flame (side effect of merging Heavenly Flames)"
+  ],
+  "cultivation": "Xiao Yan's Dou Crystal disappears and Dou Qi flows straight from his body; his meridians are strengthened. Medusa is close to full control of her body and becoming a Dou Zong. (Ep111's recap says he broke through to Dou Wang during the two years underground.)",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": "Dou Zong (about to become)",
+      "quote": "Then, she will truly become a super strong Dou Zong.",
+      "first": false
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "first": false
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "first": false
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false
+    },
+    {
+      "id": "xiao-yu",
+      "name": "Xiao Yu",
+      "first": false,
+      "card": 777.2
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Moved in from the old EP111 review: Xiao Yu and Zi Yan at the academy, the tower reopening and Xiao Yan coming out (before the [Episode 111] card). The Xiao Li and Medusa scenes are now inside this file. Confidence raised to high now the file runs card to card; Xiao Yu and Zi Yan added to cast."
+  ],
+  "flags": [
+    "0-24s are a recap of EP109 and are not counted.",
+    "Yao Lao is asleep this episode; he is addressed but does not answer.",
+    "Xiao Yan's breakthrough to Dou Wang is not stated in this file; it comes from EP111's recap (12.6) and the EP111 lines.",
+    "777.2 'Yu' is read as Xiao Yu, talking with Zi Yan. 800.7 'Fortunately, Xun Er wasn't there' suggests Xun Er had already left the academy.",
+    "817-852s: the elder who opens the tower and mentions Lin Xiu Ya, Liu Qing and Lin Yan staying on is not named.",
+    "Hai Bodong says it has been 'almost three years' since Xiao Yan left the Jia Ma Empire (307.5)."
+  ]
+}

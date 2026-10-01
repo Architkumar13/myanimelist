@@ -1,0 +1,109 @@
+{
+  "ep": 275,
+  "title": "The Pill Gathering Begins",
+  "summary": "Xiao Yan means to win the Pill Gathering so Yao Lao can carve his parents' names on the Medicine Clan's clan monument. Clan Chief Yao Dan, a Seven-Star Dou Sheng, opens the event on Yao Mountain and greets Yao Lao warmly. Old Shennong, a Six-Star Dou Sheng and the oldest master of alchemy, also comes out of seclusion and notes that Xiao Yan's soul is at the peak of the Heavenly Realm. In the young generation's round, Yao Tian wins with an eighth-grade pill that calls nine-colored pill lightning, ahead of his sister Yao Ling and Yao Xing Ji. Before the main round, Hun Xuzi of the Hun Clan, a Six-Star Dou Sheng, arrives with an invitation the elders say is stolen. Yao Lao reveals Hun Xuzi is the Hun Clan spy who stole techniques from the Small Pill Tower and wounded his own master, and he taunts Yao Lao about his capture. Yao Dan lets him compete under the clan's rules, against Yao Wanhuo and Old Shennong, and Xiao Yan takes the fourth place in the name of the Pill Tower.",
+  "events": [
+    "Xiao Yan resolves to win for Yao Lao's parents.",
+    "Clan Chief Yao Dan opens the Pill Gathering.",
+    "Old Shennong arrives and praises Xiao Yan's soul.",
+    "Yao Tian wins the young generation's round with a nine-colored-lightning pill.",
+    "Hun Xuzi of the Hun Clan arrives with a suspect invitation.",
+    "Hun Xuzi and Yao Lao trade insults over his betrayal and Yao Lao's capture.",
+    "Yao Dan allows him to compete; Xiao Yan enters for the Pill Tower."
+  ],
+  "introduced": [
+    "Yao Dan",
+    "Old Shennong",
+    "Yao Tian",
+    "Yao Ling",
+    "Hun Xuzi",
+    "Yao Mountain",
+    "nine-colored pill lightning"
+  ],
+  "cultivation": "Yao Dan: Seven-Star Dou Sheng (card). Old Shennong: Six-Star Dou Sheng (card). Hun Xuzi: Six-Star Dou Sheng (card). Xiao Yan's soul is at the peak of the Heavenly Realm (384.8).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-wanhuo",
+      "name": "Yao Wanhuo",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-dan",
+      "name": "Yao Dan",
+      "realm": "Seven-Star Dou Sheng",
+      "quote": "[Yao Dan, / Dou Sheng Bintang Tujuh]",
+      "first": true,
+      "card": 253.7
+    },
+    {
+      "id": "old-shennong",
+      "name": "Old Shennong",
+      "realm": "Six-Star Dou Sheng",
+      "quote": "[Pak Tua Shennong, / Dou Sheng Bintang Enam]",
+      "first": true,
+      "card": 342.0
+    },
+    {
+      "id": "yao-tian",
+      "name": "Yao Tian",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 445.5
+    },
+    {
+      "id": "yao-ling",
+      "name": "Yao Ling",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 459.5
+    },
+    {
+      "id": "yao-xing-ji",
+      "name": "Yao Xing Ji",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 471.1
+    },
+    {
+      "id": "hun-xuzi",
+      "name": "Hun Xuzi",
+      "realm": "Six-Star Dou Sheng",
+      "quote": "[Hun Xuzi, / Dou Sheng Bintang Enam]",
+      "first": true,
+      "card": 714.9
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Only the Indonesian fan track exists (cache/animekhor/ep275.id.srt). 5-31s is narration about the clan monument.",
+    "117-119s 'Brother Xiao Yan, since we parted at the Celestial Tomb': the speaker is not named (possibly Yao Xing Ji, who was in the Celestial Tomb in EP218, or Yao Wanhuo).",
+    "500.7 'Api Bumi Spiritual Kura-kura, peringkat ketiga belas' (a Spirit Turtle Earth Flame, ranked thirteenth) appears when the young contestants light their cauldrons; whose flame it is is not said.",
+    "645-650s: onlookers say Xiao Yan can already refine ninth-grade pills and calls Black Demon Lightning.",
+    "1095-1101s: the speaker who enters 'in the name of the Pill Tower' is not named in the line; EP276-277 confirm the four contestants are Xiao Yan, Yao Wanhuo, Old Shennong and Hun Xuzi.",
+    "Hun Xuzi is called the Hun Clan's chief alchemist (867.4) and ranked above Hun Miesheng (741.1). 957-965s he says he kept Yao Lao alive to serve the Hun Clan.",
+    "Yao Xing Ji spelling from EP218's official card."
+  ]
+}

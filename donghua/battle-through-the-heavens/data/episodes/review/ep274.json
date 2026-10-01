@@ -1,0 +1,69 @@
+{
+  "ep": 274,
+  "title": "Return to the Medicine Clan",
+  "summary": "Long ago in the Medicine Clan, young Yao Lao was framed, called a weak-blooded waste by Elder Yao Wangui, and thrown out of the clan. Now Yao Lao, leader of the Sky Mansion Alliance, comes back with Xiao Yan for the Pill Gathering in the Shennong Mountains, the clan's great alchemy contest. Medicine Clan core descendants mock Yao Lao as an outcast, and Yao Wangui says no outcast may carve a name on the clan monument. Xiao Yan beats Yao Wangui and his guards and shows Five-Star Dou Sheng strength. Elder Yao Wanhuo, a Six-Star Dou Sheng, steps in, but he cannot push Xiao Yan back either. Yao Wanhuo banishes the rude clansmen from the mountain for ten years and apologizes for the clan. He invites Xiao Yan to compete, noting that the winner may make one request of the Medicine Clan.",
+  "events": [
+    "Flashback: young Yao Lao is framed and expelled by Yao Wangui.",
+    "Yao Lao and Xiao Yan reach the Shennong Mountains for the Pill Gathering.",
+    "Medicine Clan descendants mock Yao Lao at the gate.",
+    "Yao Wangui forbids Yao Lao from carving names on the clan monument.",
+    "Xiao Yan beats Yao Wangui and the guards.",
+    "Yao Wanhuo intervenes and clashes with Xiao Yan.",
+    "Yao Wanhuo punishes the offenders and invites Xiao Yan to compete."
+  ],
+  "introduced": [
+    "Medicine Clan",
+    "Pill Gathering",
+    "Shennong Mountains",
+    "clan monument",
+    "Yao Wangui",
+    "Yao Wanhuo",
+    "Withered Flower Palm"
+  ],
+  "cultivation": "Xiao Yan is shown as a Five-Star Dou Sheng ('Dou Sheng Bintang Lima', 652.1). Yao Wanhuo is a Six-Star Dou Sheng (card).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Five-Star Dou Sheng",
+      "quote": "Dou Sheng Bintang Lima. (Five-Star Dou Sheng.)",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null,
+      "look": "also seen young, in a flashback"
+    },
+    {
+      "id": "yao-wangui",
+      "name": "Yao Wangui",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    },
+    {
+      "id": "yao-wanhuo",
+      "name": "Yao Wanhuo",
+      "realm": "Six-Star Dou Sheng",
+      "quote": "[Yao Wanhuo, / Dou Sheng Bintang Enam]",
+      "first": true,
+      "card": 791.4
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Only the Indonesian fan track exists (cache/animekhor/ep274.id.srt, labelled 'Episode 205' = S5 EP205 = site EP274). Review written in English from it.",
+    "0-46s is narration on the Pill Gathering; 70-140s is a flashback of Yao Lao's youth and expulsion (he is called 'Chen'er' and 'Yao Chen').",
+    "The fan track writes 'Klan Yao'; the official track (EP276 on) calls it the Medicine Clan, used here.",
+    "832.3 'Pohon Palem dengan Bunga yang Layu' is a mistranslation of a technique name ('palm', not 'palm tree'); given as Withered Flower Palm. 846.6 'Jari Pengumpul Api' (Fire Gathering Finger) is likely Xiao Yan's Fire Condensation Finger.",
+    "770.3 Xiao Yan names the Purifying Demonic Lotus Flame ('Api Iblis Teratai Pemurnian').",
+    "No Medicine Clan line in this file says how Yao Lao was framed or by whom."
+  ]
+}

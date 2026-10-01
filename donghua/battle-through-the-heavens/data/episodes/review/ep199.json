@@ -1,0 +1,75 @@
+{
+  "ep": 199,
+  "title": "Into the Death Soul Mountain Range",
+  "summary": "The Pill Tower has found a Hall of Souls branch in the Death Soul Mountain Range in the northwest of the Central Plains, where Yao Lao is likely held. At least five Dou Zuns guard it, and the Pill Tower cannot join in openly without starting a war. Xiao Yan sends for Elder Feng and trains for days to master the fourth seal of the God Seal Technique, the Sky Burying Seal. Ten days later Elder Feng, called Feng Zun Zhe, arrives at the Pill Tower with Tie Jian Zun Zhe, who owes Yao Lao a debt. Elder Feng is surprised that Xiao Yan is already a Nine-Star Dou Zong. With Zi Yan, Little Fairy Doctor, Yao Tian Huo and a Dou Zun-level puppet, Xiao Yan has five Dou Zun-level fighters. In the misty mountains a swarm of Stone Swallowing Demon Ants surrounds them, but Zi Yan tames their Ant Queen and has it lead them toward the Hall of Souls.",
+  "events": [
+    "Xuan Kong Zi reveals the branch in the Death Soul Mountain Range and its five Dou Zuns.",
+    "Xiao Yan sends for Elder Feng.",
+    "Xiao Yan trains on the Sky Burying Seal for days.",
+    "Elder Feng arrives with Tie Jian Zun Zhe.",
+    "Xiao Yan introduces Zi Yan, Little Fairy Doctor and Tian Huo Zun Zhe and shows his puppet.",
+    "The group enters the Death Soul Mountain Range on foot.",
+    "Stone Swallowing Demon Ants surround them, and Zi Yan tames the Ant Queen.",
+    "The Ant Queen leads them toward the Hall of Souls branch."
+  ],
+  "introduced": [
+    "Death Soul Mountain Range",
+    "Tianzun",
+    "Tie Jian",
+    "Demon Sword Sect",
+    "Stone Swallowing Demon Ants",
+    "Stone Swallowing Ant Queen"
+  ],
+  "cultivation": "Xiao Yan is a Nine-Star Dou Zong (500s, 516-518s). Tianzuns, the Hall of Souls' highest elders, are at least Five-Star Dou Zuns. Xiao Yan's puppet is Dou Zun-level (634s).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "9-star Dou Zong",
+      "quote": "Recently, I was fortunate to break through and reach Nine Stars.",
+      "first": false
+    },
+    {
+      "id": "xuan-kong-zi",
+      "name": "Xuan Kong Zi",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "elder-feng",
+      "name": "Elder Feng",
+      "first": false
+    },
+    {
+      "id": "tie-jian",
+      "name": "Tie Jian",
+      "first": true,
+      "card": 465
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10s [Episode 199] card; 16-60s recap.",
+    "Elder Feng is Feng Zun Zhe, Yao Lao's old friend (named in EP128); he calls Yao Lao 'Chen'. EP200 calls him Feng Xian. He is not the Wind Lightning Pavilion's Elder Feng from EP164-165, who also uses the id elder-feng.",
+    "63-183s: the Pill Tower speaker is taken as Xuan Kong Zi.",
+    "276-343s: Xiao Yan practises the Sky Burying Seal (the fourth seal); it is given to him in EP185 as one of the last three seals.",
+    "444-460s: a Pill Tower head greets Elder Feng and asks Tie Jian's name.",
+    "510s: Elder Feng says Xiao Yan had just broken through to Dou Zong when they parted a year ago.",
+    "634-643s: the puppet is called a 'Dou Zun-level puppet'; its name is not used here."
+  ]
+}

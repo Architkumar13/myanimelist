@@ -1,0 +1,111 @@
+{
+  "ep": 177,
+  "title": "Ye City",
+  "summary": "Xiao Yan survives Wu Chen's ten blows, and Tang Zhen lets him inherit the Sky Fire Three Mysterious Changes. Tang Zhen tells Tang Huo Er that the technique was made by Xiao Xuan of the Xiao Clan, one of five experts a step from Dou Di. In the Jia Ma Empire, Xiao Ding and Medusa receive a Profound Lion Sect envoy for the Yan Alliance, and Xiao Yan's letter brings Medusa the Heaven Soul Blood Fusing Pill. Xiao Yan then learns that Xin Lan is Ye Xin Lan of the Ye Clan, one of the Pill Region's five great clans. The Ice River Valley has put out a wanted notice for the Little Fairy Doctor and her Woeful Poison Body. In Ye City, First Elder Ye Chong is forcing Xin Lan to marry Cao Dan of the Cao Clan. Xiao Yan breaks in, beats the Ye Clan's Fourth Elder, a One-Star Dou Zong, holds off the rest with his puppet, and leaves with Xin Lan.",
+  "events": [
+    "Wu Chen loses the ten-blow trial, and Xiao Yan gets the Sky Fire Three Mysterious Changes.",
+    "In the Jia Ma Empire, Xiao Ding and Medusa deal with the Profound Lion Sect.",
+    "Medusa reads Xiao Yan's letter and receives the Heaven Soul Blood Fusing Pill.",
+    "Tang Zhen tells Tang Huo Er about Xiao Xuan, the technique's creator.",
+    "Xin Lan and the Little Fairy Doctor are attacked by the Ice River Valley, and Xin Lan goes for help.",
+    "Liu Qing explains the Ye Clan and opens the Wormhole to the Pill Region.",
+    "Ye Chong refuses to help the Little Fairy Doctor and orders Xin Lan to marry Cao Dan.",
+    "Xiao Yan defeats the Ye Clan's elders and takes Xin Lan away."
+  ],
+  "introduced": [
+    "Profound Lion Sect",
+    "Yan Alliance (envoy)",
+    "inheritance crystal ball",
+    "Burning Flame Ancestor",
+    "Xiao Xuan",
+    "Xiao Clan (Dou Di bloodline)",
+    "Ye Clan",
+    "Ye Xin Lan",
+    "Ye City",
+    "five large clans of the Pill Region",
+    "Woeful Poison Lady",
+    "Ye Chong",
+    "Cao Clan",
+    "Cao Dan"
+  ],
+  "cultivation": "A Ye Clan elder, the Fourth Elder, is a One-Star Dou Zong.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "wu-chen",
+      "name": "Wu Chen",
+      "first": false
+    },
+    {
+      "id": "tang-zhen",
+      "name": "Tang Zhen",
+      "first": false
+    },
+    {
+      "id": "tang-huo-er",
+      "name": "Tang Huo Er",
+      "first": false
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "first": false,
+      "card": 140
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false,
+      "card": 198
+    },
+    {
+      "id": "xin-lan",
+      "name": "Xin Lan",
+      "first": false,
+      "card": 487
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false,
+      "card": 503
+    },
+    {
+      "id": "liu-qing",
+      "name": "Liu Qing",
+      "first": false
+    },
+    {
+      "id": "liu-fei",
+      "name": "Liu Fei",
+      "first": false
+    },
+    {
+      "id": "lin-yan",
+      "name": "Lin Yan",
+      "first": false
+    },
+    {
+      "id": "ye-chong",
+      "name": "Ye Chong",
+      "first": true,
+      "card": 686
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Opening narration 15-46s is a recap of EP176.",
+    "116-181s: the Profound Lion Sect envoy and 'Your Majesty' (Medusa, who goes into isolation) are not named on screen. 'Ding' is Xiao Ding; the other speaker (140-142s) is not named and may be Xiao Li.",
+    "198-240s: Xiao Yan's letter is read in his voice and addresses Medusa as Cai Lin.",
+    "280-310s: five experts one step from Dou Di: the Burning Flame Ancestor, one each from the Gu Clan, the Hall of Souls and the Pill Tower, and Xiao Xuan of the Xiao Clan, a Dou Di descendant who created the technique.",
+    "436-505s: Xin Lan and the Little Fairy Doctor split up under Ice River Valley attack. How Xiao Yan hears of it is not shown; at 516s he learns Xin Lan's full name from the Liu siblings.",
+    "586-610s: a scuffle over someone who wants to come along ('Bring me along'); taken as Liu Fei; speakers not clear.",
+    "686s: name card '[Ye Chong]'. 880s: 'Fourth Elder is a One-Star Dou Zong' is the Ye Clan elder Xiao Yan beats.",
+    "1069s: '[Preview of the next episode]'; ending-song lyrics before it."
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "ep": 114,
+  "title": "Han Feng Falls",
+  "summary": "Xiao Yan, now strong on his own, fights Han Feng, a Half-Step Dou Zong, and his Sea Heart Magical Beast with a new Fire Lotus. Han Feng survives the blast and tries to kill Xiao Yan, but Medusa steps in and kicks him to death. A man from the Hall of Souls takes Han Feng's soul and his Sea Heart Flame, confirms that Yao Chen's spirit lives inside Xiao Yan and warns that stronger men will come. Medusa warns Xiao Yan she won't spare him next time, Su Qian gives him Han Feng's Serene Sea Storage Ring, and the Black Alliance falls. Xiao Yan names his fused flame the Glaze Lotus Core Flame and opens Xun Er's scroll, the God Seal Technique. Inside, Xun Er's image says she can only give him its first two seals, that her clan guards it closely, and that she misses him.",
+  "events": [
+    "Xiao Yan's Fire Lotus beats Han Feng's Sea Heart Magical Beast",
+    "Medusa saves Xiao Yan and kills Han Feng with a kick",
+    "A Soul Envoy of the Hall of Souls takes Han Feng's soul and the Sea Heart Flame",
+    "Medusa warns Xiao Yan she won't hold back next time",
+    "Su Qian gives Xiao Yan the Serene Sea Storage Ring; the Black Alliance falls",
+    "Xiao Yan names his fused flame the Glaze Lotus Core Flame",
+    "He opens the God Seal Technique scroll",
+    "Xun Er's image in the scroll gives him the first two seals and a warning"
+  ],
+  "introduced": [
+    "Soul Envoy",
+    "Sea Heart Magical Beast",
+    "Serene Sea Storage Ring",
+    "Glaze Lotus Core Flame",
+    "God Seal Technique",
+    "Open Mountain Seal",
+    "Sea Flipping Seal",
+    "Overturning Land Seal",
+    "Sky Burying Seal",
+    "Ancient God Seal",
+    "Di Class High Rank",
+    "Tian Class Dou Skill"
+  ],
+  "cultivation": "Han Feng is a Half-Step Dou Zong. Xiao Yan has purged the Searing Poison during his two years underground and has fused two Heavenly Flames. The God Seal Technique needs at least Dou Wang; Xun Er says the Sea Flipping Seal is best learned at Dou Huang.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "realm": "Half-Step Dou Zong",
+      "quote": "He's worthy of being a strong Half-Step Dou Zong.",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "soul-envoy",
+      "name": "Soul Envoy",
+      "first": true,
+      "card": 402.9
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false
+    },
+    {
+      "id": "mr-jin",
+      "name": "Mr. Jin",
+      "first": false
+    },
+    {
+      "id": "mr-yin",
+      "name": "Mr. Yin",
+      "first": false
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false,
+      "card": 890.4
+    }
+  ],
+  "changes": [
+    "Moved in from the old EP115 review: Xun Er's message inside the God Seal Technique scroll (before the [Episode 115] card). Brilliance Seal moved to EP113, where it is used; Hall of Souls and Searing Poison dropped from introduced (both are named in earlier episodes). Soul Envoy's card moved to 402.9; Xun Er added to cast."
+  ],
+  "flags": [
+    "0-28s are a recap of EP113 and are not counted.",
+    "The envoy is named 'Soul Envoy' only in EP115's recap (17.5); here he says he is from the Hall of Souls (402.9).",
+    "Han Feng was killed by Medusa's kick (371.7, 382.4); the envoy took his soul (446.8) and the Sea Heart Flame (488.4).",
+    "890-976s: Xun Er appears as an image recorded in the scroll, not in person."
+  ]
+}

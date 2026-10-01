@@ -1,0 +1,115 @@
+{
+  "ep": 262,
+  "title": "Hun Miesheng's hidden strength",
+  "summary": "Xiao Yan survives his own Extermination Fire Lotus blast with the Demon Flame's source, and Hun Miesheng reveals he has been hiding his strength as a Five-Star Dou Sheng. The others say this breaks the ancient clans' agreement, and Zi Yan and the rest cannot stop him. Xiao Chen, who has worn off the Hun Clan's mark, saves Xiao Yan and fights Hun Miesheng with his axe as a mid Five-Star Dou Sheng. The Soul Demon Elder of the Hun Clan arrives to back Hun Miesheng, and then the Pill Tower Ancestor appears, a Six-Star Dou Sheng whose true form is a pill and who had saved Xiao Yan from Hun Miesheng before. The ancestor reveals that the Demon Flame let itself be sealed to watch their plans, and the real flame emerges and starts the Refining Heaven Ancient Array to turn everyone into Fire Slaves. The Demon Flame space cannot be opened, so the ancestor and the others try to break the array from both sides. The remnant of the Pure Lotus Demon Saint asks for Xiao Yan's body, takes it, and greets the Demon Flame.",
+  "events": [
+    "Xiao Yan survives the fire lotus blast with the Demon Flame's source.",
+    "Hun Miesheng reveals he is a Five-Star Dou Sheng.",
+    "Xiao Chen, free of the Hun Clan's mark, fights Hun Miesheng.",
+    "The Soul Demon Elder joins Hun Miesheng.",
+    "The Pill Tower Ancestor, a Six-Star Dou Sheng, arrives and takes the source for safekeeping.",
+    "The real Demon Flame emerges and starts the Refining Heaven Ancient Array.",
+    "The group tries to break the array from its Heaven and Earth sides.",
+    "The Pure Lotus Demon Saint takes Xiao Yan's body and faces the Demon Flame."
+  ],
+  "introduced": [
+    "Soul Extinction (Hun Miesheng's technique)",
+    "Three Axes to Break the Sky",
+    "Soul Burial Shield",
+    "Soul Demon Elder",
+    "Pill Tower Ancestor",
+    "Space relocation",
+    "Statue of the Demon Fire",
+    "Danrongtian",
+    "Refining Heaven Ancient Array",
+    "Refining Heaven into a Slave"
+  ],
+  "cultivation": "Hun Miesheng is a Five-Star Dou Sheng. Xiao Chen is at mid Five-Star. The Pill Tower Ancestor is a Six-Star Dou Sheng. No change for Xiao Yan.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-miesheng",
+      "name": "Hun Miesheng",
+      "realm": "Five-Star Dou Sheng",
+      "quote": "You've reached the Five-Star Dou Sheng level and you still dare to make a move?",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-chen",
+      "name": "Xiao Chen",
+      "realm": "mid Five-Star Dou Sheng",
+      "quote": "Five Star Mid-Term",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "soul-demon-elder",
+      "name": "Soul Demon Elder",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 565.4
+    },
+    {
+      "id": "pill-tower-ancestor",
+      "name": "Pill Tower Ancestor",
+      "realm": "Six-Star Dou Sheng",
+      "quote": "Six-Star Dou Sheng / The Little Pill Tower actually has a six-star Dou Sheng!",
+      "first": false,
+      "card": 625.0
+    },
+    {
+      "id": "purifying-demonic-lotus-flame",
+      "name": "Purifying Demonic Lotus Flame",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "pure-lotus-demon-saint",
+      "name": "Pure Lotus Demon Saint",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 1222.2
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file opens with the opening song (75-135s) and a recap of EP261 (155-183s), and ends with ending lyrics from 1266s.",
+    "This track's English is rough: 'Soul Palace/Soul Hall/temple master' (Hall of Souls/Hall Master), 'Honolulu' (396.6, the Hun Clan's mark), 'Little Danta/Danta' (Pill Tower), 'Fighting Saint' (Dou Sheng).",
+    "The Pill Tower Ancestor is the 'unknown powerhouse' of EP256 (700.2 'It was the senior who saved me from Hun Miesheng before'); first is false for that reason.",
+    "625.0-638.3 'Disciple greets Ancestor / You must be Xiao Mo ... Now you've become a Fighting Saint': who greets whom, and who 'Xiao Mo' is, is unclear.",
+    "658.8 the Soul Demon Elder threatens to take the ancestor's 'peak ninth-grade Xuan Dan'; 922.4 the Demon Flame calls the ancestor 'this old ghost whose true form is Dan'. Read as: the ancestor is a sentient peak ninth-grade pill.",
+    "711.2 'I'll keep it for you': read as the ancestor taking the source for Xiao Yan.",
+    "The Soul Demon Elder's realm is not stated here; EP263's recap calls him a five-star Dou Sheng ('Old Demon Hun').",
+    "1035-1115s: the voice that asks for Xiao Yan's body is the Pure Lotus Demon Saint, per EP263; 1108-1115s 'Although I hate that guy to the core' is ambiguous in this translation.",
+    "Zi Yan is placed by 331.8 'Although the Ancient Dragon of the Void is powerful'."
+  ]
+}

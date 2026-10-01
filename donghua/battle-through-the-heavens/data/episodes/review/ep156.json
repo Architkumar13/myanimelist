@@ -1,0 +1,85 @@
+{
+  "ep": 156,
+  "title": "The End of Han Feng",
+  "summary": "Having taken Protector Xuan's power, Han Feng is now about a Five-Star Dou Zong. The Little Fairy Doctor insists on holding him off with her poison, though her Woeful Poison Body is close to breaking out, so Xiao Yan can merge his Lotus Flame. Xiao Yan then drives Han Feng back with it, and the Little Fairy Doctor tells him she is happier at his side than alone in the Chu Yun Empire. Han Feng gives up most of his soul to flee, but he is poisoned with Blood Corrosion and Xiao Yan catches what is left, and Han Feng begs his martial brother for mercy. Old Ying Shan apologizes, and Xiao Yan gives Chief Mo the cure for his son. Zi Yan sniffs out the Old Ground Demon Ghost's hidden vault, which holds the Flame Creation Skill, the Sky Demon Puppet method and a Rank Seven Fire-Attribute monster core. Tian Huo Zun Zhe thanks Xiao Yan, and Xiao Li rushes in to say something has happened to the Little Fairy Doctor.",
+  "events": [
+    "Han Feng reaches about Five-Star Dou Zong with Protector Xuan's power.",
+    "The Little Fairy Doctor fights Han Feng to buy time despite the risk to her poison body.",
+    "Xiao Yan strikes Han Feng with his merged Lotus Flame.",
+    "Han Feng flees with a fragment of his soul, is poisoned, and Xiao Yan catches it; Han Feng begs for mercy.",
+    "Old Ying Shan apologizes and Chief Mo receives the cure for Mo Ya.",
+    "Zi Yan finds the Old Ground Demon Ghost's vault behind a spatial barrier.",
+    "Xiao Yan obtains the Flame Creation Skill, the Sky Demon Puppet and a Rank Seven monster core.",
+    "Tian Huo Zun Zhe thanks Xiao Yan; Xiao Li warns that the Little Fairy Doctor is in trouble."
+  ],
+  "introduced": [
+    "Sky Sinister Poison Hand",
+    "Spiritual Chant",
+    "Space Lock",
+    "Blood Corrosion",
+    "Flame Creation Skill",
+    "Sky Demon Puppet",
+    "Rank Seven Fire-Attribute monster core",
+    "Chu Yun Empire"
+  ],
+  "cultivation": "Han Feng reaches about Five-Star Dou Zong after absorbing Protector Xuan's power. Xiao Yan is called a Six-Star Dou Huang.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "6-star Dou Huang",
+      "quote": "That kid made this? A Six-Star Dou Huang?",
+      "first": false
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "realm": "5-star Dou Zong",
+      "quote": "Han Feng likely possesses the strength of a strong Five-Star Dou Zong now.",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "old-ying-shan",
+      "name": "Old Ying Shan",
+      "first": false
+    },
+    {
+      "id": "chief-mo",
+      "name": "Chief Mo",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: moved Tian Huo Zun Zhe absorbing the fierce spirit, his slumber and Han Feng killing Protector Xuan to EP155 (Protector Xuan is out of the cast); added from EP157 Tian Huo Zun Zhe's thanks and Xiao Li's warning about the Little Fairy Doctor; Su Qian is not named here and is out of the cast."
+  ],
+  "flags": [
+    "0-28s is the recap; 41-46s replays Han Feng's lines from the end of EP155.",
+    "320-537s: insert-song lyrics play over the battle; ignored.",
+    "101s: Han Feng's Five-Star Dou Zong is an estimate by an ally ('likely possesses').",
+    "215s 'Spiritual Chant!', 438s 'Space Lock!' and 658s 'Blood Corrosion.' are called out without clear speakers. 'You poisoned me?' at 670s is Han Feng, so Blood Corrosion is likely the poison that stops him.",
+    "698-723s: Han Feng is caught as a soul fragment and begs; his final fate is not shown in this episode.",
+    "970-976s: someone tells Xiao Yan to refine the Sky Demon Puppet before the Central Plains; speaker not named.",
+    "1034-1040s: 'Yan! Yan!' is taken as Xiao Li, who calls Xiao Yan 'Yan' and is answered as 'Li' in EP157."
+  ]
+}

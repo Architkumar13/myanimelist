@@ -1,0 +1,82 @@
+{
+  "ep": 71,
+  "title": "The Black Mark City Auction",
+  "summary": "In Black Mark City, Xiao Yan refines Green Spirit Pills to sell, and Yao Lao tells him he needs a Sixth-Tier Ground Spirit Pill before he can take the Fallen Heart Flame. On the street he sees Fan Ling, the young Dou Ling master of the Blood Sect, carry off a man who blocked his way. An appraiser of the Eight Gates sees that Xiao Yan's pills include a Three Lines Green Spirit Pill and treats him with respect. At the auction, Mo Er Han of Black Skeleton's Tomb buys his two Two Lines pills for 1.5 million gold coins each, and Sky Serpent Mansion takes the Three Lines pill, which reminds Xiao Yan that Qing Lin is with them. Fan Ling outbids Xiao Yan for a cloth fragment of the Purifying Demonic Lotus Flame map, and Yao Lao tells him to wait until after the auction. Xiao Yan wins the Flame Core Ganoderma, and Mo Er Han pays ten million for the Di Class Three Thousand Lightning Movement.",
+  "events": [
+    "Xiao Yan learns the Ground Spirit Pill recipe needed for the Fallen Heart Flame.",
+    "Fan Ling of the Blood Sect bullies a passer-by.",
+    "The appraiser values Xiao Yan's Green Spirit Pills.",
+    "Mo Er Han buys the Two Lines pills; Sky Serpent Mansion buys the Three Lines pill.",
+    "Fan Ling buys the Purifying Demonic Lotus Flame map fragment.",
+    "Xiao Yan wins the Flame Core Ganoderma.",
+    "Mo Er Han wins the Three Thousand Lightning Movement for ten million.",
+    "The Eight Gates chief guards the final lot."
+  ],
+  "introduced": [
+    "Fan Ling",
+    "Mo Er Han",
+    "Elder Qing",
+    "Black Skeleton's Tomb",
+    "Sky Serpent Mansion (buyer)",
+    "Ground Spirit Pill",
+    "Flame Core Ganoderma",
+    "Asparagus Ice Fire Fruit",
+    "Green Wood Celestial Vine",
+    "Rank Six Water Type Monster Core",
+    "Purifying Demonic Lotus Flame map fragment",
+    "Three Thousand Lightning Movement"
+  ],
+  "cultivation": "Fan Ling: 'He's a Dou Ling at such a young age' (139). His father is 'the fifth elite in the Black Ranking' (156). A Rank Six Magical Beast is 'as strong as a Dou Huang' (102).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fan-ling",
+      "name": "Fan Ling",
+      "realm": "Dou Ling",
+      "quote": "He's a Dou Ling at such a young age.",
+      "first": true,
+      "card": 139.3
+    },
+    {
+      "id": "mo-er-han",
+      "name": "Mo Er Han",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 370.0
+    },
+    {
+      "id": "elder-qing",
+      "name": "Elder Qing",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 367.7
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-52s: card and narration; not counted.",
+    "The auctioneer (card 475.7), the appraiser (261.4) and a Blood Sect elder (447.3) have caption cards but no names.",
+    "649-651: the 'mystery woman' from Sky Serpent Mansion is Lu Man from EP32 (not named here).",
+    "799-820: the bids of 150,000 and 200,000 are untagged; Fan Ling wins at the end.",
+    "'Sky Serpent Manson' (651) is a typo for Sky Serpent Mansion.",
+    "I assumed Elder Qing is the Sky Serpent Mansion buyer from EP72; in EP71 her card appears with Mo Er Han's at the door."
+  ]
+}

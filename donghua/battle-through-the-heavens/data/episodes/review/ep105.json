@@ -1,0 +1,94 @@
+{
+  "ep": 105,
+  "title": "The Medicine Emperor Comes for the Flame",
+  "summary": "Han Feng, the Medicine Emperor of the Black-Corner Region, demands the Fallen Heart Flame, and Su Qian refuses, saying he would only have listened if the request came from Han Feng's master, Yao Zun Zhe. Han Feng, who owns a Heavenly Flame himself, hires the twin brothers Mr. Jin and Mr. Yin to fight Su Qian, while Fan Lao and other Black-Corner fighters hold off the elders. Yao Lao tells Xiao Yan that Han Feng is his former disciple, who stole part of the Flame Mantra and so wants a second Heavenly Flame; Xiao Yan swears to kill him, but Yao Lao says he is not strong enough yet. Mr. Jin and Mr. Yin merge with their Conjoining Skill and reach Dou Zong level, but still can't take Su Qian. Fan Lao, a Dou Huang, recognises Xiao Yan by his Three Thousand Lightning Movement and goes after him to avenge his son. Zi Yan, Liu Qing and other students step in, and Xiao Yan asks them to hold Fan Lao off for three minutes.",
+  "events": [
+    "Han Feng demands the Heavenly Flame; Su Qian refuses and names Han Feng's master, Yao Zun Zhe",
+    "Han Feng, who owns a Heavenly Flame, calls in Mr. Jin and Mr. Yin against Su Qian",
+    "Fan Lao and others hold off the elders while Han Feng goes for the seal",
+    "Yao Lao reveals Han Feng was his disciple who stole the incomplete Flame Mantra",
+    "Mr. Jin and Mr. Yin use the Conjoining Skill and the Gold and Silver Sky-Capturing Skill on Su Qian",
+    "Fan Lao spots Xiao Yan and attacks him to avenge his son",
+    "Zi Yan and Liu Qing step in; Xiao Yan asks them to stall Fan Lao for three minutes"
+  ],
+  "introduced": [
+    "Mr. Jin",
+    "Mr. Yin",
+    "Yao Zun Zhe (Yao Lao's title)",
+    "Incomplete Flame Mantra",
+    "Conjoining Skill",
+    "Gold and Silver Sky-Capturing Skill",
+    "Bone Transforming Bloody Evil Palm",
+    "Green Wooden Shield"
+  ],
+  "cultivation": "Su Qian is a Dou Zong and Fan Lao a Dou Huang. Mr. Jin and Mr. Yin reach Dou Zong level when conjoined. Fan Lao calls Xiao Yan 'just a Dou Ling'.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Ling",
+      "quote": "You are just a Dou Ling. Can you really turn the world upside down?",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "realm": "Dou Zong",
+      "quote": "A Dou Zong is indeed strong, but you're not invincible.",
+      "first": false
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "first": false,
+      "card": 85.2
+    },
+    {
+      "id": "mr-jin",
+      "name": "Mr. Jin",
+      "first": true,
+      "card": 263.9
+    },
+    {
+      "id": "mr-yin",
+      "name": "Mr. Yin",
+      "first": true,
+      "card": 263.9
+    },
+    {
+      "id": "fan-lao",
+      "name": "Fan Lao",
+      "realm": "Dou Huang",
+      "quote": "Are you underestimating me, the Dou Huang?",
+      "first": false,
+      "card": 491.0
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "liu-qing",
+      "name": "Liu Qing",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Moved out to EP104: the seal holding and Han Feng's first appearance (before this card in the old file). Moved in from the old EP106 review: Fan Lao spotting Xiao Yan, Zi Yan and Liu Qing stepping in, and the three-minute request (before the [Episode 106] card). Cards moved to the new clock; Blood Sect and Eight Gates are first named in EP103."
+  ],
+  "flags": [
+    "0-28s are a recap of EP104. 44-67s replay Han Feng's arrival from the end of EP104.",
+    "456.6: 'Are you underestimating me, the Dou Huang?' is spoken while two Inner Academy Dou Wangs block someone; at 491.0 the elders tell 'Fan Lao' 'We are your opponents', so the Dou Huang is read as Fan Lao.",
+    "474.7 'Thank you, Old Huo' / 'You found me someone who plays with fire too': speaker and 'Old Huo' are not identified.",
+    "555.4 typo 'Incomplete Flame Matra'.",
+    "Han Feng's realm is not stated this episode; Mr. Jin and Mr. Yin conjoined reach Dou Zong level (778.0).",
+    "Fan Lao's son is called only 'Ling' here (858.4); EP106 names him Fan Ling."
+  ]
+}

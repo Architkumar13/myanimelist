@@ -1,0 +1,95 @@
+{
+  "ep": 240,
+  "title": "Xiao Yan, Dou Sheng",
+  "summary": "The Profound River Alliance under Old Demon Tian Ming attacks the Xing Realm, the home of the Falling Star Pavilion. Tian Ming brings in the Hall of Souls: Gu You and the Third Tianzun, a Ban Sheng, who want Xiao Yan taken alive. Yao Lao opens a Soul Space to fight Tian Ming and Gu You together. Medusa, Little Fairy Doctor and Qing Lin try to delay the Third Tianzun, while Feng Xian and the elders hold the protection formation. The formation falls, Yao Lao is worn down, and the enemy closes in for the kill. Then the space is sealed by a Dou Sheng's power: Xiao Yan comes out of seclusion. He thinks back on his father, his master and his friends, and stands as a Dou Sheng.",
+  "events": [
+    "The Profound River Alliance attacks the Xing Realm formation.",
+    "Old Demon Tian Ming calls in the Hall of Souls: Gu You and the Third Tianzun.",
+    "Yao Lao opens a Soul Space against Tian Ming and Gu You.",
+    "Medusa, Little Fairy Doctor and Qing Lin hold off the Third Tianzun.",
+    "The protection formation breaks; the enemy uses the Nine Heavenly Lightning Prison Formation.",
+    "Yao Lao is cornered; Mu Qing Luan and Tian Huo Zun Zhe are hurt.",
+    "The space is sealed by a Dou Sheng; Xiao Yan emerges from seclusion.",
+    "Xiao Yan reflects on what strength means and stands as a Dou Sheng."
+  ],
+  "introduced": [
+    "Third Tianzun",
+    "Soul Space",
+    "Ten Thousand Soul Heavenly Lock",
+    "Nine Heavenly Lightning Prison Formation",
+    "Ancient Sky Serpent Guardian"
+  ],
+  "cultivation": "Xiao Yan breaks through to Dou Sheng. The Third Tianzun is a Ban Sheng. Old Demon Tian Ming is called an advanced Ban Sheng.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Sheng",
+      "quote": "[Xiao Yan, Dou Sheng]",
+      "first": false,
+      "card": 1219.5
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "feng-xian",
+      "name": "Feng Xian",
+      "first": false
+    },
+    {
+      "id": "mu-qing-luan",
+      "name": "Mu Qing Luan",
+      "first": false
+    },
+    {
+      "id": "tian-huo-zun-zhe",
+      "name": "Tian Huo Zun Zhe",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "first": false
+    },
+    {
+      "id": "old-demon-tian-ming",
+      "name": "Old Demon Tian Ming",
+      "first": false
+    },
+    {
+      "id": "gu-you",
+      "name": "Gu You",
+      "first": false
+    },
+    {
+      "id": "third-tianzun",
+      "name": "Third Tianzun",
+      "realm": "Ban Sheng",
+      "quote": "[Third Tianzun, Ban Sheng]",
+      "first": true,
+      "card": 278.4
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-45s is a recap of EP239. The recap names the Hun Clan leader as Hun Miesheng, 'the Leader of Hall of Souls', and says Yao Lao crushed Han Feng's soul.",
+    "312s: 'these past two years' - Xiao Yan's seclusion lasted about two years (confirmed in EP241).",
+    "600s: 'The Ancient Sky Serpent Guardian' is said of Qing Lin, alongside Medusa (Seven-Colored Heaven Swallowing Python) and Little Fairy Doctor (Woeful Poison Body).",
+    "837-876s: 'Qing Luan' / 'Senior Qing Luan' is taken as Mu Qing Luan (EP168); not certain.",
+    "216s: Tian Ming had been 'reduced to a mere soul' and came back."
+  ]
+}

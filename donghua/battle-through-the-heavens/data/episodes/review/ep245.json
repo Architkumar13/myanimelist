@@ -1,0 +1,96 @@
+{
+  "ep": 245,
+  "title": "The prisoner under the Nine Serene Spring",
+  "summary": "Xiao Yan leads Medusa, Little Fairy Doctor and Qing Lin underground into the territory of the Nine Serene Deep Ground Pythons, looking for the Nine Serene Spring. He dives into the freezing spring alone to find the Spring Blood Crystal while Medusa tries to cultivate near its edge, and the pythons soon raise the alarm. At the bottom he finds Yao Ming, a Two-Star Dou Sheng held by chains that drain his Dou Qi. Yao Ming says he is the rightful python chief, sealed there centuries ago by his younger brother Yao Xiaotian, and he offers the last Spring Blood Crystal in return for his freedom. Xiao Yan agrees only after Yao Ming lets him plant a soul mark that can be detonated if he lies. Xiao Yan takes the crystal and uses his soul power to break the Yellow Spring Yin Rock that powers the chains. Far away, Yao Xiaotian feels the seal break and sets out with his First Elder.",
+  "events": [
+    "Xiao Yan's group sneaks past the palace of the Nine Serene Deep Ground Pythons.",
+    "Xiao Yan dives into the Nine Serene Spring and fights off the creatures inside.",
+    "Medusa tries to cultivate in the cold, and the pythons discover the intruders.",
+    "At the bottom Xiao Yan finds Yao Ming, chained and drained of Dou Qi.",
+    "Yao Ming tells how Yao Xiaotian poisoned him, sealed him and seized the chief's seat.",
+    "Xiao Yan plants a soul mark on Yao Ming and receives the Spring Blood Crystal.",
+    "Xiao Yan breaks the Yellow Spring Yin Rock and frees Yao Ming.",
+    "Yao Xiaotian senses the broken seal; his First Elder goes to deal with it."
+  ],
+  "introduced": [
+    "Nine Serene Deep Ground Pythons (palace and territory)",
+    "Nine Serene Spring (also called the Yellow Spring)",
+    "Spring Blood Crystal (Yellow Spring Blood Crystal)",
+    "Yao Ming",
+    "Yao Xiaotian",
+    "First Elder of the Nine Serene Deep Ground Pythons",
+    "Nine Serene Profound Scepter (the python chief's token)",
+    "Yellow Spring Yin Rock",
+    "Beast Region",
+    "soul mark"
+  ],
+  "cultivation": "Yao Ming is a Two-Star Dou Sheng (name card; his own words). Yao Xiaotian is a One-Star Dou Sheng and the First Elder a peak One-Star Dou Sheng (name cards). No change for Xiao Yan.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ming",
+      "name": "Yao Ming",
+      "realm": "Two-Star Dou Sheng",
+      "quote": "[Yao Ming, Two-Star Dou Sheng] / with my current strength as Two-Star Dou Sheng",
+      "first": true,
+      "card": 417.2
+    },
+    {
+      "id": "first-elder-nine-serene",
+      "name": "First Elder (Nine Serene Deep Ground Pythons)",
+      "realm": "peak One-Star Dou Sheng",
+      "quote": "[First Elder, Peak One-Star Dou Sheng]",
+      "first": true,
+      "card": 1040.9
+    },
+    {
+      "id": "yao-xiaotian",
+      "name": "Yao Xiaotian",
+      "realm": "One-Star Dou Sheng",
+      "quote": "[Yao Xiaotian, One-Star Dou Sheng]",
+      "first": true,
+      "card": 1049.4
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-31s is a narrated recap of EP244 (the Sky Mansion Alliance, called 'Sky Alliance' here).",
+    "Medusa is called 'Cai Lin' throughout this file.",
+    "Little Fairy Doctor and Qing Lin are not named in this file; the EP246 recap and dialogue name them as the companions.",
+    "878.0 'Xiao Ming' is a slip for Yao Ming.",
+    "419.5 Xiao Yan guesses Yao Ming is 'at least a Three-Star Dou Sheng' while the card says Two-Star; the card is used.",
+    "The spring is called both the Nine Serene Spring and the Yellow Spring; the crystal both Spring Blood Crystal and Blood Crystal."
+  ]
+}

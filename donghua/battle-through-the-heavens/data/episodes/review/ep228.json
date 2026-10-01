@@ -1,0 +1,79 @@
+{
+  "ep": 228,
+  "title": "The Blood River Tianzun",
+  "summary": "Xiao Yan saves Xiao Xiao, who can walk on air, and finds Medusa still defending the Mystic Yellow Fortress. He defeats Shi Tian, the 6-star Dou Zun leader of the Profound Lion Sect. The Ninth Tianzun of the Hall of Souls then comes for him, but his Dragon-Phoenix power and Great Heavenly Creation Palm overwhelm her, and he grabs her by the hand. She calls on the Fourth Tianzun, the Blood River Elder, who kills the Ninth Tianzun instead. The Fourth Tianzun is at the peak of 9-star Dou Zun, and her Blood Transformation Art drains blood even from her own side. Xiao Yan shows his Xiao Clan mark, blocks her Blood Fiend Heavenly Demon Palm with the Five Ring Flame Expelling Formation, and wounds her with the Extermination Fire Lotus. She flees with the Blood Escape Art, and Xiao Yan accepts the Profound Lion Sect men who sincerely surrender.",
+  "events": [
+    "Xiao Yan rescues Xiao Xiao and reunites with Medusa.",
+    "Xiao Yan defeats Shi Tian.",
+    "The Ninth Tianzun attacks and is overpowered.",
+    "The Fourth Tianzun (Blood River Elder) arrives and kills the Ninth Tianzun.",
+    "Her Blood Transformation Art drains her own allies.",
+    "Xiao Yan uses the clan mark and the Five Ring Flame Expelling Formation.",
+    "His Extermination Fire Lotus wounds her; she flees by Blood Escape Art.",
+    "The Profound Lion Sect's remnants surrender."
+  ],
+  "introduced": [
+    "Fourth Tianzun",
+    "Blood River Elder",
+    "Blood Transformation Art",
+    "Blood Fiend Heavenly Demon Palm",
+    "Blood Escape Art",
+    "Blood Dragon"
+  ],
+  "cultivation": "Shi Tian is a 6-star Dou Zun. The Ninth Tianzun says Xiao Yan 'has reached the peak of Eight-Star'. The Fourth Tianzun is at peak 9-star Dou Zun and near Dou Sheng ('Nine turns to become a Dou Sheng').",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "peak 8-star Dou Zun",
+      "quote": "This guy's strength / has reached the peak of Eight-Star.",
+      "first": false
+    },
+    {
+      "id": "xiao-xiao",
+      "name": "Xiao Xiao",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "shi-tian",
+      "name": "Shi Tian",
+      "realm": "6-star Dou Zun",
+      "quote": "That guy is already a Six-Star Dou Zun.",
+      "first": false
+    },
+    {
+      "id": "ninth-tianzun",
+      "name": "Ninth Tianzun",
+      "first": false
+    },
+    {
+      "id": "fourth-tianzun",
+      "name": "Fourth Tianzun",
+      "realm": "peak 9-star Dou Zun",
+      "quote": "She is already at peak Nine-Star strength.",
+      "first": true,
+      "card": 635.6
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10-48s: recap.",
+    "86s: someone says 'Cai? / Is that you?'; the speaker may be Xiao Xiao.",
+    "104s: '(She can walk in the air?)' is Xiao Yan's thought about Xiao Xiao.",
+    "176s: 'That guy is already a Six-Star Dou Zun' is taken as being about Shi Tian, whom Xiao Yan fights next; 207s 'Sect Leader!' marks Shi Tian's defeat. Whether Shi Tian dies isn't stated.",
+    "402s: 'The power of the Ancient Void Dragon Clan' = the Void Ancient Dragons.",
+    "542-655s: the Fourth Tianzun's strike kills the Ninth Tianzun ('That fool Ninth Tianzun / even threw away her life'). The Fourth Tianzun is also called Blood River Elder and Blood River Tianzun.",
+    "967s: 'Third Brother' is said by Xiao Li (taken), reporting the surrender."
+  ]
+}

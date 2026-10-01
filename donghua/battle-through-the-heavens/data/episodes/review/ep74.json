@@ -1,0 +1,108 @@
+{
+  "ep": 74,
+  "title": "Back at Jia Nan Academy",
+  "summary": "Xiao Yan returns after two years and is mocked as ordinary by students who wonder why Xun Er waited for him. Xue Beng, a Nine-Star Dou Shi with the Overlapping Waves Lance Skill, attacks first, and Xiao Yan beats him with one blow. Hu Jia, granddaughter of the vice dean Hu Qian, asks for a match with him, and the vice dean refuses her demand to expel him if she wins. Ruo Lin scolds Xiao Yan for his absence, and Xun Er promises they will both reach the top twenty so Ruo Lin can rise to instructor of the Xuan Class. Academy elders read his record against the Misty Cloud Sect and decide to watch him. That night Bai Shan, who uses lightning-type Dou Qi, tests him, and they agree to settle it at the competition. Xiao Yan tells Xun Er about his father, and she says her family's people have rules with the Xiao Clan, so it was not them, but she orders an investigation.",
+  "events": [
+    "Students mock Xiao Yan's looks; Xiao Yu and others in Class 2 of the Huang Class back him.",
+    "Xiao Yan beats Xue Beng with one blow.",
+    "Hu Jia wants to fight Xiao Yan; Hu Qian refuses her terms.",
+    "Ruo Lin scolds Xiao Yan; Xun Er promises they will reach the top twenty.",
+    "Academy elders review Xiao Yan's record and decide to watch him.",
+    "Bai Shan confronts Xiao Yan at night; Xun Er steps in.",
+    "Xiao Yan tells Xun Er about his father; she orders an investigation."
+  ],
+  "introduced": [
+    "Xiao Yu",
+    "Hu Jia",
+    "Hu Qian",
+    "Overlapping Waves Lance Skill",
+    "instructor of the Xuan Class",
+    "lightning-type Dou Qi"
+  ],
+  "cultivation": "Xue Beng 'is a Nine-Star Dou Shi' (76.3). Onlookers: 'Xiao Yan must be Da Dou Shi, at least' (305). Xun Er: Xiao Zhan's rescuer 'must be at least a Dou Huang' (971).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-yu",
+      "name": "Xiao Yu",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 44.2
+    },
+    {
+      "id": "xue-beng",
+      "name": "Xue Beng",
+      "realm": "Nine-Star Dou Shi",
+      "quote": "Xue Beng is a Nine-Star Dou Shi.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hu-jia",
+      "name": "Hu Jia",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 140.8
+    },
+    {
+      "id": "hu-qian",
+      "name": "Hu Qian",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 144.9
+    },
+    {
+      "id": "ruo-lin",
+      "name": "Ruo Lin",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-shan",
+      "name": "Bai Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-35s: card and recap; not counted.",
+    "Hu Qian is named only by caption here; EP76 calls Hu Jia 'the granddaughter of the vice dean of the Outer Academy', and EP104 makes Hu Qian that vice dean.",
+    "266-270 'Just wait. She'll be mine.' is untagged; possibly Bai Shan or another suitor.",
+    "Xiao Yu is called Xiao Yan's acquaintance; she may have been in earlier episodes unnamed (she is Xiao Clan by name).",
+    "457-511: the elders who read his file are unnamed.",
+    "772.8 'Yun Shan still survived after the elimination of the Misty Cloud Sect' is a garbled line; it reads as Yun Shan surviving the Lotus Flame.",
+    "1060-1075: Xun Er's order is answered with 'Yes, Young Lady'; the servant is likely Ling Ying but not shown by name."
+  ]
+}

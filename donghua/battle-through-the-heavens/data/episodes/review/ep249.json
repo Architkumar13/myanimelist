@@ -1,0 +1,99 @@
+{
+  "ep": 249,
+  "title": "Ambushing the Three Phoenixes",
+  "summary": "Xiao Yan refines the essence blood of Demonic Saint Huang Quan over three days and comes out at the late stage of One-Star Dou Sheng. Yao Ming reports that the Heaven Demon Phoenix Tribe has set out for East Dragon Island under the Three Phoenixes, three Supreme Elders who are each Dou Sheng. Xiao Yan says goodbye to Medusa, who is still cultivating deep in the Nine Serene Spring. The phoenix fleet waits on purpose so the Void Ancient Dragons will wear each other down. Xiao Yan ambushes it, and Yao Ming reveals himself beside him. Two of the Three Phoenixes recognise Xiao Yan as the boy who stole the Bodhisattva Seeds. Their eldest sister sends Kun Huang and Ying Huang against Xiao Yan and takes on Yao Ming herself.",
+  "events": [
+    "Xiao Yan refines the Demon Saint's essence blood for three days.",
+    "He reaches the late stage of One-Star Dou Sheng.",
+    "Yao Ming reports the phoenix force and its three Dou Sheng leaders.",
+    "Yao Ming agrees to join the interception with several elders.",
+    "Xiao Yan says goodbye to Medusa, who stays in the spring.",
+    "The phoenix Supreme Elder holds the warships back to let the dragons bleed.",
+    "Xiao Yan attacks the fleet; Yao Ming appears beside him.",
+    "Kun Huang and Ying Huang face Xiao Yan while their eldest sister faces Yao Ming."
+  ],
+  "introduced": [
+    "Three Phoenixes (the Heaven Demon Phoenix Tribe's three Supreme Elders)",
+    "Kun Huang",
+    "Ying Huang",
+    "Phoenix Elder (eldest of the Three Phoenixes)",
+    "Dragon-Phoenix bloodline"
+  ],
+  "cultivation": "Xiao Yan rises from early to late-stage One-Star Dou Sheng by refining Huang Quan's essence blood ('He actually reached the late stage of a one-star Dou Sheng!'). Each of the Three Phoenixes is a Dou Sheng; together they are said to equal a Three-Star Dou Sheng.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "late-stage One-Star Dou Sheng",
+      "quote": "He actually reached the late stage of a one-star Dou Sheng!",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ming",
+      "name": "Yao Ming",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "phoenix-elder",
+      "name": "Phoenix Elder",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 778.2
+    },
+    {
+      "id": "kun-huang",
+      "name": "Kun Huang",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 1115.1
+    },
+    {
+      "id": "ying-huang",
+      "name": "Ying Huang",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": 1115.1
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file starts at 154s (no lines before). 154-189s is a narrated recap of EP248.",
+    "Little Fairy Doctor and Qing Lin are not named in their guard scene (267-274s), but 607.2 has Xiao Yan going on 'with Little Fairy Doctor'.",
+    "Name slips as in EP248: 'Brother Youyou', 'Yaoming', 'Demon Darkness' (1117.9) = Yao Ming; 'Colorful Scales' = Medusa; 'Kunhuang and Yinghuang' = Kun Huang and Ying Huang (EP251 recap: 'Eagle Phoenix and Kun Phoenix').",
+    "1037.2-1049.7 two phoenixes say he stole the 'Bodhi seeds', so Kun Huang and Ying Huang have met Xiao Yan before; marked not first.",
+    "911.4 'Both are late-stage one-star Dou Sheng' is unclear: it may describe Xiao Yan and Yao Ming's side or the speakers. Not recorded as a realm.",
+    "783.4 'Our mission is not to reclaim the Dragon-Phoenix bloodline' reads like a garbled question."
+  ]
+}

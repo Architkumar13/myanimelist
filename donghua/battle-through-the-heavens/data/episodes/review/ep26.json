@@ -1,0 +1,153 @@
+{
+  "ep": 26,
+  "title": "Yun Zhi",
+  "summary": "Xiao Yan flies out of the shrine with the Heavenly Flame, but Gu He's group catches up and demands it. Yao Lao takes over, and Ms. Yun intercepts him while Gu He, Yan Shi and Feng Li head for the desert edge. Meanwhile the Snakemen leaders gather, with cards for Yan Ci, Nan She, Hei Du, Kui Xing and King Hua She, and plan to trap the Dou Huang with the Five Snake Poison Breaking Seal. Ms. Yun catches Xiao Yan, then lets him go when she sees who he is. He recognises her as Yun Zhi, and she knows him as Yao Yan. She offers to recommend him to the Misty Cloud Sect, and he refuses angrily. She tries to stop him from swallowing the flame, and he leaves her, promising to repay her someday.",
+  "events": [
+    "The Snakemen gather; Yan Ci of the Yan Snake Tribe arrives; Yin Shi plans the Five Snake Poison Breaking Seal.",
+    "Ms. Yun holds off the Snakemen and sends Gu He after the flame.",
+    "Gu He catches Xiao Yan; Yao Lao takes over and outruns them.",
+    "Ms. Yun and Gu He split up; the Snakemen split to hunt Gu He and the Dou Huang.",
+    "Ms. Yun corners Xiao Yan, then lets him go when she recognises him.",
+    "He recognises her as Yun Zhi; she offers to take him to the Misty Cloud Sect, and he refuses.",
+    "She asks for the flame so he won't risk his life; he leaves, promising to repay her."
+  ],
+  "introduced": [
+    "Yan Ci",
+    "Yan Snake Tribe",
+    "Nan She",
+    "Hei Du",
+    "Kui Xing",
+    "King Hua She",
+    "Five Snake Poison Breaking Seal",
+    "Earth's Core Island",
+    "Wind Returning to the Earth",
+    "Wind Whirling Wall",
+    "Four-Sided Wind Wall",
+    "Tracking Snake",
+    "Yao Yan (Xiao Yan's alias)"
+  ],
+  "cultivation": "Yun Yun notes Xiao Yan has become a Dou Shi ('You have upgraded to a Dou Shi', 729.7). Gu He is 'the Sixth Ranked Pill King' (562.2).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Shi",
+      "quote": "You have upgraded to a Dou Shi.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": "Dou Huang",
+      "quote": "So you're the Masked Dou Huang.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "gu-he",
+      "name": "Gu He",
+      "realm": null,
+      "quote": "Gu He, the Sixth Ranked Pill King.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yan-shi",
+      "name": "Yan Shi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "feng-li",
+      "name": "Feng Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yin-shi",
+      "name": "Yin Shi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yue-mei",
+      "name": "Yue Mei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yan-ci",
+      "name": "Yan Ci",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 57.8
+    },
+    {
+      "id": "king-hua-she",
+      "name": "King Hua She",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 293.9
+    },
+    {
+      "id": "nan-she",
+      "name": "Nan She",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 295.0
+    },
+    {
+      "id": "hei-du",
+      "name": "Hei Du",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 296.2
+    },
+    {
+      "id": "kui-xing",
+      "name": "Kui Xing",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 297.3
+    },
+    {
+      "id": "mo-ba-si",
+      "name": "Mo Ba Si",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-98s repeats the end of EP25 and opens EP26 before the [Episode 26] card at 98.4; the Yan Ci arrival (50-94) is counted here.",
+    "293.9 [King Hua She]: not sure whether this is Hua She Er or another leader; kept apart.",
+    "Yun Yun is called 'Ms. Yun' and 'Yun Zhi' here; canonical name Yun Yun. Xiao Yan does not learn she is the Misty Cloud Sect's leader here.",
+    "Wind Returning to the Earth (246), Wind Whirling Wall (540) and Four-Sided Wind Wall (583) are Yun Yun's skills as far as the scene shows.",
+    "File ep27.en.srt 0-142s (ending song plus 'Promise me ... If I fail, then erase me from your memory') is the end of this episode."
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "ep": 116,
+  "title": "The Xiao Gate in Feng City",
+  "summary": "The Crazy Lion Sect, Dark Sky Sect and Luo Sha Gate decide to take Feng City from Xiao Li's new Xiao Gate. Xiao Yan masters the first God Seal, the Open Mountain Seal, and drags Medusa along to the city. He arrives as the three leaders threaten Xiao Li, and Medusa's Dou Zong power scares them off. Instead of punishing them, Xiao Yan offers a deal: help him fight the Misty Cloud Sect for 30% of Feng City's rule and a Mighty Huang Pill. Medusa refuses to help fight Yun Shan, and Xiao Li agrees to find the last two herbs for a pill. With the treasures from Han Feng's ring, Xiao Yan gets the herbs for the Spiritual Recovery Purple Pill and refines one for Hai Bodong in a cauldron that hides the pill's signs, while Xiao Li plans a pill auction in Feng City.",
+  "events": [
+    "Three Black-Corner sects plan to take Feng City from the Xiao Gate",
+    "Xiao Yan masters the Open Mountain Seal",
+    "Xiao Yan and Medusa arrive as the three leaders threaten Xiao Li",
+    "Medusa's Dou Zong power cows the three leaders",
+    "Xiao Yan offers 30% of Feng City and a Mighty Huang Pill for their help against the Misty Cloud Sect",
+    "Medusa refuses to fight Yun Shan; Xiao Li agrees to find the Yin Shen Flower and Huo Yang Spiritual Leave",
+    "Xiao Yan refines the Spiritual Recovery Purple Pill for Hai Bodong in a rare cauldron",
+    "Xiao Li plans a pill auction; he worries about Mr. Jin and Mr. Yin"
+  ],
+  "introduced": [
+    "Su Mei",
+    "Yin Gu",
+    "Tie Niao",
+    "Crazy Lion Sect",
+    "Dark Sky Sect",
+    "Luo Sha Gate",
+    "Xiao Gate",
+    "Mighty Huang Pill",
+    "Yin Shen Flower",
+    "Huo Yang Spiritual Leave",
+    "Spiritual Recovery Purple Pill",
+    "Snakemen Clan",
+    "Cauldron Ranking",
+    "Black Cauldron (Yao Lao's)"
+  ],
+  "cultivation": "The Mighty Huang Pill raises a Dou Huang by one or two stars at once. Xiao Yan says he is a sixth-tier alchemist. The Misty Cloud Sect has one Dou Huang besides Yun Shan, a Dou Zong.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "su-mei",
+      "name": "Su Mei",
+      "first": true,
+      "card": 44.0
+    },
+    {
+      "id": "yin-gu",
+      "name": "Yin Gu",
+      "first": true,
+      "card": 48.4
+    },
+    {
+      "id": "tie-niao",
+      "name": "Tie Niao",
+      "first": true,
+      "card": 53.0
+    },
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": "Dou Zong",
+      "quote": "Dou Zong?",
+      "first": false
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Added the last scene, which the old review left out (it opened the old EP117 file before the [Episode 117] card): the cauldron hiding the pill's signs and Xiao Li's pill-auction plan. Cards and other times were already on the right clock."
+  ],
+  "flags": [
+    "The file starts at the [Episode 116] card.",
+    "Name cards [Su Mei] 44.0, [Yin Gu] 48.4, [Tie Niao] 53.0 and [Xiao Gate] 27.1. The subtitles do not say which of the three leads which sect; the Crazy Lion Sect is ep120's 'Wild Lion Gang' (179.9).",
+    "582.0 'I'm a sixth-tier alchemist' is an alchemist grade, kept out of realm.",
+    "746.7 'Huo Yang Spiritual Leave' (probably 'Leaf').",
+    "789.2-829.6: Xiao Li drinking and missing Xiao Ding, with lines about stalling someone and warning Yan; looks like a memory or flashback, unclear.",
+    "The Spiritual Recovery Purple Pill (for Hai Bodong) and the Soul Recovery Pill (for Medusa) are different pills.",
+    "Who threatens Xiao Li at 260-270 is not named.",
+    "942.5-949.9: the cauldron that hides the sixth-tier pill's phenomenon is unnamed; Xiao Yan guesses it is on the Cauldron Ranking like Yao Lao's Black Cauldron."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "ep": 84,
+  "title": "Rock Gate",
+  "summary": "Xiao Yan's Green Lotus Core Flame draws out the true form of the Fallen Heart Flame, and Elder Liu tells him to keep quiet about it. Yao Lao explains that the Inner Academy has trapped the flame in a space prison made by a Dou Zun and uses its projected form to temper students. He thinks it will break free within a year or two, and that will be their chance to take it. Back at the new students' area, Fu Ao of the White Gang and Bai Shan try to force Xun Er to join the White Gang. Xiao Yan fights Fu Ao, a Dou Ling, one on one and wins with the Green Lotus Change, the Lion Tiger Gold Shattering Roar and the Octane Blast, which keeps the White Gang away for half a year. The new students then make Xiao Yan their leader, and he names their faction Rock Gate. White Gang leader Bai Cheng scolds Fu Ao and swears to deal with Xiao Yan when the half year is up.",
+  "events": [
+    "The Fallen Heart Flame's true form appears; Elder Liu sends Xiao Yan away and asks for silence.",
+    "Yao Lao explains the space prison and predicts the flame will break out in a year or two.",
+    "Fu Ao and Bai Shan pressure Xun Er and the new students for tribute.",
+    "Xiao Yan returns and bets with Fu Ao: their Fire Energies and Xun Er against half a year of peace.",
+    "Xiao Yan beats Fu Ao with the Green Lotus Change, the Lion Tiger Gold Shattering Roar and the Octane Blast.",
+    "Tai and the new students ask Xiao Yan to found a faction; he names it Rock Gate.",
+    "Bai Cheng scolds Fu Ao and vows to remove Xiao Yan after half a year."
+  ],
+  "introduced": [
+    "Fallen Heart Flame (true form)",
+    "space prison (set up by a Dou Zun)",
+    "Rock Gate",
+    "Bai Cheng"
+  ],
+  "cultivation": "Fu Ao is a Dou Ling, called three-star; Luo Hou had only just reached Dou Ling.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "wu-hao",
+      "name": "Wu Hao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hu-jia",
+      "name": "Hu Jia",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-shan",
+      "name": "Bai Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "elder-liu",
+      "name": "Elder Liu",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fu-ao",
+      "name": "Fu Ao",
+      "realm": "3-star Dou Ling",
+      "quote": "He thought being a three-star Dou Ling meant invincible.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "tai",
+      "name": "Tai",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-cheng",
+      "name": "Bai Cheng",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 876.6
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-34s is a recap of EP83.",
+    "The faction is called 'Rock Gate' here (817.7); from EP87 the subtitles switch to 'Pan's Gate'. These reviews use Rock Gate.",
+    "317.5 '(He's a strong Dou Ling.)' is Xiao Yan's thought about Fu Ao; 676.1-680.4 'Fu Ao, that idiot. He thought being a three-star Dou Ling meant invincible' is an untagged thought from a White Gang member.",
+    "354.5 'Luo Hou had just advanced to Dou Ling.' (Fu Ao's words).",
+    "772.5 'Tai has a point' shows Tai is the new student who proposes the faction.",
+    "849.6 '[White Gang]' is a place caption."
+  ]
+}

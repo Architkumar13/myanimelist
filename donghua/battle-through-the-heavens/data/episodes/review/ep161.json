@@ -1,0 +1,89 @@
+{
+  "ep": 161,
+  "title": "The Duel at Sky Stone Stage",
+  "summary": "Xiao Yan makes Han Feng's captured soul tell him where Yao Lao is held. The answer is a Hall of Souls branch hall in Ming City, in the Western Region of the Central Plains, run by an elder of Dou Zun rank. Three days later, Han Yue warns her sister Han Xue that Xiao Yan already loves another girl. At Sky Stone Stage, Xiao Yan faces Hong Chen in front of his father Hong Li and Elder Shen Yun of the Wind Lightning Pavilion. Hong Chen uses Thunder God Descent and the Mighty Lightning Hammer, but Xiao Yan matches his speed with the Three Thousand Lightning Movement and floors him with the Luminous Jadeite Change of the Sky Fire Three Mysterious Changes. Hong Chen gets up and tries the Exterminating Lightning Hammer, and Xiao Yan's Splitting Fire makes him admit defeat. Hong Chen then attacks Xiao Yan from behind, and Xiao Yan's Three Thousand Lightning Movement draws a sharp cry of recognition.",
+  "events": [
+    "Han Feng's soul tells Xiao Yan that Yao Lao is held in the Hall of Souls branch in Ming City.",
+    "Han Yue tells Han Xue that Xiao Yan already has a girl he likes.",
+    "At Sky Stone Stage, Hong Li and Elder Shen Yun watch Hong Chen face Xiao Yan.",
+    "Xiao Yan is revealed as a Seven-Star Dou Huang.",
+    "Hong Chen uses Thunder God Descent to near Nine-Star Dou Huang strength.",
+    "Xiao Yan counters with the Three Thousand Lightning Movement and the Luminous Jadeite Change.",
+    "Splitting Fire beats the Exterminating Lightning Hammer and Hong Chen admits defeat.",
+    "Hong Chen attacks Xiao Yan from behind."
+  ],
+  "introduced": [
+    "Ming City",
+    "Western Region",
+    "Hong Li",
+    "Shen Yun",
+    "Wind Lightning Claw",
+    "Thunder God Descent",
+    "Mighty Lightning Hammer",
+    "Flame Splitting Tsunami",
+    "Luminous Jadeite Change",
+    "Exterminating Lightning Hammer",
+    "Feng Qing Er"
+  ],
+  "cultivation": "Xiao Yan is called a Seven-Star Dou Huang. Hong Chen's Thunder God Descent lifts him to nearly Nine-Star Dou Huang. The Ming City branch hall is run by a Dou Zun elder.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "7-star Dou Huang",
+      "quote": "You're a Seven-Star Dou Huang too?",
+      "first": false
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "first": false
+    },
+    {
+      "id": "han-yue",
+      "name": "Han Yue",
+      "first": false
+    },
+    {
+      "id": "han-xue",
+      "name": "Han Xue",
+      "first": false
+    },
+    {
+      "id": "han-chi",
+      "name": "Han Chi",
+      "first": false
+    },
+    {
+      "id": "hong-li",
+      "name": "Hong Li",
+      "first": true,
+      "card": 266
+    },
+    {
+      "id": "shen-yun",
+      "name": "Shen Yun",
+      "first": true,
+      "card": 375
+    },
+    {
+      "id": "hong-chen",
+      "name": "Hong Chen",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: moved the end of Han Tian's test and Han Chi's pledge to EP160 (Han Tian is out of the cast); added from EP162 the Exterminating Lightning Hammer, Hong Chen's surrender and his attack from behind; card times moved to the new clock."
+  ],
+  "flags": [
+    "0-48s is the recap; 32s says 'Xiao Han' for Xiao Yan, a subtitle slip.",
+    "68-132s: the captive who reveals Yao Lao's prison is not named; by EP156 it is Han Feng's soul fragment.",
+    "147s: '[Three days later]' caption.",
+    "200-221s: the girl Xiao Yan likes is not named; it fits Xun Er.",
+    "375s: name card '[Shen Yun] / Elder Yun'; EP162 calls him Elder Shen.",
+    "520s: 'You're a Seven-Star Dou Huang too?' would move Xiao Yan from Six-Star (EP154) to Seven-Star with no breakthrough shown. 'too' also suggests Hong Chen is Seven-Star, though EP160 put Han Tian (Eight-Star) 'on par with Hong Chen'.",
+    "836s: Hong Chen names Feng Qing Er as the only one who could beat him; she is not on screen.",
+    "1007s: 'Three Thousand Lightning Movement?' has no named speaker; EP162 shows Shen Yun recognized it."
+  ]
+}

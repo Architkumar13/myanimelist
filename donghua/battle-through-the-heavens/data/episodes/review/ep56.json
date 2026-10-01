@@ -1,0 +1,83 @@
+{
+  "ep": 56,
+  "title": "The Repudiation Letter",
+  "summary": "Back in the present, Xiao Yan takes the Three Lines Green Spirit Pill after the conference. Its three-flame energy lifts him to Eight-Star Dou Shi and forms the Dou Crystal in his body, but the breakthrough nearly overwhelms him. He remembers the day three years ago when Nalan Yanran and Ge Ye came to the Xiao Clan to break off the engagement and offered Gu He's Qi Gathering Pill as compensation. Xiao Yan refused the pill, accepted her challenge to a duel at the Misty Cloud Sect in three years, and wrote her a Repudiation Letter instead. In the present he breaks through to Da Dou Shi, and his Dou Qi can now leave his body. He tells Hai Bodong he no longer hates Nalan Yanran and only wants to restore his father's dignity. Next morning he arrives at the Misty Cloud Sect.",
+  "events": [
+    "Xiao Yan takes the Three Lines Green Spirit Pill, reaches Eight-Star Dou Shi and forms a Dou Crystal.",
+    "Flashback: Nalan Yanran and Ge Ye visit the Xiao Clan; the elders mock Xiao Yan.",
+    "Ge Ye offers a Qi Gathering Pill made by Gu He; Nalan Yanran offers more pills and sect membership.",
+    "Xiao Yan refuses; she sets a match at the Misty Cloud Sect in three years.",
+    "Xiao Yan writes a Repudiation Letter and vows to come to the Misty Cloud Sect.",
+    "In the present he becomes a Da Dou Shi and talks with Hai Bodong about the duel.",
+    "He arrives at the Misty Cloud Sect: 'I'm Xiao Yan, from the Xiao Clan.'"
+  ],
+  "introduced": [
+    "Dou Crystal",
+    "Qi Gathering Pill",
+    "Repudiation Letter",
+    "Nalan Su (Nalan Yanran's father, mentioned)",
+    "Second Elder of the Xiao Clan"
+  ],
+  "cultivation": "Xiao Yan: Three Lines Green Spirit Pill takes him to Eight-Star Dou Shi and forms the Dou Crystal; then he breaks through to Da Dou Shi (\"it seems like you have become a Da Dou Shi\"). A Qi Gathering Pill gives a 9th-stage Dou Qi user a 100% chance to become a Dou Zhe.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Da Dou Shi",
+      "quote": "Judging from your scent, it seems like you have become a Da Dou Shi.",
+      "first": false,
+      "card": null,
+      "look": "Shown as a young boy in the flashback."
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "nalan-jie",
+      "name": "Nalan Jie",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ge-ye",
+      "name": "Ge Ye",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-zhan",
+      "name": "Xiao Zhan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-219s is the end of EP55 (Nalan Yanran rejects the betrothal and quarrels with Nalan Jie) and is not counted in the summary; the card is at 219.3.",
+    "The narration (238.8) says 'Eight-Star Dou Shi', then 1049.6 says he has become a Da Dou Shi; both are this episode.",
+    "1045-1185: the person Xiao Yan talks with is never named. Hai Bodong is taken as most likely (he senses his realm and knows of the 'foreign energy'); could be Ya Fei.",
+    "1113-1117: 'Repay my kindness? How? You haven't helped me yet.' is garbled or ironic.",
+    "Xiao Yan says he will go home, then to the Jia Nan Academy to meet Xun Er (1100-1102).",
+    "Ending-song lyrics run 1193-1418; ignored."
+  ]
+}

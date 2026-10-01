@@ -1,0 +1,89 @@
+{
+  "ep": 152,
+  "title": "The Extermination Fire Lotus",
+  "summary": "The Little Fairy Doctor uses her Woeful Poison Body to hold off the Old Ground Demon Ghost while Xiao Yan fuses his flames, with Yao Lao's Bone Chilling Flame and the Life Transforming Flame, into the Extermination Fire Lotus. The lotus hits the Old Ground Demon Ghost, then slips out of Xiao Yan's control and threatens to wipe out the Inner Academy. Xiao Yan flies toward it to hold it back until two old men tear open space and throw it away. First Elder Su Qian introduces them as Elder Qian and Elder Bai, retired guardians of Jia Nan Academy, who praise Xiao Yan for holding several Heavenly Flames and warn that the Woeful Poison Body brings a hard fate. The Old Ground Demon Ghost turns out to be alive and tries to flee with his Spatial Blood Escape, but Bai Lie kills him, and Qian Mu says the two of them are Nine-Star Dou Zongs, not Dou Zuns. Xiao Yan takes the corpse and asks the elders to look at the Demon Poison Spot in his body, which they say only a Dou Zun could remove.",
+  "events": [
+    "The Little Fairy Doctor holds the Old Ground Demon Ghost off at great cost to herself.",
+    "Xiao Yan forms the Extermination Fire Lotus and strikes the Old Ground Demon Ghost.",
+    "The lotus slips out of Xiao Yan's control and he flies toward it to stop it.",
+    "Elder Qian and Elder Bai tear through space and expel the lotus.",
+    "Su Qian introduces the two guardians; they praise Xiao Yan and remark on the Woeful Poison Body.",
+    "The Old Ground Demon Ghost tries the Spatial Blood Escape and is killed by Bai Lie.",
+    "Qian Mu says he and Bai Lie are Nine-Star Dou Zongs, one star short of Dou Zun.",
+    "Xiao Yan takes the corpse and the elders examine his Demon Poison Spot."
+  ],
+  "introduced": [
+    "Elder Qian (Qian Mu)",
+    "Elder Bai (Bai Lie)",
+    "Extermination Fire Lotus",
+    "Life Transforming Flame",
+    "Winter Cold Blood",
+    "Spatial Blood Escape",
+    "Demon Poison Spot"
+  ],
+  "cultivation": "The Old Ground Demon Ghost is a Seven-Star Dou Zong. Qian Mu and Bai Lie are at most Nine-Star Dou Zongs. The elders recall Xiao Yan as a Da Dou Shi when they last saw him.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false
+    },
+    {
+      "id": "old-ground-demon-ghost",
+      "name": "Old Ground Demon Ghost",
+      "realm": "7-star Dou Zong",
+      "quote": "this Seven-Star Dou Zong hasn't made any progress.",
+      "first": false
+    },
+    {
+      "id": "su-qian",
+      "name": "Su Qian",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "qian-mu",
+      "name": "Qian Mu",
+      "realm": "9-star Dou Zong",
+      "quote": "Bai and I are at most Nine-Star Dou Zongs.",
+      "first": true,
+      "card": 719
+    },
+    {
+      "id": "bai-lie",
+      "name": "Bai Lie",
+      "realm": "9-star Dou Zong",
+      "quote": "Bai and I are at most Nine-Star Dou Zongs.",
+      "first": true,
+      "card": 719
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: dropped the opening where the Old Ground Demon Ghost shrugs off the poisoned blood (now in EP151); moved in from EP153 the Old Ground Demon Ghost's death, the guardians' Nine-Star Dou Zong realm and the Demon Poison Spot examination; card times moved to the new clock."
+  ],
+  "flags": [
+    "0-37s is the recap.",
+    "324s: 'Life Transforming Flame is not a true Heavenly Flame' works as a catalyst for the lotus; the speaker is not clear.",
+    "353s: 'Winter Cold Blood!' follows 'Too late. Since you've come, you won't be leaving.' The speaker is not clear.",
+    "549s: 'Xiao Yan, you will die today.' Speaker unclear.",
+    "659s: the thought '(My martial junior, you got lucky today. I will be back once I recuperate.)' fits Han Feng watching from hiding; he is not named in the line.",
+    "719s: Su Qian introduces 'Elder Qian and Elder Bai'; the full names Bai Lie and Qian Mu are spoken at 875s.",
+    "935-997s: the elder told 'You do it this time' is taken as Bai Lie from 'Elder Bai, can you hand over the corpse' at 997s.",
+    "1017-1061s: the poisoned 'little guy' is Xiao Yan; who placed the Demon Poison Spot is not said here."
+  ]
+}

@@ -1,0 +1,76 @@
+{
+ "ep": 202,
+ "title": "A year in the stone tower",
+ "summary": "Xiao Yan's meridians are shattered and most of his bones are broken after the clash with Zhai Xing. Yao Lao finds that the Three Thousand Burning Flame keeps him alive, and that the Yin-Yang Mysterious Dragon Pill in his body can rebuild him. The group takes him to the Falling Star Pavilion, hidden by the Great Falling Star Formation, where the meteorite's star power feeds the flame. Yao Lao turns out to be the Pavilion's Chief, and Elder Feng is his deputy. A year later Xiao Yan wakes in the stone tower as a Dou Zun. Yao Lao explains that the Hall of Souls drained his essence spiritual Qi, which only the Soul Baby Fruit can restore. The fruit is in ancient ruins in the Beast Region, and the Hall of Souls is heading there too.",
+ "events": [
+  "Yao Lao examines Xiao Yan's wounds and sees the Three Thousand Burning Flame keeping him alive.",
+  "The group travels to the Falling Star Pavilion.",
+  "Yao Lao is greeted as the Chief of the Falling Star Pavilion.",
+  "Xiao Yan heals in the stone tower using star power from the meteorite.",
+  "After a year, news comes of the Soul Baby Fruit in ruins in the Beast Region.",
+  "Far away, a young lady still searching for Xiao Yan worries about him.",
+  "Xiao Yan wakes up as a Dou Zun and is reunited with Yao Lao.",
+  "The Hall of Souls also sets out for the ancient ruins."
+ ],
+ "introduced": [
+  "Great Falling Star Formation",
+  "Falling Star Pavilion headquarters (built on a meteorite)",
+  "Four Pavilions",
+  "Undying Fire (name for the Three Thousand Burning Flame)",
+  "Yin-Yang Mysterious Dragon Pill",
+  "essence spiritual Qi",
+  "Soul Baby Fruit",
+  "Beast Region"
+ ],
+ "cultivation": "Xiao Yan breaks through to Dou Zun after a year of healing in the stone tower ('It's a Dou Zun!'). Zhai Xing is called a Five-Star Dou Zun.",
+ "confidence": "high",
+ "cast": [
+  {
+   "id": "xiao-yan",
+   "name": "Xiao Yan",
+   "realm": "Dou Zun",
+   "quote": "This energy... It's a Dou Zun!",
+   "first": false
+  },
+  {
+   "id": "yao-lao",
+   "name": "Yao Lao",
+   "first": false
+  },
+  {
+   "id": "elder-feng",
+   "name": "Elder Feng",
+   "first": false
+  },
+  {
+   "id": "zi-yan",
+   "name": "Zi Yan",
+   "first": false
+  },
+  {
+   "id": "little-fairy-doctor",
+   "name": "Little Fairy Doctor",
+   "first": false
+  },
+  {
+   "id": "yao-tian-huo",
+   "name": "Yao Tian Huo",
+   "first": false
+  },
+  {
+   "id": "zhai-xing",
+   "name": "Zhai Xing",
+   "realm": "5-star Dou Zun",
+   "quote": "He fought head-on with a Five-Star Dou Zun from the Hall of Souls.",
+   "first": false
+  }
+ ],
+ "changes": [],
+ "flags": [
+  "584-608: a young lady who has searched for 'Yan' for a year is told he is safe. She is not named; she is likely Xun Er. Not put in the cast.",
+  "618-704 is a song (lyrics), not dialogue.",
+  "1018-1022: the Hall of Souls figure who vows revenge on Xiao Yan is not named; probably Zhai Xing (his arm was broken).",
+  "The recap at 24 calls the Xiao Clan's key 'the jade of Tuo She Gu Di'.",
+  "It is not said who exactly heals Xiao Yan besides Yao Lao, or who is in the room with them. Cast is limited to those clearly present."
+ ]
+}

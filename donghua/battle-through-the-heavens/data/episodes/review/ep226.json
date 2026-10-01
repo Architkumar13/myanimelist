@@ -1,0 +1,77 @@
+{
+  "ep": 226,
+  "title": "Back to the Yan Alliance",
+  "summary": "The heirs come out of the Heavenly Tomb, and the bodies of Hun Ya and Hun Li are thrown out after them. Hun Lin of the Hun Clan accuses Xiao Yan, but Xun Er says the two attacked her, and Tong Xuan sends the Hun Clan off. Xiao Yan learns his friends were called back to Falling Star Pavilion, and that the Ling Clan has sealed off the Ling Realm, so Xun Er must stay. Gu Yuan tells him only a Dou Di could free Xiao Xuan from the tomb. Back in the Xing Realm, Yao Lao says Xiao Yan went from 5-star to peak 8-star Dou Zun in six months, then warns that the Profound Lion Sect and Hall of Souls experts are attacking the Yan Alliance. Yao Lao recruits twenty 3-star Dou Zun allies with Eighth-Tier pills while the Wormhole is finished. At the Mystic Yellow Fortress, Hai Bodong, now at the peak of Dou Zong, kills Profound Lion Sect raiders.",
+  "events": [
+    "The heirs leave the tomb; Hun Ya and Hun Li's bodies are ejected.",
+    "Hun Lin accuses Xiao Yan; Xun Er and Tong Xuan face him down.",
+    "News: Xiao Yan's friends left; the Ling Realm is sealed.",
+    "Gu Yuan says only a Dou Di can free Xiao Xuan.",
+    "Xiao Yan receives an invitation to the Yao Clan's ancestral code.",
+    "Yao Lao reports the Profound Lion Sect's war on the Yan Alliance.",
+    "Yao Lao gathers twenty 3-star Dou Zun allies.",
+    "Hai Bodong kills Profound Lion Sect Dou Zongs near the Mystic Yellow Fortress."
+  ],
+  "introduced": [
+    "Hun Lin",
+    "Ling Realm",
+    "Yao Clan ancestral code",
+    "Xing Realm",
+    "Profound Lion Sect",
+    "North-Western Region",
+    "Mystic Yellow Fortress"
+  ],
+  "cultivation": "Yao Lao: 'you went from a Five-Star Dou Zun / to an Eight-Star Peak' in six months (Tong Xuan: 'His strength increased by three stars!'). Hai Bodong is at the peak of Dou Zong. Yao Lao calls himself an eight-tier alchemist.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "peak 8-star Dou Zun",
+      "quote": "you went from a Five-Star Dou Zun / to an Eight-Star Peak.",
+      "first": false
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "first": false
+    },
+    {
+      "id": "tong-xuan",
+      "name": "Tong Xuan",
+      "first": false
+    },
+    {
+      "id": "hun-lin",
+      "name": "Hun Lin",
+      "first": true,
+      "card": 122.1
+    },
+    {
+      "id": "gu-yuan",
+      "name": "Gu Yuan",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": "peak Dou Zong",
+      "quote": "The peak of Dou Zong?",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "10-41s: recap.",
+    "184s: 'Hun Li, you cur!' is said by Xun Er's side to the Hun Clan elder after Hun Li is already dead; likely a slip for Hun Lin.",
+    "460-470s: someone gives Xiao Yan the Yao Clan ancestral-code invitation; the giver isn't clear. At 877-882s the invitation is handed over again ('The Yao Clan wants you to have this').",
+    "546s: Yao Lao's 'six months' vs the three years spent in the tomb: tomb time runs six times faster.",
+    "713s: Xiao Li is said to be heading to the sentry tower but isn't clearly on screen; left out of cast.",
+    "Little Fairy Doctor was sent to the Yan Alliance earlier (610s)."
+  ]
+}

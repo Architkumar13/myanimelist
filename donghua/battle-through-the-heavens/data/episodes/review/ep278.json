@@ -1,0 +1,122 @@
+{
+  "ep": 278,
+  "title": "The Medicine Clan Falls",
+  "summary": "The Void Devouring Flame survives the Medicine Emperor and offers to spare the Medicine Clan if it makes pills for the Hun Clan, and Yao Dan refuses. The flame then releases the Devouring Spirit Clan, creatures thought extinct since ancient times that devour souls and bloodlines. The Hun Clan army attacks, and Yao Dan leads the elders against Hun Xuzi while his children Yao Tian and Yao Ling fight on. Yao Dan asks Xiao Yan to save what is left of the clan's bloodline and plans to self-destruct with his strongest elders to tear the Space Lockdown. Xiao Yan holds back Hun Yan and Hun Jing of the Hun Clan, using his Northern King Puppet, Xiao Yi and his Destruction Fire Body. He borrows the Heavenly Flames of Old Shennong and Yao Tian and blasts a way out. As they escape, Yao Dan and Yao Wanhuo stay behind to blow themselves up.",
+  "events": [
+    "Yao Dan refuses to make pills for the Hun Clan.",
+    "The Void Devouring Flame releases the Devouring Spirit Clan.",
+    "The Hun Clan army attacks; Yao Dan and the elders fight Hun Xuzi.",
+    "Yao Dan asks Xiao Yan to save the clan's bloodline.",
+    "Xiao Yan fights Hun Yan with his puppet, Xiao Yi and the Destruction Fire Body.",
+    "He borrows Old Shennong's and Yao Tian's Heavenly Flames and breaks out.",
+    "Yao Dan and Yao Wanhuo stay behind to self-destruct."
+  ],
+  "introduced": [
+    "Devouring Spirit Clan",
+    "Hun Yan",
+    "Hun Jing",
+    "Space Lockdown"
+  ],
+  "cultivation": "No realm stated.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-dan",
+      "name": "Yao Dan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-tian",
+      "name": "Yao Tian",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ling",
+      "name": "Yao Ling",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-wanhuo",
+      "name": "Yao Wanhuo",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "old-shennong",
+      "name": "Old Shennong",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-xuzi",
+      "name": "Hun Xuzi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "void-devouring-flame",
+      "name": "Void Devouring Flame",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-yan",
+      "name": "Hun Yan",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 626.1
+    },
+    {
+      "id": "xiao-yi",
+      "name": "Xiao Yi",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "This track is a rough machine-like translation: 'Konkyoshi' = Hun Xuzi, 'medicinal pills' / 'Chief Yaodan' = Yao Dan, 'medicine dust' = Yao Chen (Yao Lao), 'Medicine Day' = Yao Tian, 'Medicine Spirit' = Yao Ling, 'Medicine Star' = Yao Xing Ji, 'Soul Clan' = Hun Clan, 'Soul Hall/Palace/Temple' = Hall of Souls, 'Tianfu Alliance' = Sky Mansion Alliance, 'Ancient Clan/tribe' = Gu Clan, 'pharmacopoeia' = Pill Gathering, 'strange fire' = Heavenly Flame. 'Void Master' = the Void Devouring Flame.",
+    "134-174s is a recap of EP277.",
+    "Hun Jing is named only at 626.1 ('I will stop Hun Yan and Hun Jing'); which Hun Clan fighter is which on screen is not clear. EP279 calls Hun Yan the one who ambushed Xiao Yan.",
+    "889-891s 'Shennong, Medicine Day, I will temporarily lend you the strange fire within your bodies' is read as Xiao Yan borrowing their flames; EP279's recap says he fused an eight-colored lotus.",
+    "756.9 the Hun Clan know Xiao Yan also holds a piece of the Tuoshe Ancient Emperor Jade.",
+    "553-557s Yao Dan's plan: lead the strongest to self-destruct and tear the 'Space Lockdown'.",
+    "1108-1142s the end is fragmentary; Yao Dan and Yao Wanhuo's self-destruction is confirmed by EP279's recap."
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "ep": 145,
+  "title": "The Zong Breaking Pill",
+  "summary": "At the Black Emperor Pavilion, Kui Cha, leader of the Kui Wolf Gang, confronts Xiao Yan over his men. Xiao Yan shows he is a Dou Huang, and Kui Cha backs down. When Kui Cha attacks Zi Yan, Mo Ya, Young Master of the Black Emperor Sect, steps in, and Little Fairy Doctor lets it go. She thinks Mo Ya set up the fight, and she quietly poisons him with the Soul Swallowing Flower. That night Demon Flame Valley men ask the gray-robed man to kill the Xiao Gate and Jia Nan Academy people in the city. Xiao Yan shuts himself away to refine the Zong Breaking Pill, a Sixth-Tier Pill, while Little Fairy Doctor and Zi Yan guard his room. After two days the pill is close to forming.",
+  "events": [
+    "Xiao Yan is put in the Earth area of the Black Emperor Pavilion",
+    "Kui Cha confronts Xiao Yan and backs down",
+    "Mo Ya stops Kui Cha's attack on Zi Yan and offers to settle things",
+    "Little Fairy Doctor poisons Mo Ya and explains the Soul Swallowing Flower",
+    "Demon Flame Valley plots with the gray-robed man",
+    "Zi Yan punches Mo Ya when he comes back",
+    "Xiao Yan refines the Zong Breaking Pill for two days"
+  ],
+  "introduced": [
+    "Kui Cha (leader of the Kui Wolf Gang)",
+    "Mo Ya (Young Master of the Black Emperor Sect)",
+    "Soul Swallowing Flower",
+    "Zong Breaking Pill (Sixth-Tier)"
+  ],
+  "cultivation": "Mo Ya is judged a Six-Star Dou Huang by Little Fairy Doctor.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false,
+      "card": 162
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false,
+      "card": 376
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false,
+      "card": 475
+    },
+    {
+      "id": "kui-cha",
+      "name": "Kui Cha",
+      "first": true,
+      "card": 149
+    },
+    {
+      "id": "mo-ya",
+      "name": "Mo Ya",
+      "realm": "6-star Dou Huang",
+      "quote": "Judging by Mo Ya's strength, he's probably just a Six-Star Dou Huang.",
+      "first": true,
+      "card": 330
+    },
+    {
+      "id": "han-feng",
+      "name": "Han Feng",
+      "look": "hidden in a gray robe",
+      "first": false,
+      "card": 607
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-40s: the [Episode 145] card opens the file, then a recap to 40s.",
+    "544s: Mo Ya's realm is Little Fairy Doctor's estimate ('probably').",
+    "607-662s: the man the Demon Flame Valley envoy calls 'sir' is the gray-robed man; the envoy is not named (probably Fang Yan's side).",
+    "667-670s: Xiao Yan thinks the man's back looks familiar."
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "ep": 73,
+  "title": "Dragon Qi and the Road to Jia Nan",
+  "summary": "Fan Ling, a Dou Ling, attacks Xiao Yan with the Bone Transforming Bloody Evil Palm to keep the map fragment. Xiao Yan uses the Green Lotus Change, and his Heavenly Flame overpowers the Blood Sect's cold techniques until he kills Fan Ling. He escapes before Fan Lao arrives to find his son dead. Now holding three map fragments and the pill, he swallows the Yin-Yang Mysterious Dragon Pill and draws out its Dragon Qi, which needs a Sonic Dou Skill to use. Yao Lao reveals he created the pill's formula, and that the student he raised as a son betrayed him and left him as he is now. Xiao Yan vows to surpass and kill that student, then enters Heping Town and is let into Jia Nan Academy as a student of Ruo Lin. At the Inner Academy Qualifying Competition, Xun Er beats Mo Wen, and Xiao Yan arrives just in time for his match with Xue Beng.",
+  "events": [
+    "Fan Ling fights Xiao Yan with the Bone Transforming Bloody Evil Palm.",
+    "Xiao Yan uses the Green Lotus Change and kills Fan Ling.",
+    "Fan Lao finds his son's body and swears revenge.",
+    "Xiao Yan takes the Yin-Yang Mysterious Dragon Pill and inherits Dragon Qi.",
+    "Yao Lao says he created the pill and was betrayed by his student.",
+    "Xiao Yan passes Heping Town into Jia Nan Academy.",
+    "Xun Er beats Mo Wen; Xiao Yan arrives for his match with Xue Beng."
+  ],
+  "introduced": [
+    "Bone Transforming Bloody Evil Palm",
+    "Dragon Qi",
+    "Sonic Dou Skill",
+    "Heping Town",
+    "Death Spirit Tree",
+    "Inner Academy Qualifying Competition",
+    "Mo Wen",
+    "Xue Beng",
+    "Huang Class / Xuan Class (academy classes)",
+    "Guard Squad"
+  ],
+  "cultivation": "Fan Ling to Xiao Yan: 'A Four-Star Da Dou Shi?' (66.6). Fan Ling is a Dou Ling (103, 136). Fan Lao is a Dou Huang ('My father is a Dou Huang', 244).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Four-Star Da Dou Shi",
+      "quote": "A Four-Star Da Dou Shi?",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fan-ling",
+      "name": "Fan Ling",
+      "realm": "Dou Ling",
+      "quote": "Dou Ling is indeed powerful.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fan-lao",
+      "name": "Fan Lao",
+      "realm": "Dou Huang",
+      "quote": "My father is a Dou Huang.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mo-wen",
+      "name": "Mo Wen",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    },
+    {
+      "id": "xue-beng",
+      "name": "Xue Beng",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Source: a different compilation (the EP70-73 one-hour version). Its 0-1100s matches ep72.en.srt 1066-2161 line for line; ep72's file overruns into this episode.",
+    "0-30s: narration recap; not counted. 1104.8: '[Preview of the next episode]'; nothing after it counted.",
+    "Yao Lao's betraying student is not named here; the EP1 cold open and EP70 ('If only I could kill Han Feng'; Yao Lao reacting to Han Feng's name) point to Han Feng.",
+    "The fate of the Blood Sect elder who stays to hold Xiao Yan off (251) is not shown.",
+    "That Xiao Yan takes the Three Thousand Lightning Movement from Fan Ling is not stated; EP90 shows him training it.",
+    "Xiao Yan gives his age as eighteen (909).",
+    "474.8 'Seventh-Pier Pill' is a typo for Seventh-Tier."
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "ep": 256,
+  "title": "The Soul Origin",
+  "summary": "The Deputy Hall Master of the Hall of Souls, a Three-Star Dou Sheng, arrives after Xiao Yan kills the First Tianzun. He threatens Xiao Zhan, and Xiao Yan warns that he will give the Tuoshe Ancient Jade to the Gu Clan if his father is hurt. The Deputy Hall Master overpowers Xiao Yan and Yao Lao, but Zi Yan breaks into the sealed space and drives him off. Xiao Yan frees the prisoners and finds the Soul Origin at the bottom of a pool, gathered from millions of people the Hall of Souls killed. He refines it for two months, and his soul reaches the peak of the Heavenly Realm. On a soul journey he finds where the Purifying Demonic Lotus Flame will appear, and Hun Miesheng, Hall Master of the Hall of Souls, attacks him there. An unknown powerhouse steps in to stop Hun Miesheng.",
+  "events": [
+    "The Deputy Hall Master arrives and punishes his men for losing the Human Hall.",
+    "He threatens Xiao Zhan; Xiao Yan threatens to give the Tuoshe Ancient Jade to the Gu Clan.",
+    "The Deputy Hall Master, a Three-Star Dou Sheng, overpowers Xiao Yan and Yao Lao.",
+    "Zi Yan breaks into the sealed space and drives him off.",
+    "Xiao Yan frees the prisoners and finds the Soul Origin in a pool.",
+    "The alliance celebrates its first victory over the Hall of Souls.",
+    "Two months later Xiao Yan's soul reaches the peak of the Heavenly Realm.",
+    "On a soul journey he meets Hun Miesheng, and an unknown powerhouse saves him."
+  ],
+  "introduced": [
+    "Soul Origin",
+    "Hun Miesheng (Hall Master of the Hall of Souls)",
+    "the unknown powerhouse at the Demon Flame's site",
+    "Two moons, nine stars (the omen of the Demon Flame)"
+  ],
+  "cultivation": "The Deputy Hall Master is a Three-Star Dou Sheng ('He's already a three-star Dou Sheng.'). Xiao Yan's soul reaches the peak of the Heavenly Realm after refining the Soul Origin ('This kid has already reached the peak of the Heavenly Realm.').",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": "This kid has already reached the peak of the Heavenly Realm. (soul realm)",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "deputy-hall-master-hall-of-souls",
+      "name": "Deputy Hall Master (Hall of Souls)",
+      "realm": "Three-Star Dou Sheng",
+      "quote": "He's already a three-star Dou Sheng.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-miesheng",
+      "name": "Hun Miesheng",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 1049.2
+    },
+    {
+      "id": null,
+      "name": "unknown powerhouse",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 1057.3
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-50s is a narrated recap of EP255 (it says Xiao Yan killed the First Heavenly Master and obtained the Sea Heart Flame).",
+    "This file is in the cleaner official style ('Episode 187' card = site EP256).",
+    "'Vice Hall Master' here = the Deputy Hall Master (Deputy Hall Chief in EP245).",
+    "Xiao Zhan is only mentioned, not on screen.",
+    "157.0 'Tuoshe Emperor Jade' = Tuoshe Ancient Jade.",
+    "1081.9 the unknown powerhouse who calls Hun Miesheng by name is not identified.",
+    "'Lotus Demon Flame' = Purifying Demonic Lotus Flame; it 'will reappear in two months'."
+  ]
+}

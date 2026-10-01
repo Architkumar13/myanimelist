@@ -1,0 +1,94 @@
+{
+  "ep": 165,
+  "title": "Fei Tian of the Northern Pavilion",
+  "summary": "Inside the Nine Heavenly Lightning Prison Formation, Xiao Yan fights Elder Dian, Elder Lei and Elder Feng of the Wind Lightning Northern Pavilion. He uses the Five Ring Flame Expelling Technique, shows three Heavenly Flames and the Angry Buddha Lotus Flame, and breaks the formation. The elders flee, and he takes their remaining scrolls of the Three Thousand Lightning Illusionary Body. He refuses Hong Tian Xiao's offer of compensation and kills him, which frees the Han Clan, and then leaves the Han family. Tian Huo Zun Zhe warns that borrowing his Soul Power leaves a spiritual imprint in Xiao Yan's body, and Xiao Yan finds Yao Lao's recipe for the Soul Cleansing Pill to clear it. In Bone Transforming City he buys maps and hears of the Heavenly Mountain Blood Pool in the Heaven Eye Mountain Range, which may help a peak Dou Huang reach Dou Zong. At an inn, Fei Tian, head of the Wind Lightning Northern Pavilion, sits down at his table, sees his flame is a Heavenly Flame, and tells him he will not get away.",
+  "events": [
+    "Xiao Yan fights the three Northern Pavilion elders inside their formation.",
+    "He breaks the formation with the Five Ring Flame Expelling Technique and Lotus Flame.",
+    "The elders flee and Xiao Yan takes the remaining Illusionary Body scrolls.",
+    "Xiao Yan kills Hong Tian Xiao and frees the Han Clan, then says goodbye.",
+    "Tian Huo Zun Zhe warns of a spiritual imprint; Xiao Yan finds the Soul Cleansing Pill recipe.",
+    "In Bone Transforming City he buys maps and learns of the Heavenly Mountain Blood Pool.",
+    "He hears that Miss Feng of the Eastern Pavilion and Tang Ying of the Ten Thousand Sword Pavilion are going there.",
+    "Fei Tian, head of the Northern Pavilion, finds Xiao Yan at an inn."
+  ],
+  "introduced": [
+    "Wind Shield",
+    "Lightning Prison",
+    "Thunder God's Fury",
+    "Wind Lightning Northern Pavilion",
+    "Wind Lightning Eastern Pavilion",
+    "spiritual imprint",
+    "Soul Cleansing Pill",
+    "Bone Transforming City",
+    "Heavenly Mountain Blood Pool",
+    "Heaven Eye Mountain Range",
+    "Miss Feng",
+    "Tang Ying",
+    "Fei Tian",
+    "Heavenly Flames Ranking"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "first": false
+    },
+    {
+      "id": "elder-dian",
+      "name": "Elder Dian",
+      "first": false
+    },
+    {
+      "id": "elder-lei",
+      "name": "Elder Lei",
+      "first": false
+    },
+    {
+      "id": "elder-feng",
+      "name": "Elder Feng",
+      "first": false
+    },
+    {
+      "id": "hong-tian-xiao",
+      "name": "Hong Tian Xiao",
+      "first": false
+    },
+    {
+      "id": "han-chi",
+      "name": "Han Chi",
+      "first": false
+    },
+    {
+      "id": "han-xue",
+      "name": "Han Xue",
+      "first": false
+    },
+    {
+      "id": "yao-tian-huo",
+      "name": "Yao Tian Huo",
+      "first": false
+    },
+    {
+      "id": "fei-tian",
+      "name": "Fei Tian",
+      "first": true,
+      "card": 964
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut file: Wind Blade and Lightning Slash moved to EP164 with the start of the fight; added Fei Tian's look at Xiao Yan's Heavenly Flame and his warning from EP166 (Heavenly Flames Ranking now first named here); card time moved to the new clock."
+  ],
+  "flags": [
+    "0-38s is the recap.",
+    "204s: an elder cries 'Three Heavenly Flames?' when Xiao Yan shows his flames.",
+    "446-449s: Hong Tian Xiao's death is not shown in the subtitles; EP166's recap (11s) says Xiao Yan killed him with the Earth Demon Puppet.",
+    "457-493s: the Han family speakers thanking Xiao Yan are not named; 'If the Elder were here' likely means Han Fei.",
+    "677s: place caption '[Bone Transforming City]'.",
+    "882s: 'Miss Feng', successor to the head of the Eastern Pavilion, is likely the Feng Qing Er named in EP161; EP167 confirms it.",
+    "892-894s: Tang Ying of the Ten Thousand Sword Pavilion is named but not on screen, and is called 'She'; EP167 shows Tang Ying as a man.",
+    "964-971s: Fei Tian names himself; an onlooker calls him head of the Wind Lightning Northern Pavilion."
+  ]
+}

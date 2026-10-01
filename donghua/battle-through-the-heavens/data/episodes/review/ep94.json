@@ -1,0 +1,83 @@
+{
+  "ep": 94,
+  "title": "Zi Yan in the Herb Warehouse",
+  "summary": "Xiao Yan still needs the Asparagus Ice Fire Fruit and a Rank Six Water Type Monster Core for the Ground Spirit Pill. Elder Hao lets him take one herb from the Medicinal Ingredients Warehouse in exchange for a Dragon Strength Pill. There he finds the fruit, but a small girl snatches it to eat it raw. She is Zi Yan, a Magical Beast who ate a Shape-Shifting Flower and is stuck in human form. Xiao Yan wins the fruit by promising to refine her herbs into tasty pills, and she tells him she is number one on the Strong Ranking. Elder Hao sends him to the stingy Elder Liu for the Monster Core. Elder Liu wants a Sixth-Tier Fighting Spirit Pill, and in the end takes a Core-Fire Lotus Seed and a Dragon Strength Pill instead.",
+  "events": [
+    "Xiao Yan has the Flame Core Ganoderma and Green Wood Celestial Vine; he still needs two ingredients.",
+    "Elder Hao trades one warehouse herb for a Dragon Strength Pill.",
+    "Xiao Yan finds the Asparagus Ice Fire Fruit; Zi Yan grabs it.",
+    "He promises to refine her herbs into tasty pills; she gives him the fruit.",
+    "Zi Yan explains the Shape-Shifting Flower and her lonely life in the mountains.",
+    "She tells him she is number one on the Strong Ranking.",
+    "Elder Hao points him to Elder Liu, who uses fire-type skills, for the Monster Core.",
+    "Elder Liu takes a Core-Fire Lotus Seed and a Dragon Strength Pill for the Rank Six Monster Core."
+  ],
+  "introduced": [
+    "Zi Yan",
+    "Elder Liu",
+    "Medicinal Ingredients Warehouse",
+    "Asparagus Ice Fire Fruit",
+    "Rank Six Water Type Monster Core",
+    "Flame Core Ganoderma",
+    "Blood Python Branch",
+    "Fighting Spirit Pill (Sixth-Tier)",
+    "Shape-Shifting Flower",
+    "Core-Fire Lotus Seed"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "elder-hao",
+      "name": "Elder Hao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": "the first place on the Strong Ranking belongs to me",
+      "first": true,
+      "card": 636.0
+    },
+    {
+      "id": "elder-liu",
+      "name": "Elder Liu",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 824.1
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut subtitle file, which starts at the [Episode 94] card: events unchanged; Elder Liu's name card (824.1) and Zi Yan's card (636.0) set on the new clock; Lin Yan removed from cast because he is only named."
+  ],
+  "flags": [
+    "0-47s are a recap of EP93 and are not counted.",
+    "Lin Yan is only named this episode (in the recap and at 660.6); he is not on screen, so he is left out of cast.",
+    "Zi Yan's card value (636.0) is her name line 'My name is Zi Yan'.",
+    "284.5 'The Vajra Bodhisattva is as tough as the Black Iron' is a garbled line; it seems to be about the fruit being too hard to eat.",
+    "Zi Yan: a beast normally needs to be Dou Huang level to take human form (533.6); she says she is not that strong.",
+    "Yao Lao calls Zi Yan 'an extremely rare ancient Magical Beast' (677.9) but cannot tell which kind.",
+    "935.6 '(I'll bring you to the First Elder.)' is a sent voice during the Elder Liu bargain; the speaker is likely Elder Hao."
+  ]
+}

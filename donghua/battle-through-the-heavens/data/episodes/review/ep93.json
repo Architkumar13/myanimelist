@@ -1,0 +1,96 @@
+{
+  "ep": 93,
+  "title": "Xiao Yan Takes Bai Cheng's Place",
+  "summary": "Xiao Yan fights Bai Cheng in the arena with the Green Lotus Change. When Bai Cheng knocks away his Heavy Xuan Ruler, Xiao Yan only gets faster. Bai Cheng swallows a pill he got from Han Xian, so Xiao Yan takes one of his own Dragon Strength Pills. He breaks Bai Cheng's Earth Armor by forcing Dark Energy into its cracks and wins, taking Bai Cheng's 34th place on the Strong Ranking. Tyrant Spear Liu Qing of the Mountain Splitting Gang then arrives with his sister Liu Fei. Xun Er slaps Liu Fei for insulting Xiao Yan, and Lin Xiu Ya steps in to calm things down. Liu Qing agrees to settle it at the Strong Ranking Competition in a month.",
+  "events": [
+    "Xiao Yan fights Bai Cheng with the Green Lotus Change and loses his Heavy Xuan Ruler, but grows faster.",
+    "Bai Cheng takes a pill from Han Xian; Xiao Yan answers with a Dragon Strength Pill.",
+    "Bai Cheng's Earth Armor and Xuan Earth Condensation hold against Octane Blast.",
+    "Xiao Yan breaks the armor from inside with Dark Energy and wins.",
+    "He takes Bai Cheng's 34th place on the Strong Ranking.",
+    "Liu Qing arrives with Liu Fei; Xun Er names herself Xiao Xun Er and stands against him.",
+    "Xun Er slaps Liu Fei; Lin Xiu Ya intervenes.",
+    "Liu Qing promises Xiao Yan a match at the Strong Ranking Competition in a month."
+  ],
+  "introduced": [
+    "Earth Armor (Bai Cheng's Dou Qi Armor)",
+    "Xuan Earth Condensation",
+    "Dark Energy",
+    "Octane Blast",
+    "Liu Qing (Tyrant Spear), on screen",
+    "Mountain Splitting Gang",
+    "Wolf Fang (Lin Xiu Ya's group, named as such)",
+    "34th place on the Strong Ranking"
+  ],
+  "cultivation": "Xiao Yan wins as a new Dou Ling and takes Bai Cheng's 34th place on the Strong Ranking.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "bai-cheng",
+      "name": "Bai Cheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xun-er",
+      "name": "Xun Er",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "liu-qing",
+      "name": "Liu Qing",
+      "realm": null,
+      "quote": "Chief of the Mountain Splitting Gang, Tyrant Spear Liu Qing.",
+      "first": true,
+      "card": 575.9
+    },
+    {
+      "id": "liu-fei",
+      "name": "Liu Fei",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "lin-xiu-ya",
+      "name": "Lin Xiu Ya",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "han-yue",
+      "name": "Han Yue",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [
+    "Re-checked against the re-cut subtitle file, which starts at the [Episode 93] card: events unchanged; Liu Qing's card moved to 575.9 and flag times moved to the new clock."
+  ],
+  "flags": [
+    "0-43s are a recap of EP92 and are not counted.",
+    "Octane Blast and Dark Energy are first named in these files here, but Octane Blast may have appeared in earlier seasons.",
+    "Bai Cheng's 34th place is stated at 894.6.",
+    "Han Yue's presence with Lin Xiu Ya is inferred from 'We left in a hurry and didn't manage to thank you' (813.5).",
+    "583.0 'You don't have to fear Lei Na' is unclear; no Lei Na appears.",
+    "725.9 'That's a good clip' and 730.8 'a very handsome slip' are typos for 'slap'."
+  ]
+}

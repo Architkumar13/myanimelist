@@ -1,0 +1,88 @@
+{
+  "ep": 250,
+  "title": "Hostages from the Heaven Demon Phoenix Tribe",
+  "summary": "Before the battle, the Phoenix Elder tells Jiu Feng that this war is the Heaven Demon Phoenix Tribe's chance to rise above the Void Ancient Dragons. In the fight, Xiao Yan takes on Kun Huang and Ying Huang together and shocks them with the Great Heavenly Creation Palm and the Yellow Spring Palm. Yao Ming's elders capture Jiu Feng, and Xiao Yan seals both Supreme Elders and threatens to crush their cores. The Phoenix Elder threatens to self-destruct, then gives in and promises the tribe will stay out of the dragons' war. Xiao Yan keeps Jiu Feng, Kun Huang and Ying Huang as hostages until the war ends, and the pythons take them away. Then Xiao Yan and Yao Ming head for East Dragon Island.",
+  "events": [
+    "The Phoenix Elder tells Jiu Feng the war will decide the tribe's rise.",
+    "Kun Huang and Ying Huang attack Xiao Yan together.",
+    "Xiao Yan beats their attack with Heaven-Rank Dou Skills.",
+    "Yao Ming's elders capture Jiu Feng.",
+    "Xiao Yan defeats and seals the two Supreme Elders.",
+    "He threatens to kill one person every ten breaths.",
+    "The Phoenix Elder promises the tribe will stay out of the dragons' war.",
+    "Xiao Yan keeps three hostages and heads for East Dragon Island."
+  ],
+  "introduced": [
+    "Demonic Phoenix Bell (a Dou Zun-level defence)",
+    "Kun Huang Devoured (Kun Huang's attack)",
+    "Demon Phoenix essence blood"
+  ],
+  "cultivation": "No breakthroughs. Xiao Yan is called a One-Star Dou Sheng by Kun Huang.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "One-Star Dou Sheng",
+      "quote": "Even if you are a one-star Dou Sheng",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-ming",
+      "name": "Yao Ming",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "phoenix-elder",
+      "name": "Phoenix Elder",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "jiu-feng",
+      "name": "Jiu Feng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "kun-huang",
+      "name": "Kun Huang",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ying-huang",
+      "name": "Ying Huang",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "elder-ming",
+      "name": "Elder Ming",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-29s is a narrated recap of EP249.",
+    "41-98s: the Phoenix Elder speaks to a young member who failed to bring back the Dragon-Phoenix Origin Fruit and is told 'only you and Jiufeng'. The listener may be Jiu Feng or another young phoenix; 'How could Tianhuang be defeated so easily?' is garbled.",
+    "'Jiufeng', 'Nine Phoenixes' = Jiu Feng; 'Celestial Phoenix Clan', 'Heavenly Phoenix Clan' = Heaven Demon Phoenix Tribe; 'Kunying and Ersheng' (681.1) = the two saints Kun Huang and Ying Huang.",
+    "Which brother is the 'second brother' and which the 'third brother' (116.0, 188.6) is not clear.",
+    "Jiu Feng was a Peak Eighth Turn Dou Zun in EP234; no realm is stated here."
+  ]
+}

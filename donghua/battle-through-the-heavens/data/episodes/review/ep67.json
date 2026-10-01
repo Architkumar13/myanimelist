@@ -1,0 +1,79 @@
+{
+  "ep": 67,
+  "title": "Sky Fire Three Mysterious Changes",
+  "summary": "In a hidden cave of the Magical Beast Mountain Range, Xiao Yan absorbs Yao Lao's medicine and becomes a Three-Star Da Dou Shi, then stops before the extra power grows out of control. Yun Yun tells Yun Shan that Xiao Zhan vanished in the woods, and Yao Lao guesses a force stronger than the sect took him. The jade shard shows Xiao Zhan out of danger, and Yao Lao suggests asking Xun Er, whose people are powerful. Xiao Yan shows Yao Lao a jade container from the Burning Flame Valley holding the Sky Fire Three Mysterious Changes, a secret technique that boosts power with signature flames. Yao Lao admits he first meant to use Xiao Yan, and says he needs about three Heavenly Flames for a new body, which leaves the Fallen Heart Flame at Jia Nan Academy. Yun Shan scolds Yun Yun for her mercy and plans to raise the sect higher. Xiao Yan learns the first change, and a Misty Cloud Sect elder finds him.",
+  "events": [
+    "Xiao Yan becomes a Three-Star Da Dou Shi and holds back the rest.",
+    "Yao Lao reasons that an outside force took Xiao Zhan; Xun Er may know.",
+    "The Burning Flame Valley jade container holds the Sky Fire Three Mysterious Changes.",
+    "Yao Lao confesses he first meant to use Xiao Yan; they reaffirm their bond.",
+    "Three Heavenly Flames are needed for Yao Lao's body; the Fallen Heart Flame is at Jia Nan Academy.",
+    "Yun Shan reproaches Yun Yun and reveals his ambition.",
+    "Xiao Yan learns the first change; only it is recorded.",
+    "A Misty Cloud Sect elder catches up with him."
+  ],
+  "introduced": [
+    "Sky Fire Three Mysterious Changes",
+    "secret techniques",
+    "signature flames",
+    "Burning Flame Valley",
+    "Yan Huo",
+    "Fallen Heart Flame (at Jia Nan Academy)",
+    "Dou Zun",
+    "first-class factions"
+  ],
+  "cultivation": "Xiao Yan: 'He became a Three-Star Da Dou Shi in an instant' (131.6). Burning Flame Valley chief: 'only a Five-Star Dou Zong' who beat a Dou Zun with the technique (889). Yao Lao reborn would be 'at least a strong Dou Zun' (759).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Three-Star Da Dou Shi",
+      "quote": "He became a Three-Star Da Dou Shi in an instant.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yun-shan",
+      "name": "Yun Shan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "heaven-swallowing-python",
+      "name": "Seven-Colored Heaven Swallowing Python",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-35s: card and recap; not counted.",
+    "156: Xiao Yan says he can only control the power 'of a Two-Star Da Dou Shi'; this clashes with 131.6 and the EP68 recap (Three-Star). I kept Three-Star.",
+    "195-219: Yun Yun's report of the chase is replayed while Xiao Yan and Yao Lao talk; who says 'That was a baseless lie' is unclear.",
+    "Yao Lao says the jade container was found by Xiao Yan at the Alchemist Association trading market (358).",
+    "'Yan Huo' (963) is named as a 'senile old geezer' who kept the technique from Yao Lao; that he leads the Burning Flame Valley is my reading.",
+    "677.3 'Bring him here' (Yun Shan) has no clear object.",
+    "Yao Lao says the Misty Cloud Sect is 'the weakest among the first-class factions' (398)."
+  ]
+}

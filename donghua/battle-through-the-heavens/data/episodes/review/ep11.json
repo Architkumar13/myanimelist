@@ -1,0 +1,96 @@
+{
+  "ep": 11,
+  "title": "The Alchemist Association",
+  "summary": "Little Fairy Doctor is gone, and in a few days Xiao Yan swallows the Purple Flame with the Flame Mantra and becomes a One-Star Dou Shi, though the technique evolves only one level. To reach the Heavenly Flames in the depths of the Tager Desert, he and Yao Lao come to Black Rock City, the only place with Thick Winged Birds. Yao Lao lists what he needs to swallow a Heavenly Flame: a Blood Lotus Essence Pill, an Ice Spirit Cold Fountain and an Acceptance Soul, which Yao Lao already has. Xiao Yan goes to the Alchemist Association, where he gets past the door by showing a condensed solid fire, and in the examination with Lin Fei and Xue Mei, he passes first tier with a top-grade Amassing Strength Pill. For the second-tier test Ao Tuo sets him the hard Energy Recovery Pill, and using his Purple Flame he passes and becomes Black Rock City's youngest second-tier alchemist in over a hundred years. He asks the association for a Rank Three Monster Core and an Ice Spirit Cold Fountain.",
+  "events": [
+    "Opening narration: Xiao Yan swallows the Purple Flame with the Flame Mantra and becomes a One-Star Dou Shi.",
+    "Xiao Yan and Yao Lao arrive in Black Rock City for a Thick Winged Bird to the Tager Desert.",
+    "Yao Lao lists the three items needed to swallow a Heavenly Flame.",
+    "At the Alchemist Association door, Xiao Yan shows a condensed solid fire and is let in.",
+    "He passes the first-tier exam with a top-grade Amassing Strength Pill alongside Xue Mei and Lin Fei.",
+    "Ao Tuo sets him the Energy Recovery Pill for the second-tier exam; he uses the Purple Flame and passes.",
+    "He becomes the youngest second-tier alchemist in Black Rock City in over a hundred years and asks for a Rank Three Monster Core and Ice Spirit Cold Fountain."
+  ],
+  "introduced": [
+    "Black Rock City",
+    "Tager Desert (named)",
+    "Thick Winged Bird",
+    "Alchemist Association",
+    "Fu Lanke",
+    "Ao Tuo",
+    "Lin Fei",
+    "Xue Mei",
+    "Blood Lotus Essence Pill",
+    "Ice Spirit Cold Fountain",
+    "Acceptance Soul",
+    "Rank Three Monster Core",
+    "Amassing Strength Pill",
+    "Energy Recovery Pill",
+    "alchemist tiers (first, second, fourth)",
+    "recommendation letter",
+    "condensed solid fire"
+  ],
+  "cultivation": "Opening narration: Xiao Yan swallows the Purple Flame with the Flame Mantra and becomes a 1-star Dou Shi (21.0); the Flame Mantra evolves one level (68.2). He passes the first- and second-tier alchemist exams.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "1-star Dou Shi",
+      "quote": "(and successfully advanced to One-Star Dou Shi.)",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "fu-lanke",
+      "name": "Fu Lanke",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 423.0
+    },
+    {
+      "id": "ao-tuo",
+      "name": "Ao Tuo",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 331.0
+    },
+    {
+      "id": "lin-fei",
+      "name": "Lin Fei",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 310.5
+    },
+    {
+      "id": "xue-mei",
+      "name": "Xue Mei",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 479.0
+    }
+  ],
+  "flags": [
+    "The breakthrough to Dou Shi and the Flame Mantra's first evolution happen between EP10 and EP11 and are only told in the 7-21s narration.",
+    "Black Rock City is also where EP3's narration puts Jianan Academy.",
+    "Fu Lanke is spelled 'Fu Lanke' (292.5), 'Fu Lan'Ke' (423.0) and 'Fu Lan Ke' (EP12 823.3). He is the association leader (436.2); Xue Mei is his disciple.",
+    "300.0 'A fourth-tier alchemist' greets the arrival of Ao Tuo; read as Ao Tuo's tier, not stated directly. EP12 makes him vice leader.",
+    "373.5 note: '[*An honorific to Yao Chen]' on 'Yao Lao'. 388.2 'Madam Yao?' is a slip.",
+    "588.2 'He's 19?' does not fit Xiao Yan's age (15 in EP1, about 17-18 by now); 596.5 'he must have become a Dou Zhe before the age of 17'.",
+    "Becoming second tier needs Dou Shi strength (707.2); he already is one.",
+    "917-922: Xue Mei turns down being paired with him; who says 'Okay' to 'You can have him' is unclear."
+  ],
+  "changes": []
+}

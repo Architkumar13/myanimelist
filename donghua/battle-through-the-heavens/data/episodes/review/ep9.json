@@ -1,0 +1,81 @@
+{
+  "ep": 9,
+  "title": "Showdown at the Thousand Medicine House",
+  "summary": "After Gan Mu's death, Xiao Yan races to the Thousand Medicine House and finds Little Fairy Doctor, who refuses to flee for fear the Wolf Head Mercenary Company will punish the townspeople. Mr. Yao arrives, guesses who Xiao Yan is and demands her Rainbow Poison Book, then claims he has already poisoned the room. Little Fairy Doctor had put an antidote in the tea and poisoned Mr. Yao's own chair, so he begs for the antidote and lets them go. Mu She brings the Wolf Head company after them. Xiao Yan fights Mu She, who uses his Dou Qi Cloak and a new Raging Lion technique he took from the third stone box in the cave where Xiao Yan and Little Fairy Doctor found the treasure. With Yao Lao's guidance, Xiao Yan answers with Flame Splitting Tsunami and kills Mu She. A last attack is stopped by the Sea's Core Vest, and Little Fairy Doctor asks which girl gave it to him.",
+  "events": [
+    "Xiao Yan reaches the Thousand Medicine House and finds Little Fairy Doctor.",
+    "Mr. Yao demands the Rainbow Poison Book and threatens them with poison.",
+    "Little Fairy Doctor turns the poison on Mr. Yao; he begs for the antidote and lets them leave.",
+    "Mu She leads the Wolf Head Mercenary Company to the Thousand Medicine House.",
+    "Mu She fights with Dou Qi Cloak, Soaring Wind Steps and Soaring Killer Wind.",
+    "Mu She uses Raging Lion, learned from the cave's third stone box; Xiao Yan kills him with Flame Splitting Tsunami.",
+    "The Sea's Core Vest saves Xiao Yan from a final attack; Little Fairy Doctor asks who gave it to him."
+  ],
+  "introduced": [
+    "Dou Qi Cloak",
+    "Raging Lion",
+    "stone boxes in the treasure cave",
+    "Lan (Little Fairy Doctor's eagle, called by name)"
+  ],
+  "cultivation": "Mu She calls Xiao Yan 'a mere Dou Zhe' (727.8).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Zhe",
+      "quote": "I didn't expect a mere Dou Zhe / to have such advanced Dou Skills.",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mr-yao-thousand-medicine-house",
+      "name": "Mr. Yao (Thousand Medicine House)",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mu-she",
+      "name": "Mu She",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mu-li",
+      "name": "Mu Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "flags": [
+    "Mu Li is the 'coward behind you' (535) but has no line of his own; on screen is assumed.",
+    "451.0 'Lan!' as they leave: Little Fairy Doctor calling her blue eagle (named in EP10 at 77.8).",
+    "468: 'Stop causing harm to others'; whether she leaves Mr. Yao the antidote is not clear.",
+    "828-850: someone attacks after Mu She falls and the vest stops it; the attacker is not named (perhaps Mu Li).",
+    "Mu Li's fate is not shown. EP10 narration says the Wolf Head Mercenary Company is completely defeated.",
+    "874.8 the file ends mid-line ('Oh, this...')."
+  ],
+  "changes": []
+}

@@ -1,0 +1,67 @@
+{
+  "ep": 260,
+  "title": "Seven Dou Sheng against the Demon Flame",
+  "summary": "Hun Miesheng proposes that everyone of Four-Star Dou Sheng or above fight the Purifying Demonic Lotus Flame while the rest take on its ten Fire Slaves. Xiao Chen cannot join, because near the flame Xiao Yan's seal on him would fail, so Xiao Yan tells him to hide. Seven Four-Star Dou Sheng attack the Demon Flame, which calls itself born of heaven and earth and refuses to be tamed. Xiao Yan's group takes on a late Three-Star and an early Two-Star Dou Sheng Fire Slave. Seeing that the Fire Slaves weaken when their flames leave them, Xiao Yan uses the energy of the light orb he found earlier and takes control of one. The Demon Flame tries to blow itself up, and Hun Miesheng uses the Heavenly Net Refining Fire and starts the Heavenly Net Demon Sealing Formation to seal it.",
+  "events": [
+    "Hun Miesheng splits the fighters: Four-Star Dou Sheng and above against the Demon Flame, the rest against the Fire Slaves.",
+    "Xiao Chen stays hidden so the Demon Flame cannot take him back.",
+    "Seven Four-Star Dou Sheng attack the Purifying Demonic Lotus Flame.",
+    "Xiao Yan's group fights a late Three-Star and an early Two-Star Dou Sheng Fire Slave.",
+    "Xiao Yan uses the light orb's energy to take control of a Fire Slave.",
+    "The Demon Flame tries to self-destruct.",
+    "Hun Miesheng starts the Heavenly Net Demon Sealing Formation."
+  ],
+  "introduced": [
+    "Great Compassion Hand",
+    "Fire Demon",
+    "Flame Divides Wave Ruler",
+    "Great Creation Palm",
+    "Heavenly Net Refining Fire",
+    "Heavenly Net Demon Sealing Formation"
+  ],
+  "cultivation": "Seven Four-Star Dou Sheng fight the Demon Flame. Two Fire Slaves are a late-stage Three-Star and an early-stage Two-Star Dou Sheng. No change for Xiao Yan.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-chen",
+      "name": "Xiao Chen",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hun-miesheng",
+      "name": "Hun Miesheng",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "purifying-demonic-lotus-flame",
+      "name": "Purifying Demonic Lotus Flame",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The file starts at 156s with a narrated recap of EP259 (156-195s).",
+    "This track writes the flame as 'Pure Lotus Demon Flame', Dou Sheng also as 'Battle Saint', and the Hall Master as 'the hall' (226.2).",
+    "The seven Four-Star Dou Sheng are not named; the other fighters (Zi Yan, Xun Er, Gu Nanhai, Yao Lao, the Yan and Medicine Clan elders) are not named on screen in this file.",
+    "274.8-281.1: Xiao Chen speaks to the absent Xiao Xuan ('Big Brother') about Xiao Yan.",
+    "Who uses the Great Compassion Hand (612.7), Flame Divides Wave Ruler (785.7), Great Creation Palm (817.7) and the Eight Desolate Destruction Flame (959.2) is not said.",
+    "991.8 'He dared to devour the demonic fire!': the person who swallows the Demon Flame's energy is not named."
+  ]
+}

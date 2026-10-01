@@ -1,0 +1,121 @@
+{
+  "ep": 242,
+  "title": "Seeking Allies",
+  "summary": "With the Profound River Alliance destroyed, the Falling Star Pavilion asks three powers to ally against the Hall of Souls. The Hall of Souls' Deputy Leader, a Three-Star Dou Sheng, plans to keep Xiao Yan from growing stronger. At Burning Flame Valley, the ailing Flaming Cloud Ancestor, a One-Star Dou Sheng, agrees to join after Xiao Yan promises to cure him either way. At the Flower Sect, just raided by the Hall of Souls, the Grand Elder Qing Xianzi blames Yao Lao and gives three days to decide. At the Pill Tower, Yao Lao and Xiao Yan learn the alliance lacks votes on the Elder's Council. Xiao Yan enters the selection for a new Small Pill Tower elder against Old Demon Hou, an eight-tier alchemist, and the contest begins before Grand Elder Lin.",
+  "events": [
+    "The Hall of Souls' Deputy Leader plans to hold Xiao Yan back.",
+    "The Flaming Cloud Ancestor meets Xiao Yan and agrees to join the alliance.",
+    "Yao Lao finds the Flower Sect hurt by a Hall of Souls raid.",
+    "Qing Xianzi blames Yao Lao and gives three days to decide.",
+    "At the Pill Tower, the alliance is short of votes on the Elder's Council.",
+    "Xiao Yan is put forward for the vacant Small Pill Tower elder seat.",
+    "Old Demon Hou meets Yao Lao again and accepts the challenge.",
+    "Grand Elder Lin opens the elder selection."
+  ],
+  "introduced": [
+    "Deputy Leader of the Hall of Souls",
+    "Flaming Cloud Ancestor",
+    "Qing Xianzi",
+    "Small Pill Tower",
+    "Elder's Council",
+    "Old Demon Hou",
+    "Grand Elder Lin",
+    "Uncle Xuan"
+  ],
+  "cultivation": "Xiao Yan is a One-Star Dou Sheng and an eight-tier alchemist. The Hall of Souls' Deputy Leader is a Three-Star Dou Sheng. The Flaming Cloud Ancestor is a One-Star Dou Sheng. Qing Xianzi is a Ban Sheng. Grand Elder Lin is a Two-Star Dou Sheng. Yao Lao is a Ban Sheng.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "1-star Dou Sheng",
+      "quote": "The Falling Star Pavilion's Xiao Yan / is a One-Star Dou Sheng? / Yes,",
+      "first": false
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "first": false
+    },
+    {
+      "id": "hun-miesheng",
+      "name": "Hun Miesheng",
+      "first": false
+    },
+    {
+      "id": "hall-of-souls-deputy-leader",
+      "name": "Deputy Leader of the Hall of Souls",
+      "realm": "3-star Dou Sheng",
+      "quote": "[Deputy Leader of Hall of Souls, Three-Star Dou Sheng]",
+      "first": true,
+      "card": 89.9
+    },
+    {
+      "id": "flaming-cloud-ancestor",
+      "name": "Flaming Cloud Ancestor",
+      "realm": "1-star Dou Sheng",
+      "quote": "[Flaming Cloud Ancestor, One-Star Dou Sheng]",
+      "first": true,
+      "card": 113.7
+    },
+    {
+      "id": "tang-huo-er",
+      "name": "Tang Huo Er",
+      "first": false
+    },
+    {
+      "id": "tang-zhen",
+      "name": "Tang Zhen",
+      "first": false
+    },
+    {
+      "id": "yun-yun",
+      "name": "Yun Yun",
+      "first": false
+    },
+    {
+      "id": "qing-xianzi",
+      "name": "Qing Xianzi",
+      "realm": "Ban Sheng",
+      "quote": "[Qing Xianzi, Ban Sheng]",
+      "first": true,
+      "card": 326.1
+    },
+    {
+      "id": "xuan-kong-zi",
+      "name": "Xuan Kong Zi",
+      "first": false
+    },
+    {
+      "id": "uncle-xuan",
+      "name": "Uncle Xuan",
+      "first": true
+    },
+    {
+      "id": "old-demon-hou",
+      "name": "Old Demon Hou",
+      "quote": "[Old Demon Hou, Eight-Tier Alchemist Master]",
+      "first": true,
+      "card": 782.3
+    },
+    {
+      "id": "grand-elder-lin",
+      "name": "Grand Elder Lin",
+      "realm": "2-star Dou Sheng",
+      "quote": "[Grand Elder Lin, Two-Star Dou Sheng]",
+      "first": true,
+      "card": 941.4
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-44s is a recap of EP241.",
+    "55-91s: the Hall of Souls leader ('Leader') is taken as Hun Miesheng (named in EP240's recap); not named here.",
+    "89s: the card reads 'The Fallen Star Pavilion' - a slip for Falling Star Pavilion.",
+    "124-159s: 'Huo Er' is Tang Huo Er (EP175 card [Tang Huo Er]); 'Father' is taken as Tang Zhen, Burning Flame Valley's head; neither full name is said here.",
+    "663-724s: 'Uncle Xuan' leads the Pill Tower's three great heads; he may be Xuan Yi, but another speaker says 'Xuan Yi's been worried about you', so kept apart. Xuan Kong Zi is the silent one.",
+    "625-635s: vote count is muddled ('secured four votes. Counting your three votes, that's still only four total'; 'half of the eight seats').",
+    "Qing Xianzi is named in EP213 but first on screen here (as far as can be told).",
+    "An 'Elder Lin' appears at the Pill Gathering (EP182-185); possibly the same man as Grand Elder Lin."
+  ]
+}

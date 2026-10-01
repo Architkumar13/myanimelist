@@ -1,0 +1,67 @@
+{
+  "ep": 271,
+  "title": "The Northern Dragon King Falls",
+  "summary": "On North Dragon Island, Xiao Yan takes his Destruction Fire Body and fights the Northern Dragon King, who has fused the power of the other two Dragon Kings. The Dragon King cannot match his Fire Lotuses or his close combat. He then drags Xiao Yan into the Dragon Soul Pearl, a treasure made from the souls and blood of countless Void Ancient Dragons he killed. Xiao Yan uses the Purifying Demonic Lotus Flame to purify the trapped souls and promises them revenge. When the Dragon King begs for his life and offers to tell all he knows about the Hun Clan, Xiao Yan kills him with Yellow Spring Divine Anger. Zi Yan, now ruling all four Dragon Islands, gives Xiao Yan the Dragon King's body and buries the dead in the Dragon Tomb. As Xiao Yan starts refining the body, the Dragon King's voice speaks from it and thanks him for completing its refinement.",
+  "events": [
+    "Xiao Yan, in his Destruction Fire Body, overwhelms the Northern Dragon King with Fire Lotuses.",
+    "The Dragon King tries close combat and loses that too.",
+    "He pulls Xiao Yan into the Dragon Soul Pearl full of trapped dragon souls.",
+    "Xiao Yan purifies the souls with the Purifying Demonic Lotus Flame.",
+    "The Northern Dragon Island dragons turn on their old masters.",
+    "The Dragon King begs for mercy; Xiao Yan kills him with Yellow Spring Divine Anger.",
+    "The dragons bow to Zi Yan as Dragon Emperor of a united clan.",
+    "Xiao Yan takes the body, and the Dragon King's voice speaks from it."
+  ],
+  "introduced": [
+    "Dragon Soul Pearl",
+    "Blood Dragon Shattering the Heavens",
+    "Blood Dragon Devours the Heavens",
+    "Fire Condensation Finger"
+  ],
+  "cultivation": "No change for Xiao Yan. The Northern Dragon King says he has fused the power of two Dragon Kings.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "northern-dragon-king",
+      "name": "Northern Dragon King",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "No official track; reviewed from OCR of the burned-in English (cache/animekhor/ep271.en.srt). 57-70s is OCR noise from the opening; 154-182s is a recap of EP270.",
+    "OCR names mapped: 'Destruction Fire Form' = Destruction Fire Body; 'Dragon Demon Formation' / 'Dragon Transformation Demon Array' = the Dragon Transformation Array from EP270; 'Soul Clan' = Hun Clan; 'Pure Lotus Demon Fire' = Purifying Demonic Lotus Flame; 'Yellow Springs Heavenly Wrath' (891.0) = Yellow Spring Divine Anger; 'Ancient Dragon Clan of Taixu' / 'Ancient Dragon of the Great Void' = Void Ancient Dragons.",
+    "Medusa is not named in this file; she is taken as present from EP270 (675.5 'Sister Cailin') and EP273.",
+    "832-843s: unnamed speakers ('You vile dragons! ... You dare to defy your superiors'); read as North Dragon Island dragons turning on the Dragon King's loyalists.",
+    "874-882s: 'That beast, the Northern Dragon King, is not yet dead' then 'I, the King, will surely avenge': speakers unclear, read as someone noticing he is alive and the Dragon King himself.",
+    "1116-1136s: the Dragon King's voice from the body ('my body is my soul ... thank you for helping this King complete this final step of refinement'); EP272 resolves it.",
+    "Who speaks 1009-1037s (encouraging Zi Yan) is not named; likely Xiao Yan and dragon elders."
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "ep": 135,
+  "title": "The Sky Poison Woman",
+  "summary": "At the Black Mountain Fortress, the leader of the Poison Sect arrives and takes over the attack on the Jia Ma Empire. She sends the beaten Three Elders of Mulan back to base, recognises Xiao Yan as the man the Hall of Souls wants, and orders Yan Luo Tian to bring him in alive while she fights Medusa. Xiao Yan fights Yan Luo Tian, dodges his Open Mountain Seal with clones, and maims him with the Angry Buddha Lotus Flame. Xiao Yan then recognises the Poison Sect leader as his old friend Little Fairy Doctor, who now calls herself the Sky Poison Woman. She says the Woeful Poison Body has killed everyone she cared about, and she lets it loose as a cloud of poison gas. Xiao Yan refuses to leave her.",
+  "events": [
+    "The Poison Sect leader arrives at the Black Mountain Fortress and dismisses the Three Elders of Mulan",
+    "She tells Yan Luo Tian to capture Xiao Yan alive and fights Medusa herself",
+    "Xiao Yan and Yan Luo Tian fight; Yan Luo Tian uses the Open Mountain Seal",
+    "Xiao Yan tricks him with clones and hits him with the Angry Buddha Lotus Flame",
+    "Xiao Yan recognises the Poison Sect leader as Little Fairy Doctor",
+    "She names herself the Sky Poison Woman and blames the Woeful Poison Body for her losses",
+    "She releases poison gas; Xiao Yan says he will never abandon her"
+  ],
+  "introduced": [
+    "Sky Poison Woman (Little Fairy Doctor's title as Poison Sect leader)",
+    "Open Mountain Seal",
+    "Gliding Geese Technique (Gold Geese Sect)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Huang",
+      "quote": "They failed to take down even a Dou Huang brat.",
+      "first": false,
+      "card": 210
+    },
+    {
+      "id": "little-fairy-doctor",
+      "name": "Little Fairy Doctor",
+      "first": false,
+      "card": 55
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false,
+      "card": 183
+    },
+    {
+      "id": "yan-luo-tian",
+      "name": "Yan Luo Tian",
+      "first": false,
+      "card": 89
+    },
+    {
+      "id": null,
+      "name": "Three Elders of Mulan",
+      "first": false,
+      "card": 85
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "first": false,
+      "card": 504
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The episode's ending (Xiao Yan holding Little Fairy Doctor, the poison stopped, the truce) is at the start of ep136.en.srt, before its [Episode 136] card (0-178s).",
+    "166s: 'Remember, I want him alive' is Little Fairy Doctor to Yan Luo Tian.",
+    "Zi Yan's presence is only implied by shouts of 'Xiao Yan!' (514-517s); she is left out of cast."
+  ]
+}

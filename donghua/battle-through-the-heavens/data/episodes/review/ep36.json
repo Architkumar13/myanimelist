@@ -1,0 +1,84 @@
+{
+  "ep": 36,
+  "title": "Ya Fei and the Purple Gold Card",
+  "summary": "Ya Fei, now Acting Supervising Elder of the Mite'er Auction House headquarters, takes Xiao Yan and Hai Bodong inside and thanks Xiao Yan for the pill that got her through her family's challenges in Wu Tan City. Lei Lei, the grandson of a Mite'er elder, insults Xiao Yan and Ya Fei, and Xiao Yan knocks him down with Octane Blast. Ya Fei says no item that restores Soul Power has been seen there for years, but promises to watch the family's information channels. Hai Bodong orders four rare herbs with a Purple Gold Card, but Lei Lei's grandfather, Elder Lei Ou, claims they are reserved and threatens to have Ya Fei dismissed. Hai Bodong reveals himself as a strong Dou Huang, crushes Lei Ou and gives the family one joss stick to bring the herbs, and Ya Fei charges him half price under the family's rules. As they get ready to leave, Nalan Yanran arrives to ask Ya Fei for a favour.",
+  "events": [
+    "Ya Fei vouches for Xiao Yan and Hai Bodong and takes them inside.",
+    "Lei Lei mocks Xiao Yan; Xiao Yan beats him with Octane Blast and Ya Fei stops the guards.",
+    "Ya Fei explains that Lei Lei's grandfather is a Mite'er elder and that she cannot find a Soul Power item there.",
+    "Hai Bodong pays for four herbs with a Purple Gold Card, reserved for Dou Wang and above.",
+    "Elder Lei Ou blocks the sale and threatens Ya Fei with dismissal and concubinage.",
+    "Hai Bodong asks whether Mite'er Tengshan is still alive, then overpowers Lei Ou with his Dou Qi.",
+    "Ya Fei deducts 500,000 gold coins, half price for a Dou Huang, and the herbs are delivered.",
+    "Nalan Yanran arrives; Hai Bodong recognises her from Mo Cheng's birthday banquet."
+  ],
+  "introduced": [
+    "Lei Lei",
+    "Lei Ou",
+    "Purple Gold Card",
+    "Acting Supervising Elder",
+    "Mite'er Tengshan (named)",
+    "Senate Meeting (Mite'er family)",
+    "joss stick deadline"
+  ],
+  "cultivation": "Ya Fei says she is a Dou Zhe. Hai Bodong is revealed as a strong Dou Huang.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "hai-bodong",
+      "name": "Hai Bodong",
+      "realm": "Dou Huang",
+      "quote": "A strong Dou Huang?",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "ya-fei",
+      "name": "Ya Fei",
+      "realm": "Dou Zhe",
+      "quote": "I'm a Dou Zhe too.",
+      "first": false,
+      "card": 154.7
+    },
+    {
+      "id": "lei-lei",
+      "name": "Lei Lei",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": null
+    },
+    {
+      "id": "lei-ou",
+      "name": "Lei Ou",
+      "realm": null,
+      "quote": null,
+      "first": true,
+      "card": 811.9
+    },
+    {
+      "id": "nalan-yanran",
+      "name": "Nalan Yanran",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "File 0-165s is the end of EP35 (arrival at the auction house); after the [Episode 36] card at 171 the reunion with Ya Fei is replayed.",
+    "The last line of this episode is at ep37.en.srt 126 (Hai Bodong recognising Nalan Yanran); ep37.en.srt 0-111 replays the end of this episode.",
+    "441.6: 'Don't act recklessly. He's a One-Star Dou Shi.' The speaker and subject are unclear; it most likely warns Xiao Yan about Lei Lei. Not recorded as a realm.",
+    "1001.9: 'Even an advanced Dou Zong can't escape from this' is said as Lei Ou attacks or is hit; it does not fit the scene's Dou Huang reveal and may be a translation slip.",
+    "145: 'Your Majesty. Please whip me.' is an odd line just before Ya Fei appears; meaning unclear."
+  ]
+}

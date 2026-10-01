@@ -1,0 +1,72 @@
+{
+  "ep": 134,
+  "title": "Three Elders of Mulan",
+  "summary": "After a year of seclusion, Xiao Yan learns that the Chu Yun, Luo Yan and Mulan Empires have attacked the Jia Ma Empire, held back only by Medusa and the Snakemen Clan. At the Black Mountain Fortress, the Gold Geese Sect leader Yan Luo Tian and the Three Elders of Mulan gang up on the wounded Medusa. Xiao Yan arrives as a Dou Huang, gives Medusa a pill and takes on the three elders himself. They attack with the Three Beast Savage Skill, which lets one elder at a time wield a Dou Zong's power. Xiao Yan boosts himself with the Luminous Jadeite Change and his Heavenly Flame. He sees the skill's weak point and decoys it with clones from the Three Thousand Lightning Movement. He then takes Elder Hutou out with an Octane Blast and faces the last two elders.",
+  "events": [
+    "The three empires' war on Jia Ma is explained",
+    "Yan Luo Tian and the Three Elders of Mulan corner Medusa",
+    "Xiao Yan arrives with Zi Yan and gives Medusa a pill",
+    "Medusa takes Yan Luo Tian; Xiao Yan takes the three elders",
+    "Xiao Yan uses the Luminous Jadeite Change and finds the skill's weakness",
+    "His Three Thousand Lightning clones draw out their power",
+    "An Octane Blast takes out Elder Hutou"
+  ],
+  "introduced": [
+    "Chu Yun Empire, Luo Yan Empire, Mulan Empire",
+    "Golden Geese Sect (variant spelling)",
+    "Three Beast Savage Skill",
+    "Three Thousand Lightning (clones)"
+  ],
+  "cultivation": "Xiao Yan and Zi Yan advanced during the year of seclusion; Xiao Yan has a Dou Huang aura. Yan Luo Tian is a Two-Star Dou Zong. With the Luminous Jadeite Change Xiao Yan briefly fights at Dou Zong strength.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Huang",
+      "quote": "That's the aura of a Dou Huang.",
+      "first": false
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "first": false
+    },
+    {
+      "id": "zi-yan",
+      "name": "Zi Yan",
+      "first": false
+    },
+    {
+      "id": "yue-mei",
+      "name": "Yue Mei",
+      "first": false
+    },
+    {
+      "id": "yan-luo-tian",
+      "name": "Yan Luo Tian",
+      "realm": "2-star Dou Zong",
+      "quote": "you're only a Two-Star Dou Zong",
+      "first": false
+    },
+    {
+      "id": "elder-hutou",
+      "name": "Elder Hutou",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Elders Shitou and Xiongtou",
+      "first": false
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-53s of ep134.en.srt is the end of EP133. ep135.en.srt opens on its card, so nothing from it is added.",
+    "The recap (58-68s) says Xiao Yan and Zi Yan both 'advanced to Dou Huang'; EP133 calls Zi Yan Rank Six.",
+    "121.8-148.9: the defenders talking to Medusa are not named (read as Yan Alliance elders, perhaps Hai Bodong and Xiao Ding).",
+    "705.2 'He's a Dou Zong too?': onlookers misreading the Luminous Jadeite Change boost.",
+    "922.8 'to deceive Elder Hu': read as Elder Hutou. Whether he is killed or just put out of the fight is not stated ('took him out'; EP135: 'I've crippled the Three Elders of Mulan').",
+    "103.8 'Golden Geese Sect' against 'Gold Geese Sect' in EP133."
+  ]
+}

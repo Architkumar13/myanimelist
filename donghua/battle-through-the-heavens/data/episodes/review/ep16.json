@@ -1,0 +1,96 @@
+{
+  "ep": 16,
+  "title": "The Passage Under the Sand",
+  "summary": "The flame symbol on Hai Bodong's map points east of Rock Desert City, where the Desert Metal Mercenary Company has seen only sand. Qing Lin says that half a year ago a huge aura like her own snake bloodline flared there and left wounded, which suggests Queen Medusa. She can still sense the spot, on the edge of Sand Mercenary Company land. Mo Xing tells his boss Luo Bu, a Da Dou Shi, that Xiao Yan is only a Dou Shi, and Luo Bu sets out to settle the score. Xiao Ding, Xiao Li and Xiao Yan follow Qing Lin's sense, and Xue Lan's scouts find a cave entrance buried in sand, but Mo Xing and the Sand Mercenary Company arrive and Xiao Li fights Mo Xing. When Luo Bu comes, Xiao Yan shows a power that makes Luo Bu think he is a Dou Wang, and Luo Bu promises not to interfere. Xiao Yan and Qing Lin then lead the way down the passage.",
+  "events": [
+    "Xiao Ding and Xiao Li find nothing at the map's flame mark east of Rock Desert City.",
+    "Qing Lin senses a strange aura there from half a year ago, likely Queen Medusa.",
+    "Mo Xing reports to Luo Bu, who decides to deal with the Desert Metal company himself.",
+    "The company travels into Sand Mercenary Company territory; Xue Lan's scouts find a buried cave entrance.",
+    "Mo Xing's men confront them; Xiao Li fights Mo Xing.",
+    "Luo Bu arrives; Xiao Yan's display makes him think Xiao Yan is a Dou Wang, and he backs off.",
+    "Xiao Yan and Qing Lin lead the group into the passage."
+  ],
+  "introduced": [
+    "Luo Bu",
+    "City Lord Residence (Rock Desert City)",
+    "Mercenary Guild",
+    "underground passage east of Rock Desert City"
+  ],
+  "cultivation": "Luo Bu, captain of the Sand Mercenary Company, is a Da Dou Shi. Mo Xing says Xiao Yan is only at the Dou Shi level. Luo Bu takes Xiao Yan for a Dou Wang (807.7).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "xiao-yan",
+      "name": "Xiao Yan",
+      "realm": "Dou Shi",
+      "quote": "His strength is only at the Dou Shi level",
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "yao-lao",
+      "name": "Yao Lao",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "qing-lin",
+      "name": "Qing Lin",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-ding",
+      "name": "Xiao Ding",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xiao-li",
+      "name": "Xiao Li",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "xue-lan",
+      "name": "Xue Lan",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "mo-xing",
+      "name": "Mo Xing",
+      "realm": null,
+      "quote": null,
+      "first": false,
+      "card": null
+    },
+    {
+      "id": "luo-bu",
+      "name": "Luo Bu",
+      "realm": "Da Dou Shi",
+      "quote": "The Captain of the Sand Mercenary Company  is a Da Dou Shi.",
+      "first": true,
+      "card": 733.7
+    }
+  ],
+  "flags": [
+    "807.7-809.7 'Dou... Dou Wang? A Dou Wang who's not even 20': Luo Bu's misreading of Xiao Yan (a Dou Shi), probably caused by his wings or Yao Lao's help; not a real rank.",
+    "782.5 'A despicable military adviser like you' is said during the clash; who says it and to whom (Mo Xing?) is unclear.",
+    "Qing Lin's aura 'must be at least ... the level of Dou Wang' (139.7); Medusa is only guessed (144.7).",
+    "Luo Bu's realm is said at 134.0 and 337.7.",
+    "The file ends at 886 as the group enters the passage; EP17 continues."
+  ],
+  "changes": []
+}
