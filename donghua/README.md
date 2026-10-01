@@ -9,6 +9,7 @@ One website for every donghua here, plus each show's notes and build scripts.
 | [martial-universe/](martial-universe/README.md) | *Martial Universe* (武动乾坤) |
 | [renegade-immortal/](renegade-immortal/README.md) | *Renegade Immortal* (仙逆) |
 | [battle-through-the-heavens/](battle-through-the-heavens/README.md) | *Battle Through the Heavens* (斗破苍穹) |
+| [jade-dynasty/](jade-dynasty/README.md) | *Jade Dynasty* (诛仙) |
 
 ## The website
 

@@ -1,0 +1,60 @@
+{
+  "ep": 68,
+  "title": "The Beast Deity enters the battle; Lin Jingyu breaks with Gui Li",
+  "summary": "Gui Li (Zhang Xiaofan) remembers Wan Jianyi's last warning: he left the Tianji Seal on Qingyun's seven peaks, which makes the Zhu Xian Sword's evil aura far stronger but strikes back at whoever starts the formation. Tongtian Peak is the heart of the Sword Formation, and Wan Jianyi had hoped to defuse the seal there with Taiji arts but fell one step short; he thinks Gui Li, who holds the arts of three schools, might finish it. On the front mountain the righteous sects kill the last Demon Kings and report to Dao Xuan. The leaders agree to wear the Beast Deity down first so that Dao Xuan can end him with one stroke of the sword. The Beast Deity then appears, freezes the disciples in place and fuses five Demon Kings into one. Fen Xiang Valley's Sky-Burning Fire and Tian Yin Temple's Buddhist arts strike back, but his demonic rain suppresses everyone's cultivation and the disciples can no longer fly. Meanwhile Lin Jingyu confronts Gui Li about the old man in the Ancestral Hall. Gui Li admits it, saying the old man blocked his way, and Jingyu cuts all ties between them and draws his sword.",
+  "events": [
+    "Gui Li recalls Wan Jianyi's warning about the Tianji Seal and Tongtian Peak",
+    "The Demon Kings are wiped out; the leaders report to Dao Xuan and plan to weaken the Beast Deity before the sword strikes",
+    "Xiao Yicai comes to take the younger disciples back to the main peak",
+    "The Beast Deity appears, freezes the disciples and fuses five Demon Kings into one",
+    "Lin Jingyu asks Gui Li if he caused the old man's death; Gui Li says yes",
+    "Tian Yin Temple's Buddhist techniques (Weituo's Descending Wrath, the Ten-Direction Calming Circle) hold the line",
+    "The Beast Deity's demonic rain suppresses cultivation and grounds the disciples",
+    "Lin Jingyu declares their old bond broken and challenges Gui Li"
+  ],
+  "introduced": [
+    "Weituo's Descending Wrath (Tian Yin technique)",
+    "Ten-Direction Calming Circle (Tian Yin technique)",
+    "Sky-Burning Fire (Fen Xiang technique)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li (Zhang Xiaofan)"
+    },
+    {
+      "id": "wan-jianyi",
+      "name": "Wan Jianyi",
+      "look": "in Gui Li's memory"
+    },
+    {
+      "id": "lin-jingyu",
+      "name": "Lin Jingyu"
+    },
+    {
+      "id": "dao-xuan",
+      "name": "Dao Xuan"
+    },
+    {
+      "id": "xiao-yicai",
+      "name": "Xiao Yicai"
+    },
+    {
+      "id": "beast-deity",
+      "name": "Beast Deity"
+    }
+  ],
+  "changes": [
+    "No older summary to correct; written from the episode subtitles. EP66-67 have no subtitle files, so continuity is taken from EP65."
+  ],
+  "flags": [
+    "0-90 s: Wan Jianyi's speech about the Tianji Seal plays as a flashback/memory; it continues his EP65 scene.",
+    "371-405 s: Gui Li answers 'Benar' (yes) when asked if the old man in the Ancestral Hall died because of him, and says he blocked his way. EP65 shows Wan Jianyi dying after a fight; the episode does not show the death blow.",
+    "494 s: 'Tianya.' Tianya is Lu Xueqi's sword in the novel, but nothing else in the episode shows her; speaker and meaning unclear.",
+    "Tian Yin speakers (139 s 'Amitabha', 522-857 s) are not named; probably Pu Hong. The Sky-Burning Fire user (299 s) is not named; probably Yun Yilan.",
+    "264 s: 'Menyatukan lima Raja Siluman menjadi satu' read as the Beast Deity fusing five Demon Kings.",
+    "935-936 s: on-screen promo text for Season 3 airing dates; ignored."
+  ]
+}

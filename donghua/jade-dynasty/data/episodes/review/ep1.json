@@ -1,0 +1,46 @@
+{
+  "ep": 1,
+  "title": "The old monk and the bead",
+  "summary": "In Grass Temple Village, Zhang Xiaofan challenges his friend Lin Jingyu for the 98th time, loses again and refuses to give up until he collapses. A wandering monk, Pu Zhi of Tian Yin Temple, saves him and says he has a good foundation. That night Pu Zhi fights a poison cultivator with a Seven-tail Centipede who wants an evil object Pu Zhi carries, and then a masked attacker who uses the Qingyun Sect's Mighty Sword of Thunder. Badly hurt, Pu Zhi takes a Three-day Death Pill and decides to send the two boys to learn at Qingyun. He secretly teaches Xiaofan a breathing method, the Great Brahma Prajna, on strict conditions: tell no one, practise only at night, and use it only to save his life. He gives Xiaofan a bead to throw off a cliff one day, tells him to seek the Ghost Doctor if his life is in danger, and has the boy call him master. Next morning Xiaofan and Lin Jingyu wake under a tree at the village entrance and find the village strange and Mr. Wang raving about ghosts.",
+  "events": [
+    "Zhang Xiaofan loses to Lin Jingyu for the 98th time and won't admit defeat",
+    "Pu Zhi of Tian Yin Temple saves Xiaofan after he collapses",
+    "Pu Zhi fights a poison cultivator who wants the evil object he carries",
+    "A masked attacker uses the Qingyun Mighty Sword of Thunder against Pu Zhi",
+    "Pu Zhi takes a Three-day Death Pill and plans to send the boys to Qingyun",
+    "Pu Zhi teaches Xiaofan the Great Brahma Prajna in secret and gives him a bead",
+    "The boys wake under a tree at the village entrance; Mr. Wang raves about ghosts"
+  ],
+  "introduced": [
+    "Zhang Xiaofan",
+    "Lin Jingyu",
+    "Pu Zhi (Tian Yin Temple monk)",
+    "Grass Temple Village",
+    "Tian Yin Temple",
+    "Qingyun Sect",
+    "Great Brahma Prajna",
+    "Mighty Sword of Thunder",
+    "Seven-tail Centipede",
+    "Three-day Death Pill",
+    "Ghost Doctor (named only)",
+    "the bead Pu Zhi gives Xiaofan"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan", "first": true, "t": 4.6},
+    {"id": "lin-jingyu", "name": "Lin Jingyu", "first": true, "t": 4.6},
+    {"id": "pu-zhi", "name": "Pu Zhi", "quote": "I came specially for you, Monk Puzhi.", "first": true, "t": 126.0},
+    {"id": null, "name": "poison cultivator (Seven-tail Centipede)", "look": "uses the Poisonous Blood Pataka; not named", "first": true, "t": 247.6},
+    {"id": null, "name": "masked attacker using Qingyun swordcraft", "look": "hides his identity; casts the Mighty Sword of Thunder", "first": true, "t": 383.2},
+    {"id": null, "name": "Mr. Wang", "look": "a villager; raving about ghosts at the end", "first": true, "t": 41.9}
+  ],
+  "changes": [],
+  "flags": [
+    "No name cards or on-screen captions in this episode.",
+    "211-296 s: Pu Zhi first confronts someone 'harming a child' who uses the Poisonous Blood Pataka and a Seven-tail Centipede and wants 'the thing' / 'this evil thing' (the bead, by the novel the Sinister Bead). Not named in the episode, so it's called 'the evil object' and 'a bead' here.",
+    "365-402 s: a second, masked fighter appears to cast the Mighty Sword of Thunder ('You're from the Qingyun Sect?'). The subs do not make clear whether this is the same man as the poisoner; written as a separate masked attacker. Not identified on screen (by the novel it is Cang Song); not named in the summary.",
+    "548-700 s: the 'practice approach' is not named in this episode; the 'Brahman Prajna' named at 431.8 is Pu Zhi's fighting move and in EP4 Xiaofan calls his secret method Brahman Prajna, so it is written as the Great Brahma Prajna.",
+    "The massacre itself is not shown in this episode's subs; it ends with Mr. Wang raving about ghosts. EP2 confirms the village was wiped out."
+  ]
+}

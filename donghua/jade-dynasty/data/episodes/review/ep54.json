@@ -1,0 +1,104 @@
+{
+  "ep": 54,
+  "title": "The rite at Huqi Mountain",
+  "summary": "Gui Li returns to the Ghost King Sect as its vice sect master, bringing the weakened Great Shaman, who promises to do his best and leave the rest to fate. Xiao Bai meets the Ghost King, who recognises the white fox. Looking at a painting, she tells him she once saved Bi Yao's mother, Xiao Chi, never saw her again before she died, and is glad to help their daughter now. Elsewhere the Beast Deity speaks to the stone statue of Ling Long, saying he cares nothing for the fate of the world and would die if she only asked. At Fen Xiang Valley, Yun Yilan comes out of seclusion, warns that chaos is coming, and leads elite disciples to the Central Plains to meet Qingyun and Tian Yin. In private Shangguan Ce tells him the Beast Deity has broken his seal, which bears on a plan of theirs centuries in the making. The Great Shaman finds that Bi Yao's last consciousness lives in the Hehuan Bell, which guards her. He keeps only Gui Li and the Ghost King with him and begins a formation to draw it out. As the rite peaks, Bi Yao's name is called and Gui Li and the Ghost King cry out 'No'.",
+  "events": [
+    "Gui Li brings the Great Shaman to the Ghost King Sect",
+    "Xiao Bai meets the Ghost King and talks of Bi Yao's mother, Xiao Chi",
+    "The Beast Deity speaks to Ling Long's statue",
+    "Yun Yilan leaves seclusion and leads Fen Xiang disciples to the Central Plains",
+    "Shangguan Ce tells Yun Yilan the Beast Deity has broken his seal",
+    "The Great Shaman finds Bi Yao's consciousness in the Hehuan Bell and starts the soul-return rite",
+    "The rite reaches its climax; Gui Li and the Ghost King cry out"
+  ],
+  "introduced": [
+    "Xiao Chi (Bi Yao's late mother)",
+    "Yun Yilan (master of Fen Xiang Valley)",
+    "Lu Shun"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "great-shaman",
+      "name": "Great Shaman"
+    },
+    {
+      "id": null,
+      "name": "Yan Hui",
+      "card": 175.1,
+      "quote": "(Yan Hui) Akhirnya kau kembali.",
+      "first": true,
+      "look": "Ghost King Sect member who greets Gui Li; name unconfirmed"
+    },
+    {
+      "id": "xiao-bai",
+      "name": "Xiao Bai"
+    },
+    {
+      "id": "ghost-king",
+      "name": "Ghost King"
+    },
+    {
+      "id": "bi-yao",
+      "name": "Bi Yao"
+    },
+    {
+      "id": "beast-deity",
+      "name": "Beast Deity",
+      "card": 373.9,
+      "quote": "(Dewa Binatang)"
+    },
+    {
+      "id": "ling-long",
+      "name": "Ling Long"
+    },
+    {
+      "id": "shangguan-ce",
+      "name": "Shangguan Ce",
+      "card": 688.3,
+      "quote": "(Strategi Shangguan)"
+    },
+    {
+      "id": "li-xun",
+      "name": "Li Xun",
+      "card": 691.4,
+      "quote": "(Li Yan, Lu Shun, Yan Hong)"
+    },
+    {
+      "id": "lu-shun",
+      "name": "Lu Shun",
+      "card": 691.4,
+      "quote": "(Li Yan, Lu Shun, Yan Hong)"
+    },
+    {
+      "id": "yan-hong",
+      "name": "Yan Hong",
+      "card": 691.4,
+      "quote": "(Li Yan, Lu Shun, Yan Hong)"
+    },
+    {
+      "id": "yun-yilan",
+      "name": "Yun Yilan",
+      "card": 727.6,
+      "quote": "(Yun Yi Lan)",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Gui Li is called 'Wakil Ketua Sekte' (vice sect master) of the Ghost King Sect. No time jump: this follows straight on from EP53, and it is still '10 years' since Bi Yao fell (232 s)."
+  ],
+  "flags": [
+    "Same rough fansub as EP53; names are machine-garbled. 'Baguio' = Bi Yao, 'Lonceng Albizia' = Hehuan Bell (合欢 = albizia), '(Strategi Shangguan)' = Shangguan Ce (策 = strategy), 'Li Yan' = Li Xun.",
+    "175.1 s: '(Yan Hui)' is a name caption for the Ghost King Sect member who greets Gui Li; possibly a slip for You Ji or someone else. Kept as given.",
+    "248-296 s: 'nona gila kecil' / 'penggila kecil' / 'kutu kecil' all read as Xiao Chi (小痴, 'little fool'), Bi Yao's mother, whom Xiao Bai once saved.",
+    "556-630 s and 960-1035 s: incantations, garbled and left out of the summary.",
+    "666-674 s: 'I'll make everyone be buried with you, then I'll find you again' is probably the Beast Deity to Ling Long.",
+    "755-768 s: Shangguan Ce's line about 'our plan of hundreds of years' is cut off and garbled; it suggests Fen Xiang's leaders have a hidden stake in the Beast Deity's release.",
+    "945-947 s: '[This formation] [power fading]' suggests the rite falters; 1056-1099 s ('Bi Yao... No... Yao'er') doesn't make clear whether the rite fails. The ending is left open."
+  ]
+}

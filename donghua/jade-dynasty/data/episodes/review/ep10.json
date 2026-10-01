@@ -1,0 +1,56 @@
+{
+  "ep": 10,
+  "title": "Kongsang Mountain and the Blood-Refining Hall",
+  "summary": "In Heyang, Bi Yao tells You Ji that the Qingyun group is led by Qi Hao and that one of them is Zhang Xiaofan, and she grieves over her mother, who named her weapon Sad Flower. You Ji reminds her that their own trip to Kongsang Mountain matters. After ten days of flying, Qi Hao, Zeng Shushu, Lu Xueqi and Zhang Xiaofan are attacked by Blood Bats outside the Ten Thousand Bats Cave. Fa Xiang of Tian Yin Temple drives the bats off with his Liuhe Mirror, and he, Fa Shan, Li Xun and Yan Hong of Fen Xiang Valley join them inside. In the cave the Blood-Refining Hall survivors Ye Gou Daoren, Nian Laoda and the Ten Thousand Poisons Sect's Jiang Laosan ambush them. Jiang Laosan grabs Zhang Xiaofan and ends up drained dry by his stick, which Nian Laoda takes for a blood-sucking skill; Xiaofan does not know what happened. The group chases the demons to the Abyss of the Dead, where Xiao Zhou, Lin Feng and the rest of the Hall wait, and the episode ends with Lu Xueqi caught by a binding spell.",
+  "events": [
+    "Bi Yao and You Ji talk about the Qingyun group, her mother and the Sad Flower",
+    "Blood Bats attack the Qingyun group at the Ten Thousand Bats Cave on Kongsang Mountain",
+    "Fa Xiang's Liuhe Mirror drives off the bats; Tian Yin Temple and Fen Xiang Valley join Qingyun",
+    "Ye Gou Daoren, Jiang Laosan and Nian Laoda ambush them in the cave",
+    "Jiang Laosan dies after Zhang Xiaofan's stick drains his blood; the demons flee",
+    "The chase ends at the Abyss of the Dead, the Blood-Refining Hall's forbidden ground",
+    "Xiao Zhou, Lin Feng and the Hall fight the young disciples; Lu Xueqi is bound"
+  ],
+  "introduced": [
+    "You Ji (called Aunt You by Bi Yao)",
+    "Sad Flower (Bi Yao's weapon, named by her mother)",
+    "Huqi Mountain",
+    "Kongsang Mountain and the Ten Thousand Bats Cave (Wanfu Ancient Cave)",
+    "Blood Bats",
+    "Fa Xiang and Fa Shan (Tian Yin Temple)",
+    "Li Xun and Yan Hong (Fen Xiang Valley)",
+    "Liuhe Mirror (Fa Xiang's treasure)",
+    "Ye Gou Daoren, Nian Laoda, Xiao Zhou, Lin Feng (Blood-Refining Hall)",
+    "Jiang Laosan (Ten Thousand Poisons Sect)",
+    "Abyss of the Dead (Siling Abyss)",
+    "Shanhe Fan"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "bi-yao", "name": "Bi Yao"},
+    {"id": "you-ji", "name": "You Ji", "quote": "Aunt You, you're back.", "first": true},
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "qi-hao", "name": "Qi Hao", "quote": "The leader is Longshou Peak's Qi Hao."},
+    {"id": "zeng-shushu", "name": "Zeng Shushu"},
+    {"id": "fa-xiang", "name": "Fa Xiang", "quote": "I'm Fa Xiang from Tianyin Temple.", "first": true},
+    {"id": "fa-shan", "name": "Fa Shan", "quote": "I'm Fa Shan.", "first": true},
+    {"id": "li-xun", "name": "Li Xun", "quote": "I'm Li Xun from Fenxiang Valley.", "first": true},
+    {"id": "yan-hong", "name": "Yan Hong", "quote": "I'm Yan Hong.", "first": true},
+    {"id": "ye-gou-daoren", "name": "Ye Gou Daoren", "quote": "(Lianxue Sect, Reverend Yegou)", "first": true, "card": 387.9},
+    {"id": "jiang-laosan", "name": "Jiang Laosan", "quote": "(Wandu Sect, Jiang Laosan)", "first": true, "card": 406.3},
+    {"id": "nian-laoda", "name": "Nian Laoda", "quote": "(Lianxue Sect, Nian Laoda)", "first": true, "card": 430.6},
+    {"id": "xiao-zhou", "name": "Xiao Zhou", "quote": "(Lianxue Sect, Xiao Zhou, Lin Feng)", "first": true, "card": 691.6},
+    {"id": "lin-feng", "name": "Lin Feng", "quote": "(Lianxue Sect, Xiao Zhou, Lin Feng) ... (Lianxue Sect, Lady Meimao)", "first": true, "card": 691.6}
+  ],
+  "changes": [],
+  "flags": [
+    "Firsts were checked by searching the EP1-9 subtitle files for each name; none of the carded characters is named before EP10.",
+    "691.6 s card '(Lianxue Sect, Xiao Zhou, Lin Feng)' and 700.0 s card '(Lianxue Sect, Lady Meimao)': unclear whether 'Lady Meimao' (beautiful lady) is Lin Feng's title or a third person. The EP27 card calls Lin Feng 'Wanita Cantik' (beautiful woman), so it is probably Lin Feng.",
+    "548-553 s: Nian Laoda reads Jiang Laosan's death as the 'Blood-Sucking Skill' of a 'Master Xixue'; the stick drained him while Xiaofan was held. Xiaofan does not remember it (584 s).",
+    "493 s: Xiaofan says 'Ling'er.' in the middle of the fight; Tian Ling'er is not there. Probably him thinking of her.",
+    "Name readings in the English track: Lianxue Sect = Blood-Refining Hall, Wandu Sect = Ten Thousand Poisons Sect, Wanfu Ancient Cave = Ten Thousand Bats Cave, Siling Abyss = Abyss of the Dead, Reverend Yegou = Ye Gou Daoren, Aunt You = You Ji, Duel of the Seven Ranges = Seven Meridians Tournament.",
+    "723 s 'Shanhe Fan' and 724 s 'Wild Sand!' are weapon/skill calls; owner not clear (a Blood-Refining Hall member)."
+  ]
+}

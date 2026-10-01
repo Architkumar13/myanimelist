@@ -1,0 +1,347 @@
+// Hand-curated guide data for Jade Dynasty (from ../../jade-dynasty/*.md notes and the 86 episode reviews).
+// `ep` = the donghua episode where a thing is first shown or reached; NOVEL means not on screen yet.
+// Wiki page titles in `wiki` link to the fan-wiki data. Names follow the English subtitle track where it has one.
+(function () {
+const NOVEL = 9999;
+
+window.WORLD = {
+  NOVEL,
+
+  // Qingyun's Taiji Xuanqing Dao is the only ladder the donghua names stage by stage. Other schools run their own
+  // methods beside it (see `paths`).
+  realms: [
+    {
+      id: "yuqing", name: "Yuqing", subs: "Yuqing", zh: "玉清", where: "Qingyun's method, stage 1 of 3",
+      lifespan: "Not stated", heroEp: 3,
+      gist: "Where every Qingyun disciple starts. Nine levels, each a new section of the method. Most disciples spend years here, and the Seven Meridians Tournament is fought between people at its middle levels.",
+      stages: [
+        { name: "Levels 1–3", zh: "玉清一至三层", ep: 3, text: "Gathering qi and making it circulate. Zhang Xiaofan takes years to break the first level, then practises the third from a copy Tian Ling'er gives him (EP5)." },
+        { name: "Levels 4–6", zh: "玉清四至六层", ep: 3, text: "Enough to drive a magic treasure with qi and fly. Lin Jingyu reaches the sixth level in five years (EP3); Tian Ling'er is also at the sixth (EP4). Xiaofan is at the fourth at the tournament, when Tian Buyi expected the second (EP7–8)." },
+        { name: "Levels 7–9", zh: "玉清七至九层", ep: NOVEL, text: "The top of Yuqing. No one is said to be here on screen." },
+      ],
+    },
+    {
+      id: "shangqing", name: "Shangqing", subs: "not in the English track yet", zh: "上清", where: "Qingyun's method, stage 2 of 3",
+      lifespan: "Not stated", heroEp: NOVEL,
+      gist: "The stage of Qingyun's elders and its best young disciples. Lin Jingyu is here after ten years of training with a hidden elder, which Gui Li calls remarkable (EP34).",
+      stages: [
+        { name: "Shangqing", zh: "上清境", ep: 34, text: "Gui Li: “In only ten years you have reached Shangqing.” He says it to Lin Jingyu during their fight at the Heavenly King's Treasure Vault." },
+      ],
+    },
+    {
+      id: "taiqing", name: "Taiqing", subs: "Taiqing", zh: "太清", where: "Qingyun's method, stage 3 of 3",
+      lifespan: "Not stated", heroEp: NOVEL,
+      gist: "The top of Qingyun's method, and what it takes to wield the Zhu Xian Sword safely. When Dao Xuan raises the Zhu Xian Sword Formation, the demon leaders ask each other whether he has reached it (EP25).",
+      stages: [
+        { name: "Taiqing", zh: "太清境", ep: 25, text: "The sword drives a weaker user mad. Even so, the demons judge the formation Dao Xuan raises in EP25 to be “not even 30%” of its power." },
+      ],
+    },
+  ],
+
+  beyond: [
+    { name: "The Zhu Xian Sword's wielder", zh: "诛仙剑主", text: "Only Qingyun's leader may draw the ancient sword. Dao Xuan uses it twice: in EP25–26 against the Demon Sect (and on Zhang Xiaofan), and in EP69–71 against the Beast Deity, after breaking the Tianji Seal. Both times it eats into him." },
+    { name: "Three teachings in one body", zh: "三教合一", text: "Zhang Xiaofan carries the Buddhist Great Brahma Prajna, the Taoist Taiji Xuanqing Dao and the demonic arts of the Heavenly Book. They fight each other inside him until EP71, when he fuses them. Wan Jianyi is amazed that one so young holds all three (EP65)." },
+    { name: "A heavenly tribulation", zh: "天劫", text: "In EP76 his fused cultivation calls down lightning from heaven. The strikes burn away all of it and leave him a mortal body (EP77), and he survives the third strike by refusing to give up the people in his heart (EP78)." },
+    { name: "The Beast Deity", zh: "兽神", wiki: "Beast Deity", text: "Made by Ling Long from the killing aura of heaven and earth (EP80). He overpowers Dao Xuan's sword formation until the Tianji Seal opens (EP69–70). No one on screen is stronger. He dies in Ling Long's own formation in EP84." },
+  ],
+
+  // Ladder shown under the realms, as cards: every school's own road.
+  paths: [
+    { name: "Taiji Xuanqing Dao", zh: "太极玄清道", eq: "Qingyun Sect, Taoist", text: "Yuqing, Shangqing, Taiqing. The method Zhang Xiaofan learns on Great Bamboo Peak (EP2–8)." },
+    { name: "Great Brahma Prajna", zh: "大梵般若", eq: "Tian Yin Temple, Buddhist", text: "Its founder understood it under the Wordless Jade Wall (EP75). Pu Zhi teaches it to Xiaofan the night before the massacre (EP1); using it in public on Liubo Mountain gives him away (EP21)." },
+    { name: "Burning Incense Jade Tome", zh: "焚香玉册", eq: "Fen Xiang Valley", text: "A fire method. Yun Yilan claims its Yuyang realm (EP80) and finds a forbidden blood sacrifice in it (EP79)." },
+    { name: "The Heavenly Book", zh: "天书", eq: "Demon Sect", text: "Its lines contain both Buddhist and Taoist teachings (EP13). The Ghost King teaches Gui Li two volumes; he masters the basics in ten years where thirty were expected (EP27, EP33)." },
+    { name: "Ghost Path", zh: "鬼道", eq: "Mr. Ghost", text: "Arts of souls and the dead. Xiao Huan taught herself one from a well wall and used it to gather Jin Ping'er's soul; Mr. Ghost takes her as his disciple in EP81." },
+    { name: "Years of training", zh: "道行", eq: "Demons and spirit beasts", text: "Foxes and beasts are measured in years: a Three-Tailed Fox has 300, a Six-Tailed Fox lost nearly 1,000 (EP16), and the Nine-Tailed Heavenly Fox Xiao Bai was locked up for 300 (EP43)." },
+  ],
+
+  tiers: [
+    { n: 7, name: "Ancient beings", zh: "上古", top: "The Beast Deity, and spirit beasts that appear once in thousands of years", examples: ["The Beast Deity's horde"], ep: 53 },
+    { n: 6, name: "Qingyun Sect", zh: "青云门", top: "Dao Xuan with the Zhu Xian Sword; Wan Jianyi in hiding", examples: ["Qingyun Sect"], ep: 2 },
+    { n: 5, name: "The other righteous sects", zh: "正道", top: "Abbot Pu Hong; Valley Master Yun Yilan", examples: ["Tian Yin Temple", "Fen Xiang Valley"], ep: 10 },
+    { n: 4, name: "The Ghost King Sect", zh: "鬼王宗", top: "The Ghost King and his four Saint Beast envoys", examples: ["Ghost King Sect"], ep: 11 },
+    { n: 3, name: "The other demon sects", zh: "魔教", top: "Sect masters such as the Poison God, San Miao and Yu Yangzi", examples: ["He Huan Sect", "Ten Thousand Poisons Sect", "Longevity Hall"], ep: 21 },
+    { n: 2, name: "Small sects and halls", zh: "小派", top: "Masters known in one region", examples: ["Blood-Refining Hall", "Jingang Sect", "Heavenly Fox clan"], ep: 10 },
+    { n: 1, name: "Villages and tribes", zh: "部族", top: "Chiefs, shamans and sorcerers", examples: ["Golden Clan", "Wood Clan", "Fish-Man Clan"], ep: 28 },
+  ],
+
+  regions: [
+    { id: "central", name: "Central Plains", zh: "中原", ep: 1, blurb: "The heart of the Divine Land: Grass Temple Village, Heyang City (the biggest city of the Central Plains), and Changhe near the East Sea." },
+    { id: "qingyun", name: "Qingyun Mountain", zh: "青云山", ep: 2, wiki: "Qingyun Sect", blurb: "Seven peaks, one sect. Tongtian Peak at the centre, the Ancestral Hall and Huanyue Cave in the forbidden back mountain." },
+    { id: "kongsang", name: "Kongsang Mountain", zh: "空桑山", ep: 10, blurb: "Ten days' flight from Qingyun. The Ten Thousand Bats Cave and the Abyss of the Dead, and Small Pond Town and its Black Stone Cave nearby." },
+    { id: "eastsea", name: "East Sea and Liubo Mountain", zh: "东海 · 流波山", ep: 17, blurb: "Liubo Mountain rises out of the sea. The Kui Ox is born there once every 3,000 years." },
+    { id: "huqi", name: "Huqi Mountain", zh: "狐岐山", ep: 27, blurb: "Once the Heavenly Fox clan's home, now the Ghost King Sect's base, where Bi Yao lies in the ice room." },
+    { id: "deadswamp", name: "The Dead Swamp", zh: "死泽", ep: 28, blurb: "A poison swamp in the west with Dawang Village on its edge and the Heavenly King's Treasure Vault at its heart." },
+    { id: "fenxiang", name: "Fen Xiang Valley", zh: "焚香谷", ep: 38, wiki: "Fen Xiang Valley", blurb: "Guards the road from the Central Plains to the Southern Border. Above an active volcano, it hides the Mystic Fire Altar." },
+    { id: "south", name: "The Southern Border", zh: "南疆", ep: 46, blurb: "The Hundred Thousand Mountains: Tianshui Village, the Golden Clan's Qili Village, the Wood Clan, the fish-men, and the cave where Ling Long sealed the Beast Deity." },
+    { id: "tianyin", name: "Mount Sumeru", zh: "须弥山", ep: 73, wiki: "Tian Yin Temple", blurb: "Tian Yin Temple and the Wordless Jade Wall, up the stone steps Pu Zhi cut so ordinary people could climb." },
+    { id: "barbaric", name: "The Barbaric Land", zh: "蛮荒", ep: NOVEL, blurb: "A desert in the north-west, said to hide the great temple where the Demon Sect was born." },
+    { id: "arctic", name: "Arctic Ice Plain", zh: "极北冰原", ep: NOVEL, blurb: "Ice and snow in the far north, almost never visited." },
+  ],
+
+  factions: [
+    { name: "Qingyun Sect", zh: "青云门", region: "qingyun", tier: 6, ep: 2, wiki: "Qingyun Sect",
+      top: "Sect leader Dao Xuan (Zhu Xian Sword); the seven peak masters; Wan Jianyi, hidden in the back mountain",
+      signature: "The Zhu Xian Sword and its formation; the Water Qilin; the Seven Meridians Tournament every 60 years",
+      with: "His sect from childhood (EP2). Dao Xuan brings the Zhu Xian Sword down on him (EP26) and he leaves as Gui Li. He returns to fight the Beast Deity beside it (EP70). Since the war Dao Xuan has turned suspicious and violent (EP75, EP81, EP85), and by EP86 both Dao Xuan and Tian Buyi are missing." },
+    { name: "Great Bamboo Peak", zh: "大竹峰", region: "qingyun", tier: 6, ep: 2,
+      top: "Tian Buyi and his wife Su Ru; seven disciples led by Song Daren",
+      signature: "The smallest peak; new disciples cut the hard black bamboo every day",
+      with: "Home. Tian Buyi swears on his life that Xiaofan is no spy (EP22). Su Ru sews him new clothes every year for ten years (EP75). Xiao Hui comes back to the kitchen in EP79. Su Ru storms Tongtian Peak when Tian Buyi disappears (EP86)." },
+    { name: "Small Bamboo Peak", zh: "小竹峰", region: "qingyun", tier: 6, ep: 6,
+      top: "Shui Yue; her disciples Lu Xueqi and Wen Min",
+      signature: "A peak of women swordfighters; the sword Tianya",
+      with: "Lu Xueqi's peak. She refuses Li Xun's proposal (EP56) and Shui Yue disowns her over Gui Li (EP62), then sends her south to hunt the Beast Deity (EP78–79)." },
+    { name: "Dragon Head Peak", zh: "龙首峰", region: "qingyun", tier: 6, ep: 2,
+      top: "Cang Song until his betrayal; Lin Jingyu and Qi Hao",
+      signature: "The Dragon-Slaying Sword",
+      with: "Lin Jingyu's peak. Its master Cang Song demands Xiaofan's head (EP9, EP21), then betrays Qingyun to the Demon Sect (EP24)." },
+    { name: "Tian Yin Temple", zh: "天音寺", region: "tianyin", tier: 5, ep: 1, wiki: "Tian Yin Temple",
+      top: "Abbot Pu Hong; his juniors Pu Zhi and Pu Kong; the young monks Fa Xiang and Fa Shan",
+      signature: "The Great Brahma Prajna; the Wordless Jade Wall",
+      with: "Pu Zhi taught him and then massacred his village (revealed EP25). Its monks carry him off the battlefield and heal him (EP72–73), and he survives the Wordless Jade Wall and the heavenly tribulation in its halls (EP75–78)." },
+    { name: "Fen Xiang Valley", zh: "焚香谷", region: "fenxiang", tier: 5, ep: 10, wiki: "Fen Xiang Valley",
+      top: "Valley Master Yun Yilan; Shangguan Ce, guardian of the Mystic Fire Altar; Li Xun and Yan Hong",
+      signature: "Fire arts; the Mystic Fire Altar and the Eight Fiends Formation",
+      with: "Wants the Mystic Fire Mirror he holds (EP15–16). He frees Xiao Bai from its altar (EP44), and Li Xun strikes him from behind at Qili (EP52). Yun Yilan and Shangguan Ce have a secret pact with the Beast Deity (EP51, EP72). Gui Li breaks up Yun Yilan's blood sacrifice (EP80)." },
+    { name: "Ghost King Sect", zh: "鬼王宗", region: "huqi", tier: 4, ep: 11, wiki: "Ghost King sect",
+      top: "The Ghost King (Wan Renwang); Saint Beast envoys Qing Long, Bai Hu, Zhu Que (You Ji) and Xuan Wu; Mr. Ghost",
+      signature: "The Hehuan Bell (Bi Yao's); the Fulong Cauldron and the Four Spirits Blood Formation",
+      with: "Bi Yao's family. Gui Li is its vice sect master for ten years (EP27). The Ghost King sacrifices his men at Snake Poison Valley (EP60). Gui Li breaks with him and kills Bai Hu (EP85)." },
+    { name: "He Huan Sect", subs: "Hehuan", zh: "合欢派", region: "central", tier: 3, ep: 13, wiki: "HeHuan Sect",
+      top: "San Miao; Jin Ping'er",
+      signature: "Founded by Madam Jinling, maker of the Hehuan Bell; the Purple Light Blade",
+      with: "Jin Ping'er works with Gui Li in the Dead Swamp and Fen Xiang (EP34–45). She is the Ghost King's agent, and kills San Miao when the sect is destroyed at Snake Poison Valley (EP60)." },
+    { name: "Ten Thousand Poisons Sect", subs: "Wandu Sect", zh: "万毒门", region: "central", tier: 3, ep: 10, wiki: "Ten Thousand Poisons Sect",
+      top: "The Poison God; Qin Wuyan after him; Baiduzi, Elder Duanmu, Master Xixue",
+      signature: "Poisons and poison beasts; the Seven-Tailed Centipede",
+      with: "Its Jiang Laosan is drained by his stick (EP10). Gui Li's gift of Chu Wu's body kills Qin Wuyan (EP59) and the sect falls at Snake Poison Valley (EP60). Cang Song now serves it (EP57)." },
+    { name: "Longevity Hall", subs: "Changsheng Sect", zh: "长生堂", region: "deadswamp", tier: 3, ep: 21, wiki: "Longevity Hall",
+      top: "Yu Yangzi; Zhou Yin",
+      signature: "The Yin-Yang Mirror",
+      with: "Zhou Yin ambushes Dao Xuan in the Qingyun war (EP24). Gui Li hunts the hall in the Dead Swamp, and Yu Yangzi dies before him (EP30)." },
+    { name: "Blood-Refining Hall", subs: "Lianxue Sect", zh: "炼血堂", region: "kongsang", tier: 2, ep: 10, wiki: "Blood-Refining Guild",
+      top: "Its founder the Black-Hearted Old Man, 800 years ago; now Nian Laoda, Ye Gou Daoren, Lin Feng",
+      signature: "The Sinister Bead was its founder's treasure",
+      with: "Fights his group at Kongsang Mountain (EP10–11) and attacks him at sea (EP17). As Gui Li he wipes it out and keeps Ye Gou Daoren at his side (EP27)." },
+    { name: "Jingang Sect", zh: "金刚门", region: "central", tier: 2, ep: 14,
+      top: "Master Dali; his heir Shi Tou",
+      signature: "The Aura Breaker; related to Tian Yin Temple",
+      with: "Shi Tou hunts the foxes of Small Pond Town with him (EP14–17)." },
+    { name: "Heavenly Fox clan", zh: "天狐", region: "south", tier: 2, ep: 15,
+      top: "Xiao Bai, the Nine-Tailed Heavenly Fox; her son Xiao Liu, the Six-Tailed Fox",
+      signature: "Illusions; years of training shown in tails",
+      with: "Xiao Liu dies in his arms and leaves him the Mystic Fire Mirror (EP16). He frees Xiao Bai (EP44) and she travels with him (EP45 on)." },
+    { name: "Golden Clan", subs: "Jin tribe", zh: "金族", region: "south", tier: 1, ep: 49,
+      top: "The Great Shaman; chief Tu Ma Gu",
+      signature: "The Dog God; soul-return arts",
+      with: "Its Great Shaman tries to restore Bi Yao and dies after the rite fails (EP54–55). Gui Li kills in a rage during the Wood Clan's raid on Qili (EP50–51). The new Great Shaman tells him how the Beast Deity was sealed (EP79)." },
+    { name: "Wood Clan", subs: "Mu tribe", zh: "木族", region: "south", tier: 1, ep: 48,
+      top: "Its chief; the sorcerer Ahetai",
+      signature: "The Bear God",
+      with: "Raids Qili Village for the Jade Bone, one of the five holy weapons (EP50)." },
+    { name: "Fish-Man Clan", zh: "鱼人族", region: "south", tier: 1, ep: 28,
+      top: "Its chief, killed after a secret meeting with Fen Xiang",
+      signature: "One of the 63 tribes of the Shiwan Mountains",
+      with: "Kills his men at the Dead Swamp (EP37) and turns out to be working with Fen Xiang Valley (EP38)." },
+    { name: "The Beast Deity's horde", zh: "兽神", region: "south", tier: 7, ep: 53, wiki: "Beast Deity",
+      top: "The Beast Deity; Demon Kings such as Fei, Fei Yi, Zhu Yan and the White Bone Snake Demon King",
+      signature: "The beast tide; the five holy weapons",
+      with: "Its tide crosses Luoshen Gate and reaches Qingyun (EP57–70). Gui Li shares meat and wine with the Beast Deity before he knows who he is (EP56, EP63), and fights him in the Ancient Demon-Suppressing Cave, where he dies (EP83–84)." },
+  ],
+
+  journey: [
+    { stage: "Grass Temple Village", realm: "yuqing", eps: [1, 2], items: [
+      { name: "Great Brahma Prajna", zh: "大梵般若", ep: 1, text: "Pu Zhi teaches it to him in secret: tell no one, practise only at night. It is Buddhist, and it clashes with what Qingyun teaches him for years." },
+      { name: "The bead", zh: "噬血珠", ep: 1, wiki: "Sinister Bead", text: "Pu Zhi gives him a bead to throw off a cliff one day. It is the Sinister Bead, the Blood-Refining Hall founder's evil treasure." },
+      { name: "A place on Great Bamboo Peak", zh: "大竹峰", ep: 2, text: "Tian Buyi takes him as his seventh disciple. The peak becomes his family." },
+    ] },
+    { stage: "Great Bamboo Peak and the tournament", realm: "yuqing", eps: [3, 9], items: [
+      { name: "The black stick", zh: "烧火棍", ep: 3, text: "Found while chasing a monkey; it drinks his blood and leaves him nearly dead. Joined with the bead, it becomes the Fire Stick that wins his first match (EP7)." },
+      { name: "Xiao Hui", zh: "小灰", ep: 4, wiki: "Xiao Hui", text: "The thieving three-eyed monkey he shields from Dahuang and keeps." },
+      { name: "Taiji Xuanqing, level 4", zh: "玉清四层", ep: 7, text: "Two levels more than his master thinks. Enough to reach the top four of the Seven Meridians Tournament (EP9)." },
+    ] },
+    { stage: "Kongsang Mountain and the foxes", realm: "yuqing", eps: [10, 17], items: [
+      { name: "The Heavenly Book carvings", zh: "天书", ep: 13, wiki: "Heavenly Books", text: "In the Dixue Cave, with Bi Yao, he finds the Demon Sect's classic carved on the walls, and lines of both his own methods in it." },
+      { name: "Bi Yao", zh: "碧瑶", ep: 12, wiki: "Bi Yao", text: "Trapped with her below the Abyss of the Dead. She saves his life and he hers." },
+      { name: "Mystic Fire Mirror", zh: "玄火鉴", ep: 16, wiki: "Mystic Fire Mirror", text: "The dying Six-Tailed Fox gives it to him and tells him to hide it. Years later Xiao Bai says it is what has kept the stick from driving him mad (EP44)." },
+    ] },
+    { stage: "Liubo Mountain and the war on Qingyun", realm: "yuqing", eps: [18, 26], items: [
+      { name: "Exposed", zh: "暴露", ep: 21, text: "He uses the Great Brahma Prajna in front of everyone, and the Sinister Bead is recognised. Qingyun puts him on trial (EP23)." },
+      { name: "The truth about the village", zh: "真相", ep: 25, text: "Pu Zhi, twisted by the bead, killed the villagers himself so Qingyun would take the boys in." },
+      { name: "Bi Yao's sacrifice", zh: "痴情咒", ep: 26, text: "She takes the Zhu Xian Sword's blow for him. The Hehuan Bell keeps a trace of her soul." },
+    ] },
+    { stage: "Gui Li and the Dead Swamp", eps: [27, 36], items: [
+      { name: "Gui Li", zh: "鬼厉", ep: 27, text: "Ten years on he is the Ghost King Sect's vice master, under a new name." },
+      { name: "Two volumes of the Heavenly Book", zh: "天书", ep: 27, wiki: "Heavenly Books", text: "Taught by the Ghost King. He masters the basics in ten years where thirty were expected (EP33)." },
+      { name: "Heavenly Book, volume 3", zh: "天书第三卷", ep: 35, text: "In the Heavenly King's Treasure Vault. He can read it only because he knows the first two." },
+    ] },
+    { stage: "Fen Xiang Valley and the south", eps: [37, 52], items: [
+      { name: "Xiao Bai", zh: "小白", ep: 44, wiki: "Xiao Bai", text: "He frees the Nine-Tailed Heavenly Fox from the Mystic Fire Altar. She leads him south to the Golden Clan's Great Shaman (EP49)." },
+      { name: "Xiao Hui's third eye", zh: "三眼灵猴", ep: 42, text: "In the altar the monkey shows itself as a Three-Eyed Spirit Monkey." },
+      { name: "A lead on Bi Yao's soul", zh: "招魂", ep: 45, text: "Xiao Bai once saw a soul-return art save someone with less soul left than Bi Yao." },
+    ] },
+    { stage: "The beast tide", eps: [53, 72], items: [
+      { name: "Wan Jianyi's last sword", zh: "", ep: 66, text: "The old man's strike pulls the stick's backlash out of him, at the cost of his own life." },
+      { name: "His own way", zh: "心中之道", ep: 67, text: "In Huanyue Cave he rejects both Qingye's voice and the Black-Hearted Old Man's." },
+      { name: "Three teachings fused", zh: "三教合一", ep: 71, text: "Under the Zhu Xian Sword's evil aura he unites Buddhist, Taoist and demonic power, and the sword is found broken." },
+    ] },
+    { stage: "Tian Yin Temple", eps: [73, 78], items: [
+      { name: "Peace with Pu Zhi", zh: "", ep: 74, text: "Inside Wanye City he takes the karma on himself and bows to Pu Zhi as his master." },
+      { name: "Heavenly Book, volume 4", zh: "天书第四卷", ep: 76, text: "It appears on the Wordless Jade Wall while he sits beneath it." },
+      { name: "The heavenly tribulation", zh: "天劫", ep: 77, text: "Lightning strips his cultivation and leaves a mortal body. He survives the third strike as “simply Zhang Xiaofan” (EP78)." },
+    ] },
+    { stage: "The Southern Border again", eps: [79, 86], items: [
+      { name: "How to seal the Beast Deity", zh: "八凶玄火阵", ep: 79, text: "The new Great Shaman: the Beast Deity can only be sealed, with Ling Long's Eight Fiends Formation." },
+      { name: "Fighting beside Lu Xueqi", zh: "并肩", ep: 84, text: "They face the Eight-Direction Fire Dragon together, and keep the Beast Deity's promise of the lilies." },
+      { name: "A break with the Ghost King", zh: "决裂", ep: 85, text: "He learns his men were sacrificed and Sha Sheng killed on the Ghost King's orders, and leaves to warn Qingyun." },
+    ] },
+  ],
+
+  // The "What he carries" view. Shown from `ep` until `lostEp`.
+  inventory: [
+    { ep: 1, kind: "scripture", name: "Great Brahma Prajna", zh: "大梵般若", note: "Pu Zhi's Buddhist method, practised at night." },
+    { ep: 1, kind: "treasure", name: "Sinister Bead", zh: "噬血珠", wiki: "Sinister Bead", note: "Given by Pu Zhi. Later joined to the black stick." },
+    { ep: 1, kind: "companion", name: "Lin Jingyu", zh: "林惊羽", cast: "lin-jingyu", note: "His childhood friend and rival.", lostEp: 3, lostNote: "goes to Dragon Head Peak" },
+    { ep: 2, kind: "scripture", name: "Taiji Xuanqing Dao", zh: "太极玄清道", note: "Qingyun's method; level 4 by the tournament (EP7)." },
+    { ep: 3, kind: "treasure", name: "Fire Stick", zh: "烧火棍", note: "The black stick that drinks his blood, with the Sinister Bead in it. Also called the Soul-Devouring Stick." },
+    { ep: 4, kind: "companion", name: "Xiao Hui", zh: "小灰", cast: "xiao-hui", wiki: "Xiao Hui", note: "The three-eyed grey monkey.", lostEp: 79, lostNote: "turns up on Great Bamboo Peak while he is away" },
+    { ep: 12, kind: "companion", name: "Bi Yao", zh: "碧瑶", cast: "bi-yao", wiki: "Bi Yao", note: "The Ghost King's daughter, who keeps finding him.", lostEp: 26, lostNote: "takes the Zhu Xian Sword's blow for him" },
+    { ep: 13, kind: "scripture", name: "Heavenly Book carvings", zh: "天书", wiki: "Heavenly Books", note: "Seen in the Dixue Cave with Bi Yao." },
+    { ep: 16, kind: "treasure", name: "Mystic Fire Mirror", zh: "玄火鉴", wiki: "Mystic Fire Mirror", note: "From the dying Six-Tailed Fox. Holds down the stick's evil." },
+    { ep: 27, kind: "scripture", name: "Heavenly Book, volumes 1–2", zh: "天书", wiki: "Heavenly Books", note: "Taught by the Ghost King." },
+    { ep: 27, kind: "companion", name: "Ye Gou Daoren", zh: "野狗道人", cast: "ye-gou-daoren", wiki: "Ye Gou", note: "The Blood-Refining Hall man who wouldn't betray his hall.", lostEp: 37, lostNote: "leaves the Ghost King Sect and travels with Zhou Yixian" },
+    { ep: 30, kind: "companion", name: "Sha Sheng", cast: "sha-sheng", note: "His subordinate in the Ghost King Sect.", lostEp: 85, lostNote: "killed by Bai Hu on the Ghost King's orders" },
+    { ep: 35, kind: "scripture", name: "Heavenly Book, volume 3", zh: "天书第三卷", note: "From the Heavenly King's Treasure Vault." },
+    { ep: 45, kind: "companion", name: "Xiao Bai", zh: "小白", cast: "xiao-bai", wiki: "Xiao Bai", note: "The Nine-Tailed Heavenly Fox he freed." },
+    { ep: 71, kind: "technique", name: "Three teachings fused", zh: "三教合一", note: "Buddhist, Taoist and demonic power as one." },
+    { ep: 76, kind: "scripture", name: "Heavenly Book, volume 4", zh: "天书第四卷", note: "From the Wordless Jade Wall." },
+    { ep: 77, kind: "physique", name: "A mortal body", zh: "凡躯", note: "What the tribulation leaves him; he rebuilds from it.", lostEp: 78, lostNote: "survives the third strike" },
+    { ep: 82, kind: "companion", name: "Xiao Hui", zh: "小灰", cast: "xiao-hui", wiki: "Xiao Hui", note: "Back at his side in the Hundred Thousand Mountains." },
+  ],
+
+  // "Legends" page (the engine's emperors route): the figures of old the episodes name, oldest first.
+  eras: [
+    { name: "Ancient times", zh: "上古", note: "Before the sects. The Southern Border's tribes were still one Wu people.", emperors: [
+      { name: "Ling Long", zh: "玲珑", wiki: "Ling Long", legacy: "The Wu priestess who made the Beast Deity and then sealed him with her life, becoming a stone statue (EP53, EP80).", ep: 53 },
+      { name: "The Beast Deity", zh: "兽神", wiki: "Beast Deity", legacy: "Made from the killing aura of heaven and earth. Led a beast tide on the human world, sealed until the five holy weapons came back (EP53).", ep: 53 },
+      { name: "Hei Hu and Hei Mu", zh: "黑虎 · 黑木", wiki: "Hei Mu", legacy: "Two of the seven warriors who followed Ling Long into the mountains. Hei Hu guards her statue; Hei Mu woke the Beast Deity (EP82).", ep: 45 },
+    ] },
+    { name: "The founders", zh: "开派", note: "How the great sects began.", emperors: [
+      { name: "Qingye", zh: "青叶", wiki: "Daoist Qingye", legacy: "Qingyun's great patriarch. Tamed the Water Qilin a thousand years ago (EP2) and meditated in Huanyue Cave, where the Zhu Xian Sword came from (EP64, EP67).", ep: 2 },
+      { name: "Qingyunzi", zh: "青云子", wiki: "Qingyunzi", legacy: "The sect's first master.", ep: 52 },
+      { name: "Tian Yin's founder", zh: "天音祖师", legacy: "A wandering monk who sat three days and nights under the Wordless Jade Wall and understood the Great Brahma Prajna (EP75).", ep: 75 },
+      { name: "Wufangzi", zh: "无方子", legacy: "Qingyun's tenth leader. His Liuhe Mirror is the tournament prize (EP6).", ep: 6 },
+      { name: "Ancestor Tiancheng", zh: "天成子", legacy: "Qingyun's seventeenth leader. Dao Xuan kneels before his tablet before breaking the Tianji Seal (EP69).", ep: 69 },
+    ] },
+    { name: "Eight hundred years ago", zh: "八百年前", note: "When the Demon Sect last had a great master.", emperors: [
+      { name: "The Black-Hearted Old Man", zh: "黑心老人", wiki: "Black-Hearted Old Man", legacy: "Founded the Blood-Refining Hall in the Ten Thousand Bats Cave and made the Sinister Bead. His corpse lies in the Dixue Cave (EP12).", ep: 12 },
+      { name: "Madam Jinling", zh: "金铃夫人", legacy: "Founder of the He Huan Sect and maker of the Hehuan Bell; the Black-Hearted Old Man's lover from a rival sect (EP13).", ep: 13 },
+      { name: "Tianya", zh: "天琊", legacy: "Forged 800 years ago from Nine Heavens Mysterious Iron; Shui Yue says it waited for Lu Xueqi (EP78).", ep: 78 },
+    ] },
+    { name: "A hundred years ago", zh: "百年前", note: "The quarrel that still shapes Qingyun.", emperors: [
+      { name: "Wan Jianyi", zh: "万剑一", wiki: "Wan Jianyi", legacy: "The swordsman many thought should lead Qingyun. Cang Song hates Dao Xuan over him (EP24). Hidden in the back mountain, he trains Lin Jingyu and dies in EP65–66.", ep: 24 },
+      { name: "Dao Xuan's succession", zh: "道玄", wiki: "Dao Xuan", legacy: "Dao Xuan became leader instead, and secretly saved Wan Jianyi (EP27).", ep: 2 },
+      { name: "Shangguan Ce at the altar", zh: "上官策", wiki: "Shang Guan Ce", legacy: "Has guarded the Mystic Fire Altar for a hundred years (EP40); his pact with the Beast Deity is older still (EP51). The \"Shangguan Ce\" seen at Qingyun in the EP22–25 war was a Demon Sect impostor.", ep: 40 },
+    ] },
+  ],
+
+  // "Forbidden" route, renamed "Forbidden grounds".
+  zones: [
+    { name: "The Abyss of the Dead", subs: "Siling Abyss", zh: "死灵渊", ep: 10, master: "The Blood-Refining Hall's old ground", text: "Below Kongsang Mountain. Xiaofan and Lu Xueqi fall in (EP11); under it lies the Dixue Cave, with the Black-Hearted Old Man's corpse and the Heavenly Book carvings (EP12–13)." },
+    { name: "Black Stone Cave", subs: "Heishi Cave", zh: "黑石洞", ep: 15, master: "A beast held down by the foxes", masterEp: 16, text: "Near Small Pond Town. Greedy villagers woke the beast inside; the Six-Tailed Fox and the Three-Tailed Fox die there (EP16)." },
+    { name: "The Dead Swamp", zh: "死泽", ep: 28, master: "The Black Water Serpent and the Yellow Bird", masterEp: 34, text: "Poison fog and carnivorous flowers. The Heavenly King's Treasure Vault at its heart holds the third volume of the Heavenly Book (EP35)." },
+    { name: "Mystic Fire Altar", zh: "玄火坛", ep: 41, master: "The Crimson Flame Beast; Shangguan Ce", masterEp: 41, text: "Fen Xiang's forbidden ground over a volcano. Xiao Bai was chained in its depths for 300 years until Gui Li freed her (EP43–44). It erupts, and later Yun Yilan feeds it his own disciples' blood (EP80)." },
+    { name: "Snake Poison Valley", subs: "Viper Valley", zh: "", ep: 58, master: "The Ten Thousand Poisons Sect", text: "Where the three demon sects swore their alliance, and where the Ghost King's blood formation killed almost all of them (EP60–61)." },
+    { name: "Huanyue Cave", subs: "Phantom Moon Cave", zh: "幻月洞府", ep: 67, master: "Qingye's memory", masterEp: 67, wiki: "Huanyue Cave", text: "In Qingyun's back mountain, guarded by Dao Xuan's sword intent and Wan Jianyi. The Zhu Xian Sword came from here." },
+    { name: "The Wordless Jade Wall", zh: "无字玉璧", ep: 75, master: "Tian Yin Temple", text: "On Mount Sumeru. Tian Yin's founder found the Great Brahma Prajna here; Gui Li finds the fourth volume of the Heavenly Book (EP76)." },
+    { name: "The Nether Abyss", zh: "", ep: 76, master: "The Ghost King Sect", text: "Where the Ghost King's people catch the newborn Candle Dragon (EP76–77)." },
+    { name: "Ancient Demon-Suppressing Cave", zh: "镇魔古洞", ep: 82, master: "Hei Hu, at Ling Long's statue", masterEp: 82, text: "Deep in the Hundred Thousand Mountains. The last complete Eight Fiends Formation; the Beast Deity dies here (EP84)." },
+  ],
+
+  terms: [
+    ["Taiji Xuanqing Dao", "太极玄清道", "Qing Method of Taijixuan", "Taichi Xuanqing Tao", 3],
+    ["Yuqing", "玉清", "Yuqing", "Jade Purity", 7],
+    ["Shangqing", "上清", "", "Upper Purity", 34],
+    ["Taiqing", "太清", "Taiqing", "Grand Purity", 25],
+    ["Great Brahma Prajna", "大梵般若", "Brahman Prajna", "Great Brahma Wisdom", 1],
+    ["Heavenly Book", "天书", "Heavenly Book", "Book of Heaven", 13],
+    ["Sinister Bead", "噬血珠", "Blood-Striking Bead", "Bloodthirsty Bead, Blood-Devouring Bead", 14],
+    ["Fire Stick", "烧火棍", "Fire Burning Stick", "Soul-Devouring Stick, Soul-Eating Stick", 7],
+    ["Zhu Xian Sword", "诛仙剑", "Immortal Destruction Sword", "Zhuxian Sword, Immortal-Slaying Sword", 24],
+    ["Zhu Xian Sword Formation", "诛仙剑阵", "", "Immortal-Slaying Sword Array", 25],
+    ["Tianji Seal", "天机印", "Seven Pulse Secret Seal", "Heavenly Secret Seal, Seven Peaks Tianji Seal", 63],
+    ["Seven Meridians Tournament", "七脉会武", "Duel of the Seven Ranges", "Seven Pulse Martial Art Contest", 4],
+    ["Water Qilin", "水麒麟", "Water Kirin", "Qingyun's guardian beast", 2],
+    ["Tianya", "天琊", "Tianya Divine Sword", "", 7],
+    ["Dragon-Slaying Sword", "斩龙剑", "Dragon-Slaying Sword", "Dragon Slayer", 4],
+    ["Hehuan Bell", "合欢铃", "Hehuan Bells", "Acacia Bell", 13],
+    ["Lovestruck Spell", "痴情咒", "Lovestruck Mantra", "", 13],
+    ["Demon Sect", "魔教", "Holy Cult", "Holy Sect, Holy Church (its own name)", 13],
+    ["Wisdom King and Holy Mother", "明王 · 圣母", "Wisdom King and Holy Mother", "", 12],
+    ["Mystic Fire Mirror", "玄火鉴", "Red Fire Mirror", "Xuanhuo Mirror, Xuanhuojian", 15],
+    ["Mystic Fire Altar", "玄火坛", "", "Black Fire Altar", 40],
+    ["Eight Fiends Formation", "八凶玄火阵", "", "Eight Ferocious Mystic Fire Formation", 43],
+    ["Four Spirits Blood Formation", "四灵血阵", "", "Beast Blood Circle", 33],
+    ["Fulong Cauldron", "伏龙鼎", "Dragon-Tamer Cauldron", "Dragon-Subduing Cauldron", 36],
+    ["Three hun and seven po", "三魂七魄", "", "The souls a person is made of", 44],
+    ["Soul-return art", "招魂术", "", "Soul Revival Magic", 42],
+    ["Saint Beast envoys", "圣兽", "", "The Ghost King's Qing Long, Bai Hu, Zhu Que, Xuan Wu", 20],
+    ["Vice Sect Master", "副宗主", "Vice suzerain", "", 27],
+    ["Demon King", "妖王", "", "The Beast Deity's generals", 58],
+    ["Beast tide", "兽潮", "", "", 57],
+    ["Five holy weapons", "", "", "Five Sacred Treasures, five divine artifacts", 53],
+    ["Burning Incense Jade Tome", "焚香玉册", "", "", 79],
+    ["Yuyang realm", "玉阳境", "", "Jade Yang realm", 80],
+    ["Wordless Jade Wall", "无字玉璧", "", "", 75],
+    ["Heavenly tribulation", "天劫", "", "Heavenly punishment lightning", 76],
+    ["Ghost Path", "鬼道", "", "Ghost arts", 81],
+    ["Ming King", "明王", "", "Asura", 86],
+  ],
+
+  // No named set of secret techniques or best-method-per-realm list in this story: the Heavenly Book volumes and the
+  // three teachings live on the "Only here" page instead.
+  secrets: [],
+  methods: [],
+
+  // ---------- "Only here" page (show.js extraPages) ----------
+  heavenlyBooks: [
+    { rank: 1, name: "Volume 1: the general outline", zh: "天书第一卷", ep: 13, wiki: "Heavenly Books", where: "Carved in the Dixue Cave below the Abyss of the Dead", text: "Xiaofan and Bi Yao find it by ghost fire. He is shaken to find lines from both the Great Brahma Prajna and the Taiji Xuanqing Dao in the Demon Sect's classic." },
+    { rank: 2, name: "Volume 2", zh: "天书第二卷", ep: 27, where: "Kept by the Ghost King Sect", text: "The Ghost King teaches Gui Li two volumes in ten years. He masters the basics far faster than the thirty years the Ghost King expected (EP33)." },
+    { rank: 3, name: "Volume 3", zh: "天书第三卷", ep: 35, where: "The Heavenly King's Treasure Vault in the Dead Swamp", text: "Guarded by the Black Water Serpent and the Yellow Bird. Gui Li finds it beside Lu Xueqi; no one who hasn't read the first two can start it." },
+    { rank: 4, name: "Volume 4", zh: "天书第四卷", ep: 76, where: "The Wordless Jade Wall on Mount Sumeru", text: "Pu Hong is stunned to see the Demon Sect's book appear in a Buddhist holy place. Gui Li forces past a seal left by someone before him, and heaven sends lightning." },
+    { rank: 5, name: "Volume 5", zh: "天书第五卷", ep: NOVEL, where: "Not found on screen yet", text: "The last volume is only legend so far." },
+  ],
+
+  threePaths: [
+    { name: "The Buddhist road", zh: "佛 · 大梵般若", ep: 1, from: "Pu Zhi of Tian Yin Temple", text: "The first thing he learns, secretly, the night before his village dies. It is what keeps the Fire Stick's evil from taking him in the early years, and what gives him away on Liubo Mountain (EP21)." },
+    { name: "The Taoist road", zh: "道 · 太极玄清道", ep: 2, from: "Tian Buyi of Great Bamboo Peak", text: "Qingyun's method. It fights the Prajna inside him until Tian Ling'er's copy of the third level shows him they feel alike (EP5). As Gui Li he still fights with Qingyun spells, which Lin Jingyu and Cang Song both recognise (EP34, EP57)." },
+    { name: "The demonic road", zh: "魔 · 天书", ep: 27, from: "The Ghost King; the Heavenly Book", text: "Blood arts and the Heavenly Book, learnt in the Ghost King Sect. The Sinister Bead's backlash grows with it until it reaches his heart meridian (EP62)." },
+    { name: "All three as one", zh: "三教合一", ep: 71, from: "Himself", text: "Wan Jianyi marvels that one so young holds all three (EP65). Under the Zhu Xian Sword's evil aura Gui Li fuses them, and Jin Ping'er later sees that they no longer clash (EP83). At the Wordless Jade Wall he decides none of them is him, and walks his own way (EP76)." },
+  ],
+
+  treasures: [
+    { name: "Fire Stick", zh: "烧火棍", ep: 3, owner: "Zhang Xiaofan", text: "A plain black stick that drinks his blood. With the Sinister Bead it becomes the Soul-Devouring Stick, made of the bead and the ancient Soul-Eating Stick (EP42). It rivals Tianya while he is only at Yuqing level 4 (EP8)." },
+    { name: "Sinister Bead", zh: "噬血珠", ep: 1, wiki: "Sinister Bead", owner: "The Black-Hearted Old Man, Pu Zhi, Zhang Xiaofan", text: "The Blood-Refining Hall founder's treasure. It twisted Pu Zhi into killing a village, and its evil keeps working its way into Gui Li." },
+    { name: "Zhu Xian Sword", zh: "诛仙剑", ep: 24, wiki: "Zhu Xian Sword", owner: "Qingyun's leader, Dao Xuan", text: "Qingyun's ancient sword, drawn only against the gravest threats. It kills Bi Yao in Xiaofan's place (EP26), and breaks after the battle with the Beast Deity (EP71)." },
+    { name: "Tianya", zh: "天琊", ep: 7, owner: "Lu Xueqi", text: "Forged 800 years ago from Nine Heavens Mysterious Iron. Shui Yue gives it to Lu Xueqi for the tournament; with it she kills the Evil Dragon (EP59) and the White Bone Snake Demon King (EP67)." },
+    { name: "Dragon-Slaying Sword", zh: "斩龙剑", ep: 4, owner: "Lin Jingyu", text: "Cang Song's gift. Wan Jianyi shows Lin Jingyu how it should really be used (EP24): forward, without hesitation (EP69)." },
+    { name: "Hehuan Bell", zh: "合欢铃", ep: 13, owner: "Madam Jinling, Bi Yao", text: "Found in the Dixue Cave. It caught Bi Yao's soul when she died and keeps her body whole (EP26). The Ghost King gives San Miao a poisoned fake (EP60)." },
+    { name: "Mystic Fire Mirror", zh: "玄火鉴", ep: 15, wiki: "Mystic Fire Mirror", owner: "Fen Xiang Valley, the fox clan, Gui Li", text: "The finest fire treasure, says Xiao Bai; with the Eight Fiends Formation it could destroy the world. It holds down the Fire Stick's evil (EP44) and once lends Gui Li the sun's power (EP61)." },
+    { name: "Fulong Cauldron", zh: "伏龙鼎", ep: 36, wiki: "Fulong Cauldron", owner: "The Ghost King", text: "Holds the captured spirit beasts for the Four Spirits Blood Formation. Mr. Ghost deciphered its inscriptions (EP39)." },
+    { name: "Liuhe Mirror", zh: "六合镜", ep: 6, owner: "Fa Xiang", text: "Fa Xiang of Tian Yin Temple drives off the Blood Bats with it at Kongsang Mountain (EP10). A Liuhe Mirror that belonged to Qingyun's tenth leader, Wufangzi, is the Seven Meridians Tournament's prize (EP6)." },
+    { name: "Purple Light Blade", zh: "紫芒刃", ep: 38, owner: "San Miao, Jin Ping'er", text: "Leaves a faint purple tint on a wound, which is how Shangguan Ce traces the fish-man killings to Jin Ping'er (EP43). She takes it as its new owner (EP60)." },
+  ],
+
+  fourSpirits: [
+    { ep: 18, title: "The demons wait for the Kui on Liubo Mountain", text: "The Kui, a divine beast seen once every 3,000 years, is about to be born, and the Demon Sect gathers for it." },
+    { ep: 20, title: "The Ghost King binds the Kui Ox", text: "He catches the newborn Kui Ox with the Dragon-Trapping Que. Xiaofan breaks his formation anyway (EP21)." },
+    { ep: 33, title: "The formation is named", text: "Qing Long and Zhu Que plan to trap the Yellow Bird, the Nine Heavens spirit bird, with the Four Spirits Blood Formation. Qing Long thinks it too cruel." },
+    { ep: 36, title: "The Yellow Bird is taken", text: "A Dragon Trap spell and the Fulong Cauldron strike at the Heavenly King's Treasure Vault, and the Ghost King arrives with his envoys." },
+    { ep: 39, title: "Half complete", text: "The Ghost King says the formation needs two more spirit beasts. Mr. Ghost read the cauldron's inscriptions for him." },
+    { ep: 77, title: "The Candle Dragon", text: "Born in the Nether Abyss and caught by You Ji and the Ghost King's Daoist ally, while the Kui Ox and the Yellow Bird are held in the cauldron." },
+    { ep: 85, title: "The Taotie is taken", text: "The Taotie joins the Kui Ox of Liubo Mountain and the Yellow Bird of the Dead Swamp. Gui Li finds the formation nearly complete under Huqi Mountain." },
+    { ep: 86, title: "Forty-nine days", text: "In forty-nine days the cauldron will finish gathering the four spirits and give the Ghost King the power of the Ming King." },
+  ],
+};
+})();

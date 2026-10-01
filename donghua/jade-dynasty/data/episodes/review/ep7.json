@@ -1,0 +1,101 @@
+{
+  "ep": 7,
+  "title": "The Fire Stick's first win",
+  "summary": "Lu Xueqi of Small Bamboo Peak beats Fang Chao of Dragon Head Peak and wrecks his sword. An elder asks Shui Yue why her disciple was so ruthless, and Shui Yue answers that he simply wasn't skilled enough; she has given Lu Xueqi the Tianya sword. That night Zhang Xiaofan and Tian Ling'er slip out in secret. Next day Xiaofan faces Chu Yuhong of Morning Sun Peak, a favourite, using the black stick he calls the Fire Stick. Chu Yuhong sees that Xiaofan has reached Yuqing level 4 (Jade Purity), and Xiaofan wins and reaches the top 16. Du Bishu, the only one who bet on Xiaofan, collects his winnings, and Tian Buyi warns his disciples against arrogance and tells Xiaofan he will face Lu Xueqi. Zeng Shushu arranges for his peak-mate Peng Chang to go easy on Xiaofan, and Xiaofan remembers Tian Buyi and Su Ru training him. In the match, Peng Chang is offended that Xiaofan has wrapped his weapon and attacks him for real.",
+  "events": [
+    "Lu Xueqi beats Fang Chao and breaks his sword; Shui Yue defends her",
+    "The draw pairs Xiaofan with Chu Yuhong; Xiaofan and Ling'er slip out at night",
+    "Xiaofan beats Chu Yuhong with the Fire Stick and reaches the top 16",
+    "Du Bishu wins his bet; Tian Buyi warns against arrogance",
+    "Zeng Shushu asks Peng Chang to go easy on Xiaofan",
+    "Xiaofan remembers Tian Buyi and Su Ru training him",
+    "Peng Chang takes offence at the wrapped stick and fights seriously"
+  ],
+  "introduced": [
+    "Tianya (Lu Xueqi's sword, named only)",
+    "Chu Yuhong (Morning Sun Peak)",
+    "Fire Stick (Xiaofan's name for his black stick, 'Fire Burning Stick')",
+    "Peng Chang (Wind Return Peak)",
+    "the small yellow pill (Great Bamboo Peak medicine)",
+    "Yuwu skill (controlling a weapon with qi)"
+  ],
+  "cultivation": "Chu Yuhong to Xiaofan: 'You've mastered Quwu to the fourth level of Yuqing' (Yuqing level 4). Ling'er is said to have mastered the Yuwu skill, driving her Amber Red Twill with qi.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi",
+      "quote": "(Xiaozhu Peak Lu Xueqi will compete against Longshou Peak Fang Chao)",
+      "card": 7.7
+    },
+    {
+      "id": "fang-chao",
+      "name": "Fang Chao",
+      "quote": "(Xiaozhu Peak Lu Xueqi will compete against Longshou Peak Fang Chao)",
+      "card": 7.7
+    },
+    {
+      "id": "shui-yue",
+      "name": "Shui Yue"
+    },
+    {
+      "id": "zeng-shushu",
+      "name": "Zeng Shushu"
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Zhang Xiaofan",
+      "realm": "Yuqing level 4",
+      "quote": "You've mastered Quwu to the fourth level of Yuqing.",
+      "t": 395.9
+    },
+    {
+      "id": "chu-yuhong",
+      "name": "Chu Yuhong",
+      "quote": "(Zhang Xiaofan. Chu Yuhong.)",
+      "first": true,
+      "card": 209.3
+    },
+    {
+      "id": "tian-linger",
+      "name": "Tian Ling'er"
+    },
+    {
+      "id": "du-bishu",
+      "name": "Du Bishu"
+    },
+    {
+      "id": "tian-buyi",
+      "name": "Tian Buyi"
+    },
+    {
+      "id": "su-ru",
+      "name": "Su Ru"
+    },
+    {
+      "id": "song-daren",
+      "name": "Song Daren"
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui"
+    },
+    {
+      "id": "peng-chang",
+      "name": "Peng Chang",
+      "quote": "I'm Peng Chang of Fenghui Peak.",
+      "first": true,
+      "t": 596.9,
+      "card": 789.5
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Cards here are on-screen captions of the match boards: 7.7 s (Lu Xueqi vs Fang Chao), 209.3 s (the draw sheet: 'Zhang Xiaofan. Chu Yuhong.'), 789.5 s ('Zhang Xiaofang competes against Peng Chang'; typo for Xiaofan). They may show text rather than faces.",
+    "395.9 s: 'Quwu' is probably 'Yuwu' (controlling objects), the word used at 738.2 s for Ling'er. Said by Chu Yuhong during their fight.",
+    "126.7-149.5 s: the elder who reproaches Shui Yue is not named (probably Cang Song, Fang Chao's master).",
+    "236-282 s: the night scene is unclear. Ling'er says 'Don't let anyone see us', then Xiaofan is told 'Are you done?'. EP8 reveals Ling'er and Qi Hao have sworn oaths, so she may be meeting Qi Hao; not stated here.",
+    "543-548 s: Tian Buyi says Xiaofan faces Lu Xueqi 'next', but his next match is Peng Chang (789 s); Lu Xueqi comes in the top-eight round in EP8.",
+    "659-781 s: the training with bells and hand seals is a memory, not this day's events."
+  ]
+}

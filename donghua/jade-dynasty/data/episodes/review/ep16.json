@@ -1,0 +1,38 @@
+{
+  "ep": 16,
+  "title": "The two foxes",
+  "summary": "Below the Black Stone Cave, Zhang Xiaofan tells the Six-Tailed Fox he has come to kill him for harming the villagers. The fox answers that greedy humans woke the beast in the cave, and that the foxes have been holding it back. Shi Tou fights the beast with his Aura Breaker. The Six-Tailed Fox is dying of Jiuhan Ice poison that ruined nearly 1,000 years of training. With Fen Xiang Valley closing in after 300 years, he begs the Three-Tailed Fox to escape, but she refuses to leave him and gives her life. He asks for her song once more, gives Xiaofan the Red Fire Mirror and tells him to keep it hidden, and the two foxes die together. When Li Xun asks, Xiaofan says he did not see the mirror. Yan Hong tells him Qingyun is meeting the other righteous sects at Liubo Mountain in the East Sea, and Xiaofan, Shi Tou and Bi Yao head back to tell the village the foxes are dead.",
+  "events": [
+    "The Six-Tailed Fox argues that humans, not foxes, stirred up the cave",
+    "Shi Tou fights the beast with his Aura Breaker",
+    "The Six-Tailed Fox is dying of Jiuhan Ice poison and begs the Three-Tailed Fox to flee",
+    "The Three-Tailed Fox gives her life rather than leave him",
+    "The Six-Tailed Fox gives Xiaofan the Red Fire Mirror and dies with her",
+    "Xiaofan hides the mirror from Li Xun",
+    "Yan Hong points Xiaofan to Liubo Mountain"
+  ],
+  "introduced": [
+    "Jiuhan Ice poison",
+    "Huqi Mountain (where the foxes met)",
+    "Full Moon Ancient Well",
+    "Liubo Mountain in the East Sea (mentioned)"
+  ],
+  "cultivation": "The Six-Tailed Fox says nearly 1,000 years of training were ruined by the Jiuhan Ice poison; the Three-Tailed Fox has trained for 300 years.",
+  "confidence": "high",
+  "cast": [
+    {"id": "six-tailed-fox", "name": "Six-Tailed Fox", "quote": "(Fox clan, Six-Tailed Fox)", "card": 89.9},
+    {"id": "three-tailed-fox", "name": "Three-Tailed Fox"},
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan"},
+    {"id": "shi-tou", "name": "Shi Tou"},
+    {"id": "bi-yao", "name": "Bi Yao"},
+    {"id": "li-xun", "name": "Li Xun"},
+    {"id": "yan-hong", "name": "Yan Hong"}
+  ],
+  "changes": [],
+  "flags": [
+    "89.9 s: the Six-Tailed Fox's name card comes in EP16, but he is first on screen at the end of EP15, so `first` is not set here.",
+    "65-70 s: 'Such a cunning witch... I need to find a way to go down' - speaker probably Bi Yao or Shi Tou, not named.",
+    "603-604 s: how the Three-Tailed Fox gives her life is not described in the subs; 879 s Xiaofan suggests the foxes fell into the lava.",
+    "Years of training are not a realm; kept in `cultivation` only because they are the only power levels stated."
+  ]
+}

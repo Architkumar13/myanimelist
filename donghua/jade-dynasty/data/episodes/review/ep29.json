@@ -1,0 +1,86 @@
+{
+  "ep": 29,
+  "title": "The night attack on the righteous camp",
+  "summary": "Ye Gou Daoren mocks Gui Li for lending his umbrella to the fortune-telling girl and playing the hero, and Gui Li insists he was born a bad man. At the edge of the Dead Swamp the righteous disciples hear cries for help that turn out to be a Demon Sect lure, and Xiao Yicai has them make camp and wait for dawn. Fa Xiang, Li Xun and Lu Xueqi discuss the danger; Xiao Yicai expects Yu Yangzi to strike that night. Yu Yangzi does send the Longevity Hall's main force in a night attack, but the righteous side is waiting in ambush and the hall loses nearly a third of its disciples. Yu Yangzi then comes himself, mocks the young disciples' idea of honour, and traps them in a yin-yang formation. Fa Xiang, Song Daren, Fa Shan and the Qingyun disciples fight back with Taiji Xuanqing techniques and the Golden Body, but his magic weapon grows far stronger inside the formation. The disciples work out that the formation turns yin and yang into the five elements and find its centre, and Lu Xueqi calls down divine thunder with her sword.",
+  "events": [
+    "Ye Gou Daoren teases Gui Li about the umbrella; Gui Li says he was born a bad man",
+    "Cries for help in the swamp turn out to be a Demon Sect lure",
+    "Xiao Yicai has the righteous disciples camp at the swamp's edge and expects a night attack",
+    "Yu Yangzi orders the Longevity Hall's night attack; the righteous ambush costs him nearly 30% of his disciples",
+    "Yu Yangzi attacks in person and traps the disciples in a yin-yang formation",
+    "Fa Xiang's Golden Body and the Qingyun disciples' Taiji Xuanqing techniques hold against his magic weapon",
+    "The formation's centre is found; Lu Xueqi calls down divine thunder"
+  ],
+  "introduced": [
+    "Yin-Yang formation (Yu Yangzi's)",
+    "Yin Yang Shield",
+    "Golden Body Conquers Demons (Fa Xiang's technique)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "ye-gou-daoren",
+      "name": "Ye Gou Daoren"
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui"
+    },
+    {
+      "id": "xiao-yicai",
+      "name": "Xiao Yicai"
+    },
+    {
+      "id": "zeng-shushu",
+      "name": "Zeng Shushu"
+    },
+    {
+      "id": "fa-xiang",
+      "name": "Fa Xiang"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "li-xun",
+      "name": "Li Xun"
+    },
+    {
+      "id": "yu-yangzi",
+      "name": "Yu Yangzi"
+    },
+    {
+      "id": "lin-jingyu",
+      "name": "Lin Jingyu"
+    },
+    {
+      "id": "song-daren",
+      "name": "Song Daren"
+    },
+    {
+      "id": "fa-shan",
+      "name": "Fa Shan"
+    }
+  ],
+  "changes": [
+    "EP30's flag 'EP29 has no subtitles' is now resolved: this episode ends on Lu Xueqi's divine-thunder incantation (830-886 s), which is exactly where EP30 picks up."
+  ],
+  "flags": [
+    "No name cards in this episode's subtitles.",
+    "27-113 s: Ye Gou Daoren is not named; identified as the Daoist who boasts of having killed 'eight hundred if not a thousand' and who has known Gui Li 'since the Deathly Abyss' (Abyss of the Dead). The 'crazy monkey' is Xiao Hui.",
+    "127-166 s: who follows the cries ('Could it be that the demon sect has lured me here on purpose?') is not named.",
+    "173 s: 'a bottomless pit in the Deadpool' = the Dead Swamp.",
+    "290 s 'Brother Dharma' and 712 s = Fa Xiang (Fa = Dharma); 778 s 'Brother Fashan' = Fa Shan.",
+    "313-338 s: the Fen Xiang side ('The owner of the valley ordered us to take the lead', 'Senior Brother Li') — whether Li Xun or another Fen Xiang disciple says 'Senior Brother Xiao is overthinking' is unclear.",
+    "371 s 'Use your blood today to pay tribute to the ancestors of my Changsheng Hall' is Yu Yangzi's order to his men; Changshengtang = Longevity Hall.",
+    "486-502 s and 739-768 s: 'Junior Brother Lin' read as Lin Jingyu (he is on this expedition per EP27/EP31). Who analyses the formation ('Qian Sheng San Yin, Kun Sheng San Yang') is not certain; 739-740 s 'teacher / Screener' is garbled.",
+    "579-583 s: 'The beginning of Xuan Qing ... Two rituals unified' = Taiji Xuanqing Dao incantation; 630 s 'Seven Stars Return to Yuan', 649 s 'Chu Yan' are technique names; 'Chu Yan' is unclear.",
+    "830-886 s: 'Jiutian Xuansha, turn into divine thunder ... lead with sword' is Lu Xueqi's sword-thunder incantation; she is not named in that passage."
+  ]
+}

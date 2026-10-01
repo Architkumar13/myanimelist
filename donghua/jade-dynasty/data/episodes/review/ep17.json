@@ -1,0 +1,47 @@
+{
+  "ep": 17,
+  "title": "Back to Great Bamboo Peak's family",
+  "summary": "The villagers cheer Zhang Xiaofan, Shi Tou and Bi Yao for ending the fox trouble, and Bi Yao warns them to stay away from the Black Stone Cave. Xiaofan asks the fortune teller whether demons have feelings, and the old man says there are good demons and bad people. At the Haiyun Building inn in Changhe, Bi Yao tells Xiaofan she half wishes they had died in the Dixue Cave and asks whether the line between the Demon Sect and the righteous matters so much to him. He cannot answer, and she leaves in the night with You Ji, having paid his bill. Shi Tou is called home to the Jingang Sect. Flying alone over the sea to Liubo Mountain, Xiaofan is attacked by Nian Laoda, Ye Gou Daoren and the Blood-Refining Hall. Tian Ling'er, Song Daren and Du Bishu come to help, and Tian Buyi's arrival drives the demons off. Xiaofan is welcomed back by Su Ru and Lin Jingyu, then learns that Tian Ling'er and Qi Hao are engaged.",
+  "events": [
+    "The village celebrates; Bi Yao warns them off the Black Stone Cave",
+    "The fortune teller answers Xiaofan's question about demons",
+    "Bi Yao's night talk with Xiaofan at the Haiyun Building; she leaves with You Ji",
+    "Shi Tou returns to the Jingang Sect",
+    "The Blood-Refining Hall attacks Xiaofan over the sea near Liubo Mountain",
+    "Tian Ling'er, Song Daren, Du Bishu and then Tian Buyi rescue him",
+    "Reunion with Su Ru and Lin Jingyu; Tian Ling'er and Qi Hao are engaged"
+  ],
+  "introduced": [
+    "Haiyun Building in Changhe (an inn)",
+    "Jingang Sect",
+    "Shenmu Dice (a weapon called in the sea fight)",
+    "Tusk Sword"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan"},
+    {"id": "bi-yao", "name": "Bi Yao"},
+    {"id": "shi-tou", "name": "Shi Tou"},
+    {"id": "zhou-yixian", "name": "Zhou Yixian", "look": "the fortune teller; not named"},
+    {"id": "xiao-huan", "name": "Xiao Huan", "look": "offers tanghulu; calls him Grandfather"},
+    {"id": "you-ji", "name": "You Ji", "look": "the veiled lady who leaves with Bi Yao"},
+    {"id": "nian-laoda", "name": "Nian Laoda"},
+    {"id": "ye-gou-daoren", "name": "Ye Gou Daoren"},
+    {"id": "tian-linger", "name": "Tian Ling'er"},
+    {"id": "song-daren", "name": "Song Daren"},
+    {"id": "du-bishu", "name": "Du Bishu"},
+    {"id": "tian-buyi", "name": "Tian Buyi"},
+    {"id": "su-ru", "name": "Su Ru"},
+    {"id": "lin-jingyu", "name": "Lin Jingyu"},
+    {"id": "qi-hao", "name": "Qi Hao"}
+  ],
+  "changes": [],
+  "flags": [
+    "519 s 'Shenmu Dice': owner not stated; dice suit Du Bishu the gambler, arriving with Ling'er and Song Daren.",
+    "551 s 'My Tusk Sword' is said by someone on the Blood-Refining Hall side; speaker not clear.",
+    "69-75 s: overlapping lines ('The world is unfair... Lives are nothing but like ants') come from someone in the crowd, probably the fortune teller.",
+    "836 s ends on a cry of 'Xiaofan!'; EP18 shows he lost control and fought Song Daren, so this probably happens here without dialogue.",
+    "719 s 'Madam' / 714 s 'Mother' = Su Ru."
+  ]
+}

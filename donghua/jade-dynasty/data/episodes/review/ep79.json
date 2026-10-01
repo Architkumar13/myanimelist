@@ -1,0 +1,58 @@
+{
+  "ep": 79,
+  "title": "Setting out for the Southern Border",
+  "summary": "Life on Great Bamboo Peak has grown lively again since Tian Ling'er's wedding, and Xiao Hui the monkey has come back and is raiding the kitchen with Dahuang. Tian Buyi and Su Ru take the monkey's return as a sign that Zhang Xiaofan still sees the peak as home, even though he survived the Zhu Xian Sword outside Huanyue Cave and now lives as Gui Li. Shui Yue sends Lu Xueqi to the Southern Border with two fellow disciples to hunt the wounded Beast Deity. Gui Li visits the Jin tribe, where the new Great Shaman tells him the Beast Deity cannot be killed, only sealed: its life rests on five divine artifacts, and the Wu priestess once caged it with the Mystic Fire Eight Fiends Formation in the Ancient Demon-Suppressing Cave deep in the Hundred Thousand Mountains. At the ruined Mystic Fire Altar Gui Li finds Xiao Bai waiting for him. In Fen Xiang Valley, Yun Yilan admits to Shangguan Ce and Li Xun that thirty days of summoning the Red Flame beast have failed, and proposes a forbidden method from the Burning Incense Jade Tome: a sacrifice of living human blood. In the Ghost King Sect, three of the Four Spirits have been taken and only the Taotie remains.",
+  "events": [
+    "Xiao Hui and Dahuang cause chaos on Great Bamboo Peak; Tian Buyi orders the dog made into soup in a fit of temper",
+    "Tian Buyi and Su Ru talk about Xiaofan surviving the Zhu Xian Sword and Xiao Hui coming home",
+    "Shui Yue sends Lu Xueqi to the Southern Border: 'hold Tianya, do not fail your sword'",
+    "Gui Li meets the new Great Shaman of the Jin tribe, who keeps her late master's ashes, sent home by Qingyun",
+    "She tells him of the five divine artifacts, the Mystic Fire Eight Fiends Formation and the Ancient Demon-Suppressing Cave",
+    "Xiao Bai is waiting for Gui Li at the damaged Mystic Fire Altar",
+    "Yun Yilan proposes a living blood sacrifice to restore Fen Xiang Valley's altar formation",
+    "The Ghost King Sect has three of the Four Spirits; someone has been sent for the Taotie"
+  ],
+  "introduced": [
+    "the new Great Shaman of the Jin tribe",
+    "five divine artifacts (the Beast Deity's life source)",
+    "Mystic Fire Eight Fiends Formation (Xuanhuo Eight Demons Formation)",
+    "Ancient Demon-Suppressing Cave, Hundred Thousand Mountains",
+    "Red Flame beast / Chiyan Mingzun (Fen Xiang Valley's altar spirit)",
+    "Four Spirits (Ghost King Sect plan) and the Taotie"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "tian-buyi", "name": "Tian Buyi"},
+    {"id": "su-ru", "name": "Su Ru"},
+    {"id": "du-bishu", "name": "Du Bishu", "look": "called 'Lao Liu', the sixth disciple"},
+    {"id": "xiao-hui", "name": "Xiao Hui"},
+    {"id": "dahuang", "name": "Dahuang"},
+    {"id": "shui-yue", "name": "Shui Yue"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": null, "name": "Great Shaman of the Jin tribe (new)", "first": true, "quote": "Saya Penyihir Agung generasi baru Suku Jin."},
+    {"id": "xiao-bai", "name": "Xiao Bai"},
+    {"id": "yun-yilan", "name": "Yun Yilan"},
+    {"id": "shangguan-ce", "name": "Shangguan Ce"},
+    {"id": "li-xun", "name": "Li Xun"}
+  ],
+  "changes": [
+    "No recap of Season 3 opens this episode (EP73-78 are unsubtitled). The opening (156-227 s) is a memory or dream of young Xiaofan being woken on Great Bamboo Peak. The dialogue fills in where Season 3 ended:",
+    "Outside Huanyue Cave Gui Li was struck by the Zhu Xian Sword but survived; rumour says his allies rescued him. Song Daren reported the clash, and Xiao Hui was not with Gui Li then (Tian Buyi/Su Ru, 357-376 s).",
+    "Tian Ling'er has married (258 s; the husband is not named).",
+    "The Beast Deity was badly wounded (at Qingyun, per EP81) and fled with a broken body; its whereabouts are unknown (702 s).",
+    "The old Great Shaman of the Jin tribe died on a trip to the Central Plains that Gui Li had insisted on; Qingyun sent his ashes back (640-688 s). Qilidong suffered heavy losses.",
+    "The Mystic Fire chains have been released and the Mystic Fire Altar is badly damaged (840 s). In Fen Xiang Valley a lava eruption wrecked the altar formation, its stored spirit energy is gone and the formation's key, the Mystic Fire jewel, is lost (940-952 s).",
+    "The Ghost King Sect already holds three of the Four Spirits (1091 s); EP85 names them as the Kui Ox of Liubo Mountain and the Yellow Bird of the Dead Swamp, with the Taotie next."
+  ],
+  "flags": [
+    "240-246 s: inner-voice captions ('as long as the Beast Deity lives it will threaten the world... I won't let this nightmare come true') under a Qingyun caption; speaker not identified (perhaps Dao Xuan).",
+    "479-489 s: Du Bishu senses someone playing a trick on him and says 'Could it be...'; who he sees is not stated (possibly Gui Li visiting secretly).",
+    "562-574 s: Lu Xueqi leaves with two senior disciples; EP82 shows them to be Wen Min and Zeng Shushu (Wen Min later goes back). Not named here.",
+    "866-903 s: the woman at the altar is not named; she says Gui Li came here with her last time and calls him 'Young Master'. Taken as Xiao Bai (she confirms in EP83 that she is an old demon and knows the Beast Deity).",
+    "766 s: Gui Li thinks 'I must go to Fen Xiang Valley' right before being told the cave is in the Hundred Thousand Mountains.",
+    "949 s: 'Mustika Xuanhuo' (Mystic Fire jewel) as the lost key; may be the Mystic Fire Mirror.",
+    "1091-1105 s: speakers in the Ghost King Sect scene are not named (likely the Ghost King and a subordinate)."
+  ]
+}

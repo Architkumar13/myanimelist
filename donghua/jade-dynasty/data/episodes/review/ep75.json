@@ -1,0 +1,58 @@
+{
+  "ep": 75,
+  "title": "A blank tablet at Qingyun; the Wordless Jade Wall",
+  "summary": "Qingyun holds rites for the disciples who died in the war. Dao Xuan, out of seclusion but not yet healed, places a blank spirit tablet in the Ancestral Hall for an unnamed senior, and insists on it when the elders call it improper. At Tian Yin Temple, Pu Hong warns Gui Li that years of carrying the Sinister Bead have filled him with a backlash that now threatens his life, and offers a way to save him. He takes Gui Li into Mount Sumeru to the Wordless Jade Wall, where Tian Yin's founder, then a wandering monk, sat for three days and nights and understood the Great Brahma Prajna. Gui Li sits beneath the wall while the monks form a Vajra formation around it, saying he still owes Pu Zhi a debt and will try. On Great Bamboo Peak Su Ru has made a new set of clothes for Lao Qi every year for ten years, and Tian Buyi tells her Dao Xuan has grown short-tempered since the war, even scolding Shui Yue; he fears the Zhu Xian Sword's evil aura has got into him. After three days and nights the bead's hostility still fights back, and Pu Hong and his junior debate whether saving Gui Li only helps a future tyrant. A golden light breaks out, someone recalls a prophecy last seen when Qingye came out of seclusion, and Gui Li senses scripture coming from the wall.",
+  "events": [
+    "Qingyun mourns its dead; Dao Xuan sets a blank spirit tablet in the Ancestral Hall over the elders' objections",
+    "Pu Hong offers to save Gui Li from the Sinister Bead's backlash",
+    "The story of the Wordless Jade Wall and the Great Brahma Prajna",
+    "Gui Li sits under the wall inside the monks' Vajra formation",
+    "Su Ru keeps sewing clothes for Lao Qi; Tian Buyi worries about Dao Xuan's temper",
+    "After three days the hostility still resists; the monks argue about saving him",
+    "A golden light and scripture rise from the Wordless Jade Wall"
+  ],
+  "introduced": [
+    "Wordless Jade Wall (Tian Yin Temple's treasure, Mount Sumeru)",
+    "Mount Sumeru",
+    "Vajra formation (Tian Yin)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "dao-xuan",
+      "name": "Dao Xuan"
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "pu-hong",
+      "name": "Pu Hong"
+    },
+    {
+      "id": "fa-xiang",
+      "name": "Fa Xiang"
+    },
+    {
+      "id": "tian-buyi",
+      "name": "Tian Buyi"
+    },
+    {
+      "id": "su-ru",
+      "name": "Su Ru"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-55 s: the rites and 'majestic green clouds... heroes through the ages' are Qingyun's memorial; officiant not named.",
+    "101-156 s: Dao Xuan's blank tablet is 'the spirit seat of the senior'; not named, almost certainly Wan Jianyi. Objectors ('This move by the head brother is inappropriate') not named.",
+    "168-192 s: 'Could it be in this valley... It's Donor Zhang. Come with us' - Gui Li is fetched from a valley, apparently after leaving the temple; the finder is not named (probably Fa Xiang).",
+    "299-315 s: Gui Li's reason - 'Teacher's kindness has not been repaid, life debt outstanding' read as his debt to Pu Zhi.",
+    "432-434 s: 'King Kong Glaring', 'Boundless Avatar': technique names.",
+    "586-716 s: the elder doubting the rescue is Pu Hong's junior brother, not named (perhaps Pu Fang).",
+    "795-798 s: 'He even disregarded the life of his master' unclear.",
+    "852-879 s: 'After thousands of years... this prophecy will come true... the last time this happened was when Aoba (Qingye) came out of seclusion' - speaker and place not stated."
+  ]
+}

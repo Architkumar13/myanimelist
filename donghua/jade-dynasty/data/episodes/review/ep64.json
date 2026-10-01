@@ -1,0 +1,63 @@
+{
+  "ep": 64,
+  "title": "Fei Yi burns in the Red Sea Forest",
+  "summary": "Inside the Ghost King Sect master's barrier, Gui Li fights through corpse-puppet doubles and a bone bell while the master tries to take his body and cultivation. Gui Li baits him with his own blood essence, and the master calls the fight a draw, unable to read how strong Gui Li really is. Xiao Yicai, Zeng Shushu, Lu Xueqi, Li Xun and the Tian Yin monks find Fei Yi, an ancient insect demon king that can split into a swarm, and it escapes them. They lure it into the Red Sea Forest, turn the forest into a fire-gathering formation around the Suixin Tree and burn it with Fen Xiang fire. Fei Yi survives by splitting into four insects of earth, water, fire and wind, but the disciples split into four groups and destroy them together. The master tells Gui Li of Huanyue Cave on Qingyun Mountain, where Qingyunzi meditated and the Zhu Xian Sword came from, and Gui Li decides to go there.",
+  "events": [
+    "Gui Li breaks the master's corpse-puppet doubles and bone bell inside the barrier",
+    "Gui Li baits the master with his own blood essence; they call a draw",
+    "The disciples fight Fei Yi; it escapes as an insect swarm",
+    "Fei Yi is trapped in a fire formation in the Red Sea Forest",
+    "Fei Yi splits into four elemental insects; the disciples split into four groups and destroy them",
+    "The master says the righteous sects' chances rest on the Zhu Xian Sword Formation",
+    "Gui Li resolves to go to Huanyue Cave"
+  ],
+  "introduced": [
+    "Red Sea Forest",
+    "Suixin Tree",
+    "Huanyue Cave (Shrine of Ancestors)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": null,
+      "name": "Ghost King Sect master at Heyang City"
+    },
+    {
+      "id": "fei-yi",
+      "name": "Fei Yi",
+      "quote": "(Fei Yi) Itu adalah Raja Siluman, Fei Yi?",
+      "first": true,
+      "card": 417.5
+    },
+    {
+      "id": "xiao-yicai",
+      "name": "Xiao Yicai"
+    },
+    {
+      "id": "zeng-shushu",
+      "name": "Zeng Shushu"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "li-xun",
+      "name": "Li Xun"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The master is still unnamed. At 1007 s someone says 'the Sect Master foresees everything' and that Gui Li takes the risk knowingly, so the master works with the Ghost King.",
+    "553-627 s: an unattributed talk about the odds ('70 percent' for the beasts, nine demon kings left, their leader at the Tongtian level, Qingyun's hidden strength). Probably the master talking with Gui Li; summary keeps one line of it in events.",
+    "613 s: 'dasar kultivasi pemimpin mereka sudah mencapai Tongtian' is about the beast leader, not a confirmed realm for anyone named.",
+    "Li Xun is placed by 'Kak Li, cepat kembali!' (801 s); Tian Yin monks are present ('Amitabha', 'Raungan Singa Sekte Buddha') but not named.",
+    "389 s: the master is asked why he came to 'Gunung Qingyun', so Heyang City lies near Qingyun.",
+    "1026-1059 s: who tells Gui Li about Huanyue Cave is not named; read as the same master, who wants Gui Li to go there ('he knows I have another aim yet takes the risk')."
+  ]
+}

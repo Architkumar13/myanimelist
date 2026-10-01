@@ -1,0 +1,36 @@
+{
+  "ep": 32,
+  "title": "Qin Wuyan and the giant ants",
+  "summary": "Zhou Yixian and Xiao Huan travel on, bickering about money, while Ye Gou Daoren follows them; Xiao Huan is not worried because sister Ping'er gave her a weapon. At night in Fa Xiang's barrier, Lin Jingyu tells Fa Xiang that for ten years he has seen his village's massacre whenever he closes his eyes. Though Zhang Xiaofan is now the feared Vice Master of the Ghost King Sect, Lin Jingyu says he will always count him as his only friend, even if they must fight. Li Xun joins them, pursued by giant ants, and the group of Fa Xiang, Lin Jingyu, Zeng Shushu and Li Xun faces Qin Wuyan, who controls the ants. Fa Xiang urges Qin Wuyan to turn back from the wrong path, and Qin Wuyan asks why the righteous path is the only right one. Outmatched four against one, Qin Wuyan breaks off and flees, swearing to repay Gui Li for an attack, and Li Xun is left poisoned by the ants.",
+  "events": [
+    "Zhou Yixian and Xiao Huan travel, followed by Ye Gou Daoren",
+    "Fa Xiang raises a barrier against the swamp's insects",
+    "Lin Jingyu tells Fa Xiang that Zhang Xiaofan is still his friend",
+    "The group finds signs of a fight and Tian Yin Temple's Buddhist roar",
+    "Li Xun arrives chased by giant ants",
+    "Fa Xiang, Lin Jingyu, Zeng Shushu and Li Xun fight Qin Wuyan",
+    "Qin Wuyan flees, vowing revenge on Gui Li; Li Xun is poisoned"
+  ],
+  "introduced": [],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhou-yixian", "name": "Zhou Yixian"},
+    {"id": "xiao-huan", "name": "Xiao Huan"},
+    {"id": "ye-gou-daoren", "name": "Ye Gou Daoren"},
+    {"id": "fa-xiang", "name": "Fa Xiang"},
+    {"id": "lin-jingyu", "name": "Lin Jingyu"},
+    {"id": "zeng-shushu", "name": "Zeng Shushu"},
+    {"id": "li-xun", "name": "Li Xun"},
+    {"id": "qin-wuyan", "name": "Qin Wuyan"},
+    {"id": "zhang-xiaofan", "name": "Gui Li"}
+  ],
+  "changes": [],
+  "flags": [
+    "No name cards in this episode's subtitles.",
+    "854-866 s: 'That's the dagger, Penghapus Kerinduan (Longing-Eraser)! What a pity' followed by a love poem; whose dagger it is is unclear. Left out of the summary.",
+    "1005 s 'Gui Li, I'll pay you back for your attack!' is read as Qin Wuyan fleeing; whether Gui Li actually appears here is unclear. 1021 s 'Is that him?' 'Yes.' unclear.",
+    "977.4 s 'Senior Senin' is garbled (probably 'Senior Zeng' or 'Senior Li').",
+    "Whether Gui Li is on screen at all this episode is uncertain; he is listed in cast only as the target of Qin Wuyan's vow."
+  ]
+}

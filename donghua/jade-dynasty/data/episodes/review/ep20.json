@@ -1,0 +1,97 @@
+{
+  "ep": 20,
+  "title": "The Kui Ox wakes on Liubo Mountain",
+  "summary": "Mr. Ghost of the Ghost King Sect performs a blood ritual, offering souls and flesh so the coming beast's thunder can be resisted. Tian Buyi and Cang Song lead the attack but walk into a trap: Baiduzi of the Ten Thousand Poisons Sect fills the valley with poison gas, and You Ji, Elder Duanmu, Nian Laoda and Qing Long surround them. In the battle Lin Jingyu fights with the Dragon-Slaying Sword, which startles the demon he faces, and an old enemy of Cang Song comes for revenge. Tian Buyi sees an evil omen over the sea and sends Zhang Xiaofan and the young disciples to look. Their weapons are held by a formation, so Xiaofan, whose stick still works, stays behind to fight, and Lu Xueqi helps him. At the shore the Ghost King binds the newborn Kui Ox with the Dragon-Trapping Que. He tells Xiaofan that if the Kui breaks free its thunder will kill everyone on Liubo Mountain, and asks whether that would make Xiaofan righteous or evil. Xiaofan decides to break the formation anyway.",
+  "events": [
+    "Mr. Ghost performs a soul-offering ritual",
+    "Tian Buyi and Cang Song are ambushed with poison gas by Baiduzi; You Ji, Elder Duanmu, Nian Laoda and Qing Long close in",
+    "Lin Jingyu fights with the Dragon-Slaying Sword; an old enemy attacks Cang Song",
+    "Tian Buyi sends Xiaofan and the disciples to the sea; a formation holds their weapons and Xiaofan stays behind",
+    "Lu Xueqi helps Xiaofan; he thanks her for saving him in the Abyss of the Dead",
+    "The Ghost King's followers retreat to the sea; the Kui Ox is born",
+    "The Ghost King binds the Kui with the Dragon-Trapping Que and fights Xiaofan",
+    "Xiaofan resolves to break the formation"
+  ],
+  "introduced": [
+    "Mr. Ghost (Ghost King Sect)",
+    "Qing Long (Ghost King Sect)",
+    "Kui Ox (the divine beast of Liubo Mountain, first seen)",
+    "Dragon-Trapping Que (the Ghost King's binding artefact)",
+    "Dragon-Slaying Sword (named; Lin Jingyu's sword)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "mr-ghost",
+      "name": "Mr. Ghost",
+      "quote": "(Master Ghost, Mr. Gui)",
+      "first": true,
+      "card": 118.6
+    },
+    {
+      "id": "tian-buyi",
+      "name": "Tian Buyi"
+    },
+    {
+      "id": "cang-song",
+      "name": "Cang Song"
+    },
+    {
+      "id": "baiduzi",
+      "name": "Baiduzi",
+      "quote": "(Wandu Sect, Baiduzi)",
+      "card": 201.1
+    },
+    {
+      "id": "you-ji",
+      "name": "You Ji",
+      "quote": "(Ghost Master, You Ji, Wandu Sect, Elder Duanmu)",
+      "card": 223.0
+    },
+    {
+      "id": "elder-duanmu",
+      "name": "Elder Duanmu",
+      "quote": "(Ghost Master, You Ji, Wandu Sect, Elder Duanmu)",
+      "card": 223.0
+    },
+    {
+      "id": "nian-laoda",
+      "name": "Nian Laoda",
+      "quote": "(Nian Laoda, Qing Long)",
+      "card": 224.2
+    },
+    {
+      "id": "qing-long",
+      "name": "Qing Long",
+      "quote": "(Nian Laoda, Qing Long)",
+      "first": true,
+      "card": 224.2
+    },
+    {
+      "id": "lin-jingyu",
+      "name": "Lin Jingyu"
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Zhang Xiaofan"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "ghost-king",
+      "name": "Ghost King"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Episode split: the first ~100 s of this file (5-11 s thunder-sword incantation, 78 s 'Chase after him!') most likely end EP19's Master Xixue fight; the summary starts at 104.8 s (Mr. Gui's ritual). See EP19 flags.",
+    "118.6 s and 223.0 s cards: 'Master Ghost' / 'Ghost Master' looks like the faction label (Ghost King Sect), so the cards read [Mr. Gui, Ghost King Sect], [You Ji, Ghost King Sect], [Elder Duanmu, Ten Thousand Poisons Sect]. In dialogue 'Ghost Master' (655 s) is the Ghost King himself.",
+    "Baiduzi was carded in EP18 as 'Hundred Poison of Wandu Sect'; Elder Duanmu was carded in EP18; Nian Laoda and You Ji ('Aunt You') appeared in EP10. Qing Long has no earlier mention in the English track, so first: true.",
+    "112 s 'we're sacrificing for Cangdi': unclear who or what Cangdi is.",
+    "265-267 s 'Zhang Xiaofan. For Bi Yao's sake, leave this place': speaker not identified (a Ghost King Sect member).",
+    "326-381 s: who recognises Lin Jingyu's Dragon-Slaying Sword, and who tells Cang Song 'You injured me with your sword back then', is not named."
+  ]
+}

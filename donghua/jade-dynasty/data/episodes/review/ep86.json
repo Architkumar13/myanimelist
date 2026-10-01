@@ -1,0 +1,50 @@
+{
+  "ep": 86,
+  "title": "Su Ru storms Tongtian Peak",
+  "summary": "The Ghost King hears of Bai Hu's death, and Gui Li is dismissed as a mere boy: in forty-nine days the Dragon-Subduing Cauldron will finish gathering the four spirits and give him the power of the Ming King. The two surviving Saint Beast envoys mourn their fallen brothers and cling to the hope that Bi Yao may still wake. Gui Li kneels at his parents' graves in Grass Temple Village and promises he will not stand by this time. On Small Bamboo Peak, Lu Xueqi has shut herself away since coming home. She tells Wen Min she does not want an immortality without love, and is content to keep one person in her heart knowing she is in his. When Tian Buyi does not come back from Tongtian Peak, Su Ru unseals her sword Moxue and storms the Yuqing Hall, facing down Elders Fan and Yang and Xiao Yicai until Shui Yue arrives. They find the Ancestral Hall wrecked and Lin Jingyu badly hurt but alive, and both Dao Xuan and Tian Buyi gone. Xiao Yicai orders a quiet search, and Su Ru leaves to find her husband herself. Meanwhile Zhou Yixian leads Xiao Huan and Ye Gou Daoren into an old hall of repose, where a man in Qingyun robes vows that anyone who opposes him must die. He is unimpressed by their ghost-moving spell and says such tricks will not save the three of them.",
+  "events": [
+    "The Ghost King counts down forty-nine days to finishing the Four Spirits formation",
+    "The two surviving envoys mourn their dead and hope for Bi Yao",
+    "Gui Li visits his parents' graves at Grass Temple Village",
+    "Lu Xueqi tells Wen Min she will not give up the man in her heart",
+    "Su Ru draws Moxue and storms Tongtian Peak looking for Tian Buyi",
+    "The Ancestral Hall is found wrecked: Lin Jingyu is wounded, Dao Xuan and Tian Buyi are missing",
+    "Zhou Yixian's group meets a deadly man in Qingyun robes in a hall of repose"
+  ],
+  "introduced": [
+    "Dragon-Subduing Cauldron (Wadah Penakluk Naga)",
+    "Ming King (the power the Ghost King seeks)",
+    "Moxue (Su Ru's sealed sword)",
+    "Elder Yang (Tongtian Peak)",
+    "Yuqing Hall"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "ghost-king", "name": "Ghost King"},
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "wen-min", "name": "Wen Min"},
+    {"id": "su-ru", "name": "Su Ru", "look": "wields Moxue"},
+    {"id": "elder-fan", "name": "Elder Fan", "quote": "(Puncak Tongtian, Tetua Fan, Tetua Yang)", "card": 507.3},
+    {"id": "elder-yang", "name": "Elder Yang", "quote": "(Puncak Tongtian, Tetua Fan, Tetua Yang)", "card": 507.3},
+    {"id": "xiao-yicai", "name": "Xiao Yicai"},
+    {"id": "shui-yue", "name": "Shui Yue"},
+    {"id": "lin-jingyu", "name": "Lin Jingyu", "look": "badly wounded"},
+    {"id": "zhou-yixian", "name": "Zhou Yixian"},
+    {"id": "xiao-huan", "name": "Xiao Huan"},
+    {"id": "ye-gou-daoren", "name": "Ye Gou Daoren"}
+  ],
+  "changes": [
+    "Dao Xuan and Tian Buyi are both missing after the Ancestral Hall is wrecked (690-760 s)."
+  ],
+  "flags": [
+    "10.9 s: 'Ketua Sekte, Baihu...' - a report, taken to mean Bai Hu has died (Gui Li killed the envoy at the end of EP85).",
+    "51-110 s: the two envoys are not named ('Eldest Brother is gone, Second Brother too, only the two of us remain'). They are probably among Qing Long, Xuan Wu and You Ji; they call Bi Yao 'Yao'er'.",
+    "120 s: caption '(Para Warga Desa Caomiao)' marks the graves as those of the Grass Temple villagers.",
+    "165-354 s: Lu Xueqi's 'Kakak Seperguruan' is taken as Wen Min; not named here.",
+    "806-904 s: the man in Qingyun robes at the hall of repose is not named; most likely the missing Dao Xuan. Zhou Yixian prays to the ancestors because 'both sides are Qingyun descendants'.",
+    "881-884 s: the Five Ghost Spirits spell is cast (by Xiao Huan or Zhou Yixian; the man then says the trick won't save 'the three of you').",
+    "918 s: 'Still not coming back?' ends the episode; speaker unclear."
+  ]
+}

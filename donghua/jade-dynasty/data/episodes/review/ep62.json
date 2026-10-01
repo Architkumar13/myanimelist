@@ -1,0 +1,41 @@
+{
+  "ep": 62,
+  "title": "Xueqi defies her master as Luoshen Gate falters",
+  "summary": "In Yuqing Hall the righteous leaders learn that almost every great name of the Demon Sect died at Snake Poison Valley, and that Lu Xueqi is drained after fighting the Evil Dragon and rushing to the valley. Zeng Shushu and Lin Jingyu are sent with elite disciples to reinforce Luoshen Gate. Gui Li wakes up, rescued by You Ji, who tells him the Sinister Bead's demonic power has reached his heart meridian and that he must find a place strong in Yang and use the Mystic Fire Mirror if he wants to live. He agrees to stay behind and look in on the sleeping Bi Yao every month after the sect moves to a temple in the wilds. Shui Yue confronts Xueqi about Gui Li, whom she names as Zhang Xiaofan. Xueqi swears she will try to kill him with Tianya if they meet, but says she cannot cut the bond, and Shui Yue disowns her. At Luoshen Gate, Lin Jingyu's reinforcements and the Tian Yin monks are nearly overwhelmed by the White Bone Snake Demon and the Shura Bird until the Qingyun elders arrive and cover the retreat to Qingyun.",
+  "events": [
+    "A demon taunts a Qingyun disciple before Qingyun's swords strike",
+    "Yuqing Hall hears the Demon Sect was nearly wiped out; Shushu and Jingyu are sent to Luoshen Gate",
+    "You Ji tells Gui Li the Sinister Bead is eating at his heart meridian",
+    "Gui Li agrees to stay and watch over Bi Yao after the sect relocates",
+    "Shui Yue confronts Xueqi; Xueqi will not give up her love and is disowned",
+    "Gui Li leaves with Xiao Hui as Luoshen Gate comes under attack",
+    "The White Bone Snake Demon and the Shura Bird break the defence; the elders cover the retreat"
+  ],
+  "introduced": [
+    "White Bone Snake Demon",
+    "Shura Bird"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": "you-ji", "name": "You Ji", "look": "Gui Li calls her 'Aunt You' as Bi Yao did"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "shui-yue", "name": "Shui Yue"},
+    {"id": "zeng-shushu", "name": "Zeng Shushu"},
+    {"id": "lin-jingyu", "name": "Lin Jingyu"},
+    {"id": "xiao-hui", "name": "Xiao Hui"},
+    {"id": "tian-buyi", "name": "Tian Buyi"},
+    {"id": "su-ru", "name": "Su Ru"},
+    {"id": "white-bone-snake-demon", "name": "White Bone Snake Demon", "quote": "(Siluman Ular Tulang Putih, Burung Shura)", "first": true, "card": 887.0},
+    {"id": "shura-bird", "name": "Shura Bird", "quote": "(Siluman Ular Tulang Putih, Burung Shura)", "first": true, "card": 887.0}
+  ],
+  "changes": [],
+  "flags": [
+    "160-218 s: the opening demon ('Roh Jahat') and the Qingyun disciples are not named; it may be a flashback or a separate skirmish.",
+    "304-315 s: Gui Li's rescuer is not named in that scene; read as You Ji, who speaks to him later (704 s).",
+    "442-476 s: 'Aku telah memerintahkan relokasi klan ke hutan belantara': speaker unnamed, probably the Ghost King (alive after EP60). Gui Li offers to stay. EP63 confirms Bi Yao is kept on Huqi Mountain and the sect is at a temple in the wilds.",
+    "495-503 s: 'Even San Miao died. I worry about Xiaofan... his body has not been found': speakers unnamed, read as Tian Buyi and Su Ru.",
+    "887.0 s: one card names two beasts. The Tian Yin monk's vow at 807 s and the 'Seven Stars' and 'one dharma into 3,000' spells at 817-831 s are unattributed."
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "ep": 70,
+  "title": "Dao Xuan against the Beast Deity; Lu Xueqi shields Gui Li",
+  "summary": "Gui Li reaches Tongtian Peak, the heart of the Sword Formation that Wan Jianyi told him about. Dao Xuan, with the Tianji Seal open, fights the Beast Deity at the formation's full power, and the Beast Deity says he has finally found an opponent worth fighting. In the Yuqing Hall it is explained that the seal's power is endless but it eats the wielder's life. Dao Xuan wounds the Beast Deity badly and seals the sword's evil aura with his own sword intent, but his life energy runs out and the Beast Deity claims victory. Gui Li puts his grudge with Dao Xuan aside and attacks the Beast Deity, who turns to destroy the Zhu Xian Sword. When Qingyun disciples turn on Gui Li, Lu Xueqi stands in their way and tells him to leave and never come back, and a senior asks whether she means to betray the sect. Qingyun people head into the Huanyue forbidden ground to find the ancient sword, and Great Bamboo Peak's people catch up with Gui Li and recognise him as their seventh disciple.",
+  "events": [
+    "Gui Li arrives at Tongtian Peak, the heart of the formation",
+    "Dao Xuan fights the Beast Deity with the full Zhu Xian Sword Formation",
+    "In the Yuqing Hall: the Tianji Seal drains the sword-holder's life",
+    "Dao Xuan seals the evil aura and wounds the Beast Deity, then runs out of strength",
+    "Gui Li sets aside his grudge and attacks the Beast Deity, who goes after the Zhu Xian Sword",
+    "Lu Xueqi shields Gui Li from Qingyun disciples and tells him to leave",
+    "Qingyun people enter the Huanyue forbidden ground to find the sword; Great Bamboo Peak finds their seventh disciple"
+  ],
+  "introduced": [
+    "Heavenly Demon Swallowing the Sun (technique)"
+  ],
+  "cultivation": "The Beast Deity says Dao Xuan seems to have the best cultivation foundation in the world.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "dao-xuan",
+      "name": "Dao Xuan"
+    },
+    {
+      "id": "beast-deity",
+      "name": "Beast Deity"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "tian-buyi",
+      "name": "Tian Buyi",
+      "look": "probably the one who says 'Seventh disciple?'"
+    }
+  ],
+  "changes": [
+    "No older summary to correct."
+  ],
+  "flags": [
+    "199 s: 'Iblis Langit Menelan Matahari' (Heavenly Demon Swallowing the Sun): user not clear, probably the Beast Deity.",
+    "315-329 s: in the Yuqing Hall 'Stop. What do you want to do? ... Could it be, I...' speakers unclear.",
+    "505-509 s: thought 'the grudge between you and me I'll settle another day; today I swear to stop the demons' read as Gui Li about Dao Xuan.",
+    "632-638 s: 'You? It really is you. You're still alive?' speaker unclear (Lu Xueqi or a Qingyun disciple seeing Gui Li).",
+    "718-724 s: someone leads others into the Huanyue forbidden ground to find the 'Ancient Sword' and will ask the sect leader for punishment afterwards; speaker not named.",
+    "816-835 s: 'Gui Li, what else do you want? ... Because of you even they are hostile to me ... the people from Qianshan will come soon, leave now': speaker unclear (possibly Lu Xueqi); 'Qianshan' is unexplained, maybe a slip for Qingyun.",
+    "839 s: 'Murid Ketujuh?' (seventh disciple) = Zhang Xiaofan, Tian Buyi's seventh disciple."
+  ]
+}

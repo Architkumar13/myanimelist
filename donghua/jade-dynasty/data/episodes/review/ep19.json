@@ -1,0 +1,40 @@
+{
+  "ep": 19,
+  "title": "The Ghost King's offer and Master Xixue",
+  "summary": "On Liubo Mountain the Ghost King greets Zhang Xiaofan as an old acquaintance: he was the tea-stall owner Wan Renwang who approached Xiaofan after Kongsang Mountain. Bi Yao fights Tian Ling'er, then the Ghost King lets the Qingyun disciples go for his daughter's sake, because Xiaofan went through the Abyss of the Dead with her and got her to forgive her father. He invites Xiaofan to join his sect and marry Bi Yao, and Xiaofan says he would rather die. Xiao Yicai reports that the Demon Sect is gathering on Liubo Mountain to hunt the Kui Ox; Cang Song wants to strike at once, Tian Buyi agrees that Great Bamboo Peak never backs down, and the Tian Yin Temple monks join in. In private Xiao Yicai tells Tian Buyi that Xiaofan knows Bi Yao and the Ghost King and asks him to keep it from Cang Song, and Su Ru tells her husband he cares more about Xiaofan than he admits. That night Master Xixue of the Ten Thousand Poisons Sect attacks Xiaofan to avenge his disciple Jiang Laosan, recognises the power of Xiaofan's stick, and nearly kills him before Tian Buyi steps in.",
+  "events": [
+    "The Ghost King reveals he was Wan Renwang from the tea stall",
+    "Bi Yao fights Tian Ling'er; the Ghost King lets the disciples go and asks Xiaofan to join him",
+    "Xiaofan refuses: he would rather die than join the Demon Sect",
+    "Xiao Yicai reports the Demon Sect gathering at Liubo Mountain for the Kui Ox; Qingyun and Tian Yin Temple agree to attack in the morning",
+    "Xiao Yicai privately tells Tian Buyi about Xiaofan and Bi Yao and asks him to keep it from Cang Song",
+    "Su Ru and Tian Buyi talk about Xiaofan",
+    "Master Xixue attacks Xiaofan over Jiang Laosan's death; Tian Buyi arrives and confronts him"
+  ],
+  "introduced": [
+    "Master Xixue (Ten Thousand Poisons Sect; Jiang Laosan's master)",
+    "Five Ghost Spirits (Master Xixue's spell)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan"},
+    {"id": "ghost-king", "name": "Ghost King", "look": "revealed as the tea-stall owner 'Wan Renwang'"},
+    {"id": "bi-yao", "name": "Bi Yao"},
+    {"id": "tian-linger", "name": "Tian Ling'er"},
+    {"id": "xiao-yicai", "name": "Xiao Yicai"},
+    {"id": "tian-buyi", "name": "Tian Buyi"},
+    {"id": "su-ru", "name": "Su Ru"},
+    {"id": "cang-song", "name": "Cang Song"},
+    {"id": "master-xixue", "name": "Master Xixue", "quote": "(Wandu Sect, Master Xixue)", "first": true, "card": 443.4}
+  ],
+  "changes": [],
+  "flags": [
+    "Episode split: the EP19 file ends at 627 s in the middle of the Tian Buyi / Master Xixue confrontation, and the EP20 file opens (5-11 s) with a Divine Sword thunder incantation and 'Chase after him!' (78 s), which closes that fight. Season 1 episodes run about 14-16 min; this file has only ~10.5 min of dialogue. The other episode joins in the s1-16-20 compilation sit at ~20 s gaps, and the gap at EP20-file 78->104 s (26 s) fits that pattern. EP20 most likely starts at EP20-file 104.8 s ('The people are all cursed', Mr. Gui's ritual); the first ~100 s of the EP20 file belong to EP19.",
+    "Since the end of the fight is in the EP20 file, the summary stops at Tian Buyi stepping in. Who casts the thunder incantation (EP20 file 5 s) is not said; probably Tian Buyi.",
+    "624-627 s: 'Well done. You're more useful than I thought... killed the devil for everyone' is probably Tian Buyi to Xiaofan (about Jiang Laosan); speaker not stated.",
+    "605 s 'Red Frame!' is unclear (maybe the name of Tian Buyi's sword or a move).",
+    "Ghost King's daughter is called 'Yao' by him (119-138 s). 'Siling Abyss' = Abyss of the Dead. 'Wandu Sect' = Ten Thousand Poisons Sect. 'Duel of the Seven Ranges' = Seven Meridians Tournament.",
+    "200 s 'Tian, are you afraid?' and 232 s 'You don't look like a master at all': speaker not named; read as Cang Song taunting Tian Buyi."
+  ]
+}

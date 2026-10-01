@@ -1,0 +1,114 @@
+{
+  "ep": 21,
+  "title": "The Sinister Bead and the Great Brahma Prajna exposed",
+  "summary": "Zhang Xiaofan breaks the Ghost King's formation at the sea, and the Ghost King's followers say the chance to take the Kui Ox is lost. In the fight the Sinister Bead on Xiaofan's stick is recognised as the Black-Hearted Old Man's treasure, and Xiaofan uses the Great Brahma Prajna, Tian Yin Temple's secret skill, in front of everyone. The Ghost King still swears to subdue the beast even at the cost of his life, while Bi Yao tries to reach Xiaofan and has to be held back. Afterwards Cang Song demands Xiaofan's death for colluding with the Demon Sect, Tian Buyi refuses to hand him over, and Tian Yin Temple's Fa Xiang and Fa Shan leave to report to their abbot. Xiaofan wakes after three days in an inn at Changhe near the East Sea; Lin Jingyu says he trusts him, but Dragon Head Peak disciples take Xiaofan away for questioning on Cang Song's order. Bi Yao wants to go to him, but You Ji stops her. The leaders of the four demon sects, including the Poison God, San Miao and Yu Yangzi, meet for the first time in a hundred years and swear to rise again.",
+  "events": [
+    "Xiaofan breaks the formation; the Ghost King's side says the chance is lost",
+    "The Sinister Bead is recognised as the Black-Hearted Old Man's; Xiaofan uses the Great Brahma Prajna",
+    "The Ghost King vows to subdue the beast even at the cost of his life; Bi Yao tries to reach Xiaofan",
+    "Cang Song demands Xiaofan's death; Tian Buyi refuses; Fa Xiang and Fa Shan return to Tian Yin Temple to report",
+    "Xiaofan wakes at an inn in Changhe; Lin Jingyu says he trusts him; Dragon Head Peak disciples take him away",
+    "Zhou Yixian tells Xiao Huan about the Full Moon Ancient Well",
+    "Xiaofan, locked in a room, talks to Xiao Hui; You Ji stops Bi Yao from going to him",
+    "The four demon sects gather: the Poison God, San Miao and Yu Yangzi"
+  ],
+  "introduced": [
+    "Poison God (master of the Ten Thousand Poisons Sect)",
+    "San Miao (He Huan Sect)",
+    "Yu Yangzi (master of the Longevity Hall)",
+    "Full Moon Ancient Well (shows the person you love most at full moon)",
+    "Wisdom King and Holy Mother (the Demon Sect's revered deities)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Zhang Xiaofan"
+    },
+    {
+      "id": "ghost-king",
+      "name": "Ghost King"
+    },
+    {
+      "id": "bi-yao",
+      "name": "Bi Yao"
+    },
+    {
+      "id": "cang-song",
+      "name": "Cang Song"
+    },
+    {
+      "id": "tian-buyi",
+      "name": "Tian Buyi"
+    },
+    {
+      "id": "fa-xiang",
+      "name": "Fa Xiang"
+    },
+    {
+      "id": "fa-shan",
+      "name": "Fa Shan"
+    },
+    {
+      "id": "lin-jingyu",
+      "name": "Lin Jingyu"
+    },
+    {
+      "id": "song-daren",
+      "name": "Song Daren"
+    },
+    {
+      "id": "tian-linger",
+      "name": "Tian Ling'er"
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui"
+    },
+    {
+      "id": "zhou-yixian",
+      "name": "Zhou Yixian"
+    },
+    {
+      "id": "xiao-huan",
+      "name": "Xiao Huan"
+    },
+    {
+      "id": "you-ji",
+      "name": "You Ji"
+    },
+    {
+      "id": "god-of-poison",
+      "name": "Poison God",
+      "quote": "(God of Poison, Wandu Sect)",
+      "first": true,
+      "card": 809.6
+    },
+    {
+      "id": "san-miao",
+      "name": "San Miao",
+      "quote": "(Fairy Sanmiao, Hehuan Sect)",
+      "first": true,
+      "card": 833.2
+    },
+    {
+      "id": "yu-yangzi",
+      "name": "Yu Yangzi",
+      "quote": "(Sect Yuyangzi, Changsheng)",
+      "first": true,
+      "card": 865.8
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Subs call the bead the 'Blood-Striking Bead' and the founder 'Black Heart Elder': mapped to Sinister Bead and Black-Hearted Old Man. 'Brahman Prajna' = Great Brahma Prajna.",
+    "Large parts of the sea battle are wordless (70-110 s, 308-397 s): what exactly happens to the Kui Ox, and why Bi Yao is held back ('Bi Yao, don't go there!' 294 s, 'Witch!' 307 s), is not clear from the dialogue.",
+    "264 s 'In the entire Qingyun Sect, I'm only afraid of Wan Jianyi': a Demon Sect fighter, unnamed.",
+    "488-495 s: 'I'm the elder in charge. This item should be kept by me' is probably Cang Song taking Xiaofan's stick; the item is not named.",
+    "501-518 s 'Will you admit defeat?' looks like a childhood flashback/dream while Xiaofan is unconscious (the same scene recurs in EP25).",
+    "571-597 s: who objects to the arrest is not named; 'Tian. Let's go.' suggests Tian Ling'er.",
+    "833-842 s: San Miao addresses 'Master Ghost' = the Ghost King. 'Changsheng' sect = Longevity Hall. 'Hehuan Sect' = He Huan Sect.",
+    "Tian Ling'er and Song Daren listed from forms of address ('Tian', 'Song, lock the door'), not cards."
+  ]
+}

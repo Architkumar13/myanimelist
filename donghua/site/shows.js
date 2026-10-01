@@ -56,4 +56,15 @@ window.SHOWS = [
       "--cinnabar": "#b33a34", "--cinnabar-ink": "#f6efe2", "--star": "#a8cdec",
     },
   },
+  {
+    id: "jd", dir: "jade-dynasty",
+    title: "Jade Dynasty", zh: "诛仙", mark: "诛仙", glyph: "诛",
+    blurb: "Zhang Xiaofan, the last boy of a murdered village, a slow learner on Great Bamboo Peak, and a cursed stick that drinks blood.",
+    hero: "img/hero/xueqi-and-gui-li.jpg",
+    theme: {
+      "--patina": "#171b26", "--patina-deep": "#10131b", "--patina-lift": "#222838", "--verdigris": "#86aede",
+      "--bone": "#ede7dc", "--bone-dim": "#b0b2bc", "--bronze": "#7fc6b5", "--bronze-bright": "#b4e4d7",
+      "--cinnabar": "#ad2e38", "--cinnabar-ink": "#f7ede6", "--star": "#cad8ef",
+    },
+  },
 ];

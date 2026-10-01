@@ -1,0 +1,61 @@
+{
+  "ep": 77,
+  "title": "Gui Li faces the heavenly tribulation alone",
+  "summary": "Heavenly punishment lightning falls on Tian Yin Temple. Pu Hong says Gui Li carries on Pu Zhi's line and the monks cannot simply stand aside, but the backlash threatens their own foundations. As Gui Li's power flows out, the monks find their wounds healed, because his Prajna shares a source with theirs. Gui Li thanks them, says heaven is ruthless and only he has anything to lose, and goes to meet the lightning alone. Pu Hong sees Buddhist light, Daoist power and demonic hostility fused in him and thinks he might survive. Nearby, Zhou Yixian and Xiao Huan feel the storm and read a hexagram that alarms them. In the Ghost King Sect the Candle Dragon appears; the Ghost King hands its capture to You Ji and his Daoist ally while his own power holds the Kui Ox and Yellow Bird in the Fulong Cauldron, and the beast fights back with a purple blade of light. On Small Bamboo Peak Lu Xueqi, still recovering from her wounds, cannot shake a sense that something has happened. The lightning strips Gui Li of all his cultivation and leaves him with only a mortal body. The monks beg him to run, but he says he has spent half his life running and will end it here, and a third tribulation gathers.",
+  "events": [
+    "The heavenly lightning tribulation strikes; Pu Hong's monks hesitate to intervene",
+    "Gui Li's power heals the monks' wounds",
+    "Gui Li chooses to face the tribulation alone",
+    "Zhou Yixian and Xiao Huan feel the storm and read an alarming hexagram",
+    "The Ghost King Sect fights to capture the Candle Dragon with the Fulong Cauldron",
+    "Lu Xueqi feels uneasy while recovering",
+    "The lightning destroys Gui Li's cultivation; he refuses to flee",
+    "A third tribulation gathers"
+  ],
+  "introduced": [],
+  "cultivation": "The lightning destroys Gui Li's whole cultivation and leaves him with only a mortal body (464-483 s).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "pu-hong",
+      "name": "Pu Hong"
+    },
+    {
+      "id": "fa-xiang",
+      "name": "Fa Xiang"
+    },
+    {
+      "id": "zhou-yixian",
+      "name": "Zhou Yixian"
+    },
+    {
+      "id": "xiao-huan",
+      "name": "Xiao Huan"
+    },
+    {
+      "id": "ghost-king",
+      "name": "Ghost King"
+    },
+    {
+      "id": "you-ji",
+      "name": "You Ji"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "37-64 s: 'This person is the descendant of Puzhi junior brother, we can't help it' and 'it will hurt the foundation, senior brother' - speakers not named (Pu Hong and his junior).",
+    "231-237 s and 711-743 s: 'old man... Grandpa, we can't take it anymore', 'Look at this hexagram' read as Zhou Yixian and Xiao Huan; where they are is not shown.",
+    "296-348 s: 'The candle dragon is handed over to You Ji and the Taoist priest. If you want to explore the secrets of this blood formation, you have to earn his trust' - read as the Ghost King; who must earn whose trust is unclear. 'You still don't recognize the current suzerain' (347 s) unclear.",
+    "432-441 s: 'What happened to Yuki? I always feel uneasy' - read as Lu Xueqi (the English track's 'Yuki') talking with someone at Small Bamboo Peak; the other speaker is not named.",
+    "251 s: 'Heavenly punishment triple' read as the tribulation coming in three strikes; 837-840 s 'Calamity, and a third' leads into EP78.",
+    "627-707 s: chanted lines ('Chapter Six and Nine... Taiyi...') read as Gui Li's Heavenly Book method."
+  ]
+}

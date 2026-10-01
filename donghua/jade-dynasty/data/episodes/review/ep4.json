@@ -1,0 +1,43 @@
+{
+  "ep": 4,
+  "title": "Xiao Hui and the visitors from Dragon Head Peak",
+  "summary": "Zhang Xiaofan wakes after heavy blood loss, and Tian Buyi scolds him and Tian Ling'er for being beaten by a wild monkey. When the monkey turns up again, Ling'er sets Dahuang on it, but Xiaofan shields it and keeps it, naming it Xiao Hui. At night he keeps practising in secret, and his Qingyun qi still clashes with the Brahma Prajna, though it is improving. On Dragon Head Peak, Cang Song gives Lin Jingyu the Dragon-Slaying Sword and teaches him a supreme Qingyun sword skill. Lin Jingyu and Qi Hao then visit Great Bamboo Peak to tell Tian Buyi and Su Ru that the Seven Meridians Tournament will grow to 64 entrants, nine from each peak. Tian Buyi mocks Cang Song but realises every Great Bamboo disciple can now enter. Xiaofan and Lin Jingyu meet for the first time in five years and fight their 99th duel. Ling'er steps in to defend Xiaofan, and Lin Jingyu turns the Dragon-Slaying Sword on her.",
+  "events": [
+    "Xiaofan wakes; Tian Buyi scolds the pair for losing to a monkey",
+    "Xiaofan saves the monkey from Dahuang and names it Xiao Hui",
+    "Xiaofan's secret practice: his qi still clashes with the Brahma Prajna",
+    "Cang Song gives Lin Jingyu the Dragon-Slaying Sword and a new sword skill",
+    "Lin Jingyu and Qi Hao bring the new tournament rules to Great Bamboo Peak",
+    "Qi Hao praises Ling'er; Xiaofan and Lin Jingyu meet again after five years",
+    "Their 99th duel; Ling'er joins in and Lin Jingyu attacks her with the Dragon-Slaying Sword"
+  ],
+  "introduced": [
+    "Xiao Hui (the grey monkey, named)",
+    "Dragon-Slaying Sword (Lin Jingyu's sword)",
+    "Seven Meridians Tournament (called the 'Duel of Seven Ranges')",
+    "Su Ru (named as 'Madam Su')"
+  ],
+  "cultivation": "Qi Hao says Tian Ling'er 'has mastered the sixth level of Qing Method of Taijixuan' (Taiji Xuanqing, sixth level). Xiaofan's inner thoughts: his qi clashes with the Brahma Prajna at the same stage each time, but he is improving.",
+  "confidence": "high",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan"},
+    {"id": "tian-linger", "name": "Tian Ling'er", "realm": "Taiji Xuanqing, sixth level", "quote": "She's mastered the sixth level of Qing Method of Taijixuan.", "t": 695.9},
+    {"id": "su-ru", "name": "Su Ru", "quote": "Madam Su.", "t": 617.1},
+    {"id": "tian-buyi", "name": "Tian Buyi"},
+    {"id": "xiao-hui", "name": "Xiao Hui", "quote": "I'll call you Xiaohui, okay?", "t": 185.6},
+    {"id": "dahuang", "name": "Dahuang"},
+    {"id": "cang-song", "name": "Cang Song"},
+    {"id": "lin-jingyu", "name": "Lin Jingyu"},
+    {"id": "qi-hao", "name": "Qi Hao"},
+    {"id": "song-daren", "name": "Song Daren"}
+  ],
+  "changes": [],
+  "flags": [
+    "No name cards; only the caption '(Shoujing Hall)' at 443.9 s and 733.8 s.",
+    "417.1-423.4 s: the skill Cang Song teaches Lin Jingyu uses the same chant ('The treasure of ninth heaven is transformed into divine thunder...') as the masked attacker's Mighty Sword of Thunder in EP1 (383.2 s). Not named here; left out of the summary.",
+    "337.9 s: the speaker giving the Dragon-Slaying Sword is addressed as 'Master' by Lin Jingyu, so Cang Song.",
+    "609.7 / 626.0 s: 'Zhang Sect' is the sect leader's own peak (the head peak, Tongtian Peak), which sends extra entrants. 64 = 7 x 9 + 1.",
+    "632.6 s 'There will be nine finalists' doesn't fit a 64-entrant knockout (EP6-8 use top 32/16/8); kept out of the summary.",
+    "781.5 s: 'The 99th duel' follows EP1's 98th."
+  ]
+}

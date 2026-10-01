@@ -1,0 +1,88 @@
+{
+  "ep": 30,
+  "title": "The end of Yu Yangzi",
+  "summary": "The righteous disciples beat the Longevity Hall at the swamp's edge; Lu Xueqi calls down divine thunder with her sword, and the Longevity Hall flees vowing revenge. Yu Yangzi, weakened after using a Blood Curse to break out, resolves to enter the swamp for the treasure, but that night Qin Wuyan and Jin Ping'er corner him. Jin Ping'er reveals that Yu Yangzi killed her disciple and blamed the Ten Thousand Poisons Sect to set them against each other. Gui Li arrives as well; Yu Yangzi's men surrender, and Yu Yangzi offers to join Gui Li, who refuses, and the old master dies. In the Qingyun camp Wen Min teases Song Daren for being naive, and Xiao Yicai sends a few strong disciples into the poisonous inner swamp. Gui Li leaves Ye Gou Daoren and Sha Sheng to watch the swamp's edge and learns that Qing Long and Zhu Que have secretly come to the Dead Swamp. Xiao Huan returns Gui Li's umbrella, and the disciples enter the poison fog.",
+  "events": [
+    "Lu Xueqi's divine thunder routs the Longevity Hall",
+    "Yu Yangzi, hurt by his Blood Curse, plans to seize the treasure",
+    "Qin Wuyan and Jin Ping'er corner Yu Yangzi and expose his plot to set them against each other",
+    "Gui Li arrives; the Longevity Hall men surrender and Yu Yangzi dies after Gui Li refuses his offer",
+    "Wen Min and Song Daren in the Qingyun camp; Xiao Yicai plans the inner-swamp search",
+    "Gui Li posts Ye Gou Daoren and Sha Sheng outside and hears Qing Long and Zhu Que are nearby",
+    "Xiao Huan returns Gui Li's umbrella",
+    "The righteous disciples enter the poison fog"
+  ],
+  "introduced": [
+    "Sha Sheng (Gui Li's subordinate)",
+    "Meng Ji (a Longevity Hall man)",
+    "Blood Curse",
+    "Holy Mother Ming Wang (deity of the Demon Sect)"
+  ],
+  "cultivation": "Yu Yangzi says his cultivation dropped sharply after using the Blood Curse.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "xiao-yicai",
+      "name": "Xiao Yicai"
+    },
+    {
+      "id": "li-xun",
+      "name": "Li Xun"
+    },
+    {
+      "id": "yu-yangzi",
+      "name": "Yu Yangzi"
+    },
+    {
+      "id": "qin-wuyan",
+      "name": "Qin Wuyan"
+    },
+    {
+      "id": "jin-pinger",
+      "name": "Jin Ping'er"
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "wen-min",
+      "name": "Wen Min"
+    },
+    {
+      "id": "song-daren",
+      "name": "Song Daren"
+    },
+    {
+      "id": "ye-gou-daoren",
+      "name": "Ye Gou Daoren"
+    },
+    {
+      "id": "sha-sheng",
+      "name": "Sha Sheng",
+      "first": true
+    },
+    {
+      "id": "xiao-huan",
+      "name": "Xiao Huan"
+    },
+    {
+      "id": "zhou-yixian",
+      "name": "Zhou Yixian"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "EP29 has no subtitles, so continuity from EP28 into this fight is not checked.",
+    "No name cards in this episode's subtitles.",
+    "335.8 s 'kelompok bandit Truth Stream' = the righteous sects.",
+    "Yu Yangzi's death (around 600-780 s) is not shown in dialogue; 777 s 'Uncle Yu Yangzi was a hero of his generation; he will rest here forever' is said over him, and Gui Li refuses his surrender at 637 s.",
+    "717.8 s 'Gutu Su' read as Su Ru (Tian Buyi's wife).",
+    "837 s: Gui Li is addressed as Vice Sect Master; the man posted with Sha Sheng is read as Ye Gou Daoren (not named).",
+    "866-876 s: a short exchange ('If you want to live, leave'/'You can't stop me') — speakers unclear."
+  ]
+}

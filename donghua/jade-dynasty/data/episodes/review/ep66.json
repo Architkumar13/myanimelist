@@ -1,0 +1,69 @@
+{
+  "ep": 66,
+  "title": "Dao Xuan's sword intent and Wan Jianyi's last sword",
+  "summary": "Gui Li pushes deeper into Qingyun's back mountain, breaking a chain of illusion formations with Taiji arts on his way towards Huanyue Cave. Ancient sword intent guarding the forbidden ground turns on him when it senses his demonic arts, and he realises Dao Xuan left it there many years ago. On the front of the mountain the righteous sects follow Dao Xuan's plan: Tian Yin Temple and Fen Xiang Valley hold the east and west, Dragon Head Peak and Wind Return Peak guard Heyang City, and the other peaks sweep up any demons that slip through. Small Bamboo Peak, with Shui Yue, Lu Xueqi and Wen Min, takes on the White Bone Snake Demon King, which is far stronger than the others, while the elders report other Demon Kings killed. The episode returns to the end of Gui Li's fight with Wan Jianyi. Wan Jianyi strikes with Slaying Demons and Gods, but Gui Li finds the blow was meant to save him: it pulls the Soul-Devouring Stick's backlash out of his body, and Wan Jianyi is left suddenly old. A man who calls Gui Li 'Vice Sect Master' hurries him away as people approach, and Gui Li wonders how he can ever repay the old man.",
+  "events": [
+    "Gui Li breaks the illusion formations in the back mountain",
+    "Sword intent left by Dao Xuan attacks Gui Li for using demonic arts",
+    "The righteous sects take up their positions under Dao Xuan's plan",
+    "Small Bamboo Peak engages the White Bone Snake Demon King",
+    "Wan Jianyi uses Slaying Demons and Gods on Gui Li",
+    "The strike draws the Soul-Devouring Stick's backlash out of Gui Li; Wan Jianyi ages",
+    "A man calling Gui Li 'Vice Sect Master' takes him away"
+  ],
+  "introduced": [
+    "White Bone Snake Demon King",
+    "illusion formations of the Qingyun forbidden ground",
+    "Dao Xuan's guardian sword intent"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "wan-jianyi",
+      "name": "Wan Jianyi",
+      "look": "suddenly aged after his last strike",
+      "quote": "May my last sword help you resist the backlash of hostility"
+    },
+    {
+      "id": "dao-xuan",
+      "name": "Dao Xuan"
+    },
+    {
+      "id": "shui-yue",
+      "name": "Shui Yue"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "wen-min",
+      "name": "Wen Min"
+    },
+    {
+      "id": null,
+      "name": "White Bone Snake Demon King",
+      "first": true,
+      "quote": "The white bone snake demon is far better than other demon kings"
+    }
+  ],
+  "changes": [
+    "EP65 has Wan Jianyi dying without showing why. This episode shows that his last strike was used to draw the stick's backlash out of Gui Li, which drained him; EP73 then has a Daoist ally of the Ghost King claim he finished Wan Jianyi off."
+  ],
+  "flags": [
+    "Overlap with EP65: EP65 already covers Gui Li reaching the forbidden ground, the fight and Lin Jingyu finding Wan Jianyi dying. EP66 plays the end of the fight again (714-932 s) with new detail; the illusion-formation part (12-197 s, 'Is this the Phantom Moon Cave Mansion?') may come after the fight or be cut in out of order.",
+    "70 s: 'The fourth brother uses hostility as the source of the formation' and 106 s 'Qinglong takes the virtual as the real': unclear. Could mean Qing Long is with Gui Li, or be technique wording.",
+    "180-184 s: 'If there is no Tai Chi Xuanjing to the realm of the Qing Dynasty... a hundred times harder' reads as Taiji Xuanqing Dao at Shangqing (Upper Purity); garbled, so not recorded as a realm.",
+    "215-221 s: 'Who is that? Demon Cult demon man, how dare you break into my Qingyun forbidden land': speaker not named (probably Wan Jianyi).",
+    "453-512 s: Small Bamboo Peak fight; 'Yuki' is the English track's name for Lu Xueqi; 'Senior sister' read as Wen Min; 'Master' as Shui Yue. 638-641 s 'How could someone kill you? Master' unclear.",
+    "678-689 s: 'The demon king has been executed... Today I, Small Bamboo Peak, will kill this demon': which Demon King fell is unclear. The White Bone Snake fight continues in EP67, so it is not counted as killed here.",
+    "714-727 s: 'Ah, Dao Xuan... why do I have to die? ... can't leave this peerless disaster behind?' read as Wan Jianyi's memory or thoughts about Dao Xuan; unclear.",
+    "855-862 s: 'Why are you so old?' (Gui Li), 'It's you' (probably Wan Jianyi, recognising someone), 'Let's go, Vice Sect Master. Somebody's coming!' (a Ghost King Sect man, not named). Possibly the same Daoist who in EP73 says he killed Wan Jianyi.",
+    "901-904 s: 'Qingyun pitiful man... With my ten thousand swords, one person is enough' read as Wan Jianyi's last words."
+  ]
+}

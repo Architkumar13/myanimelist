@@ -1,0 +1,41 @@
+{
+  "ep": 15,
+  "title": "The Three-Tailed Fox at the ancient well",
+  "summary": "Zhang Xiaofan and Shi Tou cross a misty forest, where Shi Tou shows off his Aura Breaker and says the Jingang Sect is related to Tian Yin Temple. They find a woman singing by a 3,000-year-old well: she is the Three-Tailed Fox, who prays there to cure her sick big brother. She tempts Xiaofan to look into the well, and someone steps in to stop the fight. Li Xun and Yan Hong of Fen Xiang Valley arrive and say the Six-Tailed Fox stole their Red Fire Mirror; the Three-Tailed Fox says Shangguan of Fen Xiang injured her brother. She lures them into the Black Stone Cave. Bi Yao follows Xiaofan in, and Shi Tou is glad of her help. A dragon-like beast rises from the ground, Xiaofan falls during the fight, and he steadies himself with a Buddhist chant. Below, he meets the Six-Tailed Fox.",
+  "events": [
+    "Shi Tou shows his Aura Breaker in the misty forest",
+    "The Three-Tailed Fox sings by the ancient well and tempts Xiaofan to look in",
+    "Li Xun and Yan Hong arrive hunting the fox for Fen Xiang's Red Fire Mirror",
+    "The fox lures everyone into the Black Stone Cave",
+    "Bi Yao follows Xiaofan in; a beast rises from the ground",
+    "Xiaofan falls and calms himself with a Buddhist chant",
+    "Xiaofan meets the Six-Tailed Fox"
+  ],
+  "introduced": [
+    "Aura Breaker (Shi Tou's weapon)",
+    "The 3,000-year-old ancient well (Full Moon Ancient Well)",
+    "Six-Tailed Fox",
+    "Red Fire Mirror (Fen Xiang Valley's stolen treasure)",
+    "Shangguan (a Fen Xiang elder, mentioned)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan"},
+    {"id": "shi-tou", "name": "Shi Tou"},
+    {"id": "three-tailed-fox", "name": "Three-Tailed Fox", "quote": "You're Three-Tailed Fox?", "first": true},
+    {"id": "li-xun", "name": "Li Xun"},
+    {"id": "yan-hong", "name": "Yan Hong"},
+    {"id": "bi-yao", "name": "Bi Yao"},
+    {"id": "six-tailed-fox", "name": "Six-Tailed Fox", "quote": "Six-Tailed Fox? Yes, it's me.", "first": true}
+  ],
+  "changes": [],
+  "flags": [
+    "327-331 s: 'The witch has someone helping her?' then 'Stop now! It's misunderstanding!' - who intervenes is not named; possibly Bi Yao, who is with the group by 468 s.",
+    "371 s 'five against one': the five are not listed.",
+    "404 s 'The Old Shangguan injured my brother' is probably Shangguan Ce (Fen Xiang Valley); only the surname is given.",
+    "412 s 'Red Fire Mirror': probably the name sheet's Mystic Fire Mirror; kept as the English track's name.",
+    "196 s 'Fuzhu!' is a shout during the fight; meaning unclear.",
+    "677-717 s: Xiaofan's chant ('Think of no self...') reads like the Great Brahma Prajna; not named."
+  ]
+}

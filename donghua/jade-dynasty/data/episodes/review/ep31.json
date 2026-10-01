@@ -1,0 +1,61 @@
+{
+  "ep": 31,
+  "title": "Lost in the poison fog",
+  "summary": "A huge creature in the poison fog scatters the righteous disciples. Xiao Yicai saves a fellow disciple from the swamp's beasts and they push on to find the others. In the fog Gui Li is attacked by a Qingyun swordswoman; after the fight she spares him and warns that next time they meet they will be enemies, and Gui Li asks Xiao Hui why she did not kill him. Fa Xiang, alone, meets Jin Ping'er, who flirts with him; he attacks her as a demoness and she escapes. Zeng Shushu and Lin Jingyu are caught by a carnivorous bladderwort flower, which Zeng Shushu knows how to handle, and Fa Xiang joins them so the three travel on together.",
+  "events": [
+    "A giant creature scatters the disciples in the fog",
+    "Xiao Yicai saves a fellow disciple from swamp beasts",
+    "A Qingyun swordswoman fights Gui Li, then spares him with a warning",
+    "Gui Li wonders why she let him live",
+    "Fa Xiang fights Jin Ping'er, who slips away",
+    "Zeng Shushu and Lin Jingyu escape a bladderwort; Fa Xiang joins them"
+  ],
+  "introduced": [
+    "Bladderwort (a giant insect-eating flower in the swamp)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-yicai",
+      "name": "Xiao Yicai"
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi",
+      "look": "probably the swordswoman who spares Gui Li"
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui"
+    },
+    {
+      "id": "fa-xiang",
+      "name": "Fa Xiang"
+    },
+    {
+      "id": "jin-pinger",
+      "name": "Jin Ping'er"
+    },
+    {
+      "id": "zeng-shushu",
+      "name": "Zeng Shushu"
+    },
+    {
+      "id": "lin-jingyu",
+      "name": "Lin Jingyu"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Short subtitle file (about 150 lines); much of the episode is action without dialogue.",
+    "466-645 s: Gui Li's opponent is never named. He thinks her technique is Qingyun's; she warns they'll be enemies next time; at 639 s he says Xiao Hui knew her too. Read as Lu Xueqi (EP33 has her ask him why he didn't kill her).",
+    "718-727 s: an inner monologue about the Sinister Bead entering a person's mind, held back by Buddhist and Taoist teaching and 'the Black Fire Mirror'. The speaker is unclear, and so is whether 'Black Fire Mirror' means the Mystic Fire Mirror.",
+    "425.6 s: the disciple thanking Xiao Yicai is not named.",
+    "171.9 s and 190.3 s ('Muda!') are fragments; 904 s 'Utricularia' = bladderwort."
+  ]
+}

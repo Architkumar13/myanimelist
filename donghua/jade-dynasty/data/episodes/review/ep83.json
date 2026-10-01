@@ -1,0 +1,39 @@
+{
+  "ep": 83,
+  "title": "Face to face with the Beast Deity",
+  "summary": "Inside the cave Li Xun catches Jin Ping'er and attacks her to settle her old debt for hurting Yan Hong. Gui Li steps in, and Jin Ping'er notes that his three teachings have grown stronger and fully merged. Xiao Bai explains that, with Fen Xiang Valley's altar ruined, only this cave still holds a complete Mystic Fire Eight Fiends Formation. She also admits the Beast Deity is an old friend, so she will not fight him, but tells Gui Li two things: the beast can be beaten, and in a crisis he should try the Mystic Fire Mirror. Behind the stone door the Beast Deity greets Gui Li as the first to arrive, and they talk about what they want from life. Gui Li says he only ever wanted a simple life, that most of his hardships were not his choice, and that he regrets nothing. He fights because the beast living could cost him people he cares about. Outside, Xiao Bai holds off Li Xun's Fen Xiang disciples so Jin Ping'er can escape. The Beast Deity raises the Eight Fiends Formation and a Red Flame demon with the Fire-Gathering Furnace. Gui Li sees through it as all show and no strength, weaker than the one at Fen Xiang's altar, and then Lu Xueqi arrives.",
+  "events": [
+    "Li Xun attacks Jin Ping'er over Yan Hong; Gui Li intervenes",
+    "Xiao Bai explains the formation and her friendship with the Beast Deity, and points Gui Li to the Mystic Fire Mirror",
+    "Gui Li and the Beast Deity talk about regret and why people live",
+    "Xiao Bai covers Jin Ping'er's escape from Li Xun's group",
+    "The Beast Deity raises the Mystic Fire Eight Fiends Formation and a Red Flame demon with the Fire-Gathering Furnace",
+    "Gui Li calls the summoned demon all show; Lu Xueqi arrives"
+  ],
+  "introduced": [
+    "Fire-Gathering Furnace (Tungku Penampung Api)",
+    "Red Flame demon (Monster Iblis Api Merah)"
+  ],
+  "cultivation": "Jin Ping'er says Gui Li's three supreme teachings have not only improved but fully merged and no longer clash.",
+  "confidence": "medium",
+  "cast": [
+    {"id": "li-xun", "name": "Li Xun"},
+    {"id": "jin-pinger", "name": "Jin Ping'er", "quote": "Ketiga ajaran tertinggimu bukan hanya telah meningkat, tapi juga telah sepenuhnya menyatu..."},
+    {"id": "zhang-xiaofan", "name": "Gui Li", "realm": "three teachings merged", "quote": "Ketiga ajaran tertinggimu bukan hanya telah meningkat, tapi juga telah sepenuhnya menyatu dan tidak lagi saling bertentangan."},
+    {"id": "xiao-bai", "name": "Xiao Bai"},
+    {"id": "beast-deity", "name": "Beast Deity"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"}
+  ],
+  "changes": [
+    "Jin Ping'er is alive and active again (her soul was saved by Xiao Huan, per EP81)."
+  ],
+  "flags": [
+    "60-145 s: the woman Li Xun calls 'evil woman of the Demon Sect' is never named; taken as Jin Ping'er (the Yan Hong grudge, EP81's mention, and her teasing manner).",
+    "150-175 s: who says 'I want to find the Eight Fiends Formation to heal your wound' is unclear; most likely Xiao Bai to Gui Li, and whose wound it is is not stated.",
+    "313-336 s: the Beast Deity and Gui Li have met before, with Gui Li not knowing who he was ('I only guessed later'); the earlier meeting is not shown.",
+    "473-480 s: 'if you don't die, someone important to me may die' is taken as Gui Li's line.",
+    "546-553 s: 'Do you want to know what I'll do, or what he'll do?' 'Him.' - taken as Xiao Bai and Lu Xueqi.",
+    "618-650 s: Xiao Bai calls herself 'grandma' to the Fen Xiang youths and sends 'little girl' (Jin Ping'er) away.",
+    "918-920 s: 'So it really is you' ends the episode; EP84 shows Lu Xueqi fighting beside Gui Li."
+  ]
+}

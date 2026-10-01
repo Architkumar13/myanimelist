@@ -1,0 +1,37 @@
+{
+  "ep": 50,
+  "title": "The Wood Clan's night raid",
+  "summary": "The Wood Clan attacks Qili Village at night to take back the Jade Bone, the holy artifact they say the Golden Clan took from them 200 years ago. Their sorcerer controls wind and clouds in a way that doesn't look like any Central Plains art. The Dog God statue gives the warning that only comes when the clan faces slaughter, so women and children flee to the mountain while the warriors fight. Xiao Bai asks Gui Li if he wants to help. At Fen Xiang, Shangguan Ce sees the evil aura in the sky and rushes ahead, and the guests follow. The sorcerer takes the Jade Bone, the Black Staff, and declares that the Wood Clan will now rule the Southern Border. He says only the Beast Deity can give his clan new life. When Gui Li joins the fight, voices urging him to kill set off a vision of his past: Pu Zhi, Grass Temple Village and the people he lost, and a voice asking whether a few lives aren't worth sacrificing for the greater good. In this frenzy he kills, and a voice keeps telling him 'You killed well' until someone shouts 'Zhang Xiaofan!'",
+  "events": [
+    "The Wood Clan attacks Qili Village to retake the Jade Bone",
+    "The Dog God statue's warning; Golden Clan women and children flee to the mountain",
+    "Shangguan Ce sees the evil aura and heads for the fight, with the guests following",
+    "The sorcerer seizes the Jade Bone and calls on the Beast Deity",
+    "Gui Li joins the fight; chants of 'kill him' trigger visions of Pu Zhi and Grass Temple Village",
+    "A voice tells him sacrifice is justified for a great cause; he loses control and kills",
+    "Someone shouts his old name, 'Zhang Xiaofan!'"
+  ],
+  "introduced": [
+    "Jade Bone (the Black Staff Jade Bone, holy artifact of the Southern Border clans)",
+    "Beast Deity (named as the Wood Clan's hope)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": "xiao-bai", "name": "Xiao Bai"},
+    {"id": "ahetai", "name": "Ahetai"},
+    {"id": "great-shaman", "name": "Great Shaman"},
+    {"id": "shangguan-ce", "name": "Shangguan Ce"},
+    {"id": "pu-zhi", "name": "Pu Zhi", "look": "in Gui Li's vision"},
+    {"id": "lin-jingyu", "name": "Lin Jingyu", "look": "in Gui Li's vision; named once"}
+  ],
+  "changes": [],
+  "flags": [
+    "298 s: 'Itulah guru Tao' (that's the Daoist master) refers to the Wood Clan's sorcerer; named Ahetai only in EP51.",
+    "597 s: 'Tulang Giok Tongkat Hitam' = the Black Staff Jade Bone; EP51 says 'Black Bone Jade Staff'. Treated as one artifact.",
+    "725-1049 s: mostly Gui Li's vision (Lin Jingyu, Pu Zhi telling him to kneel and keep the bead, Second Uncle Wang, a voice justifying sacrifice). It is hard to tell where the vision stops and the real fight starts.",
+    "856-859 s: on-screen captions '[It's your fault for being his disciple]' / '[No, I was only delivering food]' are part of the vision.",
+    "1081-1102 s: 'You killed well... He's dead... Zhang Xiaofan!' Who died and who shouts isn't clear; EP51 shows Gui Li accused of attacking villagers, women and children."
+  ]
+}

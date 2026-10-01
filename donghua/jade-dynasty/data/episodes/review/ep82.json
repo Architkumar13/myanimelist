@@ -1,0 +1,87 @@
+{
+  "ep": 82,
+  "title": "Hei Hu at the cave mouth",
+  "summary": "Gui Li, Xiao Bai and Xiao Hui reach the Ancient Demon-Suppressing Cave, where a statue of Ling Long stands at the entrance. Its fierce guardian spirit attacks them as intruders, until Gui Li names him as Hei Hu, one of the seven warriors who followed Ling Long into the Hundred Thousand Mountains and never came home. Hei Hu admits he was tricked into a great mistake that freed the beast. He says the Beast Deity came back badly hurt, together with the Taotie and another demon of very high cultivation, and thanks Gui Li in Ling Long's name. Xuan Wu and Bai Hu of the Ghost King Sect have orders to capture the Taotie, and plan to strike if Gui Li and the Beast Deity wound each other. They find the hidden Sha Sheng. Lu Xueqi, Zeng Shushu and Li Xun's Fen Xiang disciples follow fresh tracks into the mountains; Wen Min has gone back to Qingyun, and Yun Yilan has let slip a rumour that the Zhu Xian Sword is broken. Lu Xueqi finds a Heavenly Book spell on a body and wonders if Gui Li is here. Hei Hu's brother Hei Mu returns, and Hei Hu blames him for gathering the Five Sacred Treasures and waking the Beast Deity. Hei Mu answers that he did it to keep Ling Long's promise to the beast, and that her other wish was to wipe it out for good.",
+  "events": [
+    "Gui Li pays respect to Ling Long's statue at the cave mouth",
+    "The guardian spirit attacks; Gui Li identifies him as Hei Hu",
+    "Hei Hu warns that the Beast Deity returned with the Taotie and a powerful demon",
+    "Xuan Wu and Bai Hu plan to take the Taotie and catch Gui Li weakened; they discover Sha Sheng",
+    "Lu Xueqi's party hears the Zhu Xian Sword rumour and follows strange tracks",
+    "Lu Xueqi senses a Heavenly Book spell and suspects Gui Li is near",
+    "Hei Hu confronts Hei Mu over waking the Beast Deity"
+  ],
+  "introduced": [
+    "Hei Hu (guardian spirit, one of Ling Long's seven warriors)",
+    "Hei Mu (Hei Hu's brother)",
+    "Ling Long's statue at the cave mouth",
+    "Five Sacred Treasures of the Wu clan"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "xiao-bai",
+      "name": "Xiao Bai"
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui"
+    },
+    {
+      "id": "hei-hu",
+      "name": "Hei Hu",
+      "first": true,
+      "look": "a fierce spirit guarding the statue"
+    },
+    {
+      "id": "xuan-wu",
+      "name": "Xuan Wu",
+      "quote": "(Xuanwu, Sekte Raja Setan)",
+      "card": 352.6
+    },
+    {
+      "id": "bai-hu",
+      "name": "Bai Hu",
+      "quote": "(Baihu, Sekte Raja Setan)",
+      "card": 354.3
+    },
+    {
+      "id": "sha-sheng",
+      "name": "Sha Sheng"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "zeng-shushu",
+      "name": "Zeng Shushu"
+    },
+    {
+      "id": "li-xun",
+      "name": "Li Xun"
+    },
+    {
+      "id": "hei-mu",
+      "name": "Hei Mu",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Confirms Lu Xueqi's party from EP79 was Lu Xueqi, Wen Min and Zeng Shushu; Wen Min has now gone back to Qingyun (396 s)."
+  ],
+  "flags": [
+    "Name cards in this show come as parenthesised lines '(Name, faction)', not brackets.",
+    "21-27 s: the opening speaker ('chasing the man in black, I saw the Beast Deity revive and leave this cave') is taken as Sha Sheng reporting to Gui Li.",
+    "345 s: 'Kakak Kedua' (Second Brother) is said between Xuan Wu and Bai Hu; who is 'second' is unclear.",
+    "389 s: 'a rat hiding here' - the Ghost King pair finding Sha Sheng; his fate is shown in EP85.",
+    "472 s: 'Wajahnya menjijikkan' (his face is disgusting) - context unclear.",
+    "739 s onward: the brother is taken as Hei Mu (Hei Hu named the brothers Heihu and Heimu at 184 s). Hei Hu's earlier warning of 'another demon of very high cultivation' returning with the beast may mean Hei Mu.",
+    "728-732 s: an inner voice asks since when 'his' cultivation rose so high; speaker unclear."
+  ]
+}

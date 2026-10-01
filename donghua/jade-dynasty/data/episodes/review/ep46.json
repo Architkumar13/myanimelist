@@ -1,0 +1,65 @@
+{
+  "ep": 46,
+  "title": "Fen Xiang Valley burns; south with the fox",
+  "summary": "A fire dragon bursts from Fen Xiang Valley as a volcano erupts, wrecking the valley and the spirit veins under it. Frightened townsfolk beg the fortune-teller Zhou Yixian for advice while Fen Xiang disciples close the roads and arrest anyone suspicious. Lu Xueqi arrives on an official visit from Qingyun. Li Xun meets her and puts her up in a village for the night, and talks about the fights they shared at Kongsang Mountain and Liubo Mountain, which she finds odd. Gui Li (Zhang Xiaofan) travels south with Xiao Bai. She tells him her fox clan came from the Southern Border and moved to Huqi Mountain a thousand years ago, where the Ghost King Sect now has its base. That night prisoners escape the valley. Li Xun and Lu Xueqi catch up with Jin Ping'er, who is holding his junior Yan Hong, and Lu Xueqi exposes Jin Ping'er when she disguises herself as him. Three days later Xiao Bai says Tianshui Village is just ahead, with the Golden Clan's Qili Village further south.",
+  "events": [
+    "The volcano under Fen Xiang Valley erupts and destroys the valley's buildings and spirit veins",
+    "Townsfolk turn to Zhou Yixian; Fen Xiang seals the roads and arrests suspects",
+    "Li Xun welcomes Lu Xueqi and lodges her in a village; he recalls Kongsang and Liubo",
+    "Xiao Bai tells Gui Li the fox clan's history and its link to Huqi Mountain",
+    "Gui Li asks about the eruption: someone got into the Fire Altar and used a demonic spell",
+    "Prisoners escape; Li Xun confronts Jin Ping'er over Yan Hong",
+    "Jin Ping'er's disguise as Li Xun is exposed with Lu Xueqi's help",
+    "Three days on, Xiao Bai points the way to Tianshui Village and Qili Village"
+  ],
+  "introduced": [
+    "Huqi Mountain (home of the Ghost King Sect, named after the foxes)",
+    "Tianshui Village",
+    "Qili Village (the Golden Clan's settlement)",
+    "Golden Clan"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "xiao-bai",
+      "name": "Xiao Bai"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "li-xun",
+      "name": "Li Xun"
+    },
+    {
+      "id": "jin-pinger",
+      "name": "Jin Ping'er"
+    },
+    {
+      "id": "yan-hong",
+      "name": "Yan Hong"
+    },
+    {
+      "id": "zhou-yixian",
+      "name": "Zhou Yixian"
+    }
+  ],
+  "changes": [
+    "No earlier summary to correct. EP45 has no subtitle file, so continuity is taken from EP44 (Xiao Bai warning Gui Li about the Soul-Devouring Stick, and his question about saving someone with one soul left)."
+  ],
+  "flags": [
+    "280-301 s: Xiao Bai's warning to throw the evil weapon away and Gui Li's 'to save Bi Yao I'd sacrifice anything' repeat EP44's ending; treated as a recap.",
+    "191 s: 'Abadi Tua' (Old Immortal) is read as Zhou Yixian, the fortune-teller; the subs give no name.",
+    "239 s: a man insists he belongs to the righteous sects and is told to leave quickly; the speakers are not named.",
+    "458-466 s: inner thoughts 'heaven never ages, love never ends' have no clear speaker (Lu Xueqi or Gui Li).",
+    "707 s: 'the Young Master's blood is impressive' has no clear speaker or target.",
+    "747/767 s: 'Paman Guru Lu' is taken as Fen Xiang's Lü Shun, not Lu Xueqi; he chases the escapees.",
+    "845 s: 'You... disguised as me' is said by two identical figures at once; read as Jin Ping'er copying Li Xun. 890 s 'thanks for helping us catch the culprit' conflicts with Jin Ping'er being free in EP47, so she probably slips away again; unclear from the subs."
+  ]
+}

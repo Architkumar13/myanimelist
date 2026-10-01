@@ -1,0 +1,84 @@
+{
+  "ep": 3,
+  "title": "Slow progress and the thieving monkey",
+  "summary": "Years pass and Zhang Xiaofan still makes slow progress on Great Bamboo Peak. Tian Buyi thinks he lacks determination and wishes he were steady like bamboo, and soon after Xiaofan finally breaks through the first level, to his seniors' delight, though Tian Buyi only tells him to go and cook. On Dragon Head Peak, Lin Jingyu has reached the sixth level of the Taiji Xuanqing method after five years, taught by Cang Song himself. Fang Chao challenges him and is nearly killed, and senior disciple Qi Hao scolds Fang Chao for looking down on his junior. Back on Great Bamboo Peak, Xiaofan has become the peak's cook, and a monkey keeps stealing his food. Tian Ling'er chases it with him into an unknown part of the mountain, where Xiaofan loses all his strength and finds her unconscious. He then sees something strange.",
+  "events": [
+    "Xiaofan still struggles after years on Great Bamboo Peak",
+    "Tian Buyi talks of bamboo; Xiaofan breaks through the first level",
+    "Lin Jingyu, at the sixth level after five years, nearly kills Fang Chao in a sparring match",
+    "Qi Hao scolds Fang Chao and praises Lin Jingyu",
+    "A monkey steals Xiaofan's cooking; Tian Ling'er chases it with him",
+    "In an unknown place Xiaofan loses his strength and finds Ling'er unconscious"
+  ],
+  "introduced": [
+    "Fang Chao (Dragon Head Peak)",
+    "Qi Hao (Dragon Head Peak)",
+    "the grey monkey (Xiao Hui, named in EP4)",
+    "Taiji Xuanqing method (Qingyun's cultivation method)"
+  ],
+  "cultivation": "Xiaofan breaks through the first level ('Do it for 36 celestial circuits. It's the key of the First Method'). Lin Jingyu 'mastered the sixth level of Qing Method of Taijixuan' after five years (the stage name Yuqing is not said).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Zhang Xiaofan",
+      "realm": "Taiji Xuanqing, first level",
+      "quote": "It's the key of the First Method.",
+      "look": "a few years older",
+      "t": 160.5
+    },
+    {
+      "id": "tian-buyi",
+      "name": "Tian Buyi"
+    },
+    {
+      "id": "su-ru",
+      "name": "Su Ru"
+    },
+    {
+      "id": "song-daren",
+      "name": "Song Daren"
+    },
+    {
+      "id": "tian-linger",
+      "name": "Tian Ling'er",
+      "look": "older"
+    },
+    {
+      "id": "lin-jingyu",
+      "name": "Lin Jingyu",
+      "realm": "Taiji Xuanqing, sixth level",
+      "quote": "Lin Jingyu has only joined for five years, yet he mastered the sixth level of Qing Method of Taijixuan.",
+      "look": "older",
+      "t": 254.6
+    },
+    {
+      "id": "fang-chao",
+      "name": "Fang Chao",
+      "first": true,
+      "t": 272.8
+    },
+    {
+      "id": "qi-hao",
+      "name": "Qi Hao",
+      "first": true,
+      "t": 307.8
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui",
+      "look": "a wild grey monkey stealing food; not named yet",
+      "first": true,
+      "t": 384.7
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Subtitles start at 56.8 s; the opening minute has no lines.",
+    "157.8-160.5 s: 'Direct the qi into his body. Do it for 36 celestial circuits. It's the key of the First Method' is read as Xiaofan breaking through the first level. EP8 says he should only have reached the second level by the tournament.",
+    "80.6 s: who tells Daren his way of provoking Xiaofan doesn't work is not clear from the subs.",
+    "217-239 s: 'Who's there?' / 'Hey!' with no context, just before the Dragon Head Peak scene.",
+    "613-649 s: the episode ends with Xiaofan saying 'This... What's...' and 'What's going on?'. What he sees is not in the subs.",
+    "The 'thief, the monkey' is the grey monkey Xiaofan names Xiao Hui in EP4."
+  ]
+}

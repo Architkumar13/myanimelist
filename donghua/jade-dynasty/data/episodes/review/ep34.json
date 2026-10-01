@@ -1,0 +1,74 @@
+{
+  "ep": 34,
+  "title": "Gui Li against Lin Jingyu",
+  "summary": "At the Heavenly King's Treasure Vault, Gui Li wants the artefact inside and Lin Jingyu blocks the way, refusing to let it fall to the Demon Sect. Lin Jingyu asks why Gui Li still uses Qingyun techniques; Gui Li says he uses Qingyun's arts and the Demon Sect's alike to kill. Lin Jingyu says he was the one who lost ten years ago and challenges Gui Li's mix of Buddhist, Taoist and demonic arts, and the two old friends fight with Qingyun spells and Gui Li's blood arts. Gui Li notes that Lin Jingyu reached Upper Purity in only ten years, while Lin Jingyu senses Buddhist power inside Gui Li's Qingyun moves. Jin Ping'er arrives, having held back three righteous disciples, and proposes working with Gui Li for now. Fa Xiang and Zeng Shushu catch up; Zeng Shushu calls Gui Li 'Xiaofan', but Gui Li says his name is Gui Li. The ancient Black Water Serpent rises from below to guard the vault, and Lu Xueqi throws herself in Gui Li's way while Qing Long and Zhu Que prepare their formation nearby.",
+  "events": [
+    "Lin Jingyu blocks Gui Li at the Heavenly King's Treasure Vault",
+    "The two fight with Qingyun spells and blood arts",
+    "Gui Li remarks on Lin Jingyu reaching Upper Purity in ten years",
+    "Jin Ping'er arrives and allies with Gui Li",
+    "Fa Xiang and Zeng Shushu arrive; Gui Li insists on his new name",
+    "The Black Water Serpent emerges and attacks",
+    "Lu Xueqi risks her life to stop Gui Li",
+    "Qing Long and Zhu Que set up their formation"
+  ],
+  "introduced": [
+    "Heavenly King's Treasure Vault",
+    "Black Water Serpent (an ancient demon beast)"
+  ],
+  "cultivation": "Gui Li to Lin Jingyu: 'In only ten years you have reached Shangqing' (Upper Purity).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "lin-jingyu",
+      "name": "Lin Jingyu",
+      "realm": "Upper Purity",
+      "quote": "Hanya sepuluh tahun, Anda telah mencapai Alam Kemurnian Tertinggi.",
+      "t": 580.8
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui"
+    },
+    {
+      "id": "jin-pinger",
+      "name": "Jin Ping'er"
+    },
+    {
+      "id": "fa-xiang",
+      "name": "Fa Xiang"
+    },
+    {
+      "id": "zeng-shushu",
+      "name": "Zeng Shushu"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "qing-long",
+      "name": "Qing Long"
+    },
+    {
+      "id": "zhu-que",
+      "name": "Zhu Que"
+    }
+  ],
+  "changes": [
+    "Cultivation line: moved the Indonesian reading ('Alam Kemurnian Tertinggi') out of viewer text."
+  ],
+  "flags": [
+    "577.3 s, 809.9 s, 875.4 s: on-screen text '[Gudang Harta Karun Raja Surgawi]' (Heavenly King's Treasure Vault) is a sign, not a name card.",
+    "582.8 s 'Alam Kemurnian Tertinggi' (highest purity) mapped to Upper Purity (Shangqing); it could also mean Grand Purity. Speaker read as Gui Li.",
+    "438-443 s: 'I was the one who lost ten years ago' read as Lin Jingyu.",
+    "585 s 'I fear Ancestor Qing Ye back then was just an ordinary man' = Daoist Qingye.",
+    "920-942 s: the person who risks her life to stop Gui Li is read as Lu Xueqi (EP35 has them trapped in the vault together).",
+    "981.2 s 'Senior Senin' garbled; 989 s 'I'm one step too late' speaker unclear (possibly Xiao Yicai or Lin Jingyu).",
+    "1032-1052 s: Qing Long and Zhu Que talk about a cautious, sharp beauty, read as Jin Ping'er."
+  ]
+}

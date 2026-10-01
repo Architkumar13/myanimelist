@@ -1,0 +1,38 @@
+{
+  "ep": 60,
+  "title": "The false Hehuan Bell and the Blood Formation",
+  "summary": "As the Ghost King had planned, most of the beasts are drawn off to Qimeng Mountain, and San Miao demands the Hehuan Bell he promised her. The Ghost King hands over the bell, Bi Yao's keepsake. Gui Li, who knows nothing of the plan, fights San Miao and her Eternal Love Threads to keep it, but she gets away with it. The bell is a fake: the Ghost King spent his own lifespan to fill it with poison, and San Miao is struck by a Soul-Absorbing Thorn. He sacrificed half his sect's disciples to wipe out the He Huan Sect and the Ten Thousand Poisons Sect. San Miao turns her deadliest technique on him, but Jin Ping'er, revealed as the Ghost King's hidden agent for twenty years, strikes her down and becomes the new owner of the Purple Light Blade. The Ghost King then readies the Four Spirits Blood Formation, which feeds on the blood of every living thing in Snake Poison Valley. He gives Gui Li fifteen minutes to lead his loyal followers out. Gui Li fights his way back to his men just as the beasts return from Qimeng Mountain. At the end the Beast Deity appears before the Ghost King, asking Ling Long if these are the people she died to protect.",
+  "events": [
+    "The beasts are diverted to Qimeng Mountain; San Miao claims the Hehuan Bell",
+    "Gui Li fights San Miao and Jin Ping'er over the bell; San Miao takes it",
+    "The bell is a poisoned fake; the Ghost King's sacrifice and plan are revealed",
+    "Jin Ping'er turns on San Miao and takes the Purple Light Blade",
+    "The Ghost King prepares the Four Spirits Blood Formation and gives Gui Li fifteen minutes",
+    "Gui Li rejoins his followers to break out as the beasts return",
+    "The Beast Deity appears before the Ghost King"
+  ],
+  "introduced": [
+    "Qimeng Mountain",
+    "Eternal Love Threads (He Huan Sect technique) and its killing move, Eternal Sorrow Thread",
+    "Soul-Absorbing Thorn",
+    "Purple Light Blade",
+    "Four Spirits Blood Formation"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": "ghost-king", "name": "Ghost King"},
+    {"id": "san-miao", "name": "San Miao"},
+    {"id": "jin-pinger", "name": "Jin Ping'er"},
+    {"id": "beast-deity", "name": "Beast Deity"}
+  ],
+  "changes": [],
+  "flags": [
+    "33-80 s (before the opening): someone asks a 'master of secret strategy' whether the Snake Poison Valley formation map shows where the spirit veins meet, for a teleport escape. Neither speaker is named; left out of the summary.",
+    "656-702 s: San Miao's killer is not named. 'A disciple remembers some things all her life', 'Whoever survives is the new owner of the Purple Light Blade', 'I have waited 20 years' and San Miao's 'Ping'er' earlier fit Jin Ping'er; EP62 confirms San Miao died. Attribution to Jin Ping'er is inferred.",
+    "690.8 s: the thought 'so she was the Ghost King's secret card all along' could be Gui Li's or San Miao's.",
+    "345.0 s: the Ghost King calls the bell his daughter's keepsake 'semasa hidupnya' ('while she lived'), treating Bi Yao as gone.",
+    "1006-1024 s: the Beast Deity is identified by his line to Ling Long; the person answering 'Ternyata kau' is read as the Ghost King."
+  ]
+}

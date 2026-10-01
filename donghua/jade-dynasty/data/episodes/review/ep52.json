@@ -1,0 +1,40 @@
+{
+  "ep": 52,
+  "title": "Season 2 finale: the fox's illusion and the Great Shaman's bargain",
+  "summary": "Gui Li and Lu Xueqi clash with full force. He tells her he can never go back. As Fen Xiang moves in for the kill, Xiao Bai steps in, mocking the pair for being so tragic, and is recognised as the nine-tailed demon fox. She holds off the Fen Xiang disciples with illusion magic. Fa Xiang uses the Great Brahma Prajna to keep Gui Li from being killed. Lu Xueqi learns that Li Xun struck Gui Li's right shoulder with his jade mallet while he was off guard, and coldly praises his 'technique', while she regrets not arriving sooner to save the burning village. Xiao Bai carries the wounded Gui Li to safety and asks whether he prefers that girl or Bi Yao. He says he owes Bi Yao his life. Shangguan Ce reappears after vanishing for the night and sends everyone back to the valley without explaining. A few days later the Great Shaman, who survived, agrees to try to save Gui Li's friend. In return he asks Gui Li, who holds the Mystic Fire Mirror, to protect the Golden Clan when disaster comes, because their stolen holy artifact is the key to waking the demon king of Southern Border legend.",
+  "events": [
+    "Gui Li and Lu Xueqi fight; he says he cannot go back",
+    "Xiao Bai intervenes and is exposed as the nine-tailed fox; she uses illusion magic",
+    "Fa Xiang protects Gui Li with the Great Brahma Prajna",
+    "Lu Xueqi confronts Li Xun over his sneak attack with the jade mallet",
+    "Xiao Bai tends Gui Li; he says he owes Bi Yao his life",
+    "Shangguan Ce returns and orders the Fen Xiang disciples back to the valley",
+    "A few days later the Great Shaman agrees to help Bi Yao if Gui Li will protect the Golden Clan",
+    "Closing scene: a name card for Qingyunzi, the first-generation sect master"
+  ],
+  "introduced": [
+    "demon king (Southern Border legend; woken by the holy artifact)",
+    "jade mallet (Li Xun's weapon)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "xiao-bai", "name": "Xiao Bai"},
+    {"id": "fa-xiang", "name": "Fa Xiang"},
+    {"id": "li-xun", "name": "Li Xun"},
+    {"id": "shangguan-ce", "name": "Shangguan Ce"},
+    {"id": "great-shaman", "name": "Great Shaman"},
+    {"id": "xiao-hui", "name": "Xiao Hui"},
+    {"id": "qingyunzi", "name": "Qingyunzi", "quote": "[Master Sekte Generasi Pertama, Leluhur Qing Yun]", "first": true, "card": 1039.5}
+  ],
+  "changes": [],
+  "flags": [
+    "448-473 s: 'Attacking while others are off guard; Fen Xiang hasn't improved' and 'Tian Yin rarely has talent like you' have no clear speakers; Fa Xiang is the one using the Great Brahma Prajna.",
+    "545-586 s: read as Lu Xueqi asking Li Xun if he hit Gui Li with the jade mallet; 'Teknik palu yang bagus' is taken as sarcasm.",
+    "615 s: 'Tianya is extraordinary' praises Lu Xueqi's sword Tianya; speaker unnamed.",
+    "841 s: 'Black Fire Mirror' = the Mystic Fire Mirror, which Gui Li carries.",
+    "1039-1077 s: the Qingyunzi name card and '(Danger of the mara will come, I will pass through it and rise again)' come after the main story. They may be a teaser for Season 3 rather than part of this episode."
+  ]
+}

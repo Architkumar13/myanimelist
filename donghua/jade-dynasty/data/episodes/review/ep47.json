@@ -1,0 +1,60 @@
+{
+  "ep": 47,
+  "title": "Tianshui Village and the Red-Eyed Eagle",
+  "summary": "A dying man begs the heavens for help, and an unseen voice offers him power if he bows and offers his body and soul to its master. Gui Li and Xiao Bai reach Tianshui Village, which has grown busy in the 300 years Xiao Bai was locked away, and local men fall over themselves to flirt with her. Fen Xiang disciples find Yan Hong hurt and blame Jin Ping'er. Li Xun splits the search, taking the west side and leaving Lu Xueqi the east. At an inn Xiao Bai orders Southern Border dishes and explains each one, and Gui Li quietly reflects that after ten years he finally has a lead on a soul-return technique. Fen Xiang catches up with Jin Ping'er and accuses her of killing one of their disciples. She uses her tricks and a secret message about Qili Cave, and despite the Red-Eyed Eagle tracking her, she gets away.",
+  "events": [
+    "A desperate man accepts power from a mysterious voice and offers himself to its master",
+    "Gui Li and Xiao Bai arrive in Tianshui Village; Xiao Bai is mobbed by admirers",
+    "Yan Hong is found hurt; Li Xun and Lu Xueqi split up to trap Jin Ping'er in the village",
+    "Xiao Bai orders and explains Southern Border food at an inn",
+    "Gui Li's thoughts: ten years of searching, a first clue to soul-return magic",
+    "Fen Xiang fights Jin Ping'er over a dead disciple",
+    "Jin Ping'er mentions Qili Cave and escapes the Red-Eyed Eagle"
+  ],
+  "introduced": [
+    "Red-Eyed Eagle (Fen Xiang's tracking bird)",
+    "Qili Cave"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "xiao-bai",
+      "name": "Xiao Bai"
+    },
+    {
+      "id": "li-xun",
+      "name": "Li Xun"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "jin-pinger",
+      "name": "Jin Ping'er"
+    },
+    {
+      "id": "yan-hong",
+      "name": "Yan Hong"
+    },
+    {
+      "id": "ahetai",
+      "name": "Ahetai",
+      "look": "probably the desperate man in the opening; see flags"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "174-260 s: the praying man is unnamed. EP48 speaks of an outcast who learned sorcery from 'the master' and EP50-51 name the Wood Clan's sorcerer Ahetai, so he is probably Ahetai; not stated here.",
+    "669-693 s: Gui Li's inner monologue mentions 'five hundred years'; it seems to refer to how long ago the soul-return technique was known, but the line is unclear.",
+    "754/812 s: 'Muda!' is shouted twice in the fight; probably a cry of 'Junior!' by a Fen Xiang disciple.",
+    "819-821 s: '(Help me stop him.) (Qili Cave.)' is a silent message, probably from Jin Ping'er to Gui Li; who it's aimed at isn't clear.",
+    "956-960 s: 'Forget it, I'll let you go, otherwise Fen Xiang will keep fighting me' has no clear speaker.",
+    "1037-1050 s: 'Lives in the Southern Pass are in danger' and 'If you don't want to go back, let me' match lines in EP51-52; treated as a preview, not this episode."
+  ]
+}

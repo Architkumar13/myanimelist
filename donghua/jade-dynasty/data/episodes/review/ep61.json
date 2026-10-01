@@ -1,0 +1,39 @@
+{
+  "ep": 61,
+  "title": "Breaking out of Snake Poison Valley",
+  "summary": "With the Ghost King's blood formation about to wipe out Snake Poison Valley, Gui Li and his Ghost King Sect followers fight a wounded one-eyed demon king whose poison mist stops victims from gathering mana while it drinks their power to heal. Gui Li strikes the unhealed crack in its eye; the Mystic Fire Mirror activates by itself and lends him the sun's power, and he wonders whether it is linked to the Heavenly Book. He rallies the survivors to cut their way out, but another demon king, Zhu Yan, appears, and the first one rises again, stronger, draining spiritual energy from the blood of the living. Gui Li is hurt and cannot move, his men refuse to leave him, and he holds the demon king back with the Soul-Devouring Stick so they can escape. Lu Xueqi reaches the valley, finds the dead of all three demonic sects, searches for him and finds Gui Li, telling him she will go with him to the ends of the earth. She wakes on Qingyun calling his name. On Qingyun word comes that the Demon Sect was almost wiped out and an item that may be Xiaofan's is brought back, and Tian Buyi speaks to his seventh disciple.",
+  "events": [
+    "Gui Li and his men fight a poison-draining one-eyed demon king in Snake Poison Valley",
+    "The Mystic Fire Mirror activates by itself and helps Gui Li strike the demon king's eye",
+    "Gui Li rallies the Ghost King Sect disciples to break out",
+    "Zhu Yan appears; the first demon king revives, stronger, feeding on blood",
+    "Gui Li, wounded, holds the demon king off with the Soul-Devouring Stick so his men can flee",
+    "Lu Xueqi searches the valley and finds Gui Li",
+    "Xueqi wakes on Qingyun; news of the Demon Sect's destruction reaches Tian Buyi"
+  ],
+  "introduced": [
+    "Zhu Yan (demon king)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": null, "name": "One-eyed demon king (poison)"},
+    {"id": "zhu-yan", "name": "Zhu Yan", "first": true},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "tian-buyi", "name": "Tian Buyi"}
+  ],
+  "changes": [
+    "EP62 says Gui Li was rescued by You Ji. This episode shows Lu Xueqi finding him in the valley before she wakes on Qingyun, so either she found him and lost him again, or that scene is her dream."
+  ],
+  "flags": [
+    "No name cards in this episode's subtitles. The English track reads like a rough machine translation; 'Vale of Vipers' / 'Snake Valley' = Snake Poison Valley, 'Vice suzerain' = Vice Sect Master, 'Xuanhuojian' = Mystic Fire Mirror, 'Wandumen Acacia' = Ten Thousand Poisons and He Huan sects.",
+    "7-20 s: 'Once the inscription is engraved with the circle ... destroy the entire Vale of Vipers. Time is running out' — speaker unclear (Gui Li or the Ghost King).",
+    "64-85 s: the poison demon king is not named; it may be the beast EP58 calls Fei (poison and plague), but that is not stated.",
+    "179-182 s: 'Is this the divine power of the Heavenly Book?' — speaker unclear; 187-192 s is Gui Li's own thought about the Mirror.",
+    "330-335 s: 'Roar all over the world, smash the mountains, Zhu Yan' read as a demon king's name and boast (Zhu Yan, the ape beast of legend).",
+    "642-724 s: the woman searching the valley is not named until 774 s ('Senior Sister Lu'); her 'Whatever, the ends of the earth' answers Gui Li's request in EP56. Whether the reunion is real or a dream is unclear.",
+    "803-837 s: the junior who greets Xueqi ('Yuki' = Xueqi) is not named; possibly Wen Min. 826-837 s 'Dead ... really dead' — who is asked about is unclear (probably Gui Li).",
+    "841-866 s: the report and 'Old Seven, do you have anything to say to me?' read as Tian Buyi (Xiaofan was his seventh disciple); 'Disciple unfilial, ask the master to punish' may be a memory or vision of Xiaofan. Unclear."
+  ]
+}

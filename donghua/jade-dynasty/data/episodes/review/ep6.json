@@ -1,0 +1,109 @@
+{
+  "ep": 6,
+  "title": "The tournament opens",
+  "summary": "Qingyun's leaders discuss the Blood-Refining Hall, which once stood in the Ten Thousand Bats Cave on Kongsang Mountain 800 years ago and is now stirring again. They decide to ask Fen Xiang Valley and Tian Yin Temple for help and to send the tournament's semi-finalists to scout the cave. At the tournament, Wen Min of Small Bamboo Peak teases Song Daren, and Qi Hao greets Tian Ling'er. Zeng Shushu of Wind Return Peak is fascinated by Xiao Hui, a rare three-eyed monkey that has never been tamed, and befriends Zhang Xiaofan. After the sword ceremony the Water Qilin appears, and the prize is announced: the Liuhe Mirror of the tenth sect leader, Wufangzi. Xiaofan draws number one and goes through the first round because number 64 is missing. Ling'er beats Shen Tiandou of Morning Sun Peak with her Amber Red Twill after he attacks her early. Xiaofan seems distracted, and Zeng Shushu drags him off to watch Lu Xueqi of Small Bamboo Peak.",
+  "events": [
+    "Qingyun's leaders plan to scout the Ten Thousand Bats Cave with the semi-finalists",
+    "Wen Min teases Song Daren; Qi Hao greets Ling'er",
+    "Zeng Shushu meets Xiaofan and admires the three-eyed monkey Xiao Hui",
+    "Sword ceremony; the Water Qilin appears; the Liuhe Mirror is the prize",
+    "Xiaofan draws number one and gets a bye",
+    "Ling'er beats Shen Tiandou with the Amber Red Twill",
+    "Zeng Shushu gives Xiaofan a rare book and drags him off to see Lu Xueqi"
+  ],
+  "introduced": [
+    "Blood-Refining Hall (called 'Lianxue Sect')",
+    "Ten Thousand Bats Cave (called 'Wanfu Ancient Cave') on Kongsang Mountain",
+    "Fen Xiang Valley (named only)",
+    "Wen Min (Small Bamboo Peak)",
+    "Zeng Shushu (Wind Return Peak)",
+    "three-eyed monkey (Xiao Hui's kind)",
+    "sword ceremony",
+    "Liuhe Mirror (tournament prize)",
+    "Wufangzi, Qingyun's tenth sect leader (named only)",
+    "Shen Tiandou (Morning Sun Peak)",
+    "Amber Red Twill (Ling'er's weapon)",
+    "Tianxiang Record (Zeng Shushu's book)",
+    "Lu Xueqi (Small Bamboo Peak)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "cang-song",
+      "name": "Cang Song"
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Zhang Xiaofan"
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui"
+    },
+    {
+      "id": "song-daren",
+      "name": "Song Daren"
+    },
+    {
+      "id": "wen-min",
+      "name": "Wen Min",
+      "quote": "It's Wenmin.",
+      "first": true,
+      "t": 103.7
+    },
+    {
+      "id": "qi-hao",
+      "name": "Qi Hao"
+    },
+    {
+      "id": "tian-linger",
+      "name": "Tian Ling'er"
+    },
+    {
+      "id": "lin-jingyu",
+      "name": "Lin Jingyu"
+    },
+    {
+      "id": "zeng-shushu",
+      "name": "Zeng Shushu",
+      "quote": "My name is Zeng Shushu. I'm a disciple of Fenghui Peak.",
+      "first": true,
+      "t": 198.3
+    },
+    {
+      "id": "water-qilin",
+      "name": "Water Qilin"
+    },
+    {
+      "id": "shen-tiandou",
+      "name": "Shen Tiandou",
+      "quote": "Shen Tiandou from Chaoyang Peak versus Tian Ling'er from Dazhu Peak.",
+      "first": true,
+      "t": 570.3
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi",
+      "first": true,
+      "t": 766.3
+    },
+    {
+      "id": "tian-buyi",
+      "name": "Tian Buyi"
+    },
+    {
+      "id": "dao-xuan",
+      "name": "Dao Xuan"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "0-89 s: the speakers at the leaders' meeting are not named except Cang Song, who is told he knows the cult well. The plan to send the semi-finalists is probably Dao Xuan's; the summary just says 'Qingyun's leaders'. Dao Xuan and Tian Buyi listed in cast as likely present.",
+    "133-168 s: Qi Hao says he lost to 'Xiao' (Xiao Yicai) in the last tournament 60 years ago. EP5 seemed to say someone lost only to Qi Hao; left out.",
+    "376.2 s: 'Master Amitayus' is called out when the Water Qilin appears; unclear who or what it refers to.",
+    "474.4 s caption '(Number one)'; 480.7 s Xiaofan hands his number to Cang Song, who runs the draw.",
+    "Lu Xueqi is only named at 766.3 s (caption 767.7 s '(Flowing water from high mountain)'). Marked first appearance here; she may be glimpsed earlier.",
+    "Xiaofan's distraction during Ling'er's match (749-763 s) is not explained in the subs."
+  ]
+}

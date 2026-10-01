@@ -1,0 +1,44 @@
+{
+  "ep": 5,
+  "title": "Level three and the road to the tournament",
+  "summary": "Tian Buyi and Su Ru stop the fight between Lin Jingyu and Tian Ling'er. Qi Hao apologises for his junior and gives Ling'er a cooling pearl, which she accepts. Lin Jingyu and Zhang Xiaofan promise to do their best at the Seven Meridians Tournament, held every 60 years, and make Grass Temple Village proud. That night Ling'er gives Xiaofan her own copy of the third level of the Taiji Xuanqing method and tells him not to be bullied again; he practises it and finds its qi flows smoothly and feels like the Brahma Prajna. Du Bishu comes back after six years with his Godwood Dice, a flying treasure. On Dragon Head Peak, Lin Jingyu masters a powerful Dragon-Slaying Sword move, and Cang Song, in the hall of ancestral tablets, insists good and evil must be kept apart and he wants the cleanest world. Great Bamboo Peak sets off for the tournament. Xiaofan brings a black stick instead of a sword, rides with Song Daren, falls off on the way, and arrives with the others at the gathering.",
+  "events": [
+    "Tian Buyi and Su Ru end the fight; Qi Hao apologises and gives Ling'er a cooling pearl",
+    "Xiaofan and Lin Jingyu promise to do their best at the tournament",
+    "Ling'er gives Xiaofan a copy of the third level; he practises it in secret",
+    "Du Bishu returns after six years with the Godwood Dice",
+    "Lin Jingyu masters 'Destructive Dashing Dragon'; Cang Song praises him",
+    "Cang Song in the ancestral hall: good and evil must stay apart",
+    "Great Bamboo Peak flies to the tournament; Xiaofan brings a black stick and falls off on the way"
+  ],
+  "introduced": [
+    "cooling pearl (Qi Hao's gift to Ling'er)",
+    "Godwood Dice (Du Bishu's flying treasure)",
+    "Destructive Dashing Dragon (Dragon-Slaying Sword move)",
+    "Qi Hao's Ice Sword (named only)",
+    "the black stick (Xiaofan's weapon)",
+    "hall of the ancestral masters' tablets"
+  ],
+  "cultivation": "Xiaofan practises the third level of the Taiji Xuanqing method from Ling'er's copy ('This real Qi of level three met no obstruction'); its qi feels like the Brahma Prajna.",
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan", "realm": "Taiji Xuanqing, third level (practising)", "quote": "This real Qi of level three met no obstruction in its way.", "t": 435.0},
+    {"id": "tian-linger", "name": "Tian Ling'er"},
+    {"id": "lin-jingyu", "name": "Lin Jingyu"},
+    {"id": "qi-hao", "name": "Qi Hao"},
+    {"id": "tian-buyi", "name": "Tian Buyi"},
+    {"id": "su-ru", "name": "Su Ru"},
+    {"id": "du-bishu", "name": "Du Bishu", "look": "back after six years away", "t": 458.0},
+    {"id": "cang-song", "name": "Cang Song"},
+    {"id": "song-daren", "name": "Song Daren"},
+    {"id": "xiao-hui", "name": "Xiao Hui"}
+  ],
+  "changes": [],
+  "flags": [
+    "This episode's English track uses different terms: 'Seven Pulse Martial Art Contest' (EP4/6: 'Duel of Seven Ranges'), 'Way of Taichi Xuanqing' (EP3/4: 'Qing Method of Taijixuan'), 'uncle Su' for Su Ru. Mapped to the Seven Meridians Tournament and Taiji Xuanqing.",
+    "298-308 s: Ling'er says someone 'lost to no one but Qi Hao' in the last tournament; who is unclear (probably Song Daren, since she answers 'We have Daren'). In EP6 Qi Hao says he lost to 'Xiao' last time.",
+    "603-660 s: a secret letter, then Cang Song argues in the ancestral hall with a voice (captions are the tablet texts on yin and yang). The other speaker is not identified.",
+    "803-830 s: Xiaofan falls off during the flight; someone he calls 'Elder...' is there when he lands. Not clear who.",
+    "746.0 s 'Wang to fly on magic dice?' is a typo for 'Want'."
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "ep": 56,
+  "title": "Li Xun's proposal and 'Come away with me'",
+  "summary": "Yun Yilan, master of Fen Xiang Valley, comes to Qingyun to warn Dao Xuan about the Beast Deity, and Dao Xuan agrees to write to Abbot Pu Hong so Tian Yin Temple can join a council. Yun Yilan then asks for Lu Xueqi's hand for his disciple Li Xun. Shui Yue agrees, hoping the match will end the rumours about Xueqi and the Demon Sect, but Xueqi refuses in front of everyone. Shui Yue calls her a traitor and has Wen Min take her back to Small Bamboo Peak, where she is confined to the back mountain. Elsewhere Gui Li grills meat and shares it with a stranger who keeps the ancient beast Taotie; they talk about loneliness, and the stranger says the one person he trusted deceived him. Tian Buyi and Su Ru hear of the refused proposal, and Tian Buyi says he would protect Xiaofan even at the cost of his seat. That night Gui Li visits Xueqi, asks her to come away with him to the ends of the earth, and she answers by asking what about Bi Yao.",
+  "events": [
+    "Yun Yilan warns Dao Xuan about the Beast Deity; Dao Xuan will invite Tian Yin Temple to Qingyun",
+    "Yun Yilan proposes a match between Li Xun and Lu Xueqi; Shui Yue agrees",
+    "Lu Xueqi refuses in public and is confined to Small Bamboo Peak's back mountain",
+    "Gui Li shares roast meat with a stranger and his Taotie; they talk about loneliness and betrayal",
+    "Tian Buyi and Su Ru discuss the proposal and Xiaofan",
+    "Gui Li visits Xueqi at night and asks her to leave with him",
+    "Xueqi asks him: what about Bi Yao?"
+  ],
+  "introduced": [
+    "Taotie (ancient beast)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "yun-yilan", "name": "Yun Yilan"},
+    {"id": "dao-xuan", "name": "Dao Xuan"},
+    {"id": "shui-yue", "name": "Shui Yue"},
+    {"id": "li-xun", "name": "Li Xun"},
+    {"id": "wen-min", "name": "Wen Min"},
+    {"id": "tian-buyi", "name": "Tian Buyi"},
+    {"id": "su-ru", "name": "Su Ru"},
+    {"id": "beast-deity", "name": "Beast Deity", "look": "appears as a lone stranger with the Taotie; not named in this episode"},
+    {"id": "taotie", "name": "Taotie", "quote": "(Taotie)", "first": true, "card": 412.6},
+    {"id": "xiao-hui", "name": "Xiao Hui"}
+  ],
+  "changes": [],
+  "flags": [
+    "The Taotie's owner is never named. He says the one person he trusted deceived him and almost destroyed him, which matches the Beast Deity and Ling Long; summary calls him 'a stranger'. cast id beast-deity is inferred.",
+    "469.0 s: 'Katamu, ia mirip Huang?' ('you say it looks like Huang?') then 'Kera Roh Bermata Tiga?': probably the stranger comparing the Taotie with Xiao Hui (or Dahuang); unclear.",
+    "740-784 s: who speaks about 'giving up the seat in Yuqing Hall' to protect his disciple is not stated; read as Tian Buyi (he is addressed 'Buyi' at 783.9). The scene's setting and listener are unclear.",
+    "803.6 s: 'Aku tidak bersedia' and 'ada pengkhianat sepertimu di Qingyun' then 'Wen Min, bawa dia kembali ke Puncak Xiaozhu': read as Shui Yue confining Xueqi after the refusal.",
+    "EP55 has no subtitles, so continuity from EP54 could not be checked; EP57 also has none."
+  ]
+}

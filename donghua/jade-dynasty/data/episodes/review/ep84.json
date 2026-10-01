@@ -1,0 +1,54 @@
+{
+  "ep": 84,
+  "title": "The Eight-Direction Fire Dragon",
+  "summary": "Before the fight the Beast Deity asks Gui Li and Lu Xueqi for one thing if he loses: to pick a bunch of the lilies Ling Long loved and lay them before her statue at the cave mouth. When Lu Xueqi says she has no greater wish, he says there is still a woman in the world like Ling Long. He drinks with them as with true friends, then shows them the secret of Ling Long's own formation. The Eight-Direction Fire Dragon appears, and Hei Hu remembers Ling Long's dying words that when the dragon came back to this place, all the hatred and karma would end. Gui Li and Lu Xueqi fight side by side, she with the Divine Thunder of the Nine Heavens sword art. The cave starts to fall in. The dying Beast Deity sees Ling Long at last and goes to her, and Hei Hu goes gladly to join his goddess. Elsewhere, someone who had counted on the cave's formation diagram decides to look for surviving Wu clansmen instead. Gui Li and Lu Xueqi rest together, agreeing not to think about tomorrow, and keep the promise of the lilies, though the statue has likely crumbled; they take it that Ling Long has become one with the land she died to protect.",
+  "events": [
+    "The Beast Deity asks for lilies to be laid before Ling Long's statue if he falls",
+    "He drinks with Gui Li and Lu Xueqi before the fight",
+    "The Eight-Direction Fire Dragon appears; Hei Hu recalls Ling Long's prophecy",
+    "Gui Li and Lu Xueqi fight the Beast Deity; Lu Xueqi uses Divine Thunder",
+    "The cave collapses; the Beast Deity dies seeing Ling Long, and Hei Hu passes on",
+    "Someone plans to track down Wu clan survivors for the formation's secret",
+    "Gui Li and Lu Xueqi rest together and lay the lilies"
+  ],
+  "introduced": [
+    "Eight-Direction Fire Dragon (Naga Api Delapan Penjuru)",
+    "Divine Thunder of the Nine Heavens sword (Lu Xueqi's sword art)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "beast-deity",
+      "name": "Beast Deity"
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "hei-hu",
+      "name": "Hei Hu"
+    },
+    {
+      "id": "ling-long",
+      "name": "Ling Long",
+      "look": "vision"
+    }
+  ],
+  "changes": [
+    "The Beast Deity dies at the end of this fight (645-684 s), reunited with a vision of Linglong."
+  ],
+  "flags": [
+    "241-289 s: it is not stated who summons the Eight-Direction Fire Dragon (the Beast Deity through Linglong's formation, or Gui Li through the Mystic Fire Mirror Xiao Bai mentioned in EP83).",
+    "369-545 s: the theme song plays over the battle; its lyrics are not dialogue.",
+    "450 s: 'Pedang Sembilan Langit, berubah menjadi Petir Dewa' taken as Lu Xueqi's Divine Sword Thunder art.",
+    "708-712 s: 'I can't die here, I have unfinished business' - speaker not shown in the subs (probably Gui Li).",
+    "735-773 s: the pair discussing the lost formation diagram and 'Wu clan survivors' are not named. The inner line '(Old friend, you surely won't be content to die buried there)' may be Xiao Bai thinking of Hei Mu, or someone else.",
+    "510-517 s: 'If only she could have stayed with me back then' during the song; speaker unclear (probably the Beast Deity)."
+  ]
+}

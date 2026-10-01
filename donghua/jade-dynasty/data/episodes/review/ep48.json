@@ -1,0 +1,36 @@
+{
+  "ep": 48,
+  "title": "Lu Xueqi's farewell sword dance",
+  "summary": "In the Wood Clan, people mock an outcast who came back claiming to be a shaman, but the clan chief has taken him in. The chief's men report that the other three tribes will stay out of their war with the Golden Clan. The sorcerer says a supreme spell taught to him by his master will kill the Golden Clan's Great Shaman and win back their artifact after 200 years. In Tianshui Village, Lu Xueqi asks Gui Li whether he travels with Jin Ping'er. He says no, and she asks him to walk with her. On a hill she admits she lost the Seven Meridians Tournament because he held back, and that he has been on her mind for ten years, since Kongsang Mountain. She says she can never betray Qingyun, so tonight she will cut off ten years of foolish longing: if they meet again, one of them will die. She dances with her sword for him one last time. Xiao Bai watches and says both of them are fools, then she and Gui Li head over Mount Matou towards Qili Village.",
+  "events": [
+    "The Wood Clan prepares for war with the Golden Clan; the other three tribes agree to stay out",
+    "The clan's sorcerer boasts his master's spell will kill the Great Shaman",
+    "Lu Xueqi asks Gui Li about Jin Ping'er and asks him to walk with her",
+    "She recalls the Seven Meridians Tournament, Kongsang Mountain and Bi Yao's leap in front of the Zhu Xian Sword",
+    "She confesses her feelings but says she will never leave Qingyun",
+    "She vows that next time one of them will die, then performs a farewell sword dance",
+    "Xiao Bai comments on the pair; she and Gui Li cross Mount Matou towards Qili Village"
+  ],
+  "introduced": [
+    "Wood Clan (Mu tribe)",
+    "Bear God (the Wood Clan's deity)",
+    "Mount Matou"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": "xiao-bai", "name": "Xiao Bai"},
+    {"id": "xiao-hui", "name": "Xiao Hui"},
+    {"id": "ahetai", "name": "Ahetai", "look": "the Wood Clan's returned outcast sorcerer; named only in EP51"},
+    {"id": null, "name": "Wood Clan chief"}
+  ],
+  "changes": [],
+  "flags": [
+    "215-223 s: 'Suku Mu' is the Wood Clan (later 'Klan Kayu'); 'Suku Jin' / 'Klan Emas' is the Golden Clan.",
+    "567 s: 'Miss Bi Yao took the Zhu Xian Sword to attack you' is a garbled line; from the scene and series it means Bi Yao took the sword's blow for him.",
+    "1044 s: Xiao Bai addresses 'Xiao Hei'; read as a slip for Xiao Hui, the monkey.",
+    "1201 s: the closing line about Mount Matou and Qili Village may be the episode's last scene or a short tag; either way it leads into EP49."
+  ]
+}

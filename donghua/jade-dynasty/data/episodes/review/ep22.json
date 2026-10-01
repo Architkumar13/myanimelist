@@ -1,0 +1,91 @@
+{
+  "ep": 22,
+  "title": "Bi Yao on Qingyun Mountain",
+  "summary": "At Yuqing Temple on Tongtian Peak, sect leader Dao Xuan apologises to Pu Hong, abbot of Tian Yin Temple, who says Zhang Xiaofan is young and should be forgiven. Shangguan Ce arrives from Fen Xiang Valley on Yun Yilan's orders, mocks Pu Hong's mercy, and says Fen Xiang's Mystic Fire Mirror is tied to Xiaofan. Cang Song argues that Xiaofan must be punished to save Qingyun's name. In the demon camp the Ghost King asks the Poison God to back his leadership of the alliance, hinting that the Seven-Tailed Centipede is down to its last pair and offering to share the world once Qingyun falls. Song Daren tells Xiaofan that Tian Buyi swore on his life to Dao Xuan and Cang Song that Xiaofan is no spy, and that Xiaofan will be questioned before everyone at Yuqing Temple in the morning. Bi Yao slips onto the mountain and finds Xiaofan in the back hills; she asks him to run away with her, but he says Qingyun is his home and he cannot betray his master and his master's wife. She promises to tell him who she saw in the Full Moon Ancient Well when they meet again. Dao Xuan visits a hidden old man for advice, Bi Yao learns her father has secretly moved his main force to Qingyun Mountain, and the four demon leaders swear to destroy Qingyun.",
+  "events": [
+    "Dao Xuan receives Pu Hong at Yuqing Temple; Pu Hong argues for mercy",
+    "Shangguan Ce of Fen Xiang Valley arrives and links the Mystic Fire Mirror to Xiaofan",
+    "The Ghost King presses the Poison God to join him against Qingyun",
+    "Song Daren tells Xiaofan that Tian Buyi vouched for him with his life; the trial is set for morning",
+    "Bi Yao meets Xiaofan on the back mountain and asks him to leave with her; he refuses",
+    "Dao Xuan speaks with a hidden old man about mercy",
+    "You Ji tells Bi Yao the Demon Sect's full force is moving on Qingyun",
+    "The four demon leaders swear revenge for the Holy Temple a hundred years ago: 'Destroy Qingyun Sect!'"
+  ],
+  "introduced": [
+    "Pu Hong (abbot of Tian Yin Temple)",
+    "Shangguan Ce (Fen Xiang Valley)",
+    "Yun Yilan (master of Fen Xiang Valley, named only)",
+    "Seven-Tailed Centipede (the Ten Thousand Poisons Sect's beast)",
+    "Holy Temple (where five Qingyun disciples crushed the Demon Sect a hundred years ago)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "dao-xuan",
+      "name": "Dao Xuan"
+    },
+    {
+      "id": "pu-hong",
+      "name": "Pu Hong",
+      "first": true
+    },
+    {
+      "id": "shangguan-ce",
+      "name": "Shangguan Ce",
+      "first": true
+    },
+    {
+      "id": "xiao-yicai",
+      "name": "Xiao Yicai"
+    },
+    {
+      "id": "cang-song",
+      "name": "Cang Song"
+    },
+    {
+      "id": "ghost-king",
+      "name": "Ghost King"
+    },
+    {
+      "id": "god-of-poison",
+      "name": "Poison God"
+    },
+    {
+      "id": "song-daren",
+      "name": "Song Daren"
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Zhang Xiaofan"
+    },
+    {
+      "id": "bi-yao",
+      "name": "Bi Yao"
+    },
+    {
+      "id": "wan-jianyi",
+      "name": "Wan Jianyi",
+      "look": "the hidden old man Dao Xuan visits (not named here)"
+    },
+    {
+      "id": "you-ji",
+      "name": "You Ji"
+    },
+    {
+      "id": "yu-yangzi",
+      "name": "Yu Yangzi"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "Subs say 'Red Fire Mirror' (also EP15-16); mapped to the name sheet's Mystic Fire Mirror. 'Gui Wang' = Ghost King. 'Yang Fire skill' (113 s) is Fen Xiang's art.",
+    "No name cards this episode, only '(Yuqing Temple)' location captions. Pu Hong and Shangguan Ce have no earlier on-screen appearance in the English track (Shangguan only mentioned in EP15), so first: true without card.",
+    "165-174 s: the argument is unattributed; read as Cang Song (punish) versus someone defending Xiaofan, cut off by 'Shut up!'.",
+    "688-746 s: the old man is not named; identified as Wan Jianyi from EP24 and the novel. 'I shouldn't have been merciful to that disciple and kept him' (Dao Xuan, 708 s): which disciple is not said (probably Cang Song).",
+    "770-775 s: someone prays to 'the Son of Heavens, Wisdom King and Holy Mother'; speaker not shown in the subs (perhaps Cang Song, given EP24).",
+    "Dixue Cave (533 s) is the cave beneath the Abyss of the Dead from EP11-12.",
+    "Shangguan Ce here may already be the impostor: EP25 says a Demon Sect member disguised as Shangguan Ce ambushed Pu Hong."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "ep": 51,
+  "title": "Ahetai's betrayal and the righteous sects strike",
+  "summary": "Gui Li is caught in a rage, and someone screams that they will kill him. The Wood Clan's own fighters find that their sorcerer Ahetai hasn't handed over the holy artifact as promised and go after him. Ahetai declares the Southern Border is his own, but an envoy of the Beast Deity arrives with an evil dragon, having expected the betrayal, and takes the artifact. Shangguan Ce faces this envoy, an old friend he hasn't seen in 80 years. They speak of a promise made to the Beast Deity together with Yun Yilan, and the envoy leaves. The Fen Xiang disciples, Lu Xueqi and Fa Xiang find Gui Li among dead villagers, women and children included, and attack him. Fa Xiang begs him to let go of his hatred. Gui Li remembers Grass Temple Village, Qingyun, the Seven Meridians Tournament and Lu Xueqi vouching for him with her life, and admits he wants to go back but cannot. Lu Xueqi calls down her Divine Sword Lightning on him.",
+  "events": [
+    "Gui Li rages and is threatened with death",
+    "The Wood Clan learns Ahetai is keeping the holy artifact and turns on him",
+    "A Beast Deity envoy with an evil dragon takes the artifact from Ahetai",
+    "Shangguan Ce meets the envoy, an old friend from 80 years ago, and lets him go",
+    "Li Xun, Lu Xueqi and Fa Xiang accuse Gui Li of slaughtering the villagers and attack",
+    "Fa Xiang urges him to let go; Gui Li's memories of Qingyun and Lu Xueqi",
+    "Lu Xueqi unleashes her Divine Sword Lightning"
+  ],
+  "introduced": [
+    "Ahetai (the Wood Clan's sorcerer)",
+    "the evil dragon (guardian of the Beast Deity's envoy)",
+    "Black Fire (given to Ahetai by the Beast Deity)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": "ahetai", "name": "Ahetai"},
+    {"id": null, "name": "Beast Deity's envoy", "look": "rides an evil dragon; an old friend of Shangguan Ce"},
+    {"id": "shangguan-ce", "name": "Shangguan Ce"},
+    {"id": "li-xun", "name": "Li Xun"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "fa-xiang", "name": "Fa Xiang"}
+  ],
+  "changes": [],
+  "flags": [
+    "187-210 s: 'Zhang Xiaofan! ... I'll kill you!' The speaker isn't named; could be Li Xun or a vision figure.",
+    "356-505 s: who says what between Ahetai, the dragon-riding envoy and Shangguan Ce is hard to follow. Read as: the envoy, sent by the Beast Deity, takes the artifact; Shangguan Ce greets him after 80 years; they mention a promise made 'with Brother Yun' (Yun Yilan); 'Do you still believe your Valley Master?' is the envoy to Shangguan Ce. The names may be the other way round.",
+    "518-561 s: the speaker accusing 'Gui Li' of killing women and children is probably Li Xun ('I hope Junior Lu and Senior Fa Xiang help each other').",
+    "684 s: 'If you don't want to go back, let me' is also heard at the end of EP47 (a preview).",
+    "710-969 s: Gui Li's inner monologue and flashbacks (Seven Meridians Tournament, Lu Xueqi pledging her life that he isn't a traitor).",
+    "1039 s: 'Nine Heavens Sword... become Divine Lightning' is read as Lu Xueqi's Divine Sword Lightning technique."
+  ]
+}

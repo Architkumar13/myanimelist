@@ -1,0 +1,39 @@
+{
+  "ep": 49,
+  "title": "The Great Shaman of the Golden Clan",
+  "summary": "Gui Li and Xiao Bai reach Qili Village, which Xiao Bai remembers as violent 300 years ago but which is now peaceful. She says the person she once saw perform a soul-return technique was the Golden Clan's Great Shaman. Xiao Bai points at the sacred altar, which is a grave insult, and villagers try to seize them until the chief, Tu Ma Gu, steps in. Gui Li tells him a friend has lain unconscious for ten years with her soul damaged, and Tu Ma Gu takes the request to the Great Shaman. Meanwhile Xiao Bai drinks the village men under the table. The Great Shaman, who hasn't left the altar in 100 years, agrees to see them when he hears only one soul of three and one spirit of seven remains. Gui Li explains that Bi Yao spent her life blocking the Zhu Xian Sword for him and that a trace of her soul is held in the Hehuan Bell. The Great Shaman says he knows something of the technique but first wants to know who told them about it. At Fen Xiang Valley, Shangguan Ce thanks the Qingyun and Tian Yin guests, says Yun Yilan is in seclusion, and blames the Demon Sect for using the eruption to attack. Lu Xueqi says she and Li Xun heard the demon cultists mention Qili Village, and the guests decide to go and investigate.",
+  "events": [
+    "Gui Li and Xiao Bai arrive at Qili Village",
+    "Xiao Bai offends the altar; Tu Ma Gu stops the villagers from seizing them",
+    "Xiao Bai wins a drinking contest with the villagers",
+    "The Great Shaman agrees to see them after hearing about the patient's condition",
+    "Gui Li tells the Great Shaman how Bi Yao died for him and asks him to save her",
+    "The Great Shaman asks who told them about the soul-return technique; the drunk Xiao Bai can't answer",
+    "Shangguan Ce blames the Demon Sect for the attack on Fen Xiang; Lu Xueqi brings up the Qili Village lead",
+    "Next morning: the Golden Clan's Dog God statue"
+  ],
+  "introduced": [
+    "Tu Ma Gu (chief of the Golden Clan)",
+    "Great Shaman of the Golden Clan",
+    "Dog God (the Golden Clan's deity; 'Xiaotian')",
+    "soul-return technique"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": "xiao-bai", "name": "Xiao Bai"},
+    {"id": "tu-ma-gu", "name": "Tu Ma Gu", "quote": "[Tu Magu, Suku Emas]", "first": true, "card": 315.9},
+    {"id": "great-shaman", "name": "Great Shaman", "quote": "[Dukun Agung Suku Emas]", "first": true, "card": 547.0},
+    {"id": "shangguan-ce", "name": "Shangguan Ce"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "fa-xiang", "name": "Fa Xiang", "look": "the Tian Yin guest, inferred from 'Qingyun and Tian Yin Temple are here'"}
+  ],
+  "changes": [],
+  "flags": [
+    "935-1052 s: the Fen Xiang host is read as Shangguan Ce (Lu Xueqi thanks 'Tuan Shangguan' at 1048 s). The Tian Yin guest isn't named here; Fa Xiang is named in EP51.",
+    "1017 s: 'Li Xun and I both heard it' is read as Lu Xueqi.",
+    "1136 s: 'Dewa Anjing, Xiaotian' names the Dog God statue; 'Xiaotian' looks like the Heavenly Hound Xiaotian.",
+    "1143 s: '[Pedang Datang]' (the sword comes) is an on-screen caption; context unclear, possibly a preview."
+  ]
+}

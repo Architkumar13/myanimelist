@@ -1,0 +1,55 @@
+{
+  "ep": 76,
+  "title": "Heavenly Book Volume 4 and the lightning tribulation",
+  "summary": "Dao Xuan summons Xiao Yicai alone and accuses him of waiting for his master to die so he can take over Qingyun. Xiao Yicai swears before Qingyun's patriarchs that he has never deceived his master, and Dao Xuan backs down, saying he only wants him to stay clear-headed. At the Nether Abyss, the Ghost King Sect reads the storms and strange skies as the sign that the Candle Dragon is being born, and plans to use the abyss's power, with the two spirit beasts held in the Fulong Cauldron as the medium, to catch it. Under the Wordless Jade Wall, Buddhist, Daoist and demonic power fight inside Gui Li until his body can barely hold, and Pu Hong's monks strengthen their Vajra formation. Text appears on the wall, and Pu Hong is stunned to find Heavenly Book Volume 4 in a Buddhist holy place. Gui Li decides that Buddhism asks him to let go, Daoism to follow fate and the demonic path to do as he pleases, but none of them is him, and he will walk his own way. He forces his way past a mysterious seal left by some predecessor, and his cultivation sets off a heavenly lightning tribulation.",
+  "events": [
+    "Dao Xuan accuses Xiao Yicai of coveting his seat; Xiao Yicai swears loyalty",
+    "The Ghost King Sect reads the signs of the Candle Dragon's birth at the Nether Abyss",
+    "They plan to catch it using the Fulong Cauldron and its two spirit beasts",
+    "The three powers clash in Gui Li under the Wordless Jade Wall",
+    "Heavenly Book Volume 4 appears on the wall",
+    "Gui Li chooses his own way over Buddhism, Daoism and the demonic path",
+    "His breakthrough sets off a heavenly lightning tribulation"
+  ],
+  "introduced": [
+    "Heavenly Book, Volume 4 (on the Wordless Jade Wall)",
+    "Candle Dragon (Zhulong)",
+    "Fulong Cauldron",
+    "Nether Abyss (Ghost King Sect)"
+  ],
+  "cultivation": "Gui Li's cultivation, merged from the Heavenly Book with his Buddhist, Daoist and demonic arts, triggers a heavenly lightning tribulation (852 s). No realm named.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "dao-xuan",
+      "name": "Dao Xuan"
+    },
+    {
+      "id": "xiao-yicai",
+      "name": "Xiao Yicai",
+      "quote": "If Xiao Yicai has a hint of deceiving his teacher and destroying his ancestors, willing to be struck by five thunder"
+    },
+    {
+      "id": "ghost-king",
+      "name": "Ghost King"
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "pu-hong",
+      "name": "Pu Hong"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "194-254 s: Ghost King Sect speakers not named. 'Nether Abyss of the Holy Church' may be the Abyss of the Dead from earlier seasons; 'the change caused the destruction of the Holy Land' unclear.",
+    "219-225 s: 'Candlelight Jiuyin... the sign of the birth of the candle dragon' = Zhulong (烛九阴).",
+    "509-520 s: 'The power of the Fulong tripod... Kui Niu Yellow Bird' - the two spirit beasts in the cauldron are the Kui Ox and the Yellow Bird (matches EP79's three of Four Spirits).",
+    "551-554 s: 'How to find the candle dragon? Those who wish to take the bait' - plan unclear.",
+    "463-475 s and 729-739 s: chanted spells ('Hook of impermanence...', 'Jiuyou Xuanming... ninety-nine no return'): read as the Ghost King Sect's ritual; could also be the wall's seal.",
+    "701-718 s: 'a ban left by the predecessors... such mysterious handwriting': whose seal is not stated.",
+    "Out-of-order cues at the end of the file (214.8, 216.5, 231.4, 239.0, 734.1 s) - timing errors in the track; meaning ('storm and thunder star obscure', 'wind and sand flow here is completely different') fits the abyss scene."
+  ]
+}

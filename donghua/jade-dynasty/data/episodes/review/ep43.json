@@ -1,0 +1,56 @@
+{
+  "ep": 43,
+  "title": "The Nine-Tailed Fox in the Mystic Fire Altar",
+  "summary": "The voice belongs to Xiao Bai, a Nine-Tailed Heavenly Fox chained in the depths of the Mystic Fire Altar. She notes that Xiao Hui's third eye has opened but its red light is dimmed by evil power, and that only old Shangguan Ce or the Mystic Fire Mirror could get anyone past the Eight Fiends Formation and its Crimson Flame Beast to the altar's third level. Seeing the mirror on Gui Li, she demands to know what happened to Xiao Liu, the six-tailed fox, who is her son. Gui Li tells her that ten years ago, while he and two friends were investigating trouble at Small Pond Town, Xiao Liu died in the arms of a three-tailed fox and gave him the mirror; he admits his part in the death and offers his life. Xiao Bai spares him and explains the altar is a prison Fen Xiang built for her three hundred years ago, after her fox clan stole the mirror from the valley and only Xiao Liu escaped. Gui Li agrees to put the mirror on the stone altar to drain the Mystic Fire Chains, saying he once watched someone he loved fall to the Zhu Xian Sword. Meanwhile Shangguan Ce finds a faint purple tint on the first dead fish-man's wound, names Jin Ping'er's Purple Light Sword, and the enraged fish-men attack Fen Xiang as the altar begins to erupt.",
+  "events": [
+    "Xiao Bai reveals herself as the Nine-Tailed Heavenly Fox imprisoned in the altar",
+    "She sees the Mystic Fire Mirror and asks after Xiao Liu, her son",
+    "Gui Li tells her how Xiao Liu died at Small Pond Town and offers his life",
+    "Xiao Bai explains her three-hundred-year imprisonment and the fox clan's theft of the mirror",
+    "Gui Li places the mirror on the stone altar to break the Mystic Fire Chains",
+    "Shangguan Ce identifies the Purple Light Sword wound and blames Jin Ping'er of the He Huan Sect",
+    "The fish-men attack Fen Xiang Valley; the Mystic Fire Altar erupts"
+  ],
+  "introduced": [
+    "Xiao Bai (Nine-Tailed Heavenly Fox)",
+    "Eight Fiends Formation",
+    "Mystic Fire Chains"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-bai",
+      "name": "Xiao Bai",
+      "quote": "[Rubah Langit Ekor Sembilan]",
+      "card": 296.8,
+      "first": true
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui",
+      "look": "third eye open, its red light dim"
+    },
+    {
+      "id": "shangguan-ce",
+      "name": "Shangguan Ce"
+    },
+    {
+      "id": "li-xun",
+      "name": "Li Xun"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "No dialogue before 177 s: recap/opening.",
+    "216 s: 'Formasi Delapan Api Hitam' mapped to the Eight Fiends Formation (八凶玄火法阵); 231 s 'Black Flame Mirror/Altar' = Mystic Fire Mirror/Altar.",
+    "296.8 s: '[Rubah Langit Ekor Sembilan]' is Xiao Bai's card; she gives the name Xiao Bai only in EP45.",
+    "535-573 s: Shangguan Ce first suspects He Huan illusion magic; 'the three who escaped were only an illusion' refers to the earlier escape.",
+    "618 s: 'Mengapa kamu tidak membunuhku?' — Gui Li to Xiao Bai.",
+    "897-909 s: 'Ten years ago I myself laid her on the lava rock ... I saw her fall in the Zhu Xian formation' — read as Gui Li speaking of Bi Yao; not named."
+  ]
+}

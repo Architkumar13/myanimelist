@@ -1,0 +1,64 @@
+{
+  "ep": 69,
+  "title": "Lin Jingyu's sword; Dao Xuan breaks the Tianji Seal",
+  "summary": "Lin Jingyu fights Gui Li, asking why the man he trained day and night to stop had to be his old friend. Between blows he remembers their childhood sparring, when Xiaofan was slow but swore that hard work would carry him. Jingyu uses Wan Jianyi's Qingyun sword technique, Demon and God Slayer, and only breaks through when he remembers Wan Jianyi's lesson that the Dragon Slayer sword must go forward without hesitation. Gui Li asks how Jingyu would feel if the person killed were someone he loved, and Jingyu, shouting for Gui Li to give back his master and his brother Xiaofan, wins; Gui Li tells him to strike, since there is no one left he cares about. On the front mountain the Zhu Xian Sword Formation is raised against the Beast Deity, but the sword cannot reach its full power and the Beast Deity overwhelms Dao Xuan and the leaders. Dao Xuan kneels before the tablet of Ancestor Tiancheng, Qingyun's 17th leader, and confesses that he is breaking a rule and will bear the cost alone. He breaks the Tianji Seal, and the seven peaks pour their power, and the sword's evil aura, into the formation.",
+  "events": [
+    "Lin Jingyu and Gui Li fight; flashbacks to their childhood sparring",
+    "Fen Xiang's Flame Prison and the Zhu Xian Sword Formation strike the Beast Deity",
+    "Jingyu uses Demon and God Slayer and recalls Wan Jianyi's lesson on the Dragon Slayer",
+    "Jingyu beats Gui Li, demanding back his master and his brother Xiaofan",
+    "The Beast Deity overpowers Dao Xuan and the leaders; someone holds him off so the others can flee",
+    "Dao Xuan prays before Ancestor Tiancheng's tablet",
+    "Dao Xuan breaks the Tianji Seal and the seven peaks feed the Sword Formation"
+  ],
+  "introduced": [
+    "Ancestor Tiancheng (Qingyun's 17th sect leader, memorial tablet)",
+    "Demon and God Slayer (Qingyun sword technique)",
+    "Flame Prison (Fen Xiang technique)",
+    "Zhongtu (the Beast Deity's name for the Central Plains)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "lin-jingyu",
+      "name": "Lin Jingyu",
+      "look": "also seen as a child in flashbacks"
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li",
+      "look": "also seen as a child in flashbacks"
+    },
+    {
+      "id": "wan-jianyi",
+      "name": "Wan Jianyi",
+      "look": "in Jingyu's memory"
+    },
+    {
+      "id": "dao-xuan",
+      "name": "Dao Xuan"
+    },
+    {
+      "id": "beast-deity",
+      "name": "Beast Deity"
+    },
+    {
+      "id": "tian-buyi",
+      "name": "Tian Buyi",
+      "look": "mentioned as Xiaofan's 'short master' in the flashback"
+    }
+  ],
+  "changes": [
+    "No older summary to correct."
+  ],
+  "flags": [
+    "532-549 s: the Dragon Slayer lesson is read as Wan Jianyi's voice in Jingyu's memory (Jingyu answers 'Senior').",
+    "623-643 s: 'Xiaofan, I always thought of him as my brother... if even I don't stand on his side, no one will' sits under a song; speaker and addressee unclear (possibly a memory involving Tian Buyi's household).",
+    "686-707 s: 'Do you accept defeat? / No' and 'I'll protect you later' read as childhood flashback lines.",
+    "712-714 s: Gui Li says 'Lakukanlah' (do it); the outcome of the duel is not shown in the subtitles.",
+    "878 s: 'I can only hold for a moment. Go!' speaker not named.",
+    "981-992 s: four lines name the peaks (Great Bamboo, Small Bamboo, Wind Return/Dragon Head, Morning Sun, Tongtian) as the Tianji Seal opens.",
+    "1009 s: 'Guru' (Master) speaker not named, possibly Xiao Yicai about Dao Xuan."
+  ]
+}

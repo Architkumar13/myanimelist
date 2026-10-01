@@ -1,0 +1,77 @@
+{
+  "ep": 80,
+  "title": "Blood on the Mystic Fire Altar",
+  "summary": "In Fen Xiang Valley Yun Yilan starts the blood sacrifice, killing his own disciples to feed the altar formation and taunting Shangguan Ce to give his own blood if he objects. Gui Li breaks into the forbidden ground, calls the valley no better than the Demon Sect, and fights Yun Yilan, who is shocked that a man with a few decades of cultivation can match him. The altar erupts in fire and Yun Yilan is wounded; Shangguan Ce orders the matter kept secret, and Li Xun is surprised to find Lu Xueqi there. Gui Li and Xiao Bai escape and head into the Hundred Thousand Mountains toward the Ancient Demon-Suppressing Cave. The Beast Deity tells Xiao Bai that the Wu priestess Ling Long made him from the killing aura of heaven and earth, that she was his whole world, and that she turned cold once he grew as strong as her. On the road Zhou Yixian, Xiao Huan and Ye Gou Daoren help hungry refugees until a monster attacks. Ye Gou Daoren holds it off to save them and the villagers kill it, but he stops breathing, and Xiao Huan refuses to let him go.",
+  "events": [
+    "Yun Yilan sacrifices Fen Xiang disciples to power the altar formation",
+    "Gui Li breaks in and fights Yun Yilan; the Mystic Fire Altar bursts into flame",
+    "Shangguan Ce hushes up the incident; Li Xun finds Lu Xueqi in the valley",
+    "Gui Li and Xiao Bai head for the Ancient Demon-Suppressing Cave",
+    "The Beast Deity tells Xiao Bai he was made by Ling Long and loved her",
+    "A monster attacks Zhou Yixian's group; the Five Ghosts charm fails",
+    "Ye Gou Daoren saves Xiao Huan and dies; she vows to save him"
+  ],
+  "introduced": [
+    "Ling Long (Wu priestess) named as the Beast Deity's maker",
+    "Hundred Thousand Mountains",
+    "Five Ghosts Moving House (Zhou Yixian's escape charm)"
+  ],
+  "cultivation": "Yun Yilan, in thought: he has reached the 'Yuyang realm', while Gui Li has cultivated only a few decades.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "yun-yilan",
+      "name": "Yun Yilan",
+      "realm": "Yuyang realm (as subtitled)",
+      "quote": "(Aku sudah mencapai Ranah Yuyang.)"
+    },
+    {
+      "id": "shangguan-ce",
+      "name": "Shangguan Ce"
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "li-xun",
+      "name": "Li Xun"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "xiao-bai",
+      "name": "Xiao Bai"
+    },
+    {
+      "id": "beast-deity",
+      "name": "Beast Deity"
+    },
+    {
+      "id": "zhou-yixian",
+      "name": "Zhou Yixian"
+    },
+    {
+      "id": "xiao-huan",
+      "name": "Xiao Huan"
+    },
+    {
+      "id": "ye-gou-daoren",
+      "name": "Ye Gou Daoren",
+      "look": "wears a cloth over his face"
+    }
+  ],
+  "changes": [
+    "First episode of the batch with the Fen Xiang sacrifice on screen; continues EP79's Yun Yilan plan."
+  ],
+  "flags": [
+    "17-56 s: who says which line in the sacrifice scene is inferred: Shangguan Ce protests ('Kakak Seperguruan, jangan!'), Yun Yilan answers. The intruder is not named but is taken to be Gui Li (EP79 sets him up, and Yun Yilan calls him a 'kid' with decades of cultivation).",
+    "79.9 s: 'Ranah Yuyang' is an unfamiliar realm name; it may be a transliteration slip.",
+    "161-204 s: Gui Li's companion calls him 'Young Master' and he calls her 'Miss'; not named, taken as Xiao Bai (continuing EP79).",
+    "224-457 s: in the Beast Deity scene the speaker turns are hard to follow (the line 'you've cultivated thousands of years, don't you want to be human?' fits either side). The other speaker is taken as Xiao Bai: she talks of a person she knows who never gives up (Gui Li), and in EP81-83 she says she is close to the Beast Deity. When this talk happens relative to Gui Li's trip is unclear.",
+    "442-457 s: the Beast Deity says 'since my wish has come true, let me insist this once' and does something to himself; EP81 shows he has become human.",
+    "464 s, 469 s: captions '(Petunjuk Dewa)' and '(Jalan)' are Zhou Yixian's fortune-telling banner, not dialogue."
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "ep": 39,
+  "title": "The golden bells and the Ghost King's plan",
+  "summary": "Gui Li and Jin Ping'er are chased through Fen Xiang Valley after golden bells ring an alarm with no wind, and they break out through a mountain pass. Lu Shun, who failed to catch them, wants to report to the Valley Master, but Li Xun says Yun Yilan is in seclusion. The valley's leaders suspect the intruders also killed the Fish-Man chief, regret not getting the Heaven Emperor's Death Stone at the Dead Swamp, and order the disciples to stay inside and strengthen the defences. At Huqi Mountain the Ghost King says the Four Spirits Blood Formation is half complete and needs two more spirit beasts. An envoy he sent to watch Gui Li praises how he handled the Dead Swamp, destroyed Longevity Hall and struck down Qin Wuyan, but confirms he risked his life to save Lu Xueqi from the Black Water Snake. In the valley, Lu Shun ignores Li Xun's order and leads disciples out to catch the intruders, while Gui Li and Jin Ping'er capture a Fen Xiang disciple to question. Two Ghost King Sect members discuss Mr. Ghost, who helped the Ghost King decipher the Dragon-Subduing Cauldron's inscriptions to build the formation.",
+  "events": [
+    "The golden bells ring; Gui Li and Jin Ping'er escape the chase through a mountain pass",
+    "Lu Shun and Li Xun argue about reporting to the secluded Valley Master",
+    "Fen Xiang links the intruders to the Fish-Man chief's death and seals the valley",
+    "The Ghost King reviews the Four Spirits Blood Formation and hears a report on Gui Li and Lu Xueqi",
+    "Lu Shun leads disciples out against orders",
+    "Gui Li and Jin Ping'er snatch a Fen Xiang disciple",
+    "Ghost King Sect members discuss Mr. Ghost's role in building the formation"
+  ],
+  "introduced": [
+    "Golden Bell Formation",
+    "Four Spirits Blood Formation",
+    "Dragon-Subduing Cauldron",
+    "Black Water Snake"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "jin-pinger",
+      "name": "Jin Ping'er"
+    },
+    {
+      "id": "lu-shun",
+      "name": "Lu Shun"
+    },
+    {
+      "id": "li-xun",
+      "name": "Li Xun"
+    },
+    {
+      "id": "ghost-king",
+      "name": "Ghost King"
+    },
+    {
+      "id": null,
+      "name": "Ghost King Sect envoy (reports on Gui Li)"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "No dialogue before 161 s: recap/opening.",
+    "387 s: 'Paman Guru Li' is probably Lu Shun ('Lu' misread); in EP40 Lu Shun is the martial uncle who broke the stay-inside order and lost a disciple.",
+    "479-497 s: the one who answers Li Xun ('Lupakan saja ... after you were injured') may be Yun Yilan or Lu Shun; not identified.",
+    "552-753 s: the envoy reporting on Gui Li is not named (possibly You Ji, who was at the Dead Swamp).",
+    "980 s: 'Kapal Penakluk Naga' (Dragon-Subduing Ship) mapped to the Dragon-Subduing Cauldron (Fulong Ding); 'Master Gui' at 969 s is Mr. Ghost.",
+    "941 s: 'Terima kasih atas hadiahnya, Penatua' — context unclear.",
+    "992-1000 s: 'If only Bi Yao were still here ... Gui Li went to the Southern Border again' — speakers not identified."
+  ]
+}

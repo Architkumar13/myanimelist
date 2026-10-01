@@ -1,0 +1,80 @@
+{
+  "ep": 33,
+  "title": "Wan Renwang and the fortune-teller",
+  "summary": "Jin Ping'er fights Fa Shan of Tian Yin Temple, Xiao Yicai and Yan Hong of Fen Xiang Valley, amused that three sects are after the same artefact. On the road Zhou Yixian meets the Ghost King, an old acquaintance; the Ghost King recalls that Zhou Yixian once read his stars and foretold he would lose his wife and child, which came true. Zhou Yixian confesses he knew nothing of star reading and made it up because the young man was arrogant; the Ghost King tells Xiao Huan to call him Wan Renwang. Qing Long and Zhu Que ask why their arrival is hidden from Gui Li, and the Ghost King says Gui Li mastered the Heavenly Book in ten years instead of thirty. Lu Xueqi meets Gui Li, asks why he risked himself for her at Jade Purity Hall ten years ago, and begs Junior Zhang to come back; he says he has not used that name for a long time and cannot return. Qing Long and Zhu Que plan to trap the Yellow Bird, a Nine Heavens spirit bird expected with the golden light, with the Four Spirits Blood Formation, though Qing Long thinks the formation too cruel and says the Ghost King changed after Bi Yao's death. The disciples find a giant ancient tree whose roots form walls and climb it in search of the relic.",
+  "events": [
+    "Jin Ping'er fights Fa Shan, Xiao Yicai and Yan Hong",
+    "Zhou Yixian meets the Ghost King and admits his old prophecy was made up",
+    "The Ghost King tells Xiao Huan his name is Wan Renwang",
+    "The Ghost King praises Gui Li's progress with the Heavenly Book",
+    "Lu Xueqi asks Gui Li to come back; he says he cannot",
+    "Qing Long and Zhu Que discuss capturing the Yellow Bird with the Four Spirits Blood Formation",
+    "The disciples find a giant tree with root walls"
+  ],
+  "introduced": [
+    "Fa Shan (Tian Yin Temple)",
+    "Wan Renwang (the Ghost King's name)",
+    "Yellow Bird (Nine Heavens Spirit Bird)",
+    "Four Spirits Blood Formation",
+    "Dragon-trapping pagoda (used by the Ghost King on the Kui Ox at Liubo Mountain)"
+  ],
+  "cultivation": "The Ghost King says Gui Li mastered the basics of the Heavenly Book in ten years, where he expected thirty.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "jin-pinger",
+      "name": "Jin Ping'er"
+    },
+    {
+      "id": "fa-shan",
+      "name": "Fa Shan"
+    },
+    {
+      "id": "xiao-yicai",
+      "name": "Xiao Yicai"
+    },
+    {
+      "id": "yan-hong",
+      "name": "Yan Hong"
+    },
+    {
+      "id": "zhou-yixian",
+      "name": "Zhou Yixian"
+    },
+    {
+      "id": "xiao-huan",
+      "name": "Xiao Huan"
+    },
+    {
+      "id": "ghost-king",
+      "name": "Ghost King",
+      "quote": "Panggil saja aku Wan Renwang."
+    },
+    {
+      "id": "qing-long",
+      "name": "Qing Long"
+    },
+    {
+      "id": "zhu-que",
+      "name": "Zhu Que"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "No name cards in this episode's subtitles.",
+    "333-458 s: the old acquaintance is not named as the Ghost King, but Zhou Yixian mentions 'your daughter' and he gives the name Wan Renwang, the Ghost King's name in the novel.",
+    "766 s 'Burung yellow' = Yellow Bird (Huang Niao); 'Pagoda Perangkap Naga' read as a dragon-trapping pagoda/vessel.",
+    "774-815 s: 'Kakak Ketiga' (Third sibling) is the one who calls the formation cruel; read as Qing Long talking to Zhu Que, but who is who is unclear.",
+    "636-755 s: Gui Li apparently saves Lu Xueqi ('Are you all right?' / 'Why didn't you kill me?'); 682 s 'Senior Lu, hati-hati!' speaker unclear.",
+    "838-886 s: someone thinks 'their goal is also the relic' and guards attack an intruder; who is unclear (possibly the Fish Men).",
+    "1068 s onward: Lu Xueqi concept-art captions, not episode content."
+  ]
+}

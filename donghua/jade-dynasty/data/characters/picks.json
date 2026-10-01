@@ -1,0 +1,909 @@
+{
+ "zhang-xiaofan": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/zxf-0a/t0010.0.png"
+  },
+  "1": {
+   "kind": "file",
+   "path": "cache/frames/zxf-1a/t0163.0.png"
+  },
+  "2": {
+   "kind": "file",
+   "path": "cache/animekhor/win/bi-yao-1c/t00747.5.png"
+  }
+ },
+ "lin-jingyu": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/wang-er-0a/t0776.0.png",
+   "focus": [
+    0.55,
+    0.3,
+    0.3
+   ]
+  },
+  "1": {
+   "kind": "file",
+   "path": "cache/frames/fang-chao-0a/t0279.0.png"
+  },
+  "2": {
+   "kind": "file",
+   "path": "cache/animekhor/win/ljy-2c/t00881.0.png"
+  }
+ },
+ "pu-zhi": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/pu-zhi-0a/t0530.0.png",
+   "focus": [
+    0.31,
+    0.27,
+    0.3
+   ]
+  }
+ },
+ "wang-er": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/wang-er-0a/t0774.0.png"
+  }
+ },
+ "tian-buyi": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/tian-buyi-0a/t0277.5.png"
+  }
+ },
+ "su-ru": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/su-ru-0a/t0520.0.png",
+   "focus": [
+    0.22,
+    0.45,
+    0.26
+   ]
+  }
+ },
+ "dao-xuan": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/dao-xuan-0a/t0198.5.png",
+   "focus": [
+    0.5,
+    0.28,
+    0.13
+   ]
+  }
+ },
+ "xiao-yicai": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/water-qilin-0c/t0153.5.png",
+   "focus": [
+    0.45,
+    0.2,
+    0.16
+   ]
+  }
+ },
+ "shui-yue": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/shui-yue-0a/t0279.0.png"
+  }
+ },
+ "song-daren": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/song-daren-0a/t0418.5.png",
+   "focus": [
+    0.6,
+    0.47,
+    0.16
+   ]
+  }
+ },
+ "cang-song": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/cang-song-0a/t0266.5.png"
+  }
+ },
+ "tian-linger": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/tian-linger-0a/t0497.5.png"
+  },
+  "1": {
+   "kind": "file",
+   "path": "cache/frames/xiao-hui-0a/t0385.0.png"
+  }
+ },
+ "du-bishu": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/du-bishu-0a/t0535.5.png",
+   "focus": [
+    0.76,
+    0.48,
+    0.15
+   ]
+  }
+ },
+ "zeng-shucang": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/zeng-shucang-0a/t0290.0.png",
+   "focus": [
+    0.385,
+    0.2,
+    0.1
+   ]
+  }
+ },
+ "dahuang": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/dahuang-0a/t0713.5.png",
+   "focus": [
+    0.72,
+    0.3,
+    0.4
+   ],
+   "zoom": 0.8
+  }
+ },
+ "water-qilin": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/water-qilin-0b/t0126.0.png",
+   "focus": [
+    0.45,
+    0.38,
+    0.24
+   ]
+  }
+ },
+ "shang-zhengliang": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/shang-zhengliang-0a/t0308.5.png",
+   "focus": [
+    0.71,
+    0.23,
+    0.15
+   ]
+  }
+ },
+ "tian-yun": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/tian-yun-0a/t0318.0.png",
+   "focus": [
+    0.64,
+    0.41,
+    0.16
+   ]
+  }
+ },
+ "xiao-hui": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/xiao-hui-0a/t0384.5.png"
+  },
+  "1": {
+   "kind": "file",
+   "path": "cache/animekhor/win/xiao-hui-1a/t00175.5.png",
+   "focus": [
+    0.62,
+    0.3,
+    0.4
+   ],
+   "zoom": 0.85
+  }
+ },
+ "qi-hao": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/qi-hao-0a/t0314.0.png",
+   "focus": [
+    0.52,
+    0.36,
+    0.17
+   ]
+  }
+ },
+ "fang-chao": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/lu-xueqi-0b/t0015.0.png",
+   "focus": [
+    0.46,
+    0.3,
+    0.2
+   ]
+  }
+ },
+ "lu-xueqi": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/lu-xueqi-0c/t0019.5.png"
+  },
+  "1": {
+   "kind": "file",
+   "path": "cache/animekhor/win/lu-xueqi-1a/t00715.5.png"
+  }
+ },
+ "zeng-shushu": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/zeng-shushu-0a/t0298.5.png"
+  }
+ },
+ "wen-min": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/wen-min-0b/t0154.0.png",
+   "focus": [
+    0.5,
+    0.45,
+    0.22
+   ],
+   "zoom": 0.8
+  }
+ },
+ "chu-yuhong": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/chu-yuhong-0b/t0297.5.png",
+   "focus": [
+    0.49,
+    0.265,
+    0.11
+   ]
+  }
+ },
+ "peng-chang": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/peng-chang-0a/t0786.0.png"
+  }
+ },
+ "bi-yao": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/bi-yao-0a/t0454.0.png"
+  },
+  "1": {
+   "kind": "file",
+   "path": "cache/animekhor/win/bi-yao-1d/t00758.5.png",
+   "focus": [
+    0.87,
+    0.31,
+    0.12
+   ],
+   "zoom": 1.15
+  }
+ },
+ "li-xun": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/li-xun-0a/t0293.5.png",
+   "focus": [
+    0.69,
+    0.3,
+    0.2
+   ]
+  }
+ },
+ "pu-kong": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/pu-kong-0a/t0347.0.png",
+   "focus": [
+    0.58,
+    0.15,
+    0.24
+   ]
+  }
+ },
+ "zhu-que": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/zhu-que-0a/t00807.0.png",
+   "focus": [
+    0.63,
+    0.3,
+    0.3
+   ]
+  }
+ },
+ "jin-pinger": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/jin-pinger-0b/t00675.5.png",
+   "focus": [
+    0.63,
+    0.25,
+    0.22
+   ]
+  }
+ },
+ "qin-wuyan": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/qin-wuyan-0b/t00380.5.png",
+   "focus": [
+    0.4,
+    0.22,
+    0.22
+   ]
+  }
+ },
+ "sha-sheng": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/sha-sheng-1b/t01009.0.png",
+   "focus": [
+    0.53,
+    0.35,
+    0.42
+   ]
+  }
+ },
+ "lu-shun": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/lu-shun-0c/t00671.0.png",
+   "focus": [
+    0.42,
+    0.18,
+    0.15
+   ]
+  }
+ },
+ "xiao-bai": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/xiao-bai-0a/t00298.5.png",
+   "focus": [
+    0.47,
+    0.35,
+    0.3
+   ]
+  },
+  "1": {
+   "kind": "file",
+   "path": "cache/animekhor/win/xiao-bai-1a/t00431.0.png",
+   "focus": [
+    0.28,
+    0.42,
+    0.45
+   ]
+  }
+ },
+ "yun-yilan": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/yun-yilan-0a/t00731.0.png",
+   "focus": [
+    0.53,
+    0.3,
+    0.33
+   ]
+  }
+ },
+ "hei-mu": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/hei-mu-0a/t01054.5.png",
+   "focus": [
+    0.5,
+    0.32,
+    0.5
+   ],
+   "zoom": 0.8
+  }
+ },
+ "ahetai": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/ahetai-0a/t00174.0.png",
+   "focus": [
+    0.57,
+    0.24,
+    0.2
+   ]
+  }
+ },
+ "great-shaman": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/great-shaman-0a/t00551.0.png",
+   "focus": [
+    0.7,
+    0.4,
+    0.5
+   ],
+   "zoom": 0.8
+  }
+ },
+ "tu-ma-gu": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/tu-ma-gu-0a/t00318.0.png",
+   "focus": [
+    0.5,
+    0.3,
+    0.3
+   ]
+  }
+ },
+ "qingyunzi": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/qingyunzi-0a/t01045.0.png",
+   "focus": [
+    0.33,
+    0.45,
+    0.7
+   ],
+   "zoom": 0.6
+  }
+ },
+ "beast-deity": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/beast-deity-0a/t00376.0.png",
+   "focus": [
+    0.5,
+    0.3,
+    0.38
+   ]
+  }
+ },
+ "ling-long": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/ling-long-0a/t00212.5.png",
+   "focus": [
+    0.52,
+    0.27,
+    0.3
+   ],
+   "zoom": 0.58
+  }
+ },
+ "hei-hu": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/hei-hu-0a/t00416.0.png",
+   "focus": [
+    0.43,
+    0.3,
+    0.32
+   ],
+   "zoom": 0.6
+  },
+  "1": {
+   "kind": "file",
+   "path": "cache/animekhor/win/hei-hu-1b/t00198.5.png",
+   "focus": [
+    0.48,
+    0.18,
+    0.17
+   ]
+  }
+ },
+ "yan-hui": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/yan-hui-0a/t00213.5.png",
+   "focus": [
+    0.52,
+    0.27,
+    0.3
+   ],
+   "zoom": 0.6
+  }
+ },
+ "bai-hu": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/xuan-wu-0a/t00351.5.png",
+   "focus": [
+    0.55,
+    0.35,
+    0.4
+   ],
+   "zoom": 0.8
+  }
+ },
+ "taotie": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/taotie-0a/t00414.5.png",
+   "focus": [
+    0.25,
+    0.28,
+    0.35
+   ],
+   "zoom": 0.8
+  }
+ },
+ "chu-wu": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/chu-wu-0a/t00264.0.png",
+   "focus": [
+    0.5,
+    0.4,
+    0.4
+   ],
+   "zoom": 0.48
+  }
+ },
+ "fei": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/fei-0a/t00467.5.png",
+   "focus": [
+    0.5,
+    0.22,
+    0.3
+   ],
+   "zoom": 0.6
+  }
+ },
+ "evil-dragon": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/evil-dragon-0a/t00512.0.png",
+   "focus": [
+    0.18,
+    0.5,
+    0.45
+   ]
+  }
+ },
+ "white-bone-snake-demon": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/snake-0a/t00887.0.png",
+   "focus": [
+    0.55,
+    0.3,
+    0.2
+   ]
+  }
+ },
+ "shura-bird": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/snake-0a/t00885.5.png",
+   "focus": [
+    0.55,
+    0.5,
+    0.45
+   ]
+  }
+ },
+ "fei-yi": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/fei-yi-0a/t00416.0.png",
+   "focus": [
+    0.6,
+    0.45,
+    0.35
+   ]
+  }
+ },
+ "qingye": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/qingye-0b/t0070.5.png",
+   "focus": [
+    0.5,
+    0.47,
+    0.33
+   ],
+   "zoom": 0.42
+  }
+ },
+ "xuan-wu": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/bai-hu-0a/t00360.5.png",
+   "focus": [
+    0.5,
+    0.17,
+    0.13
+   ]
+  }
+ },
+ "fa-xiang": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/fa-xiang-b/t0323.5.png"
+  }
+ },
+ "ye-gou-daoren": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/xiao-zhou-b/t0802.5.png"
+  }
+ },
+ "you-ji": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/you-ji-a/t0026.0.png",
+   "focus": [
+    0.27,
+    0.25,
+    0.28
+   ]
+  }
+ },
+ "yan-hong": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/fa-xiang-a/t0293.5.png",
+   "focus": [
+    0.25,
+    0.3,
+    0.2
+   ]
+  }
+ },
+ "fa-shan": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/fa-shan-a/t0445.5.png",
+   "focus": [
+    0.27,
+    0.28,
+    0.3
+   ]
+  }
+ },
+ "nian-laoda": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/nian-laoda-c/t0569.5.png"
+  }
+ },
+ "lin-feng": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/xiao-zhou-a/t0691.0.png",
+   "focus": [
+    0.73,
+    0.27,
+    0.13
+   ]
+  }
+ },
+ "xiao-zhou": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/xiao-zhou-a/t0690.5.png",
+   "focus": [
+    0.25,
+    0.4,
+    0.12
+   ]
+  }
+ },
+ "jiang-laosan": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/jiang-laosan-a/t0406.0.png"
+  }
+ },
+ "black-hearted-old-man": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/black-hearted-old-man-a/t0481.0.png",
+   "focus": [
+    0.48,
+    0.17,
+    0.17
+   ]
+  },
+  "1": {
+   "kind": "file",
+   "path": "cache/frames/black-hearted-old-man-d/t0038.5.png",
+   "focus": [
+    0.56,
+    0.37,
+    0.25
+   ],
+   "zoom": 0.65
+  }
+ },
+ "ghost-king": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/ghost-king-a/t0292.5.png"
+  },
+  "1": {
+   "kind": "file",
+   "path": "cache/frames/ghost-king-d/t0861.5.png"
+  }
+ },
+ "zhou-yixian": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/xiao-huan-c/t0170.0.png"
+  }
+ },
+ "xiao-huan": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/xiao-huan-c/t0164.0.png"
+  }
+ },
+ "shi-tou": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/shi-tou-a/t0891.0.png",
+   "focus": [
+    0.45,
+    0.2,
+    0.18
+   ]
+  }
+ },
+ "three-tailed-fox": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/three-tailed-fox-a/t0172.5.png"
+  }
+ },
+ "six-tailed-fox": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/six-tailed-fox-a/t0768.5.png"
+  }
+ },
+ "baiduzi": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/baiduzi-a/t0656.0.png",
+   "focus": [
+    0.42,
+    0.37,
+    0.18
+   ]
+  }
+ },
+ "elder-duanmu": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/elder-duanmu-a/t0678.0.png",
+   "focus": [
+    0.18,
+    0.5,
+    0.25
+   ],
+   "zoom": 0.72
+  }
+ },
+ "master-xixue": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/master-xixue-a/t0444.5.png",
+   "focus": [
+    0.5,
+    0.38,
+    0.45
+   ],
+   "zoom": 0.42
+  }
+ },
+ "qing-long": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/qing-long-a/t0225.5.png",
+   "focus": [
+    0.57,
+    0.3,
+    0.25
+   ],
+   "zoom": 0.8
+  }
+ },
+ "mr-ghost": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/mr-ghost-a/t0120.0.png",
+   "focus": [
+    0.53,
+    0.27,
+    0.15
+   ]
+  }
+ },
+ "yu-yangzi": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/yu-yangzi-a/t0869.0.png",
+   "focus": [
+    0.53,
+    0.38,
+    0.4
+   ],
+   "zoom": 0.43
+  }
+ },
+ "san-miao": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/san-miao-a/t0835.5.png",
+   "focus": [
+    0.56,
+    0.4,
+    0.4
+   ]
+  }
+ },
+ "god-of-poison": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/god-of-poison-a/t0817.5.png",
+   "focus": [
+    0.7,
+    0.3,
+    0.18
+   ]
+  }
+ },
+ "shangguan-ce": {
+  "0": {
+   "kind": "file",
+   "path": "cache/animekhor/win/shangguan-ce-a/t01013.5.png",
+   "focus": [
+    0.5,
+    0.3,
+    0.3
+   ],
+   "zoom": 0.6
+  }
+ },
+ "pu-hong": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/pu-hong-a/t0035.0.png",
+   "focus": [
+    0.5,
+    0.25,
+    0.22
+   ]
+  }
+ },
+ "wan-jianyi": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/WanJianyi-749b16.png"
+  },
+  "1": {
+   "kind": "file",
+   "path": "cache/frames/wan-jianyi-i/t0857.5.png",
+   "focus": [
+    0.53,
+    0.42,
+    0.27
+   ],
+   "zoom": 0.59
+  }
+ },
+ "zhou-yin": {
+  "0": {
+   "kind": "file",
+   "path": "cache/frames/zhou-yin-a/t0311.0.png"
+  }
+ }
+}

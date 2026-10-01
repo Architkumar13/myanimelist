@@ -1,0 +1,55 @@
+{
+  "ep": 57,
+  "title": "Qing Long's last stand and Cang Song's visit",
+  "summary": "The dying Poison God names Qin Wuyan the next head of the Ten Thousand Poisons Sect. An urgent message reaches the Ghost King: the beasts of the Southern Border are rising. Pu Hong, Dao Xuan and Yun Yilan meet over the beast tide, which ordinary people cannot resist, and plan to stop it at Luoshen Gate before it reaches the Central Plains. In the Southern Border Qing Long, having led the beasts away from Qilidong, meets Jin Ping'er fleeing the demon kings. The Beast Deity forbids the demon kings to devour one another until his great work is done. Qing Long holds back two demon kings so Jin Ping'er can escape, then fights to the death, and his last message reaches the Ghost King. That night Cang Song, once of Qingyun and now with the Ten Thousand Poisons Sect, comes to the Ghost King Sect as an envoy. Gui Li tests him, using both Taiji Xuanqing and Buddhist techniques, and Cang Song recognises him as Zhang Xiaofan. The Poison God is dead, and Qin Wuyan proposes an alliance of the Ghost King Sect, the He Huan Sect and the Ten Thousand Poisons Sect at Snake Poison Valley. The Ghost King and Gui Li suspect his motives but agree. At the valley Qin Wuyan welcomes the Ghost King and San Miao, and is told Gui Li will bring a gift later. Meanwhile the righteous disciples take up their positions at Luoshen Gate.",
+  "events": [
+    "The Poison God makes Qin Wuyan head of the Ten Thousand Poisons Sect",
+    "Pu Hong, Dao Xuan and Yun Yilan plan to stop the beast tide at Luoshen Gate",
+    "Qing Long meets Jin Ping'er in the Southern Border; the Beast Deity forbids the demon kings to devour each other",
+    "Qing Long covers Jin Ping'er's escape and dies fighting the demon kings",
+    "Cang Song visits the Ghost King Sect for the Ten Thousand Poisons Sect and duels Gui Li",
+    "News of the Poison God's death and Qing Long's last message; Qin Wuyan proposes an alliance",
+    "The three demonic sects gather at Snake Poison Valley; Gui Li's gift is promised",
+    "The righteous sects man Luoshen Gate as the beast tide arrives"
+  ],
+  "introduced": [
+    "Poison God (Qin Wuyan's master, dies)",
+    "Cang Song (now with the Ten Thousand Poisons Sect)",
+    "Luoshen Gate (the pass into the Central Plains)",
+    "Snake Poison Valley",
+    "Qilidong (Southern Border)",
+    "Poison Blood Flag"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": null, "name": "Poison God"},
+    {"id": "qin-wuyan", "name": "Qin Wuyan", "quote": "Qin Wuyan, the 43rd generation disciple of the holy cult"},
+    {"id": "ghost-king", "name": "Ghost King"},
+    {"id": "pu-hong", "name": "Pu Hong"},
+    {"id": "dao-xuan", "name": "Dao Xuan"},
+    {"id": "yun-yilan", "name": "Yun Yilan"},
+    {"id": "qing-long", "name": "Qing Long"},
+    {"id": "jin-pinger", "name": "Jin Ping'er"},
+    {"id": "beast-deity", "name": "Beast Deity"},
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": "cang-song", "name": "Cang Song"},
+    {"id": "san-miao", "name": "San Miao"}
+  ],
+  "changes": [
+    "EP58's flag 'EP57 has no subtitles' is resolved: Qing Long dies here fighting the Beast Deity's demon kings, and his soul appearing as Chu Wu's thrall in EP58 fits (Chu Wu is probably one of those demon kings, but the subtitles don't name it here). The 'small gift' promised for Gui Li at 844 s is the gift presented in EP58."
+  ],
+  "flags": [
+    "No name cards in this episode's subtitles. The English track reads like a rough machine translation.",
+    "11-71 s: the master is not named; 639 s 'Poison is dead' read as the Poison God's death. 48 s 'Wanwu Sect' and 'Wandumen' = Ten Thousand Poisons Sect.",
+    "107-116 s 'Ghost King Urgent Call ... southern Xinjiang' = an urgent report to the Ghost King from the Southern Border. 119-135 s: whoever fears 'the vision' and vows to break it is not named (possibly Dao Xuan).",
+    "145 s 'Daoxuan Zhenren, Yungu Lord' = Dao Xuan and Valley Master Yun (Yun Yilan); 140 s 'Master Puhong' = Pu Hong.",
+    "160 s 'Fallen God Pass' and 728 s 'Luoshen Pass' = Luoshen Gate (EP58's name).",
+    "183-184 s 'Purple glow blade / Bottle of Gold' read as Jin Ping'er (jin ping = golden vase); 191 s 'Venerable Azure Dragon' = Qing Long. 'Blue dragon dies' (398 s) confirms Qing Long's death.",
+    "224-237 s: read as the Beast Deity ('before I do something big, no cannibalism'); not named. 281-301 s: 'Is this what you call Li Dai Tao Zong?' is garbled; the speaker taunting Qing Long is unclear.",
+    "454 s 'Pine' and 618 s 'Master Aomatsu' (Japanese reading of 'blue pine') = Cang Song; 546 s 'Tian not easy' = Tian Buyi. 509-513 s: 'Prajna ... I didn't expect it to be you, Zhang Xiaofan' read as Cang Song recognising Gui Li's Great Brahma Prajna.",
+    "533 s 'The head of the chief priest of Wandumen' and 618-620 s: Cang Song's exact rank with the Ten Thousand Poisons Sect is garbled.",
+    "666 s 'Acacia School' = He Huan Sect; 793 s 'Fairy Sanmiao' = San Miao. 668 s 'Venom Snake Valley' / 745 s 'Viper Valley' = Snake Poison Valley (EP58's name).",
+    "906-926 s: 'Soul eating attacks are becoming more frequent; I don't have much time left; this broken body' — speaker not identified (possibly Dao Xuan or Wan Jianyi)."
+  ]
+}

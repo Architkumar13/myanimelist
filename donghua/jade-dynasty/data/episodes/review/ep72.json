@@ -1,0 +1,74 @@
+{
+  "ep": 72,
+  "title": "The hunt after the battle; strangers carry Gui Li away",
+  "summary": "Gui Li hides in the mountain forest with his meridians in chaos and his power nearly spent while Qingyun disciples search for him, among them Zeng Shushu and his father Zeng Shucang. Elsewhere Yun Yilan of Fen Xiang Valley corners the wounded Beast Deity and demands the Eight Mystic Fire Formation, saying the Beast Deity promised it for the five clans' sacred artifacts but handed over only three in hundreds of years. Burning, the Beast Deity remembers Ling Long. The Nine-Tailed Fox Xiao Bai steps in; Yun Yilan recognises her as the thief who stole the Mystic Fire Mirror three hundred years ago, and she says she simply dislikes Fen Xiang Valley. Yun Yilan sends word that Fen Xiang will hunt the demons with all its strength. Zeng Shucang catches the injured Gui Li and plans to take him to Qingyun, but strangers who hide their techniques fight him off and carry Gui Li away. Zeng Shucang judges they are not from the Demon Sect. A Small Bamboo Peak senior scolds Lu Xueqi for helping Gui Li, while Gui Li's rescuers chant sutras and use acupuncture to treat wounds left by the Zhu Xian Sword.",
+  "events": [
+    "Qingyun disciples, with Zeng Shucang and Zeng Shushu, search the forest for the wounded Gui Li",
+    "Yun Yilan corners the Beast Deity and demands the Eight Mystic Fire Formation",
+    "Xiao Bai intervenes; Yun Yilan names her the thief of the Mystic Fire Mirror",
+    "Fen Xiang Valley vows to hunt the demons",
+    "Zeng Shucang captures Gui Li; strangers using a golden-light art rescue him",
+    "A Small Bamboo Peak senior rebukes Lu Xueqi",
+    "The rescuers treat Gui Li with sutras and acupuncture"
+  ],
+  "introduced": [
+    "Eight Mystic Fire Formation",
+    "the five clans' sacred artifacts"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "zeng-shucang",
+      "name": "Zeng Shucang"
+    },
+    {
+      "id": "zeng-shushu",
+      "name": "Zeng Shushu"
+    },
+    {
+      "id": "yun-yilan",
+      "name": "Yun Yilan"
+    },
+    {
+      "id": "li-xun",
+      "name": "Li Xun"
+    },
+    {
+      "id": "beast-deity",
+      "name": "Beast Deity"
+    },
+    {
+      "id": "xiao-bai",
+      "name": "Xiao Bai",
+      "quote": "Siluman Rubah Ekor Sembilan."
+    },
+    {
+      "id": "ling-long",
+      "name": "Ling Long",
+      "look": "in the Beast Deity's memory"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    }
+  ],
+  "changes": [
+    "No older summary to correct."
+  ],
+  "flags": [
+    "77-80 s: someone says they almost slipped on wet ground; read as a searcher covering for Gui Li, speaker unclear.",
+    "94 s: 'Ayah' + 545 s '(Zeng Shuchang)' read as Zeng Shushu and his father Zeng Shucang.",
+    "135-169 s: Yun Yilan addresses 'Siluman' and the Beast Deity answers; the deal (formation for the five clans' artifacts) is stated here.",
+    "392-403 s: the Beast Deity thinks 'is this how death feels... I'll soon be with you'; his fate is not shown.",
+    "531-536 s: thought about capturing him to ask the secret of the Huanyue Cave - speaker read as Zeng Shucang.",
+    "545-547 s: thought 'Zeng Shucang is very strong, I need a backup plan' - one of the rescuers.",
+    "633 s: someone shouts 'Xiaofan!' during the rescue; speaker unclear.",
+    "650 s: '(Teknik Cahaya Emas)' golden-light art; rescuers' sect not named. Sutras and acupuncture suggest Buddhists (possibly Tian Yin Temple), unconfirmed.",
+    "808 s: '(Pahit)' stray word in the line."
+  ]
+}

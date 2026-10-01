@@ -1,0 +1,44 @@
+{
+  "ep": 85,
+  "title": "Gui Li breaks with the Ghost King",
+  "summary": "Gui Li finds Sha Sheng killed with ice energy from Ghost King Sect arts and realises Bai Hu did it, on the Ghost King's orders. The Taotie has also been taken: after the Kui Ox of Liubo Mountain and the Yellow Bird of the Dead Swamp, the sect now has three great beasts to power its Blood Formation, and Gui Li heads back to Huqi Mountain. On Great Bamboo Peak Tian Buyi tells Su Ru he must go and see Dao Xuan, who is now ruled by the demon in his heart and has attacked Elder Fan and Xiao Yicai. He admits how much he grieved when Dao Xuan struck his Seventh Disciple with the Zhu Xian Sword ten years ago, but still respects all Dao Xuan has done for Qingyun. At Huqi Mountain Gui Li demands to know whether the Ghost King ordered his men sacrificed at Snake Poison Valley and Sha Sheng killed. The Ghost King offers up the guilty subordinates and kills them himself, and one of his envoys argues that killing such a useful vice master would look bad. Following Xiao Hui into a sealed chamber, Gui Li finds the Four Spirits Blood Formation nearly complete and someone reminds them all that Bi Yao still lies in the ice room. Fearing Qingyun will be the first target, Gui Li decides to warn them, and kills the Ghost King envoy sent to stop him over a ten-year-old grudge. Tian Buyi then walks past the guard into Dao Xuan's hall on Tongtian Peak.",
+  "events": [
+    "Gui Li finds Sha Sheng killed by Bai Hu's ice; the Taotie is gone",
+    "Tian Buyi tells Su Ru he will confront the maddened Dao Xuan",
+    "Gui Li questions the Ghost King over the sacrifices at Snake Poison Valley and Sha Sheng's death",
+    "The Ghost King has the blamed subordinates killed",
+    "Gui Li finds the Four Spirits Blood Formation nearly complete; Bi Yao is remembered",
+    "Gui Li resolves to warn Qingyun and kills the envoy who blocks him",
+    "Tian Buyi enters Dao Xuan's hall"
+  ],
+  "introduced": [
+    "Kui Ox of Liubo Mountain, Yellow Bird of the Dead Swamp (two of the Four Spirits)",
+    "Snake Poison Valley",
+    "Huqi Mountain (Ghost King Sect base)",
+    "Four Spirits Blood Formation (Formasi Empat Darah Spiritual)",
+    "Elder Fan (Tongtian Peak; mentioned)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": "sha-sheng", "name": "Sha Sheng", "look": "dead"},
+    {"id": "xiao-hui", "name": "Xiao Hui"},
+    {"id": "tian-buyi", "name": "Tian Buyi"},
+    {"id": "su-ru", "name": "Su Ru"},
+    {"id": "ghost-king", "name": "Ghost King"},
+    {"id": "bai-hu", "name": "Bai Hu"},
+    {"id": "lin-jingyu", "name": "Lin Jingyu", "look": "probably the disciple guarding Dao Xuan's hall"}
+  ],
+  "changes": [
+    "Tian Buyi says the Zhu Xian Sword strike on his Seventh Disciple (Zhang Xiaofan) was ten years ago (214 s), which dates the present day."
+  ],
+  "flags": [
+    "25-38 s: Gui Li's thoughts name 'Guru Agung Baihu' as the user of the ice energy and 'that person' (the Ghost King) as giving the order.",
+    "375-407 s: the man who answers Gui Li ('Did that happen?') and then kills the subordinates is taken as the Ghost King; the subs do not name him.",
+    "428-446 s: 'Kakak Kedua' - an envoy holds back a sworn brother who wants to kill Gui Li; which envoys is unclear.",
+    "635-665 s: the person who shouts 'Stop! Are you all mad?' and asks who still remembers Bi Yao is not named (perhaps You Ji or the Ghost King).",
+    "728-796 s: the envoy who blocks Gui Li over a debt 'from ten years ago' is not named; taken as Bai Hu, since EP86 opens with a report on Bai Hu and the envoys mourn their dead.",
+    "821-834 s: the guard at Dao Xuan's door is not named; taken as Lin Jingyu (he is found in the Ancestral Hall in EP86)."
+  ]
+}

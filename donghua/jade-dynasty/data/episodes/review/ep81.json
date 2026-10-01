@@ -1,0 +1,103 @@
+{
+  "ep": 81,
+  "title": "Xiao Huan's new master",
+  "summary": "Long ago, the young Beast Deity killed villagers who stood in his way and begged Ling Long to forgive him; when she said she would one day die, he asked her to make him human so he could stay with her. In the present Xiao Bai realises he has in fact become human, which is why he was so badly hurt at Qingyun Mountain, and that his deathless body is what kept him from Ling Long. Against Zhou Yixian's warning that it will cost her twenty years of life, Xiao Huan uses the ghost art she taught herself from a well wall as a child, the same art she used to gather Jin Ping'er's scattered soul. A ghostly senior, Mr. Ghost, steps in and saves her and Ye Gou Daoren, takes her as his disciple, gives her a book of his ghost arts and the Blood Jade Bone Shard, and asks that she one day help him save someone. On Tongtian Peak, Tian Buyi, Shui Yue and the other peak masters come to see the ailing Dao Xuan, who accuses them of wanting his seat, says Zeng Shucang hid Cang Song's treachery, and blames Shui Yue for Wan Jianyi's imprisonment and death. Lu Xueqi's party asks Yun Yilan for news of the Beast Deity. In the Hundred Thousand Mountains Gui Li finds his Ghost King Sect subordinate Sha Sheng, half-changed by the blood moon's aura, hides him in a formation and goes on to the Ancient Demon-Suppressing Cave.",
+  "events": [
+    "Flashback: the Beast Deity begs Ling Long to make him human",
+    "Xiao Bai learns the Beast Deity has become human and longs to die",
+    "Xiao Huan uses the ghost art to bring Ye Gou Daoren back",
+    "Mr. Ghost saves them and takes Xiao Huan as his disciple, giving her the Blood Jade Bone Shard",
+    "Dao Xuan turns on the peak masters who come to see him",
+    "Lu Xueqi's party asks Yun Yilan about the Beast Deity",
+    "Gui Li finds the corrupted Sha Sheng and shields him with a formation"
+  ],
+  "introduced": [
+    "Blood Jade Bone Shard",
+    "ghost art (Xiao Huan's secret technique)",
+    "Sha Sheng (Ghost King Sect subordinate; named in EP85)",
+    "the blood moon over the Hundred Thousand Mountains",
+    "Xiao Mantou (someone Sha Sheng asks Gui Li to visit)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "beast-deity",
+      "name": "Beast Deity"
+    },
+    {
+      "id": "ling-long",
+      "name": "Ling Long",
+      "look": "in flashback"
+    },
+    {
+      "id": "xiao-bai",
+      "name": "Xiao Bai"
+    },
+    {
+      "id": "zhou-yixian",
+      "name": "Zhou Yixian"
+    },
+    {
+      "id": "xiao-huan",
+      "name": "Xiao Huan"
+    },
+    {
+      "id": "ye-gou-daoren",
+      "name": "Ye Gou Daoren"
+    },
+    {
+      "id": "mr-ghost",
+      "name": "Mr. Ghost"
+    },
+    {
+      "id": "tian-buyi",
+      "name": "Tian Buyi"
+    },
+    {
+      "id": "shui-yue",
+      "name": "Shui Yue"
+    },
+    {
+      "id": "zeng-shucang",
+      "name": "Zeng Shucang"
+    },
+    {
+      "id": "dao-xuan",
+      "name": "Dao Xuan"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "yun-yilan",
+      "name": "Yun Yilan"
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui"
+    },
+    {
+      "id": "sha-sheng",
+      "name": "Sha Sheng",
+      "first": true,
+      "look": "half his body corrupted by the blood moon's aura"
+    }
+  ],
+  "changes": [
+    "Jin Ping'er's soul was gathered by Xiao Huan's ghost art in the past at the cost of a year of her life (283 s), so Jin Ping'er is not simply dead; she reappears in EP83."
+  ],
+  "flags": [
+    "498-653 s: Xiao Huan's new master is never named. He is taken as Mr. Ghost (ghost-art expert, 'more ghost than human', asks her to save someone later, they have met once before).",
+    "720-727 s: Tian Buyi lists 'Shui Yue, Tian Ri and Zeng Shuchang'. 'Zeng Shuchang' = Zeng Shucang; 'Tian Ri' is not on the name sheet (maybe Tian Yun of Falling Rain Peak).",
+    "805 s: someone asks 'Could Senior Brother Wan not have died then?' after Dao Xuan's outburst; speaker unclear.",
+    "828-846 s: the 'nephew' asking Yun Yilan is a Qingyun disciple, probably Lu Xueqi or Zeng Shushu.",
+    "859-915 s: the pair talking about whether 'we two' can beat the Beast Deity are not named; the snapping reply and the monkey attacking ('why always me?') fit Gui Li, Xiao Bai and Xiao Hui. 'Kau... membunuh makhluk hidup!' (909-915 s) is unclear.",
+    "925-1030 s: 'Wakil Ketua' (Vice Sect Master) = Gui Li in the Ghost King Sect. The subordinate is named Sha Sheng only in EP85; he asks after 'Yan Hui and the others' and 'Xiao Mantou'."
+  ]
+}

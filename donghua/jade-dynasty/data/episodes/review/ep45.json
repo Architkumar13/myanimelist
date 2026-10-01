@@ -1,0 +1,77 @@
+{
+  "ep": 45,
+  "title": "Xiao Bai joins Gui Li; Lu Xueqi is sent south",
+  "summary": "Xiao Bai tells Gui Li she once saw Soul Revival Magic used to save a man who had lost one hun and three po, so there is hope for his friend while one soul remains. She means the Black Wu Clan of the Shiwan Mountains, which Gui Li has searched for in vain for ten years; she met them two hundred years before her imprisonment, so they existed at least five hundred years ago, and she offers to lead him to them. She asks him to call her Xiao Bai instead of Senior, and learns the monkey's name is Xiao Hui. Jin Ping'er finds their hiding place, hints that Gui Li caused the volcano's eruption, teases him about Bi Yao and his new companion, and leaves; Fen Xiang disciples arrive soon after, led there by her, and are driven off. On Qingyun Mountain, Dao Xuan says rumours of turmoil in Fen Xiang Valley and trouble for Yun Yilan mean the righteous sects cannot stand by; with Pu Hong of Tian Yin Temple he decides to send disciples, and on Shui Yue's word Lu Xueqi is chosen and told to investigate, not act rashly. At Huqi Mountain the Ghost King hears from Bai Hu about the eruption and decides to let Gui Li stir up Fen Xiang while the Ten Thousand Poisons and He Huan sects wear each other down. Elsewhere Hei Mu, a demon shaman of the ancient Wu clan, says the black fire burns again and the day he waits for is near.",
+  "events": [
+    "Xiao Bai explains Soul Revival Magic and the Black Wu Clan, and agrees to guide Gui Li",
+    "She gives her name as Xiao Bai and meets Xiao Hui properly",
+    "Jin Ping'er visits, teases Gui Li about Bi Yao and Xiao Bai, and leaves",
+    "Fen Xiang disciples, led there by Jin Ping'er, attack and are driven off",
+    "Gui Li notes the Heavenly Book's methods clash with Qingyun's at critical points",
+    "Dao Xuan and Shui Yue send Lu Xueqi to Fen Xiang Valley with Tian Yin Temple's disciples",
+    "The Ghost King, told of the eruption by Bai Hu, chooses to watch and wait",
+    "Hei Mu of the ancient Wu clan says the black fire is burning again"
+  ],
+  "introduced": [
+    "Black Wu Clan",
+    "Hei Mu"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "xiao-bai",
+      "name": "Xiao Bai"
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui"
+    },
+    {
+      "id": "jin-pinger",
+      "name": "Jin Ping'er"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "wen-min",
+      "name": "Wen Min"
+    },
+    {
+      "id": "dao-xuan",
+      "name": "Dao Xuan"
+    },
+    {
+      "id": "shui-yue",
+      "name": "Shui Yue"
+    },
+    {
+      "id": "ghost-king",
+      "name": "Ghost King"
+    },
+    {
+      "id": "hei-mu",
+      "name": "Hei Mu",
+      "quote": "[Heimu, Penyihir Iblis dari Klan Penyihir Kuno]",
+      "card": 1049.7,
+      "first": true
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "No dialogue before 164 s besides the repeated question from EP44's ending (164-175 s).",
+    "211 s: 'Klan Penyihir Hitam' mapped to the Black Wu Clan (黑巫族), distinct from the 'Klan Penyihir Kuno' (ancient Wu clan) of the name sheet.",
+    "376 s: Gui Li calls the eruption 'a natural event'; Jin Ping'er implies he caused it.",
+    "692-716 s: the senior who fetches Lu Xueqi is not named; read as Wen Min. Shui Yue and Dao Xuan are not named either; identified from 'Saudara Guru' (senior brother) and 'Master Sekte'.",
+    "730 s: 'Lembah Feitxiang' is a typo for Fen Xiang.",
+    "935 s: Bai Hu only sends a message; he is not shown speaking.",
+    "996-1003 s: 'Your old wound hasn't healed ... come with me' — speakers unclear.",
+    "1032-1049 s: Hei Mu's companion (who mentions the Death Stone) is not identified; Hei Mu's name card lands mid-sentence."
+  ]
+}

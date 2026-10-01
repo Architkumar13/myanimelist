@@ -1,0 +1,51 @@
+{
+  "ep": 24,
+  "title": "Cang Song's betrayal",
+  "summary": "In Yuqing Temple, Cang Song admits he set the trap for Dao Xuan. For a hundred years he has hated Dao Xuan over Wan Jianyi, the man who saved his life, who he says should have led the sect. He calls Tian Buyi a bootlicker, openly sides with the Demon Sect as it breaks in, and Zhang Xiaofan suspects he is the one who massacred Grass Temple Village. Dao Xuan decides to break the ancestors' rule and use the ancient Zhu Xian Sword; Shang Zhengliang, Tian Yun and Shui Yue are told to guard Yuqing Temple with Zeng Shucang, and Tian Buyi goes after Cang Song. Pu Hong is struck down by an ally he trusted, and Zhou Yin of the Longevity Hall tries to ambush Dao Xuan, who escapes and sends the young disciples to guard the paths to Huanyue Cave and the Ancestral Hall. Yu Yangzi attacks Yuqing Temple with his Yin-Yang Mirror, and Tian Buyi fights first Cang Song and then the Ghost King. At the Ancestral Hall an old servant kills Zhou Yin, shows Lin Jingyu how the Dragon-Slaying Sword should really be used, and gives him a message for Dao Xuan; Zhou Yin recognises him as Wan Jianyi just before he dies. Xiaofan, Lu Xueqi and Lin Jingyu regroup as the Zhu Xian Sword rises over Qingyun.",
+  "events": [
+    "Cang Song admits ambushing Dao Xuan and names his grudge over Wan Jianyi",
+    "The Demon Sect breaks in; Cang Song openly sides with it; Xiaofan suspects him of the village massacre",
+    "Dao Xuan decides to use the Zhu Xian Sword; the peak masters are posted to guard Yuqing Temple",
+    "Pu Hong is struck down by a supposed ally; Zhou Yin tries to ambush Dao Xuan",
+    "Yu Yangzi attacks Yuqing Temple with the Yin-Yang Mirror",
+    "The Ancestral Hall's old servant kills Zhou Yin and teaches Lin Jingyu the Dragon-Slaying Sword",
+    "Tian Buyi fights Cang Song, then the Ghost King",
+    "The Zhu Xian Sword appears over Qingyun"
+  ],
+  "introduced": [
+    "Zhou Yin (Longevity Hall; weapon: Liren Awl)",
+    "Yin-Yang Mirror (Yu Yangzi's treasure)",
+    "Huanyue Cave and the Ancestral Hall (Qingyun's sacred places)",
+    "Zhu Xian Sword (seen)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "cang-song", "name": "Cang Song"},
+    {"id": "dao-xuan", "name": "Dao Xuan"},
+    {"id": "tian-buyi", "name": "Tian Buyi"},
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan"},
+    {"id": "shang-zhengliang", "name": "Shang Zhengliang"},
+    {"id": "tian-yun", "name": "Tian Yun"},
+    {"id": "shui-yue", "name": "Shui Yue"},
+    {"id": "zeng-shucang", "name": "Zeng Shucang"},
+    {"id": "pu-hong", "name": "Pu Hong"},
+    {"id": "shangguan-ce", "name": "Shangguan Ce", "look": "the 'Shangguan' who strikes Pu Hong; EP25 says he was a Demon Sect impostor"},
+    {"id": "zhou-yin", "name": "Zhou Yin", "first": true},
+    {"id": "yu-yangzi", "name": "Yu Yangzi", "quote": "(Yuyangzi, Yinyang Mirror)", "card": 375.5},
+    {"id": "wan-jianyi", "name": "Wan Jianyi", "look": "old servant of the Ancestral Hall; Zhou Yin gasps 'Wan...'"},
+    {"id": "lin-jingyu", "name": "Lin Jingyu"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "ghost-king", "name": "Ghost King"}
+  ],
+  "changes": [],
+  "flags": [
+    "92-118 s: the speaker of 'Wan treated me like a father and a brother... saved my life... My life is his' is read as Cang Song; 'Wan's matter was a misunderstanding' (118 s) as Tian Buyi, whom Cang Song then calls a bootlicker.",
+    "156 s: 'Qingyun Sect treated you and Wan as the two young talents' is Cang Song to Dao Xuan.",
+    "184-186 s: 'It must be him who massacred Caomiao Village' is probably Xiaofan; EP25 shows the suspicion is wrong.",
+    "258-277 s: Pu Hong is warned by 'Shangguan', told to sit, then cries 'You're not...': the disguise is confirmed in EP25.",
+    "669 s: Zhou Yin says only 'Wan...'; the old man is never named in full. EP5 has Cang Song talking to someone in the ancestral temple, so the old man may have appeared before; first not set.",
+    "675-699 s: 'Cangsong, so it's you whom God of Poison mentioned' and 'Tian Buyi, why should you hang in there?' are unattributed; the order of Tian Buyi's fights is inferred.",
+    "Subs: 'Liren Awl', 'Changsheng Sect' (= Longevity Hall), 'Yinyang Mirror', 'Zhuxian Sword'."
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "ep": 26,
+  "title": "Bi Yao's sacrifice",
+  "summary": "Learning that Pu Zhi massacred Grass Temple Village, Zhang Xiaofan breaks down. Pu Hong says Pu Zhi was possessed by the Sinister Bead and that Xiaofan is not to blame, but Xiaofan rages that he kept Pu Zhi's secret at the risk of his life and got nothing for it, and attacks. Dao Xuan stops him with 'Seven Stars Return', Bi Yao tries to take him away, and the Ghost King arrives to protect his daughter as the Demon Sect attacks again. Fa Xiang strikes Xiaofan with the Samsara Bead and wounds his heart, and Xiaofan slips into a killing rage until Bi Yao calls him back. Saying Xiaofan has fallen, Dao Xuan brings down the Zhu Xian Sword on him. Bi Yao chants a blood spell, offers herself, and takes the blow in his place. Afterwards Qing Long begs Mr. Ghost to save her: Mr. Ghost explains that the Lovestruck Spell costs the caster any rebirth, that the Hehuan Bell caught her soul and kept her body whole, and that the only hope is a legendary revival spell from the Southern Border. Holding her, Xiaofan tells Bi Yao it was her he saw in the Full Moon Ancient Well. A closing scene jumps ten years ahead.",
+  "events": [
+    "Xiaofan breaks down at Pu Zhi's crime and turns on everyone",
+    "Dao Xuan stops him with 'Seven Stars Return'; Bi Yao tries to take him away",
+    "The Ghost King arrives to protect Bi Yao and faces Dao Xuan; the Demon Sect attacks",
+    "Fa Xiang wounds Xiaofan with the Samsara Bead; Xiaofan falls into a killing rage",
+    "Bi Yao calls Xiaofan back; Dao Xuan strikes at him with the Zhu Xian Sword",
+    "Bi Yao casts the Lovestruck Spell and dies in his place",
+    "Mr. Ghost says the Hehuan Bell holds her soul; only a Southern Border spell might revive her",
+    "Xiaofan tells her he saw her in the Full Moon Ancient Well; ten years later"
+  ],
+  "introduced": [
+    "Samsara Bead (Fa Xiang's treasure)",
+    "Lovestruck Spell (a blood spell that blocks even the Zhu Xian Sword; the caster can never be reborn)",
+    "Southern Border (a revival spell said to exist there)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Zhang Xiaofan",
+      "look": "consumed by a killing rage"
+    },
+    {
+      "id": "pu-hong",
+      "name": "Pu Hong"
+    },
+    {
+      "id": "dao-xuan",
+      "name": "Dao Xuan"
+    },
+    {
+      "id": "bi-yao",
+      "name": "Bi Yao",
+      "look": "dies taking the Zhu Xian Sword's blow"
+    },
+    {
+      "id": "ghost-king",
+      "name": "Ghost King"
+    },
+    {
+      "id": "tian-buyi",
+      "name": "Tian Buyi"
+    },
+    {
+      "id": "fa-xiang",
+      "name": "Fa Xiang",
+      "quote": "(Fa Xiang, Samsara Bead)",
+      "card": 391.1
+    },
+    {
+      "id": "qing-long",
+      "name": "Qing Long"
+    },
+    {
+      "id": "mr-ghost",
+      "name": "Mr. Ghost"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "1169-1256 s: '(10 years later)' and an unnamed fortune-teller's verse about the Full Moon Well and Zhu Xian is an epilogue/bridge to Season 2 (EP27 opens with Zhou Yixian ten years on); not this episode's main events.",
+    "838-1035 s: song lyrics over Bi Yao's death; her own lines (914-930 s) are mixed in.",
+    "362-368 s: 'Xiaofan is a disciple of Qingyun Sect. Let go of him now' / 'Kill me first then' are unattributed (Qingyun side vs Bi Yao).",
+    "448 s: 'You've forced your disciple to the Avici Naraka' is read as the Ghost King to Dao Xuan; 471 s 'Xiaofan, repent' is unattributed (Tian Buyi listed from earlier lines).",
+    "Fa Xiang was first seen in EP10, so not first.",
+    "Subs: 'Southern Xinjiang' = Southern Border; 'Qinglong Messenger' = Qing Long; 'Hehuan Bells' = Hehuan Bell."
+  ]
+}

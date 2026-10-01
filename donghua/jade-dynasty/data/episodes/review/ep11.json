@@ -1,0 +1,42 @@
+{
+  "ep": 11,
+  "title": "Falling into the Abyss of the Dead",
+  "summary": "At the Abyss of the Dead, Lin Feng holds Lu Xueqi with a binding spell until Zhang Xiaofan frees her. Nian Laoda unleashes his Red Devil Eyes, which suppress Lu Xueqi's Tianxie Sword, but Xiaofan's stick holds it back. Nian Laoda knocks Xiaofan over the edge; Lu Xueqi catches his hand, refuses to let go, and both fall into the abyss. Fen Xiang and Tian Yin reinforcements destroy the Hall's weapon forge, and the Blood-Refining Hall pulls back, saying two righteous disciples are dead. At the bottom, Lu Xueqi finds herself in a sealed cave with the badly hurt Xiaofan and fights off creatures until she collapses. Xiaofan wakes and heals her. Bi Yao and You Ji then arrive looking for the Dixue Cave, decide to take the two captive for the Ghost King's side, and the episode ends as something huge appears.",
+  "events": [
+    "Zhang Xiaofan frees Lu Xueqi from Lin Feng's binding",
+    "Nian Laoda's Red Devil Eyes suppress the Tianxie Sword; Xiaofan's stick resists it",
+    "Xiaofan is knocked into the abyss; Lu Xueqi holds his hand and falls with him",
+    "Reinforcements destroy the Hall's forge; the Blood-Refining Hall retreats",
+    "Lu Xueqi wakes in a sealed cave and fights off creatures to protect Xiaofan",
+    "Xiaofan wakes and heals Lu Xueqi",
+    "Bi Yao and You Ji arrive searching for the Dixue Cave and move to capture them"
+  ],
+  "introduced": [
+    "Red Devil Eyes (Nian Laoda's treasure)",
+    "Tianxie Sword (Lu Xueqi's sword)",
+    "Dixue Cave (Black Heart Elder's hidden cave)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "lin-feng", "name": "Lin Feng"},
+    {"id": "nian-laoda", "name": "Nian Laoda"},
+    {"id": "ye-gou-daoren", "name": "Ye Gou Daoren"},
+    {"id": "qi-hao", "name": "Qi Hao"},
+    {"id": "zeng-shushu", "name": "Zeng Shushu"},
+    {"id": "fa-xiang", "name": "Fa Xiang"},
+    {"id": "bi-yao", "name": "Bi Yao"},
+    {"id": "you-ji", "name": "You Ji"}
+  ],
+  "changes": [],
+  "flags": [
+    "0-44 s repeats the end of EP10 (Lin Feng's binding); recap.",
+    "101 s 'Tusk! Take this!': a weapon call; in EP17 someone in the Blood-Refining Hall calls 'My Tusk Sword'. Owner unclear.",
+    "270 s: who swears to avenge Xiaofan and Xueqi is not clear (Qi Hao or Zeng Shushu); 281 s 'Liuhe Mirror!' is Fa Xiang.",
+    "277 s 'The place where we make our weapons was destroyed by them' is reported by a Hall member; the reinforcements are not shown by name.",
+    "The cave scenes 328-740 s are mostly silent or inner thoughts in parentheses; the creatures Lu Xueqi fights are not named.",
+    "788 s: Bi Yao says 'Let Master decide' - the master is the Ghost King, not named here."
+  ]
+}

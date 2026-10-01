@@ -1,0 +1,44 @@
+{
+  "ep": 8,
+  "title": "Lu Xueqi's thunder",
+  "summary": "Lu Xueqi beats Tian Ling'er, who was distracted by Qi Hao cheering her on, and goes into the top eight. Zhang Xiaofan comes back badly hurt but has beaten Peng Chang and is also in the top eight. Tian Buyi sees that Xiaofan's Taiji Xuanqing is at the fourth level, not the second, and suspects Ling'er of teaching him in secret. He and Su Ru argue about Ling'er, who has fallen for Qi Hao, a Dragon Head Peak disciple Tian Buyi can't stand; alone, Ling'er swears she and Qi Hao will be together forever. With Song Daren and Chang Jian badly injured, Xiaofan is the last Great Bamboo Peak disciple left, and he faces Lu Xueqi before he has recovered. Lu Xueqi calls down the Mighty Sword of Thunder despite a warning that it could backfire, and Xiaofan, expecting to die, wonders if Ling'er will remember him. Lu Xueqi wins. An elder then tells Dao Xuan that Xiaofan, only at Yuqing level 4 (Jade Purity), has a weapon that rivals Tianya and seems refined with blood, and that it does not belong to Qingyun.",
+  "events": [
+    "Lu Xueqi beats Tian Ling'er and reaches the top eight",
+    "Xiaofan, badly hurt, has beaten Peng Chang and is in the top eight",
+    "Tian Buyi finds Xiaofan at the fourth level and suspects Ling'er",
+    "Tian Buyi and Su Ru argue about Ling'er and Qi Hao; Ling'er swears to stay with Qi Hao",
+    "Xiaofan faces Lu Xueqi in the top-eight round",
+    "Lu Xueqi uses the Mighty Sword of Thunder and wins",
+    "An elder warns Dao Xuan that Xiaofan's weapon is evil and blood-refined"
+  ],
+  "introduced": [
+    "Tianya Divine Sword (Lu Xueqi's sword, seen in use)",
+    "Chang Jian (a top-eight contestant, named only)"
+  ],
+  "cultivation": "Tian Buyi: Xiaofan 'should've mastered only the second level of Qing Method of Taijixuan. Why is it at the fourth level?' An elder to Dao Xuan: 'He only mastered the fourth level of Yuqing, yet he has a weapon that rivals Tianya' (Yuqing level 4).",
+  "confidence": "medium",
+  "cast": [
+    {"id": "lu-xueqi", "name": "Lu Xueqi", "quote": "(Lu Xueqi vs. Tian Ling'er)", "card": 26.8},
+    {"id": "tian-linger", "name": "Tian Ling'er", "quote": "(Lu Xueqi vs. Tian Ling'er)", "card": 26.8},
+    {"id": "qi-hao", "name": "Qi Hao"},
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan", "realm": "Yuqing level 4", "quote": "He only mastered the fourth level of Yuqing, yet he has a weapon that rivals Tianya.", "look": "badly injured", "t": 768.3, "card": 331.5},
+    {"id": "tian-buyi", "name": "Tian Buyi"},
+    {"id": "su-ru", "name": "Su Ru"},
+    {"id": "song-daren", "name": "Song Daren", "look": "badly injured"},
+    {"id": "shui-yue", "name": "Shui Yue"},
+    {"id": "dao-xuan", "name": "Dao Xuan"},
+    {"id": "zeng-shushu", "name": "Zeng Shushu"},
+    {"id": "xiao-hui", "name": "Xiao Hui"}
+  ],
+  "changes": [],
+  "flags": [
+    "Cards are match-board captions: 26.8 s (Lu Xueqi vs. Tian Ling'er) and 331.5 s (Lu Xueqi vs. Zhang Xiaofan).",
+    "The Xiaofan-Peng Chang match from EP7 is not shown; at 171.5 s it is announced that he is in the top eight.",
+    "391.6-607.6 s: no lines for over three minutes during the Lu Xueqi-Zhang Xiaofan fight.",
+    "607.6-633.8 s: the person warning Xueqi that the Mighty Sword of Thunder might backfire is not named (probably Shui Yue). 664.0 s 'Nine-Heaven Temple turns into Thunderblade' is the same chant as EP1/EP4, translated differently.",
+    "680.3 s: 'Buyi, ask Xiaofan to throw in the towel' is probably Su Ru.",
+    "761.1-797.9 s: the elder who raises the weapon with Dao Xuan is not named; EP9 shows Cang Song pressing the case, so probably him.",
+    "653.3 s: Ling'er's oath is repeated as a memory during the fight.",
+    "How the match ends is not explained; EP9 has Lu Xueqi ask why he gave up at the last moment."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "ep": 23,
+  "title": "Zhang Xiaofan on trial",
+  "summary": "Qingyun's laws are read out: colluding with the Demon Sect, betraying the sect and killing innocents are punished by death. Mad Wang Er, a survivor of Grass Temple Village, wanders onto Tongtian Peak shouting 'Ghost!', while the Ghost King's forces break Qingyun's protective formation, the Ghost King saying someone taught him how. At Yuqing Temple Dao Xuan questions Zhang Xiaofan: he admits using the Great Brahma Prajna on Liubo Mountain but refuses to say who taught him. Pu Hong argues against a death sentence, while Shangguan Ce and Cang Song accuse Xiaofan of carrying the Sinister Bead and colluding with Bi Yao. Xiaofan says Bi Yao saved his life in Dixue Cave and that he owes her gratitude, but he denies betraying the sect. When Dao Xuan announces the harshest punishment, Lu Xueqi swears on her life that Xiaofan is no traitor, then Lin Jingyu and others do the same. Xiao Yicai reports that the sword formation is broken and intruders are on Tongtian Peak, and Dao Xuan leaves to deal with them. When he returns to pass sentence, Seven-Tailed Centipede poison strikes him, the blame falls on Xiaofan, and a second attacker hits him, crying that this day has finally come, as the Demon Sect storms the mountain.",
+  "events": [
+    "Qingyun's laws are recited",
+    "Mad Wang Er appears on Tongtian Peak shouting 'Ghost!'",
+    "The Ghost King's forces break Qingyun's protective formation",
+    "Dao Xuan questions Xiaofan; he admits the Great Brahma Prajna but won't name his teacher",
+    "Shangguan Ce and Cang Song accuse him over the Sinister Bead and Bi Yao; Pu Hong opposes a death sentence",
+    "Lu Xueqi, Lin Jingyu and others swear on their lives that Xiaofan is innocent",
+    "The sword formation is broken; Dao Xuan leaves, then returns to pass sentence",
+    "Dao Xuan is poisoned by a Seven-Tailed Centipede and attacked; the Demon Sect storms Qingyun"
+  ],
+  "introduced": [
+    "Wang Er (mad survivor of Grass Temple Village, named)",
+    "Asura Tower (destroyed by Qingyun in the past, per the Ghost King)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan"},
+    {"id": "dao-xuan", "name": "Dao Xuan"},
+    {"id": "wang-er", "name": "Wang Er", "look": "mad, shouting 'Ghost!'"},
+    {"id": "tian-buyi", "name": "Tian Buyi"},
+    {"id": "ghost-king", "name": "Ghost King"},
+    {"id": "pu-hong", "name": "Pu Hong"},
+    {"id": "shangguan-ce", "name": "Shangguan Ce"},
+    {"id": "cang-song", "name": "Cang Song"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "lin-jingyu", "name": "Lin Jingyu"},
+    {"id": "xiao-yicai", "name": "Xiao Yicai"}
+  ],
+  "changes": [],
+  "flags": [
+    "Wang Er: 'Mr. Wang' appears in EP1 as a villager, so not marked first.",
+    "154-164 s: 'Someone has taught me how to break this screen formation' is said to the Ghost King, apparently by an ally; EP24 shows Cang Song working with the Demon Sect.",
+    "779-790 s: Xiaofan is accused of harming Dao Xuan ('You betrayer'), but he denies it and the poison is a Seven-Tailed Centipede's; who released it is not shown in the subs.",
+    "810-845 s: 'I'll give you another thing... Daoxuan, this day has finally come': the attacker is not named; EP24 shows it was Cang Song.",
+    "'Fire Burning Stick' (371 s) = the Fire Stick (Soul-Devouring Stick). 'Wanfu Ancient Cave' (512 s) = Ten Thousand Bats Cave.",
+    "545 s: 'We're also willing...' is a group, not named (probably Great Bamboo Peak brothers)."
+  ]
+}

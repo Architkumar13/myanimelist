@@ -1,0 +1,46 @@
+{
+  "ep": 14,
+  "title": "Wan Renwang at the tea stall",
+  "summary": "Out of the cave, Bi Yao asks Zhang Xiaofan to repay her by joining her sect; they argue over which side is sinful, and she leaves in anger. On Small Bamboo Peak, Shui Yue scolds Lu Xueqi for losing focus. At a roadside tea stall an old man calling himself Wan Renwang tells Xiaofan that the bead on his stick is Black Heart Elder's Blood-Striking Bead and that the stick is a demonic weapon. Xiaofan answers that he uses it to kill demons, so it is righteous, and the man vanishes. The man is the Ghost King: he meets Bi Yao, shows her the flower her mother gave him, takes her home, and plans to win Xiaofan over once the weapon has turned him into a killer. Xiaofan reaches a deserted town afraid of a Three-Tailed Fox. A fortune teller with a young granddaughter reads his face, warns that he is close to death, and takes four taels. Shi Tou, heir of the Jingang Sect, wants to kill the fox, and Xiaofan goes with him to the Black Stone Cave.",
+  "events": [
+    "Bi Yao asks Zhang Xiaofan to join her sect; they argue and part angrily",
+    "Shui Yue scolds Lu Xueqi for losing focus",
+    "Wan Renwang names the Blood-Striking Bead and calls the stick demonic; Xiaofan refuses to doubt it",
+    "The Ghost King takes Bi Yao home and they make up over her mother's flower",
+    "The Ghost King plans to bring Xiaofan to his side",
+    "A town fears the Three-Tailed Fox; a fortune teller reads Xiaofan's face",
+    "Shi Tou of the Jingang Sect and Xiaofan set out for the Black Stone Cave"
+  ],
+  "introduced": [
+    "Ghost King (calls himself Wan Renwang)",
+    "Blood-Striking Bead (the Sinister Bead)",
+    "Jiuyou Soul; the stick named 'Dementor' in an ancient book",
+    "Zhu Xian Sword (mentioned)",
+    "Three-Tailed Fox",
+    "Zhou Yixian (the fortune teller, unnamed here) and his granddaughter",
+    "Shi Tou, only successor of Master Dali of the Jingang Sect",
+    "Black Stone Cave (Heishi Cave)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "bi-yao", "name": "Bi Yao"},
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "shui-yue", "name": "Shui Yue"},
+    {"id": "ghost-king", "name": "Ghost King", "quote": "My name is Wan, Wan Renwang.", "look": "disguised as an old traveller at a tea stall", "first": true},
+    {"id": "you-ji", "name": "You Ji"},
+    {"id": "zhou-yixian", "name": "Zhou Yixian", "look": "old fortune teller with an 'Immortal's guidance' banner; not named", "first": true},
+    {"id": "xiao-huan", "name": "Xiao Huan", "look": "the fortune teller's young granddaughter; not named", "first": true},
+    {"id": "shi-tou", "name": "Shi Tou", "quote": "I'm the only successor of the Jingang Sect's Master Dali, Shi Tou.", "first": true}
+  ],
+  "changes": [],
+  "flags": [
+    "Wan Renwang is shown as the Ghost King by the scene itself (651 s 'I've met Zhang Xiaofan'); EP19 opens with Xiaofan recognising him as 'the one in the tea stall'.",
+    "505 s 'Master. That rascal...' and 571 s 'Master.': the speaker addressing the Ghost King is not named, probably You Ji.",
+    "The fortune teller and the girl are not named in EP14-17 (she calls him 'Grandfather' in EP17); identified as Zhou Yixian and Xiao Huan from the novel.",
+    "362 s 'It's named Dementor': the English track's name for the soul-eating stick; 358 s 'Jiuyou Soul'. 466 s Xiaofan calls it the 'Fire Burning Stick' (the Fire Stick).",
+    "849 s: '10 taels' / '10 cash' are two overlapping lines; Xiaofan pays four taels.",
+    "No cultivation levels are stated."
+  ]
+}

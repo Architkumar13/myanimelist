@@ -1,0 +1,53 @@
+{
+  "ep": 55,
+  "title": "After the failed rite",
+  "summary": "The rite to restore Bi Yao has failed. Gui Li drinks himself senseless in a tavern, asking whether he can ever go home, and Xiao Huan finds Xiao Hui and then the injured Gui Li; over Zhou Yixian's grumbling she insists on taking him along because he once saved her life. The Ghost King sits by Bi Yao for three days, telling her she is just like her mother. The Great Shaman has died; following a letter Gui Li left, Qing Long is to take his ashes back to the Southern Border, and the Ghost King Sect is to help the tribe there if it is in trouble. Bai Hu reports danger in the Shiwan Mountains, and the Ghost King decides that since Bi Yao is gone, the world will make up for it. On Qingyun, Lu Xueqi reports on her trip, and Dao Xuan and Shui Yue argue over whether Qingyun shares the blame for what Zhang Xiaofan became and whether Xueqi's feelings threaten the sect's name. The Beast Deity, walking through locust-ravaged land, finds an old sword mark and is curious about its lingering hostility. On the road to Qingyun, someone from Gui Li's past attacks him for revenge, and the Beast Deity takes an interest in the fight. Afterwards Gui Li asks what he has done for ten years and what he is living for, and Zhou Yixian tells him that wherever the heart finds peace is home.",
+  "events": [
+    "Gui Li drinks alone after the failed rite; Xiao Huan and Zhou Yixian take him in",
+    "The Ghost King mourns by Bi Yao for three days",
+    "The Great Shaman's ashes are to be taken back to the Southern Border by Qing Long, as Gui Li's letter asked",
+    "Bai Hu reports danger in the Shiwan Mountains; the Ghost King turns against the world",
+    "Lu Xueqi reports to Qingyun; Dao Xuan and Shui Yue argue about Zhang Xiaofan and Xueqi",
+    "The Beast Deity examines an old sword mark amid a locust plague",
+    "An attacker seeking revenge strikes Gui Li on the road; the Beast Deity watches with interest",
+    "Gui Li despairs; Zhou Yixian tells him peace of heart is home"
+  ],
+  "introduced": [
+    "Heyang City (refugees fleeing to Qingyun Mountain)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": "xiao-hui", "name": "Xiao Hui"},
+    {"id": "xiao-huan", "name": "Xiao Huan"},
+    {"id": "zhou-yixian", "name": "Zhou Yixian"},
+    {"id": "ye-gou-daoren", "name": "Ye Gou Daoren"},
+    {"id": "ghost-king", "name": "Ghost King"},
+    {"id": "bi-yao", "name": "Bi Yao"},
+    {"id": "qing-long", "name": "Qing Long"},
+    {"id": "bai-hu", "name": "Bai Hu"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "dao-xuan", "name": "Dao Xuan"},
+    {"id": "shui-yue", "name": "Shui Yue"},
+    {"id": "beast-deity", "name": "Beast Deity"}
+  ],
+  "changes": [
+    "Resolves EP54's open ending: the rite fails ('Although it fell short', 173 s) and the Great Shaman dies after it (163 s).",
+    "EP56's flag 'EP55 has no subtitles' is now resolved."
+  ],
+  "flags": [
+    "No name cards in this episode's subtitles. The English track here reads like a rough machine translation.",
+    "14-58 s: the drunk 'guest officer' is read as Gui Li from what follows (Xiao Hui, the injured man Xiao Huan insists on helping because 'Gui Li ... saved my life', 103-105 s).",
+    "88 s 'Woman injured' is garbled; probably 'someone is injured'.",
+    "139-203 s: the subordinate reporting to the Ghost King is unnamed. 182 s 'Qilidong' is the Great Shaman's home in the Southern Border; 187 s 'Brother Long' = Qing Long; 190 s 'the Jin people' is unclear (perhaps a Southern Border tribe).",
+    "219 s 'White Tiger Messenger' = Bai Hu; 221 s 'Wanshan is in danger' read as the Shiwan Mountains. 226 s 'Baguio' = Bi Yao.",
+    "254-323 s: Dao Xuan and Shui Yue are not named; read from 'my sister', 'Qingyun Millennium Reputation' and 'Senior Brother'. 259 s 'Kier', 310 s 'Qi'er', 313 s 'Yuki' all = Xueqi.",
+    "342-365 s and 673-824 s: the speaker is read as the Beast Deity (same 'this hint of hostility ... interesting' wording at 360 s and 824 s); not named. Whom he fights or watches at 798-824 s is unclear.",
+    "386-413 s: read as Zhou Yixian and Ye Gou Daoren arguing over carrying Gui Li ('It's good that he doesn't want other people's lives, be grateful' / 'Do you want me to be ungrateful?'). Ye Gou is not named in this episode.",
+    "481-526 s and 850-869 s: the attacker ('Finally made me wait until this day', 'The revenge of annihilation cannot be ignored') is not named; he may be a survivor of a sect Gui Li destroyed. 495 s 'Xiaofei' is probably Xiao Hui.",
+    "704 s 'How could this power be so similar to Soul Devouring?' — speaker unclear (the Beast Deity sensing Gui Li's weapon, or the reverse).",
+    "771 s 'Master and wife' (Tian Buyi and Su Ru?) — context unclear, possibly a memory.",
+    "929 s 'This place of peace is my hometown' = the saying 'where the heart is at peace is home'; read as Zhou Yixian."
+  ]
+}

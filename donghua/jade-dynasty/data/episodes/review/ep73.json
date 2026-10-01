@@ -1,0 +1,68 @@
+{
+  "ep": 73,
+  "title": "Waking in Tian Yin Temple; Pu Zhi waits inside",
+  "summary": "Gui Li dreams of his parents naming him Zhang Xiaofan and of Grass Temple Village burning, then wakes in Tian Yin Temple. The monks who rescued him were Fa Xiang and one of his seniors; Gui Li refuses the surname Zhang, and Fa Xiang tells him Abbot Pu Hong will explain why they saved him. A young novice, Faming, brings him honeyed medicine and tells him the temple took him in after he too was rescued. In the Ghost King Sect, the Ghost King learns that Dao Xuan opened the Tianji Seal to win and is badly hurt. A Daoist ally says he has found where every peak's seal lies and that he used the battle to kill a hidden expert on Qingyun's back mountain: Wan Jianyi. The Ghost King promises him Qingyun once the Holy Sect rules the world, and plans to reach some temple ruins in three days. Fa Xiang shows Gui Li the stone steps Pu Zhi spent ten years cutting so ordinary people could climb to the temple, then brings him to Pu Hong. Pu Hong leads him to a hall where Pu Zhi greets him: 'Child, you are finally here.' Gui Li demands what the 247 lives of Grass Temple Village meant to him, and a scene from long ago shows Pu Zhi as a child taken in by Tian Yin Temple and given his name.",
+  "events": [
+    "Gui Li dreams of his parents and the Grass Temple Village massacre, and wakes in Tian Yin Temple",
+    "Fa Xiang tends him; the novice Faming befriends him",
+    "The Ghost King hears that Dao Xuan is badly hurt; his Daoist ally says he killed Wan Jianyi",
+    "Fa Xiang shows Gui Li the stone steps Pu Zhi carved",
+    "Pu Hong brings Gui Li to Pu Zhi, who greets him",
+    "Gui Li confronts Pu Zhi over the 247 villagers",
+    "A flashback shows Pu Zhi taken in as a child and named"
+  ],
+  "introduced": [
+    "Faming (young Tian Yin novice)",
+    "Pu Fang (strict Tian Yin elder, mentioned)",
+    "Pu Zhi's stone steps up to Tian Yin Temple",
+    "the Ghost King's Daoist ally"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "fa-xiang",
+      "name": "Fa Xiang"
+    },
+    {
+      "id": "faming",
+      "name": "Faming",
+      "first": true,
+      "quote": "It's okay, my name is Faming"
+    },
+    {
+      "id": "pu-hong",
+      "name": "Pu Hong"
+    },
+    {
+      "id": "pu-zhi",
+      "name": "Pu Zhi",
+      "quote": "Child, you are finally here."
+    },
+    {
+      "id": "ghost-king",
+      "name": "Ghost King"
+    },
+    {
+      "id": null,
+      "name": "The Ghost King's Daoist ally",
+      "quote": "A hidden expert in Qingyun Houshan, I have taken the opportunity to remove it"
+    }
+  ],
+  "changes": [
+    "Confirms EP72's guess: Gui Li's rescuers are Tian Yin Temple monks (Fa Xiang and a senior; 'rescued by Senior Uncle and Senior Brother', 234 s).",
+    "Who killed Wan Jianyi: the Ghost King's Daoist ally claims it here (335-361 s). EP68 had Gui Li admit to Lin Jingyu that the old man died because of him; read with EP66 and this episode, Gui Li fought and weakened him, but the killing blow was the Daoist's."
+  ],
+  "flags": [
+    "0-151 s: dream and memory (parents, massacre, 'The whole village is because of you... I want you to pay', 'I killed him'); speakers unclear.",
+    "290-408 s: the 'Sovereign/suzerain' is read as the Ghost King; the 'Taoist priest' is not named. He knew Wan Jianyi ('I have had several relationships with this person') and is probably the stranger who wounded Dao Xuan in EP71.",
+    "388-399 s: 'the deputy sect master was injured and rescued by others' = Gui Li (vice sect master of the Ghost King Sect).",
+    "401-408 s: 'In three days we will reach the temple ruins... the full help of the two': which ruins and which two are not stated.",
+    "751-806 s: Pu Zhi appears and speaks though he died years ago; how he is present is explained in EP74 (his unfinished wish).",
+    "880-916 s: flashback of a battle between the righteous sects and the Demon Sect after which a child is given the name Pu Zhi; 'Universal memory' (915 s) unclear."
+  ]
+}

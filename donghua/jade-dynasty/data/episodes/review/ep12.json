@@ -1,0 +1,40 @@
+{
+  "ep": 12,
+  "title": "Trapped with Bi Yao in the Dixue Cave",
+  "summary": "A Black Water Snake attacks, and Zhang Xiaofan draws it away so Lu Xueqi can escape. Bi Yao saves him, and the two end up trapped together in the snake's tunnels while Lu Xueqi rejoins Qi Hao and the others. Xiaofan has a broken bone and calls Bi Yao a devil; they bicker and wander the dead-end tunnels until he notices a bleeding rock. It opens into the Dixue Cave, where they find the corpse of Black Heart Elder, the Blood-Refining Hall master of 800 years ago, but no treasure. Xiaofan falls into a fever and relives the massacre of his village, and Bi Yao learns he is an orphan and keeps him warm. Outside, the search party finds nothing after many days; Lu Xueqi wants to keep looking, but the others decide to go back and ask the sect leader for trackers. Xiaofan recovers, a skull falls and opens a hidden passage, and they find a poem of regret and the statues of the Wisdom King and the Holy Mother.",
+  "events": [
+    "The Black Water Snake attacks; Zhang Xiaofan draws it away from Lu Xueqi",
+    "Bi Yao saves Xiaofan; the two are trapped together",
+    "Lu Xueqi rejoins the others; they search for Xiaofan",
+    "A bleeding rock leads to the Dixue Cave and Black Heart Elder's corpse",
+    "Xiaofan's fever and nightmare of the village massacre; Bi Yao cares for him",
+    "The search party decides to report back to Qingyun; Lu Xueqi is persuaded to go",
+    "A hidden passage opens onto a poem and the statues of the Wisdom King and the Holy Mother"
+  ],
+  "introduced": [
+    "Black Water Snake",
+    "Black Heart Elder (Black-Hearted Old Man), master of the Blood-Refining Hall 800 years ago",
+    "Ancient Corpse Poison",
+    "Sinister Bead (named here the Blood-Striking Bead)",
+    "Wisdom King and Holy Mother (statues revered by the Demon Sect)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan", "look": "broken bone; feverish"},
+    {"id": "bi-yao", "name": "Bi Yao", "quote": "I'm Bi Yao. Bi Yao."},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "you-ji", "name": "You Ji"},
+    {"id": "qi-hao", "name": "Qi Hao"},
+    {"id": "zeng-shushu", "name": "Zeng Shushu"},
+    {"id": "fa-xiang", "name": "Fa Xiang"},
+    {"id": "black-hearted-old-man", "name": "Black-Hearted Old Man", "look": "a seated corpse in the Dixue Cave", "first": true}
+  ],
+  "changes": [],
+  "flags": [
+    "Black Heart Elder = the name sheet's Black-Hearted Old Man; only his corpse is shown.",
+    "505 s 'Blood-Striking Bead' is the English track's name for the Sinister Bead; EP14 ties it to Xiaofan's stick.",
+    "632-638 s: the 'Amitabha' speaker comforting Lu Xueqi is a Tian Yin monk, probably Fa Xiang.",
+    "804-814 s: the poem on the wall is unfinished; EP13 links it to Madam Jinling."
+  ]
+}

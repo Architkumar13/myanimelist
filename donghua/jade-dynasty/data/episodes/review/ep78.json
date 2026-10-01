@@ -1,0 +1,58 @@
+{
+  "ep": 78,
+  "title": "The third tribulation; Lu Xueqi sets out (Season 3 finale)",
+  "summary": "The third strike of the heavenly tribulation falls. Pu Hong tries to take it on himself, and Fa Xiang rushes to save his master. Stripped of his power, Gui Li sinks towards death, and loving voices call him home, asking whether he has suffered enough. He almost goes, then refuses: he owes too much to the world to give it up, and even if heaven destroys his cultivation and his body, the people in his heart stay. Saying that between heaven and earth he is simply Zhang Xiaofan, he survives with help from a presence he recognises. At Qingyun, Lu Xueqi is charged with letting a demon go for personal feelings and causing the Zhu Xian Sword to break. Her master tells her the story of Tianya, forged 800 years ago from Nine Heavens Mysterious Iron, and says the sword was waiting for her. With the Beast Deity fled badly wounded and Qingyun stretched thin, the leaders agree to send elite disciples to track it, and Lu Xueqi volunteers to make up for her fault; Shui Yue lets her go, telling her to live up to the people and to her sword. At Tian Yin Temple the Wordless Jade Wall is damaged, but Pu Hong says he has no regrets. Gui Li takes his leave, saying he has seen through the world and is still himself, unwilling to let go of the people he cares for.",
+  "events": [
+    "The third tribulation strikes; Pu Hong tries to shield Gui Li and Fa Xiang tries to save Pu Hong",
+    "Near death, Gui Li is called home and refuses to give up",
+    "Gui Li survives, declaring he is simply Zhang Xiaofan",
+    "Lu Xueqi is charged over the broken Zhu Xian Sword; her master tells her Tianya's history",
+    "Qingyun decides to send elite disciples after the wounded Beast Deity; Lu Xueqi volunteers",
+    "Shui Yue lets Lu Xueqi go",
+    "Gui Li thanks Pu Hong and leaves Tian Yin Temple; the Wordless Jade Wall is damaged"
+  ],
+  "introduced": [
+    "Nine Heavens Mysterious Iron (Tianya's metal)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "pu-hong",
+      "name": "Pu Hong"
+    },
+    {
+      "id": "fa-xiang",
+      "name": "Fa Xiang"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "shui-yue",
+      "name": "Shui Yue"
+    },
+    {
+      "id": "dao-xuan",
+      "name": "Dao Xuan"
+    }
+  ],
+  "changes": [
+    "Leads straight into EP79, which opens with Shui Yue sending Lu Xueqi to the Southern Border."
+  ],
+  "flags": [
+    "35-75 s: 'I hope I alone can counteract this catastrophe' read as Pu Hong; 'Master, I'll save you' as Fa Xiang.",
+    "182-268 s: voices calling 'Xiaofan... let's go home' are not identified (perhaps his parents or loved ones from the past).",
+    "407 s 'Is that you?' and 474-477 s 'And you've made it higher. I'll help you once': who helps Gui Li survive is not stated.",
+    "430-433 s: 'The vastness of heaven and earth, I only do me Zhang Xiaofan' read as Gui Li claiming his old name; EP79 still calls him Gui Li.",
+    "613-633 s: speaker charging Lu Xueqi not named (Dao Xuan or Shui Yue); 'Let the head teacher punish the second' garbled.",
+    "636-686 s: Tianya's history read as Shui Yue (her master forged it 800 years ago); 'Tianya did not recognize the master' unclear.",
+    "739.9 s: 'I would also like to go together' - speaker not named (EP82 has Wen Min and Zeng Shushu go with Lu Xueqi).",
+    "969-978 s: Gui Li's closing thought 'that fleeting light' refers to someone dear to him; not named."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "ep": 41,
+  "title": "Inside the Mystic Fire Altar",
+  "summary": "With Shangguan Ce away from his post, Gui Li slips into the Mystic Fire forbidden ground, a great altar students may not enter, hoping it holds the ancient Wu clan's texts. The fire power inside is so strong he must resist it at every step, and a red light there carries an evil force almost equal to his Soul-Devouring Stick, nearly taking over his mind. Beneath the altar is an active volcano. Xiao Hui seems to absorb some of the power, and a Crimson Flame Beast, which Gui Li takes for the spirit beast guarding the formation, attacks him. At the valley gate the fish-men attack, and Shangguan Ce arrives and steadies the fight at once; Li Xun says he once cowed sixty-three alien clans. Through an interpreter the fish-men demand the killer of their chief, killed after a secret meeting with Fen Xiang, while Li Xun says a disciple lost control and killed one of them first. Shangguan Ce goes to examine the fish-men's bodies.",
+  "events": [
+    "Gui Li enters the Mystic Fire forbidden ground and sees the Mystic Fire Mirror's totem",
+    "The altar's evil red light nearly overwhelms Gui Li's mind; an active volcano lies below",
+    "Xiao Hui appears to absorb the altar's power",
+    "The Crimson Flame Beast attacks Gui Li",
+    "The fish-men attack the valley gate; Shangguan Ce arrives",
+    "The fish-men demand their chief's killer; Li Xun explains how the fighting started",
+    "Shangguan Ce examines the bodies"
+  ],
+  "introduced": [
+    "Crimson Flame Beast",
+    "Mystic Fire Mirror"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui"
+    },
+    {
+      "id": null,
+      "name": "Crimson Flame Beast",
+      "quote": "[Monster Api Merah]",
+      "card": 435.8,
+      "first": true
+    },
+    {
+      "id": "shangguan-ce",
+      "name": "Shangguan Ce"
+    },
+    {
+      "id": "li-xun",
+      "name": "Li Xun"
+    },
+    {
+      "id": null,
+      "name": "Sun Tu",
+      "look": "interpreter for the fish-men (739 s)"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "No dialogue before 178 s: recap/opening. 185.4 '[Tempat Terlarang Api Hitam]' / '[Siswa Dilarang Masuk]' are signs; 445 '[Lembah Fenxiang]' is a place card.",
+    "182 s: 'Guan Ce' = Shangguan Ce.",
+    "231 s: '(Cermin Api Hitam)' is Gui Li recognising the Mystic Fire Mirror's emblem; he carries the mirror himself (EP43).",
+    "435.8 s: '[Monster Api Merah]' (Red Fire Monster) mapped to the Crimson Flame Beast, guardian of the Eight Fiends formation.",
+    "566 s: 'Jadi itu dia?' speaker unclear.",
+    "739-771 s: 'Sun Tu' seems to be the fish-men's interpreter; the reading is uncertain."
+  ]
+}

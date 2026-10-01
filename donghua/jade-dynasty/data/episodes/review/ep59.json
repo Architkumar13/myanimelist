@@ -1,0 +1,38 @@
+{
+  "ep": 59,
+  "title": "Qin Wuyan's betrayal and Lu Xueqi against the Evil Dragon",
+  "summary": "Following the beast tide southwest, Lu Xueqi saves a mother and child in a ravaged village, and a captured Ghost King Sect disciple admits the sect helped its Vice Sect Master lure the beasts to Snake Poison Valley. At the valley Qin Wuyan suddenly shuts down the Ten Thousand Poisons Sect's protective formation, accusing the Ghost King and San Miao of plotting against him, and leaves the allied sects to the beasts. The legendary beast called the Evil Dragon attacks the village; Lu Xueqi draws it away from the villagers, turns its own lightning against it and kills it with her Divine Sword technique through Tianya. Qin Wuyan kills a disciple who had gone over to the Ghost King Sect and mocks the Ghost King, whom he calls Wan Renwang, for failing to protect his wife and daughter, and San Miao for her greed. He also sneers at Gui Li as an outcast traitor. Then the gift Gui Li gave him, which turns out to be Chu Wu's body, turns against him, the Ghost King praises the show, and Qin Wuyan dies cursing Gui Li.",
+  "events": [
+    "Lu Xueqi saves villagers; a captured Ghost King Sect disciple says the beasts were lured to Snake Poison Valley",
+    "Qin Wuyan disables the protective formation and turns on the Ghost King Sect and the He Huan Sect",
+    "The Evil Dragon attacks; Lu Xueqi leads it away from the village",
+    "Lu Xueqi turns the dragon's lightning back on it with Tianya and kills it",
+    "Qin Wuyan kills a turncoat disciple and mocks Wan Renwang, San Miao and Gui Li",
+    "Chu Wu's body, Gui Li's gift, turns against Qin Wuyan",
+    "Qin Wuyan dies cursing Gui Li"
+  ],
+  "introduced": [
+    "Evil Dragon (legendary beast)",
+    "Wan Renwang (the Ghost King's name)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "evil-dragon", "name": "Evil Dragon", "quote": "(Naga Jahat)", "first": true, "card": 511.9},
+    {"id": "qin-wuyan", "name": "Qin Wuyan"},
+    {"id": "ghost-king", "name": "Ghost King", "quote": "Wan Renwang, kau menganggap dirimu unggul dan ingin menaklukkan dunia"},
+    {"id": "san-miao", "name": "San Miao"},
+    {"id": "jin-pinger", "name": "Jin Ping'er"},
+    {"id": "zhang-xiaofan", "name": "Gui Li"}
+  ],
+  "changes": [],
+  "flags": [
+    "470.3 s: 'Naga Jahat' translated as 'Evil Dragon'; the Chinese name is unknown.",
+    "Lu Xueqi's companion in the village scenes (who gives orders at 255 s and calls her 'Kak Lu' at 521 s) is not named.",
+    "396.5 s: 'Hadiah dari Rawa Kematian tidak akan pernah terlupakan!' ('the gift from the Dead Swamp will never be forgotten'): Qin Wuyan referring to an old grudge with Gui Li.",
+    "864-893 s: a disciple who 'changed masters twice' and sided with the Ghost King Sect attacks Qin Wuyan; read as Qin killing him, but the outcome is not spelled out.",
+    "1005 s: 'Ini adalah tubuh Chu Wu?' then 'Harap Ketua Qin menerimanya!': Gui Li's gift (EP58) is Chu Wu's body and it is used against Qin. How it kills him is not stated.",
+    "Qin Wuyan's death is shown by his disciples crying 'Ketua!' and his last curse at Gui Li (1060-1069 s); not stated outright."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "ep": 28,
+  "title": "Dawang Village at the edge of the Dead Swamp",
+  "summary": "Yu Yangzi, master of the Longevity Hall, kneels before his ancestors and prays that the treasure will restore his failing hall. At Dawang Village, beside the Dead Swamp, Xiao Yicai and the Qingyun disciples arrive to help Fa Xiang drive off Demon Sect fighters. Zhou Yixian and Xiao Huan set up a fortune-telling stall; Qin Wuyan of the Ten Thousand Poisons Sect poisons Longevity Hall thugs who try to chase them off, then has Xiao Huan read the names Qin and Gui Li. Ye Gou Daoren, angry at his own reading, has his money stolen by the grey monkey Xiao Hui, which gives it to Xiao Huan. Jin Ping'er of the He Huan Sect meets Xiao Huan as an old friend, then joins Gui Li and Qin Wuyan and accuses the Ten Thousand Poisons Sect of killing one of her disciples. In the rain Gui Li gives Xiao Huan his umbrella and insists he is a bad man, then saves her from a fish-man of the Shiwan Mountains. The Longevity Hall reports to Yu Yangzi that the three young masters have taken the bait and entered the swamp without their men.",
+  "events": [
+    "Yu Yangzi prays to the Longevity Hall's ancestors for the treasure",
+    "Xiao Yicai and Qingyun join Fa Xiang against Demon Sect fighters at Dawang Village",
+    "Qin Wuyan poisons Longevity Hall thugs and has Xiao Huan read his name and Gui Li's",
+    "Xiao Hui steals Ye Gou Daoren's money for Xiao Huan",
+    "Jin Ping'er greets Xiao Huan, then meets Gui Li and Qin Wuyan over her poisoned disciple",
+    "Gui Li lends Xiao Huan his umbrella and calls himself a bad man",
+    "Gui Li saves Xiao Huan from a fish-man; Zhou Yixian explains the Fish-Man Clan",
+    "Yu Yangzi learns the three Demon Sect young masters have entered the swamp"
+  ],
+  "introduced": [
+    "Dawang Village",
+    "Qin Wuyan (Ten Thousand Poisons Sect)",
+    "Jin Ping'er (He Huan Sect)",
+    "Fish-Man Clan (one of the 63 foreign tribes of the Shiwan Mountains)",
+    "Poison God (Qin Wuyan's master)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "yu-yangzi",
+      "name": "Yu Yangzi",
+      "first": true
+    },
+    {
+      "id": "xiao-yicai",
+      "name": "Xiao Yicai"
+    },
+    {
+      "id": "fa-xiang",
+      "name": "Fa Xiang"
+    },
+    {
+      "id": "zhou-yixian",
+      "name": "Zhou Yixian"
+    },
+    {
+      "id": "xiao-huan",
+      "name": "Xiao Huan"
+    },
+    {
+      "id": "qin-wuyan",
+      "name": "Qin Wuyan",
+      "quote": "Nama saya adalah, Qin Wuyan.",
+      "first": true
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "ye-gou-daoren",
+      "name": "Ye Gou Daoren"
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui"
+    },
+    {
+      "id": "jin-pinger",
+      "name": "Jin Ping'er",
+      "first": true
+    },
+    {
+      "id": null,
+      "name": "Fish-Man Clan warrior",
+      "first": true
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "No name cards in this episode's subtitles.",
+    "672-679 s: a woman tells Xiao Huan 'after three years you still like candied gourds' and Xiao Huan calls her 'sister'. EP30 (962 s) has Xiao Huan ask after 'sister Ping'er', so this is read as Jin Ping'er; the donghua makes them old friends.",
+    "735 s 'Peri Jin' (Fairy Jin) = Jin Ping'er. The two men with her are read as Qin Wuyan and Gui Li (the 'three young masters' of 1047 s).",
+    "495-498 s 'Tuan Muda Xue', 'Tuan Muda Du' are unclear; dropped.",
+    "541 s 'Dewa Racun Senior' (Senior Poison God) read as Qin Wuyan's master.",
+    "1007.7 s 'Situs Kecil' is garbled, probably 'Xiao Huan'.",
+    "1010 s: Zhou Yixian says to avoid 'those two' in future; who exactly is meant is unclear.",
+    "Qin Wuyan and Jin Ping'er marked first; they may have appeared in Season 1. Not checked."
+  ]
+}

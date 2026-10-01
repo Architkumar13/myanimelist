@@ -1,0 +1,46 @@
+{
+  "ep": 36,
+  "title": "The Ghost King at the vault",
+  "summary": "Monsters scatter the fighters outside the Heaven Emperor's vault, and the Black Water Serpent withdraws now that the treasure is gone, leaving the Yellow Bird to face Gui Li and Xiao Hui. A Dragon Trap spell and the Dragon-Tamer Cauldron strike, and the Ghost King arrives with his Saint Beast envoys. On the road, Ye Gou Daoren tells Zhou Yixian and Xiao Huan that he was born ugly, abandoned and raised by wild dogs, and that the Blood-Refining Hall took him in until Gui Li destroyed it. At the vault the Ghost King leaves the four captured righteous disciples to Gui Li, pointing out that one of them is his childhood friend Lin Jingyu. Gui Li says the Yellow Bird matters more, Qing Long agrees because the Ten Thousand Poisons and He Huan sects are watching, and the Ghost King leaves the matter to him. Lin Jingyu begs Xiaofan to come back to Qingyun, but he answers that his name is Gui Li and he needs no saving, and Fa Xiang decides that pressing him will only push him further. Zeng Shushu says he still sees Gui Li as a friend, holds Xiao Hui once more and gives Gui Li a small gift, and the disciples leave to find the others.",
+  "events": [
+    "The Black Water Serpent leaves; the Yellow Bird turns on Gui Li and Xiao Hui",
+    "The Dragon Trap spell and the Dragon-Tamer Cauldron are used; the Ghost King arrives",
+    "Ye Gou Daoren tells Zhou Yixian and Xiao Huan his past and the fall of the Blood-Refining Hall",
+    "The Ghost King leaves the four righteous disciples, including Lin Jingyu, to Gui Li",
+    "Gui Li lets them go to deal with the Yellow Bird; Qing Long backs him and the Ghost King leaves",
+    "Lin Jingyu asks Xiaofan to return to Qingyun; he refuses as Gui Li",
+    "Zeng Shushu parts from Gui Li as a friend and gives him a gift"
+  ],
+  "introduced": [
+    "Dragon Trap spell",
+    "Dragon-Tamer Cauldron",
+    "Ye Gou Daoren's past (raised by wild dogs)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Gui Li", "quote": "My name is Gui Li."},
+    {"id": "xiao-hui", "name": "Xiao Hui"},
+    {"id": null, "name": "Yellow Bird"},
+    {"id": "ghost-king", "name": "Ghost King"},
+    {"id": "qing-long", "name": "Qing Long"},
+    {"id": "ye-gou-daoren", "name": "Ye Gou Daoren"},
+    {"id": "zhou-yixian", "name": "Zhou Yixian"},
+    {"id": "xiao-huan", "name": "Xiao Huan"},
+    {"id": "lin-jingyu", "name": "Lin Jingyu"},
+    {"id": "fa-xiang", "name": "Fa Xiang"},
+    {"id": "zeng-shushu", "name": "Zeng Shushu"}
+  ],
+  "changes": [],
+  "flags": [
+    "No name cards in this episode's subtitles.",
+    "'Gray' (65, 117, 751 s) is the English track's name for Xiao Hui. 'Lianxue Sect' (485-508 s) = Blood-Refining Hall; 'Wandu and Hehuan sects' (618 s) = Ten Thousand Poisons and He Huan sects; 'Yegou' = Ye Gou Daoren.",
+    "268-329 s: who casts the Dragon Trap spell and owns the Dragon-Tamer Cauldron is not said; 'You're here too' (329 s) and 'Leader' (386 s) mark the Ghost King's arrival.",
+    "615 s: the envoy who says 'the Deputy Leader's words make sense' is read as Qing Long (EP37 says the Ghost King came with two envoys); not named here.",
+    "393 s 'these four people': the four righteous disciples are read as Lin Jingyu, Fa Xiang, Zeng Shushu and probably Lu Xueqi; only Lin Jingyu is named (584 s). Lu Xueqi is not named anywhere in this episode.",
+    "531-539 s: the inner thought '(These three are seriously powerful ... Xiaofan, what will you do?)' — speaker not identified (Lin Jingyu or Lu Xueqi).",
+    "678 s 'Zhang.' is someone starting to say Zhang Xiaofan; Gui Li cuts him off.",
+    "802-813 s: Zeng Shushu's 'small gift' is not identified; 'If you don't want both of us to end in disgrace, don't speak loudly' may be Zeng or Gui Li. 872 s '(Tianxiang Records)' is an on-screen caption, possibly the gift's title; unclear.",
+    "833-838 s: 'Zeng, what's making you so happy?' / 'The Buddha says it mustn't be told' — a light exchange as the disciples leave."
+  ]
+}

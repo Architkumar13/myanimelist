@@ -1,0 +1,107 @@
+{
+  "ep": 53,
+  "title": "Season 3 begins: Ling Long's seal and the road to Fox Mountain",
+  "summary": "In ancient times a demon rose among the hundred thousand mountains and led a beast tide to destroy the human world. The Wu priestess Ling Long gave her own life to power the Eight Ferocious Mystic Fire Formation, sealing the demon in an ancient cave and becoming a stone statue. Before she died, five holy weapons were split among five tribes: as long as they never returned to the cave, the beasts would never rise again. In the present, Gui Li is escorting the Great Shaman to Huqi Mountain under clouds of beast-repelling powder. The Ghost King hears he is bringing a shaman who can heal Bi Yao and goes out with an escort to meet them. At Qili, Lu Xueqi learns from Fa Xiang that the Golden Clan says Gui Li acted to protect them, and decides he is still the Zhang Xiaofan she knew. A Hei Hu who serves the Beast Deity confronts the Great Shaman and calls him a traitor. Wild beasts turned monstrous attack the party, and the Great Shaman is badly hurt, so Gui Li and Xiao Bai fight to get him through. Fa Xiang and Lu Xueqi send word back to their masters, and the Beast Deity's chant shows he has gathered all five holy weapons.",
+  "events": [
+    "The legend: Ling Long seals the demon with the Eight Ferocious Mystic Fire Formation and turns to stone",
+    "The five holy weapons are split among five tribes to keep the seal shut",
+    "Gui Li escorts the Great Shaman towards Huqi Mountain; the Ghost King rides out to meet them",
+    "Lu Xueqi hears the Golden Clan's account and stops seeing Gui Li as a butcher",
+    "The Hei Hu confronts the Great Shaman, who calls him a traitor",
+    "Monstrous beasts attack; the Great Shaman is gravely wounded",
+    "The Beast Deity chants to break the seal after gathering all five holy weapons"
+  ],
+  "introduced": [
+    "Ling Long (the ancient Wu priestess)",
+    "Eight Ferocious Mystic Fire Formation",
+    "five holy weapons",
+    "Hei Hu (servant of the Beast Deity)",
+    "beast-repelling powder"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ling-long",
+      "name": "Ling Long",
+      "first": true,
+      "card": 209.3,
+      "quote": "(Linglong)"
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "great-shaman",
+      "name": "Great Shaman",
+      "card": 232.4,
+      "quote": "(Penyihir Agung)"
+    },
+    {
+      "id": "xiao-bai",
+      "name": "Xiao Bai",
+      "card": 241.3,
+      "quote": "(Bai)"
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui",
+      "card": 276.7,
+      "quote": "(Monyet bermata tiga)"
+    },
+    {
+      "id": "qing-long",
+      "name": "Qing Long",
+      "card": 301.2,
+      "quote": "(Qing Long)"
+    },
+    {
+      "id": "ghost-king",
+      "name": "Ghost King",
+      "card": 312.5,
+      "quote": "(Raja Setan)"
+    },
+    {
+      "id": "bi-yao",
+      "name": "Bi Yao",
+      "card": 326.4,
+      "quote": "(Yao 'er)"
+    },
+    {
+      "id": "fa-xiang",
+      "name": "Fa Xiang",
+      "card": 340.5,
+      "quote": "(Perdana Menteri)"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi",
+      "card": 377.3,
+      "quote": "(Lu Xueqi)"
+    },
+    {
+      "id": "hei-hu",
+      "name": "Hei Hu",
+      "first": true,
+      "card": 414.7,
+      "quote": "(Harimau Hitam)"
+    },
+    {
+      "id": "beast-deity",
+      "name": "Beast Deity"
+    }
+  ],
+  "changes": [
+    "Time: no time jump at the start of Season 3. EP52 ends 'a few days later' with the Great Shaman agreeing to help, and EP53 starts with Gui Li already taking him to Huqi Mountain. The big jump in this part of the story happened earlier, inside Season 2: in EP48-49 and EP54 Gui Li and Lu Xueqi both say ten years have passed since Bi Yao fell (the Seven Meridians Tournament and Kongsang were 'ten years ago')."
+  ],
+  "flags": [
+    "This episode's subtitles come from a different, rougher fansub: names appear as bracketed captions like '(Raja Setan)'. The card times are the caption times and may sit a little off the faces.",
+    "340.5 s: '(Perdana Menteri)' (prime minister) is read as a machine slip for Fa Xiang (法相); the speaker tells of 'Junior Zhang' protecting the Golden Clan.",
+    "407-440 s: '(Siluman penyihir) Kakak!' and '(Harimau Hitam)': who calls whom 'brother' and 'traitor' is unclear. Read as the Black Tiger and the Great Shaman being former brothers, with the Black Tiger now finishing 'the lady's' work for the Beast Deity.",
+    "255.7 s: '(Hanyut)' (drifting) caption is unexplained.",
+    "232 s: the five holy weapons are 'taken to the Sky Palace / split among five warriors'; garbled, but the meaning (five weapons kept apart keep the seal) is clear.",
+    "919-950 s: advice to settle with a shaman guarding the Golden Clan's north and to report to the master; speakers unclear (probably Fa Xiang and Lu Xueqi with survivors).",
+    "983-1036 s: the Beast Deity's incantation; 'He actually gathered the five holy weapons' has no named speaker."
+  ]
+}

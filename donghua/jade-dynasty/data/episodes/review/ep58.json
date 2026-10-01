@@ -1,0 +1,51 @@
+{
+  "ep": 58,
+  "title": "Chu Wu's soul-thralls and the three-sect alliance",
+  "summary": "Gui Li, now Vice Sect Master of the Ghost King Sect, fights the beast Chu Wu with Yan Hui and finds that Qing Long died at its hands. Chu Wu devours souls and binds them as servants, and Qing Long's soul begs Gui Li to free him; Gui Li breaks the beast's thousand shackles and releases the trapped souls. At Snake Poison Valley, Qin Wuyan of the Ten Thousand Poisons Sect shows the Ghost King and Jin Ping'er the sect's ancestral protective formation and the three demonic sects swear an alliance. At Luoshen Gate the righteous sects hold off the beast tide: Li Xun's Fen Xiang disciples, Xiao Yicai, Lin Jingyu, Zeng Shushu, Lu Xueqi and the monks Fa Shan and Fa Xiang fight the demon king Fei, whose poison eats through spells. The beasts suddenly pull back toward the southwest; Xiao Yicai goes to investigate and Li Xun returns to Qingyun to report. At the valley a gift from 'Young Master Blood', a rare demon treasure, is presented to Qin Wuyan, who welcomes Gui Li's arrival.",
+  "events": [
+    "Gui Li and Yan Hui fight Chu Wu; Gui Li learns Qing Long was killed by it",
+    "Qin Wuyan shows the Ten Thousand Poisons Sect's protective formation; the three demonic sects ally",
+    "The righteous sects fight the beast tide and the demon king Fei at Luoshen Gate",
+    "Qing Long's bound soul asks Gui Li to free him",
+    "Gui Li breaks Chu Wu's shackles and releases thousands of souls",
+    "The beast tide withdraws southwest; Xiao Yicai investigates, Li Xun reports to Qingyun",
+    "A rare demon treasure is presented to Qin Wuyan as Gui Li arrives at Snake Poison Valley"
+  ],
+  "introduced": [
+    "Chu Wu (soul-devouring beast)",
+    "Fei (demon king at Luoshen Gate)",
+    "Snake Poison Valley",
+    "Luoshen Gate",
+    "Ten Thousand Poisons Sect protective formation",
+    "Young Master Blood (Gui Li's epithet)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Gui Li", "look": "addressed as Vice Sect Master of the Ghost King Sect"},
+    {"id": "yan-hui", "name": "Yan Hui", "quote": "(Yan Hui)", "first": false, "card": 211.9},
+    {"id": "chu-wu", "name": "Chu Wu", "quote": "(Chu Wu)", "first": true, "card": 263.5},
+    {"id": "qing-long", "name": "Qing Long", "look": "appears as a bound soul-servant of Chu Wu"},
+    {"id": "qin-wuyan", "name": "Qin Wuyan"},
+    {"id": "ghost-king", "name": "Ghost King"},
+    {"id": "jin-pinger", "name": "Jin Ping'er"},
+    {"id": "li-xun", "name": "Li Xun"},
+    {"id": "fei", "name": "Fei", "quote": "(Fei)", "first": true, "card": 464.5},
+    {"id": "xiao-yicai", "name": "Xiao Yicai"},
+    {"id": "lin-jingyu", "name": "Lin Jingyu"},
+    {"id": "zeng-shushu", "name": "Zeng Shushu"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "fa-shan", "name": "Fa Shan"},
+    {"id": "fa-xiang", "name": "Fa Xiang"}
+  ],
+  "changes": [],
+  "flags": [
+    "EP57 has no subtitles, so how Lu Xueqi left confinement (EP56) and how Gui Li came to fight Chu Wu are unknown.",
+    "263.5 s: Chu Wu card; whether it first appeared in EP57 is unknown, so first:true is provisional. Same for Fei (464.5 s).",
+    "251.6 s: 'Rupanya, Qing Long mati di tanganmu' is said to Chu Wu after the card; read as Gui Li learning Chu Wu killed Qing Long.",
+    "723-744 s: 'Wakil Ketua Sekte, aku berhasil menyelamatkan orang Klan Emas... Bantulah aku melepaskan ikatan' read as Qing Long's soul asking Gui Li for release.",
+    "Fei (ep58 card) vs the demon king Fei Yi of EP63-64: probably different beasts (Fei's poison and plague vs Fei Yi's insect swarm); kept separate.",
+    "1002-1086 s: the order is confused. Someone presents a thousand-year demon treasure to Qin Wuyan on behalf of 'Tuan Muda Darah' (Young Master Blood = Gui Li); a formation is activated ('Aktifkan!'); then Qin Wuyan says 'Saudara Gui Li datang dengan membawa hadiah besar'. Summary stays general. In EP59 the gift is called Chu Wu's body.",
+    "935.7 s: 'Aku dan Adik Lin akan ikut' (going southwest with Xiao Yicai): speaker unclear, probably Zeng Shushu or Lu Xueqi."
+  ]
+}

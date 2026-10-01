@@ -1,0 +1,57 @@
+{
+  "ep": 42,
+  "title": "Xiao Hui's third eye and the Soul Revival ritual",
+  "summary": "In the Mystic Fire Altar, Xiao Hui's third eye opens and it shows itself as a Three-Eyed Spirit Monkey while Gui Li fights the Crimson Flame Beast, which keeps reforming as long as the formation is active. The formation's evil makes the Soul-Devouring Stick harder to control, and Gui Li is flooded by memories of Pu Zhi and of his years on Great Bamboo Peak. At the gate, Shangguan Ce studies the dead fish-men, wonders how such thick-skinned fighters died, and decides the mastermind behind them matters more than they do. He posts red-eyed eagles at every exit, warns that the killer may be disguised among the disciples, and orders Lu Shun to check the Golden Bell Formation and Li Xun to check the disciples, privately fearing a plan centuries in the making is unravelling. Deep in the altar Gui Li finds a cold stone altar carved with ritual images not made by people of the Central Plains, showing Soul Revival Magic, and guesses the Mystic Fire Mirror is the key. A voice in the dark tells him he is not Shangguan Ce, recognises his weapon as made of the Sinister Bead and the Soul-Eating Stick, and warns that its evil has entered his body and will drive him mad.",
+  "events": [
+    "Xiao Hui opens its third eye as the Three-Eyed Spirit Monkey",
+    "The Crimson Flame Beast keeps reforming; the Soul-Devouring Stick's evil surges and Gui Li sees old memories",
+    "Shangguan Ce examines the dead fish-men and suspects a hidden mastermind",
+    "Red-eyed eagles guard the exits; Lu Shun and Li Xun are ordered to search for the killer",
+    "Gui Li finds the cold stone altar and the Soul Revival Magic carvings",
+    "A hidden voice confronts Gui Li and warns him about the Soul-Devouring Stick"
+  ],
+  "introduced": [
+    "Three-Eyed Spirit Monkey",
+    "Soul Revival Magic",
+    "red-eyed eagles"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui",
+      "quote": "[Roh Monyet Bermata Tiga]",
+      "card": 169.5,
+      "look": "third eye opens"
+    },
+    {
+      "id": "shangguan-ce",
+      "name": "Shangguan Ce"
+    },
+    {
+      "id": "lu-shun",
+      "name": "Lu Shun"
+    },
+    {
+      "id": "li-xun",
+      "name": "Li Xun"
+    },
+    {
+      "id": "xiao-bai",
+      "name": "Xiao Bai",
+      "look": "only a voice in the dark at the end"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "169.5 s: '[Roh Monyet Bermata Tiga]' is a card for Xiao Hui's true form (Three-Eyed Spirit Monkey), not a new character.",
+    "361-449 s: flashback lines ('young benefactor', 'kneel and kowtow three times, call me Master', 'you lost a lot of blood', 'silly child') — speakers not named; read as Pu Zhi, Tian Buyi and Su Ru.",
+    "693 s: 'Junior, ada sesuatu...' — Li Xun with a junior, presumably Yan Hong (EP44 shows Jin Ping'er posing as Yan Hong); not named here.",
+    "1019-1051 s: the voice is not named this episode; EP43 shows it is Xiao Bai, imprisoned in the altar."
+  ]
+}

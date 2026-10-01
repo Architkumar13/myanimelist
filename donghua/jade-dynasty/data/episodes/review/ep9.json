@@ -1,0 +1,44 @@
+{
+  "ep": 9,
+  "title": "Down the mountain to Heyang",
+  "summary": "Cang Song accuses Zhang Xiaofan of being a Demon Sect spy because his stick is refined with blood, and demands he be beheaded under Qingyun's rules, while Tian Buyi defends him. Dao Xuan rules that the weapon does not look like a Demon Sect weapon and tells Cang Song that Qingyun must not kill the innocent. Xiaofan placed fourth in the tournament, so Dao Xuan sends him down the mountain with the top disciples and returns the stick, saying only he can use it. Xiaofan, who has only just learned to fly, flies with Qi Hao, Lu Xueqi and Zeng Shushu to Heyang, the biggest city in the Central Plain. At the Shanhai Garden restaurant a girl named Bi Yao mocks their signature sleeping fish and says Qingyun does nothing but farm fish. That night Lu Xueqi asks Xiaofan why he gave up at the last moment of their match, and he insists he simply wasn't good enough. Later, woken by a nightmare, Xiaofan finds Bi Yao plucking a flower in the garden; they argue over whether dew is the flower's tears, and he tells her his name.",
+  "events": [
+    "Cang Song calls Xiaofan a Demon Sect spy and wants him beheaded; Tian Buyi defends him",
+    "Dao Xuan clears Xiaofan, returns the stick, and notes he placed fourth",
+    "Dao Xuan sends Xiaofan down the mountain with the top disciples",
+    "Xiaofan, Qi Hao, Lu Xueqi and Zeng Shushu fly to Heyang",
+    "At Shanhai Garden, Bi Yao mocks the sleeping fish and Qingyun",
+    "Lu Xueqi asks Xiaofan why he gave up at the end of their match",
+    "Xiaofan meets Bi Yao at night over a plucked flower and tells her his name"
+  ],
+  "introduced": [
+    "Bi Yao",
+    "Heyang (city near Qingyun)",
+    "Shanhai Garden (restaurant in Heyang)",
+    "sleeping fish (raised in Qingyun's Hong River)",
+    "Zhugou Mountain (named only)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {"id": "cang-song", "name": "Cang Song"},
+    {"id": "tian-buyi", "name": "Tian Buyi"},
+    {"id": "dao-xuan", "name": "Dao Xuan"},
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan", "quote": "you ranked fourth in the Duel of the Seven Ranges.", "t": 113.2},
+    {"id": "qi-hao", "name": "Qi Hao"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "zeng-shushu", "name": "Zeng Shushu"},
+    {"id": "xiao-hui", "name": "Xiao Hui"},
+    {"id": "bi-yao", "name": "Bi Yao", "quote": "Bi Yao. Come back.", "first": true, "t": 436.5},
+    {"id": null, "name": "Bi Yao's companion", "look": "calls her back at the restaurant; not named", "first": true, "t": 506.0}
+  ],
+  "changes": [],
+  "flags": [
+    "No name cards; captions are only '(Yuqing Temple)' and '(Shanhai Garden)'.",
+    "51.1 s 'No one can touch him!' and 37.1 s 'Zhang Xiaofan has come to my sect for five years' read as Tian Buyi.",
+    "117.0-121.4 s: Dao Xuan says 'train with the top three disciples'; the travelling party is Qi Hao, Lu Xueqi and Zeng Shushu (and Xiaofan). Their exact placings are not stated, so the summary says 'the top disciples'.",
+    "The scouting mission to the Ten Thousand Bats Cave (EP6 plan) is only called 'our mission' (171.0 s) and they 'depart tomorrow morning'; the destination is not named in this episode.",
+    "316.9 s 'Waiter, the flower has died. Where are my dishes?' is probably Bi Yao's side, before she speaks up at 436.5 s.",
+    "Bi Yao is named at 506.0 s by her companion; she is not identified as the Ghost King's daughter in this episode."
+  ]
+}

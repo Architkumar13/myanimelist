@@ -1,0 +1,60 @@
+{
+  "ep": 27,
+  "title": "Ten years later: Gui Li",
+  "summary": "In a rainy teahouse, Zhou Yixian tells the story of the great war: Zhang Xiaofan's secret came out, the Ghost King attacked Qingyun, and Bi Yao gave her life to shield him. Ten years later Zhang Xiaofan is Gui Li, Vice Master of the Ghost King Sect, and he wipes out the Blood-Refining Hall. Nian Laoda and Lin Feng surrender, but Ye Gou Daoren refuses to betray the hall, so Gui Li spares him and keeps him at his side. Back at the Ghost King Sect, Gui Li sits by Bi Yao's body and tells her about his mission, while Qing Long and Zhu Que warn that the Ghost King's training has not cured his longing for her. The Ghost King, who has taught him two volumes of the Heavenly Book, sends him to the Dead Swamp to strike the Longevity Hall and its master Yu Yangzi, in alliance with the Ten Thousand Poisons Sect and the He Huan Sect, while a treasure is said to be about to appear. On Qingyun, Lin Jingyu leaves the hidden elder who trained him for ten years, and sect leader Dao Xuan reveals he once secretly saved that elder. Dao Xuan sends the young disciples to the western swamp to keep the treasure from the Demon Sect, and Tian Yin Temple and Fen Xiang Valley send disciples too.",
+  "events": [
+    "Zhou Yixian and Xiao Huan in a teahouse; the war and Bi Yao's death are retold",
+    "Gui Li destroys the Blood-Refining Hall; Nian Laoda and Lin Feng surrender",
+    "Ye Gou Daoren refuses to give in; Gui Li spares him and keeps him by his side",
+    "Lu Xueqi calms the angry Water Qilin on Qingyun",
+    "Gui Li visits Bi Yao's body; Qing Long and Zhu Que talk about him",
+    "Lin Jingyu leaves his hidden master; Dao Xuan speaks with the old elder",
+    "The Ghost King sends Gui Li to the Dead Swamp to attack the Longevity Hall",
+    "Dao Xuan sends Qingyun's young disciples to the swamp; Fen Xiang's Yan Hong and Li Xun set out"
+  ],
+  "introduced": [
+    "Gui Li (Zhang Xiaofan's name in the Ghost King Sect)",
+    "Yu Yangzi (master of the Longevity Hall)",
+    "Dead Swamp (the western swamp)",
+    "Longevity Hall",
+    "Water Qilin (Qingyun's guardian beast)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "zhang-xiaofan", "name": "Gui Li (Zhang Xiaofan)", "quote": "[Gui Li, Wakil Ketua Sekte Raja Hantu]", "look": "ten years older; Vice Master of the Ghost King Sect", "card": 485.4},
+    {"id": "zhou-yixian", "name": "Zhou Yixian"},
+    {"id": "xiao-huan", "name": "Xiao Huan"},
+    {"id": "lin-feng", "name": "Lin Feng", "quote": "[Lin Feng, Wanita Cantik, Balai Pemurnian Darah]", "card": 450.5},
+    {"id": "nian-laoda", "name": "Nian Laoda", "quote": "[Nian Laoda, Mall Pemurnian Darah]", "card": 462.4},
+    {"id": "ye-gou-daoren", "name": "Ye Gou Daoren"},
+    {"id": "water-qilin", "name": "Water Qilin", "quote": "[Qilin Air, Penjaga Sekte Qingyun]", "card": 615.8},
+    {"id": "zeng-shushu", "name": "Zeng Shushu", "quote": "[Zheng Shushu, Puncak Fenghui; Qi Hao, Puncak Longshou, Sekte Qingyun]", "card": 702.7},
+    {"id": "qi-hao", "name": "Qi Hao", "quote": "[Zheng Shushu, Puncak Fenghui; Qi Hao, Puncak Longshou, Sekte Qingyun]", "card": 702.7},
+    {"id": "lu-xueqi", "name": "Lu Xueqi", "quote": "[Lu Xueqi, Puncak Sekte Xiaozhu Qingyun]", "card": 713.7},
+    {"id": "bi-yao", "name": "Bi Yao", "look": "lying lifeless; Gui Li speaks to her"},
+    {"id": "zhu-que", "name": "Zhu Que", "quote": "[Zhu Que, Qing Long, Sekte Raja Hantu]", "card": 804.7},
+    {"id": "qing-long", "name": "Qing Long", "quote": "[Zhu Que, Qing Long, Sekte Raja Hantu]", "card": 804.7},
+    {"id": "ghost-king", "name": "Ghost King"},
+    {"id": "lin-jingyu", "name": "Lin Jingyu"},
+    {"id": "wan-jianyi", "name": "Wan Jianyi", "look": "the hidden old elder who trained Lin Jingyu (not named on screen)"},
+    {"id": "dao-xuan", "name": "Dao Xuan", "quote": "[Dao Xuan, Master Sekte Qingyun]", "card": 941.2},
+    {"id": "wen-min", "name": "Wen Min", "quote": "[Wen Min, Puncak Bambu Kecil dari Sekte Qingyun]", "card": 1150.3},
+    {"id": "xiao-yicai", "name": "Xiao Yicai", "quote": "[Xiao Yicai, Puncak Tongtian dari Sekte Qingyun]", "card": 1154.0},
+    {"id": "song-daren", "name": "Song Daren", "quote": "[Song Daren, Puncak Bambu Besar dari Sekte Qingyun]", "card": 1159.8},
+    {"id": "yan-hong", "name": "Yan Hong", "quote": "[Yan Hong, Li Xun, Lembah Fenxiang]", "card": 1207.9},
+    {"id": "li-xun", "name": "Li Xun", "quote": "[Yan Hong, Li Xun, Lembah Fenxiang]", "card": 1207.9},
+    {"id": "dahuang", "name": "Dahuang"}
+  ],
+  "changes": [],
+  "flags": [
+    "0-171 s: the teahouse retelling of Season 1 (narrated by Zhou Yixian) is a recap, not new events.",
+    "No 'first' set on name cards: all carded characters appear to be Season 1 regulars; the season opener re-cards them. Lin Feng, Nian Laoda, Qing Long and Zhu Que may be first on screen here if Season 1 never showed them; not checked.",
+    "929-952 s: the old man Lin Jingyu thanks ('Senior', ten years of teaching, secretly saved by Dao Xuan from his master) is never named; identified as Wan Jianyi from the novel.",
+    "464.2 s 'Kamu Gou' and 965.1 s 'Ye Gao' both read as Ye Gou Daoren.",
+    "702.7 s card reads 'Zheng Shushu'; mapped to Zeng Shushu (Wind Return Peak).",
+    "54.6 s 'Nama Pangeran Ketiga?' is garbled; dropped.",
+    "Why the Water Qilin is angry (around 616-706 s) is not explained in the subs.",
+    "1089 s: the Ghost King calls his side the 'Holy Religion' (Sekte Agama Suci); Gui Li still calls it the Demon Sect."
+  ]
+}

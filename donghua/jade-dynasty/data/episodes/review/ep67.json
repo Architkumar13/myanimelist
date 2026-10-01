@@ -1,0 +1,69 @@
+{
+  "ep": 67,
+  "title": "The trial in Huanyue Cave: Gui Li finds his own way",
+  "summary": "Inside Huanyue Cave Gui Li meets two figures from Qingyun's past: the Black-Hearted Old Man, first owner of the Sinister Bead, and Daoist Qingye. The two fight with the power of heaven and earth, then turn to Gui Li. Qingye asks what his life would have been if he had kept his heart straight, while the Black-Hearted Old Man tells him the strong prey on the weak and that he should take any power he can use. Meanwhile Small Bamboo Peak's Shui Yue, Wen Min and Lu Xueqi go for the White Bone Snake Demon King's core, and Lu Xueqi finishes it with Tianya. Young Tian Yin monks rescue one of their elders as the Beast Deity appears. Gui Li remembers Tian Buyi telling him, before he was called to the Yuqing Hall over the Fire Stick, that Su Ru's sword Mo Xue was once a Ten Thousand Poisons Sect weapon taken by Wan Jianyi, and that good and evil lie in the heart, not in a weapon or a method. Gui Li rejects both voices and says his way is in his own heart, and the cave's voice calls the result frightening.",
+  "events": [
+    "Gui Li meets the Black-Hearted Old Man and Daoist Qingye inside Huanyue Cave",
+    "The two fight, then each tests Gui Li with his own view of the world",
+    "Small Bamboo Peak attacks the White Bone Snake Demon King's core; Lu Xueqi kills it with Tianya",
+    "Tian Yin monks rescue an elder as the Beast Deity appears",
+    "Gui Li remembers Tian Buyi's words about Mo Xue and about good and evil",
+    "Gui Li rejects both the Daoist and the demonic path: 'My way is in my heart'"
+  ],
+  "introduced": [
+    "Mo Xue (Su Ru's sword, once a Ten Thousand Poisons Sect treasure)",
+    "Evil Dragon Covers the Sea (Black-Hearted Old Man's technique)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "black-hearted-old-man",
+      "name": "Black-Hearted Old Man",
+      "first": true,
+      "quote": "Could it be a black-hearted old man? The original owner of the Bloodthirsty Bead"
+    },
+    {
+      "id": "qingye",
+      "name": "Daoist Qingye",
+      "first": true,
+      "quote": "He is Patriarch Aoba"
+    },
+    {
+      "id": "shui-yue",
+      "name": "Shui Yue"
+    },
+    {
+      "id": "wen-min",
+      "name": "Wen Min"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "tian-buyi",
+      "name": "Tian Buyi",
+      "look": "in Gui Li's memory"
+    },
+    {
+      "id": "beast-deity",
+      "name": "Beast Deity"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "The English track calls Qingye 'Aoba' (61, 65 s, the Japanese reading of 青叶) and the Sinister Bead 'Bloodthirsty Bead'; mapped to Daoist Qingye and Sinister Bead.",
+    "17-110 s: the Black-Hearted Old Man and Qingye are likely visions or remnants held in the cave, not living people; the episode doesn't say.",
+    "113-287 s: the two voices questioning Gui Li are not marked by speaker; 'Hahaha, Ruzi can be taught' (257 s) read as the Black-Hearted Old Man.",
+    "361-519 s: 'Yuki' = Lu Xueqi; 'Qinglan will be handed over to you' (511 s) unclear, perhaps Wen Min passing on a formation role; 'Tianya slaughter demon' (516 s) read as Lu Xueqi's finishing strike.",
+    "566-574 s: 'Uncle, master uncle, we're here to save you. Amitabha': the rescued Tian Yin elder is not named.",
+    "619-713 s: chanted lines ('All beings are chess... why bind yourself') read as the cave's trial voice pressing Gui Li.",
+    "726-811 s: memory of Tian Buyi and 'Old Seven' (Xiaofan) before Dao Xuan summoned him to the Yuqing Hall; 'Later by Wan... a senior brother seized' read as Wan Jianyi taking Mo Xue.",
+    "879-881 s: 'This child has found a unique way. It's really scary.' Speaker not named (the cave's voice, or Qingye)."
+  ]
+}

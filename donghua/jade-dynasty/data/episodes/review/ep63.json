@@ -1,0 +1,46 @@
+{
+  "ep": 63,
+  "title": "Drinks with a stranger and the trap at Heyang City",
+  "summary": "Luoshen Gate has fallen and the demon king Fei Yi is devouring the land near Yandang Mountain, so Dao Xuan sends Xiao Yicai, Zeng Shushu and Lu Xueqi with Tian Yin and Fen Xiang disciples to destroy it. Xiao Yicai also carries Dao Xuan's question to Tian Buyi about the Tianji Seal on Great Bamboo Peak's back mountain. Tian Buyi agrees, but warns that lifting the Seven Peaks Tianji Seal will release a thousand years of evil aura and harm whoever wields the Zhu Xian Sword. In an empty town Gui Li drinks again with the stranger he met before. The stranger says the only person he cared about is gone and he must do one last thing for her. In Heyang City, Zhou Yixian, Xiao Huan and Ye Gou Daoren visit the memorial hall where Xiao Huan's father lies, and disturb a Demon Sect master who is gathering dark aura there. He attacks them with crows and corpse puppets. Gui Li steps in to protect the three. The master, also of the Ghost King Sect, asks why he isn't guarding Bi Yao on Huqi Mountain, and the two face off.",
+  "events": [
+    "News that Luoshen Gate has fallen; Fei Yi is ravaging the land near Yandang Mountain",
+    "Dao Xuan sends Xiao Yicai, Zeng Shushu and Lu Xueqi to hunt Fei Yi",
+    "Gui Li drinks with the stranger at an inn in an abandoned town",
+    "Zhou Yixian, Xiao Huan and Ye Gou Daoren are attacked by crows at a memorial hall",
+    "Tian Buyi warns that lifting the Seven Peaks Tianji Seal endangers the Zhu Xian Sword's wielder",
+    "A Ghost King Sect master traps the three in Heyang City with corpse puppets",
+    "Gui Li intervenes and confronts the master"
+  ],
+  "introduced": [
+    "Fei Yi (demon king)",
+    "Yandang Mountain",
+    "Seven Peaks Tianji Seal",
+    "Yuelai Inn",
+    "Heyang City",
+    "Huqi Mountain (where Bi Yao is kept)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "dao-xuan", "name": "Dao Xuan"},
+    {"id": "xiao-yicai", "name": "Xiao Yicai"},
+    {"id": "zeng-shushu", "name": "Zeng Shushu"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "tian-buyi", "name": "Tian Buyi"},
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": "beast-deity", "name": "Beast Deity", "look": "the stranger from EP56; not named"},
+    {"id": "xiao-hui", "name": "Xiao Hui"},
+    {"id": "zhou-yixian", "name": "Zhou Yixian"},
+    {"id": "xiao-huan", "name": "Xiao Huan"},
+    {"id": "ye-gou-daoren", "name": "Ye Gou Daoren"},
+    {"id": null, "name": "Ghost King Sect master at Heyang City", "look": "dark cultivator with crows and corpse puppets; not named"}
+  ],
+  "changes": [],
+  "flags": [
+    "The drinking companion is not named; read as the Beast Deity, the same man as EP56 ('Bukankah kita bisa bertemu kembali?').",
+    "The Heyang City master is not named. He says he and Gui Li are both Ghost King Sect and that Gui Li 'masters three supreme teachings'. In the novel this could be Mr. Ghost; unconfirmed.",
+    "316 s: Xiao Huan says 'Ayah, aku dan Kakek datang untuk menemuimu' ('Father, Grandpa and I have come to see you') at the memorial hall.",
+    "708.9 / 777.8 s: '(Ramalan Dewa)' is Zhou Yixian's fortune-telling banner, not a name card. 255.6 s Yuelai Inn and 794.8 s Heyang City are place cards.",
+    "693-752 s: Zhou Yixian identifies the master as a Demon Sect expert and asks for mercy; the master spares them, then (815 s) attacks anyway for breaking his taboo. The sequence is choppy."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "ep": 44,
+  "title": "Xiao Bai goes free",
+  "summary": "The Mystic Fire Altar erupts and Fen Xiang disciples under Li Xun cut down the fish-men at the gate; a disciple who looks like Yan Hong goes off to chase the ones who flee. Freed by Gui Li, Xiao Bai thanks him and Xiao Hui. Gui Li tells her Xiao Liu lies in the deepest part of a cave in a small wood five kilometres from Small Pond Town at Kongsang Mountain, and hands her the Mystic Fire Mirror, which she says is the finest fire treasure of all and, with the Eight Fiends Formation, could destroy the world. Shangguan Ce works out that the 'Yan Hong' who left was Jin Ping'er in disguise and goes to the Valley Master. Yun Yilan orders that Jin Ping'er and the other intruder be caught, saying it is better to kill wrongly than let them escape, and scorns Shangguan Ce for losing the mirror three hundred years ago and now the altar. Xiao Bai gives the mirror back, telling Gui Li it has been holding down the Soul-Devouring Stick's evil and that without it he would have gone mad; he answers that the worst thing in the world is the human heart. Then he asks her whether someone left with only one of the three hun and seven po, body intact but feeling nothing, can be saved, and she says there is a way.",
+  "events": [
+    "The altar erupts; Li Xun's disciples kill the fish-men; 'Yan Hong' chases the survivors",
+    "Xiao Bai is free and wants to visit Xiao Liu; Gui Li tells her where he lies",
+    "Gui Li gives Xiao Bai the Mystic Fire Mirror",
+    "Shangguan Ce realises 'Yan Hong' was Jin Ping'er in disguise",
+    "Yun Yilan scolds Shangguan Ce and orders the intruders caught at any cost",
+    "Xiao Bai returns the mirror and warns Gui Li about the Soul-Devouring Stick",
+    "Gui Li asks how to save someone with only one soul left; Xiao Bai says there is a way"
+  ],
+  "introduced": [],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "xiao-bai",
+      "name": "Xiao Bai",
+      "quote": "[Xiaobai]",
+      "card": 427.5
+    },
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui"
+    },
+    {
+      "id": "li-xun",
+      "name": "Li Xun"
+    },
+    {
+      "id": "shangguan-ce",
+      "name": "Shangguan Ce"
+    },
+    {
+      "id": "yun-yilan",
+      "name": "Yun Yilan"
+    },
+    {
+      "id": "jin-pinger",
+      "name": "Jin Ping'er",
+      "look": "disguised as Yan Hong"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "No dialogue before 172 s: recap/opening.",
+    "279 s: 'Senior, I'll chase the fleeing fish-men' — the 'Yan Hong' shown is Jin Ping'er in disguise (567-589 s). The real Yan Hong is not shown.",
+    "510 s: 'Gua Hajar Aswad' (Black Stone Cave) is a translator's rendering of the cave name; left out of the summary.",
+    "746-750 s: 'Senior, are you well? / My lifespan has reached its limit, I only wait for death' — speakers not clear (Shangguan Ce and Yun Yilan, order uncertain). Yun Yilan is not named on screen; identified as the Valley Master who calls Shangguan Ce 'my junior brother' (839 s). This may be his first on-screen appearance in the show; not listed in introduced because earlier episodes were not checked.",
+    "782 s: 'Apart from Fen Xiang's secret arts, only the Mystic Fire Mirror can break the Mystic Fire Chains' — they suspect someone else holds the mirror.",
+    "1015-1051 s: the 'three hun and seven po' question is repeated at the start of EP45."
+  ]
+}

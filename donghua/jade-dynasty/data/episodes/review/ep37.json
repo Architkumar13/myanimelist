@@ -1,0 +1,72 @@
+{
+  "ep": 37,
+  "title": "The Fish-Man Clan and the road to Fen Xiang Valley",
+  "summary": "Back at the Ghost King Sect's waystation by the Dead Swamp, Gui Li hears that fish monsters have killed many of his men, that the He Huan Sect was hit too, and that the Ten Thousand Poisons Sect left the swamp overnight. The Ghost King came with two Saint Beast envoys, left the matter to Gui Li and went, so Gui Li sends the troops back to Huqi Mountain and stays to look into the fish monsters. Ye Gou Daoren, who has left the Ghost King Sect after Nian Laoda's betrayal, now travels with Zhou Yixian and Xiao Huan. On Qingyun Mountain, Dao Xuan visits Wan Jianyi; they talk about Lin Jingyu and about the Zhu Xian Sword's backlash, which still has not healed after ten years. Jingyu reports that his trip to the Dead Swamp found nothing and says he still respects Cang Song like a father. Gui Li finds Zhou Yixian, who tells him the killers are the Fish-Man Clan of the Shiwan Mountains in the Southern Border, a road guarded by Fen Xiang Valley, so their arrival in force means something is wrong there. Zhou also says the ancient Wu clan's lost texts are most likely held by local cultivation sects in the south.",
+  "events": [
+    "A subordinate reports the fish-monster attacks; the Ghost King came with two envoys and left everything to Gui Li",
+    "Gui Li sends the troops back to Huqi Mountain and stays to investigate",
+    "Ye Gou Daoren joins Zhou Yixian and Xiao Huan on the road",
+    "Dao Xuan and Wan Jianyi talk about Lin Jingyu and the Zhu Xian Sword's backlash; Jingyu reports back and speaks of Cang Song",
+    "Xiao Huan meets Gui Li again; he asks Zhou Yixian about the fish monsters",
+    "Zhou Yixian names the Fish-Man Clan of the Shiwan Mountains; Gui Li concludes something has happened at Fen Xiang Valley",
+    "Zhou says the ancient Wu clan's texts are probably kept by local sects",
+    "Jin Ping'er appears; at night Gui Li tells someone calling him 'Junior Zhang' that he cannot go back"
+  ],
+  "introduced": [
+    "Fish-Man Clan",
+    "Shiwan Mountains",
+    "Huqi Mountain"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "ye-gou-daoren",
+      "name": "Ye Gou Daoren"
+    },
+    {
+      "id": "zhou-yixian",
+      "name": "Zhou Yixian"
+    },
+    {
+      "id": "xiao-huan",
+      "name": "Xiao Huan"
+    },
+    {
+      "id": "lin-jingyu",
+      "name": "Lin Jingyu"
+    },
+    {
+      "id": "wan-jianyi",
+      "name": "Wan Jianyi"
+    },
+    {
+      "id": "dao-xuan",
+      "name": "Dao Xuan"
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui",
+      "look": "Xiao Huan notes an old wound on its forehead that looks like a new eye (887 s)"
+    },
+    {
+      "id": "jin-pinger",
+      "name": "Jin Ping'er"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "No dialogue before 258 s: recap/opening.",
+    "258-315 s: the Ghost King Sect subordinate who reports is not named; 'Sha Sheng' (270 s) is a missing officer who chased the fish monsters.",
+    "343 s: 'Tuan Muda Darah' (Blood Young Master) is Gui Li's epithet; Ye Gou says he was spared by him. 'Pendeta' = Daoist, i.e. Ye Gou Daoren, who is never named in this episode's subtitles.",
+    "488-617 s: neither Dao Xuan nor Wan Jianyi is named; identified from 'Sekte Master' (567 s), the Zhu Xian Sword backlash and Jingyu calling his host 'Senior'. Which of the two says 'he resembles someone too much ... I couldn't sleep' (506 s) is unclear.",
+    "616 s: 'Lagu Cang' is a machine translation of Cang Song (song = 'song').",
+    "931.9 s: 'Saudari Ping'er' — Jin Ping'er's arrival; the exchange 'Will you kill me? Yes' (972 s) is probably between her and Gui Li.",
+    "1015-1066 s: the speaker calling him 'Junior Zhang' and asking him to come back is not identified (possibly a Qingyun figure or a dream).",
+    "1069 s: '(Heaven and earth are not benevolent ...)' is the series' epigraph, closing the episode."
+  ]
+}

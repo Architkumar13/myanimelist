@@ -1,0 +1,92 @@
+{
+  "ep": 18,
+  "title": "Kneeling in the rain; the Demon Sect gathers at Liubo Mountain",
+  "summary": "A strong evil aura comes off Zhang Xiaofan and he fights Song Daren. Tian Buyi orders him to kneel and repent, and sends Lin Jingyu, who tries to stand by him, back with Qi Hao. Bi Yao slips onto the peak and finds Xiaofan in the rain; she prays to the Wisdom King and the Holy Mother for him, but he insists he deserves punishment. In the morning Tian Buyi tells him that Tian Ling'er loves Qi Hao and sees him only as a younger brother, and gives him a mission. Searching Liubo Mountain with Ling'er, Xiaofan finds a cave where Demon Sect members are waiting for the Kui, a divine beast seen every 3,000 years, and are demanding the Ghost King explain himself. Bi Yao speaks for her father; Baiduzi and Elder Duanmu of the Ten Thousand Poisons Sect argue about whether to stay. Bi Yao exposes a man sowing discord as a Qingyun spy by his Taiji Xuanqing Dao and Seven Star Sword. Xiaofan and Ling'er jump in to help him, and he turns out to be Xiao Yicai. Bi Yao uses the Hehuan Bell, and the Ghost King appears and warns her that it backfires on the unskilled.",
+  "events": [
+    "Zhang Xiaofan's evil aura flares and he fights Song Daren",
+    "Tian Buyi makes him kneel in the rain; Lin Jingyu is sent away",
+    "Bi Yao visits him in the rain and prays for him",
+    "Tian Buyi tells him Ling'er sees him as a younger brother and gives him a mission",
+    "Xiaofan and Ling'er find the Demon Sect waiting for the Kui on Liubo Mountain",
+    "Bi Yao exposes a Qingyun spy; Xiaofan and Ling'er help him; he is Xiao Yicai",
+    "The Ghost King appears and warns Bi Yao about the Hehuan Bell"
+  ],
+  "introduced": [
+    "Kui (Kui Ox), a divine beast seen every 3,000 years",
+    "Baiduzi (Ten Thousand Poisons Sect)",
+    "Elder Duanmu (Ten Thousand Poisons Sect)",
+    "Longevity Hall (Changsheng Sect, mentioned)",
+    "Seven Star Sword (a Qingyun technique)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Zhang Xiaofan",
+      "look": "a strong evil aura around him"
+    },
+    {
+      "id": "song-daren",
+      "name": "Song Daren"
+    },
+    {
+      "id": "tian-buyi",
+      "name": "Tian Buyi"
+    },
+    {
+      "id": "tian-linger",
+      "name": "Tian Ling'er"
+    },
+    {
+      "id": "lin-jingyu",
+      "name": "Lin Jingyu"
+    },
+    {
+      "id": "qi-hao",
+      "name": "Qi Hao"
+    },
+    {
+      "id": "bi-yao",
+      "name": "Bi Yao"
+    },
+    {
+      "id": "xiao-zhou",
+      "name": "Xiao Zhou"
+    },
+    {
+      "id": "baiduzi",
+      "name": "Baiduzi",
+      "quote": "(Hundred Poison of Wandu Sect)",
+      "first": true,
+      "card": 654.3
+    },
+    {
+      "id": "elder-duanmu",
+      "name": "Elder Duanmu",
+      "quote": "(Elder Duanmu of Wandu Sect)",
+      "first": true,
+      "card": 678.6
+    },
+    {
+      "id": "xiao-yicai",
+      "name": "Xiao Yicai",
+      "quote": "I'm Xiao Yicai of Qingyun Sect.",
+      "look": "disguised as a Demon Sect member"
+    },
+    {
+      "id": "ghost-king",
+      "name": "Ghost King",
+      "quote": "He is Ghost King."
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "169-256 s: a song plays over inner thoughts in parentheses ('You saved and protected me... I'll shoulder it with you'); the speaker is probably Bi Yao, who appears right after.",
+    "563 s 'Ghost King Zong' = the Ghost King (zong = sect master).",
+    "662 s 'Changsheng Sect' = Longevity Hall; 620 s 'Holy Cult' / 'Holy Sect' = what the Demon Sect calls itself.",
+    "731 s 'Qing Method of Taijixuan' = Taiji Xuanqing Dao.",
+    "641 s: the 'Xiao Zhou' addressed in the crowd is presumably the Blood-Refining Hall's Xiao Zhou from EP10.",
+    "Xiao Yicai said his name in EP2, so `first` is not set. The Ghost King was first on screen in EP14 as Wan Renwang."
+  ]
+}

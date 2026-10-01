@@ -1,0 +1,42 @@
+{
+  "ep": 25,
+  "title": "The Zhu Xian Sword Formation and Pu Zhi's secret",
+  "summary": "Dao Xuan unleashes the Zhu Xian Sword Formation, and the stunned demon leaders wonder whether he has reached Taiqing (Grand Purity); the Demon Sect pulls back. The cost is heavy: of Qingyun's 25 elders, 14 are dead and five badly hurt, Tian Yun and Shang Zhengliang among the dead, and Pu Hong reveals that 'Shangguan Ce' was a Demon Sect impostor who ambushed him. Before the dead, Dao Xuan again asks Zhang Xiaofan for his secret, and Pu Kong of Tian Yin Temple threatens to punish him. Then mad Wang Er points at the bald monk as the 'ghost' who killed the villagers, and Pu Hong confesses that the murderer of Grass Temple Village came from Tian Yin Temple. In the demon camp the leaders blame Cang Song for promising Dao Xuan would not use the sword, learn that Bi Yao is missing on Qingyun, and agree to strike again while Dao Xuan is weak. Pu Hong tells Dao Xuan the full story: Pu Zhi came to Qingyun to propose studying Buddhism and Taoism together and was refused, was wounded by a man in black while guarding the Sinister Bead, and secretly taught Zhang Xiaofan the Great Brahma Prajna. Twisted by the bead and with only days to live, Pu Zhi slaughtered the village himself so Qingyun would have to take in the two boys, then returned to Tian Yin Temple to confess before he died.",
+  "events": [
+    "Dao Xuan's Zhu Xian Sword Formation drives the Demon Sect back",
+    "Qingyun counts its dead: 14 of 25 elders, including Tian Yun and Shang Zhengliang",
+    "Pu Hong reveals the fake Shangguan Ce ambushed him",
+    "Wang Er identifies a bald monk as the village killer; Pu Hong confesses that the killer came from Tian Yin Temple",
+    "The demon leaders turn on Cang Song, learn Bi Yao is missing, and decide to attack again",
+    "Pu Hong tells how Pu Zhi was refused by Qingyun, wounded by a man in black, and taught Xiaofan the Great Brahma Prajna",
+    "Pu Zhi, corrupted by the Sinister Bead, massacred Grass Temple Village to force Qingyun to take the boys"
+  ],
+  "introduced": [
+    "Pu Kong (Tian Yin Temple monk)",
+    "Zhu Xian Sword Formation (first used)"
+  ],
+  "cultivation": "A demon leader asks whether Dao Xuan has 'mastered the level of Taiqing' (Grand Purity) on seeing the Zhu Xian Sword Formation. The demon camp says wielding the Zhu Xian Sword takes a very high level and that a weaker user is driven mad by it; this formation was 'not even 30%' of its full power.",
+  "confidence": "high",
+  "cast": [
+    {"id": "dao-xuan", "name": "Dao Xuan", "realm": "possibly Taiqing (Grand Purity)", "quote": "Daoxuan has mastered the level of Taiqing?"},
+    {"id": "lin-jingyu", "name": "Lin Jingyu"},
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan"},
+    {"id": "tian-buyi", "name": "Tian Buyi"},
+    {"id": "pu-hong", "name": "Pu Hong"},
+    {"id": "pu-kong", "name": "Pu Kong", "first": true},
+    {"id": "wang-er", "name": "Wang Er"},
+    {"id": "ghost-king", "name": "Ghost King"},
+    {"id": "cang-song", "name": "Cang Song"},
+    {"id": "you-ji", "name": "You Ji"},
+    {"id": "pu-zhi", "name": "Pu Zhi", "look": "in flashback"}
+  ],
+  "changes": [],
+  "flags": [
+    "51.6 s 'Taiqing' is a question from a demon onlooker, not a confirmed realm.",
+    "583 s 'takes one who reaches the level of Xuanqing or Taichi' looks garbled (probably the Taiji Xuanqing Dao at a high stage); not recorded as a realm.",
+    "347 s 'Pukong.' / 358 s 'Master Pukong!': the monk demanding answers is named Pu Kong only by address. Wang Er's 'The ghost is a bald' points at him; Pu Kong denies it, and Pu Hong then reveals the killer was Pu Zhi.",
+    "770-778 s: Pu Hong says 'the man in black was no other than Cangsong', then 'it doesn't matter whether it's Cangsong or not': left unconfirmed in the summary.",
+    "743-750 s and 962-975 s are flashbacks (the boys' fight, Pu Zhi asking Xiaofan to call him master). 979 s 'Go to hell!' leads into EP26.",
+    "You Ji is assumed to be the one reporting Bi Yao missing (557 s, unnamed)."
+  ]
+}

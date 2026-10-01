@@ -1,0 +1,60 @@
+{
+  "ep": 40,
+  "title": "The grey pig and Shangguan Ce",
+  "summary": "Gui Li and Jin Ping'er question the captured Fen Xiang disciple. He shows them a Tracking Seal and Illusion Paper Fire, and explains that the valley's Golden Bell Formation relies on a grey pig, a Shiwan Mountains beast with a keen nose that shakes the bells when it smells strangers; he knows nothing about the Fish-Man Clan. Li Xun rebukes Lu Shun for leading disciples out against orders and losing one. Gui Li cooks a rabbit for Jin Ping'er, then turns pale for a moment. That night the valley is thrown into chaos by fighting that Gui Li did not start; Xiao Hui finds the grey pig hiding in a dark alley and draws the disciples away while the fish-men attack and kill Fen Xiang disciples at the gate. Searching the valley's records, Gui Li finds only routine notes and decides the clue to the ancient Wu clan must be kept in some important figure's residence. With the fish-men out of control, the Valley Master sends disciples to ask Shangguan Ce, who has kept away from the world guarding the Mystic Fire Altar for a hundred years, to deal with them, and he comes out.",
+  "events": [
+    "The captured disciple explains the Tracking Seal, the Illusion Paper Fire and the grey pig behind the Golden Bell Formation",
+    "Li Xun rebukes Lu Shun for breaking the stay-inside order",
+    "Gui Li cooks a rabbit; Jin Ping'er notices him turn pale",
+    "Fighting breaks out in the valley; Gui Li declines Jin Ping'er's suggestion to join in",
+    "Xiao Hui finds and leads off the grey pig; fish-men kill disciples at the valley gate",
+    "Gui Li searches records for the ancient Wu clan and finds nothing useful",
+    "Shangguan Ce leaves the Mystic Fire Altar to deal with the fish-men"
+  ],
+  "introduced": [
+    "Tracking Seal",
+    "Illusion Paper Fire",
+    "grey pig",
+    "Mystic Fire Altar"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "jin-pinger",
+      "name": "Jin Ping'er"
+    },
+    {
+      "id": "xiao-hui",
+      "name": "Xiao Hui"
+    },
+    {
+      "id": "li-xun",
+      "name": "Li Xun"
+    },
+    {
+      "id": "lu-shun",
+      "name": "Lu Shun"
+    },
+    {
+      "id": "shangguan-ce",
+      "name": "Shangguan Ce",
+      "quote": "[Shangguan Ce dari Lembah Fenxiang]",
+      "card": 1011.4,
+      "first": true
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "No dialogue before 165 s: recap/opening.",
+    "471 s: Gui Li turning pale is not explained.",
+    "509-560 s: who starts the night fighting is not stated here (EP43 reveals Jin Ping'er used illusions to set disciples against the fish-men). 539.8 s 'Saya harus membantunya' speaker unclear.",
+    "789-829 s: where Gui Li reads the records is not clear; something happens to Xiao Hui (Gui Li calls it repeatedly, then 'it's fine').",
+    "953 s: 'Paman Guru Lu telah menjaga Altar Api Hitam selama 100 tahun' — from 961-986 s and EP41 it is Shangguan Ce who has guarded the altar, so this line most likely refers to him.",
+    "1011.4 s: Shangguan Ce's first name card; he is mentioned and may appear briefly in EP38, so 'first' is the first card rather than certainly the first appearance."
+  ]
+}

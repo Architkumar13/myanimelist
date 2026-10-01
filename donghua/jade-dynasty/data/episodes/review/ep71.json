@@ -1,0 +1,54 @@
+{
+  "ep": 71,
+  "title": "The Zhu Xian Sword breaks",
+  "summary": "The Zhu Xian Sword starts to slip out of control and its evil aura bursts out, hitting everyone nearby, while Lu Xueqi searches for Gui Li. A stranger breaks into the forbidden ground and wounds Dao Xuan; Tian Buyi drives him off, and the stranger remarks on how far Tian Buyi's cultivation has grown in a hundred years. The stranger tries to tempt Tian Buyi with control of Qingyun and the whole world, but Tian Buyi spits and calls him an evil demon, and he leaves warning that Tian Buyi will regret it. Tian Buyi stays to guard the formation for his senior brother. Badly hurt and holding a damaged sword, Dao Xuan hears a voice urging him to claim a reward from the world and rely on the sword alone; he answers that Qingyun's foundation is people's hearts, not a weapon, and that he will bear the cost alone. Gui Li falls under the sword's evil aura, and Lu Xueqi risks her life to reach him, begging him to wake up and not die like this. Gui Li unites good and evil and his three schools into one, the demonic aura is cleared, and the Zhu Xian Sword is found broken.",
+  "events": [
+    "The Zhu Xian Sword's evil aura explodes and hits everyone nearby",
+    "A stranger wounds Dao Xuan; Tian Buyi drives him off",
+    "The stranger tempts Tian Buyi with power over Qingyun; Tian Buyi refuses",
+    "Tian Buyi guards the formation while the sect tries to suppress the evil aura",
+    "A voice tempts the wounded Dao Xuan; he refuses",
+    "Lu Xueqi risks her life to reach Gui Li and wake him",
+    "Gui Li unites the three methods; the Zhu Xian Sword is found broken"
+  ],
+  "introduced": [],
+  "cultivation": "The stranger says Tian Buyi's cultivation has risen greatly in a hundred years.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "lu-xueqi",
+      "name": "Lu Xueqi"
+    },
+    {
+      "id": "tian-buyi",
+      "name": "Tian Buyi"
+    },
+    {
+      "id": "dao-xuan",
+      "name": "Dao Xuan"
+    },
+    {
+      "id": null,
+      "name": "A stranger in the forbidden ground",
+      "look": "not named; uses arts Tian Buyi calls a 'demon teaching'"
+    }
+  ],
+  "changes": [
+    "No older summary to correct."
+  ],
+  "flags": [
+    "71 s: thought 'if I can get rid of you, my plan is safer' - speaker not named, possibly the stranger.",
+    "172-174 s: 'it is sucking blood' - unclear whether this is the Zhu Xian Sword or the Soul-Devouring Stick.",
+    "181 s: 'Neither the Zhu Xian Sword nor Qingyun may be destroyed by my hand' - speaker unclear (possibly Dao Xuan).",
+    "188 s: 'beraninya melukai kakak seperguruanku' (dare to hurt my senior brother) read as Tian Buyi about Dao Xuan.",
+    "244-257 s: the stranger says 'Leader Tian is one of Qingyun's top figures; if I can take him away, Qingyun will be under your power' - the person to be taken and the addressee are muddled; read as tempting Tian Buyi. Identity of the stranger not given (in the novel this could be Mr. Ghost).",
+    "355-472 s: the tempter voice and the replies read as Dao Xuan's inner struggle with the sword; lines alternate without speaker markers.",
+    "359, 370 s: 'Dinastio Giok' typo for Dinasti Giok.",
+    "701-705 s: 'three laws return to one' read as Gui Li's fused method.",
+    "846-856 s: closing dialogue ('this bond is deep as the sea... after seeing clearly, am I still myself?') likely a teaser/epilogue; on-screen airing-date text at 851-852 ignored."
+  ]
+}

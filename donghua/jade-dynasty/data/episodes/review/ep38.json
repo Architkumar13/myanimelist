@@ -1,0 +1,59 @@
+{
+  "ep": 38,
+  "title": "Fen Xiang Valley's secret deal with the Fish-Man Clan",
+  "summary": "Travelling south, Gui Li stops at a tea stall whose owner is closing because monsters have been coming down from the mountains, in land Fen Xiang Valley has always protected. In Fen Xiang Valley, Li Xun learns that Shangguan Ce is interrogating a demon prisoner again. Gui Li spies on a secret meeting between the Fish-Man Clan and a Fen Xiang elder's men: the fish-men complain that the Dead Swamp hunt for the Heaven Emperor's Death Stone failed and cost them many warriors because the valley's information leaked. They agree to find the Death Stone's location within three days, and Gui Li realises the Valley Master himself may be involved. A fish-man spots him and a fight starts; the fish-men present are killed, and Lu Shun's party carries a body back to the valley. Jin Ping'er then reveals she did the killing to avenge both their men, praises Gui Li's Soul-Devouring Stick against her own Purple Light Sword, and offers to help him get into Fen Xiang Valley if he promises not to strike her down without warning as he did Qin Wuyan. That night the two slip into the valley and are spotted.",
+  "events": [
+    "A tea-stall owner closes up because monsters are attacking people near Fen Xiang land",
+    "Shangguan Ce interrogates a demon held for three hundred years; Li Xun visits the valley",
+    "Gui Li overhears the Fish-Man Clan and Fen Xiang men discussing the Heaven Emperor's Death Stone",
+    "The fish-men agree to report the Death Stone's location in three days; Gui Li suspects the Valley Master",
+    "A fight breaks out; the fish-men are killed and their body is taken back to the valley",
+    "Jin Ping'er admits she killed them and proposes working with Gui Li",
+    "Gui Li and Jin Ping'er sneak into Fen Xiang Valley at night and are discovered"
+  ],
+  "introduced": [
+    "Shangguan Ce",
+    "Lu Shun",
+    "Heaven Emperor's Death Stone",
+    "Purple Light Sword"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "li-xun",
+      "name": "Li Xun"
+    },
+    {
+      "id": "shangguan-ce",
+      "name": "Shangguan Ce"
+    },
+    {
+      "id": "lu-shun",
+      "name": "Lu Shun",
+      "first": true
+    },
+    {
+      "id": "jin-pinger",
+      "name": "Jin Ping'er"
+    },
+    {
+      "id": null,
+      "name": "Fish-Man Clan envoys"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "No dialogue before 165 s: recap/opening. 165.2 '[Teh]' (Tea) and 218.4 '[Hidup]' are sign/caption text, not name cards; 261.6 '[Lembah Fenxiang]' is a place card.",
+    "243-248 s: an inner monologue about finding a brooch and losing the killer's trail ('did she/he run into trouble?') has no clear speaker.",
+    "348-354 s: inner monologue 'a Demon Sect disciple entered the Southern road alone; once Fen Xiang finds out, I fear...' — speaker unclear.",
+    "397-401 s: 'Batu Kematian Raja Langit' / 'Gudang Harta Karun Raja Langit' mapped to the Heaven Emperor's Death Stone / Treasure Vault (name sheet: Heaven Emperor's treasure vault).",
+    "437-510 s: the Fen Xiang side is led by a 'Paman Tuan' (martial uncle), identified as Lu Shun from 723 s and EP40; the fish-men also mention the Valley Master and Shangguan Ce. 484 s 'Kamu binatang buas!' is unclear in context.",
+    "589-698 s: the order of the fight (who kills which fish-man) is not clear from the subtitles; Jin Ping'er claims the killings at 721-744 s.",
+    "754 s: 'Pedang Cahaya Ungu' = Purple Light Sword, called one of nine divine weapons; 767 s 'Mutiara Pemakan Darah' / 'Staf Penghancur Jiwa' = Sinister Bead / Soul-Eating Stick."
+  ]
+}

@@ -1,0 +1,2972 @@
+[
+  {
+    "id": "zhang-xiaofan",
+    "name": "Zhang Xiaofan",
+    "zh": "张小凡",
+    "aka": [
+      "Gui Li",
+      "Xiaofan",
+      "Lao Qi",
+      "Young Master Blood"
+    ],
+    "wiki": "Zhang Xiaofan",
+    "ep": 1,
+    "group": "Great Bamboo Peak",
+    "side": "ally",
+    "intro": "An orphan from Grass Temple Village who becomes Tian Buyi's seventh disciple on Great Bamboo Peak. Ten years after Bi Yao dies for him, he is Gui Li, Vice Master of the Ghost King Sect.",
+    "power": [
+      {
+        "ep": 3,
+        "realm": "Yuqing level 1",
+        "detail": "breaks through the first level after years of slow progress",
+        "conf": "high"
+      },
+      {
+        "ep": 5,
+        "realm": "Yuqing level 3",
+        "detail": "practises the third level from Tian Ling'er's copy",
+        "conf": "medium"
+      },
+      {
+        "ep": 7,
+        "realm": "Yuqing level 4",
+        "detail": "Chu Yuhong sees it in their match; Tian Buyi had expected only the second level (EP8)",
+        "conf": "high"
+      },
+      {
+        "ep": 71,
+        "realm": "Three teachings fused (no stage named)",
+        "detail": "unites Buddhist, Taoist and demonic power under the Zhu Xian Sword's evil aura",
+        "conf": "medium"
+      },
+      {
+        "ep": 83,
+        "realm": "Three teachings fully merged (no stage named)",
+        "detail": "he survived the tribulation (EP78); Jin Ping'er sees his three teachings stronger and no longer clashing",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "Village boy",
+        "desc": "A small village boy who keeps losing to Lin Jingyu",
+        "why": "As introduced"
+      },
+      {
+        "ep": 3,
+        "label": "Young disciple",
+        "desc": "A few years older; Great Bamboo Peak's cook, later carrying a black stick",
+        "why": "Years pass on Great Bamboo Peak"
+      },
+      {
+        "ep": 27,
+        "label": "Gui Li",
+        "desc": "Ten years older; Vice Master of the Ghost King Sect, with the Soul-Devouring Stick",
+        "why": "Ten years after Bi Yao's death"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 1,
+        "text": "Loses his 98th duel to Lin Jingyu. Pu Zhi secretly teaches him the Great Brahma Prajna and gives him a bead."
+      },
+      {
+        "ep": 2,
+        "text": "His village is wiped out. Tian Buyi takes him as Great Bamboo Peak's seventh disciple."
+      },
+      {
+        "ep": 26,
+        "text": "Learns that Pu Zhi killed the villagers. Bi Yao dies taking Dao Xuan's Zhu Xian Sword blow meant for him."
+      },
+      {
+        "ep": 27,
+        "text": "Ten years later he is Gui Li of the Ghost King Sect, looking for a way to bring Bi Yao back."
+      },
+      {
+        "ep": 71,
+        "text": "Under the Zhu Xian Sword's evil aura he fuses his Buddhist, Taoist and demonic arts into one."
+      },
+      {
+        "ep": 77,
+        "text": "The heavenly tribulation strips his cultivation. He survives the third strike as \"simply Zhang Xiaofan\" (EP78)."
+      },
+      {
+        "ep": 84,
+        "text": "Fights beside Lu Xueqi against the Beast Deity in the Ancient Demon-Suppressing Cave."
+      },
+      {
+        "ep": 85,
+        "text": "Finds that the Ghost King had Sha Sheng killed, breaks with him and goes to warn Qingyun."
+      }
+    ]
+  },
+  {
+    "id": "lin-jingyu",
+    "name": "Lin Jingyu",
+    "zh": "林惊羽",
+    "aka": [
+      "Jingyu"
+    ],
+    "wiki": "Lin Jingyu",
+    "ep": 1,
+    "group": "Dragon Head Peak",
+    "side": "rival",
+    "intro": "Zhang Xiaofan's childhood friend from Grass Temple Village, taken in by Cang Song on Dragon Head Peak. He trains for ten years under the hidden Wan Jianyi.",
+    "power": [
+      {
+        "ep": 3,
+        "realm": "Yuqing level 6",
+        "detail": "reached after five years under Cang Song",
+        "conf": "high"
+      },
+      {
+        "ep": 34,
+        "realm": "Shangqing",
+        "detail": "after ten years of training with Wan Jianyi; Gui Li calls it remarkable",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "Village boy",
+        "desc": "A village boy, the friend Xiaofan can never beat",
+        "why": "As introduced"
+      },
+      {
+        "ep": 3,
+        "label": "Young disciple",
+        "desc": "Five years older; a Dragon Head Peak disciple",
+        "why": "Five years on Dragon Head Peak"
+      },
+      {
+        "ep": 27,
+        "label": "Ten years later",
+        "desc": "Ten years older",
+        "why": "Ten years of training with the hidden elder"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 1,
+        "text": "Beats Zhang Xiaofan for the 98th time."
+      },
+      {
+        "ep": 4,
+        "text": "Cang Song gives him the Dragon-Slaying Sword."
+      },
+      {
+        "ep": 23,
+        "text": "Swears on his life, after Lu Xueqi, that Xiaofan is no traitor."
+      },
+      {
+        "ep": 24,
+        "text": "An old servant of the Ancestral Hall, Wan Jianyi, shows him how the Dragon-Slaying Sword should really be used."
+      },
+      {
+        "ep": 27,
+        "text": "Leaves the hidden elder who trained him for ten years."
+      },
+      {
+        "ep": 65,
+        "text": "Finds Wan Jianyi dying and swears Zhang Xiaofan will pay with his life."
+      },
+      {
+        "ep": 69,
+        "text": "Fights Gui Li with Wan Jianyi's sword art and wins."
+      },
+      {
+        "ep": 86,
+        "text": "Found badly hurt but alive in the wrecked Ancestral Hall."
+      }
+    ]
+  },
+  {
+    "id": "pu-zhi",
+    "name": "Pu Zhi",
+    "zh": "普智",
+    "aka": [],
+    "wiki": "Master Puzhi",
+    "ep": 1,
+    "group": "Tian Yin Temple",
+    "side": "mentor",
+    "intro": "A Tian Yin Temple monk who saves Zhang Xiaofan and secretly teaches him the Great Brahma Prajna. Twisted by the Sinister Bead, he is also the one who killed Grass Temple Village.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "Wandering monk",
+        "desc": "A wandering monk, badly hurt after the night's fights",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 1,
+        "text": "Saves Xiaofan, teaches him the Great Brahma Prajna in secret and gives him a bead."
+      },
+      {
+        "ep": 25,
+        "text": "Pu Hong reveals he killed the villagers so Qingyun would have to take in the two boys, then confessed and died."
+      },
+      {
+        "ep": 73,
+        "text": "Waits for Gui Li in Tian Yin Temple: \"Child, you are finally here.\""
+      },
+      {
+        "ep": 74,
+        "text": "Gui Li takes Pu Zhi's karma on himself. Pu Zhi attains Buddhahood, and Gui Li bows to him as his master."
+      }
+    ]
+  },
+  {
+    "id": "wang-er",
+    "name": "Wang Er",
+    "zh": "",
+    "aka": [
+      "Mr. Wang"
+    ],
+    "wiki": null,
+    "ep": 1,
+    "group": "Wanderers",
+    "side": "neutral",
+    "intro": "A Grass Temple Village survivor driven mad by the massacre, who keeps shouting about a ghost.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 1,
+        "label": "Mad villager",
+        "desc": "A villager raving about ghosts",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 25,
+        "text": "Points at Pu Kong, a bald monk, as the \"ghost\" who killed the villagers."
+      }
+    ]
+  },
+  {
+    "id": "tian-buyi",
+    "name": "Tian Buyi",
+    "zh": "田不易",
+    "aka": [],
+    "wiki": "Tian Buyi",
+    "ep": 2,
+    "group": "Great Bamboo Peak",
+    "side": "mentor",
+    "intro": "Master of Great Bamboo Peak and Zhang Xiaofan's master. Gruff and sharp-tongued, he defends his seventh disciple again and again.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "Peak master",
+        "desc": "The short, gruff master of Great Bamboo Peak",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 2,
+        "text": "Takes Zhang Xiaofan into Great Bamboo Peak."
+      },
+      {
+        "ep": 22,
+        "text": "Swears on his life to Dao Xuan and Cang Song that Xiaofan is no spy."
+      },
+      {
+        "ep": 24,
+        "text": "Fights Cang Song and then the Ghost King during the attack on Qingyun."
+      },
+      {
+        "ep": 56,
+        "text": "Says he would protect Xiaofan even at the cost of his seat."
+      },
+      {
+        "ep": 71,
+        "text": "Drives off a stranger who wounds Dao Xuan and refuses his offer of Qingyun."
+      },
+      {
+        "ep": 85,
+        "text": "Goes to see Dao Xuan, now ruled by the demon in his heart."
+      },
+      {
+        "ep": 86,
+        "text": "Does not come back from Tongtian Peak; he and Dao Xuan are both gone."
+      }
+    ]
+  },
+  {
+    "id": "su-ru",
+    "name": "Su Ru",
+    "zh": "苏茹",
+    "aka": [
+      "Madam Su"
+    ],
+    "wiki": "Su Ru",
+    "ep": 2,
+    "group": "Great Bamboo Peak",
+    "side": "mentor",
+    "intro": "Tian Buyi's wife and Tian Ling'er's mother. She looks after Zhang Xiaofan like a son.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "Master's wife",
+        "desc": "The wife of Great Bamboo Peak's master",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 75,
+        "text": "Has made a new set of clothes for Lao Qi every year for ten years."
+      },
+      {
+        "ep": 86,
+        "text": "Unseals her sword Moxue, storms the Yuqing Hall and leaves to find her husband herself."
+      }
+    ]
+  },
+  {
+    "id": "dao-xuan",
+    "name": "Dao Xuan",
+    "zh": "道玄",
+    "aka": [],
+    "wiki": "Dao Xuan",
+    "ep": 2,
+    "group": "Qingyun Sect",
+    "side": "neutral",
+    "intro": "Leader of the Qingyun Sect and the one who wields the Zhu Xian Sword. He brings the sword down on Zhang Xiaofan, and later breaks the Tianji Seal to fight the Beast Deity.",
+    "power": [
+      {
+        "ep": 25,
+        "realm": "Taiqing",
+        "detail": "the demon leaders ask each other whether he has reached it when he raises the Zhu Xian Sword Formation",
+        "conf": "low"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "Sect leader",
+        "desc": "The leader of the Qingyun Sect",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 2,
+        "text": "Receives the orphans of Grass Temple Village."
+      },
+      {
+        "ep": 25,
+        "text": "Unleashes the Zhu Xian Sword Formation and drives back the Demon Sect."
+      },
+      {
+        "ep": 26,
+        "text": "Brings the Zhu Xian Sword down on Xiaofan; Bi Yao takes the blow."
+      },
+      {
+        "ep": 69,
+        "text": "Breaks the Tianji Seal to give the sword formation its full power."
+      },
+      {
+        "ep": 70,
+        "text": "Badly wounds the Beast Deity, but his life energy runs out."
+      },
+      {
+        "ep": 81,
+        "text": "Accuses the peak masters of wanting his seat."
+      },
+      {
+        "ep": 85,
+        "text": "Ruled by the demon in his heart, he attacks Elder Fan and Xiao Yicai."
+      },
+      {
+        "ep": 86,
+        "text": "Disappears from Tongtian Peak along with Tian Buyi."
+      }
+    ]
+  },
+  {
+    "id": "xiao-yicai",
+    "name": "Xiao Yicai",
+    "zh": "萧逸才",
+    "aka": [],
+    "wiki": "Xiao Yicai",
+    "ep": 2,
+    "group": "Qingyun Sect",
+    "side": "neutral",
+    "intro": "Dao Xuan's disciple, who brings the orphans up to Qingyun. He leads the young disciples on missions and later holds the sect together.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "Senior disciple",
+        "desc": "A senior Qingyun disciple",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 2,
+        "text": "Brings Zhang Xiaofan and Lin Jingyu up to Qingyun."
+      },
+      {
+        "ep": 18,
+        "text": "Exposed as a Qingyun spy among the Demon Sect on Liubo Mountain; Xiaofan and Tian Ling'er help him."
+      },
+      {
+        "ep": 19,
+        "text": "Quietly tells Tian Buyi that Xiaofan knows Bi Yao and the Ghost King, and asks him to keep it from Cang Song."
+      },
+      {
+        "ep": 29,
+        "text": "Leads the righteous disciples at the Dead Swamp and beats the Longevity Hall's night attack."
+      },
+      {
+        "ep": 76,
+        "text": "Dao Xuan accuses him of waiting for his master to die; he swears his loyalty."
+      },
+      {
+        "ep": 86,
+        "text": "After Dao Xuan and Tian Buyi vanish, he orders a quiet search."
+      }
+    ]
+  },
+  {
+    "id": "shui-yue",
+    "name": "Shui Yue",
+    "zh": "水月",
+    "aka": [],
+    "wiki": "Shui Yue",
+    "ep": 2,
+    "group": "Small Bamboo Peak",
+    "side": "neutral",
+    "intro": "Master of Small Bamboo Peak and Lu Xueqi's teacher. She is strict and wants Xueqi kept away from Zhang Xiaofan.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "Peak master",
+        "desc": "The master of Small Bamboo Peak",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 7,
+        "text": "Has given Lu Xueqi the sword Tianya."
+      },
+      {
+        "ep": 56,
+        "text": "Agrees to Li Xun's proposal; when Xueqi refuses, confines her to the back mountain."
+      },
+      {
+        "ep": 62,
+        "text": "Disowns Xueqi when she cannot cut her bond with Gui Li."
+      },
+      {
+        "ep": 67,
+        "text": "With Xueqi and Wen Min, takes on the White Bone Snake Demon King."
+      },
+      {
+        "ep": 78,
+        "text": "Tells Xueqi the story of Tianya and lets her go after the Beast Deity."
+      },
+      {
+        "ep": 81,
+        "text": "Dao Xuan blames her for Wan Jianyi's imprisonment and death."
+      }
+    ]
+  },
+  {
+    "id": "song-daren",
+    "name": "Song Daren",
+    "zh": "宋大仁",
+    "aka": [],
+    "wiki": "Song Daren",
+    "ep": 2,
+    "group": "Great Bamboo Peak",
+    "side": "ally",
+    "intro": "The Great Bamboo Peak disciple who takes Zhang Xiaofan home on his first day and treats him as a younger brother.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "Senior brother",
+        "desc": "A kind senior disciple of Great Bamboo Peak",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 8,
+        "text": "Badly hurt in the Seven Meridians Tournament."
+      },
+      {
+        "ep": 18,
+        "text": "Xiaofan, under a strong evil aura, fights him."
+      },
+      {
+        "ep": 22,
+        "text": "Tells Xiaofan that Tian Buyi swore on his life that he is no spy."
+      }
+    ]
+  },
+  {
+    "id": "cang-song",
+    "name": "Cang Song",
+    "zh": "苍松",
+    "aka": [],
+    "wiki": "Cang Song",
+    "ep": 2,
+    "group": "Dragon Head Peak",
+    "side": "enemy",
+    "intro": "Master of Dragon Head Peak and Lin Jingyu's teacher. He hates Dao Xuan over Wan Jianyi and betrays Qingyun to the Demon Sect.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "Peak master",
+        "desc": "The master of Dragon Head Peak",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 2,
+        "text": "Takes Lin Jingyu for Dragon Head Peak."
+      },
+      {
+        "ep": 9,
+        "text": "Calls Zhang Xiaofan a Demon Sect spy and demands his head."
+      },
+      {
+        "ep": 23,
+        "text": "Strikes the poisoned Dao Xuan as the Demon Sect storms Qingyun."
+      },
+      {
+        "ep": 24,
+        "text": "Admits he set the trap, out of a hundred years of hatred over Wan Jianyi."
+      },
+      {
+        "ep": 57,
+        "text": "Comes to the Ghost King Sect as an envoy of the Ten Thousand Poisons Sect and recognises Gui Li as Zhang Xiaofan."
+      }
+    ]
+  },
+  {
+    "id": "tian-linger",
+    "name": "Tian Ling'er",
+    "zh": "田灵儿",
+    "aka": [
+      "Ling'er"
+    ],
+    "wiki": "Tian Ling'er",
+    "ep": 2,
+    "group": "Great Bamboo Peak",
+    "side": "ally",
+    "intro": "Tian Buyi and Su Ru's daughter, Zhang Xiaofan's senior sister and first love. She loves Qi Hao.",
+    "power": [
+      {
+        "ep": 4,
+        "realm": "Yuqing level 6",
+        "detail": "Qi Hao says she has mastered the sixth level",
+        "conf": "high"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "Girl",
+        "desc": "Tian Buyi's young daughter, who stops her brothers teasing Xiaofan",
+        "why": "As introduced"
+      },
+      {
+        "ep": 3,
+        "label": "Senior sister",
+        "desc": "A few years older, a young woman",
+        "why": "Years pass on Great Bamboo Peak"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 5,
+        "text": "Gives Xiaofan her own copy of the third level of the Taiji Xuanqing method."
+      },
+      {
+        "ep": 8,
+        "text": "Loses to Lu Xueqi and swears she and Qi Hao will be together forever."
+      },
+      {
+        "ep": 17,
+        "text": "Engaged to Qi Hao."
+      },
+      {
+        "ep": 79,
+        "text": "Her wedding has made Great Bamboo Peak lively again."
+      }
+    ]
+  },
+  {
+    "id": "du-bishu",
+    "name": "Du Bishu",
+    "zh": "杜必书",
+    "aka": [
+      "Lao Liu"
+    ],
+    "wiki": null,
+    "ep": 2,
+    "group": "Great Bamboo Peak",
+    "side": "ally",
+    "intro": "Great Bamboo Peak's sixth disciple, a gambler who flies on his Godwood Dice.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "Sixth disciple",
+        "desc": "A Great Bamboo Peak disciple with a pair of dice",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 5,
+        "text": "Comes back to the peak after six years away."
+      },
+      {
+        "ep": 7,
+        "text": "The only one who bet on Xiaofan, he collects his winnings."
+      }
+    ]
+  },
+  {
+    "id": "zeng-shucang",
+    "name": "Zeng Shucang",
+    "zh": "曾叔常",
+    "aka": [],
+    "wiki": "Zeng Shucang",
+    "ep": 2,
+    "group": "Qingyun Sect",
+    "side": "neutral",
+    "intro": "Master of Wind Return Peak and Zeng Shushu's father.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "Peak master",
+        "desc": "The master of Wind Return Peak",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 72,
+        "text": "Catches the wounded Gui Li, but strangers fight him off and carry Gui Li away."
+      },
+      {
+        "ep": 81,
+        "text": "Dao Xuan accuses him of hiding Cang Song's treachery."
+      }
+    ]
+  },
+  {
+    "id": "dahuang",
+    "name": "Dahuang",
+    "zh": "大黄",
+    "aka": [],
+    "wiki": null,
+    "ep": 2,
+    "group": "Great Bamboo Peak",
+    "side": "ally",
+    "intro": "Great Bamboo Peak's dog.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "Peak dog",
+        "desc": "A big yellow dog",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 79,
+        "text": "Raids the kitchen with Xiao Hui when the monkey comes back."
+      }
+    ]
+  },
+  {
+    "id": "water-qilin",
+    "name": "Water Qilin",
+    "zh": "水麒麟",
+    "aka": [],
+    "wiki": null,
+    "ep": 2,
+    "group": "Qingyun Sect",
+    "side": "neutral",
+    "intro": "Qingyun's guardian beast, tamed by Master Qingye a thousand years ago.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "Guardian beast",
+        "desc": "A huge water beast that roars at the newcomers",
+        "why": "As introduced"
+      }
+    ],
+    "arc": []
+  },
+  {
+    "id": "shang-zhengliang",
+    "name": "Shang Zhengliang",
+    "zh": "商正梁",
+    "aka": [],
+    "wiki": "Shang Zhengliang",
+    "ep": 2,
+    "group": "Qingyun Sect",
+    "side": "neutral",
+    "intro": "Master of Morning Sun Peak.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "Peak master",
+        "desc": "The master of Morning Sun Peak",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 25,
+        "text": "Among the Qingyun elders killed in the Demon Sect's attack."
+      }
+    ]
+  },
+  {
+    "id": "tian-yun",
+    "name": "Tian Yun",
+    "zh": "天云",
+    "aka": [],
+    "wiki": "Tian Yun",
+    "ep": 2,
+    "group": "Qingyun Sect",
+    "side": "neutral",
+    "intro": "Master of Luoxia Peak.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 2,
+        "label": "Peak master",
+        "desc": "The master of Luoxia Peak",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 25,
+        "text": "Among the Qingyun elders killed in the Demon Sect's attack."
+      }
+    ]
+  },
+  {
+    "id": "xiao-hui",
+    "name": "Xiao Hui",
+    "zh": "小灰",
+    "aka": [
+      "Three-Eyed Spirit Monkey"
+    ],
+    "wiki": "Xiao Hui",
+    "ep": 3,
+    "group": "Great Bamboo Peak",
+    "side": "ally",
+    "intro": "A grey monkey that steals Zhang Xiaofan's food and becomes his constant companion. It is a rare Three-Eyed Spirit Monkey.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 3,
+        "label": "Grey monkey",
+        "desc": "A small wild grey monkey",
+        "why": "As introduced"
+      },
+      {
+        "ep": 42,
+        "label": "Third eye open",
+        "desc": "A third eye open on its forehead, glowing gold",
+        "why": "Its true form shows in the Mystic Fire Altar"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 4,
+        "text": "Xiaofan shields it from Dahuang and keeps it."
+      },
+      {
+        "ep": 42,
+        "text": "Its third eye opens in the Mystic Fire Altar."
+      },
+      {
+        "ep": 79,
+        "text": "Comes back to Great Bamboo Peak, which Tian Buyi takes as a sign that Xiaofan still sees it as home."
+      }
+    ]
+  },
+  {
+    "id": "qi-hao",
+    "name": "Qi Hao",
+    "zh": "齐昊",
+    "aka": [],
+    "wiki": "Qi Hao",
+    "ep": 3,
+    "group": "Dragon Head Peak",
+    "side": "neutral",
+    "intro": "Dragon Head Peak's senior disciple, who wins Tian Ling'er's heart.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 3,
+        "label": "Senior disciple",
+        "desc": "A senior Dragon Head Peak disciple",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 9,
+        "text": "Leads the young disciples down the mountain to Heyang and Kongsang Mountain."
+      },
+      {
+        "ep": 17,
+        "text": "Engaged to Tian Ling'er."
+      }
+    ]
+  },
+  {
+    "id": "fang-chao",
+    "name": "Fang Chao",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 3,
+    "group": "Dragon Head Peak",
+    "side": "neutral",
+    "intro": "A Dragon Head Peak disciple who challenges Lin Jingyu and is nearly killed.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 3,
+        "label": "Disciple",
+        "desc": "A Dragon Head Peak disciple",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 7,
+        "text": "Lu Xueqi beats him in the tournament and wrecks his sword."
+      }
+    ]
+  },
+  {
+    "id": "lu-xueqi",
+    "name": "Lu Xueqi",
+    "zh": "陆雪琪",
+    "aka": [
+      "Xueqi"
+    ],
+    "wiki": "Lu Xueqi",
+    "ep": 6,
+    "group": "Small Bamboo Peak",
+    "side": "ally",
+    "intro": "Shui Yue's disciple on Small Bamboo Peak, who wields the sword Tianya. She falls for Zhang Xiaofan at Kongsang Mountain and never lets go.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 6,
+        "label": "Young disciple",
+        "desc": "A young Small Bamboo Peak swordswoman",
+        "why": "As introduced"
+      },
+      {
+        "ep": 27,
+        "label": "Ten years later",
+        "desc": "Ten years older",
+        "why": "Ten years after the war on Qingyun"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 8,
+        "text": "Beats Xiaofan in the tournament with the Mighty Sword of Thunder."
+      },
+      {
+        "ep": 11,
+        "text": "Catches his hand at the Abyss of the Dead and falls with him."
+      },
+      {
+        "ep": 23,
+        "text": "Swears on her life that Xiaofan is no traitor."
+      },
+      {
+        "ep": 48,
+        "text": "Tells Gui Li she has loved him for ten years, and dances with her sword for him one last time."
+      },
+      {
+        "ep": 56,
+        "text": "Refuses to marry Li Xun and is confined to Small Bamboo Peak's back mountain."
+      },
+      {
+        "ep": 59,
+        "text": "Kills the Evil Dragon with Tianya."
+      },
+      {
+        "ep": 71,
+        "text": "Risks her life to reach Gui Li under the Zhu Xian Sword's evil aura."
+      },
+      {
+        "ep": 84,
+        "text": "Fights beside Gui Li against the Beast Deity."
+      }
+    ]
+  },
+  {
+    "id": "zeng-shushu",
+    "name": "Zeng Shushu",
+    "zh": "曾书书",
+    "aka": [],
+    "wiki": "Zeng Shushu",
+    "ep": 6,
+    "group": "Qingyun Sect",
+    "side": "ally",
+    "intro": "Zeng Shucang's son from Wind Return Peak. He loves rare beasts and befriends Zhang Xiaofan over Xiao Hui.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 6,
+        "label": "Wind Return disciple",
+        "desc": "A cheerful young Wind Return Peak disciple",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 6,
+        "text": "Befriends Zhang Xiaofan, fascinated by Xiao Hui."
+      },
+      {
+        "ep": 36,
+        "text": "Still calls Gui Li a friend and gives him a small gift."
+      },
+      {
+        "ep": 64,
+        "text": "Helps destroy the demon king Fei Yi."
+      },
+      {
+        "ep": 82,
+        "text": "Follows Lu Xueqi into the Hundred Thousand Mountains."
+      }
+    ]
+  },
+  {
+    "id": "wen-min",
+    "name": "Wen Min",
+    "zh": "文敏",
+    "aka": [],
+    "wiki": "Wen Min",
+    "ep": 6,
+    "group": "Small Bamboo Peak",
+    "side": "neutral",
+    "intro": "Lu Xueqi's senior sister on Small Bamboo Peak, who likes to tease Song Daren.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 6,
+        "label": "Senior sister",
+        "desc": "A Small Bamboo Peak disciple",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 56,
+        "text": "Takes Xueqi back to Small Bamboo Peak after she refuses Li Xun."
+      },
+      {
+        "ep": 86,
+        "text": "Xueqi tells her she does not want immortality without love."
+      }
+    ]
+  },
+  {
+    "id": "chu-yuhong",
+    "name": "Chu Yuhong",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 7,
+    "group": "Qingyun Sect",
+    "side": "neutral",
+    "intro": "A Morning Sun Peak disciple and tournament favourite.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 7,
+        "label": "Disciple",
+        "desc": "A Morning Sun Peak disciple",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 7,
+        "text": "Loses to Zhang Xiaofan and his Fire Stick."
+      }
+    ]
+  },
+  {
+    "id": "peng-chang",
+    "name": "Peng Chang",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 7,
+    "group": "Qingyun Sect",
+    "side": "neutral",
+    "intro": "A Wind Return Peak disciple, Zeng Shushu's peak-mate.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 7,
+        "label": "Disciple",
+        "desc": "A Wind Return Peak disciple",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 7,
+        "text": "Meant to go easy on Xiaofan, he takes offence and attacks for real, and loses (EP8)."
+      }
+    ]
+  },
+  {
+    "id": "bi-yao",
+    "name": "Bi Yao",
+    "zh": "碧瑶",
+    "aka": [
+      "Yao'er"
+    ],
+    "wiki": "Bi Yao",
+    "ep": 9,
+    "group": "Ghost King Sect",
+    "side": "ally",
+    "intro": "The Ghost King's daughter, who carries the Sad Flower and the Hehuan Bell. She dies taking the Zhu Xian Sword's blow for Zhang Xiaofan.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 9,
+        "label": "As introduced",
+        "desc": "A sharp-tongued girl in Heyang",
+        "why": "As introduced"
+      },
+      {
+        "ep": 27,
+        "label": "In the ice room",
+        "desc": "Lying still, her body kept whole by the Hehuan Bell",
+        "why": "She died taking the Zhu Xian Sword's blow in EP26"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 9,
+        "text": "Mocks the Qingyun disciples in Heyang and meets Xiaofan in the garden."
+      },
+      {
+        "ep": 12,
+        "text": "Trapped with Xiaofan in the Dixue Cave; she saves his life."
+      },
+      {
+        "ep": 13,
+        "text": "Her blood prayer sets off the Lovestruck Mantra and opens the way out."
+      },
+      {
+        "ep": 18,
+        "text": "Finds Xiaofan kneeling in the rain and prays for him."
+      },
+      {
+        "ep": 22,
+        "text": "Asks him to run away with her; he refuses."
+      },
+      {
+        "ep": 26,
+        "text": "Takes the Zhu Xian Sword's blow for him. The Hehuan Bell catches her soul."
+      },
+      {
+        "ep": 54,
+        "text": "The Great Shaman's rite to restore her fails."
+      },
+      {
+        "ep": 85,
+        "text": "Still lies in the ice room on Huqi Mountain."
+      }
+    ]
+  },
+  {
+    "id": "li-xun",
+    "name": "Li Xun",
+    "zh": "李洵",
+    "aka": [],
+    "wiki": "Li Xun",
+    "ep": 10,
+    "group": "Fen Xiang Valley",
+    "side": "rival",
+    "intro": "Yun Yilan's disciple and a leading young fighter of Fen Xiang Valley. He wants to marry Lu Xueqi.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 10,
+        "label": "Fen Xiang disciple",
+        "desc": "A young Fen Xiang Valley disciple",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 10,
+        "text": "Joins the Qingyun disciples at the Ten Thousand Bats Cave."
+      },
+      {
+        "ep": 16,
+        "text": "Asks Xiaofan about the Red Fire Mirror; Xiaofan says he did not see it."
+      },
+      {
+        "ep": 52,
+        "text": "Strikes Gui Li's shoulder with his jade mallet while he is off guard."
+      },
+      {
+        "ep": 56,
+        "text": "Yun Yilan asks for Lu Xueqi's hand for him; she refuses."
+      },
+      {
+        "ep": 83,
+        "text": "Attacks Jin Ping'er over Yan Hong; Gui Li steps in."
+      }
+    ]
+  },
+  {
+    "id": "fa-xiang",
+    "name": "Fa Xiang",
+    "zh": "法相",
+    "aka": [],
+    "wiki": "Fa Xiang",
+    "ep": 10,
+    "group": "Tian Yin Temple",
+    "side": "ally",
+    "intro": "A Tian Yin Temple monk. He wounds Zhang Xiaofan in the war, then keeps trying to turn him back from hatred.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 10,
+        "label": "Tian Yin monk",
+        "desc": "A young Tian Yin Temple monk",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 10,
+        "text": "Drives the Blood Bats off with his Liuhe Mirror."
+      },
+      {
+        "ep": 26,
+        "text": "Wounds Xiaofan's heart with the Samsara Bead."
+      },
+      {
+        "ep": 51,
+        "text": "Begs Gui Li to let go of his hatred."
+      },
+      {
+        "ep": 52,
+        "text": "Uses the Great Brahma Prajna to keep Gui Li from being killed."
+      },
+      {
+        "ep": 73,
+        "text": "With a senior, rescues Gui Li and brings him to Tian Yin Temple."
+      },
+      {
+        "ep": 78,
+        "text": "Rushes to save Pu Hong from the tribulation."
+      }
+    ]
+  },
+  {
+    "id": "ye-gou-daoren",
+    "name": "Ye Gou Daoren",
+    "zh": "野狗道人",
+    "aka": [
+      "Ye Gou"
+    ],
+    "wiki": "Ye Gou",
+    "ep": 10,
+    "group": "Wanderers",
+    "side": "ally",
+    "intro": "A Blood-Refining Hall Daoist, born ugly and raised by wild dogs. Gui Li spares him for his loyalty, and he ends up travelling with Zhou Yixian and Xiao Huan.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 10,
+        "label": "Blood-Refining Daoist",
+        "desc": "An ugly Daoist of the Blood-Refining Hall",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 10,
+        "text": "Ambushes the righteous disciples in the Ten Thousand Bats Cave."
+      },
+      {
+        "ep": 27,
+        "text": "Refuses to betray his hall; Gui Li spares him and keeps him at his side."
+      },
+      {
+        "ep": 37,
+        "text": "Has left the Ghost King Sect and travels with Zhou Yixian and Xiao Huan."
+      },
+      {
+        "ep": 80,
+        "text": "Holds off a monster to save refugees and stops breathing."
+      },
+      {
+        "ep": 81,
+        "text": "Mr. Ghost saves him and Xiao Huan."
+      }
+    ]
+  },
+  {
+    "id": "you-ji",
+    "name": "You Ji",
+    "zh": "幽姬",
+    "aka": [
+      "Aunt You"
+    ],
+    "wiki": "You Ji",
+    "ep": 10,
+    "group": "Ghost King Sect",
+    "side": "neutral",
+    "intro": "A veiled woman of the Ghost King Sect who watches over Bi Yao.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 10,
+        "label": "Veiled lady",
+        "desc": "A veiled woman at Bi Yao's side",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 17,
+        "text": "Leaves with Bi Yao in the night."
+      },
+      {
+        "ep": 62,
+        "text": "Rescues Gui Li and warns him that the Sinister Bead's power has reached his heart meridian."
+      },
+      {
+        "ep": 77,
+        "text": "The Ghost King gives her the task of catching the Candle Dragon."
+      }
+    ]
+  },
+  {
+    "id": "yan-hong",
+    "name": "Yan Hong",
+    "zh": "燕虹",
+    "aka": [],
+    "wiki": "Yan Hong",
+    "ep": 10,
+    "group": "Fen Xiang Valley",
+    "side": "neutral",
+    "intro": "Li Xun's junior in Fen Xiang Valley.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 10,
+        "label": "Fen Xiang disciple",
+        "desc": "A Fen Xiang Valley disciple",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 44,
+        "text": "Jin Ping'er disguises herself as Yan Hong to slip out of the valley."
+      },
+      {
+        "ep": 47,
+        "text": "Found hurt after Jin Ping'er held her captive."
+      }
+    ]
+  },
+  {
+    "id": "fa-shan",
+    "name": "Fa Shan",
+    "zh": "法善",
+    "aka": [],
+    "wiki": "Fa Shan",
+    "ep": 10,
+    "group": "Tian Yin Temple",
+    "side": "neutral",
+    "intro": "A Tian Yin Temple monk who travels with Fa Xiang.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 10,
+        "label": "Tian Yin monk",
+        "desc": "A Tian Yin Temple monk",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 33,
+        "text": "Fights Jin Ping'er at the Dead Swamp."
+      }
+    ]
+  },
+  {
+    "id": "nian-laoda",
+    "name": "Nian Laoda",
+    "zh": "年老大",
+    "aka": [],
+    "wiki": "Nian Lao Da",
+    "ep": 10,
+    "group": "Blood-Refining Hall",
+    "side": "enemy",
+    "intro": "A Blood-Refining Hall leader who fights with his Red Devil Eyes.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 10,
+        "label": "Blood-Refining leader",
+        "desc": "A Blood-Refining Hall fighter",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 11,
+        "text": "Knocks Xiaofan over the edge of the Abyss of the Dead."
+      },
+      {
+        "ep": 27,
+        "text": "Surrenders when Gui Li wipes out the Blood-Refining Hall."
+      }
+    ]
+  },
+  {
+    "id": "lin-feng",
+    "name": "Lin Feng",
+    "zh": "",
+    "aka": [],
+    "wiki": "Lin Feng",
+    "ep": 10,
+    "group": "Blood-Refining Hall",
+    "side": "enemy",
+    "intro": "A Blood-Refining Hall fighter who holds Lu Xueqi with a binding spell.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 10,
+        "label": "Blood-Refining fighter",
+        "desc": "A man of the Blood-Refining Hall with a fan",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 27,
+        "text": "Surrenders when Gui Li wipes out the Blood-Refining Hall."
+      }
+    ]
+  },
+  {
+    "id": "xiao-zhou",
+    "name": "Xiao Zhou",
+    "zh": "小周",
+    "aka": [],
+    "wiki": null,
+    "ep": 10,
+    "group": "Blood-Refining Hall",
+    "side": "enemy",
+    "intro": "A Blood-Refining Hall member who waits at the Abyss of the Dead.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 10,
+        "label": "Blood-Refining member",
+        "desc": "A Blood-Refining Hall member",
+        "why": "As introduced"
+      }
+    ],
+    "arc": []
+  },
+  {
+    "id": "jiang-laosan",
+    "name": "Jiang Laosan",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 10,
+    "group": "Ten Thousand Poisons Sect",
+    "side": "enemy",
+    "intro": "A Ten Thousand Poisons Sect fighter, Master Xixue's disciple, who joins the Blood-Refining Hall's ambush.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 10,
+        "label": "Poison fighter",
+        "desc": "A Ten Thousand Poisons Sect fighter",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 10,
+        "text": "Grabs Zhang Xiaofan and is drained dry by his stick."
+      }
+    ]
+  },
+  {
+    "id": "black-hearted-old-man",
+    "name": "Black-Hearted Old Man",
+    "zh": "黑心老人",
+    "aka": [
+      "Black Heart Elder"
+    ],
+    "wiki": "Black-Hearted Old Man",
+    "ep": 12,
+    "group": "Blood-Refining Hall",
+    "side": "neutral",
+    "intro": "The Blood-Refining Hall master of 800 years ago and the first owner of the Sinister Bead.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 12,
+        "label": "Corpse",
+        "desc": "A seated corpse in the Dixue Cave",
+        "why": "As found"
+      },
+      {
+        "ep": 67,
+        "label": "In Huanyue Cave",
+        "desc": "A living figure from the past who fights with the power of heaven and earth",
+        "why": "He appears in the trial of Huanyue Cave"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 13,
+        "text": "His lover Madam Jinling founded the He Huan Sect; he left only her Hehuan Bell behind."
+      },
+      {
+        "ep": 67,
+        "text": "In Huanyue Cave he tells Gui Li the strong prey on the weak."
+      }
+    ]
+  },
+  {
+    "id": "ghost-king",
+    "name": "Ghost King",
+    "zh": "鬼王",
+    "aka": [
+      "Wan Renwang"
+    ],
+    "wiki": "Ghost King",
+    "ep": 14,
+    "group": "Ghost King Sect",
+    "side": "enemy",
+    "intro": "Master of the Ghost King Sect and Bi Yao's father. He takes Zhang Xiaofan in as Gui Li and teaches him the Heavenly Book.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 14,
+        "label": "Wan Renwang",
+        "desc": "An old traveller at a roadside tea stall",
+        "why": "A disguise"
+      },
+      {
+        "ep": 18,
+        "label": "Ghost King",
+        "desc": "The sect master in his true form",
+        "why": "He drops the disguise on Liubo Mountain"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 14,
+        "text": "As Wan Renwang, tells Xiaofan the bead on his stick is the Black-Hearted Old Man's."
+      },
+      {
+        "ep": 19,
+        "text": "Offers Xiaofan a place in his sect and Bi Yao's hand; Xiaofan refuses."
+      },
+      {
+        "ep": 20,
+        "text": "Binds the newborn Kui Ox; Xiaofan breaks his formation."
+      },
+      {
+        "ep": 54,
+        "text": "The rite to restore Bi Yao fails."
+      },
+      {
+        "ep": 60,
+        "text": "Kills San Miao with a poisoned fake Hehuan Bell and sacrifices half his sect to wipe out two demon sects."
+      },
+      {
+        "ep": 85,
+        "text": "When Gui Li confronts him over Sha Sheng, he kills the subordinates he blames. Gui Li breaks with him."
+      },
+      {
+        "ep": 86,
+        "text": "Waits for the Dragon-Subduing Cauldron to give him the Ming King's power in forty-nine days."
+      }
+    ]
+  },
+  {
+    "id": "zhou-yixian",
+    "name": "Zhou Yixian",
+    "zh": "周一仙",
+    "aka": [],
+    "wiki": "Zhou Yixian",
+    "ep": 14,
+    "group": "Wanderers",
+    "side": "ally",
+    "intro": "A wandering fortune teller who travels with his granddaughter Xiao Huan.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 14,
+        "label": "Fortune teller",
+        "desc": "An old fortune teller with an \"Immortal's guidance\" banner",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 14,
+        "text": "Reads Xiaofan's face, warns he is close to death and takes four taels."
+      },
+      {
+        "ep": 33,
+        "text": "Admits to the Ghost King that he made up the star reading that foretold the loss of his wife and child."
+      },
+      {
+        "ep": 55,
+        "text": "Tells Gui Li that wherever the heart finds peace is home."
+      },
+      {
+        "ep": 65,
+        "text": "Warns Gui Li not to go to Huanyue Cave."
+      },
+      {
+        "ep": 86,
+        "text": "Leads Xiao Huan and Ye Gou Daoren into an old hall of repose and meets a man in Qingyun robes."
+      }
+    ]
+  },
+  {
+    "id": "xiao-huan",
+    "name": "Xiao Huan",
+    "zh": "小环",
+    "aka": [],
+    "wiki": "Xiao Huan",
+    "ep": 14,
+    "group": "Wanderers",
+    "side": "ally",
+    "intro": "Zhou Yixian's granddaughter, who reads names and later learns ghost arts.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 14,
+        "label": "Granddaughter",
+        "desc": "The fortune teller's young granddaughter",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 28,
+        "text": "Gui Li gives her his umbrella and saves her from a fish-man."
+      },
+      {
+        "ep": 55,
+        "text": "Takes in the drunk, injured Gui Li because he once saved her."
+      },
+      {
+        "ep": 63,
+        "text": "Visits the memorial hall where her father lies."
+      },
+      {
+        "ep": 81,
+        "text": "Uses the ghost art she taught herself; Mr. Ghost takes her as his disciple."
+      }
+    ]
+  },
+  {
+    "id": "shi-tou",
+    "name": "Shi Tou",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 14,
+    "group": "Jingang Sect",
+    "side": "ally",
+    "intro": "Heir of the Jingang Sect, who fights with his Aura Breaker.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 14,
+        "label": "Jingang heir",
+        "desc": "A young fighter of the Jingang Sect",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 17,
+        "text": "Is called home to the Jingang Sect after the fox trouble ends."
+      }
+    ]
+  },
+  {
+    "id": "three-tailed-fox",
+    "name": "Three-Tailed Fox",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 15,
+    "group": "Heavenly Fox clan",
+    "side": "neutral",
+    "intro": "A fox with 300 years of training who prays at an ancient well to cure the Six-Tailed Fox.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 15,
+        "label": "Singing woman",
+        "desc": "A woman singing by a 3,000-year-old well",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 16,
+        "text": "Refuses to leave the Six-Tailed Fox and dies with him."
+      }
+    ]
+  },
+  {
+    "id": "six-tailed-fox",
+    "name": "Six-Tailed Fox",
+    "zh": "",
+    "aka": [
+      "Xiao Liu"
+    ],
+    "wiki": null,
+    "ep": 15,
+    "group": "Heavenly Fox clan",
+    "side": "neutral",
+    "intro": "Xiao Bai's son, dying of Jiuhan Ice poison below the Black Stone Cave.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 15,
+        "label": "Dying fox",
+        "desc": "A fox demon below the Black Stone Cave",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 16,
+        "text": "Gives Xiaofan the Red Fire Mirror, tells him to hide it, and dies with the Three-Tailed Fox."
+      }
+    ]
+  },
+  {
+    "id": "baiduzi",
+    "name": "Baiduzi",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 18,
+    "group": "Ten Thousand Poisons Sect",
+    "side": "enemy",
+    "intro": "A Ten Thousand Poisons Sect elder.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 18,
+        "label": "Poison elder",
+        "desc": "A Ten Thousand Poisons Sect elder",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 20,
+        "text": "Fills the valley on Liubo Mountain with poison gas."
+      }
+    ]
+  },
+  {
+    "id": "elder-duanmu",
+    "name": "Elder Duanmu",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 18,
+    "group": "Ten Thousand Poisons Sect",
+    "side": "enemy",
+    "intro": "A Ten Thousand Poisons Sect elder.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 18,
+        "label": "Poison elder",
+        "desc": "A Ten Thousand Poisons Sect elder",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 20,
+        "text": "Helps surround Tian Buyi and Cang Song on Liubo Mountain."
+      }
+    ]
+  },
+  {
+    "id": "master-xixue",
+    "name": "Master Xixue",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 19,
+    "mentionEp": 10,
+    "group": "Ten Thousand Poisons Sect",
+    "side": "enemy",
+    "intro": "A Ten Thousand Poisons Sect master and Jiang Laosan's teacher.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 19,
+        "label": "Poison master",
+        "desc": "A Ten Thousand Poisons Sect master",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 19,
+        "text": "Attacks Xiaofan to avenge Jiang Laosan and nearly kills him before Tian Buyi steps in."
+      }
+    ]
+  },
+  {
+    "id": "qing-long",
+    "name": "Qing Long",
+    "zh": "青龙",
+    "aka": [
+      "Azure Dragon"
+    ],
+    "wiki": "Qing Long",
+    "ep": 20,
+    "group": "Ghost King Sect",
+    "side": "ally",
+    "intro": "One of the Ghost King's Saint Beast envoys. He thinks the Ghost King changed after Bi Yao's death.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 20,
+        "label": "Saint Beast envoy",
+        "desc": "A Ghost King Sect envoy",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 26,
+        "text": "Begs Mr. Ghost to save Bi Yao."
+      },
+      {
+        "ep": 33,
+        "text": "Calls the Four Spirits Blood Formation too cruel."
+      },
+      {
+        "ep": 57,
+        "text": "Holds back two demon kings so Jin Ping'er can escape, and dies."
+      },
+      {
+        "ep": 58,
+        "text": "His soul, bound to the beast Chu Wu, begs Gui Li to free him."
+      }
+    ]
+  },
+  {
+    "id": "mr-ghost",
+    "name": "Mr. Ghost",
+    "zh": "鬼先生",
+    "aka": [],
+    "wiki": "Mr. Ghost",
+    "ep": 20,
+    "group": "Ghost King Sect",
+    "side": "neutral",
+    "intro": "A Ghost King Sect master of ghost arts and blood rituals.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 20,
+        "label": "Ghost master",
+        "desc": "A Ghost King Sect ritual master",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 26,
+        "text": "Explains that the Lovestruck Spell cost Bi Yao any rebirth and that the Hehuan Bell holds her soul."
+      },
+      {
+        "ep": 81,
+        "text": "Saves Xiao Huan and Ye Gou Daoren and takes Xiao Huan as his disciple."
+      }
+    ]
+  },
+  {
+    "id": "yu-yangzi",
+    "name": "Yu Yangzi",
+    "zh": "玉阳子",
+    "aka": [],
+    "wiki": null,
+    "ep": 21,
+    "group": "Longevity Hall",
+    "side": "enemy",
+    "intro": "Master of the failing Longevity Hall, who fights with a Yin-Yang Mirror.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 21,
+        "label": "Hall master",
+        "desc": "Long black hair; looks young for the Longevity Hall's master",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 24,
+        "text": "Attacks Yuqing Temple with his Yin-Yang Mirror."
+      },
+      {
+        "ep": 29,
+        "text": "Traps the young disciples in a yin-yang formation at the Dead Swamp."
+      },
+      {
+        "ep": 30,
+        "text": "Cornered by Gui Li, Qin Wuyan and Jin Ping'er; Gui Li refuses his surrender and he dies."
+      }
+    ]
+  },
+  {
+    "id": "san-miao",
+    "name": "San Miao",
+    "zh": "三妙",
+    "aka": [],
+    "wiki": "San Miao",
+    "ep": 21,
+    "group": "He Huan Sect",
+    "side": "enemy",
+    "intro": "Head of the He Huan Sect, who fights with her Eternal Love Threads.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 21,
+        "label": "Sect head",
+        "desc": "The head of the He Huan Sect",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 60,
+        "text": "Takes the Hehuan Bell from the Ghost King; it is a poisoned fake, and Jin Ping'er strikes her down."
+      }
+    ]
+  },
+  {
+    "id": "god-of-poison",
+    "name": "Poison God",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 21,
+    "group": "Ten Thousand Poisons Sect",
+    "side": "enemy",
+    "intro": "Head of the Ten Thousand Poisons Sect, keeper of the Seven-Tailed Centipede.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 21,
+        "label": "Sect head",
+        "desc": "The head of the Ten Thousand Poisons Sect",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 57,
+        "text": "Dying, names Qin Wuyan the next head of the sect."
+      }
+    ]
+  },
+  {
+    "id": "shangguan-ce",
+    "name": "Shangguan Ce",
+    "zh": "上官策",
+    "aka": [],
+    "wiki": "Shang Guan Ce",
+    "ep": 22,
+    "mentionEp": 15,
+    "group": "Fen Xiang Valley",
+    "side": "enemy",
+    "intro": "A Fen Xiang Valley elder who has guarded the Mystic Fire Altar for a hundred years. He and Yun Yilan share an old plan tied to the Beast Deity.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 40,
+        "label": "Fen Xiang elder",
+        "desc": "An old elder of Fen Xiang Valley",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 22,
+        "text": "A \"Shangguan Ce\" comes to Qingyun and accuses Xiaofan; in EP25 Pu Hong says the one who ambushed him was a Demon Sect impostor."
+      },
+      {
+        "ep": 40,
+        "text": "Comes out of the Mystic Fire Altar to deal with the fish-men."
+      },
+      {
+        "ep": 44,
+        "text": "Works out that Jin Ping'er left the valley disguised as Yan Hong."
+      },
+      {
+        "ep": 51,
+        "text": "Meets the Beast Deity's envoy, an old friend he has not seen in 80 years."
+      },
+      {
+        "ep": 54,
+        "text": "Tells Yun Yilan the Beast Deity has broken his seal."
+      },
+      {
+        "ep": 80,
+        "text": "Objects to Yun Yilan's blood sacrifice, then orders it kept secret."
+      }
+    ]
+  },
+  {
+    "id": "pu-hong",
+    "name": "Pu Hong",
+    "zh": "普泓",
+    "aka": [],
+    "wiki": "Pu Hong",
+    "ep": 22,
+    "group": "Tian Yin Temple",
+    "side": "ally",
+    "intro": "Abbot of Tian Yin Temple and Pu Zhi's senior brother. He reveals Pu Zhi's crime, and later saves Gui Li's life.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 22,
+        "label": "Abbot",
+        "desc": "The abbot of Tian Yin Temple",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 24,
+        "text": "Struck down by a man he took for Shangguan Ce."
+      },
+      {
+        "ep": 25,
+        "text": "Tells Dao Xuan that Pu Zhi killed the villagers of Grass Temple Village."
+      },
+      {
+        "ep": 73,
+        "text": "Brings Gui Li to Pu Zhi in Tian Yin Temple."
+      },
+      {
+        "ep": 75,
+        "text": "Takes Gui Li to the Wordless Jade Wall to cure the Sinister Bead's backlash."
+      },
+      {
+        "ep": 78,
+        "text": "Tries to take the third strike of the tribulation himself, and regrets nothing."
+      }
+    ]
+  },
+  {
+    "id": "wan-jianyi",
+    "name": "Wan Jianyi",
+    "zh": "万剑一",
+    "aka": [],
+    "wiki": "Wan Jianyi",
+    "ep": 22,
+    "mentionEp": 21,
+    "group": "Qingyun Sect",
+    "side": "ally",
+    "intro": "A legendary Qingyun swordsman, hidden for a hundred years on the back mountain. He trains Lin Jingyu for ten years.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 22,
+        "label": "Hidden old man",
+        "desc": "An old servant of the Ancestral Hall",
+        "why": "As introduced"
+      },
+      {
+        "ep": 66,
+        "label": "Suddenly aged",
+        "desc": "Much older and worn out",
+        "why": "His last sword strike drains him"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 24,
+        "text": "Kills Zhou Yin and shows Lin Jingyu how to use the Dragon-Slaying Sword."
+      },
+      {
+        "ep": 27,
+        "text": "Lin Jingyu leaves him after ten years of training."
+      },
+      {
+        "ep": 65,
+        "text": "Stops Gui Li in the forbidden ground and breaks the stick's demonic power bare-handed."
+      },
+      {
+        "ep": 66,
+        "text": "His last strike pulls the stick's backlash out of Gui Li and leaves him old. Lin Jingyu finds him dying."
+      },
+      {
+        "ep": 73,
+        "text": "A Daoist ally of the Ghost King claims to have killed him."
+      },
+      {
+        "ep": 75,
+        "text": "Dao Xuan places a blank spirit tablet for him in the Ancestral Hall."
+      }
+    ]
+  },
+  {
+    "id": "zhou-yin",
+    "name": "Zhou Yin",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 24,
+    "group": "Longevity Hall",
+    "side": "enemy",
+    "intro": "A Longevity Hall fighter in the attack on Qingyun.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 24,
+        "label": "Longevity Hall fighter",
+        "desc": "A Longevity Hall fighter",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 24,
+        "text": "Tries to ambush Dao Xuan; Wan Jianyi kills him at the Ancestral Hall."
+      }
+    ]
+  },
+  {
+    "id": "pu-kong",
+    "name": "Pu Kong",
+    "zh": "普空",
+    "aka": [],
+    "wiki": null,
+    "ep": 25,
+    "group": "Tian Yin Temple",
+    "side": "neutral",
+    "intro": "A Tian Yin Temple monk.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 25,
+        "label": "Tian Yin monk",
+        "desc": "A bald Tian Yin Temple monk",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 25,
+        "text": "Threatens to punish Xiaofan; mad Wang Er points at him as the killer, and he denies it."
+      }
+    ]
+  },
+  {
+    "id": "zhu-que",
+    "name": "Zhu Que",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 27,
+    "group": "Ghost King Sect",
+    "side": "neutral",
+    "intro": "One of the Ghost King's Saint Beast envoys.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 27,
+        "label": "Saint Beast envoy",
+        "desc": "A Ghost King Sect envoy",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 33,
+        "text": "With Qing Long, plans to trap the Yellow Bird with the Four Spirits Blood Formation."
+      }
+    ]
+  },
+  {
+    "id": "jin-pinger",
+    "name": "Jin Ping'er",
+    "zh": "金瓶儿",
+    "aka": [
+      "Ping'er",
+      "Fairy Jin"
+    ],
+    "wiki": "Jin Ping'er",
+    "ep": 28,
+    "group": "He Huan Sect",
+    "side": "neutral",
+    "intro": "A He Huan Sect disciple skilled in illusion and disguise. For twenty years she has secretly worked for the Ghost King.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 28,
+        "label": "He Huan disciple",
+        "desc": "A young woman of the He Huan Sect",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 30,
+        "text": "With Qin Wuyan, corners Yu Yangzi for killing her disciple."
+      },
+      {
+        "ep": 38,
+        "text": "Kills the fish-men and helps Gui Li into Fen Xiang Valley."
+      },
+      {
+        "ep": 44,
+        "text": "Slips out of the valley disguised as Yan Hong."
+      },
+      {
+        "ep": 57,
+        "text": "Escapes the demon kings while Qing Long holds them back."
+      },
+      {
+        "ep": 60,
+        "text": "Strikes down San Miao, revealed as the Ghost King's agent, and takes the Purple Light Blade."
+      },
+      {
+        "ep": 83,
+        "text": "Li Xun attacks her over Yan Hong; Gui Li steps in."
+      }
+    ]
+  },
+  {
+    "id": "qin-wuyan",
+    "name": "Qin Wuyan",
+    "zh": "秦无炎",
+    "aka": [],
+    "wiki": "Qin Wuyan",
+    "ep": 28,
+    "group": "Ten Thousand Poisons Sect",
+    "side": "enemy",
+    "intro": "A young master of the Ten Thousand Poisons Sect who controls giant ants.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 28,
+        "label": "Young master",
+        "desc": "A young master of the Ten Thousand Poisons Sect",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 32,
+        "text": "Flees four righteous disciples, swearing to repay Gui Li for an attack."
+      },
+      {
+        "ep": 57,
+        "text": "Becomes head of the Ten Thousand Poisons Sect and proposes a three-sect alliance."
+      },
+      {
+        "ep": 59,
+        "text": "Turns on his allies, then dies when Gui Li's gift, Chu Wu's body, turns against him."
+      }
+    ]
+  },
+  {
+    "id": "lu-shun",
+    "name": "Lu Shun",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 38,
+    "group": "Fen Xiang Valley",
+    "side": "neutral",
+    "intro": "A Fen Xiang Valley elder who hunts the intruders in the valley.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 38,
+        "label": "Fen Xiang elder",
+        "desc": "A Fen Xiang Valley elder",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 39,
+        "text": "Ignores Li Xun's order and leads disciples out after Gui Li and Jin Ping'er, losing one."
+      }
+    ]
+  },
+  {
+    "id": "xiao-bai",
+    "name": "Xiao Bai",
+    "zh": "小白",
+    "aka": [
+      "Nine-Tailed Heavenly Fox"
+    ],
+    "wiki": "Xiao Bai",
+    "ep": 42,
+    "group": "Heavenly Fox clan",
+    "side": "ally",
+    "intro": "A Nine-Tailed Heavenly Fox, chained in the Mystic Fire Altar for 300 years. Freed by Gui Li, she leads him south to look for a way to save Bi Yao.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 43,
+        "label": "White fox",
+        "desc": "A nine-tailed white fox chained in the depths of the altar",
+        "why": "As introduced"
+      },
+      {
+        "ep": 44,
+        "label": "Human form",
+        "desc": "A woman with long white hair and a red mark on her brow",
+        "why": "Takes human form once freed"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 43,
+        "text": "Learns from Gui Li that her son Xiao Liu, the Six-Tailed Fox, is dead."
+      },
+      {
+        "ep": 44,
+        "text": "Freed by Gui Li, she tells him the mirror has kept the stick from driving him mad."
+      },
+      {
+        "ep": 49,
+        "text": "Leads him to the Golden Clan's Great Shaman."
+      },
+      {
+        "ep": 52,
+        "text": "Holds off Fen Xiang with illusions and carries the wounded Gui Li away."
+      },
+      {
+        "ep": 72,
+        "text": "Steps in when Yun Yilan corners the wounded Beast Deity."
+      },
+      {
+        "ep": 83,
+        "text": "Says the Beast Deity is an old friend she will not fight, and holds off Fen Xiang so Jin Ping'er can escape."
+      }
+    ]
+  },
+  {
+    "id": "yun-yilan",
+    "name": "Yun Yilan",
+    "zh": "云易岚",
+    "aka": [],
+    "wiki": "Yun Yi Lan",
+    "ep": 44,
+    "mentionEp": 22,
+    "group": "Fen Xiang Valley",
+    "side": "enemy",
+    "intro": "Master of Fen Xiang Valley and Li Xun's teacher. He made a secret deal with the Beast Deity.",
+    "power": [
+      {
+        "ep": 80,
+        "realm": "Yuyang realm",
+        "detail": "says in thought he has reached it",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 44,
+        "label": "Valley master",
+        "desc": "The master of Fen Xiang Valley",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 44,
+        "text": "Orders the intruders caught, saying it is better to kill wrongly than let them escape."
+      },
+      {
+        "ep": 54,
+        "text": "Comes out of seclusion and leads his disciples to the Central Plains."
+      },
+      {
+        "ep": 56,
+        "text": "Asks for Lu Xueqi's hand for Li Xun."
+      },
+      {
+        "ep": 72,
+        "text": "Corners the wounded Beast Deity and demands the Eight Mystic Fire Formation."
+      },
+      {
+        "ep": 80,
+        "text": "Kills his own disciples for a blood sacrifice, then fights Gui Li and is wounded."
+      }
+    ]
+  },
+  {
+    "id": "hei-mu",
+    "name": "Hei Mu",
+    "zh": "黑木",
+    "aka": [],
+    "wiki": "Hei Mu",
+    "ep": 45,
+    "group": "Southern Border",
+    "side": "neutral",
+    "intro": "A shaman of the ancient Wu clan and Hei Hu's brother.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 45,
+        "label": "Wu shaman",
+        "desc": "A demon shaman of the ancient Wu clan",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 82,
+        "text": "Admits he gathered the Five Sacred Treasures that woke the Beast Deity, to keep Ling Long's promise."
+      }
+    ]
+  },
+  {
+    "id": "ahetai",
+    "name": "Ahetai",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 47,
+    "group": "Wood Clan",
+    "side": "enemy",
+    "intro": "A Wood Clan outcast who comes back as a sorcerer, promising to beat the Golden Clan.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 47,
+        "label": "Outcast",
+        "desc": "A desperate man praying to the heavens",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 50,
+        "text": "Leads the Wood Clan's night raid on Qili Village and takes the Jade Bone."
+      },
+      {
+        "ep": 51,
+        "text": "Betrays his own clan; an envoy of the Beast Deity takes the artifact from him."
+      }
+    ]
+  },
+  {
+    "id": "great-shaman",
+    "name": "Great Shaman",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 49,
+    "group": "Golden Clan",
+    "side": "ally",
+    "intro": "The Golden Clan's Great Shaman, who once performed a soul-return art.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 49,
+        "label": "Great Shaman",
+        "desc": "The old shaman of the Golden Clan",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 52,
+        "text": "Agrees to try to save Bi Yao if Gui Li protects the Golden Clan."
+      },
+      {
+        "ep": 53,
+        "text": "Badly hurt by monstrous beasts on the way to Huqi Mountain."
+      },
+      {
+        "ep": 54,
+        "text": "Performs the rite to draw Bi Yao's consciousness out of the Hehuan Bell."
+      },
+      {
+        "ep": 55,
+        "text": "Dies after the rite fails."
+      }
+    ]
+  },
+  {
+    "id": "tu-ma-gu",
+    "name": "Tu Ma Gu",
+    "zh": "",
+    "aka": [],
+    "wiki": "Tu Ma Gu",
+    "ep": 49,
+    "group": "Golden Clan",
+    "side": "ally",
+    "intro": "Chief of Qili Village.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 49,
+        "label": "Village chief",
+        "desc": "The chief of Qili Village",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 49,
+        "text": "Steps in when villagers try to seize Gui Li and Xiao Bai, and takes their request to the Great Shaman."
+      }
+    ]
+  },
+  {
+    "id": "qingyunzi",
+    "name": "Qingyunzi",
+    "zh": "青云子",
+    "aka": [],
+    "wiki": "Qingyunzi",
+    "ep": 52,
+    "group": "Qingyun Sect",
+    "side": "neutral",
+    "intro": "A figure from Qingyun's past who meditated in Huanyue Cave, where the Zhu Xian Sword came from.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 52,
+        "label": "Qingyun ancestor",
+        "desc": "An ancient Qingyun master",
+        "why": "As introduced"
+      }
+    ],
+    "arc": []
+  },
+  {
+    "id": "beast-deity",
+    "name": "Beast Deity",
+    "zh": "兽神",
+    "aka": [],
+    "wiki": "Beast Deity",
+    "ep": 53,
+    "mentionEp": 50,
+    "group": "The Beast Deity's horde",
+    "side": "enemy",
+    "intro": "An ancient demon made by the Wu priestess Ling Long from the killing aura of heaven and earth. Sealed long ago, he breaks free and leads the beast tide.",
+    "power": [
+      {
+        "ep": 68,
+        "realm": "Beyond the ladder",
+        "detail": "overpowers the Zhu Xian Sword Formation",
+        "conf": "medium"
+      }
+    ],
+    "looks": [
+      {
+        "ep": 53,
+        "label": "As introduced",
+        "desc": "A lone man of great power",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 56,
+        "text": "Shares meat with Gui Li as a stranger who keeps the Taotie."
+      },
+      {
+        "ep": 68,
+        "text": "Freezes the disciples, fuses five Demon Kings into one and overpowers the Zhu Xian Sword Formation."
+      },
+      {
+        "ep": 70,
+        "text": "Badly wounded by Dao Xuan once the Tianji Seal is open."
+      },
+      {
+        "ep": 72,
+        "text": "Yun Yilan corners him; Xiao Bai steps in."
+      },
+      {
+        "ep": 81,
+        "text": "Has become human, which is why he was so badly hurt at Qingyun."
+      },
+      {
+        "ep": 84,
+        "text": "Dies in Ling Long's formation and goes to her at last."
+      }
+    ]
+  },
+  {
+    "id": "ling-long",
+    "name": "Ling Long",
+    "zh": "玲珑",
+    "aka": [],
+    "wiki": "Ling Long",
+    "ep": 53,
+    "group": "Southern Border",
+    "side": "neutral",
+    "intro": "The Wu priestess who sealed the Beast Deity, giving her life and becoming a stone statue.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 53,
+        "label": "Wu priestess",
+        "desc": "A priestess of the Wu clan",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 53,
+        "text": "Gives her life to power the Eight Ferocious Mystic Fire Formation and seal the demon."
+      },
+      {
+        "ep": 84,
+        "text": "Her formation's Fire Dragon returns, as she said it would, and the Beast Deity dies."
+      }
+    ]
+  },
+  {
+    "id": "hei-hu",
+    "name": "Hei Hu",
+    "zh": "黑虎",
+    "aka": [
+      "Black Tiger"
+    ],
+    "wiki": "Hei Hu",
+    "ep": 53,
+    "group": "Southern Border",
+    "side": "neutral",
+    "intro": "One of the seven warriors who followed Ling Long into the Hundred Thousand Mountains. His spirit guards her statue.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 53,
+        "label": "Black Tiger",
+        "desc": "A fighter who serves the Beast Deity",
+        "why": "As introduced"
+      },
+      {
+        "ep": 82,
+        "label": "Guardian spirit",
+        "desc": "A fierce spirit guarding Ling Long's statue",
+        "why": "He is now a spirit at the cave mouth"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 53,
+        "text": "Confronts the Great Shaman and calls him a traitor."
+      },
+      {
+        "ep": 82,
+        "text": "Admits he was tricked into freeing the beast, and thanks Gui Li in Ling Long's name."
+      },
+      {
+        "ep": 84,
+        "text": "Goes gladly to join Ling Long as the cave falls."
+      }
+    ]
+  },
+  {
+    "id": "yan-hui",
+    "name": "Yan Hui",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 54,
+    "group": "Ghost King Sect",
+    "side": "ally",
+    "intro": "A Ghost King Sect member who fights beside Gui Li.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 54,
+        "label": "Sect member",
+        "desc": "A Ghost King Sect member",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 58,
+        "text": "Fights the beast Chu Wu with Gui Li."
+      }
+    ]
+  },
+  {
+    "id": "taotie",
+    "name": "Taotie",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 56,
+    "group": "The Beast Deity's horde",
+    "side": "neutral",
+    "intro": "An ancient beast kept by the Beast Deity, and the last of the Four Spirits the Ghost King needs.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 56,
+        "label": "Ancient beast",
+        "desc": "A huge ancient beast",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 85,
+        "text": "Taken by the Ghost King Sect for its Blood Formation."
+      }
+    ]
+  },
+  {
+    "id": "chu-wu",
+    "name": "Chu Wu",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 58,
+    "group": "The Beast Deity's horde",
+    "side": "enemy",
+    "intro": "A beast that devours souls and binds them as servants. It killed Qing Long.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 58,
+        "label": "Soul-eating beast",
+        "desc": "A beast surrounded by bound souls",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 58,
+        "text": "Gui Li breaks its thousand shackles and frees the trapped souls."
+      },
+      {
+        "ep": 59,
+        "text": "Its body, Gui Li's gift to Qin Wuyan, turns on him."
+      }
+    ]
+  },
+  {
+    "id": "fei",
+    "name": "Fei",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 58,
+    "group": "The Beast Deity's horde",
+    "side": "enemy",
+    "intro": "A demon king whose poison eats through spells.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 58,
+        "label": "Demon king",
+        "desc": "A poisonous demon king",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 58,
+        "text": "Fights the righteous sects at Luoshen Gate."
+      }
+    ]
+  },
+  {
+    "id": "evil-dragon",
+    "name": "Evil Dragon",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 59,
+    "group": "The Beast Deity's horde",
+    "side": "enemy",
+    "intro": "A legendary beast that attacks a village during the beast tide.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 59,
+        "label": "Legendary beast",
+        "desc": "A lightning dragon",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 59,
+        "text": "Lu Xueqi turns its own lightning against it and kills it with Tianya."
+      }
+    ]
+  },
+  {
+    "id": "white-bone-snake-demon",
+    "name": "White Bone Snake Demon",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 62,
+    "group": "The Beast Deity's horde",
+    "side": "enemy",
+    "intro": "A demon king, far stronger than the others.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 62,
+        "label": "Demon king",
+        "desc": "A huge bone-white snake demon",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 62,
+        "text": "Nearly overwhelms the defenders of Luoshen Gate."
+      },
+      {
+        "ep": 67,
+        "text": "Lu Xueqi finishes it with Tianya."
+      }
+    ]
+  },
+  {
+    "id": "shura-bird",
+    "name": "Shura Bird",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 62,
+    "group": "The Beast Deity's horde",
+    "side": "enemy",
+    "intro": "A demon king of the beast tide.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 62,
+        "label": "Demon king",
+        "desc": "A demon bird",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 62,
+        "text": "Attacks Luoshen Gate with the White Bone Snake Demon."
+      }
+    ]
+  },
+  {
+    "id": "fei-yi",
+    "name": "Fei Yi",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 64,
+    "mentionEp": 63,
+    "group": "The Beast Deity's horde",
+    "side": "enemy",
+    "intro": "An ancient insect demon king that can split into a swarm.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 64,
+        "label": "Insect demon king",
+        "desc": "A huge insect that splits into a swarm",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 64,
+        "text": "Burned in the Red Sea Forest and destroyed in four parts by the righteous disciples."
+      }
+    ]
+  },
+  {
+    "id": "qingye",
+    "name": "Daoist Qingye",
+    "zh": "青叶",
+    "aka": [
+      "Master Qingye"
+    ],
+    "wiki": "Daoist Qingye",
+    "ep": 67,
+    "mentionEp": 2,
+    "group": "Qingyun Sect",
+    "side": "neutral",
+    "intro": "An ancestor of Qingyun who tamed the Water Qilin a thousand years ago.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 67,
+        "label": "In Huanyue Cave",
+        "desc": "A figure from Qingyun's past",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 67,
+        "text": "In Huanyue Cave he asks Gui Li what his life would have been with a straight heart."
+      }
+    ]
+  },
+  {
+    "id": "sha-sheng",
+    "name": "Sha Sheng",
+    "zh": "",
+    "aka": [],
+    "wiki": null,
+    "ep": 81,
+    "group": "Ghost King Sect",
+    "side": "ally",
+    "intro": "A Ghost King Sect subordinate loyal to Gui Li.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 81,
+        "label": "Corrupted",
+        "desc": "Bald, half his body changed by the blood moon's aura",
+        "why": "First seen in the Hundred Thousand Mountains"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 81,
+        "text": "Gui Li finds him half-changed and hides him in a formation."
+      },
+      {
+        "ep": 85,
+        "text": "Found killed by Bai Hu on the Ghost King's orders."
+      }
+    ],
+    "mentionEp": 30
+  },
+  {
+    "id": "bai-hu",
+    "name": "Bai Hu",
+    "zh": "白虎",
+    "aka": [
+      "White Tiger"
+    ],
+    "wiki": "Baihu",
+    "ep": 82,
+    "mentionEp": 45,
+    "group": "Ghost King Sect",
+    "side": "enemy",
+    "intro": "One of the Ghost King's Saint Beast envoys.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 82,
+        "label": "Saint Beast envoy",
+        "desc": "White hair in a ponytail; one of the Ghost King's Saint Beast envoys",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 82,
+        "text": "Sent with Xuan Wu to capture the Taotie."
+      },
+      {
+        "ep": 85,
+        "text": "Kills Sha Sheng on the Ghost King's orders, then blocks Gui Li over an old grudge and is killed."
+      }
+    ]
+  },
+  {
+    "id": "xuan-wu",
+    "name": "Xuan Wu",
+    "zh": "玄武",
+    "aka": [],
+    "wiki": "Xuanwu",
+    "ep": 82,
+    "group": "Ghost King Sect",
+    "side": "enemy",
+    "intro": "One of the Ghost King's Saint Beast envoys.",
+    "power": [],
+    "looks": [
+      {
+        "ep": 82,
+        "label": "Saint Beast envoy",
+        "desc": "A Ghost King Sect envoy",
+        "why": "As introduced"
+      }
+    ],
+    "arc": [
+      {
+        "ep": 82,
+        "text": "Sent with Bai Hu to capture the Taotie; they find the hidden Sha Sheng."
+      }
+    ]
+  }
+]

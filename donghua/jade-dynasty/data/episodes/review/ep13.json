@@ -1,0 +1,38 @@
+{
+  "ep": 13,
+  "title": "The Hehuan Bell and the Heavenly Book",
+  "summary": "Bi Yao bows to the Wisdom King and the Holy Mother as a 43rd-generation disciple. Behind Ancient Corpse Poison, Black Heart Elder had hidden only a pair of bells: the Hehuan Bell of Madam Jinling, founder of the He Huan Sect. Bi Yao explains that Jinling and Black Heart Elder were lovers from rival sects 800 years ago. Ghost fire then reveals carvings of the Heavenly Book, the Demon Sect's classic, and Zhang Xiaofan is shaken to find lines from the Great Brahma Prajna and the Taiji Xuanqing Dao in it. With the food gone, Bi Yao asks him to kill her and eat her so he can live, then tries to kill herself. When he stops her, she tells him how she and her mother were buried in a cave by the Tian Yin monk Pu Fang, how her mother fed her until she died, and how her father seemed to want to kill her when he came. She prays with her own blood to send Xiaofan home to Great Bamboo Peak. That sets off the Lovestruck Mantra, which opens the exit. They escape as the cave collapses, and Xiaofan cooks her a meal.",
+  "events": [
+    "Bi Yao bows to the statues as a 43rd-generation disciple",
+    "The Hehuan Bell of Madam Jinling is found behind Ancient Corpse Poison",
+    "Bi Yao tells the story of Madam Jinling and Black Heart Elder",
+    "The Heavenly Book carvings echo Tian Yin and Qingyun teachings, shaking Zhang Xiaofan",
+    "Bi Yao asks Xiaofan to eat her, then tries to kill herself",
+    "Bi Yao tells how her mother died in Liuhu Cave",
+    "Her blood prayer triggers the Lovestruck Mantra; the exit opens and they escape"
+  ],
+  "introduced": [
+    "Hehuan Bell (a pair of bells)",
+    "Madam Jinling, founder of the He Huan Sect",
+    "He Huan Sect",
+    "Heavenly Book",
+    "Pu Fang (Tian Yin monk who buried Bi Yao's family)",
+    "Liuhu Cave",
+    "Lovestruck Mantra (a women-only mantra deciphered from the Heavenly Book)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {"id": "bi-yao", "name": "Bi Yao", "quote": "I'm the 43rd generation of disciple of the sect, Bi Yao."},
+    {"id": "zhang-xiaofan", "name": "Zhang Xiaofan"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi", "look": "resting from her wounds"}
+  ],
+  "changes": [],
+  "flags": [
+    "0-20 s overlaps the end of EP12 at the statues.",
+    "520 s 'Pufang' and his 'Buddha golden alms bowl' are only in Bi Yao's story; not on screen. Spelled Pu Fang to match Pu Zhi / Pu Hong.",
+    "252 s 'Brahma Scripture' = the Great Brahma Prajna; 268 s 'Taichi Xuanqing Tao' = Taiji Xuanqing Dao.",
+    "Bi Yao's mother, grandmother and the young Ghost King may appear in her flashback (564-605 s); not named.",
+    "320-325 s: a short scene of someone reassuring Lu Xueqi that the sect leader will send searchers; the speaker is not named."
+  ]
+}

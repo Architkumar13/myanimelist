@@ -1,0 +1,41 @@
+{
+  "ep": 65,
+  "title": "Wan Jianyi at Qingyun's back mountain",
+  "summary": "Dao Xuan visits Wan Jianyi at night; the two discuss the Seven Peaks Tianji Seal, and Wan Jianyi warns him of what the Zhu Xian Sword's evil aura will do to its wielder. Zhou Yixian thanks Gui Li for saving them and warns him not to go to Huanyue Cave, because the Soul-Devouring Stick has merged with his blood and is wearing away his mind. Lin Jingyu and Zeng Shushu finish evacuating Heyang City and head back to Qingyun, where Jingyu sees fire on the back mountain. Gui Li slips into Qingyun's forbidden ground and is stopped by an old man, who recognises the Great Brahma Prajna and names him as Zhang Xiaofan, expelled ten years ago. They fight; the old man is impressed that one so young has mastered three great teachings, breaks the stick's demonic power bare-handed, and Gui Li recognises his sword art as that of the legendary Wan Jianyi. Meanwhile the righteous leaders beg Dao Xuan to draw the Zhu Xian Sword as the beasts reach the foot of Qingyun Mountain. Lin Jingyu later finds Wan Jianyi dying. Wan Jianyi asks him about his Dragon-Slaying sword intent, tells him to keep it, and Jingyu swears that Zhang Xiaofan will pay with his life.",
+  "events": [
+    "Dao Xuan and Wan Jianyi talk about the Seven Peaks Tianji Seal at night",
+    "Zhou Yixian warns Gui Li away from Huanyue Cave",
+    "Lin Jingyu and Zeng Shushu evacuate Heyang City; Jingyu sees fire on the back mountain",
+    "Gui Li enters Qingyun's forbidden ground and fights an old guardian",
+    "Gui Li realises the old man is Wan Jianyi",
+    "The righteous leaders ask Dao Xuan to draw the Zhu Xian Sword",
+    "Lin Jingyu finds Wan Jianyi dying and swears revenge on Zhang Xiaofan"
+  ],
+  "introduced": [
+    "Qingyun forbidden ground (back mountain)",
+    "Slaying Demons and Gods (Wan Jianyi's sword art)",
+    "Dragon-Slaying sword intent",
+    "Qingyun Giant Tree"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {"id": "wan-jianyi", "name": "Wan Jianyi", "quote": "Mungkinkah kau adalah Wan Jianyi yang legendaris itu?"},
+    {"id": "dao-xuan", "name": "Dao Xuan"},
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": "zhou-yixian", "name": "Zhou Yixian"},
+    {"id": "xiao-huan", "name": "Xiao Huan"},
+    {"id": "xiao-hui", "name": "Xiao Hui"},
+    {"id": "lin-jingyu", "name": "Lin Jingyu"},
+    {"id": "zeng-shushu", "name": "Zeng Shushu"}
+  ],
+  "changes": [],
+  "flags": [
+    "163-242 s: neither speaker is named. The visitor talks of releasing the Seven Peaks Tianji Seal and having 'no choice' (Dao Xuan); the host has passed 'Slaying Demons and Gods' to 'that boy' (Lin Jingyu) and calls himself already dead (Wan Jianyi).",
+    "Who wounds Wan Jianyi is not shown in the subs. After Gui Li says 'I can't die here' (854 s), the next lines are 'Kau...' and Jingyu finding him dying; Wan Jianyi only says 'Hati-hati' (919.9 s). The summary does not say who struck him; Jingyu blames Zhang Xiaofan.",
+    "845.5 s: 'Sayang sekali, kau tidak memiliki Pedang Pembunuh Naga' ('pity you don't have the Dragon-Slaying Sword'): speaker unclear.",
+    "449.6 s: 'mirip dengan batas larangan Sekte Shan' probably a slip; meaning unclear.",
+    "723.9 s: Wan Jianyi says 'Adik Tian, you raised such a disciple', praising Tian Buyi in his absence.",
+    "1010.7 s: the closing Yuqing Hall card opens a scene that is cut off."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ep": 74,
+  "title": "Wanye City: Gui Li frees Pu Zhi",
+  "summary": "Pu Zhi's past unfolds. He vowed to take the karma of all beings on himself and believed the Sinister Bead could strip that karma away, so he built Wanye City inside himself to hold it. His master warned that karma can only be resolved when Buddhism and Daoism temper each other, and told him never to raise the idea again. The karma broke loose in Grass Temple Village, where Pu Zhi killed the villagers. Gui Li finds himself inside Wanye City with Pu Zhi, who blames himself for the 247 deaths and offers his sinful body to him. Gui Li says killing him a thousand times would not bring the dead back, and Pu Zhi can only apologise. The karma Pu Zhi suppressed rises as a demon and attacks Gui Li. Outside, a full day passes; Fa Xiang begs Pu Hong to help, but Pu Hong says no outsider can reach a mind that hard. Gui Li decides that whether the cause and its fruit were good or evil is his to decide, takes all of it on himself, and the karma dissolves. Pu Zhi attains Buddhahood and is finally at peace, and Gui Li kneels and bows to him as his master.",
+  "events": [
+    "Pu Zhi vows to bear all beings' karma and builds Wanye City inside himself with the Sinister Bead's help",
+    "His master warns only Buddhism and Daoism together can resolve karma",
+    "Flashback: the karma takes Pu Zhi over at Grass Temple Village",
+    "Gui Li faces Pu Zhi inside Wanye City; Pu Zhi apologises",
+    "The suppressed karma attacks Gui Li; Pu Hong refuses to intervene",
+    "Gui Li accepts all his karma as his own and it dissolves",
+    "Pu Zhi attains Buddhahood; Gui Li bows to him as his master"
+  ],
+  "introduced": [
+    "Wanye City (the city of karma inside Pu Zhi)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhang-xiaofan",
+      "name": "Gui Li"
+    },
+    {
+      "id": "pu-zhi",
+      "name": "Pu Zhi"
+    },
+    {
+      "id": "pu-hong",
+      "name": "Pu Hong"
+    },
+    {
+      "id": "fa-xiang",
+      "name": "Fa Xiang"
+    }
+  ],
+  "changes": [],
+  "flags": [
+    "26-41 s: 'Create Wanye City, keep the ten thousand karmas within' read as Pu Zhi's plan. 'Wanye' kept as the subtitle gives it (万业, 'ten thousand karmas').",
+    "50-65 s: 'Is it really as the man said?' - who 'the man' is is not stated; the reply about Buddhism and Daoism is read as Pu Zhi's master (Pu Hong calls Pu Zhi 'junior brother').",
+    "370, 405 s: 'MYE' stray caption; meaning unknown.",
+    "388-544 s: voice saying 'human nature is evil... only evil lasts forever' read as the karma demon.",
+    "780-851 s: Gui Li asks whether Pu Zhi's body was cremated and buried, says Pu Zhi saved him and hurt him, and that he 'refused to go into the ground' out of regret; read as Pu Zhi's unfinished wish keeping him here.",
+    "889-920 s: 'Junior brother, your sins have been atoned' read as Pu Hong seeing Pu Zhi off."
+  ]
+}

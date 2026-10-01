@@ -1,0 +1,38 @@
+{
+  "ep": 35,
+  "title": "The third volume of the Heavenly Book",
+  "summary": "The Black Water Serpent's poison is too strong, and Lin Jingyu is hurt as the disciples fall back, unable to get past it to the vault door. Then the Yellow Bird, the legendary Nine Heavens Spirit Bird and the vault's guardian, appears and the two ancient beasts fight. Inside the vault Gui Li wakes beside Lu Xueqi; their wounds have healed, and he tells her she owes him nothing since she came in before the stone door shut. Lu Xueqi refuses to let him take the treasure unless he kills her first. Gui Li finds the third volume of the Heavenly Book, which he can read only because he has studied the first two. Outside, Qing Long and Zhu Que hold their formation and wait for their moment. The episode ends on Xiao Hui doing something unexpected.",
+  "events": [
+    "Lin Jingyu is wounded by the Black Water Serpent; the disciples retreat",
+    "The Yellow Bird appears and fights the Black Water Serpent",
+    "Gui Li and Lu Xueqi wake inside the vault, healed",
+    "Lu Xueqi tells Gui Li he must kill her to take the treasure",
+    "Gui Li finds the third volume of the Heavenly Book",
+    "Qing Long and Zhu Que wait in their formation"
+  ],
+  "introduced": [
+    "Heavenly Book, Volume Three"
+  ],
+  "cultivation": "Gui Li reflects that Volume Three of the Heavenly Book cannot be started without the first two.",
+  "confidence": "medium",
+  "cast": [
+    {"id": "lin-jingyu", "name": "Lin Jingyu"},
+    {"id": "lu-xueqi", "name": "Lu Xueqi"},
+    {"id": "zhang-xiaofan", "name": "Gui Li"},
+    {"id": "fa-xiang", "name": "Fa Xiang"},
+    {"id": "zeng-shushu", "name": "Zeng Shushu"},
+    {"id": "qing-long", "name": "Qing Long"},
+    {"id": "zhu-que", "name": "Zhu Que"},
+    {"id": "xiao-hui", "name": "Xiao Hui"},
+    {"id": null, "name": "Yellow Bird", "first": true}
+  ],
+  "changes": [],
+  "flags": [
+    "Short subtitle file; much of the episode is action.",
+    "314-321 s: 'I, Lu Xueqi, vouch for him with my life' is a memory from Season 1, not a new event.",
+    "588.0 s on-screen text '[Raja Langit]' (Heavenly King) is a sign.",
+    "923 s 'Even if a Great God came, he couldn't do anything' speaker unclear.",
+    "1013 s 'Xiao Hui, kamu...' — what Xiao Hui does at the end is not clear from the subtitles.",
+    "Fa Xiang and Zeng Shushu listed from context (the retreating disciples); not named in the subs this episode."
+  ]
+}
