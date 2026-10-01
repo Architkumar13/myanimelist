@@ -1,5 +1,8 @@
 # archit13 weekly
 
+> **Shared copy?** About 2 GB of large, rebuildable files (fan-wiki pictures, caches, the tools' Python
+> environment) are kept outside this folder. [BIG-FILES.md](BIG-FILES.md) says what's missing and how to get it back.
+
 A static site built from a MyAnimeList export.
 
 - **Wrapped** and **Shelf**

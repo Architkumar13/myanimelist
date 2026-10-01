@@ -12,3 +12,7 @@ __pycache__/
 
 # Wiki downloads and image pools; rebuild with each show's scripts/fetch_wiki.py
 donghua/*/cache/
+
+# Fan-wiki gallery pictures (~330 MB) live outside the repo (see BIG-FILES.md). Each article's main picture is
+# tracked anyway (added with git add -f), so the site works without the rest.
+donghua/site/shows/*/img/wiki/

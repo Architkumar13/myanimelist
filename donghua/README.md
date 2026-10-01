@@ -13,6 +13,8 @@ One website for every donghua here, plus each show's notes and build scripts.
 
 ## The website
 
+If the Library pages have no pictures, they weren't shipped with this copy: see [../BIG-FILES.md](../BIG-FILES.md).
+
 **Open it:** double-click `site/index.html`, or run `python3 -m http.server 8000 -d site` and go to
 http://localhost:8000. The first page lists every show. Picking one opens its companion at `index.html?show=<id>`.
 
