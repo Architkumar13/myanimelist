@@ -1,0 +1,105 @@
+{
+  "ep": 120,
+  "title": "The Demonic Battle Drum",
+  "summary": "For the second round the Heaven Commander-in-Chief brings out the Demonic Battle Drum, made from an Ancient Demon's hide and normally sounded only when a Commander-in-Chief is installed, and generals are ranked by how many strikes they and their assistants land. Most generals manage three to six strikes; Mo Fei lands eight and his assistant three, eleven in all. Jin Wuxu bets Wang Lin that he cannot make five strikes, and Wang Lin stakes Jin Wuxu's hand; after five Jin Wuxu refuses to pay and dares him to reach fifteen. Wang Lin realises the drum is a chance rather than a test, stops resisting its rebound and lets the drum's sound temper him, and its sorrow brings up memories of his parents, Zhang Hu and Li Muwan in him and in the watching crowd. At the fifteenth strike he is meant to cut all emotional ties to become Ascendant, but he refuses to give up his feelings and chooses to defy the Heavenly Dao, and a second heavenly punishment begins to fall.",
+  "events": [
+    "The Heaven and Earth Commanders-in-Chief attend; the Heaven Commander-in-Chief reveals the Demonic Battle Drum",
+    "Generals strike the drum; Yu Sen, Ming Luo, Jin Yuan and others reach three to six",
+    "Mo Fei and his assistant reach eleven strikes",
+    "Jin Wuxu bets Wang Lin he cannot reach five, then demands fifteen",
+    "Wang Lin lets the drum's sound temper him",
+    "The drum brings up memories of his parents, Zhang Hu and Li Muwan",
+    "He refuses to cut his emotions at the fifteenth strike and calls down a second heavenly punishment"
+  ],
+  "introduced": [
+    "Heaven Commander-in-Chief",
+    "Earth Commander-in-Chief",
+    "Demonic Battle Drum",
+    "Yu Sen",
+    "Ming Luo",
+    "Jin Yuan"
+  ],
+  "cultivation": "Heaven Commander-in-Chief: peak Ascendant. Earth Commander-in-Chief: late Ascendant. Fifteen drum strikes with full understanding of the Dao would let Wang Lin become Ascendant.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "earth-commander-in-chief",
+      "name": "Earth Commander-in-Chief",
+      "realm": "late Ascendant",
+      "quote": "[Marsekal Bumi, Marsekal Iblis, Tahap Ascendant Akhir]",
+      "first": true,
+      "card": 65
+    },
+    {
+      "id": "heaven-commander-in-chief",
+      "name": "Heaven Commander-in-Chief",
+      "realm": "peak Ascendant",
+      "quote": "[Marsekal Surgawi, Marsekal Iblis, Tahap Puncak Kenaikan]",
+      "first": true,
+      "card": 70
+    },
+    {
+      "id": "jin-wuxu",
+      "name": "Jin Wuxu",
+      "first": false
+    },
+    {
+      "id": "vice-commander-xuan",
+      "name": "Vice Commander-in-Chief Xuan",
+      "first": false
+    },
+    {
+      "id": "vice-commander-huang",
+      "name": "Vice Commander-in-Chief Huang",
+      "first": false
+    },
+    {
+      "id": "mo-fei",
+      "name": "Mo Fei",
+      "first": false
+    },
+    {
+      "id": "mo-lihai",
+      "name": "Mo Lihai",
+      "first": false
+    },
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "yu-sen",
+      "name": "Yu Sen",
+      "first": true
+    },
+    {
+      "id": "ming-luo",
+      "name": "Ming Luo",
+      "first": true
+    },
+    {
+      "id": "jin-yuan",
+      "name": "Jin Yuan",
+      "first": true
+    },
+    {
+      "id": "zhang-hu",
+      "name": "Zhang Hu",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep120.id.srt) and its caption cards; the YouTube English track for this episode is machine-made and garbled, used only for cross-checks."
+  ],
+  "flags": [
+    "The memories of a Zeng family widow, Dun Tian and someone's mother 'Dong' (960-1001s) seem to belong to onlookers moved by the drum, not to Wang Lin.",
+    "Someone in the crowd says Wang Lin's face is the same as the man in Hong Prison (470s, said while Mo Fei strikes); the speaker is unclear.",
+    "The Heaven Commander-in-Chief struck the drum fifteen times in the past; the fansub line is garbled (180s)."
+  ]
+}

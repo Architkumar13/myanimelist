@@ -1,0 +1,57 @@
+{
+  "ep": 63,
+  "title": "The Thunder Toad",
+  "summary": "With the Immortal Realm gate about to open and the sects hunting for treasures, Wang Lin prepares, starting with refining his restriction flag again. He does it inside the Land of the Ancient God, inside Tuo Sen's body, betting that heavenly tribulation cannot reach there; the bet pays off and the flag ends one step short of medium success. Using the Hunyuan Beast Control Ring, he subdues a Thunder Toad, a top-grade spirit beast that was fighting a wild beast, though the ring keeps drawing on his spiritual power. He then passes through Wuwen, a level-3 cultivation country, into the collapsed Outer Region Battlefield full of wandering souls, where the envoy Sun Wen bows to him in fear. A year later his three sword sheaths are refined with his primordial soul, and as the gate opens the old man reminds him to use the straw hat while telling children how the Ancient Gods died and the Immortal Realm shattered.",
+  "events": [
+    "Wang Lin begins preparing for the Immortal Realm",
+    "He refines the restriction flag inside the Land of the Ancient God, safe from tribulation",
+    "He subdues the Thunder Toad with the Hunyuan Beast Control Ring",
+    "He enters the collapsed Outer Region Battlefield through Wuwen country",
+    "Sun Wen greets him with fear",
+    "A year later his three sword sheaths are refined",
+    "The Immortal Realm gate opens; the old man tells its history to children"
+  ],
+  "introduced": [
+    "Thunder Toad",
+    "Hunyuan Beast Control Ring",
+    "Wuwen country",
+    "Sun Wen",
+    "Outer Region Battlefield",
+    "three sword sheaths"
+  ],
+  "cultivation": "Sun Wen: late Nascent Soul, envoy of a level-3 cultivation country.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "thunder-toad",
+      "name": "Thunder Toad",
+      "first": true
+    },
+    {
+      "id": "sun-wen",
+      "name": "Sun Wen",
+      "realm": "late Nascent Soul",
+      "quote": "[Su Wen, Utusan Kultivasi Level 3, Tahap Akhir Jiwa Baru Lahir]",
+      "first": true,
+      "card": 836.2
+    },
+    {
+      "id": "old-man",
+      "name": "the old man",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Read both the official English and the Indonesian fansub."
+  ],
+  "flags": [
+    "Indonesian card 'Su Wen' vs his own 'Sun Wen' at 15:10; used Sun Wen (glossary EP63).",
+    "Official English calls the ring 'Chaos Monster Controlling Ring' and the toad 'Lightning Frog'.",
+    "The voice calling Wang Lin 'Master' (10:06, 12:59) is presumably one of his demons; not shown in the subtitles."
+  ]
+}

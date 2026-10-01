@@ -1,0 +1,62 @@
+{
+  "ep": 6,
+  "title": "The Teng Family",
+  "summary": "In Teng Family City, Zhang Hu tries to sell a thousand-year blood ginseng and is ambushed, and Wang Lin is attacked by Teng disciples hunting Bai Zhan's killer. Teng Li, at late Foundation Establishment, takes Zhang Hu, lures Wang Lin in, and tries to take his blood-refined little sword. Wang Lin, still in Qi Condensation, holds him off with tricks and breaks the lantern formation that blocks flying in the city. Grandfather Teng then lets Teng Li use a Nascent Soul-grade flying sword even if it costs the city, and Situ Nan has to teleport Wang Lin away again and again, draining his own Nascent Soul power. Wang Lin flees into the Mysterious Forest five hundred miles south, full of miasma and the qi-draining Blue Thread Vine. Teng Li follows with his Black Gold Heart Mirror, and Wang Lin swears to cut off the root of anyone who wrongs him twice.",
+  "events": [
+    "Zhang Hu haggles over the blood ginseng and is ambushed",
+    "Wang Lin fights Teng disciples; his little sword is now a top-grade Core Treasure bound to his life",
+    "Teng Li (late Foundation Establishment) holds Zhang Hu and fights Wang Lin",
+    "Wang Lin breaks the city's lantern formation",
+    "The Teng ancestor lets Teng Li use a Nascent Soul flying sword; Situ Nan teleports Wang Lin out",
+    "Teng Li's Black Gold Heart Mirror, a Nascent Soul protective treasure, blocks Wang Lin's attacks",
+    "Both enter the Mysterious Forest of Blue Thread Vines; Situ Nan is near exhausted"
+  ],
+  "introduced": [
+    "blood ginseng",
+    "Teng Family City lantern formation",
+    "Black Gold Heart Mirror",
+    "Mysterious Forest",
+    "Blue Thread Vine",
+    "Nascent Soul flying sword"
+  ],
+  "cultivation": "Teng Li: late Foundation Establishment. Wang Lin is still in Qi Condensation. Situ Nan's Nascent Soul power is badly depleted and he can only teleport a few more times.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "Qi Condensation",
+      "quote": "It's a pity that you are only in the Qi Condensation stage",
+      "first": false
+    },
+    {
+      "id": "zhang-hu",
+      "name": "Zhang Hu",
+      "first": false
+    },
+    {
+      "id": "teng-li",
+      "name": "Teng Li",
+      "realm": "late Foundation Establishment",
+      "quote": "Late stage of foundation building",
+      "first": false
+    },
+    {
+      "id": "teng-huayuan",
+      "name": "Teng Huayuan",
+      "first": false
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Official episode title card reads 'Episode 6 Teng' (the fan-wiki title 'Fuji' is a machine reading of 藤)."
+  ],
+  "flags": [
+    "youtube/ep6.zh.vtt is English. AnimeKhor has only an OCR of the burned-in English.",
+    "The episode leaves Zhang Hu's fate open; EP7 implies Teng Li killed him."
+  ]
+}

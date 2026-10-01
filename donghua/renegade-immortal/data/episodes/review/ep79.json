@@ -1,0 +1,58 @@
+{
+  "ep": 79,
+  "title": "Chased by a Seven-Leaf Master",
+  "summary": "Wang Lin fights the six-leaf war curse master Chi Mu with a Rain Celestial Sword and the God Slaying War Chariot, and kills him even though the chariot charges slowly and the sword's demon spirit, Xu Liguo, is close to breaking. The seven-leaf curse master Mu Ye then hunts him, corners him half a month later, and plants a rune seed in his forehead that would turn him into a rune puppet. Wang Lin escapes into a space rift, gets rid of the rune with the Heaven Defying Bead, which absorbs its wood-element essence, and masters the Star Compass's teleportation to flee for months. Mu Ye chases him for four months, then destroys the only exit and tries to open a way out with the clan's Ancestor Spirit Plant.",
+  "events": [
+    "Wang Lin kills Chi Mu with the Rain Celestial Sword and the God Slaying War Chariot",
+    "Seven-leaf master Mu Ye starts hunting him",
+    "Mu Ye corners him and plants a rune seed",
+    "Wang Lin flees into the void through a space rift",
+    "The Heaven Defying Bead absorbs the wood-element rune",
+    "He uses the Star Compass to escape for months",
+    "Mu Ye destroys the exit and turns to the Ancestor Spirit Plant"
+  ],
+  "introduced": [
+    "Mu Ye",
+    "rune seed",
+    "Ancestor Spirit Plant",
+    "Rain Celestial Sword (with Xu Liguo as spirit)"
+  ],
+  "cultivation": "Mu Ye says Wang Lin is only mid Soul Formation; Mu Ye is a seven-leaf master (Soul Transformation equivalent).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "mid Soul Formation",
+      "quote": "Dengan kultivasi Anda hanya pada Transformasi Dewa Tahap Tengah",
+      "first": false
+    },
+    {
+      "id": "chi-mu",
+      "name": "Chi Mu",
+      "first": false
+    },
+    {
+      "id": "mu-ye",
+      "name": "Mu Ye",
+      "realm": "seven-leaf curse master",
+      "quote": "Mu Yue, Klan Abadi Terabaikan, Ahli Mantra Dukun Tujuh Daun",
+      "first": true,
+      "card": 455.9
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Indonesian fansubs read in full; key lines spot-checked against the official English (YouTube), which arrived late.",
+    "Card 'Mu Yue' = glossary Mu Ye (7 leaf), debut EP79.",
+    "First on-screen statement that Wang Lin (clone) is mid Soul Formation; the breakthrough itself is not shown in EP72-79."
+  ],
+  "flags": [
+    "246: 'only if the main body were here' marks this as Wang Lin's clone; his Ancient God main body is elsewhere.",
+    "1155-1204: who destroys the exit (Mu Ye or Wang Lin) and what the Ancestor Spirit Plant does is unclear."
+  ]
+}

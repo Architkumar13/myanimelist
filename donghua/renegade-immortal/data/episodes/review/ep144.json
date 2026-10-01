@@ -1,0 +1,51 @@
+{
+  "ep": 144,
+  "title": "Hunting the Moon",
+  "summary": "On Planet Yun Xia Wang Lin finds the Moonwatcher partly awake, and plants Celestial Ascension Fruits at the roots of most of its tentacles to numb it. He learns that Tan Lang, the elders' pursuer from the Alliance, broke one of its bones and disturbed its deadly Moonblight, and found him trapped in its gut, the only one to follow him. Wang Lin uses the tearing Netherworld Force he learned in the abyss to rip out the Moonwatcher's bone, but the beast wakes and speaks Ancient God words that shatter the sky. He sacrifices his Restriction Flag and the Seven-Star Sword Formation to slow it, while Tan Lang breaks out and attacks him with the Landscape Screen and the Immortal Emperor Crown. Wang Lin throws Tan Lang half the bone as bait and answers the Moonwatcher's finger with his life imprint, his second Immortal Guard and Ling Tianhou's sword qi. To get away he abandons his body and flees in soul form, until a month later the Moonwatcher stops at the edge of Allheaven's Southern Domain, and Wang Lin looks for a place to forge a new body and refine the bone.",
+  "events": [
+    "Wang Lin plants Celestial Ascension Fruits on the Moonwatcher's tentacles",
+    "He finds Tan Lang trapped inside it after disturbing its Moonblight",
+    "He rips out the Moonwatcher's bone with Netherworld Force",
+    "The Moonwatcher wakes and uses Ancient God speech",
+    "Wang Lin loses the Restriction Flag and the Seven-Star Sword Formation; Tan Lang escapes and attacks",
+    "Wang Lin uses half the bone as bait and blocks the beast's finger with his life imprint, second Immortal Guard and Ling Tianhou's sword qi",
+    "He abandons his body and escapes in soul form; the Moonwatcher stops at the Southern Domain"
+  ],
+  "introduced": [
+    "Moonblight",
+    "Moonwatcher bone",
+    "Ancient God speech",
+    "Immortal Emperor Crown",
+    "Landscape Screen",
+    "Life imprint",
+    "Allheaven Southern Domain"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "tan-lang",
+      "name": "Tan Lang",
+      "first": false
+    },
+    {
+      "id": "lei-daozi",
+      "name": "Lei Daozi",
+      "first": false,
+      "shownAs": "Lei Daozi (second Immortal Guard)"
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles, checked against the AnimeKhor Indonesian fansubs and the Chinese track (禁幡 Restriction Flag, 仙帝冠 Immortal Emperor Crown, 罗天南域)."
+  ],
+  "flags": [
+    "English subs say 'Ahead lies Luotian Western Domain' (20:47) but the Chinese is 罗天南域, the Southern Domain; Southern used.",
+    "'Master! We're going to fall!' (11:58) is said by an unseen companion, probably the God Slaying War Chariot beast.",
+    "Whether Tan Lang survives the Moonwatcher is not shown."
+  ]
+}

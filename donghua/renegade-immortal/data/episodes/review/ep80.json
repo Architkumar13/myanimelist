@@ -1,0 +1,92 @@
+{
+  "ep": 80,
+  "title": "Situ Nan Wakes",
+  "summary": "Outside the Land of the Forsaken Immortals, Wang Lin's main body stops Zi Xin and Gongsun Fan as they come out. Zi Xin admits she used the Reincarnation Fruit as bait to find her father, after escaping being sold to the Suzaku Country as a cultivation furnace. She gives him the Reincarnation Fruit he needs, and his main body becomes a true Ancient God. Three years later, five-year-old Zhou Ru, born mute, is taken from Apricot Village by a Tianxing Sect daoist; Wang Lin saves her from mistreatment and raises her in his valley, where she speaks for the first time. Five years on, Liao Fan of the Snow Region attacks to take back the feather fan, and Situ Nan wakes and drives him off with the cold fire of the Underworld Ascension Method. Then the Suzaku envoy comes to take Zeng Niu to the ten-year duel with Hongdie, and the Snow Region sect master Li Yuanfeng lays a trap for him.",
+  "events": [
+    "Wang Lin's main body intercepts Zi Xin and Gongsun Fan",
+    "Zi Xin explains her past and gives up a Reincarnation Fruit",
+    "The main body completes Body Cleansing and becomes a true Ancient God",
+    "Wang Lin takes in five-year-old Zhou Ru after the Tianxing Sect mistreats her",
+    "Liao Fan of the Snow Region attacks; Situ Nan wakes and uses Underworld Ascension cold fire",
+    "Wang Lin leaves Zhou Ru, the pagoda and the Thunder Toad with Tie Yan",
+    "Li Yuanfeng plans to kill Zeng Niu after the duel with Hongdie"
+  ],
+  "introduced": [
+    "Liao Fan",
+    "Li Yuanfeng",
+    "Tianxing Sect",
+    "Xiao Bai (tiger)",
+    "Wave Sound Spirit Armor",
+    "Underworld Ascension Method (Yellow Springs Ascension)"
+  ],
+  "cultivation": "Wang Lin's clone is mid Soul Formation; his main body becomes a true Ancient God. Liao Fan is late Soul Formation; Li Yuanfeng is early Soul Transformation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "clone mid Soul Formation; main body true Ancient God",
+      "quote": "Tubuh Klon Wang Lin, Transformasi Dewa Tingkat Menengah",
+      "first": false,
+      "card": 902.52
+    },
+    {
+      "id": "zi-xin",
+      "name": "Zi Xin",
+      "first": false
+    },
+    {
+      "id": "gongsun-fan",
+      "name": "Gongsun Fan",
+      "first": false
+    },
+    {
+      "id": "zhou-ru",
+      "name": "Zhou Ru",
+      "first": false,
+      "card": 472.16
+    },
+    {
+      "id": "liao-fan",
+      "name": "Liao Fan",
+      "realm": "late Soul Formation",
+      "quote": "Liao Fan, Wilayah Salju, Transformasi Dewa Tahap Akhir",
+      "first": true,
+      "card": 923.6
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    },
+    {
+      "id": "tie-yan",
+      "name": "Tie Yan",
+      "first": false
+    },
+    {
+      "id": "thunder-toad",
+      "name": "Thunder Toad",
+      "first": false
+    },
+    {
+      "id": "li-yuanfeng",
+      "name": "Li Yuanfeng",
+      "realm": "early Soul Transformation",
+      "quote": "Li Yuanfeng, Master Sekte Wilayah Salju, Transformasi Jiwa Tahap Awal",
+      "first": true,
+      "card": 1253.04
+    }
+  ],
+  "changes": [
+    "Indonesian fansubs read in full; key lines spot-checked against the official English (YouTube), which arrived late.",
+    "'Desa Aprikot' (Apricot Village) here matches EP76's 'Desa Xinghua'.",
+    "'Situs Nan' is a machine slip for Situ Nan."
+  ],
+  "flags": [
+    "339: 'Find Wang Lin, then I spare you' is probably Mu Ye's earlier order to the two; speaker not shown.",
+    "371: the subs say the main body left marks on the two; unclear whether the main body or the clone is thinking.",
+    "1079-1100: Wang Lin asks 'Senior Situ' about a broken arm and the title of first expert of Suzaku; meaning unclear.",
+    "1273: Li Yuanfeng says Zeng Niu has caught the attention of the Suzaku, Zhu Quezi."
+  ]
+}

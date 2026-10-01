@@ -1,0 +1,50 @@
+{
+  "ep": 20,
+  "title": "Ice Flame, a Grade Nine Weapon Core and the Beast Spirit Furnace",
+  "summary": "Xu Liguo turns on the unconscious Wang Lin, but finds that Wang Lin left a strand of consciousness in him and backs down at once. Since his body cannot bear the cold of the merging pills, Wang Lin decides to make it completely cold and moves deep into the fourteenth valley to cultivate. Over three years the fire-beast crisis in Huo Fen is ended by a rank four cultivation country, and the war with Xuan Wu settles into a truce. His core embryo forms and an ice flame appears in him. From the spirit-beast skulls buried under the valley he refines a rare grade nine weapon core to upgrade his flying sword. He then goes to Nan Dou City, one of the 998 cities of the Sea of Devils, and trades a jiao skin at the Refining Pavilion for the grade five Hundred Beast Spirit Furnace, which the Fighting Evil Sect had reserved but never paid for. Three Core Formation cultivators chase him out of the city to take it.",
+  "events": [
+    "Xu Liguo turns on the unconscious Wang Lin, then backs down on finding Wang Lin's consciousness inside him",
+    "Li Muwan refuses to give up her Yin for the death spell; she will only refine pills",
+    "Wang Lin chills his body and cultivates deep in the fourteenth valley for three years",
+    "The fire-beast crisis ends and the Huo Chu Alliance settles in Xuan Wu",
+    "Wang Lin's core embryo forms; he finds an ice flame and refines a grade nine weapon core from buried skulls",
+    "In Nan Dou City he trades a jiao skin for the Hundred Beast Spirit Furnace",
+    "Three Core Formation cultivators hunt him outside the city"
+  ],
+  "introduced": [
+    "Nan Dou City",
+    "Refining Pavilion",
+    "Hundred Beast Spirit Furnace",
+    "Qingxuan Pill Furnace",
+    "ice flame",
+    "weapon core"
+  ],
+  "cultivation": "After three years Wang Lin's core embryo is complete and only the final push to Core Formation is left. The Refining Pavilion clerk reads him as Foundation Establishment great perfection.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles (machine-translated) checked against the AnimeKhor Indonesian fansubs; no Chinese track for this episode.",
+    "'reactor' in the subtitles = weapon core (器胆/器胚, the core used in weapon refining); 'Nandou/South Dou City' = Nan Dou City."
+  ],
+  "flags": [
+    "13:45 which sects control Nan Dou City is garbled ('Soul-Destroying Sect of All Heavens Sect' / 'Fire Soul Sect of Zhutian Sect' and three Tianyi sects).",
+    "12:55-13:27 'Congratulations on regaining your life... you swallowed it... a new life away from me' is an unclear exchange, probably Xu Liguo.",
+    "The end (20:35+) is a preview of EP21."
+  ]
+}

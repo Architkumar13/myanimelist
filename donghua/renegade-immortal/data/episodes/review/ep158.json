@@ -1,0 +1,107 @@
+{
+  "ep": 158,
+  "title": "The Last Way Out",
+  "summary": "As the Thunder Celestial Realm breaks apart and void cracks open, Wang Lin turns his Thunder Celestial Realm fragment seal into a vessel that the cracks cannot destroy and steers it toward the Thunder Celestial Temple's teleportation formation. He saves Zhan Yun, Zhan Konglie's cousin, and charges every rescued cultivator ten thousand Immortal Stones for their life plus ten thousand per hour, and soon Xizi Feng, Zhou Zhou, Hu Kailai, Liu Wenying and many others pay to come aboard. Shengong Hu joins him, calls him Master in front of everyone, and is told to disguise himself and stay out of any fight. At the teleportation fragment, the second-rank envoy Liao Qian and the other temple envoys mean to leave, destroy the formation and let the trespassers die with the realm. Wang Lin attacks with the Net-Severing Sword Art, the rescued cultivators pour their origin power into him, and he overpowers the envoys, but the formation is wrecked in the struggle. Li Yuan uses his family's restriction art, which can revive dead formations, to power it once, and the grateful survivors ask the name of their savior: Xu Mu.",
+  "events": [
+    "Wang Lin uses the realm fragment seal as a vessel through the void cracks",
+    "He rescues Zhan Yun and charges Immortal Stones for each passenger",
+    "Xizi Feng, Zhou Zhou, Hu Kailai, Liu Wenying and others come aboard",
+    "Shengong Hu joins and calls Wang Lin Master",
+    "Envoy Liao Qian plans to destroy the teleportation formation and leave the others to die",
+    "Wang Lin fights the envoys with the rescued cultivators' origin power",
+    "Li Yuan revives the damaged formation for one use"
+  ],
+  "introduced": [
+    "Zhan Yun",
+    "Xizi Feng",
+    "Zhou Zhou",
+    "Hu Kailai",
+    "Liu Wenying",
+    "Liao Qian",
+    "Zhan, Xizi and Zhou families",
+    "Immortal Stones (fare)",
+    "Teleportation formation fragment"
+  ],
+  "cultivation": "Zhan Yun: late Ascendant, fallen from Illusory Yin. Xizi Feng: late Ascendant. Zhou Zhou: early Ascendant. Hu Kailai and Liu Wenying: Corporeal Yang. Liao Qian: second-rank envoy, Corporeal Yang. Among the rescued, the strongest are three early Corporeal Yang.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "zhan-yun",
+      "name": "Zhan Yun",
+      "realm": "late Ascendant (fallen from Illusory Yin)",
+      "quote": "[Zhan Yun, Klan Zhan, Tahap Ascendant Akhir, Jatuh dari Tahap Yin Ilusi]",
+      "first": true,
+      "card": 104.05
+    },
+    {
+      "id": "xi-zi-feng",
+      "name": "Xizi Feng",
+      "realm": "late Ascendant",
+      "quote": "[Xizi Feng, Klan Xizi, Tahap Kekuasaan Akhir]",
+      "first": true,
+      "card": 164.29
+    },
+    {
+      "id": "zhou-zhou",
+      "name": "Zhou Zhou",
+      "realm": "early Ascendant",
+      "quote": "[Zhou Zhou, Klan Zhou, Tahap Awal Ascendant]",
+      "first": true,
+      "card": 212.0
+    },
+    {
+      "id": "hu-kailai",
+      "name": "Hu Kailai",
+      "realm": "Corporeal Yang",
+      "quote": "[Hu Kailai, Corporeal Yang]",
+      "first": true,
+      "card": 275.45
+    },
+    {
+      "id": "liu-wenying",
+      "name": "Liu Wenying",
+      "realm": "Corporeal Yang",
+      "quote": "[Liu Wenying, Corporeal Yang]",
+      "first": true,
+      "card": 275.45
+    },
+    {
+      "id": "shengong-hu",
+      "name": "Shengong Hu",
+      "first": false
+    },
+    {
+      "id": "liao-qian",
+      "name": "Liao Qian",
+      "realm": "Corporeal Yang",
+      "quote": "[Liao Qian, Utusan Tingkat Dua Istana Surgawi Petir, Tahap Yang Jasmani]",
+      "first": true,
+      "card": 448.6
+    },
+    {
+      "id": "li-yuan",
+      "name": "Li Yuan",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Only the Indonesian AnimeKhor track was available (no official English or Chinese yet).",
+    "'Batu Surgawi' written as Immortal Stones; glossary name for Xizi Feng is Xi Zi Feng / Xi Zifeng."
+  ],
+  "flags": [
+    "961-963: someone says 'don't blame me, Wang, for dragging you down with me'; either Wang Lin slips his real surname or it is another cultivator named Wang. Unclear.",
+    "Xizi Feng's card reads 'Tahap Kekuasaan Akhir', a slip for late Ascendant (Zhou Zhou's card alternates 'Kebangkitan' and 'Ascendant').",
+    "EP159 says Xu Mu killed three envoys; the deaths are not clearly counted on screen here.",
+    "98: 'only this damned star could do it' about refining a whole realm fragment; probably Yan Leizi."
+  ]
+}

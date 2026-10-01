@@ -1,0 +1,113 @@
+{
+  "ep": 97,
+  "title": "Zhou Yi's Last Jar of Wine",
+  "summary": "Wang Lin plans to win back his own and Li Muwan's life souls from Zhu Quezi, then leave Planet Suzaku for Planet Tian Yun. Zhou Yi brings the last jar of their old wine and tells him how the war has turned: Yun Quezi has shown himself as the Second Ancestor of the Forsaken Immortal Clan, a ten-leaf shaman, and has given Zhu Quezi three months to split the planet with the clan. Zhu Quezi survives only because he holds the Cultivation Planet Heart and could destroy the crystal that holds the clan's life souls, and in those three months the clan kills the Di Po Sect's Ascendant ancestor, drives out Tianyu Sect master Chu Yunfei and overruns the countries of Shui Mo, Mu Dan and Qin. Zhou Yi says Yun Quezi has chosen him, Zi Xin and Wang Lin to fight Zhu Quezi's disciples, but Wang Lin refuses to go, and Zhou Yi leaves him a jade slip holding Liu Mei's Domain Intent. At the Corpse Yin Sect in the Country of Zhao, Wang Lin catches the primordial soul of Cao Yidou of Planet Tian Yun's Mi Le Sect and makes him his servant for a hundred years as a guide. Deeper inside he finds Lei Ji, ancestor of the Giant Demon Clan, sealed in place, and draws his Ancient God-laced blood with vines. When he sees that Lei Ji wants the blood drawn so he can break free, he leaves, and a woman's voice greets him in the dark.",
+  "events": [
+    "Wang Lin studies Giant Demon blood that carries Ancient God power and decides to look into the Corpse Yin Sect",
+    "Zhou Yi shares the last jar of wine and thanks him for killing Li Yuanfeng and avenging the Snow Domain",
+    "Flashback: Yun Quezi is revealed as the clan's Second Ancestor and offers Zhu Quezi half of Planet Suzaku within three months",
+    "The First Ancestor and Yun Quezi explain that the Cultivation Planet Heart keeps Zhu Quezi alive; the clan conquers the other powers in three months",
+    "Zhou Yi says Yun Quezi picked him, Zi Xin and Wang Lin; Wang Lin refuses and receives Liu Mei's Domain Intent slip",
+    "Wang Lin takes Cao Yidou's primordial soul as a servant at the Corpse Yin Sect",
+    "He draws blood from the sealed Giant Demon ancestor Lei Ji, sees through his trick and walks away",
+    "A woman who senses he is untouched by women calls to him"
+  ],
+  "introduced": [
+    "Cao Yidou",
+    "Lei Ji",
+    "Li Qingping",
+    "Mi Le Sect",
+    "Planet Tian Yun (named)",
+    "Di Po Sect",
+    "Tianyu Sect",
+    "Shui Mo, Mu Dan and Qin (level-five cultivation countries)",
+    "Cultivation Planet Heart",
+    "Sky Splitting Iron (offered)",
+    "Liming Straw Hat (named)"
+  ],
+  "cultivation": "Yun Quezi: ten-leaf shaman. Third Ancestor: nine-leaf shaman. First Ancestor: eleven-leaf shaman. Li Qingping: late Nascent Soul. Cao Yidou's primordial soul: mid Soul Formation. Wang Lin is at Soul Transformation. Zhu Quezi is the only Ascendant left on Planet Suzaku outside the clan.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "zhou-yi",
+      "name": "Zhou Yi",
+      "first": false
+    },
+    {
+      "id": "zhu-quezi",
+      "name": "Zhu Quezi",
+      "realm": "early Ascendant",
+      "quote": "Hanya di Tahap Ascendant Awal (379s)",
+      "first": false
+    },
+    {
+      "id": "mei-ji",
+      "name": "Mei Ji",
+      "realm": "nine-leaf shaman",
+      "quote": "[Leluhur Ketiga Klan Abadi Terkutuk, Dukun Sembilan Daun]",
+      "first": false,
+      "card": 367.7
+    },
+    {
+      "id": "yun-quezi",
+      "name": "Yun Quezi",
+      "realm": "ten-leaf shaman",
+      "quote": "[Yun Quezi, Leluhur Kedua Klan Abadi Terabaikan, Dukun Sepuluh Daun]",
+      "first": false,
+      "card": 413.6
+    },
+    {
+      "id": "ancestor-xu",
+      "name": "Ancestor Xu",
+      "realm": "eleven-leaf shaman",
+      "quote": "[Master Dukun 11 Daun, Leluhur Pertama Klan Abadi Terabaikan]",
+      "first": false,
+      "card": 534.6,
+      "shownAs": "Ancestor Xu (First Ancestor)"
+    },
+    {
+      "id": "zi-xin",
+      "name": "Zi Xin",
+      "first": false
+    },
+    {
+      "id": "li-qingping",
+      "name": "Li Qingping",
+      "realm": "late Nascent Soul",
+      "quote": "[Li Qingping, Pemimpin Sekte Mayat Yin, Tahap Jiwa Baru Lahir Akhir]",
+      "first": true,
+      "card": 811.5
+    },
+    {
+      "id": "cao-yidou",
+      "name": "Cao Yidou",
+      "realm": "mid Soul Formation (primordial soul)",
+      "quote": "[Jiwa Primordial Cao Yidou, Sekte Mi Le, Planet Tianyun, Transformasi Dewa Tahap Tengah]",
+      "first": true,
+      "card": 815.2
+    },
+    {
+      "id": "lei-ji",
+      "name": "Lei Ji",
+      "quote": "[Lei Ji, Leluhur Klan Iblis Raksasa]",
+      "first": true,
+      "card": 949.4
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep97.id.srt) with its name cards; card times are from that file. The official English track was too rough to add anything.",
+    "Naming follows the earlier reviews and glossary: Planet Suzaku, Suzaku Tomb, Zhu Quezi, Yun Quezi, Hongdie, Forsaken Immortal Clan, Cultivation Planet Crystal (subs: Star Cultivation/Star Refining Crystal).",
+    "The unnamed Third Ancestor on the card is Mei Ji (named in EP99)."
+  ],
+  "flags": [
+    "The Third Ancestor's card (367s) gives no name; identified as Mei Ji from EP99 and the fan wiki.",
+    "Li Qingping marked as a first appearance on the strength of the name card; he may have been seen earlier as the Corpse Yin Sect leader.",
+    "Zhou Yi's 'four people' (581s, 709s): he names only three (himself, Zi Xin, Wang Lin).",
+    "The woman at the end (1113-1145s) is identified in EP98 as the Third Ancestor."
+  ]
+}

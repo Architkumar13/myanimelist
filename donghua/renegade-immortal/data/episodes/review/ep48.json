@@ -1,0 +1,99 @@
+{
+  "ep": 48,
+  "title": "Slaying Teng Jiu",
+  "summary": "In the Teng family a challenger, Teng Yun, fights for the core seat of Teng Jiu and is killed by the young Teng Jiu, the weakest of the nine core members at mid Nascent Soul. Teng Huayuan, at late Nascent Soul great perfection, tells Lin Yi, an envoy of the Tongtian Tower at early Soul Formation, that the nine could all reach Soul Formation, and Lin Yi gives the family a hundred years to produce one or lose everything. Meanwhile in Wufeng Valley, once the strongest sect in Zhao, the Teng family uses borrowed Nascent Soul treasures to win elder seats, and Teng Shan takes one over Wu Hongming. Wang Lin breaks the valley's Five Sword Light Formation with his Ten Thousand Swords restriction, kills Teng Shan, and shames the sect master Wu Qingfeng for guarding the Teng family's veins. Teng Jiu arrives to stop him and is overpowered, and Xu Liguo devours his Nascent Soul. Wufeng Valley breaks with the Teng family and kills every Teng in the valley, and Teng Huayuan sends Teng Two, Teng Three and Teng Four to wipe out the killer's clan.",
+  "events": [
+    "Teng Nine kills the challenger Teng Yun in a core-seat duel",
+    "Lin Yi of the Tongtian Tower gives the Teng family 100 years to produce a Soul Formation cultivator",
+    "Teng Shan beats Wu Hongming for a Wufeng Valley elder seat",
+    "Wang Lin breaks the Five Sword Light Formation with his Ten Thousand Swords restriction",
+    "Wang Lin kills Teng Shan and defeats Teng Nine; Xu Liguo devours Teng Nine's soul",
+    "Wufeng Valley breaks with the Teng family",
+    "Teng Huayuan sends Teng Two, Three and Four after Wang Lin"
+  ],
+  "introduced": [
+    "Teng Nine",
+    "Teng Yun",
+    "Lin Yi",
+    "Tongtian Tower",
+    "Wufeng Valley elder contest",
+    "Teng Shan",
+    "Wu Hongming",
+    "Five Sword Light Formation",
+    "Ten Thousand Swords restriction",
+    "Teng Two",
+    "Teng Three",
+    "Teng Four"
+  ],
+  "cultivation": "Teng Huayuan: late Nascent Soul great perfection. Teng Jiu and Teng Yun: mid Nascent Soul. Lin Yi: early Soul Formation. The Wufeng Valley killing formation is at peak Nascent Soul strength.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "teng-jiu",
+      "name": "Teng Jiu",
+      "realm": "mid Nascent Soul",
+      "quote": "Namun dia juga telah mencapai Jiwa Baru Lahir Tingkat Menengah.",
+      "first": true,
+      "card": 249.2,
+      "shownAs": "Teng Nine"
+    },
+    {
+      "id": "teng-yun",
+      "name": "Teng Yun",
+      "realm": "mid Nascent Soul",
+      "quote": "(The 19th generation of Fujiyun's family, Yuanying is in the middle stage) Rattan Yun.",
+      "first": true,
+      "card": 195.0
+    },
+    {
+      "id": "teng-huayuan",
+      "name": "Teng Huayuan",
+      "realm": "late Nascent Soul great perfection",
+      "quote": "[Teng Huayuan, Jiwa Baru Lahir Sempurna Tahap Akhir]",
+      "first": false,
+      "card": 292.4
+    },
+    {
+      "id": "lin-yi",
+      "name": "Lin Yi",
+      "realm": "early Soul Formation",
+      "quote": "[Lin Yi, Utusan Menara Surgawi, Formasi Jiwa Tahap Awal]",
+      "first": false,
+      "card": 325.6
+    },
+    {
+      "id": "teng-shan",
+      "name": "Teng Shan",
+      "first": true
+    },
+    {
+      "id": "wu-hongming",
+      "name": "Wu Hongming",
+      "first": true
+    },
+    {
+      "id": "wu-qingfeng",
+      "name": "Wu Qingfeng",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Glossary spellings 'Teng Jiu'/'Teng Nine' kept as Teng Nine, with id teng-jiu; 'Rattan/Fuji' in the official English = Teng."
+  ],
+  "flags": [
+    "Lin Yi: the glossary lists a Lin Yi debuting EP9; whether this envoy is the same person is not clear, so first=false is a guess.",
+    "Teng Huayuan praises a young 'Li'er' (AK 386) as the one who will reach Soul Formation; probably Teng Li, not named on screen.",
+    "Wiki puts Teng Eight's death in EP48 too; it is not visible in these subtitles.",
+    "Wiki lists Teng Gao (EP48) as a Wufeng Valley elder; the subs only mention handing 'Teng Gao' over, while the contest winner is Teng Shan."
+  ]
+}

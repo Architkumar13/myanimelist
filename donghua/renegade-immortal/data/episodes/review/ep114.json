@@ -1,0 +1,61 @@
+{
+  "ep": 114,
+  "title": "Qin Lin's Immortal Palace",
+  "summary": "Yao Xixue, the Blood Ancestor's daughter, asks Wang Lin to help her break the seals of an old immortal abode in the Demon Spirit Land, paying him Immortal Jades and a Blood Soul Pill that is supposed to save his life. Wang Lin suspects her, and turns the jades into Immortal Crystals stored in his body instead of breaking through. At Gu Mountain they walk the Beast Sovereign Path, where Wang Lin draws golden talismans out of twelve sealed stone statues and finds they spell the name Qin Lin. At the gate she makes him take the first of three Ascendant-level sword qi slashes, sure that her pill was a fake and he will die, but he survives on the crystals, hides with Zhou Wutai's aura-hiding hat, seals her meridians and imprisons her rather than kill her, since a real Blood Soul Pill would only revive her. The abode's remnant soul greets Wang Lin as its new master and gives him the token; inside the jade palace, held shut by the Eighteen Plum Blossom Restriction, he finds a jar with ten drops of immortal wine, and one drop leaves him drunk for a full year.",
+  "events": [
+    "Yao Xixue asks Wang Lin to help open an immortal abode and pays Immortal Jades in advance",
+    "She gives him a Blood Soul Pill as a life-saving guarantee",
+    "At Gu Mountain they reach Qin Lin's Immortal Palace and walk the Beast Sovereign Path",
+    "Wang Lin takes golden talismans from twelve sealed stone statues; they form the character 'Lin'",
+    "At the gate she uses him as a shield against three Ascendant sword slashes",
+    "He survives with Immortal Crystals, seals her meridians and imprisons her with his Life and Death concept",
+    "The abode's remnant soul accepts him as master and gives him the token",
+    "Inside, behind the Eighteen Plum Blossom Restriction, one drop of immortal wine knocks him out for a year"
+  ],
+  "introduced": [
+    "Qin Lin's Immortal Palace",
+    "Gu Mountain",
+    "Beast Sovereign Path",
+    "Golden Talismans",
+    "Qin Lin (named)",
+    "Eighteen Plum Blossom Restriction",
+    "Immortal Crystals",
+    "Immortal wine",
+    "Blood Compass"
+  ],
+  "cultivation": "Wang Lin's clone is mid Soul Transformation and saving resources to reach late Soul Transformation. The three sword slashes at the palace gate carry Ascendant-level force.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "mid Soul Transformation",
+      "quote": "Saya hanya berada di Tahap Transformasi Jiwa Tengah",
+      "first": false
+    },
+    {
+      "id": "yao-xixue",
+      "name": "Yao Xixue",
+      "first": false
+    },
+    {
+      "id": "shi-san",
+      "name": "Shi San",
+      "first": false
+    },
+    {
+      "id": "hu-pao",
+      "name": "Hu Pao",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep114.id.srt) and its caption cards; the YouTube English track for this episode is machine-made and garbled, used only for cross-checks.",
+    "The palace owner is written Qin Lin (青霖), the glossary title; the subtitles spell it Qing Lin."
+  ],
+  "flags": [
+    "Wang Lin says the token is almost the same as one he already owns (984s, Indonesian garbled: 'ke yang sedang pasang surut'); unclear which item he means.",
+    "The aura-hiding hat from Zhou Wutai is called 'Nether Jungle Hat' in the fansub (905s); the official name is unknown.",
+    "The episode ends (1085s) with a jump to Wang Lin storming somewhere to save Shi San and Mo Lihai shouting 'Hundred Waves Demon Sea'; this is the EP115 climax shown early."
+  ]
+}

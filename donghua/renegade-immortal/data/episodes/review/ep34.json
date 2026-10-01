@@ -1,0 +1,65 @@
+{
+  "ep": 34,
+  "title": "The Memory of Tu Si",
+  "summary": "The Sky Devil Magician leads Xu Liqing into the sea made from the Ancient God's consciousness: the red Blood Sea that seals Tuo Sen and the blue Dead Sea that holds the Ancient God's memories. He has Xu Liqing absorb the Ancient God's six desires with an Ancient God hand bone, then reveals that he raised his disciple for four thousand years only as a vessel, and sacrifices him to refine a memory crystal. Duomu, a powerful envoy of Tuo Sen, arrives, shatters the crystal and drags the Sky Devil Magician off to keep searching for the Soul Devourer, while Wang Lin, hiding, picks up the crystal as it re-forms. Inside it the Ancient God Tu Si tells him that Tuo Sen is an evil thought split from his own mind, that he sealed Tuo Sen in the Blood Sea and his memory inheritance in the Dead Sea, and begs Wang Lin not to let Tuo Sen get it. Wang Lin gains part of the memory inheritance, but Duomu catches him at the end.",
+  "events": [
+    "The sea of the Ancient God's consciousness is split into the Blood Sea and the Dead Sea",
+    "Xu Liqing absorbs the six desires with the Ancient God hand bone",
+    "The Sky Devil Magician sacrifices Xu Liqing to refine a memory crystal",
+    "Duomu crushes the crystal and takes the Sky Devil Magician away",
+    "Wang Lin takes the re-formed crystal and meets the memory of Tu Si",
+    "Tu Si explains Tuo Sen's origin and asks Wang Lin to keep the inheritance from him",
+    "Wang Lin gains part of the memory inheritance; Duomu captures him"
+  ],
+  "introduced": [
+    "Duomu",
+    "Dead Sea",
+    "Xuan Tian Demon Desire technique",
+    "memory inheritance",
+    "Ancient God hand bone",
+    "Ancient Gods (clan born from the stars)"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "xu-liqing",
+      "name": "Xu Liqing",
+      "first": false
+    },
+    {
+      "id": "sky-devil-magician",
+      "name": "Sky Devil Magician",
+      "first": false
+    },
+    {
+      "id": "duomu",
+      "name": "Duomu",
+      "first": true,
+      "card": 551.0
+    },
+    {
+      "id": "tu-si",
+      "name": "Tu Si",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Xu Liqing dies here, sacrificed by his master.",
+    "'Daomu Bloody Warrior' = Duomu (YT 711)."
+  ],
+  "flags": [
+    "Duomu's realm is not stated on screen; the wiki gives Soul Transformation great perfection.",
+    "Whether Xu Liguo or Wang Lin asks 'how did you dodge the old monster's attack' near the end is unclear."
+  ]
+}

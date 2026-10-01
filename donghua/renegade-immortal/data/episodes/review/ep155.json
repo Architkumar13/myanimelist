@@ -1,0 +1,65 @@
+{
+  "ep": 155,
+  "title": "The Sealed Immortal",
+  "summary": "At a fragment continent, Shengong Hu and Zhan Konglie watch a huge new formation open far too fast, and a white-haired old man breaks out of it, crying that he has returned and is reborn. On the way to the Immortal Gate, Wang Lin and Li Yuan are attacked by a severed arm close to Nirvana Scryer in power that swallows thunder; Wang Lin uses the Third Eye to survive what he calls his most dangerous fight since reaching Corporeal Yang, and guesses that a great expert is reassembling his body through slaughter. The old man curses Qing Shui, who he says cut his body apart and sealed it, a seal that saved him from the destruction of the Celestial Realm, and he sets out to devour the cultivators in the realm. At the gate he seals the Immortal Gate so no one can leave; the Zhan, Tang, Sun, Lu and Zheng families charge him together and he crushes them with the immortal True Form art. Instead of hiding, Wang Lin asks Li Yuan to trust him and uses the Earthfold Step to merge fully with heaven and earth and vanish, an escape art the old man admits few ancient immortals mastered, but the old man finds him anyway.",
+  "events": [
+    "The white-haired old man breaks out of a sealed formation",
+    "A thunder-swallowing severed arm attacks Wang Lin and Li Yuan; Wang Lin uses the Third Eye",
+    "The old man curses Qing Shui, who sealed his body, and begins to devour cultivators",
+    "He seals the Immortal Gate, trapping everyone in the realm",
+    "The families charge him together and are crushed by his True Form art",
+    "Wang Lin merges with heaven and earth to hide, and the old man still finds him"
+  ],
+  "introduced": [
+    "White-haired old man (sealed immortal)",
+    "Severed arm",
+    "True Form art (immortal art)",
+    "Sun, Lu and Zheng families",
+    "Immortal Gate"
+  ],
+  "cultivation": "The severed arm's power is close to Nirvana Scryer. Wang Lin calls this his most dangerous fight since reaching Corporeal Yang.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "li-yuan",
+      "name": "Li Yuan",
+      "first": false
+    },
+    {
+      "id": "shengong-hu",
+      "name": "Shengong Hu",
+      "first": false
+    },
+    {
+      "id": "zhan-konglie",
+      "name": "Zhan Konglie",
+      "first": false
+    },
+    {
+      "id": "qing-shui",
+      "name": "Qing Shui",
+      "quote": "[Pria Tua Berambut Putih]",
+      "first": false,
+      "card": 338.29,
+      "shownAs": "White-haired old man (Qing Shui)"
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Only the Indonesian AnimeKhor track was available (no official English or Chinese yet)."
+  ],
+  "flags": [
+    "956-991: the old man recognising Wang Lin as the one who escaped the Ji Realm, and Yan Leizi's 'I told you, I'm not Qingshui... with this Immortal Ascension Altar let me remind you', sit under the caption '[Renegade Immortal, 6 September ...]'; they repeat as the end of EP156, so this is treated as a preview.",
+    "The white-haired old man is identified as Qing Shui only in EP156; his id is set to qing-shui on that basis.",
+    "905-906: someone calls out 'Master!' (likely Xu Liguo or Shengong Hu)."
+  ]
+}

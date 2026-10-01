@@ -1,0 +1,85 @@
+{
+  "ep": 78,
+  "title": "The Forsaken Immortal Clan",
+  "summary": "In the Land of the Forsaken Immortals, Wang Lin learns that the 'savages' are the Forsaken Immortal Clan, divided into curse spell masters and war curse masters whose power grows with the number of leaves in their runes. He kills the five-leaf spell master Momo, then meets the six-leaf master Ka Mo, who tells him Planet Suzaku was once their home until the Suzaku Country rose to rank six and the Cultivation Alliance gave it the planet; the war that followed killed ninety percent of the clan. Ka Mo warns him that seven-leaf masters, equal to Soul Transformation, wait on the third level. Wang Lin rescues the wounded Sun Dian, who gives him an Ancient Bell to bring him along to the Reincarnation Tree. At the tree, three Reincarnation Fruits appear after Sun Dian sacrifices his two disciples' lifespans, and the six-leaf war curse master Chi Mu arrives.",
+  "events": [
+    "A three-leaf master is defeated; Wang Lin learns the clan's leaf ranks",
+    "Wang Lin kills the five-leaf spell master Momo",
+    "Ka Mo tells him the history of the Forsaken Immortal Clan and Planet Suzaku",
+    "Wang Lin frees Sun Dian from a rune puppet curse",
+    "Sun Dian gives him an Ancient Bell",
+    "Six-leaf masters Za Gu and Di Ya attack on the third level",
+    "Sun Dian sacrifices his disciples' lifespans to ripen three Reincarnation Fruits; Chi Mu appears"
+  ],
+  "introduced": [
+    "Momo",
+    "Ka Mo",
+    "Tai Zhou",
+    "Za Gu",
+    "Di Ya",
+    "Chi Mu",
+    "Tao Shou",
+    "Ancient Bell",
+    "Cultivation Alliance",
+    "leaf ranks"
+  ],
+  "cultivation": "Momo, a five-leaf master, matches Soul Formation; seven-leaf masters equal Soul Transformation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "mo-mo",
+      "name": "Momo",
+      "first": true,
+      "card": 343.7
+    },
+    {
+      "id": "ka-mo",
+      "name": "Ka Mo",
+      "first": true,
+      "card": 452.9
+    },
+    {
+      "id": "tai-zhou",
+      "name": "Tai Zhou",
+      "first": true,
+      "card": 456.3
+    },
+    {
+      "id": "sun-dian",
+      "name": "Sun Dian",
+      "first": false
+    },
+    {
+      "id": "za-gu",
+      "name": "Za Gu",
+      "first": true,
+      "card": 926.85
+    },
+    {
+      "id": "di-ya",
+      "name": "Di Ya",
+      "first": true,
+      "card": 945.5
+    },
+    {
+      "id": "chi-mu",
+      "name": "Chi Mu",
+      "first": true,
+      "card": 1234.4
+    }
+  ],
+  "changes": [
+    "Indonesian fansubs read in full; key lines spot-checked against the official English (YouTube), which arrived late.",
+    "Leaf counts follow the cards; the glossary lists Momo as six-leaf, but this episode cards him five-leaf."
+  ],
+  "flags": [
+    "284: a five-leaf master is called 'Transformasi Dewa?' (Soul Formation equivalent) before his name card.",
+    "507-511: Wang Lin wonders if Adai was from this clan.",
+    "Zi Xin and Gongsun Fan split from the group at 299 and are missing for the rest of the episode."
+  ]
+}

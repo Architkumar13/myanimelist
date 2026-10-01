@@ -1,0 +1,89 @@
+{
+  "ep": 1,
+  "title": "Leaving Home",
+  "summary": "Thousands of years ago the Heaven Defying Bead, one of the three great treasures of the Cangwu Dao Realm, falls into the world and is claimed by Situ Nan, the strongest man of the Vermilion Bird country. Outside experts gang up on him for it, and as his body is destroyed he vows to return when the destined one appears. Ages later in the Country of Zhao, the poor teenager Wang Lin, called Tie Zhu at home, watches relatives bully his parents over clan debts. His Fourth Uncle brings a chance to try for the Heng Yue Sect through one of the Wang family's three places, won thanks to Elder Dao Xu's interest in cousin Wang Zhuo. Sect master Huang Long tests the children's spiritual roots, and Wang Lin fails while Wang Zhuo and Wang Hao pass. Wang Lin climbs the trial ladder through illusions of fire anyway, but sunset arrives before he reaches the top.",
+  "events": [
+    "Prologue: Situ Nan holds the Heaven Defying Bead against experts from outside the realm and is destroyed, vowing to return",
+    "Wang Lin (Tie Zhu) and his parents are humiliated by Wang clan relatives over debts",
+    "Fourth Uncle brings news that the Heng Yue Sect is recruiting and the Wang family has three places",
+    "Wang Lin, Wang Zhuo and Wang Hao go to the sect mountain hidden by the Wind Hanging Cloud Trace Formation",
+    "Huang Long's spiritual root test: Wang Zhuo and Wang Hao qualify, Wang Lin fails",
+    "Wang Lin attempts the ladder trial, pushing through illusions of fire and crippling",
+    "Sunset falls before he reaches the top; a voice in the dark welcomes him"
+  ],
+  "introduced": [
+    "Wang Lin (Tie Zhu)",
+    "Situ Nan",
+    "Heaven Defying Bead",
+    "Wang Tianshui",
+    "Fourth Uncle",
+    "Wang Zhuo",
+    "Wang Hao",
+    "Dao Xu (mentioned)",
+    "Huang Long",
+    "Heng Yue Sect",
+    "Country of Zhao",
+    "Wang Clan",
+    "Immortal Meeting",
+    "Wind Hanging Cloud Trace Formation",
+    "spiritual root test",
+    "ladder trial",
+    "Finger of Death"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "look": "powerful cultivator of the prologue; his body is destroyed holding the bead",
+      "first": true
+    },
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "look": "poor village teenager, wood carver's son",
+      "first": true
+    },
+    {
+      "id": "wang-tianshui",
+      "name": "Wang Tianshui",
+      "first": true
+    },
+    {
+      "id": "wang-lin-mother",
+      "name": "Wang Lin's mother",
+      "first": true
+    },
+    {
+      "id": "fourth-uncle",
+      "name": "Fourth Uncle",
+      "first": true
+    },
+    {
+      "id": "wang-zhuo",
+      "name": "Wang Zhuo",
+      "first": true
+    },
+    {
+      "id": "wang-hao",
+      "name": "Wang Hao",
+      "first": true
+    },
+    {
+      "id": "huang-long",
+      "name": "Huang Long",
+      "quote": "I am Huanglong real person, Head of the Hengyue Sect",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Split from the official EP01-70 compilation upload (youtube/ep1.en.vtt covers EP1-70); EP1 = 0:00-21:26 of that file. Cross-checked with the AnimeKhor OCR (ep1.en.srt, EP1-3 combined).",
+    "Official subs' 'Tian Ni Pearl / Secret Heavenly Pearl' = Heaven Defying Bead; 'Suzaku Kingdom' = Vermilion Bird country; 'Huanglong real person' = Huang Long."
+  ],
+  "flags": [
+    "youtube/ep1.en.vtt is not EP1 alone but the official EP01-70 full-version video; timings in this review are from that file.",
+    "Situ Nan calls himself 'the second generation Suzakuji' (1:53): second-generation Vermilion Bird.",
+    "Wang Lin's mother is not named on screen (wiki: Zhou Tingsu)."
+  ]
+}

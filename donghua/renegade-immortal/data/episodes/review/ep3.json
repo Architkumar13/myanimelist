@@ -1,0 +1,103 @@
+{
+  "ep": 3,
+  "title": "The Exchange Match",
+  "summary": "After Zhang Hu kills Liu Shulang, Wang Lin covers it up and sends his friend away from the Heng Yue Sect. Situ Nan finds that Wang Lin's master, Sun Dazhu, has poisoned him so that his qi cannot condense, and proposes fighting poison with poison. When the Xuan Dao Sect arrives for the exchange contest, led by Ouyang and their Thousand-legged Centipede guardian beast, Wang Lin is assigned to feed the centipede and soaks himself in its venom. The poison clears and he shoots from level 1 to level 14 Qi Condensation, which he hides from Sun Dazhu. A female Xuan Dao disciple's charm wins over the Heng Yue men, and a young woman from the Luohe Sect, later revealed as Li Muwan, watches with her elder brother. At the contest, Zhou Peng of the Xuan Dao Sect, at level 13 Qi Condensation, beats Heng Yue's champions one after another, including Lu Song.",
+  "events": [
+    "Zhang Hu kills Liu Shulang; Wang Lin disposes of the body and Zhang Hu leaves the sect",
+    "Situ Nan discovers Sun Dazhu's poison blocking Wang Lin's qi",
+    "Ouyang brings the Xuan Dao Sect and its Thousand-legged Centipede to Heng Yue",
+    "Wang Lin feeds the centipede and uses its venom to burn out the poison, reaching level 14 Qi Condensation",
+    "Xuan Dao accuses Wang Lin over the sick centipede; Sun Dazhu shields him and teaches him to hide his cultivation",
+    "Li Muwan and her brother of the Luohe Sect arrive through an ancient teleportation array",
+    "Zhou Peng (level 13 Qi Condensation) defeats Heng Yue's fighters, including Lu Song"
+  ],
+  "introduced": [
+    "Ouyang",
+    "Thousand-legged Centipede",
+    "Zhou Peng",
+    "Lu Song",
+    "Li Muwan (named in EP15)",
+    "Li Qiqing (named in EP15)",
+    "Luohe Sect",
+    "Ling Cao poison",
+    "exchange contest"
+  ],
+  "cultivation": "Wang Lin breaks through from level 1 to level 14 Qi Condensation and hides it. Zhou Peng: level 13 Qi Condensation. Sun Dazhu wants Wang Lin at level 3 so he can withstand a soul search.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "level 14 Qi Condensation",
+      "quote": "Fourteenth level of Qi condensation",
+      "first": false
+    },
+    {
+      "id": "zhang-hu",
+      "name": "Zhang Hu",
+      "first": false
+    },
+    {
+      "id": "sun-dazhu",
+      "name": "Sun Dazhu",
+      "first": false
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    },
+    {
+      "id": "huang-long",
+      "name": "Huang Long",
+      "first": false
+    },
+    {
+      "id": "wang-zhuo",
+      "name": "Wang Zhuo",
+      "first": false
+    },
+    {
+      "id": "zhang-kuang",
+      "name": "Zhang Kuang",
+      "first": false
+    },
+    {
+      "id": "ouyang",
+      "name": "Ouyang",
+      "first": true
+    },
+    {
+      "id": "zhou-peng",
+      "name": "Zhou Peng",
+      "realm": "level 13 Qi Condensation",
+      "quote": "Thirteenth level of Qi condensation, Disciple of Xuan Dao Sect, Zhou Peng",
+      "first": true
+    },
+    {
+      "id": "lu-song",
+      "name": "Lu Song",
+      "first": true
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": true
+    },
+    {
+      "id": "li-qiqing",
+      "name": "Li Qiqing",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Taken from the compilation (youtube/ep1.en.vtt 38:37-57:25) checked against the AnimeKhor OCR; there is no per-episode YouTube file for EP3.",
+    "Who killed Liu Shulang follows the scene and the wiki (Zhang Hu); the official lines are ambiguous."
+  ],
+  "flags": [
+    "Who struck the killing blow on Liu Shulang is not clear from the subtitles (compilation 37:25-38:56); written as Zhang Hu per the wiki and Wang Lin's 'I will help you dispose of the body'.",
+    "Li Muwan and her brother are not named in EP3; the identification comes from the official clip title for EP3 ('Li Muwan appears') and EP15, where she and Li Qiqing are named as Luohe Sect disciples.",
+    "The charming Xuan Dao female disciple with a water spirit root is unnamed (possibly Xu Fei).",
+    "Lu Song is called 'the first genius of the Everlasting Alliance Sect' (55:28), a mistranslation of Heng Yue Sect."
+  ]
+}

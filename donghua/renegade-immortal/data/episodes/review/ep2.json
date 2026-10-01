@@ -1,0 +1,82 @@
+{
+  "ep": 2,
+  "title": "Entering the Sect",
+  "summary": "Wang Lin, having failed the ladder, throws himself off a cliff, and the Heaven Defying Bead pulls him into its dream space, where the trapped soul of Situ Nan is waiting. Situ Nan tries to take his body but cannot, and scorns his poor aptitude. Moved by his perseverance, Huang Long accepts Wang Lin as a grey-robed registered disciple, and Zhang Kuang escorts him to the sect. There Wang Lin shares quarters with Zhang Hu and is given the hated water-carrying chores. He finds that water soaked in the bead heals him, and that dew upgrades its water attribute. Situ Nan begins teaching him: Wang Lin reaches level 1 Qi Condensation, learns the Gravity Technique, and is taken as a disciple by Elder Sun Dazhu. The episode ends as the bully Senior Brother Liu Shulang attacks Zhang Hu, and Wang Lin steps in.",
+  "events": [
+    "Wang Lin wakes in the bead's dream space and meets Situ Nan, trapped there for 1,000 years",
+    "Situ Nan fails to take over Wang Lin's mortal body",
+    "Huang Long makes an exception and accepts Wang Lin as a registered disciple; Zhang Kuang takes him to the sect",
+    "Zhang Hu befriends him; Wang Lin is given the red water-carrying mission card",
+    "Wang Lin discovers the bead's healing water and upgrades its water attribute with dew",
+    "Liu Shulang beats Wang Lin over 'hidden treasure'; Situ Nan agrees to teach him",
+    "Wang Lin reaches level 1 Qi Condensation and learns the Gravity Technique; Elder Sun Dazhu takes him as a disciple",
+    "Liu Shulang tries to kill Zhang Hu and Wang Lin intervenes"
+  ],
+  "introduced": [
+    "Zhang Kuang",
+    "Zhang Hu",
+    "Liu Shulang",
+    "Sun Dazhu (Elder Sun)",
+    "Xuan Dao Sect (mentioned)",
+    "registered disciple (grey robes)",
+    "Heaven Defying Bead dream space",
+    "Gravity Technique",
+    "cultivation realms list",
+    "Zhao Fugui (mentioned)"
+  ],
+  "cultivation": "Wang Lin reaches level 1 Qi Condensation. Inside the bead's space, time runs ten times faster than outside. Situ Nan lists the seven steps: Qi Condensation, Foundation Establishment, Core Formation, Nascent Soul, Soul Formation, Soul Transformation, Ascendant.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "level 1 Qi Condensation",
+      "quote": "You just barely reached the first level of Qi Condensation",
+      "first": false
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "look": "soul inside the bead's dream space",
+      "first": false
+    },
+    {
+      "id": "huang-long",
+      "name": "Huang Long",
+      "first": false
+    },
+    {
+      "id": "zhang-kuang",
+      "name": "Zhang Kuang",
+      "first": true
+    },
+    {
+      "id": "zhang-hu",
+      "name": "Zhang Hu",
+      "first": true
+    },
+    {
+      "id": "liu-shulang",
+      "name": "Liu Shulang",
+      "first": true
+    },
+    {
+      "id": "sun-dazhu",
+      "name": "Sun Dazhu",
+      "first": true
+    },
+    {
+      "id": "wang-lin-mother",
+      "name": "Wang Lin's mother",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Taken from the compilation (youtube/ep1.en.vtt 21:26-38:37) and checked against the standalone official EP02 file (youtube/ep2.en.vtt) and the AnimeKhor OCR.",
+    "The elder who takes Wang Lin as a disciple is 'Elder Sun' here; he is named Sun Dazhu in EP4."
+  ],
+  "flags": [
+    "Senior Brother Liu is 'Brother Liu' in EP2 and 'Liu Shulang' in EP3 (compilation 51:11); the wiki page title is 'Zhang Shu Lang' but its own infobox says Liu Shu Lang. Used Liu Shulang.",
+    "youtube/ep2.zh.vtt is actually English, not Chinese."
+  ]
+}

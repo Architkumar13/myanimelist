@@ -1,0 +1,99 @@
+{
+  "ep": 9,
+  "title": "Entering the Corpse Yin Sect",
+  "summary": "Wang Lin teleports to the Corpse Yin Sect and delivers Wu Yu's message to Ye Zizai, who makes him Wu Yu's disciple, a second-generation disciple of the sect, and keeps Adai for himself but has no intention of rescuing his junior brother. Elder Mu Rong takes Wang Lin to a top-grade earth-yin retreat cave, where he senses a vast trapped presence above Nascent Soul crying for help. Ye Zizai's own corpse puppet, the Flying Rakshasa, turns out to hold an ancient cultivator's spirit that means to devour him. A Cultivation Alliance envoy gathers Zhao's Nascent Soul masters, including Pu Nanzi and the giant demon Chi. Every five hundred years a passage opens to the foreign battlefield, Zhao gets three sect places to fight for in Cassia Valley, and the envoy offers a reward for a particular bead. Teng Huayuan asks Gao Qiming for help tracking Wang Lin and his closest relatives. Ye Zizai sends his Foundation Establishment disciples to Cassia Valley as fodder for their corpse puppets, but Wang Lin, his soul blood not yet taken, turns on Mu Rong's group.",
+  "events": [
+    "Wang Lin meets Ye Zizai and becomes Wu Yu's disciple; Ye Zizai keeps Adai",
+    "Mu Rong leads Wang Lin to an earth-yin retreat; a presence above Nascent Soul begs for help below",
+    "Ye Zizai's corpse puppet (the Flying Rakshasa) reveals it is inhabited by an elder's spirit",
+    "The Cultivation Alliance envoy convenes Zhao's Nascent Soul cultivators; Pu Nanzi admits destroying Heng Yue",
+    "Rules of the Cassia Valley battle: seven tokens, three sects, Foundation Establishment disciples only",
+    "The envoy demands a certain bead from the foreign battlefield",
+    "Teng Huayuan bribes Gao Qiming with a turtle-shell treasure to find Wang Lin's kin",
+    "In Cassia Valley the Corpse Yin disciples' puppets rebel; Wang Lin settles his score with Mu Rong's group"
+  ],
+  "introduced": [
+    "Ye Zizai",
+    "Mu Rong",
+    "Flying Rakshasa",
+    "Cultivation Alliance",
+    "Cultivation Alliance envoy",
+    "Chi (giant demon)",
+    "Lin Yi",
+    "Gao Qiming",
+    "He Huan Sect",
+    "Cassia Valley",
+    "foreign battlefield",
+    "qualification tokens",
+    "seven-colour lotus",
+    "turtle-shell treasure"
+  ],
+  "cultivation": "Ye Zizai's corpse puppet is at late Nascent Soul. A visitor's pressure is at Soul Transformation. Mu Rong is at late Foundation Establishment. Wang Lin must reach mid Foundation Establishment before leaving the retreat cave. Only Foundation Establishment disciples may enter Cassia Valley.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "ye-zizai",
+      "name": "Ye Zizai",
+      "realm": "Nascent Soul",
+      "first": true
+    },
+    {
+      "id": "adai",
+      "name": "Adai",
+      "first": false
+    },
+    {
+      "id": "wu-yu",
+      "name": "Wu Yu",
+      "first": false
+    },
+    {
+      "id": "mu-rong",
+      "name": "Mu Rong",
+      "realm": "late Foundation Establishment",
+      "quote": "Except for Muruo, who is in the later stage of foundation building",
+      "first": true
+    },
+    {
+      "id": "pu-nanzi",
+      "name": "Pu Nanzi",
+      "first": false
+    },
+    {
+      "id": "chi",
+      "name": "Chi",
+      "first": true
+    },
+    {
+      "id": "lin-yi",
+      "name": "Lin Yi",
+      "first": true
+    },
+    {
+      "id": "gao-qiming",
+      "name": "Gao Qiming",
+      "first": true
+    },
+    {
+      "id": "teng-huayuan",
+      "name": "Teng Huayuan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Gao Qiming is 'Fellow Taoist Qiming' in the subs; full name from the glossary/wiki (EP9 debut).",
+    "'Cassia Valley' kept as the official English for the qualification battleground."
+  ],
+  "flags": [
+    "Only the official English track exists for EP9.",
+    "Whether the Flying Rakshasa, the 'Master Zi' puppet and Ye Zizai's devourer are one being is unclear (6:33-7:49).",
+    "Chi is identified from the wiki (giant demon, EP9); the subs only say 'a master of the troll race'.",
+    "Lin Yi is introduced as a 'Third-level Cultivation State Supervisor' welcoming the envoys (11:38).",
+    "The episode's last lines ('The person I am today was created by you') and the 'forbidden area / desert slave' lines at 19:02 are unclear."
+  ]
+}

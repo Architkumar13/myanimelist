@@ -1,0 +1,64 @@
+{
+  "ep": 17,
+  "title": "The Country Lock and the War on Xuan Wu",
+  "summary": "The fire beasts of Huo Fen mutate and grow stronger, and the cultivators of the Huo Chu Alliance break out toward the border with Xuan Wu Country. Li Muwan's elder brother Li Qiqing burns out his consciousness holding back the beasts so that she can escape. The four great sects seal the fire beasts' birthplace, and several Nascent Soul cultivators leave their Nascent Souls inside the Country-Locking Formation to keep the beasts shut inside Huo Fen. Once across the border the alliance storms the Qingxin Sect and announces rewards for kills, counted by a jade talisman, while Luo He Sect offers a Tianli Pill each month to whoever kills the most. Feng Luan gives Wang Lin the first part of Lin Tao's map and promises the rest if he kills 50 Foundation Establishment cultivators, and 150 enemies by the end of the war. Posted with the eighth team to block reinforcements, Wang Lin kills seven Foundation Establishment cultivators in an instant, then fights a late Foundation Establishment cultivator and a Core Formation cultivator who finds him using Earth Escape.",
+  "events": [
+    "The fire beasts mutate and the Huo Chu Alliance fights its way toward the Xuan Wu border",
+    "Li Qiqing dies holding back the beasts, and Li Muwan is told to live on for him",
+    "The four great sects seal the fire beasts' birthplace and Nascent Soul cultivators stay behind in the Country-Locking Formation",
+    "The alliance crosses into Xuan Wu and takes the Qingxin Sect's mountain gate",
+    "Kill rewards are announced, and Luo He Sect offers a monthly Tianli Pill",
+    "Feng Luan gives Wang Lin the first part of Lin Tao's map and sets kill targets for the rest",
+    "With the eighth team, Wang Lin kills seven Foundation Establishment cultivators at once",
+    "He takes on a late Foundation Establishment cultivator and then a Core Formation cultivator"
+  ],
+  "introduced": [
+    "Country-Locking Formation",
+    "Huo Chu Alliance",
+    "Qingxin Sect",
+    "Xuan Wu Country",
+    "Tianli Pill",
+    "kill-count jade talisman"
+  ],
+  "cultivation": "Wang Lin is at mid Foundation Establishment. The leader of his eighth team is at early Core Formation. Xu Liguo calls him unbeatable below Core Formation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "mid Foundation Establishment",
+      "quote": "Obviously only the middle stage of foundation building",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "li-qiqing",
+      "name": "Li Qiqing",
+      "first": false
+    },
+    {
+      "id": "feng-luan",
+      "name": "Feng Luan",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles (machine-translated) checked against the AnimeKhor Indonesian fansubs; no Chinese track for this episode.",
+    "'Junior Sister Mu'er/Mu Wan' and 'Wan'er' = Li Muwan; 'Brother Qiqing' = her elder brother Li Qiqing (the wiki says he dies here in the donghua).",
+    "'Fire Burning Alliance / Burning Alliance' = the Huo Chu Alliance (火楚盟, from the EP26 Chinese track); 'Suoguo Formation' = Country-Locking Formation (锁国大阵); 'Luohemen' = Luo He Sect."
+  ],
+  "flags": [
+    "10:43-10:48 'You guys won't be able to defend Hengyuefeng... why don't you give me Xuan Dao Sect?' is garbled; the speaker and which sect takes whose land are unclear.",
+    "12:27-12:34 someone hopes a Tianli Pill plus the 'Huang Quan promotion secret' gives him an 80% chance of forming a core; speaker not identified.",
+    "19:03 'thief, I will take your life': the Core Formation attacker is unnamed."
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "ep": 59,
+  "title": "Hongdie",
+  "summary": "Zhou Wutai tells Wang Lin the Alliance's pleas for help were refused by every neighbouring level-4 country, because the war is really about Hongdie, a Snow Region woman with a never-before-seen Five Spirits Body who reached peak Soul Formation in a hundred years without pills. The Vermilion Bird Country invited her to join, and her one condition was that the Snow Region become a level-5 cultivation country on new land, which she chose to be the Four Faction Alliance's; the Rain Cauldron then turned up in Alliance territory as the pretext. A year later the Snow Region arrives and refuses a truce, and Qing Fu, Zhou Yun and the other Alliance elders burn their lifespans in the Nine Sons Killing Formation, destroy Hongdie's body and call up the Country-Protecting Sky Dragon. Wang Lin goes after the wounded earth spirit of her five spirits to complete the five elements of the Heaven Defying Bead, but a disciple of Qing Song arrives to claim it too. He then finds hidden ice statues that form an Ice and Snow Formation over the whole Alliance, and Hongdie, still alive, asks the Vermilion Bird Country's envoy to kill the Sky Dragon.",
+  "events": [
+    "Zhou Wutai explains why no country will help the Alliance",
+    "Hongdie's Five Spirits Body and her bargain with the Vermilion Bird Country are revealed",
+    "A year later the Snow Region attacks and refuses a truce",
+    "The Alliance's elders use the Nine Sons Killing Formation and destroy Hongdie's body",
+    "The Country-Protecting Sky Dragon rises to defend the Alliance",
+    "Wang Lin hunts the earth spirit; a Baiyun disciple of Qing Song competes for it",
+    "Hidden ice statues form an Ice and Snow Formation; Hongdie calls on the Vermilion Bird envoy"
+  ],
+  "introduced": [
+    "Hongdie",
+    "Five Spirits Body",
+    "Vermilion Bird Country",
+    "Qing Fu",
+    "Zhou Yun",
+    "Mo Shan",
+    "Wu Huichu",
+    "Nine Sons Killing Formation",
+    "Country-Protecting Sky Dragon",
+    "Ice and Snow Formation",
+    "Green Jade Bell",
+    "Sky Locking Nail"
+  ],
+  "cultivation": "Hongdie: Soul Formation great perfection. Qing Fu and Mo Shan: mid Soul Formation. Zhou Yun and Wu Huichu: late Soul Formation. The Snow Region brings 36 Soul Formation cultivators, four of them late stage.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "zhou-wutai",
+      "name": "Zhou Wutai",
+      "first": false
+    },
+    {
+      "id": "mo-shan",
+      "name": "Mo Shan",
+      "realm": "mid Soul Formation",
+      "quote": "(Mo Shan, Shuimo Sect Elder, Middle Soul Transformation Realm)",
+      "first": true,
+      "card": 474.0
+    },
+    {
+      "id": "wu-huichu",
+      "name": "Wu Huichu",
+      "realm": "late Soul Formation",
+      "quote": "(Wu Huichu, Heihun Sect Elder, Late Soul Transformation Realm)",
+      "first": true,
+      "card": 475.0
+    },
+    {
+      "id": "qing-fu",
+      "name": "Qing Fu",
+      "realm": "mid Soul Formation",
+      "quote": "[Qing Fu, Tetua Tebing Qingmu, Transformasi Dewa Tingkat Menengah]",
+      "first": true,
+      "card": 501.9
+    },
+    {
+      "id": "zhou-yun",
+      "name": "Zhou Yun",
+      "realm": "late Soul Formation",
+      "quote": "[Zhou Yun, Pelindung Tetua Sekte Heihun, Transformasi Dewa Tahap Akhir]",
+      "first": true,
+      "card": 621.3
+    },
+    {
+      "id": "hongdie",
+      "name": "Hongdie",
+      "realm": "Soul Formation great perfection",
+      "quote": "[Kupu-kupu Merah/Hong Die, Jenius Surgawi dari Negara Daerah Salju, Transformasi Dewa Panggung Sempurna]",
+      "first": true,
+      "card": 1161.4
+    }
+  ],
+  "changes": [
+    "Read both the official English and the Indonesian fansub. Mo Shan and Wu Huichu cards are only in the official track."
+  ],
+  "flags": [
+    "Official 'Soul Transformation Realm' here = Soul Formation (化神), matching Indonesian 'Transformasi Dewa'.",
+    "The Sky Dragon's host is a Nascent Soul cultivator of the dragon's bloodline; he is not named.",
+    "Indonesian calls Hongdie 'Kupu-kupu Merah' (Red Butterfly)."
+  ]
+}

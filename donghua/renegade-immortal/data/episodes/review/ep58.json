@@ -1,0 +1,85 @@
+{
+  "ep": 58,
+  "title": "The Snow and the End of Mortal Life",
+  "summary": "Endless snow falls on the Four Faction Alliance, turning the mortal world to ice, and Zhou Wutai visits Wang Lin after more than ten years to admire his carving of Qing Song's Age Intent Realm, refuse it, and give him a jade slip holding a Soul Formation technique. He explains that the snow is an attack by the Snow Region, a level-4 cultivation country in the far north, and invites Wang Lin to join the Alliance; Wang Lin declines. Three Heihun Sect elders, You Kong, You Huan and You Mei, try to kill him with the Ink Bone Sword Formation, and he breaks it alone. The old man tells him the war is over the Rain Cauldron, which opens the gates of the shattered Ancient Immortal Realm, whose remaining immortal energy is the only path from Soul Formation to Soul Transformation without a Soul Transformation Pill. Thinking over his life of killing and his thirty years as a mortal, Wang Lin grasps that death is himself and life is also himself, saves the freezing Zeng family by carrying them to a neighbouring country, and ends his time as a mortal.",
+  "events": [
+    "Zhou Wutai visits and gives Wang Lin a Soul Formation technique on a jade slip",
+    "Zhou Wutai explains the Snow Region's snow attack and invites Wang Lin to the Alliance",
+    "You Kong, You Huan and You Mei attack with the Ink Bone Sword Formation; Wang Lin breaks it",
+    "The old man explains the Rain Cauldron, the four immortal gates and immortal energy",
+    "Wang Lin carves the old man's likeness and keeps the straw hat for now",
+    "Wang Lin reflects on life and death",
+    "He carries the Zeng family to a neighbouring country and ends his mortal life"
+  ],
+  "introduced": [
+    "Snow Region",
+    "You Kong",
+    "You Huan",
+    "You Mei",
+    "Ink Bone Sword Formation",
+    "Ancient Immortal Realm",
+    "four immortal gates (wind, rain, thunder, lightning)",
+    "Soul Transformation Pill"
+  ],
+  "cultivation": "You Kong, You Huan and You Mei: late Nascent Soul. Wang Lin says ten years of seclusion will bring him to Soul Formation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "zhou-wutai",
+      "name": "Zhou Wutai",
+      "first": false
+    },
+    {
+      "id": "old-man",
+      "name": "the old man",
+      "first": false
+    },
+    {
+      "id": "you-kong",
+      "name": "You Kong",
+      "realm": "late Nascent Soul",
+      "quote": "(You Kong, Elder of Heihun Faction, Late Stage Nascent Soul]",
+      "first": true,
+      "card": 496.0
+    },
+    {
+      "id": "you-huan",
+      "name": "You Huan",
+      "realm": "late Nascent Soul",
+      "quote": "(You Huan, Elder of Heihun Faction, Late Sage Nascent soull",
+      "first": true,
+      "card": 513.0
+    },
+    {
+      "id": "you-mei",
+      "name": "You Mei",
+      "realm": "late Nascent Soul",
+      "quote": "You Mie, Elder of Heihun Faction, Late Stage Nascent Soul]",
+      "first": true,
+      "card": 517.0
+    },
+    {
+      "id": "zeng-daniu",
+      "name": "Zeng Daniu",
+      "first": false
+    },
+    {
+      "id": "zeng-xiaoniu",
+      "name": "Zeng Xiaoniu",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Sources: AnimeKhor burned-in English (OCR) and the official English; no Indonesian file for this episode."
+  ],
+  "flags": [
+    "OCR 'You Mie' matched to the glossary's You Mei.",
+    "22:17 closing line about 'seizing the Rain Cauldron' is ambiguous; Wang Lin only obtains it in EP60.",
+    "Official English names the destination 'Rain Celestial Realm'; the old man calls it the Ancient Immortal Realm."
+  ]
+}

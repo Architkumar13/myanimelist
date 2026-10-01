@@ -1,0 +1,88 @@
+{
+  "ep": 39,
+  "title": "Cloud Sky Sect",
+  "summary": "In the ancient cave Wang Lin learns that escaping the Ji Realm means giving up everything it built, so he instead uses a divine technique to make a clone that will form a Nascent Soul and later merge with his body, even though the clone lives only thirty years. The clone, at level 3 Qi Condensation, travels to the Country of Chu, a rank 3 cultivation country, for the once-every-thirty-years entrance test of the Cloud Sky Sect, alongside Cheng Fei of the Sword Qi Sect and his sister Cheng Ling. In the test pillars he draws a water-attribute pill, and Zhou Lin, a ninth-generation disciple, takes him as his first apprentice. Sun Zhenwei takes Cheng Ling as his disciple, and Zhou Lin turns out to be the only student of an Elder Li. Zhou Lin gives Wang Lin a pill furnace and his alchemy notes before going into seclusion, telling him to ask his grandmaster, who is gentle, for help.",
+  "events": [
+    "Wang Lin finds that only giving up his Ji Realm cultivation would free him",
+    "He makes a clone to form a Nascent Soul instead",
+    "The clone enters the Cloud Sky Sect test in the Country of Chu with Cheng Fei and Cheng Ling",
+    "The clone draws a water-attribute pill from the test pillar",
+    "Zhou Lin takes Wang Lin as his apprentice; Sun Zhenwei takes Cheng Ling",
+    "Zhou Lin gives Wang Lin a furnace and notes and goes into seclusion"
+  ],
+  "introduced": [
+    "Cloud Sky Sect",
+    "Country of Chu",
+    "Cheng Fei",
+    "Cheng Ling",
+    "Zhou Lin",
+    "Song Qing",
+    "Sun Zhenwei",
+    "Sword Qi Sect",
+    "Wang Lin's clone"
+  ],
+  "cultivation": "Wang Lin's clone: level 3 Qi Condensation. Cheng Fei: late Foundation Establishment. Cheng Ling: early Foundation Establishment. Zhou Lin: Core Formation. Song Qing, Inner Sect master: mid Nascent Soul. Sun Zhenwei: late Core Formation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "clone: level 3 Qi Condensation",
+      "quote": "[Glone Wang Lin, Tahap Kondensasi Qi Lapisan Ketiga]",
+      "first": false,
+      "card": 486.1
+    },
+    {
+      "id": "cheng-fei",
+      "name": "Cheng Fei",
+      "realm": "late Foundation Establishment",
+      "quote": "[Cheng Fei, Murid Sekte Jianqi, Tahap Akhir Pendirian Yayasan]",
+      "first": true,
+      "card": 375.6
+    },
+    {
+      "id": "cheng-ling",
+      "name": "Cheng Ling",
+      "realm": "early Foundation Establishment",
+      "quote": "[Cheng Ling, Tahap Awal Pendirian Yayasan]",
+      "first": true,
+      "card": 380.6
+    },
+    {
+      "id": "zhou-lin",
+      "name": "Zhou Lin",
+      "realm": "Core Formation",
+      "quote": "[Zhuo Lin, Murid Generasi Kesembilan dari Sekte Yuntian, Formasi Inti Tahap Akhir]",
+      "first": true,
+      "card": 568.6
+    },
+    {
+      "id": "song-qing",
+      "name": "Song Qing",
+      "realm": "mid Nascent Soul",
+      "quote": "[Song Qing, Master Halaman Dalam Sekte Yuntian, Jiwa Baru Lahir Tahap Tengah]",
+      "first": true,
+      "card": 963.9
+    },
+    {
+      "id": "sun-zhenwei",
+      "name": "Sun Zhenwei",
+      "realm": "late Core Formation",
+      "quote": "[Sun Zhenwei, Sekte Yuntian, Formasi Inti Tahap Akhir]",
+      "first": true,
+      "card": 1008.9
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "'Yun Tian tribe/Yuntian Sect' = Cloud Sky Sect; 'Sun Xian' (official English) = Sun Zhenwei."
+  ],
+  "flags": [
+    "Zhou Lin's card: Indonesian says late Core Formation, official English says initial stage (the wiki gives early). Recorded as Core Formation only.",
+    "The episode never says who 'Sister Li' is; she is revealed as Li Muwan in EP40."
+  ]
+}

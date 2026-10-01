@@ -1,0 +1,106 @@
+{
+  "ep": 98,
+  "title": "Zhu Quezi's Game",
+  "summary": "In the depths of the Corpse Yin Sect, the woman is the Third Ancestor of the Forsaken Immortal Clan, Mei Ji, who calls herself the Sorceress and wants Wang Lin for herself. He holds her off with the Billion Soul Flag and then with a scroll of beast totems; she recognises clan ancestors sealed in the scroll, and he slips away. Situ Nan wakes in his new body at early Ascendant and promises to help Wang Lin pull his life soul out of the Cultivation Planet Crystal. When the three months are up, Yun Quezi, the young clan leader Adai and the Fifth Ancestor come to Zhu Quezi for his answer, and Yun Quezi offers a soul-binding spell to guarantee his life. Zhu Quezi strikes down the Fifth Ancestor with the Suzaku Seal, burning his own lifespan, and pours out his hatred of their late master Qian Pinghai, who favoured Yun Quezi, and whose body Zhu Quezi sold to the Corpse Yin Sect. Then he cracks the Cultivation Planet Heart and announces a game: everyone below Ascendant may enter the Suzaku Tomb to take back their life souls or repair the crystal, and in three months he will destroy the Heart and all the rest will die. Situ Nan tells Wang Lin the layout of the tomb, and at the crowded entrance Man Huang Nanming lets him go ahead, before someone who knows him from long ago speaks to him.",
+  "events": [
+    "Mei Ji, the Third Ancestor, tries to keep Wang Lin; he shows the Billion Soul Flag and a beast-totem scroll and escapes",
+    "Situ Nan wakes in his new body at early Ascendant",
+    "The clan welcomes an ancestral spirit and starts a curse across the Southern Suzaku Continent",
+    "Yun Quezi, Adai and the Fifth Ancestor demand Zhu Quezi's answer; Zhu Quezi strikes the Fifth Ancestor with the Suzaku Seal",
+    "Zhu Quezi reveals how he took the Cultivation Planet Heart from his master Qian Pinghai and sold his body",
+    "He cracks the Heart and opens the Suzaku Tomb for a three-month game of life and death",
+    "Zhu Quezi gives Qian Feng a bronze device of outer-world iron; Situ Nan explains the tomb's two areas and the Star Attractor",
+    "Man Huang Nanming makes way for Wang Lin at the tomb entrance; a stranger recognises him"
+  ],
+  "introduced": [
+    "Mei Ji (as the Sorceress)",
+    "Star Symbol Illustration (beast-totem scroll)",
+    "Adai (as Young Leader of the clan)",
+    "Qian Pinghai",
+    "Suzaku Seal",
+    "Vermilion Mystery Formation",
+    "Suzaku Tomb (opened)",
+    "Star Attractor",
+    "Man Huang Nanming",
+    "Soul-binding spell"
+  ],
+  "cultivation": "Situ Nan: early Ascendant in his new body. Mei Ji: nine-leaf curse shaman. Wang Lin is said to have shed his mortal roots and reached Soul Transformation, with immortal energy in his veins.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "mei-ji",
+      "name": "Mei Ji",
+      "realm": "nine-leaf curse shaman",
+      "quote": "[Leluhur Ketiga Klan Abadi Terkutuk, Penyihir Kutukan Sembilan Daun]",
+      "first": false,
+      "card": 200.6
+    },
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "Soul Transformation",
+      "quote": "Orang ini telah membuang akar fana dan menerobos ke Transformasi Jiwa (1213s)",
+      "first": false
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "realm": "early Ascendant",
+      "quote": "[Situ Nan, Ascendant Tahap Awal]",
+      "look": "new body: the young demon body he seized in EP96",
+      "first": false,
+      "card": 434.9
+    },
+    {
+      "id": "yun-quezi",
+      "name": "Yun Quezi",
+      "first": false
+    },
+    {
+      "id": "adai-forsaken",
+      "name": "Adai",
+      "quote": "[A Dai, Pemimpin Muda Klan Abadi Terabaikan]",
+      "first": false,
+      "card": 575.4
+    },
+    {
+      "id": "cui-zhi",
+      "name": "Cui Zhi",
+      "first": false,
+      "shownAs": "Cui Zhi (Fifth Ancestor)"
+    },
+    {
+      "id": "zhu-quezi",
+      "name": "Zhu Quezi",
+      "first": false
+    },
+    {
+      "id": "qian-pinghai",
+      "name": "Qian Pinghai",
+      "first": true
+    },
+    {
+      "id": "qian-feng",
+      "name": "Qian Feng",
+      "first": false
+    },
+    {
+      "id": "man-huang-nanming",
+      "name": "Man Huang Nanming",
+      "realm": "Soul Formation (wiki)",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep98.id.srt) with its name cards; card times are from that file. The official English track has no name cards and was only used to confirm the closing lines.",
+    "Naming follows the earlier reviews and glossary: Planet Suzaku, Suzaku Tomb, Zhu Quezi, Yun Quezi, Hongdie, Forsaken Immortal Clan, Cultivation Planet Crystal (subs: Star Cultivation/Star Refining Crystal).",
+    "Wiki names used for unnamed figures: the Fifth Ancestor as Cui Zhi."
+  ],
+  "flags": [
+    "Situ Nan's card flickers between 'Ascendant Tahap Awal' and 'Pewaris Tahap Awal' (434-437s); read as early Ascendant.",
+    "Whether the Fifth Ancestor dies from the Suzaku Seal (729-747s) is implied, not shown in the subtitles.",
+    "Mei Ji says her 'manifestation of will' was inside the Giant Demon ancestor's residual soul (210-234s); the link to Lei Ji is unclear.",
+    "The person who recognises Wang Lin at the tomb (1241-1258s) is not named; possibly Mo Zhi (EP103).",
+    "Man Huang Nanming's realm comes from the wiki only; the episode gives none."
+  ]
+}

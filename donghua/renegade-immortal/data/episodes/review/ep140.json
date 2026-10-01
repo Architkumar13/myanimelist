@@ -1,0 +1,75 @@
+{
+  "ep": 140,
+  "title": "Leaving Home",
+  "summary": "Wang Lin and Wang Ping spend eight years wandering mountains, rivers and seas, and Wang Ping visits Qilian Peak and Sun Tai's tomb, still begging to learn cultivation. They settle in Qishui City on Planet Ran Yun, where Sun family members mock Wang Ping and Sun Hai tries to cripple him, and Wang Lin destroys Sun Hai's Golden Core and silences his elders with Dao intent. Qing Yi, a young Sun family member, warns them to run, and is locked up for siding with outsiders. Sun Qiming, now clan master, comes to the Wang Residence, recognises Wang Lin's aura, and orders the whole clan to keep away from the benefactor their ancestor bows to. Wang Lin offers Wang Ping thirty years of wealth instead of cultivation, but Wang Ping vows to become supreme among mortals by his own effort. Wang Lin asks Qing Yi, now cast out of her clan, to spend sixty years by Wang Ping's side in return for a chance at cultivation, and she accepts.",
+  "events": [
+    "Eight years of travel; Wang Ping visits Qilian Peak and Sun Tai's tomb",
+    "They settle in Qishui City and buy the Wang Residence",
+    "Wang Lin cripples Sun Hai for attacking Wang Ping and scares off his elders",
+    "Qing Yi warns them and is locked up by Sun Kaiping",
+    "Sun Qiming recognises Wang Lin and orders the Sun family to keep away",
+    "Wang Ping refuses gifted wealth and vows to rise among mortals himself",
+    "Qing Yi agrees to stay by Wang Ping for sixty years"
+  ],
+  "introduced": [
+    "Qishui City",
+    "Qing Yi",
+    "Yun Wufeng",
+    "Sun Hai",
+    "Sun Kaiping",
+    "Wang Residence"
+  ],
+  "cultivation": "Qing Yi says she has not yet reached Foundation Establishment. Sun Hai has a Golden Core (Core Formation), which Wang Lin destroys.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "wang-ping",
+      "name": "Wang Ping",
+      "first": false
+    },
+    {
+      "id": "qing-yi",
+      "name": "Qing Yi",
+      "realm": "below Foundation Establishment",
+      "quote": "I've not yet reached Foundation Establishment.",
+      "first": true,
+      "card": 330.6
+    },
+    {
+      "id": "yun-wufeng",
+      "name": "Yun Wufeng",
+      "first": true,
+      "card": 334.8
+    },
+    {
+      "id": "sun-hai-qishui",
+      "name": "Sun Hai",
+      "first": true,
+      "card": 408.1
+    },
+    {
+      "id": "sun-kaiping",
+      "name": "Sun Kaiping",
+      "first": true,
+      "card": 649.0
+    },
+    {
+      "id": "sun-qiming",
+      "name": "Sun Qiming",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles, checked against the AnimeKhor Indonesian fansubs and the Chinese track (祁水城 Qishui City, 青宜 Qing Yi, 孙开平 Sun Kaiping)."
+  ],
+  "flags": [
+    "This Sun Hai is a Sun family member on Planet Ran Yun, not the Sun Hai of the glossary (EP41); separate id used.",
+    "Qing Yi is 青宜 in the Chinese card; the glossary has a Qing Yi 青衣 who may be someone else.",
+    "'From here on, protect him well' (18:16) is said to someone unseen, probably the Immortal Guard."
+  ]
+}

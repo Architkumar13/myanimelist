@@ -1,0 +1,50 @@
+{
+  "ep": 50,
+  "title": "Teng Yi of the Black Mire",
+  "summary": "Wang Lin travels to the Black Mire, a bottomless swamp that is the first spiritual vein of the Country of Zhao and the cultivation ground of Teng Yi, the one core member whose title has not changed hands in 400 years. Teng Yi, a late Nascent Soul great perfection cultivator whom the envoy chose as his test subject, shrugs off Wang Lin's Extreme Realm divine sense and keeps reforming after his body is destroyed. Wang Lin realises the whole swamp is made of spiritual roots stolen from mortals, and that Teng Yi's own body is built from them, so he freezes the mire with a restriction he had laid in advance. Teng Yi then burns a drop of Ancient God blood to summon a giant guardian of an Ancient God, but Wang Lin breaks it and kills him. Teng Huayuan, told the city barrier still cannot be broken and that Teng Yi is dead, recalls every Teng disciple to Teng City and opens the sect-protecting formation.",
+  "events": [
+    "Wang Lin asks the way to Zhao and is warned off the Black Mire",
+    "At the swamp he learns it is the first spiritual vein and Teng Yi's cultivation ground",
+    "Teng Yi survives the Black Dragon and Ten Thousand Swords restrictions and keeps reforming",
+    "Wang Lin works out that the swamp and Teng Yi's body are made of mortals' spiritual roots",
+    "He freezes the mire with a hidden Nether Sealing Demon restriction",
+    "Teng Yi summons an Ancient God guardian with a drop of Ancient God blood; Wang Lin kills him",
+    "Teng Huayuan recalls all Teng disciples and opens the sect-protecting formation"
+  ],
+  "introduced": [
+    "Teng Yi",
+    "Black Mire",
+    "first spiritual vein",
+    "Nether Sealing Demon Restriction",
+    "Ancient God blood"
+  ],
+  "cultivation": "Teng Yi: late Nascent Soul great perfection, one step from Soul Formation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "teng-yi",
+      "name": "Teng Yi",
+      "realm": "late Nascent Soul great perfection",
+      "quote": "[Teng Yi, Keluarga Inti Teng, Jiwa Baru Lahir Tahap Akhir yang Sempurna]",
+      "first": true,
+      "card": 365.6
+    },
+    {
+      "id": "teng-huayuan",
+      "name": "Teng Huayuan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Read both the official English and the Indonesian fansub."
+  ],
+  "flags": [
+    "Official English has 'Fuji family' (machine slip for 藤, Teng) throughout.",
+    "17:32 card about 'the August 26 special, final battle with the Teng family' and the closing lines are a preview of EP51/52."
+  ]
+}

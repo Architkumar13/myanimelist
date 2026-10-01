@@ -1,0 +1,75 @@
+{
+  "ep": 112,
+  "title": "Commander of Ten Thousand",
+  "summary": "Two years on, Wang Lin learns how demon power scales, three armours matching Foundation Establishment and thirty thousand needed for Soul Transformation, and turns the Sovereign Soul Flag into the Soul Refining Tribe's mountain-protecting formation. Shi San, his meridians severed, has forced demon power into his flesh for two years, so Wang Lin gives him the Giant Demon Clan's body-strengthening technique and promises him the first Ancient God mantra if he succeeds. Wang Lin also takes the gifted boy Hu Pao, maker of thirteen Soul Flags, as a personal disciple, wary that he could become another Hongdie if left alone in the tribe. Four years after arriving, he stops the tribe's expansion and leaves with Shi San for the Ancient Demon City, where Yao Xixue, now a commander, brings him to the city's undefeated Demon General, Mo Lihai. Mo Lihai tests him with the Ten Collapse Fist Conception, a power built on a thousand years of belief in victory: eight collapses make a commander, all ten a marshal. Wang Lin holds back the Yellow Springs Finger and the God Slaying War Chariot, counters with the Killing Law, and finds a way through by entering the demonic with his body for the Demon Transformation Finger, driving Mo Lihai back at the seventh collapse. Feeling the demonic mind eating at his Dao heart, he concedes, and Mo Lihai makes him a Commander of ten thousand demon soldiers.",
+  "events": [
+    "Wang Lin studies demon power armours and turns the Sovereign Soul Flag into the tribe's guardian formation",
+    "He gives the crippled Shi San the Giant Demon body-strengthening technique",
+    "He takes the gifted Hu Pao as a personal disciple",
+    "He stops the tribe's expansion and leaves for the Ancient Demon City with Shi San",
+    "Wang Lin corrects Shi San's punch on a guard; Yao Xixue brings him to the Demon General",
+    "Mo Lihai tests him with the Ten Collapse Fist Conception",
+    "Wang Lin breaks through with the Demon Transformation Finger and pushes Mo Lihai back, then concedes",
+    "Mo Lihai makes him a Commander of ten thousand demon soldiers"
+  ],
+  "introduced": [
+    "Demon power armours (scale)",
+    "Sovereign Soul Flag as mountain formation",
+    "Giant Demon body-strengthening technique",
+    "Ancient God mantra",
+    "Hu Pao",
+    "Ancient Demon City",
+    "Mo Lihai",
+    "Ten Collapse Fist Conception",
+    "Inner and outer posts (commander, marshal)",
+    "Killing Law"
+  ],
+  "cultivation": "Wang Lin: mid Soul Transformation, with almost enough immortal stones to reach late Soul Transformation. Mo Lihai is not yet Ascendant despite a thousand years undefeated. Hu Pao has two-star demon power and has reached the fourth stage of soul refining. Yao Xixue held out to the fifth collapse.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "mid Soul Transformation",
+      "quote": "Kultivasinya hanya pada Tahap Transformasi Jiwa Tengah (1208s)",
+      "first": false
+    },
+    {
+      "id": "shi-san",
+      "name": "Shi San",
+      "first": false
+    },
+    {
+      "id": "ouyang-hua",
+      "name": "Ouyang Hua",
+      "first": false
+    },
+    {
+      "id": "hu-pao",
+      "name": "Hu Pao",
+      "first": true
+    },
+    {
+      "id": "yao-xixue",
+      "name": "Yao Xixue",
+      "first": false
+    },
+    {
+      "id": "mo-lihai",
+      "name": "Mo Lihai",
+      "realm": "below Ascendant",
+      "quote": "Kultivasi orang ini belum mencapai Ascendant (642s)",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep112.id.srt) with its name cards; card times are from that file.",
+    "Official YouTube English was checked alongside the Indonesian fansub for names and story beats; its realm names are unreliable (it says 'Nascent Soul' for Soul Transformation), so the Indonesian cards were used for realms.",
+    "Naming follows the earlier reviews and glossary: Planet Suzaku, Suzaku Tomb, Zhu Quezi, Yun Quezi, Hongdie, Forsaken Immortal Clan, Cultivation Planet Crystal (subs: Star Cultivation/Star Refining Crystal)."
+  ],
+  "flags": [
+    "The Indonesian has Wang Lin say both 'two years' (81s) and 'four years ago' (404s) since arriving.",
+    "Shi San's new injury (144-217s) is from a demon beast on a hunt; whether it is the old Tianshui injury is unclear.",
+    "The glossary lists 'Mo Lihai' as a Tuo Sen puppet alias; nothing in this episode suggests it."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "ep": 100,
+  "title": "Hongdie's Farewell",
+  "summary": "Wang Lin finds a fragment of Li Muwan's soul about to reform in the outer tomb and stops the cultivator hunting there from burning it with his Soul Flag. With the place collapsing, he smashes the spirit creatures one after another until he recovers the spark of Wan'er's soul. In the Golden Soul Valley he sets Xu Liguo on a spirit formed from a golden life soul, a sword-like being whose pressure recalls the swords of the Immortal Realm; when a curved blade appears that will not hurt Xu Liguo, he leaves Xu Liguo behind to tame it. Outside the Spirit Mountain he meets Hongdie, driven mad after Qian Feng used her as a cultivation furnace, and she begs him to kill her. Wang Lin gives her a last duel as his greatest rival of two centuries, and as she dies she leaves him Qian Feng's Intent and the Kunji Whip and asks him to kill Qian Feng. The Forsaken Immortal Clan breaks into the tomb with Ancestor Xu's skull and Yun Quezi goes in alone to repair the crystal, while a crowd waits at the Spirit Mountain gate with a stranger at late Soul Transformation whose aura is not of Planet Suzaku. As the tomb tears apart, Qian Feng lies in wait, and Wang Lin meets Zhou Yi at the gate.",
+  "events": [
+    "Wang Lin saves Wan'er's soul fragment from another cultivator and recovers its spark",
+    "In the Golden Soul Valley, Xu Liguo fights a spirit born of a golden life soul",
+    "Wang Lin leaves Xu Liguo behind with a curved blade that will not harm him",
+    "Hongdie, made a furnace and driven mad by Qian Feng, asks Wang Lin to kill her",
+    "They fight a final duel; she dies and leaves him Qian Feng's Intent and the Kunji Whip",
+    "The clan opens the tomb with Ancestor Xu's skull and Yun Quezi enters alone",
+    "Cultivators wait at the Spirit Mountain gate; a late Soul Transformation stranger hides his true form",
+    "Qian Feng waits to ambush Wang Lin as Zhou Yi and Wang Lin meet"
+  ],
+  "introduced": [
+    "Golden Soul Valley",
+    "Golden Soul spirit",
+    "Curved blade",
+    "Spirit Mountain",
+    "Kunji Whip",
+    "Ancestor Xu's skull",
+    "Blue rose of the northern plains"
+  ],
+  "cultivation": "Hongdie reached Soul Formation within a century and has cultivated for two. The stranger at the gate is at late Soul Transformation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "hongdie",
+      "name": "Hongdie",
+      "look": "ragged and half-mad, a furnace puppet of Qian Feng",
+      "first": false
+    },
+    {
+      "id": "qian-feng",
+      "name": "Qian Feng",
+      "first": false
+    },
+    {
+      "id": "yun-quezi",
+      "name": "Yun Quezi",
+      "first": false
+    },
+    {
+      "id": "tuo-sen-puppet",
+      "name": "Tuo Sen's puppet",
+      "realm": "late Soul Transformation",
+      "quote": "Meskipun pada Tahap Transformasi Jiwa Akhir, auranya... tidak alami (1018s)",
+      "first": false
+    },
+    {
+      "id": "zhou-yi",
+      "name": "Zhou Yi",
+      "first": false
+    },
+    {
+      "id": "zi-xin",
+      "name": "Zi Xin",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep100.id.srt) with its name cards; card times are from that file.",
+    "Official YouTube English was checked alongside the Indonesian fansub for names and story beats; its realm names are unreliable (it says 'Nascent Soul' for Soul Transformation), so the Indonesian cards were used for realms.",
+    "The whip Hongdie leaves is the Kunji Whip (official English; the Indonesian says 'Karma Whip').",
+    "Naming follows the earlier reviews and glossary: Planet Suzaku, Suzaku Tomb, Zhu Quezi, Yun Quezi, Hongdie, Forsaken Immortal Clan, Cultivation Planet Crystal (subs: Star Cultivation/Star Refining Crystal)."
+  ],
+  "flags": [
+    "The man Wang Lin stops from burning Wan'er's fragment (255-284s) is not named.",
+    "Who sends the curved blade after Xu Liguo, thanking 'Zeng Niu' for the distraction (527-541s), is not named.",
+    "The stranger at the gate (1015-1037s) is read as Tuo Sen's puppet because EP101 says so; the official English calls him late Nascent Soul.",
+    "Qian Feng's line 'let Jue Qing bury you' (1078s) is unclear; Jue Qing may be a weapon or a technique."
+  ]
+}

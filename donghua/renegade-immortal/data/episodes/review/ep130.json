@@ -1,0 +1,59 @@
+{
+  "ep": 130,
+  "title": "No Way Out",
+  "summary": "Wang Lin confronts the Da Lou Sword Sect disciples at the abyss exit, takes a zodiac sword from one who attacks him, and their leader Chen Long hands it over as an apology. Chen Long introduces Tan Lang, a senior of their masters' generation, who supposedly can only use late Ascendant strength because the mosquito beasts wounded him, but Wang Lin sees that Tan Lang is faking and that he lured the beasts here himself. When the violet fog merges, Tan Lang sacrifices the sword disciples' flesh, blood and souls to bring down the Tidal Token. Zhou Yi offers to carry Wang Lin out, but Wang Lin holds on for ten more breaths and seizes swords and loot, then he and Chen Long gang up on Tan Lang. Tan Lang answers with Devour Death, a Mountain Soul torn from the Immortal Realm, the Celestial Scent, the Ancient God Tu Si cauldron, Axis Inversion and his Atlas Seal, and Wang Lin grabs the token anyway. Tan Lang then releases his second soul, and when Wang Lin breaks its controlling mark it turns out to be a free Ancient Thunder Dragon, which Wang Lin faces with the Net-Severing Sword Art.",
+  "events": [
+    "Wang Lin takes a sword from a rash Da Lou disciple; Chen Long gives it to him as an apology",
+    "Chen Long explains Tan Lang and the twelve disciples have been stuck in the abyss for a century",
+    "Wang Lin realises Tan Lang is faking his wounds and drew the mosquito beasts there",
+    "Tan Lang sacrifices the sword disciples to form the Tidal Token as the violet fog merges",
+    "Wang Lin buys ten breaths, then joins Chen Long against Tan Lang",
+    "Tan Lang uses Devour Death, the Mountain Soul, Celestial Scent, Axis Inversion and the Atlas Seal; Wang Lin snatches the token",
+    "Breaking Tan Lang's mark frees his second soul, an Ancient Thunder Dragon; Wang Lin draws the Net-Severing Sword"
+  ],
+  "introduced": [
+    "Twelve Sword Zodiacs of the Da Lou Sword Sect",
+    "Heptad Demon Needles",
+    "Devour Death (Tan Lang's technique)",
+    "Mountain Soul",
+    "Celestial Scent",
+    "Axis Inversion",
+    "Atlas Seal",
+    "Ancient Thunder Dragon",
+    "Net-Severing Sword Art"
+  ],
+  "cultivation": "Tan Lang is said to be limited to late Ascendant peak strength by his injuries (Wang Lin judges he is not really hurt).",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "zhou-yi",
+      "name": "Zhou Yi",
+      "first": false
+    },
+    {
+      "id": "tan-lang",
+      "name": "Tan Lang",
+      "realm": "late Ascendant (claimed limit)",
+      "quote": "limiting him to only late-stage Ascension peak cultivation",
+      "first": false,
+      "card": 643.0
+    },
+    {
+      "id": "chen-long",
+      "name": "Chen Long",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles, checked against the AnimeKhor Indonesian fansubs. Name cards for Tan Lang's techniques at 643.0/657.4/799.5/827.2s (AnimeKhor timing)."
+  ],
+  "flags": [
+    "Whether Chen Long survives the fight is not shown clearly.",
+    "'Ancient God Tu Si Cauldron' (15:45) is Wang Lin's line identifying one of Tan Lang's treasures."
+  ]
+}

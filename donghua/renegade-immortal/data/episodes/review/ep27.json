@@ -1,0 +1,59 @@
+{
+  "ep": 27,
+  "title": "Inside the Ancient God",
+  "summary": "Following the floating pumice of the Chaotic Broken Stars, the group reaches the entrance to the first trial, inside the body of an ancient god so huge that a single hair passage could dwarf a planet. Duanmu Ji explains that they have come for the Infant Transformation Pill. The ancient god's consciousness only sleeps, and whoever enters its body may take the techniques stored in its memory. When a desolate beast attacks and the devils scatter, Wang Lin realises it is only a parasite living inside a dead beast's corpse, so he slips into its belly, kills it and takes its marrow, which Li Muwan said was the real treasure. Crossing a few hundred feet of void filled with clever alien creatures takes him fifteen days and uses up all his magic treasures. At the last crack he survives with the formation from Li Muwan's jade slip. At the sealed entrance ordinary spirit stones do nothing, so he forces his way in.",
+  "events": [
+    "The devils follow the pumice to the first trial inside the ancient god's body",
+    "Duanmu Ji reveals the goals: the Infant Transformation Pill and the ancient god's memories",
+    "A desolate beast attacks and the devils scatter",
+    "Wang Lin sees the beast is a parasite in a corpse, kills it from inside and takes its marrow",
+    "Clever void creatures force him into a fifteen-day crossing that uses up his treasures",
+    "Li Muwan's jade-slip formation saves him at the last crack",
+    "Spirit stones fail at the entrance, so he breaks in"
+  ],
+  "introduced": [
+    "ancient god",
+    "desolate beast",
+    "void creatures"
+  ],
+  "cultivation": "Duanmu Ji is at mid Soul Formation; the desolate beast is at Soul Formation great perfection.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "duanmu-ji",
+      "name": "Duanmu Ji",
+      "realm": "mid Soul Formation",
+      "quote": "Middle stage of transformation / Facing the desolate beast that transforms into the Great Perfection of Gods",
+      "first": false
+    },
+    {
+      "id": "xu-liqing",
+      "name": "Xu Liqing",
+      "first": false,
+      "shownAs": "Six Desire Devil Lord"
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles (machine-translated) checked against the AnimeKhor Indonesian fansubs; no Chinese track for this episode.",
+    "'Yingbian Dan' = Infant Transformation Pill (婴变丹); 'becoming a god / transformation' = Soul Formation."
+  ],
+  "flags": [
+    "06:47-06:59 someone is called 'early stage of becoming a god' in the clash with the Six Desire Devil Lord; who is meant is unclear (the wiki has Xu Liqing at mid Soul Formation), so no realm is recorded.",
+    "15:42-15:56 Li Muwan's parting lines are a memory of EP24, not a new scene."
+  ]
+}

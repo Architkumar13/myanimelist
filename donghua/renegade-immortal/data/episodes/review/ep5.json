@@ -1,0 +1,90 @@
+{
+  "ep": 5,
+  "title": "Old Friend",
+  "summary": "With Qi Condensation complete, Wang Lin travels toward Tianshui City with Yang Sen's escort caravan, looking for a top wood-attribute material for the bead, while Situ Nan turns the jade talisman into a Core Treasure and tells him about the Seize Foundation art. Bandits of Liu San's gang attack for a valuable ginseng, and Wang Lin finds his old friend Zhang Hu among them, serving the bandit chief Bai Zhan. Bai Zhan, at the great perfection of Qi Condensation and a disciple of Ji Mo, sees through Wang Lin and attacks with a fast flying sword. Wang Lin tests Sun Dazhu's treasures on him and kills him with the Core Treasure, and Situ Nan wipes the escorts' memories. Wang Lin and Zhang Hu go to Teng Family City, ruled by a clan with a new Nascent Soul ancestor, where Wang Lin learns the Blood Refining method to bind the captured flying sword. Meanwhile Ji Mo pays the Teng ancestor to avenge his disciple, and the job goes to the ancestor's grandson Teng Li.",
+  "events": [
+    "Wang Lin joins Yang Sen's escort caravan on the way to Tianshui City",
+    "Situ Nan finishes refining the jade talisman into a Core Treasure",
+    "Liu San's bandits attack; Zhang Hu is with them, under Bai Zhan",
+    "Wang Lin fights Bai Zhan (Qi Condensation great perfection) and kills him with the Core Treasure",
+    "Situ Nan erases the escorts' memories; Wang Lin and Zhang Hu reunite",
+    "They enter Teng Family City; a Corpse Yin Sect cultivator passes with a corpse puppet",
+    "Wang Lin learns the Blood Refining technique for the flying sword",
+    "Ji Mo asks the Teng ancestor for revenge; Teng Li takes the task"
+  ],
+  "introduced": [
+    "Yang Sen",
+    "Tianshui City",
+    "Liu San",
+    "Bai Zhan",
+    "Ji Mo",
+    "Teng Family City",
+    "Teng Huayuan (as the Teng ancestor; named in EP7)",
+    "Teng Li",
+    "Teng Clan",
+    "Corpse Yin Sect",
+    "corpse puppet",
+    "Core Treasure",
+    "Seize Foundation art",
+    "Blood Refining technique",
+    "Xiao Linzi (Situ Nan's name for Wang Lin)"
+  ],
+  "cultivation": "Wang Lin has completed Qi Condensation. Bai Zhan is at Qi Condensation great perfection (level 15), the same as Wang Lin. Zhang Hu is at level 8 Qi Condensation. A Core Treasure holds one strike of a Core Formation cultivator. The Teng clan has a new Nascent Soul ancestor.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "Qi Condensation great perfection",
+      "quote": "It is actually the fifteenth level of Dzogchen in the Qi Condensation Stage. I have the same cultivation level as you",
+      "first": false
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    },
+    {
+      "id": "yang-sen",
+      "name": "Yang Sen",
+      "first": true
+    },
+    {
+      "id": "zhang-hu",
+      "name": "Zhang Hu",
+      "realm": "level 8 Qi Condensation",
+      "quote": "The eighth level of the Qi Condensation Stage",
+      "first": false
+    },
+    {
+      "id": "bai-zhan",
+      "name": "Bai Zhan",
+      "realm": "Qi Condensation great perfection",
+      "quote": "竟是凝气期十五层大圆满",
+      "first": true
+    },
+    {
+      "id": "ji-mo",
+      "name": "Ji Mo",
+      "first": true
+    },
+    {
+      "id": "teng-huayuan",
+      "name": "Teng Huayuan",
+      "realm": "Nascent Soul",
+      "first": true
+    },
+    {
+      "id": "teng-li",
+      "name": "Teng Li",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Names checked against the official Chinese track (youtube/ep5.zh.vtt): 即墨老人 Ji Mo, 白展 Bai Zhan, 藤家城 Teng Family City, 藤厉 Teng Li, 尸阴宗 Corpse Yin Sect, 丹宝 Core Treasure, 夺基大法 Seize Foundation art, 血炼之术 Blood Refining."
+  ],
+  "flags": [
+    "The Teng ancestor is only 'Patriarch Teng' (藤老祖) here; his name Teng Huayuan is given in EP7.",
+    "Bai Zhan's name comes from Situ Nan's line 'Bai Zhan's master is the old man of Jimo' (13:48); the episode does not show which bandit is Bai Zhan by a card."
+  ]
+}

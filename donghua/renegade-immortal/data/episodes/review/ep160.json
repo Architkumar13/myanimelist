@@ -1,0 +1,82 @@
+{
+  "ep": 160,
+  "title": "The Third God Slaying War Chariot",
+  "summary": "Ta Shan leads Wang Lin to the Xuanyin Tripod and, alone, asks whether he is really an immortal; Wang Lin says no, and Ta Shan reveals that the tripod the clan has guarded for thirty thousand years is itself the source of the fog beasts that kill them, and begs him to lead the clan out in the immortals' name. Wang Lin explains that they are inside the belly of a giant beast that is itself a great restriction formation, with the fog as its source and the formation's eye where the fog comes out. The tripod spirit attacks with sound that strikes the soul, and Wang Lin glimpses a teleportation formation hidden under the tripod, but the clan head refuses to abandon their duty. Wang Lin settles near the tripod with Xu Liguo, the Mosquito Beast and the Thunder Toad on guard, binds the Ancient God Hide Armor to his soul against the tripod spirit, and takes a sealing rune from the hidden pouch of a captured Thunder Celestial Temple envoy's Nascent Soul, who also offers to lead him to the Allheaven Stone. After eight days he turns the rune into his own Heaven Seal. Wanting enough power to face any immortal behind the scheme, he refines a third God Slaying War Chariot, binds its beast to his life over seven trials, and wins, but its soul beast turns out to be a single butterfly.",
+  "events": [
+    "Ta Shan learns Wang Lin is not an immortal and reveals the tripod creates the fog beasts",
+    "Wang Lin explains they are inside a giant beast that is also a restriction formation",
+    "The tripod spirit attacks and a hidden teleportation formation is seen under the tripod",
+    "The clan head refuses to leave",
+    "Wang Lin binds the Ancient God Hide Armor to his soul",
+    "He takes a sealing rune from a captured envoy's soul and creates the Heaven Seal",
+    "He refines the third God Slaying War Chariot and subdues it over seven trials",
+    "Its soul beast turns out to be a butterfly"
+  ],
+  "introduced": [
+    "Xuanyin Tripod (seen)",
+    "Tripod spirit",
+    "Giant beast (its belly holds the fog land)",
+    "Heaven Seal",
+    "Third God Slaying War Chariot",
+    "Butterfly soul beast",
+    "Allheaven Stone location (offered)"
+  ],
+  "cultivation": "Wang Lin recalls the earlier chariots: the first could kill late Soul Formation when he was early Soul Formation, the second could shake early Ascendant when he was at Soul Transformation, and opening another seal at his peak let him fight Illusory Yin.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "ta-shan",
+      "name": "Ta Shan",
+      "first": false
+    },
+    {
+      "id": "zu-zhang",
+      "name": "Zu Zhang (clan head)",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Tripod spirit of the Xuanyin Tripod",
+      "quote": "[Roh Tripod, Tripod Xuanyin]",
+      "first": true,
+      "card": 326.47
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "mosquito-beast",
+      "name": "Mosquito Beast",
+      "first": false
+    },
+    {
+      "id": "thunder-toad",
+      "name": "Thunder Toad",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Butterfly, soul beast of the third God Slaying War Chariot",
+      "quote": "[Kupu-kupu, Binatang Jiwa Kereta Perang Pembunuh Dewa]",
+      "first": true,
+      "card": 1139.87
+    }
+  ],
+  "changes": [
+    "Only the Indonesian AnimeKhor track was available (no official English or Chinese yet).",
+    "EP160 is members-only on YouTube; official English may never arrive."
+  ],
+  "flags": [
+    "1163-1187: a voice asking 'humble commoners, why make trouble here?' and Wang Lin's 'I want to borrow this place to kill the Blood Ancestor' overlap a caption advertising the film 'Renegade Immortal: Battle of God Slaying' (premiere 1 October); probably a trailer, left out.",
+    "603-661: the captured Nascent Soul is identified only as a Thunder Celestial Temple envoy who carried a strand of golden hair; which envoy is not said.",
+    "The giant beast is just called 'the beast' (Sang Binatang Buas); its real name is unclear.",
+    "481-488: Xu Liguo calls himself 'Xiao Xuzi'."
+  ]
+}

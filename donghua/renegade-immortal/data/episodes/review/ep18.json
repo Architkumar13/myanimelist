@@ -1,0 +1,76 @@
+{
+  "ep": 18,
+  "title": "False Core and the Sea of Devils",
+  "summary": "Wang Lin is trapped in a formation by a Core Formation cultivator, kills him and takes his golden core. Absorbing a tenth of it lifts him from mid Foundation Establishment to the False Core stage, and Feng Luan gives him the second part of the map. News comes that the Nascent Souls guarding the Country-Locking Formation have been killed and the fire beasts are loose again. Feng Luan's daughter Zhou Zihong, who knows he is not the real Ma Liang, offers him the last map if he kills Xu Si and Zhou An, the pair who betrayed Ma Liang, and he kills them both. Fleeing the fire beasts, he saves Li Muwan of Luo He Sect from a mid Core Formation cultivator of the Dual Cultivation Sect and claims the half-finished Tianli Pill she carries. With her he crosses the border by Earth Escape into the cold, fog-covered Sea of Devils, where the fire beasts cannot follow. There he decides to dig a cave and form his core.",
+  "events": [
+    "A Core Formation cultivator traps Wang Lin in a formation; Wang Lin kills him and seizes his golden core",
+    "Absorbing a tenth of the core lifts Wang Lin to the False Core stage",
+    "Feng Luan gives him the second map",
+    "The Nascent Souls in the Country-Locking Formation are killed and the fire beasts break out",
+    "Zhou Zihong trades the last map for the deaths of Xu Si and Zhou An; Wang Lin kills them",
+    "Wang Lin saves Li Muwan from a Dual Cultivation Sect cultivator and learns she carries a half-finished Tianli Pill",
+    "The two flee by Earth Escape into the fog of the Sea of Devils"
+  ],
+  "introduced": [
+    "Sea of Devils",
+    "False Core stage",
+    "Dual Cultivation Sect",
+    "Blood-Devouring Demon Formation"
+  ],
+  "cultivation": "Wang Lin rises from mid Foundation Establishment to the False Core stage (a Foundation Establishment great perfection one step below Core Formation) after absorbing about 10% of a seized golden core. Li Muwan's attacker is at mid Core Formation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "False Core",
+      "quote": "The cultivation level has also climbed from the middle stage of foundation building to the false elixir realm.",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "feng-luan",
+      "name": "Feng Luan",
+      "first": false
+    },
+    {
+      "id": "zhou-zihong",
+      "name": "Zhou Zihong",
+      "first": false
+    },
+    {
+      "id": "xu-si",
+      "name": "Xu Si",
+      "first": false
+    },
+    {
+      "id": "zhou-an",
+      "name": "Zhou An",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles (machine-translated) checked against the AnimeKhor Indonesian fansubs; no Chinese track for this episode.",
+    "'false elixir/false alchemy stage' = False Core (假丹); 'Xiu Mohai / Sea of Demonic Cultivation' = Sea of Devils (修魔海); 'Shuangxiumen' = Dual Cultivation Sect.",
+    "Zhou Zihong says outright that Feng Luan is her mother."
+  ],
+  "flags": [
+    "05:01 'blood-devouring demonic formation' is how Wang Lin traps the core cultivator's soul; the exact name is uncertain.",
+    "15:12 'I want to go to the Fire Grave Alliance to find Yuan Bing' is garbled.",
+    "16:45 'This is the evil demon Han' is unclear."
+  ]
+}

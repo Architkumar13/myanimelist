@@ -1,0 +1,97 @@
+{
+  "ep": 126,
+  "title": "Fairy Tale",
+  "summary": "At the Cultivation Alliance, Huang Yu poses as a true immortal from the Upper Realm, the Immortal Ancestor, and Tianyun Sect disciple Qu Yichang greets Wang Lin as his junior brother and urges him to submit. Wang Lin kills two Immortal Guards and sees through Huang Yu, who only reached mid Ascendant with outside help; he feeds Huang Yu's immortal-beast feed to his Qilin, dodges the Immortal-Pointing Brush and the Immortal-Binding Net, and frees Sun Ruonan. Captured, Huang Yu admits he is a Lianyu Sect cultivator who found two storage bags of Immortal Realm treasures in a cave abode, one of which a couple stole. A jade slip in the bags, written by Celestial Emperor Qin Lin to his daughter Qing Shuang, Immortal Lord of the Rain Immortal Realm, describes the brush, the net, a scabbard for the Rain Immortal Sword and the low-grade immortal art Immobilization Technique, and Wang Lin wonders if Qing Shuang is the woman Zhou Yi loved. Seventy years later, as Thunder Demon and Water Demon forces strike at Sky Demon Country, Wang Lin freezes their Commanders-in-Chief for three breaths with the Immobilization Technique, then leaves for Fire Demon City and gathers a million strands of killing aura to break its ten-thousand-year demon barrier.",
+  "events": [
+    "Huang Yu poses as the Immortal Ancestor of the Cultivation Alliance",
+    "Qu Yichang meets Wang Lin and urges him to submit",
+    "Wang Lin kills two Immortal Guards and exposes Huang Yu",
+    "His Qilin eats the immortal-beast feed; Wang Lin beats the brush and the net",
+    "Sun Ruonan is freed and reunited with Sun Yunshan",
+    "Huang Yu confesses; Qin Lin's jade slip to Qing Shuang lists the treasures",
+    "Seventy years later Wang Lin stops the Thunder and Water Demon Commanders-in-Chief with the Immobilization Technique",
+    "He breaks the demon barrier of Fire Demon City with a million strands of killing aura"
+  ],
+  "introduced": [
+    "Huang Yu",
+    "Qu Yichang",
+    "Immortal-Pointing Brush (Celestial Brush)",
+    "Immortal-Binding Net",
+    "Immortal-beast feed",
+    "Qing Shuang (named)",
+    "Rain Immortal Realm",
+    "Rain Immortal Sword",
+    "Spirit-Offering Scabbard",
+    "Immobilization Technique",
+    "Lianyu Sect",
+    "Thunder Demon Commander-in-Chief",
+    "Water Demon Commander-in-Chief",
+    "Fire Demon City"
+  ],
+  "cultivation": "Huang Yu: mid Ascendant (reached with outside help). Immortal Guards: early Ascendant. Qu Yichang: late Soul Transformation. Thunder and Water Demon Commanders-in-Chief: early Ascendant. Even a lower-grade true Immortal Guard equals a great perfection Ascendant.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "huang-yu",
+      "name": "Huang Yu",
+      "realm": "mid Ascendant",
+      "quote": "[Huang Yu, Leluhur Abadi dari Aliansi Kultivator, Tahap Ascendant Menengah]",
+      "first": true,
+      "card": 94.5
+    },
+    {
+      "id": "qu-yichang",
+      "name": "Qu Yichang",
+      "realm": "late Soul Transformation",
+      "quote": "[Qu Yichang, Murid Sekte Tianyun, Fraksi Lan, Tahap Transformasi Jiwa Akhir]",
+      "first": true,
+      "card": 138.5
+    },
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "sun-yunshan",
+      "name": "Sun Yunshan",
+      "first": false
+    },
+    {
+      "id": "sun-ruonan",
+      "name": "Sun Ruonan",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "commander-in-chief-lei",
+      "name": "Commander-in-Chief Lei",
+      "realm": "early Ascendant",
+      "quote": "[Marsekal Iblis Petir, Tahap Awal Ascendant]",
+      "first": true,
+      "card": 1158.6
+    },
+    {
+      "id": "commander-in-chief-shui",
+      "name": "Commander-in-Chief Shui",
+      "realm": "early Ascendant",
+      "quote": "[Marsekal Iblis Air, Tahap Awal Ascendant]",
+      "first": true,
+      "card": 1178.6
+    }
+  ],
+  "changes": [
+    "Sources: AnimeKhor Indonesian fansub and the official YouTube English track (clear).",
+    "Celestial Brush (点仙笔) is the glossary name; the official English says Immortal-Pointing Brush / Dianxian Brush.",
+    "Thunder and Water Demon Commanders-in-Chief follow the glossary's Commander-in-Chief Lei / Shui."
+  ],
+  "flags": [
+    "Qu Yichang's realm differs: fansub card late Soul Transformation (138s), official card late Nascent Soul.",
+    "The fansub card for the Cultivation Alliance reads 'Aliansi Petani' (46s, 'Farmers' Alliance'), a machine slip.",
+    "Xu Liguo is the 'Little Xuzi' who chases the brush back for Wang Lin (official 909s)."
+  ]
+}

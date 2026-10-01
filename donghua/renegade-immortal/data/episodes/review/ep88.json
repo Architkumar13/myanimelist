@@ -1,0 +1,59 @@
+{
+  "ep": 88,
+  "title": "Dun Tian's Three Gifts",
+  "summary": "Wang Lin's challenge pulls out the Soul Refining Sect's nine Soul Formation elders and then Ancestor Dun Tian, who already knows he is Zeng Niu and drives Liu Mei out of the sect with the Billion Soul Flag. Dun Tian gives Wang Lin three gifts: Soul Transformation pressure to restore his divine sense, souls from the flag that lift his clone to late Soul Formation, and a draw on the flag's power that his real Ancient God body also absorbs. Inside the Blood Ring, Dun Tian explains that Suzaku Country has crushed every level 5 country that came close to level 6, including the Soul Refining Sect, and that Yun Quezi named Wang Lin one of his four Suzaku heirs. Dun Tian makes Wang Lin the sect's only core disciple, gives him the Soul Sealing Technique and the method to control the Billion Soul Flag, and promises to protect him for ten years. Wang Lin's real body, now a three-star Ancient God, absorbs wood essence, so the Heaven Defying Bead lacks only metal. Wang Lin then swears revenge on Li Yuanfeng, the Giant Demon Clan ancestor and Sun Tai, and appears before Li Yuanfeng.",
+  "events": [
+    "The nine Soul Formation elders come down; Dun Tian comes out of seclusion",
+    "Dun Tian expels Liu Mei with the Billion Soul Flag",
+    "Dun Tian's pressure restores Wang Lin's divine sense to mid Soul Formation",
+    "Soul power from the flag lifts the clone to late Soul Formation; the real body absorbs too",
+    "Dun Tian tells the history of the Forsaken Immortal war and Suzaku Country's policy against level 6 rivals",
+    "He names Wang Lin the sect's sole core disciple and gives him the Soul Sealing Technique",
+    "Wang Lin's real body is a three-star Ancient God; the bead needs only metal",
+    "Wang Lin confronts Li Yuanfeng"
+  ],
+  "introduced": [
+    "Dun Tian (on screen)",
+    "Blood Ring",
+    "Soul Sealing Technique",
+    "Suzaku Mountain",
+    "level 5/level 6 cultivation countries"
+  ],
+  "cultivation": "Dun Tian: peak Soul Transformation; with the Billion Soul Flag he can face an Ascendant. Wang Lin's clone reaches late Soul Formation in spiritual power, while his insight stays at mid Soul Formation. His real body is a three-star Ancient God.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "late Soul Formation (clone); 3-star Ancient God (real body)",
+      "quote": "[Tubuh Klon Wang Lin, Tahap Transformasi Dewa Akhir] / [Tubuh Utama Wang Lin, Dewa Kuno Bintang 3]",
+      "first": false,
+      "card": 642.24
+    },
+    {
+      "id": "dun-tian",
+      "name": "Dun Tian",
+      "realm": "peak Soul Transformation",
+      "quote": "Saya, di Tahap Transformasi Jiwa Puncak, berani menantang seseorang di Tahap Ascendant.",
+      "first": true
+    },
+    {
+      "id": "liu-mei",
+      "name": "Liu Mei",
+      "first": false
+    },
+    {
+      "id": "li-yuanfeng",
+      "name": "Li Yuanfeng",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Dun Tian is not named aloud in this episode; he is identified from EP86, the EP88 YouTube title and his own lines.",
+    "Only the AnimeKhor Indonesian fansub (ep88.id.srt) was available; no official YouTube en/zh track for this episode yet."
+  ],
+  "flags": [
+    "Dun Tian says Suzaku Country has fewer than ten level 5 countries (831s) and that six sects became the first level 5 countries; the numbers are reported as stated.",
+    "'Kakak laki-laki saya yang ke-36' (1029s): Dun Tian's senior brother was the 36th Soul Transformation soul in the flag."
+  ]
+}

@@ -1,0 +1,1954 @@
+{
+ "fourth-uncle": {
+  "0": {
+   "kind": "ak",
+   "ep": 1,
+   "t": 594.0,
+   "manual": true
+  }
+ },
+ "huang-long": {
+  "0": {
+   "kind": "ak",
+   "ep": 1,
+   "t": 962.0,
+   "focus": [
+    0.506,
+    0.385,
+    0.271
+   ],
+   "manual": true
+  }
+ },
+ "situ-nan": {
+  "0": {
+   "kind": "ak",
+   "ep": 1,
+   "t": 123.5,
+   "focus": [
+    0.545,
+    0.281,
+    0.326
+   ],
+   "manual": true
+  },
+  "1": {
+   "kind": "ak",
+   "ep": 1,
+   "t": 2015.5,
+   "manual": true
+  },
+  "2": {
+   "kind": "ak",
+   "ep": 98,
+   "t": 436.9,
+   "focus": [
+    0.501,
+    0.428,
+    0.496
+   ],
+   "manual": true
+  }
+ },
+ "wang-hao": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Young-wang-hao-e481c0.png"
+  }
+ },
+ "wang-lin": {
+  "0": {
+   "kind": "ak",
+   "ep": 1,
+   "t": 2020.5,
+   "focus": [
+    0.211,
+    0.361,
+    0.394
+   ],
+   "manual": true
+  },
+  "1": {
+   "kind": "ak",
+   "ep": 16,
+   "t": 803.5,
+   "manual": true
+  },
+  "2": {
+   "kind": "ak",
+   "ep": 36,
+   "t": 1025.0,
+   "manual": true
+  }
+ },
+ "wang-tianshui": {
+  "0": {
+   "kind": "ak",
+   "ep": 1,
+   "t": 603.0,
+   "focus": [
+    0.371,
+    0.377,
+    0.684
+   ],
+   "manual": true
+  }
+ },
+ "wang-zhuo": {
+  "0": {
+   "kind": "ak",
+   "ep": 1,
+   "t": 785.0,
+   "focus": [
+    0.519,
+    0.417,
+    0.281
+   ],
+   "manual": true
+  },
+  "1": {
+   "kind": "ak",
+   "ep": 62,
+   "t": 842.6,
+   "focus": [
+    0.608,
+    0.247,
+    0.331
+   ],
+   "manual": true
+  }
+ },
+ "wang-lin-mother": {
+  "0": {
+   "kind": "ak",
+   "ep": 1,
+   "t": 1617.0,
+   "focus": [
+    0.35,
+    0.548,
+    0.521
+   ],
+   "manual": true
+  }
+ },
+ "sun-dazhu": {
+  "0": {
+   "kind": "ak",
+   "ep": 1,
+   "t": 3183.0,
+   "focus": [
+    0.481,
+    0.407,
+    0.409
+   ],
+   "manual": true
+  }
+ },
+ "zhang-hu": {
+  "0": {
+   "kind": "ak",
+   "ep": 1,
+   "t": 1715.0,
+   "focus": [
+    0.432,
+    0.403,
+    0.298
+   ],
+   "manual": true
+  }
+ },
+ "zhang-kuang": {
+  "0": {
+   "kind": "ak",
+   "ep": 46,
+   "t": 797.2,
+   "focus": [
+    0.499,
+    0.488,
+    0.41
+   ],
+   "manual": true
+  }
+ },
+ "li-muwan": {
+  "0": {
+   "kind": "ak",
+   "ep": 40,
+   "t": 453.3,
+   "focus": [
+    0.499,
+    0.384,
+    0.633
+   ],
+   "manual": true
+  }
+ },
+ "li-qiqing": {
+  "0": {
+   "kind": "ak",
+   "ep": 1,
+   "t": 3291.0,
+   "manual": true
+  }
+ },
+ "lu-song": {
+  "0": {
+   "kind": "ak",
+   "ep": 1,
+   "t": 3339.0,
+   "manual": true
+  }
+ },
+ "ouyang": {
+  "0": {
+   "kind": "ak",
+   "ep": 1,
+   "t": 2746.5,
+   "focus": [
+    0.647,
+    0.248,
+    0.21
+   ],
+   "manual": true
+  }
+ },
+ "zhou-peng": {
+  "0": {
+   "kind": "ak",
+   "ep": 1,
+   "t": 3459.0,
+   "manual": true
+  }
+ },
+ "pu-nanzi": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Punnan_Zi-7e52ca.jpg"
+  }
+ },
+ "bai-zhan": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Bai_Zhan_1-6b6953.jpg"
+  }
+ },
+ "ji-mo": {
+  "0": {
+   "kind": "ak",
+   "ep": 47,
+   "t": 729.0,
+   "focus": [
+    0.518,
+    0.543,
+    0.698
+   ],
+   "manual": true
+  }
+ },
+ "teng-huayuan": {
+  "0": {
+   "kind": "ak",
+   "ep": 48,
+   "t": 295.4,
+   "focus": [
+    0.5,
+    0.303,
+    0.328
+   ],
+   "manual": true
+  }
+ },
+ "teng-li": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Teng_Li_1-57d26a.jpg"
+  }
+ },
+ "adai": {
+  "0": {
+   "kind": "ak",
+   "ep": 98,
+   "t": 579.4,
+   "focus": [
+    0.625,
+    0.318,
+    0.235
+   ],
+   "manual": true
+  }
+ },
+ "wu-yu": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Wu_Yu1-e3af81.png"
+  }
+ },
+ "gao-qiming": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Screenshot_20250807_000558_Chrome-ffb6a8.jpg"
+  }
+ },
+ "lin-yi": {
+  "0": {
+   "kind": "ak",
+   "ep": 48,
+   "t": 326.6,
+   "focus": [
+    0.535,
+    0.41,
+    0.523
+   ],
+   "manual": true
+  }
+ },
+ "ye-zizai": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Ye_Zi_7-923fcb.jpg"
+  }
+ },
+ "ge-yang": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Ge_Yang-b990bd.png"
+  }
+ },
+ "ma-liang": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Ma_Liang-9eb3ed.png"
+  }
+ },
+ "xu-hao": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Xu_Hao-1c8800.png"
+  }
+ },
+ "zhou-zihong": {
+  "0": {
+   "kind": "none"
+  }
+ },
+ "lin-tao": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Lin_Tao-3d3a17.png"
+  }
+ },
+ "xu-liguo": {
+  "0": {
+   "kind": "ak",
+   "ep": 14,
+   "t": 568.5,
+   "focus": [
+    0.487,
+    0.377,
+    0.223
+   ],
+   "manual": true
+  }
+ },
+ "sun-youcai": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Sun_Youcai-a8fa8b.png"
+  }
+ },
+ "feng-luan": {
+  "0": {
+   "kind": "ak",
+   "ep": 16,
+   "t": 802.5,
+   "manual": true
+  }
+ },
+ "qian-kun": {
+  "0": {
+   "kind": "ak",
+   "ep": 37,
+   "t": 292.0,
+   "focus": [
+    0.582,
+    0.501,
+    0.687
+   ],
+   "manual": true
+  }
+ },
+ "mu-bei": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Mu_Bei-2f4477.png"
+  }
+ },
+ "mu-nan": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Mu_Nan-6c978a.png"
+  }
+ },
+ "shangguan-mo": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Shangguan_Mo-db9ca8.png"
+  }
+ },
+ "xue-ming": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Xue_Ming-d9df0d.png"
+  }
+ },
+ "jie-donglai": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Jie_Donglai-acdf72.png"
+  }
+ },
+ "duanmu-ji": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Duanmu_Ji_7-caf697.jpg"
+  }
+ },
+ "xu-liqing": {
+  "0": {
+   "kind": "ak",
+   "ep": 26,
+   "t": 850.1,
+   "focus": [
+    0.514,
+    0.415,
+    0.573
+   ],
+   "manual": true
+  }
+ },
+ "hunchback-meng": {
+  "0": {
+   "kind": "ak",
+   "ep": 33,
+   "t": 267.0,
+   "focus": [
+    0.493,
+    0.365,
+    0.187
+   ],
+   "manual": true
+  }
+ },
+ "tu-si": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Tu_Si_7-80cfd1.jpg"
+  }
+ },
+ "sky-devil-magician": {
+  "0": {
+   "kind": "ak",
+   "ep": 33,
+   "t": 509.5,
+   "focus": [
+    0.496,
+    0.252,
+    0.317
+   ],
+   "manual": true
+  }
+ },
+ "duomu": {
+  "0": {
+   "kind": "ak",
+   "ep": 34,
+   "t": 559.5,
+   "focus": [
+    0.538,
+    0.384,
+    0.413
+   ],
+   "manual": true
+  }
+ },
+ "tuo-sen": {
+  "0": {
+   "kind": "ak",
+   "ep": 36,
+   "t": 423.0,
+   "focus": [
+    0.5,
+    0.693,
+    0.662
+   ],
+   "manual": true
+  },
+  "1": {
+   "kind": "none"
+  }
+ },
+ "mo-yun": {
+  "0": {
+   "kind": "ak",
+   "ep": 37,
+   "t": 290.0,
+   "focus": [
+    0.493,
+    0.387,
+    0.629
+   ],
+   "manual": true
+  }
+ },
+ "qiu-siping": {
+  "0": {
+   "kind": "ak",
+   "ep": 38,
+   "t": 196.0,
+   "focus": [
+    0.474,
+    0.322,
+    0.312
+   ],
+   "manual": true
+  }
+ },
+ "cheng-ling": {
+  "0": {
+   "kind": "ak",
+   "ep": 39,
+   "t": 378.6,
+   "focus": [
+    0.199,
+    0.373,
+    0.184
+   ],
+   "manual": true
+  }
+ },
+ "song-qing": {
+  "0": {
+   "kind": "ak",
+   "ep": 39,
+   "t": 965.4,
+   "focus": [
+    0.412,
+    0.34,
+    0.388
+   ],
+   "manual": true
+  }
+ },
+ "sun-zhenwei": {
+  "0": {
+   "kind": "ak",
+   "ep": 39,
+   "t": 1008.9,
+   "focus": [
+    0.513,
+    0.449,
+    0.601
+   ],
+   "manual": true
+  }
+ },
+ "zhou-lin": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Zhou_Lin_7-60a937.jpg"
+  }
+ },
+ "cheng-xian": {
+  "0": {
+   "kind": "ak",
+   "ep": 40,
+   "t": 337.6,
+   "manual": true
+  }
+ },
+ "sun-lingwu": {
+  "0": {
+   "kind": "ak",
+   "ep": 41,
+   "t": 714.0,
+   "focus": [
+    0.489,
+    0.328,
+    0.417
+   ],
+   "manual": true
+  }
+ },
+ "lu-fei": {
+  "0": {
+   "kind": "ak",
+   "ep": 42,
+   "t": 928.9,
+   "focus": [
+    0.512,
+    0.268,
+    0.122
+   ],
+   "manual": true
+  }
+ },
+ "ouyang-zi": {
+  "0": {
+   "kind": "ak",
+   "ep": 42,
+   "t": 1063.0,
+   "focus": [
+    0.538,
+    0.223,
+    0.15
+   ],
+   "manual": true
+  }
+ },
+ "liu-fei": {
+  "0": {
+   "kind": "ak",
+   "ep": 43,
+   "t": 938.0,
+   "focus": [
+    0.509,
+    0.401,
+    0.326
+   ],
+   "manual": true
+  }
+ },
+ "mosquito-beast": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/The_Mosquito_Beast-c97536.jpg"
+  }
+ },
+ "wu-cunsu": {
+  "0": {
+   "kind": "ak",
+   "ep": 47,
+   "t": 201.5,
+   "focus": [
+    0.777,
+    0.259,
+    0.822
+   ],
+   "manual": true
+  }
+ },
+ "teng-jiu": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Teng9-2d0462.jpeg"
+  }
+ },
+ "teng-er": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Teng_Er-7f940b.png"
+  }
+ },
+ "teng-san": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Teng_San-e8c5aa.png"
+  }
+ },
+ "teng-xiu-xiu": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Teng_Xiuxiu-651544.jpg"
+  }
+ },
+ "teng-yi": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Teng_Yi-cf81f6.png"
+  }
+ },
+ "na-duo": {
+  "0": {
+   "kind": "ak",
+   "ep": 53,
+   "t": 221.5,
+   "focus": [
+    0.569,
+    0.255,
+    0.168
+   ],
+   "manual": true
+  }
+ },
+ "old-man": {
+  "0": {
+   "kind": "ak",
+   "ep": 53,
+   "t": 949.5,
+   "focus": [
+    0.35,
+    0.345,
+    0.33
+   ],
+   "manual": true
+  }
+ },
+ "xu-tao": {
+  "0": {
+   "kind": "ak",
+   "ep": 54,
+   "t": 747.0,
+   "focus": [
+    0.577,
+    0.401,
+    0.618
+   ],
+   "manual": true
+  }
+ },
+ "zeng-daniu": {
+  "0": {
+   "kind": "ak",
+   "ep": 54,
+   "t": 380.0,
+   "focus": [
+    0.488,
+    0.335,
+    0.43
+   ],
+   "manual": true
+  }
+ },
+ "wen-baoxin": {
+  "0": {
+   "kind": "ak",
+   "ep": 55,
+   "t": 1087.5,
+   "focus": [
+    0.504,
+    0.251,
+    0.18
+   ],
+   "manual": true
+  }
+ },
+ "yi-fu": {
+  "0": {
+   "kind": "ak",
+   "ep": 56,
+   "t": 942.2,
+   "manual": true
+  }
+ },
+ "zeng-xiaoniu": {
+  "0": {
+   "kind": "ak",
+   "ep": 56,
+   "t": 886.1,
+   "focus": [
+    0.538,
+    0.354,
+    0.356
+   ],
+   "manual": true
+  }
+ },
+ "zhou-wutai": {
+  "0": {
+   "kind": "ak",
+   "ep": 56,
+   "t": 1110.9,
+   "focus": [
+    0.502,
+    0.532,
+    0.196
+   ],
+   "manual": true
+  }
+ },
+ "all-seer": {
+  "0": {
+   "kind": "ak",
+   "ep": 57,
+   "t": 975.0,
+   "focus": [
+    0.522,
+    0.302,
+    0.327
+   ],
+   "manual": true
+  }
+ },
+ "hongdie": {
+  "0": {
+   "kind": "ak",
+   "ep": 59,
+   "t": 1160.9,
+   "manual": true
+  },
+  "1": {
+   "kind": "ak",
+   "ep": 77,
+   "t": 638.0,
+   "focus": [
+    0.521,
+    0.364,
+    0.242
+   ],
+   "manual": true
+  },
+  "2": {
+   "kind": "ak",
+   "ep": 100,
+   "t": 672.0,
+   "focus": [
+    0.514,
+    0.426,
+    0.499
+   ],
+   "manual": true
+  }
+ },
+ "zhou-yun": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Screenshot_20250809_140152_Chrome-101faf.jpg"
+  }
+ },
+ "sun-shuoyi": {
+  "0": {
+   "kind": "ak",
+   "ep": 61,
+   "t": 420.5,
+   "focus": [
+    0.524,
+    0.315,
+    0.386
+   ],
+   "manual": true
+  }
+ },
+ "mo-zhi": {
+  "0": {
+   "kind": "ak",
+   "ep": 62,
+   "t": 275.7,
+   "focus": [
+    0.541,
+    0.389,
+    0.356
+   ],
+   "manual": true
+  }
+ },
+ "thunder-toad": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Thundertoad-d5fc16.png"
+  }
+ },
+ "chi-hu": {
+  "0": {
+   "kind": "ak",
+   "ep": 64,
+   "t": 272.0,
+   "focus": [
+    0.497,
+    0.216,
+    0.189
+   ],
+   "manual": true
+  }
+ },
+ "sun-tai": {
+  "0": {
+   "kind": "ak",
+   "ep": 64,
+   "t": 303.2,
+   "focus": [
+    0.348,
+    0.18,
+    0.157
+   ],
+   "manual": true
+  }
+ },
+ "zhan-bai": {
+  "0": {
+   "kind": "ak",
+   "ep": 64,
+   "t": 324.5,
+   "focus": [
+    0.521,
+    0.35,
+    0.509
+   ],
+   "manual": true
+  }
+ },
+ "zhou-yi": {
+  "0": {
+   "kind": "ak",
+   "ep": 64,
+   "t": 306.1,
+   "focus": [
+    0.426,
+    0.126,
+    0.194
+   ],
+   "manual": true
+  }
+ },
+ "sun-lei": {
+  "0": {
+   "kind": "ak",
+   "ep": 65,
+   "t": 1108.4,
+   "focus": [
+    0.467,
+    0.284,
+    0.625
+   ],
+   "manual": true
+  }
+ },
+ "ting-er": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Tinger3-ba21ee.png"
+  }
+ },
+ "ling-tianhou": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Screenshot_20250908_192231_Chrome-03e860.jpg"
+  }
+ },
+ "tian-mozi": {
+  "0": {
+   "kind": "ak",
+   "ep": 71,
+   "t": 241.8,
+   "focus": [
+    0.421,
+    0.369,
+    0.205
+   ],
+   "manual": true
+  }
+ },
+ "gongsun-fan": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Screenshot_20250810_162348_Chrome-d9af5c.jpg"
+  }
+ },
+ "tie-yan": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Tie_yan-01d3bb.jpg"
+  }
+ },
+ "zi-xin": {
+  "0": {
+   "kind": "ak",
+   "ep": 74,
+   "t": 1306.6,
+   "focus": [
+    0.564,
+    0.179,
+    0.122
+   ],
+   "manual": true
+  }
+ },
+ "sun-dian": {
+  "0": {
+   "kind": "ak",
+   "ep": 75,
+   "t": 202.3,
+   "focus": [
+    0.496,
+    0.5,
+    0.675
+   ],
+   "manual": true
+  }
+ },
+ "zhou-ru": {
+  "0": {
+   "kind": "ak",
+   "ep": 77,
+   "t": 315.2,
+   "manual": true
+  },
+  "1": {
+   "kind": "ak",
+   "ep": 80,
+   "t": 907.5,
+   "manual": true
+  },
+  "2": {
+   "kind": "ak",
+   "ep": 91,
+   "t": 579.0,
+   "manual": true
+  }
+ },
+ "chi-mu": {
+  "0": {
+   "kind": "ak",
+   "ep": 78,
+   "t": 1236.4,
+   "focus": [
+    0.519,
+    0.265,
+    0.1
+   ],
+   "manual": true
+  }
+ },
+ "mu-ye": {
+  "0": {
+   "kind": "ak",
+   "ep": 79,
+   "t": 456.4,
+   "manual": true
+  }
+ },
+ "li-yuanfeng": {
+  "0": {
+   "kind": "ak",
+   "ep": 80,
+   "t": 1255.5,
+   "focus": [
+    0.522,
+    0.28,
+    0.185
+   ],
+   "manual": true
+  }
+ },
+ "liu-mei": {
+  "0": {
+   "kind": "ak",
+   "ep": 81,
+   "t": 582.0,
+   "focus": [
+    0.31,
+    0.339,
+    0.293
+   ],
+   "manual": true
+  },
+  "1": {
+   "kind": "ak",
+   "ep": 135,
+   "t": 905.1,
+   "focus": [
+    0.499,
+    0.413,
+    0.273
+   ],
+   "manual": true
+  }
+ },
+ "qian-feng": {
+  "0": {
+   "kind": "ak",
+   "ep": 81,
+   "t": 581.5,
+   "focus": [
+    0.72,
+    0.369,
+    0.356
+   ],
+   "manual": true
+  }
+ },
+ "zhu-quezi": {
+  "0": {
+   "kind": "ak",
+   "ep": 81,
+   "t": 551.4,
+   "focus": [
+    0.5,
+    0.26,
+    0.143
+   ],
+   "manual": true
+  }
+ },
+ "yun-quezi": {
+  "0": {
+   "kind": "ak",
+   "ep": 97,
+   "t": 415.6,
+   "focus": [
+    0.523,
+    0.351,
+    0.485
+   ],
+   "manual": true
+  }
+ },
+ "giant-demon-clan-ancestor": {
+  "0": {
+   "kind": "ak",
+   "ep": 83,
+   "t": 313.0,
+   "focus": [
+    0.494,
+    0.336,
+    0.201
+   ],
+   "manual": true
+  }
+ },
+ "dun-tian": {
+  "0": {
+   "kind": "ak",
+   "ep": 88,
+   "t": 274.8,
+   "focus": [
+    0.394,
+    0.422,
+    0.571
+   ],
+   "manual": true
+  }
+ },
+ "mei-ji": {
+  "0": {
+   "kind": "ak",
+   "ep": 91,
+   "t": 225.9,
+   "focus": [
+    0.485,
+    0.209,
+    0.136
+   ],
+   "manual": true
+  }
+ },
+ "ancestor-xu": {
+  "0": {
+   "kind": "ak",
+   "ep": 93,
+   "t": 215.0,
+   "focus": [
+    0.535,
+    0.371,
+    0.375
+   ],
+   "manual": true
+  }
+ },
+ "cui-zhi": {
+  "0": {
+   "kind": "ak",
+   "ep": 94,
+   "t": 664.5,
+   "focus": [
+    0.468,
+    0.314,
+    0.256
+   ],
+   "manual": true
+  }
+ },
+ "yun-yimo": {
+  "0": {
+   "kind": "ak",
+   "ep": 96,
+   "t": 520.1,
+   "focus": [
+    0.488,
+    0.369,
+    0.43
+   ],
+   "manual": true
+  }
+ },
+ "cao-yidou": {
+  "0": {
+   "kind": "ak",
+   "ep": 97,
+   "t": 824.2,
+   "focus": [
+    0.53,
+    0.403,
+    0.402
+   ],
+   "manual": true
+  }
+ },
+ "qian-pinghai": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Qian_Pinghai__1-46aa49.png"
+  }
+ },
+ "tuo-sen-puppet": {
+  "0": {
+   "kind": "ak",
+   "ep": 100,
+   "t": 1022.0,
+   "focus": [
+    0.508,
+    0.366,
+    0.201
+   ],
+   "manual": true
+  }
+ },
+ "ye-wuyou": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Ye_wuyou1-2c6713.png"
+  }
+ },
+ "bai-wei": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Screenshot_20250824_175240_Chrome-078f2a.jpg"
+  }
+ },
+ "zhao-xingsha": {
+  "0": {
+   "kind": "ak",
+   "ep": 104,
+   "t": 142.7,
+   "focus": [
+    0.528,
+    0.394,
+    0.455
+   ],
+   "manual": true
+  }
+ },
+ "zhao-xinmeng": {
+  "0": {
+   "kind": "ak",
+   "ep": 104,
+   "t": 911.6,
+   "focus": [
+    0.519,
+    0.371,
+    0.296
+   ],
+   "manual": true
+  }
+ },
+ "zhou-wan": {
+  "0": {
+   "kind": "ak",
+   "ep": 104,
+   "t": 171.0,
+   "focus": [
+    0.48,
+    0.376,
+    0.293
+   ],
+   "manual": true
+  }
+ },
+ "chi-lie": {
+  "0": {
+   "kind": "ak",
+   "ep": 105,
+   "t": 777.1,
+   "focus": [
+    0.709,
+    0.237,
+    0.349
+   ],
+   "manual": true
+  }
+ },
+ "kunpeng-zi": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Screenshot_20250914_155135_YouTube-cb9daa.jpg"
+  }
+ },
+ "sun-zhongan": {
+  "0": {
+   "kind": "ak",
+   "ep": 106,
+   "t": 679.0,
+   "focus": [
+    0.496,
+    0.346,
+    0.306
+   ],
+   "manual": true
+  }
+ },
+ "chen-tao": {
+  "0": {
+   "kind": "ak",
+   "ep": 107,
+   "t": 532.7,
+   "focus": [
+    0.582,
+    0.504,
+    0.726
+   ],
+   "manual": true
+  }
+ },
+ "lu-songyi": {
+  "0": {
+   "kind": "ak",
+   "ep": 108,
+   "t": 932.7,
+   "focus": [
+    0.17,
+    0.405,
+    0.262
+   ],
+   "manual": true
+  }
+ },
+ "qian-qin": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Screenshot_20250928_160130_YouTube-f137c3.jpg"
+  }
+ },
+ "sun-ruonan": {
+  "0": {
+   "kind": "ak",
+   "ep": 109,
+   "t": 490.4,
+   "focus": [
+    0.61,
+    0.362,
+    0.18
+   ],
+   "manual": true
+  }
+ },
+ "sun-yunshan": {
+  "0": {
+   "kind": "ak",
+   "ep": 109,
+   "t": 467.5,
+   "manual": true
+  }
+ },
+ "tan-lang": {
+  "0": {
+   "kind": "ak",
+   "ep": 109,
+   "t": 366.1,
+   "focus": [
+    0.586,
+    0.423,
+    0.321
+   ],
+   "manual": true
+  }
+ },
+ "yao-xixue": {
+  "0": {
+   "kind": "ak",
+   "ep": 109,
+   "t": 560.4,
+   "focus": [
+    0.339,
+    0.338,
+    0.293
+   ],
+   "manual": true
+  }
+ },
+ "ouyang-hua": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Ouyang_hua-57cd3c.png"
+  }
+ },
+ "shi-san": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Screenshot_20251012_170936_YouTube-1c3fd7.jpg"
+  }
+ },
+ "hu-pao": {
+  "0": {
+   "kind": "ak",
+   "ep": 123,
+   "t": 398.0,
+   "focus": [
+    0.47,
+    0.471,
+    0.357
+   ],
+   "manual": true
+  }
+ },
+ "mo-lihai": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Mo_Lihai_2-a1df23.jpg"
+  }
+ },
+ "sima-yan": {
+  "0": {
+   "kind": "ak",
+   "ep": 113,
+   "t": 256.1,
+   "focus": [
+    0.519,
+    0.359,
+    0.155
+   ],
+   "manual": true
+  }
+ },
+ "ming-yuan": {
+  "0": {
+   "kind": "ak",
+   "ep": 122,
+   "t": 968.5,
+   "focus": [
+    0.525,
+    0.25,
+    0.162
+   ],
+   "manual": true
+  }
+ },
+ "scattered-devil": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/San_Mo-5450bb.png"
+  },
+  "1": {
+   "kind": "ak",
+   "ep": 124,
+   "t": 258.2,
+   "focus": [
+    0.583,
+    0.293,
+    0.299
+   ],
+   "manual": true
+  }
+ },
+ "shi-xiao": {
+  "0": {
+   "kind": "ak",
+   "ep": 116,
+   "t": 714.0,
+   "focus": [
+    0.635,
+    0.456,
+    0.491
+   ],
+   "manual": true
+  }
+ },
+ "xu-huichuan": {
+  "0": {
+   "kind": "ak",
+   "ep": 116,
+   "t": 1003.5,
+   "focus": [
+    0.496,
+    0.338,
+    0.238
+   ],
+   "manual": true
+  }
+ },
+ "emperor-sword-spirit": {
+  "0": {
+   "kind": "ak",
+   "ep": 117,
+   "t": 793.5,
+   "manual": true
+  },
+  "1": {
+   "kind": "ak",
+   "ep": 118,
+   "t": 30.0,
+   "focus": [
+    0.458,
+    0.268,
+    0.254
+   ],
+   "manual": true
+  }
+ },
+ "mo-fei": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Mo_Fei_Unmasked-dbf579.jpg"
+  }
+ },
+ "wei-yang": {
+  "0": {
+   "kind": "ak",
+   "ep": 117,
+   "t": 826.0,
+   "focus": [
+    0.655,
+    0.338,
+    0.263
+   ],
+   "manual": true
+  }
+ },
+ "gu-yunchi": {
+  "0": {
+   "kind": "ak",
+   "ep": 118,
+   "t": 16.0,
+   "focus": [
+    0.553,
+    0.398,
+    0.301
+   ],
+   "manual": true
+  }
+ },
+ "vice-commander-xuan": {
+  "0": {
+   "kind": "ak",
+   "ep": 118,
+   "t": 365.0,
+   "focus": [
+    0.534,
+    0.302,
+    0.43
+   ],
+   "manual": true
+  }
+ },
+ "jin-wuxu": {
+  "0": {
+   "kind": "ak",
+   "ep": 119,
+   "t": 75.0,
+   "focus": [
+    0.366,
+    0.303,
+    0.196
+   ],
+   "manual": true
+  }
+ },
+ "vice-commander-huang": {
+  "0": {
+   "kind": "ak",
+   "ep": 119,
+   "t": 102.5,
+   "manual": true
+  }
+ },
+ "bei-lou": {
+  "0": {
+   "kind": "ak",
+   "ep": 121,
+   "t": 656.0,
+   "manual": true
+  }
+ },
+ "blood-ancestor": {
+  "0": {
+   "kind": "ak",
+   "ep": 121,
+   "t": 130.0,
+   "focus": [
+    0.521,
+    0.285,
+    0.158
+   ],
+   "manual": true
+  }
+ },
+ "huang-yu": {
+  "0": {
+   "kind": "ak",
+   "ep": 126,
+   "t": 93.5,
+   "focus": [
+    0.689,
+    0.676,
+    0.568
+   ],
+   "manual": true
+  }
+ },
+ "fire-demon": {
+  "0": {
+   "kind": "ak",
+   "ep": 127,
+   "t": 173.3,
+   "focus": [
+    0.549,
+    0.319,
+    0.292
+   ],
+   "manual": true
+  }
+ },
+ "chen-long": {
+  "0": {
+   "kind": "ak",
+   "ep": 128,
+   "t": 89.5,
+   "focus": [
+    0.399,
+    0.553,
+    0.56
+   ],
+   "manual": true
+  }
+ },
+ "du-jian": {
+  "0": {
+   "kind": "ak",
+   "ep": 128,
+   "t": 225.7,
+   "manual": true
+  },
+  "1": {
+   "kind": "file",
+   "path": "site/img/wiki/Dujian_guard-37e73c.png"
+  }
+ },
+ "hu-juan": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/HuJuan-1c1427.jpg"
+  }
+ },
+ "wang-wei": {
+  "0": {
+   "kind": "ak",
+   "ep": 129,
+   "t": 826.5,
+   "focus": [
+    0.338,
+    0.42,
+    0.464
+   ],
+   "manual": true
+  }
+ },
+ "sun-yun": {
+  "0": {
+   "kind": "none"
+  }
+ },
+ "ran-xuefeng": {
+  "0": {
+   "kind": "ak",
+   "ep": 133,
+   "t": 314.9,
+   "focus": [
+    0.448,
+    0.087,
+    0.143
+   ],
+   "manual": true
+  }
+ },
+ "sun-ling": {
+  "0": {
+   "kind": "ak",
+   "ep": 133,
+   "t": 369.8,
+   "focus": [
+    0.49,
+    0.328,
+    0.186
+   ],
+   "manual": true
+  }
+ },
+ "sun-xi": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Sun_ancestor-2deb84.jpg"
+  }
+ },
+ "zhao-chuanwen": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Carefree_xanren-ca5398.jpg"
+  }
+ },
+ "huan-dong": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Huandong-c6a22a.jpg"
+  }
+ },
+ "huan-fengshen": {
+  "0": {
+   "kind": "ak",
+   "ep": 134,
+   "t": 619.0,
+   "focus": [
+    0.491,
+    0.289,
+    0.252
+   ],
+   "manual": true
+  }
+ },
+ "huan-wuqing": {
+  "0": {
+   "kind": "ak",
+   "ep": 134,
+   "t": 602.7,
+   "focus": [
+    0.49,
+    0.158,
+    0.18
+   ],
+   "manual": true
+  }
+ },
+ "sun-qiming": {
+  "0": {
+   "kind": "ak",
+   "ep": 134,
+   "t": 113.3,
+   "focus": [
+    0.5,
+    0.298,
+    0.181
+   ],
+   "manual": true
+  }
+ },
+ "qian-kuizi": {
+  "0": {
+   "kind": "ak",
+   "ep": 137,
+   "t": 821.1,
+   "focus": [
+    0.585,
+    0.33,
+    0.239
+   ],
+   "manual": true
+  }
+ },
+ "wang-ping": {
+  "0": {
+   "kind": "none"
+  },
+  "1": {
+   "kind": "ak",
+   "ep": 139,
+   "t": 80.2,
+   "focus": [
+    0.528,
+    0.512,
+    0.426
+   ],
+   "manual": true
+  },
+  "2": {
+   "kind": "file",
+   "path": "site/img/wiki/Img_2-382fae.jpg"
+  }
+ },
+ "qing-yi": {
+  "0": {
+   "kind": "ak",
+   "ep": 140,
+   "t": 331.1,
+   "focus": [
+    0.353,
+    0.311,
+    0.411
+   ],
+   "manual": true
+  }
+ },
+ "lei-daozi": {
+  "0": {
+   "kind": "ak",
+   "ep": 141,
+   "t": 1172.7,
+   "focus": [
+    0.636,
+    0.191,
+    0.129
+   ],
+   "manual": true
+  }
+ },
+ "shengong-hu": {
+  "0": {
+   "kind": "ak",
+   "ep": 146,
+   "t": 305.8,
+   "focus": [
+    0.482,
+    0.381,
+    0.682
+   ],
+   "manual": true
+  }
+ },
+ "zhan-konglie": {
+  "0": {
+   "kind": "ak",
+   "ep": 146,
+   "t": 799.2,
+   "focus": [
+    0.443,
+    0.199,
+    0.135
+   ],
+   "manual": true
+  }
+ },
+ "zhang-zhen": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Zhang_Zhen_2-7e17b7.jpg"
+  }
+ },
+ "tang-yanfeng": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Tangyanfeng2-312b9f.jpg"
+  }
+ },
+ "xu-fenghan": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Xu_fenghan-7ae60b.jpg"
+  }
+ },
+ "yan-lei-zi": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Master_Flamespark__3-434bf7.png"
+  }
+ },
+ "ge-hong": {
+  "0": {
+   "kind": "ak",
+   "ep": 149,
+   "t": 336.9,
+   "focus": [
+    0.435,
+    0.388,
+    0.495
+   ],
+   "manual": true
+  }
+ },
+ "li-yuan": {
+  "0": {
+   "kind": "ak",
+   "ep": 149,
+   "t": 346.0,
+   "focus": [
+    0.54,
+    0.359,
+    0.505
+   ],
+   "manual": true
+  }
+ },
+ "gu-ziyuan": {
+  "0": {
+   "kind": "ak",
+   "ep": 150,
+   "t": 792.0,
+   "focus": [
+    0.433,
+    0.399,
+    0.519
+   ],
+   "manual": true
+  }
+ },
+ "yao-luo": {
+  "0": {
+   "kind": "ak",
+   "ep": 152,
+   "t": 60.5,
+   "focus": [
+    0.518,
+    0.298,
+    0.297
+   ],
+   "manual": true
+  }
+ },
+ "qing-shui": {
+  "0": {
+   "kind": "ak",
+   "ep": 154,
+   "t": 571.4,
+   "focus": [
+    0.228,
+    0.489,
+    0.148
+   ],
+   "manual": true
+  },
+  "1": {
+   "kind": "ak",
+   "ep": 155,
+   "t": 338.3,
+   "focus": [
+    0.485,
+    0.28,
+    0.344
+   ],
+   "manual": true
+  }
+ },
+ "bai-fan": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/BaiFan1-e0ba6a.jpg"
+  }
+ },
+ "celestial-king-carefree": {
+  "0": {
+   "kind": "file",
+   "path": "site/img/wiki/Xiaoyaozi_1-9d2a2e.jpg"
+  }
+ },
+ "ta-shan": {
+  "0": {
+   "kind": "ak",
+   "ep": 159,
+   "t": 516.5,
+   "focus": [
+    0.501,
+    0.333,
+    0.327
+   ],
+   "manual": true
+  }
+ },
+ "zu-zhang": {
+  "0": {
+   "kind": "ak",
+   "ep": 159,
+   "t": 282.4,
+   "focus": [
+    0.571,
+    0.414,
+    0.512
+   ],
+   "manual": true
+  }
+ }
+}

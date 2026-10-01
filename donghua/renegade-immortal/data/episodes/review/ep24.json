@@ -1,0 +1,81 @@
+{
+  "ep": 24,
+  "title": "Leader of the Fighting Evil Sect",
+  "summary": "Li Muwan has seen that the Dragon Fighting Formation's power fades with distance, so Wang Lin keeps pulling Jie Donglai away from it and destroys its true eye, the dragon-pattern sword. Jie Donglai is killed, and the Fighting Evil Sect takes Wang Lin as its new leader. While Wang Lin is in seclusion, Xu Liguo forms a core from the souls he swallowed, regains some memories and tries to fight him, but is forced to spit the souls out. Wang Lin takes Li Muwan on killing trips, remembers his parents hoping he would bring home a wife, and after four years in the Sea of Devils escorts her back to its edge. They part with gifts: he returns her soul blood with a protective trace of his consciousness, and she gives him her pills and a jade slip holding a formation she refined from the Dragon Fighting Formation. Wang Lin promises Situ Nan to free him once he reaches Soul Transformation, the kill order vanishes ten days into the succession ceremony, and he swears to bury every Teng in Zhao with Teng Huayuan once he forms his Nascent Soul. Meanwhile a stranger asks to be led to the man who uses the death spell.",
+  "events": [
+    "Wang Lin uses distance to weaken Jie Donglai and breaks the Dragon Fighting Formation's eye, the dragon-pattern sword",
+    "Jie Donglai falls and Wang Lin becomes leader of the Fighting Evil Sect",
+    "Xu Liguo forms a core, regains some memories, fights Wang Lin and loses",
+    "Wang Lin remembers his parents; after four years he sends Li Muwan back across the sea",
+    "Li Muwan gives him pills and a jade slip with her Dragon Fighting Formation; he returns her soul blood",
+    "Wang Lin promises Situ Nan to free him at Soul Transformation",
+    "The Hundred-Day Kill Order vanishes at his succession ceremony; he vows revenge on Teng Huayuan",
+    "A stranger asks to be led to the Fighting Evil Sect leader"
+  ],
+  "introduced": [
+    "dragon-pattern sword",
+    "Dragon Fighting Formation jade slip"
+  ],
+  "cultivation": "Xu Liguo recovers to late Foundation Establishment, then forms a core from the souls he swallowed. Wang Lin keeps Qian Kun's golden core to help when he forms his Nascent Soul, and names Soul Transformation as the stage at which he will free Situ Nan.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "jie-donglai",
+      "name": "Jie Donglai",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "realm": "Core Formation",
+      "quote": "When did the elixir form? I must have swallowed too much",
+      "first": false
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    },
+    {
+      "id": "wang-tianshui",
+      "name": "Wang Tianshui",
+      "first": false
+    },
+    {
+      "id": "wang-lin-mother",
+      "name": "Wang Lin's mother",
+      "first": false
+    },
+    {
+      "id": "teng-huayuan",
+      "name": "Teng Huayuan",
+      "first": false
+    },
+    {
+      "id": "shangguan-mo",
+      "name": "Shangguan Mo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles (machine-translated) checked against the AnimeKhor Indonesian fansubs; no Chinese track for this episode.",
+    "'Fujihua Yuan' = Teng Huayuan (藤化元); 'stage of infant transformation' = Soul Transformation (婴变).",
+    "The parents appear in a memory (Tiezhu = Wang Lin)."
+  ],
+  "flags": [
+    "17:39 'This is Qian Kun's golden elixir, take it when you have a baby': it is unclear who says this to whom (Wang Lin to Li Muwan, or Situ Nan to Wang Lin).",
+    "19:18-19:21 'the entire Zhen family is disrespectful to our clan, all wiped out' is a Teng clan scene; who reports it is unclear.",
+    "10:41 'that sword spirit always fighting with me' (Xu Liguo) is unexplained.",
+    "The stranger at 20:27 is not named; EP25 shows it is Duanmu Ji."
+  ]
+}

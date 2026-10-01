@@ -1,0 +1,66 @@
+{
+  "ep": 53,
+  "title": "Entering the Mortal World",
+  "summary": "A cultivator chases Wang Lin out of the Country of Zhao and crushes his Nascent Soul with divine sense alone; he is Na Duo, an early Soul Transformation cultivator from Planet Five Elements, and he only wants back the storage bag he hid in the Land of the Ancient God. Impressed by Wang Lin's Extreme Realm and his half-finished restriction flag, Na Duo explains that a Cultivation Star Crystal, the national treasure of a level-6 cultivation country, can break the Extreme Realm bottleneck, and invites Wang Lin to find him one day. To reach Soul Formation Wang Lin decides he must live as a mortal, and travels with a medicine basket into a prosperous level-4 cultivation country, where he cures a poisoned noble girl with a willow leaf for her steward Lu Xing. Lu Xing explains the Four Faction Alliance of Baiyun Sect, Shuimo Sect, Qingmu Cliff and Heihun Sect that protects the capital of Nan. Wang Lin finds his killing energy has condensed to its limit, breaks through to mid Nascent Soul, meets a lecherous old man who sees through his hidden cultivation and tells him he needs an Intent Realm, and rents an empty shop on an old street.",
+  "events": [
+    "Na Duo chases Wang Lin and takes back his storage bag from the Land of the Ancient God",
+    "Na Duo explains the Extreme Realm and the Cultivation Star Crystal, and gives his name",
+    "Wang Lin decides to live as a mortal to reach Soul Formation",
+    "He cures a poisoned girl in Lu Xing's party with a hundred-year willow leaf",
+    "Lu Xing describes the Four Faction Alliance protecting the capital of Nan",
+    "Wang Lin breaks through to mid Nascent Soul",
+    "A strange old man tells him he needs an Intent Realm; Wang Lin rents a shop"
+  ],
+  "introduced": [
+    "Na Duo",
+    "Planet Five Elements",
+    "Cultivation Star Crystal",
+    "Cultivation Alliance",
+    "Lu Xing",
+    "Four Faction Alliance",
+    "Baiyun Sect",
+    "Shuimo Sect",
+    "Qingmu Cliff",
+    "Heihun Sect",
+    "Intent Realm",
+    "the old man"
+  ],
+  "cultivation": "Na Duo: early Soul Transformation. Wang Lin (his mortal clone) breaks through to mid Nascent Soul.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false,
+      "realm": "mid Nascent Soul",
+      "quote": "[Klon Fana Wang Lin, Tahap Jiwa Baru Lahir Pertengahan]",
+      "card": 801.9
+    },
+    {
+      "id": "na-duo",
+      "name": "Na Duo",
+      "realm": "early Soul Transformation",
+      "quote": "Naduo | Early Stage of Infant Transformation | Five-Planet Cultivator",
+      "first": true,
+      "card": 219.0
+    },
+    {
+      "id": "lu-xing",
+      "name": "Lu Xing",
+      "first": true
+    },
+    {
+      "id": "old-man",
+      "name": "the old man",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Read both the official English and the Indonesian fansub; Na Duo's realm card is only in the official track."
+  ],
+  "flags": [
+    "Official 'Infant Transformation' rendered as Soul Transformation (婴变); 'becoming a god' as Soul Formation (化神).",
+    "The 13:21 card calls the walking body Wang Lin's mortal clone; EP62 confirms the clone and the original body are separate.",
+    "The old man is never named."
+  ]
+}

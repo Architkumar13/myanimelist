@@ -1,0 +1,44 @@
+{
+  "ep": 28,
+  "title": "The Hurricane Beasts",
+  "summary": "Past the entrance, Wang Lin finds the first trial is built on yin-yang and the five elements, and he picks the earth region, where his Earth Escape works like walking on flat ground. He sends Xu Liguo ahead to scout, paying him in souls. A living hurricane made of countless small wind beasts attacks them, but a black tower holds a restriction the beasts cannot pass. Xu Liguo, who can swallow the wind beasts that hit him, sweeps through the hurricane and devours them. Wang Lin realises the little beasts merge their souls well, so he has Xu Liguo spit out the souls he took and uses them to create a stronger demon of his own that can draw a whole hurricane after it. Ahead, an entire hurricane has been poisoned, which only Hunchback Meng could do, and Meng and his toad Li Tian are killing their way through.",
+  "events": [
+    "Wang Lin works out that the first trial follows yin-yang and the five elements, and chooses the earth path",
+    "Xu Liguo is forced to scout in return for souls",
+    "A living hurricane of wind beasts attacks; a black tower shelters Wang Lin",
+    "Xu Liguo devours the wind beasts",
+    "Wang Lin fuses the beast souls into a stronger demon that can command a hurricane",
+    "They find a hurricane poisoned by Hunchback Meng, who is fighting with his toad Li Tian"
+  ],
+  "introduced": [
+    "hurricane beasts",
+    "black tower",
+    "Li Tian (Hunchback Meng's toad)"
+  ],
+  "cultivation": "Hunchback Meng is a Soul Formation poison cultivator. He kills beasts at Core Formation and Nascent Soul level with ease.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "hunchback-meng",
+      "name": "Hunchback Meng",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles (machine-translated) checked against the AnimeKhor Indonesian fansubs; no Chinese track for this episode.",
+    "'Xiao Xuzi' and 'Grandpa' are Xu Liguo talking about himself; 'evil star' is his name for Wang Lin; 'Meng Tuozi' = Hunchback Meng."
+  ],
+  "flags": [
+    "17:10 'Li Tian, I will show you how fun it is': Li Tian is Meng's toad, named in EP29."
+  ]
+}

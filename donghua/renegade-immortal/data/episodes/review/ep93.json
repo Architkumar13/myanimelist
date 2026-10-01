@@ -1,0 +1,104 @@
+{
+  "ep": 93,
+  "title": "Ancestor of Zhao",
+  "summary": "Ancestor Xu, an eleven-leaf ancestor of the Forsaken Immortal Clan, gives up his life to break the five swords that the first Suzaku and nine Ascendant cultivators forged to seal his clan. The clan pours out to retake Planet Suzaku, and Zhu Quezi calls on every cultivation country to resist. Wang Lin, who needs far more immortal jade for Soul Transformation than he has, returns to the Country of Zhao, saves his cousin Wang Zhuo from the six-leaf shaman Pang You and helps him reach Nascent Soul. Wang Zhuo explains that a truce after Qian Feng's drawn duel with the Forsaken heir handed every level 3 country to the clan, and that Zhao is about to fall. When the six-leaf shaman Mo Luo breaks the Zhao royal family's last defences, Wang Lin crushes him in a moment. Hailed as the Ancestor of Zhao, he leaves a legacy to help Zhao's cultivators break through and a protective formation that only Soul Transformation can break. Wang Zhuo stays to guard their family's bloodline, and Wang Lin returns to the Soul Refining Sect, where Dun Tian is waiting.",
+  "events": [
+    "Ancestor Xu sacrifices himself to break the five-sword seal on the Forsaken Immortal Clan",
+    "The Forsaken Immortals march on Planet Suzaku; Zhu Quezi rallies the cultivation countries",
+    "Wang Lin saves Wang Zhuo from Pang You and helps him into Nascent Soul",
+    "Wang Zhuo tells of the truce that surrendered all level 3 countries",
+    "Mo Luo attacks the Zhao royal family at the ancestral home and the Heng Yue Sect",
+    "Wang Lin kills Mo Luo and is hailed as Ancestor of Zhao",
+    "He leaves breakthrough aids and a protective formation for Zhao",
+    "Wang Zhuo stays in Zhao; Wang Lin returns to Dun Tian"
+  ],
+  "introduced": [
+    "Ancestor Xu",
+    "Pang You",
+    "Mo Luo",
+    "Wang Qi",
+    "Wang Yu",
+    "Zhen Fengxiao",
+    "Ancestor Spirit Tree",
+    "five-sword seal",
+    "leaf shamans",
+    "Reincarnation Tree"
+  ],
+  "cultivation": "Ancestor Xu: peak Ascendant (eleven-leaf). Wang Zhuo goes from late Core Formation to early Nascent Soul. Pang You and Mo Luo are six-leaf shamans. Wang Lin is one step from Soul Transformation but short of immortal jade.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "ancestor-xu",
+      "name": "Ancestor Xu",
+      "realm": "peak Ascendant",
+      "quote": "[11 Daun, Xu Zu, Leluhur Klan Abadi Terabaikan] ...Aku telah mencapai puncak Tahap Ascendant.",
+      "first": true,
+      "card": 208.04
+    },
+    {
+      "id": "zhu-quezi",
+      "name": "Zhu Quezi",
+      "first": false
+    },
+    {
+      "id": "wang-zhuo",
+      "name": "Wang Zhuo",
+      "realm": "late Core Formation, then early Nascent Soul",
+      "quote": "[Wang Zhuo, Tetua Sekte Xuan Dao, Tahap Awal Jiwa Baru Lahir]",
+      "first": false,
+      "card": 403.6
+    },
+    {
+      "id": "pang-you",
+      "name": "Pang You",
+      "realm": "six-leaf shaman",
+      "quote": "[Pang You, Dukun Enam Daun, Klan Abadi Terabaikan]",
+      "first": true,
+      "card": 424.5
+    },
+    {
+      "id": "wang-qi",
+      "name": "Wang Qi",
+      "first": true,
+      "card": 755.48
+    },
+    {
+      "id": "wang-yu",
+      "name": "Wang Yu",
+      "first": true,
+      "card": 759.0
+    },
+    {
+      "id": "mo-luo",
+      "name": "Mo Luo",
+      "realm": "six-leaf shaman",
+      "quote": "[Mo Luo, Dukun Enam Daun, Klan Abadi Terabaikan]",
+      "first": true,
+      "card": 953.0
+    },
+    {
+      "id": "zhen-fengxiao",
+      "name": "Zhen Fengxiao",
+      "first": true
+    },
+    {
+      "id": "mosquito-beast",
+      "name": "Mosquito Beast",
+      "first": false
+    }
+  ],
+  "changes": [
+    "'Batu abadi' written as immortal jade (仙玉), matching the EP94 YouTube title (抢仙玉).",
+    "Only the AnimeKhor Indonesian fansub (ep93.id.srt) was available; no official YouTube en/zh track for this episode yet."
+  ],
+  "flags": [
+    "Wang Zhuo's line 'when you reach Nascent Soul you will remember your past life' (528-536s) is muddled.",
+    "The glossary gives Wang Yu a debut in EP105; this crown prince of Zhao may be a different person.",
+    "Mo Luo calls Wang Lin's ancestral treasure a Soul Formation weapon and is then killed; he also calls him a 'Warrior Shaman' (1204s), which is unclear."
+  ]
+}

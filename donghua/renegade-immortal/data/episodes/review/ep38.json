@@ -1,0 +1,57 @@
+{
+  "ep": 38,
+  "title": "Heavenly Tribulation",
+  "summary": "Mo Yun brings Qiu Siping, a late Core Formation cultivator who recognises the ancient restriction, and he uses a monster to lure out the man who set it. Qiu Siping offers Wang Lin a deal: his master and senior brother, both newly at Nascent Soul, lie helpless in an ancient cave full of restrictions, and devouring a Nascent Soul greatly helps one break through. Wang Lin sees through the cave's giant python, whose own spirit power holds the formation up, opens it, and each of them takes a Nascent Soul. Refining his first restriction flag calls down a Heavenly Tribulation that nearly shatters his golden core, and cultivators who rush in for the 'ancient treasure', led by a Nascent Soul expert, are wiped out by his divine sense. He ends at Core Formation great perfection with a false Nascent Soul, but learns that the Ji Realm will stop him from ever going past Nascent Soul, and refuses to accept it.",
+  "events": [
+    "Qiu Siping tries to lift Mo Yun's restriction and lures Wang Lin out",
+    "He proposes they steal the Nascent Souls of his master and senior brother",
+    "Wang Lin breaks the ancient cave's python-guarded restriction",
+    "Wang Lin refines a restriction flag and triggers a Heavenly Tribulation",
+    "Treasure-hunters and a Nascent Soul cultivator attack; Wang Lin kills hundreds",
+    "Wang Lin reaches Core Formation great perfection; the Ji Realm caps him at Nascent Soul"
+  ],
+  "introduced": [
+    "Qiu Siping",
+    "restriction flag",
+    "Heavenly Tribulation",
+    "Ji Realm (named as the cap on his cultivation)",
+    "false Nascent Soul"
+  ],
+  "cultivation": "Qiu Siping: late Core Formation; his master early Nascent Soul, his senior brother just reached Nascent Soul. Wang Lin: Core Formation great perfection with a false Nascent Soul; because of the Ji Realm he can go no higher than Nascent Soul.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "Core Formation great perfection",
+      "quote": "[Wang Lin, Formasi Inti Panggung Sempurna]",
+      "first": false,
+      "card": 1075.0
+    },
+    {
+      "id": "qiu-siping",
+      "name": "Qiu Siping",
+      "realm": "late Core Formation",
+      "quote": "(Qiu Siping, Late Core Formation Realm)",
+      "first": true,
+      "card": 186.0
+    },
+    {
+      "id": "mo-yun",
+      "name": "Mo Yun",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Official English says 'True Spirit Realm' for Nascent Soul and 'Extreme conditions' for the Ji Realm."
+  ],
+  "flags": [
+    "What happens to Mo Yun is not clearly stated (AK 218-240); the wiki says she is killed here.",
+    "Who explains that the Ji Realm caps him at Nascent Soul (AK 1101) is not clear; likely Xu Liguo."
+  ]
+}

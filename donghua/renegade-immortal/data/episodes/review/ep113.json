@@ -1,0 +1,90 @@
+{
+  "ep": 113,
+  "title": "Commander of the Black Armor Army",
+  "summary": "In the Demon Spirit Land, Wang Lin's clone cannot drive out the last demonic thought left from his earlier fight, and while drinking at a wine shop in Ancient Demon City it drags him into visions of Zhang Hu, his parents and the Heng Yue Sect. Sima Yan, the Black Armor Army commander who has been demoted to deputy because of Wang Lin, picks a fight there; Wang Lin absorbs the demon power of Sima Yan's spear and uses it to break the demonic thought. Supervising staff officer Han Jin then escorts Wang Lin to the Black Armor camp to take command of its 10,000 demon soldiers, but Sima Yan's men refuse him his tent. Wang Lin waits until captain Sun Xiao insults him openly, then kills him and his followers under military law and has Shi San record everything, so Han Jin rules in his favour and the whole army salutes him. At the Third Army camp, Yao Xixue keeps failing at something her father ordered and decides she needs someone skilled in restrictions.",
+  "events": [
+    "Wang Lin's clone fails to expel his last demonic thought",
+    "At a wine shop the demonic thought shows him Zhang Hu, his parents and the Heng Yue Sect",
+    "Sima Yan attacks; Wang Lin absorbs the demon power of his spear and breaks the demonic thought",
+    "Han Jin escorts Wang Lin to the Black Armor camp; Sima Yan becomes his deputy",
+    "Sima Yan's faction blocks the commander's tent; Wang Lin waits",
+    "Captain Sun Xiao insults him; Wang Lin kills him and his men under military law",
+    "Shi San's record clears Wang Lin before Han Jin; the army salutes its new commander",
+    "Yao Xixue fails again, kept alive by Blood Soul Pills, and wants a restriction expert"
+  ],
+  "introduced": [
+    "Sima Yan",
+    "Han Jin",
+    "Sun Xiao",
+    "Yuan Shan",
+    "Black Armor Army",
+    "Third Army",
+    "Tianyao military law",
+    "Blood Soul Pill",
+    "Green Bamboo Wine"
+  ],
+  "cultivation": "Sima Yan: early Soul Transformation, 100,000 armor of demon power. Sun Xiao and Yuan Shan: Soul Formation captains.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "shi-san",
+      "name": "Shi San",
+      "first": false
+    },
+    {
+      "id": "sima-yan",
+      "name": "Sima Yan",
+      "realm": "early Soul Transformation",
+      "quote": "[Sima Yan, Komandan Unit B Zirah Hitam Kekuatan Iblis 100.000 Kota Iblis Kuno, Tahap Transformasi Jiwa Awal]",
+      "first": true,
+      "card": 255.6
+    },
+    {
+      "id": "han-jin",
+      "name": "Han Jin",
+      "quote": "[Han Jin, Kota Iblis Kuno, Perwira Staf Pengawas]",
+      "first": true,
+      "card": 479.7
+    },
+    {
+      "id": "sun-xiao",
+      "name": "Sun Xiao",
+      "realm": "Soul Formation",
+      "quote": "[Sun Xiao, Kapten Pasukan B 10.000 Kekuatan Iblis Armor Hitam, (Formasi Jiwa)]",
+      "first": true,
+      "card": 714.1
+    },
+    {
+      "id": "yuan-shan",
+      "name": "Yuan Shan",
+      "realm": "Soul Formation",
+      "quote": "[Yuan Shan, Kapten Pasukan B 10.000 Kekuatan Iblis Zirah Hitam, (Formasi Jiwa)]",
+      "first": true,
+      "card": 722.4
+    },
+    {
+      "id": "zhang-hu",
+      "name": "Zhang Hu",
+      "first": false
+    },
+    {
+      "id": "yao-xixue",
+      "name": "Yao Xixue",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep113.id.srt) and its caption cards; the YouTube English track for this episode is machine-made and garbled, used only for cross-checks.",
+    "Indonesian 'Transformasi Jiwa' read as Soul Transformation (婴变) and 'Formasi Jiwa' as Soul Formation (化神), matching the clone being mid Soul Transformation in EP112."
+  ],
+  "flags": [
+    "The Ancient Demon City's ranks are measured in 'armor' (Indonesian 'zirah/armor', 甲) of demon power; the translation of the unit is uncertain.",
+    "The woman at the Third Army (1036s) is not named; she speaks of her father's orders and Blood Soul Pills, so she is taken to be Yao Xixue, which EP114 confirms.",
+    "The second follower with Shi San at the camp (653s) is unnamed; EP115 shows it is Hu Pao."
+  ]
+}

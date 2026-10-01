@@ -1,0 +1,78 @@
+{
+  "ep": 90,
+  "title": "Breaking the Tongtian Formation",
+  "summary": "Wang Lin goes to the Giant Demon Clan, where Grand Elder Tian Mu and the other elders order the whole clan to kill him. Chi Hu begs him to spare the clan, and when Wang Lin says he only wants his immortal sword back, Chi Hu opens the Tongtian Great Formation, part of the ancestor's body, as his last debt to Wang Lin. Wang Lin takes all twelve waves of the formation, which no one in the clan has ever done, breaks it, and uses it to call the ancestor out. He forbids anyone in the clan to reach Nascent Soul without his permission, and Xu Liguo, the sword spirit the ancestor had bound, turns on his new master and returns to Wang Lin. Liu Mei tries to strike while the ancestor fights with the clan's sky-splitting axe, but Zhou Wutai holds her back, and Wang Lin unleashes the Billion Soul Flag sub-flag. When the ancestor tries a final teleportation curse, Dun Tian's locating formation finds him and Wang Lin kills him. With the eighteen-year deadline nearly over, Wang Lin vows to take Li Muwan back from the Heavenly Dao.",
+  "events": [
+    "The Giant Demon Clan elders order the clan to kill Zeng Niu",
+    "Chi Hu persuades Wang Lin to spare the clan and opens the Tongtian Great Formation",
+    "Wang Lin withstands all twelve waves and breaks the formation",
+    "He forbids the Giant Demon Clan from producing Nascent Soul cultivators",
+    "Xu Liguo betrays the ancestor and returns to Wang Lin",
+    "Zhou Wutai blocks Liu Mei; Wang Lin uses the Billion Soul Flag sub-flag",
+    "Dun Tian's locating formation defeats the ancestor's teleportation and the ancestor dies",
+    "Wang Lin turns to saving Li Muwan"
+  ],
+  "introduced": [
+    "Tian Mu",
+    "Tongtian Great Formation",
+    "Dongji Mountain",
+    "Hellfire Beast"
+  ],
+  "cultivation": "Tian Mu and the second and third Giant Demon elders are at Soul Formation great perfection. The ancestor's partly fused body is said to be almost as strong as a three-star Ancient God.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "tian-mu",
+      "name": "Tian Mu",
+      "realm": "Soul Formation great perfection",
+      "quote": "[Tian Mu, Tetua Agung Klan Iblis Raksasa, Transformasi Dewa Siklus Agung]",
+      "first": true,
+      "card": 209.92
+    },
+    {
+      "id": "chi-hu",
+      "name": "Chi Hu",
+      "first": false
+    },
+    {
+      "id": "giant-demon-clan-ancestor",
+      "name": "Giant Demon Clan ancestor",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "liu-mei",
+      "name": "Liu Mei",
+      "first": false
+    },
+    {
+      "id": "zhou-wutai",
+      "name": "Zhou Wutai",
+      "realm": "mid Soul Formation",
+      "quote": "hanya dengan kultivasi Tahap Transformasi Dewa Tengahmu saja",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Xu Liguo's betrayal and Zhou Wutai holding Liu Mei back are confirmed by the Chinese YouTube title for EP90 (许立国背刺老祖, 周武泰牵制柳眉).",
+    "Only the AnimeKhor Indonesian fansub (ep90.id.srt) was available; no official YouTube en/zh track for this episode yet."
+  ],
+  "flags": [
+    "The closing lines (1247-1284s: Demon Cultivator Sea, 'Kakak Senior', 'Persetan dengan surgamu') are a flashback montage of Wang Lin's past defiance of Heaven, not new events.",
+    "The text gives the deadline as 18 years (1230s); earlier episodes said eight years were left."
+  ]
+}

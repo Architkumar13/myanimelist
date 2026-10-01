@@ -1,0 +1,81 @@
+{
+  "ep": 123,
+  "title": "Slay the Demon",
+  "summary": "On the Ancient Battlefield of Sky Demon Country, the Scattered Devil sends its Demon Servants Feng Yin, De Gui and Hu Pao to kill Wang Lin, but his Annihilation Finger and an Immortal Realm hand seal turn back the first attackers. Hu Pao, Wang Lin's former disciple, now hates him for not saving him from prison, and plans to kill everyone who knows the Soul Refining Technique so that only he holds it. Using the Time Spell from his benefactor, Hu Pao jumps from late Soul Transformation to early Ascendant with his Hundred Million Soul Flag, but Wang Lin, as the true heir of the technique, calls the souls back, and the spell drains Hu Pao's life until he falls back to mid Soul Transformation. Ming Yuan, a late Ascendant, then fights Wang Lin with demonic energy, while Wang Lin uses the Yellow Springs, the Soul Gathering Spring and the Slaughter Immortal Art and finally Ling Tianhou's sword qi to strike the Demon Tower itself. The Scattered Devil comes out in a flesh body far above Ascendant, and Wang Lin's clone blows itself up to destroy the Demon Tower and a million years of the devil's savings.",
+  "events": [
+    "Feng Yin, De Gui and Hu Pao are sent to kill Wang Lin",
+    "Wang Lin repels the first servants with Annihilation Finger and an Immortal Realm hand seal",
+    "Xu Liguo appears; Hu Pao confronts Wang Lin and declares his hatred",
+    "Hu Pao reaches early Ascendant with the Time Spell and his Hundred Million Soul Flag",
+    "Wang Lin takes back the souls; the spell drains Hu Pao to mid Soul Transformation",
+    "Ming Yuan fights Wang Lin; Wang Lin aims Ling Tianhou's sword qi at the Demon Tower",
+    "The Scattered Devil appears and Wang Lin's clone self-destructs, wrecking the tower"
+  ],
+  "introduced": [
+    "Feng Yin",
+    "De Gui",
+    "Demon Servants",
+    "Hundred Million Soul Flag",
+    "Time Spell",
+    "Immortal Realm hand seal",
+    "Soul Gathering Spring",
+    "Ascendant Self-Destruction"
+  ],
+  "cultivation": "Hu Pao: late Soul Transformation, forced to early Ascendant by the Time Spell, then falls back to late and mid Soul Transformation. Ming Yuan: late Ascendant. The Scattered Devil's flesh body is above Ascendant.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "feng-yin",
+      "name": "Feng Yin",
+      "quote": "[Feng Yin, Pelayan Iblis]",
+      "first": true,
+      "card": 15
+    },
+    {
+      "id": "de-gui",
+      "name": "De Gui",
+      "quote": "[De Gui, Pelayan Iblis]",
+      "first": true,
+      "card": 22
+    },
+    {
+      "id": "hu-pao",
+      "name": "Hu Pao",
+      "realm": "late Soul Transformation to early Ascendant",
+      "quote": "[Hu Pao, Tahap Transformasi Jiwa Akhir > Tahap Ascendant Awal]",
+      "first": false,
+      "card": 397
+    },
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "ming-yuan",
+      "name": "Ming Yuan",
+      "realm": "late Ascendant",
+      "quote": "Tahap Ascendant Akhir.",
+      "first": false
+    },
+    {
+      "id": "scattered-devil",
+      "name": "Scattered Devil",
+      "look": "leaves his armor and shows a flesh body",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Only the AnimeKhor Indonesian fansub was available; there is no YouTube track for EP123 yet."
+  ],
+  "flags": [
+    "Hu Pao's realm cards fall step by step (493-495s): early Ascendant, late Soul Transformation, mid Soul Transformation; the Time Spell burns his life.",
+    "Whether the clone's self-destruction kills it is left open until EP124, which shows it survives through the Blood Soul Pill.",
+    "De Gui's second card reads 'Dari Gui' (24s)."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "ep": 7,
+  "title": "Seize Foundation",
+  "summary": "Teng Li hunts Wang Lin through the Mysterious Forest, and in a flashback a low-level cultivator is robbed of his heirloom by the spoiled Teng heir. Wang Lin wears Teng Li down with traps and lures him toward a hidden, intelligent corpse demon that fears even the Blue Thread Vines. When its green core, a demonic counterpart of a golden core, explodes and leaves Teng Li exhausted, Wang Lin bets that his flying sword is faster than Teng Li's teleport and kills him. He then uses the Seize Foundation art on Teng Li's body and destroys his soul just as Teng Huayuan arrives too late to save his great-grandson. Teng Huayuan names himself, swears revenge, and spends lifespan to curse Wang Lin so that he can teleport to him whenever Wang Lin comes near. Situ Nan says he can hide Wang Lin as long as they keep their distance, and sends him to find the most yin place to practise the Underworld Ascension Method.",
+  "events": [
+    "Teng Li bullies a low-level cultivator for an heirloom (flashback)",
+    "Wang Lin traps Teng Li in the forest and uses the Black Gold Heart Mirror's limits",
+    "A corpse demon's green core explodes on Teng Li",
+    "Wang Lin's flying sword kills the exhausted Teng Li",
+    "Wang Lin performs the Seize Foundation art on Teng Li and destroys his soul",
+    "Teng Huayuan arrives, names himself and lays a lifespan-burning curse on his kin's killer",
+    "Situ Nan sends Wang Lin to seek an extreme-yin place for the Underworld Ascension Method"
+  ],
+  "introduced": [
+    "corpse demon",
+    "green core",
+    "Seize Foundation art (performed)",
+    "Teng Huayuan's curse",
+    "Underworld Ascension Method",
+    "extreme-yin place"
+  ],
+  "cultivation": "Teng Li was at late Foundation Establishment, which is why Situ Nan says he is fit for Seize Foundation. After taking it Wang Lin's cultivation 'greatly advances'; the realm reached is not stated. Teng Huayuan is a Nascent Soul cultivator.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "teng-li",
+      "name": "Teng Li",
+      "realm": "late Foundation Establishment",
+      "quote": "这小子年纪轻轻就是筑基后期修为",
+      "first": false
+    },
+    {
+      "id": "teng-huayuan",
+      "name": "Teng Huayuan",
+      "realm": "Nascent Soul",
+      "quote": "我藤化元也要取你性命",
+      "first": false
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Names and terms checked against the official Chinese track: 藤化元 Teng Huayuan, 玄金掩心镜 Black Gold Heart Mirror, 绿丹 green core, 尸魅 corpse demon, 黄泉升窍诀 Underworld Ascension Method."
+  ],
+  "flags": [
+    "Wang Lin says Teng Li 'killed my friend' (14:00), implying Zhang Hu's death in EP6; it is not shown on screen (the wiki lists Zhang Hu as alive later).",
+    "The realm Wang Lin reaches after Seize Foundation is not stated; EP11 has Teng Huayuan call him early Foundation Establishment."
+  ]
+}

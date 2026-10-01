@@ -1,0 +1,74 @@
+{
+  "ep": 136,
+  "title": "Shattering the Illusion",
+  "summary": "On Planet Yun Xia Wang Lin finds no life at all and spots a Moonwatcher, a parasite of the Ancient Gods known from Tu Si's memories. He realises the whole planet is a sleeping Moonwatcher whose skeleton is the Golden Flame vein, so digging would wake it, and he holds back. On Planet Thousand Illusion, Huan Wuqing drops a whole realm of his own cultivation to perform the Blood Reforging Art on Huan Mei, and her domain evolves into the long-lost Archdemon Myriad Illusions Dao as she reaches Ascendant great perfection. She goes to Planet Ran Yun, and her illusions make Ran Xuefeng, Sun Xi and Zhao Chuanwen kill each other while they burn their souls, then she hunts down the avatars they hid. Wang Lin returns through the lockdown and saves Sun Xi's avatar, but Liu Mei sees through his disguise and attacks him with illusions of a red butterfly, his master, his parents and his mother calling him home, trying to light his Soul Fire. Wang Lin breaks through her domain with the lightning in his soul and tells her his Dao heart cannot be bound by it.",
+  "events": [
+    "Wang Lin finds Planet Yun Xia lifeless and spots a Moonwatcher",
+    "He realises the planet is a sleeping Moonwatcher with the Golden Flame vein as its bones",
+    "Huan Wuqing gives up a realm to perform the Blood Reforging Art on Huan Mei",
+    "Huan Mei's domain evolves into the Archdemon Myriad Illusions Dao",
+    "She makes the three Ran Yun ancestors kill each other and hunts their avatars",
+    "Wang Lin saves Sun Xi's avatar; Liu Mei recognises him",
+    "She attacks him with illusions of his loved ones; lightning in his soul breaks her domain"
+  ],
+  "introduced": [
+    "Moonwatcher",
+    "Moonlit Mirage Pool",
+    "Formless Myriad Illusions Dao",
+    "Archdemon Myriad Illusions Dao",
+    "Soul Fire"
+  ],
+  "cultivation": "Huan Mei (Liu Mei): Ascendant great perfection after the Blood Reforging Art. Huan Wuqing: Corporeal Yang, fallen from Nirvana Scryer. Sun Xi's avatar: late Core Formation. Liu Mei calls Wang Lin early Ascendant.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "early Ascendant (per Liu Mei)",
+      "quote": "You're only early Ascension.",
+      "first": false
+    },
+    {
+      "id": "liu-mei",
+      "name": "Liu Mei",
+      "realm": "Ascendant great perfection",
+      "quote": "Huan Mei, Ascension Peak",
+      "first": false,
+      "card": 367.7,
+      "shownAs": "Liu Mei (Huan Mei)"
+    },
+    {
+      "id": "huan-wuqing",
+      "name": "Huan Wuqing",
+      "realm": "Corporeal Yang (fallen from Nirvana Scryer)",
+      "quote": "Huan Wuqing, Yang-Real stage, fallen from Nirvana Glimpse",
+      "first": false,
+      "card": 415.4
+    },
+    {
+      "id": "sun-xi",
+      "name": "Sun Xi",
+      "realm": "late Core Formation (avatar)",
+      "quote": "Sun Xi's avatar, late-stage Core Formation",
+      "first": false,
+      "card": 737.6
+    },
+    {
+      "id": "ran-xuefeng",
+      "name": "Ran Xuefeng",
+      "first": false
+    },
+    {
+      "id": "zhao-chuanwen",
+      "name": "Zhao Chuanwen",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles, checked against the AnimeKhor Indonesian fansubs and the Chinese track. Official 'Nirvana Glimpse' = Nirvana Scryer (窥涅), 'Yang-Real' = Corporeal Yang (阳实), 'Moonwatcher' = 望月."
+  ],
+  "flags": [
+    "The person cheering 'Master, we've hit the jackpot!' at the vein (5:07) is not identified (Wang Lin's companion beast or guard).",
+    "The Indonesian card for Sun Xi's avatar reads 'Klon Sun Wu'; the Chinese card says 孙析分身 (Sun Xi)."
+  ]
+}

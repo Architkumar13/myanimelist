@@ -1,0 +1,84 @@
+{
+  "ep": 77,
+  "title": "Zhou Ru Is Born",
+  "summary": "Wang Lin places Li Muwan's Nascent Soul in a newborn girl, Zhou Ru, born to shopkeeper Zhou in Xinghua Village, knowing it will take about eighteen years for Wan'er to recover her memories, and that Heaven's Law will come again then. A year later a Suzaku Country envoy orders Zeng Niu to fight Hongdie within three months, and Wang Lin pushes it back to ten years. Sun Dian and Zi Xin invite him into the Land of the Forsaken Immortals to find the Reincarnation Tree, whose fruit raises the chance of breaking through from Soul Formation to Soul Transformation by thirty percent. From Tu Si's memories Wang Lin knows the fruit can also complete the Body Cleansing that would make him a true Ancient God. Meanwhile Hongdie refuses a limb-regrowing East Sea spirit and finds his curse on her arm. Wang Lin gives Tie Yan a technique, binds the demon Xu Liguo into the Rain Celestial Sword as its spirit, and enters the Forsaken land, where rune puppets and a three-leaf curse master attack.",
+  "events": [
+    "Li Muwan's Nascent Soul is reborn as Zhou Ru",
+    "A Suzaku Country envoy delivers Hongdie's challenge; Wang Lin delays it ten years",
+    "Sun Dian and Zi Xin invite him to look for the Reincarnation Tree",
+    "Hongdie vows revenge and discovers the curse in her arm",
+    "Wang Lin makes Xu Liguo the spirit of a Rain Celestial Sword",
+    "In the Land of the Forsaken Immortals the group meets rune puppets",
+    "A three-leaf Forsaken Immortal curse master attacks"
+  ],
+  "introduced": [
+    "Zhou Ru",
+    "Land of the Forsaken Immortals",
+    "Forsaken Immortal Clan",
+    "Reincarnation Tree",
+    "Reincarnation Fruit",
+    "Body Cleansing",
+    "rune puppets",
+    "East Sea spirit"
+  ],
+  "cultivation": "The Reincarnation Fruit raises the success rate of Soul Formation to Soul Transformation by 30%. A three-leaf curse master is said to equal Nascent Soul.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "zhou-ru",
+      "name": "Zhou Ru",
+      "first": true,
+      "card": 305.7
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "sun-dian",
+      "name": "Sun Dian",
+      "first": false
+    },
+    {
+      "id": "zi-xin",
+      "name": "Zi Xin",
+      "first": false
+    },
+    {
+      "id": "gongsun-fan",
+      "name": "Gongsun Fan",
+      "first": false
+    },
+    {
+      "id": "hongdie",
+      "name": "Hongdie",
+      "look": "one sleeve empty, arm still missing",
+      "first": false
+    },
+    {
+      "id": "tie-yan",
+      "name": "Tie Yan",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Indonesian fansubs read in full; key lines spot-checked against the official English (YouTube), which arrived late.",
+    "'Tanah Abadi yang Terabaikan' written Land of the Forsaken Immortals; 'Boneka Jimat' written rune puppets."
+  ],
+  "flags": [
+    "632-638: Hongdie's people mention someone who stepped in three times to protect Zeng Niu; not named.",
+    "753-833: Wang Lin takes back a beast-taming ring and offers someone the choice to stay or leave; who it is is unclear.",
+    "Gongsun Fan's presence on the trip is inferred; he is not named in this episode."
+  ]
+}

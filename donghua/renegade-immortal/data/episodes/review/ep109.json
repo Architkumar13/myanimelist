@@ -1,0 +1,114 @@
+{
+  "ep": 109,
+  "title": "The East Sea Tide",
+  "summary": "Wang Lin makes the Da Luo Sword Sect elders tell him what became of Zhou Yi's sword: after ten days of fighting, Ling Tianhou shattered the Sword Soul, scattering half of it as sword shards and sealing the other half in the Tidal Abyss beyond the East Sea's Demon Spirit Gate. One elder's Heaven-Devouring Ghost is torn apart by the Annihilation Finger, and Wang Lin lets Qian Qin go after feeding the sect's metal jade to his Mosquito Beast. A month later his Life Mark has three layers and his Celestial Slaughter Art reaches minor completion, and he vows to rescue Zhou Yi in the Demon Spirit Land. Meanwhile Tan Lang of the Shadow Void Realm tells Ling Tianhou of an old Alliance bounty for a bead, saying they once surrounded the second Suzaku over it and he fought his way out, and Ling Tianhou has Tan Lang guard his Twelve Sword Disciples in the coming trial. On Earthstar, Sun Yunshan of the Xuan Yuan Sect and his sister Sun Ruonan join Wang Lin. At the East Sea of Planet Tian Yun, a tide that comes every five thousand years drags treasures in, watched by Yao Xixue, the Blood Ancestor's daughter, and the sects' chosen disciples, while Tian Yunzi and Ling Tianhou, who fell out after a past trip inside, eye a token in the tide. The gate opens, everyone rushes in, and the two elders agree to go after the token together in two hundred years.",
+  "events": [
+    "The Da Luo elders reveal that half the Sword Soul is sealed in the Tidal Abyss",
+    "Wang Lin kills an elder with the Annihilation Finger and feeds metal jade to the Mosquito Beast",
+    "His Life Mark reaches three layers in a month",
+    "Tan Lang tells Ling Tianhou of the Alliance bounty for the bead and the siege of the second Suzaku",
+    "Sun Yunshan and Sun Ruonan of the Xuan Yuan Sect meet Wang Lin",
+    "The five-thousand-year tide gathers treasures at the East Sea; Yao Xixue and the Twelve Sword Disciples arrive",
+    "Tian Yunzi and Ling Tianhou notice a token in the tide that Wang Lin's divine sense can reach",
+    "The Demon Spirit Gate opens and the disciples go in"
+  ],
+  "introduced": [
+    "Sword Soul",
+    "Tidal Abyss",
+    "Heaven-Devouring Ghost",
+    "Tan Lang",
+    "Shadow Void Realm",
+    "Xuan Yuan Sect",
+    "Sun Yunshan",
+    "Sun Ruonan",
+    "Yao Xixue",
+    "Blood Ancestor (Yao Xinghai, named)",
+    "Twelve Sword Disciples",
+    "Demon Spirit Land",
+    "The token"
+  ],
+  "cultivation": "Sun Yunshan: early Soul Transformation. Sun Ruonan: mid Soul Formation. Yao Xixue: late Soul Transformation. Wang Lin's Celestial Slaughter Art reaches minor completion with three layers of Life Mark. No one above Ascendant may enter the Demon Spirit Land.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "lu-songyi",
+      "name": "Lu Songyi",
+      "first": false
+    },
+    {
+      "id": "qian-qin",
+      "name": "Qian Qin",
+      "first": false
+    },
+    {
+      "id": "mosquito-beast",
+      "name": "Mosquito Beast",
+      "first": false
+    },
+    {
+      "id": "tan-lang",
+      "name": "Tan Lang",
+      "quote": "[Tan Lang, Wilayah Kegelapan]",
+      "first": true,
+      "card": 368.1
+    },
+    {
+      "id": "ling-tianhou",
+      "name": "Ling Tianhou",
+      "first": false
+    },
+    {
+      "id": "sun-yunshan",
+      "name": "Sun Yunshan",
+      "realm": "early Soul Transformation",
+      "quote": "[Sun Yunshan, Wakil Master Sekte Xuan Yuan, Tahap Transformasi Jiwa Awal]",
+      "first": true,
+      "card": 464.5
+    },
+    {
+      "id": "sun-ruonan",
+      "name": "Sun Ruonan",
+      "realm": "mid Soul Formation",
+      "quote": "[Sun Ruonan, Putri Master Sekte Xuan Yuan, Tahap Transformasi Dewa Tengah]",
+      "first": true,
+      "card": 485.9
+    },
+    {
+      "id": "yao-xixue",
+      "name": "Yao Xixue",
+      "realm": "late Soul Transformation",
+      "quote": "[Yao Xixue, Putri Leluhur Darah, Tahap Transformasi Jiwa Akhir]",
+      "first": true,
+      "card": 557.9
+    },
+    {
+      "id": "twelve-sword-disciples",
+      "name": "Twelve Sword Disciples",
+      "quote": "[Sekte Pedang Daluo, Dua Belas Murid Pedang]",
+      "first": true,
+      "card": 625.1
+    },
+    {
+      "id": "all-seer",
+      "name": "All-Seer",
+      "first": false,
+      "shownAs": "All-Seer (Tian Yunzi)"
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep109.id.srt) with its name cards; card times are from that file.",
+    "Official YouTube English was checked alongside the Indonesian fansub for names and story beats; its realm names are unreliable (it says 'Nascent Soul' for Soul Transformation), so the Indonesian cards were used for realms.",
+    "Naming follows the earlier reviews and glossary: Planet Suzaku, Suzaku Tomb, Zhu Quezi, Yun Quezi, Hongdie, Forsaken Immortal Clan, Cultivation Planet Crystal (subs: Star Cultivation/Star Refining Crystal)."
+  ],
+  "flags": [
+    "Sun Yunshan's card says vice sect master; he calls himself the young master (473s), and the official card says heir.",
+    "Which Da Luo elder dies (101-136s) and whether the other survives is not clear; one begs for his life and offers Qian Qin.",
+    "Ling Tianhou's comment that Wang Lin feels familiar (729s) is not explained.",
+    "Tan Lang's card reads 'Wilayah Kegelapan'; the official English says Shadow Void Realm."
+  ]
+}

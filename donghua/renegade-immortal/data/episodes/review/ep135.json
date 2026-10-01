@@ -1,0 +1,79 @@
+{
+  "ep": 135,
+  "title": "Karma",
+  "summary": "Baohe Hall accepts Wang Lin's bid of one immortal jade for the eighth-grade pill, which tells everyone the sale was a trap. Sun Tai gives Wang Lin his savings of over 50,000 immortal jade and his notes on alchemy and forging, and Wang Lin comes to understand karma as the next step after life and death. With nearly 300,000 immortal jade he breaks through in the wasteland outside Ran Yun City, then makes the three ancestors pay for dragging him in: the Ran clan gives ninety percent of its jade, the Sun family seventy, Zhao Chuanwen ninety, plus the Huan clan loot and future supplies. In the loot Wang Lin finds a Huan token tied to its dead owner's soul, and news of an intact Golden Flame vein on Planet Yun Xia, the metal element the Heaven Defying Bead still needs. Huan Dong arrives, Wang Lin crushes him with lightning, and a soul search reveals that his mistress Huan Mei is Liu Mei. Wang Lin leaves for Planet Yun Xia promising to return within three months, while Huan Wuqing seals all star routes around Planet Ran Yun with the Star-Locking Grand Array and speeds up Huan Mei's Blood Reforging Art so she can take revenge herself.",
+  "events": [
+    "Wang Lin wins the pill for one immortal jade",
+    "Sun Tai gives him his life savings and notes",
+    "Wang Lin grasps karma and breaks through in the wasteland outside Ran Yun City",
+    "He forces the Ran, Sun and Zhao clans to pay most of their immortal jade for his protection",
+    "He learns of a Golden Flame vein on Planet Yun Xia that the Heaven Defying Bead needs",
+    "He crushes Huan Dong and finds by soul search that Huan Mei is Liu Mei",
+    "Huan Wuqing locks down Planet Ran Yun and speeds up Huan Mei's Blood Reforging Art"
+  ],
+  "introduced": [
+    "Golden Flame vein",
+    "Planet Yun Xia",
+    "Star-Locking Grand Array",
+    "Blood Reforging Art"
+  ],
+  "cultivation": "Wang Lin breaks through on Planet Ran Yun, aiming at mid Ascendant; the target is stated, the result is not confirmed on screen. Huan Dong says Huan Wuqing reached Illusory Yin / Corporeal Yang thousands of years ago.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "sun-tai",
+      "name": "Sun Tai",
+      "first": false
+    },
+    {
+      "id": "sun-xi",
+      "name": "Sun Xi",
+      "first": false
+    },
+    {
+      "id": "ran-xuefeng",
+      "name": "Ran Xuefeng",
+      "first": false
+    },
+    {
+      "id": "zhao-chuanwen",
+      "name": "Zhao Chuanwen",
+      "first": false
+    },
+    {
+      "id": "du-jian",
+      "name": "Du Jian",
+      "first": false,
+      "shownAs": "Du Jian (Immortal Guard)"
+    },
+    {
+      "id": "huan-dong",
+      "name": "Huan Dong",
+      "first": false
+    },
+    {
+      "id": "huan-wuqing",
+      "name": "Huan Wuqing",
+      "first": false
+    },
+    {
+      "id": "liu-mei",
+      "name": "Liu Mei",
+      "first": false,
+      "shownAs": "Liu Mei (Huan Mei)"
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles, checked against the AnimeKhor Indonesian fansubs. Official subs call the bead the 'Fatebreaker Pearl'."
+  ],
+  "flags": [
+    "Whether Wang Lin actually reaches mid Ascendant this episode is never stated; Sun Xi only wonders 'He really broke through?' (8:19). EP136 Liu Mei calls him early Ascendant.",
+    "'Greetings, Master' (5:18) right after Sun Tai's gift: unclear who speaks.",
+    "The episode ends with a gum advert (19:39 onward); not counted."
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "ep": 68,
+  "title": "Across the Void",
+  "summary": "Hongdie attacks Wang Lin on sight, and he answers with his Life and Death domain, calling her unfilial for abandoning her parents, cruel for wiping out four sects, and disloyal for selling Xue Yue to the Suzaku Country. Chi Hu stops the fight and makes them agree to share the spoils equally. Hongdie freezes the Cold Stream for three days so they can cross, and the trio rides Chi Hu's flawed Star Compass into the void of the Rain Celestial Realm. Wang Lin recognises a void beast called Xu and warns them to flee north; Chi Hu ignores him at first and the compass is badly damaged. On foot they reach a rare overlapping fragment marked by the Giant Demon ancestors, but the jade coffin and immortal sword on the second layer are gone, and Zhou Yi of the Five Elements Sect appears.",
+  "events": [
+    "Hongdie and Wang Lin fight; he shakes her with accusations about her parents and her sect",
+    "Chi Hu intervenes and sets equal shares",
+    "Flashback: Zhou Yi talks to the preserved corpse he calls his wife inside his Immortal Jade Pagoda",
+    "Hongdie freezes the Cold Stream so the group can cross",
+    "They ride Chi Hu's flawed Star Compass into the void",
+    "Wang Lin identifies the void beast Xu; ignoring him at first costs Chi Hu and Hongdie dearly",
+    "The second layer of the overlapping fragment is empty and Zhou Yi appears"
+  ],
+  "introduced": [
+    "Star Compass (flawed copy)",
+    "Xu (void beast)",
+    "Immortal Jade Pagoda",
+    "overlapping fragments",
+    "Zhou Yi's corpse wife"
+  ],
+  "cultivation": "Wang Lin reckons that if he reaches mid Soul Formation his Life and Death domain could break Hongdie's Dao heart.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "hongdie",
+      "name": "Hongdie",
+      "first": false
+    },
+    {
+      "id": "chi-hu",
+      "name": "Chi Hu",
+      "first": false,
+      "card": 378.52
+    },
+    {
+      "id": "zhou-yi",
+      "name": "Zhou Yi",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Indonesian fansubs read in full and checked against the official English (YouTube).",
+    "The pagoda scene with the corpse is Zhou Yi's, identified from EP69."
+  ],
+  "flags": [
+    "629: card 'Kompas Bintang Palsu' (fake Star Compass); at 979 Chi Hu calls it the Xingluo Star Compass.",
+    "459-508: the pagoda monologue has no name card; speaker inferred as Zhou Yi.",
+    "933: Hongdie's 'life flower' petals are lost; exact item unnamed."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "ep": 146,
+  "title": "Commanding Thunder",
+  "summary": "While Wang Lin cultivates in the Thunder Pool, Shengong Hu of the Southern Domain's Shengong family, a second-rank envoy of the Thunder Celestial Temple, catches a single glance from him that shakes his Dao heart and drops him from Corporeal Yang to Illusory Yin. Taking Wang Lin for a hidden master, Shengong Hu begs to serve him for a thousand years and hands over his Dao soul; Wang Lin accepts and learns that the Thunder Celestial Realm opens in thirty years, takes Ascendant cultivators and below, can be entered with a Thunder Cauldron, and forbids divine powers above early Nirvana Scryer. Wang Lin, drained by his fight with Lei Daozi, can only walk ten steps into the pool until he stops forcing it and merges his Dao with the thunder, walking on lightning. Envoy Zhan Konglie, a Corporeal Yang cultivator, arrives, wants the treasure he thinks Wang Lin owns, and fights Shengong Hu. Wang Lin points out that Shengong Hu's Dao heart is not one with thunder; Shengong Hu grasps it at once, and Zhan Konglie apologises, says he has a summons from the Thunder Celestial Temple and leaves. Wang Lin sends Shengong Hu away with a message jade slip and a star map, and after ten years of refining his soul is whole, but he has hit the bottleneck before the second step.",
+  "events": [
+    "Shengong Hu loses his cultivation from Corporeal Yang to Illusory Yin after one glance at Wang Lin",
+    "Shengong Hu gives Wang Lin his Dao soul and swears to serve him",
+    "Shengong Hu explains the Thunder Celestial Realm's opening, entry rules and Thunder Cauldrons",
+    "Wang Lin learns to walk deep into the Thunder Pool by merging his Dao with the thunder",
+    "Zhan Konglie challenges them and fights Shengong Hu",
+    "Wang Lin's advice on the Dao of thunder lets Shengong Hu force Zhan Konglie to back down",
+    "Wang Lin's soul is whole after ten years, and he faces the second-step bottleneck"
+  ],
+  "introduced": [
+    "Shengong Hu",
+    "Zhan Konglie",
+    "Shengong family",
+    "Thunder Celestial Temple",
+    "Thunder Celestial Realm",
+    "Thunder Cauldron",
+    "Silver-Horned Thunder Beast"
+  ],
+  "cultivation": "Shengong Hu: Illusory Yin, fallen from Corporeal Yang. Zhan Konglie: Corporeal Yang. Wang Lin appears to others as late Ascendant. Thunder Celestial Realm: Ascendant late great perfection and below may enter, and no divine power above early Nirvana Scryer may be used inside. After ten years Wang Lin's soul is complete and he is at the bottleneck of the first step.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "late Ascendant (as seen by Zhan Konglie)",
+      "quote": "(问鼎后期)",
+      "first": false
+    },
+    {
+      "id": "shengong-hu",
+      "name": "Shengong Hu",
+      "realm": "Illusory Yin (fallen from Corporeal Yang)",
+      "quote": "[Shengong Hu, Utusan Istana Surgawi Petir, (dahulu Berwujud Yang)] / （阴虚(自阳实跌落)）",
+      "first": true,
+      "card": 304.25
+    },
+    {
+      "id": "zhan-konglie",
+      "name": "Zhan Konglie",
+      "realm": "Corporeal Yang",
+      "quote": "[Zhan Konglie, Utusan Istana Surgawi Petir, Yang Jasmani]",
+      "first": true,
+      "card": 795.7
+    }
+  ],
+  "changes": [
+    "'Lightning Immortal Temple' = Thunder Celestial Temple (雷仙殿); 'Thunder Immortal Realm' = Thunder Celestial Realm (雷之仙界); 'Yin Void' = Illusory Yin, 'Yang Real' = Corporeal Yang, 'Nirvana Glimpse' = Nirvana Scryer; 'Net-Severing Sword Art' = 斩罗诀."
+  ],
+  "flags": [
+    "798 (YT): 'Late-stage Ascension, yet he can sit in the inner ring?' is Zhan Konglie's view of Wang Lin, not a stated realm.",
+    "The Indonesian card for Zhan Konglie alternates 'Yang Berwujud' and 'Yang Jasmani'; both mean Corporeal Yang."
+  ]
+}

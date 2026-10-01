@@ -1,0 +1,70 @@
+{
+  "ep": 23,
+  "title": "The Dragon Fighting Formation",
+  "summary": "Wang Lin reaches the headquarters of the Fighting Evil Sect with Li Muwan, Shangguan Mo, Mu Nan and Mu Bei, and Li Muwan admits to herself that she once mistook him for Sun Youcai. The sect leader, Jie Donglai, meets him with the Dragon Fighting Formation, powered by 13,562 disciples and said to be unbreakable by anyone below Nascent Soul. Drawing on the formation, Jie Donglai rises from late Core Formation to great perfection and then to the False Nascent Soul realm, which is between Core Formation and true Nascent Soul. He brushes off the death spell, since the formation pours ten thousand people's power into him. Wang Lin, fighting at Core Formation, is wounded, and Jie Donglai turns on Li Muwan. Xu Liguo urges a retreat, but Wang Lin refuses. In the end Li Muwan works out how to break the formation.",
+  "events": [
+    "Wang Lin's group arrives at the Fighting Evil Sect headquarters",
+    "Jie Donglai raises the Dragon Fighting Formation with 13,562 disciples",
+    "Mu Nan and Mu Bei offer to broker peace; Shangguan Mo calls it a trick",
+    "Jie Donglai climbs to Core Formation great perfection and then the False Nascent Soul realm",
+    "The death spell has no effect; Wang Lin is wounded and Jie Donglai goes after Li Muwan",
+    "Xu Liguo urges a retreat; Wang Lin refuses",
+    "Li Muwan finds the way to break the Dragon Fighting Formation"
+  ],
+  "introduced": [
+    "Jie Donglai",
+    "Dragon Fighting Formation",
+    "False Nascent Soul realm"
+  ],
+  "cultivation": "Jie Donglai is at late Core Formation and, through the Dragon Fighting Formation, rises to Core Formation great perfection and then the False Nascent Soul realm. Wang Lin fights at Core Formation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "Core Formation",
+      "first": false
+    },
+    {
+      "id": "jie-donglai",
+      "name": "Jie Donglai",
+      "realm": "late Core Formation, then False Nascent Soul through the formation",
+      "quote": "He actually climbed from the late stage of pill formation to the great consummation stage of pill formation... Phantom Infant Realm",
+      "first": true
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "shangguan-mo",
+      "name": "Shangguan Mo",
+      "first": false
+    },
+    {
+      "id": "mu-nan",
+      "name": "Mu Nan",
+      "first": false
+    },
+    {
+      "id": "mu-bei",
+      "name": "Mu Bei",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles (machine-translated) checked against the AnimeKhor Indonesian fansubs; no Chinese track for this episode.",
+    "'Phantom Infant / fake baby realm' = False Nascent Soul (假婴); 'Hundred Days Pearl Killing Order' = the Hundred-Day Kill Order (诛杀令)."
+  ],
+  "flags": [
+    "11:26-11:44 'Wang Lin, you are the one who kills with a thousand swords' and 'Cangtian sect' are garbled.",
+    "06:25 'Miss Ji' is unclear; probably a slip for 'Madam' (Li Muwan).",
+    "11:55-12:08 'Grandpa, I am the number one devil in the world' is probably Xu Liguo."
+  ]
+}

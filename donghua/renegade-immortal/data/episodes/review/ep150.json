@@ -1,0 +1,80 @@
+{
+  "ep": 150,
+  "title": "The Dao Servant",
+  "summary": "Li Yuan admits he used Wang Lin and asks for his Stillness spell, explaining that the Li family, once famous for restrictions, has been dying since an immortal put a slave mark on them thirty thousand years ago: every Li who reaches Ascendant goes no further, and only he, his sister and his mother are left. As an apology he gives Wang Lin the first thirteen restrictions of the Eighteen Plum Restriction and explains that the Annihilation Restriction, one of four great ancient restrictions, belongs to a fifth level above the four ranks, the Void level. Wang Lin agrees to break the source of the mark, an immortal statue at the summit. But the Immortal Servant Soul hiding in Li Yuan's blood wakes in his sea of consciousness, says it created the slave mark, possessed Li Jinglan ten thousand years ago while Ge Yunfeng's family helped, and made the sword to nourish an immortal soul rather than to break the mark. Wang Lin sees a vision of the Thunder Celestial Realm's fall and of the general Gu Ziyuan's sword strike, and works out with Xu Liguo that the real sword is inside the statue. He refuses to help the possessing spirit revive the Immortal Lord and fights its Eighteen Plum Restriction, Frost Bloom and Phantom Bough, inside its domain, until the trap slips because Li Yuan is fighting back.",
+  "events": [
+    "Li Yuan explains the Li family's slave mark and asks for Wang Lin's Stillness spell",
+    "He gives Wang Lin the first thirteen restrictions of the Eighteen Plum Restriction",
+    "Li Yuan explains the Annihilation Restriction and the Void level above the four ranks",
+    "The Immortal Servant Soul wakes in Li Yuan and reveals the history of the slave mark",
+    "A flashback shows Li Jinglan possessed and Ge Yunfeng helping, ten thousand years ago",
+    "Wang Lin sees a vision of Gu Ziyuan's last battle as the Thunder Celestial Realm fell",
+    "Wang Lin finds the sword hidden in the statue and turns on the possessing spirit",
+    "They fight with the Eighteen Plum Restriction until Li Yuan pushes back from inside"
+  ],
+  "introduced": [
+    "Immortal Servant Soul",
+    "Li Jinglan",
+    "Ge Yunfeng",
+    "Gu Ziyuan",
+    "Eighteen Plum Restriction: first seal Frost Bloom, fourth seal Phantom Bough",
+    "Void level of restrictions",
+    "Illusion Restriction",
+    "Stillness spell (named)"
+  ],
+  "cultivation": "Li Jinglan: early Ascendant. Ge Yunfeng: early Ascendant. The Annihilation Restriction is said to stand above the four known ranks of restrictions, at a fifth level called the Void level.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "li-yuan",
+      "name": "Li Yuan",
+      "first": false
+    },
+    {
+      "id": "ge-hong",
+      "name": "Ge Hong",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "li-jinglan",
+      "name": "Li Jinglan",
+      "realm": "early Ascendant",
+      "quote": "[Li Jinglan, Leluhur Keluarga Li, Tahap Awal Kejayaan] / (Early Ascension)",
+      "first": true,
+      "card": 561.9
+    },
+    {
+      "id": "ge-yunfeng",
+      "name": "Ge Yunfeng",
+      "realm": "early Ascendant",
+      "quote": "(Ge Yunfeng, Ge Clan Ancestor, Early Ascension)",
+      "first": true,
+      "card": 590.3
+    },
+    {
+      "id": "gu-ziyuan",
+      "name": "Gu Ziyuan",
+      "realm": "General of the Celestial Realm",
+      "quote": "[Gu Ziyuan, Jenderal Alam Surgawi]",
+      "first": true,
+      "card": 790.9
+    }
+  ],
+  "changes": [
+    "'Paralysis technique' = Stillness spell (定身术), Wang Lin's Freeze; 'Immortal Servant Soul' = 仙人仆魂; 'Void Realm' of restrictions = 虚境."
+  ],
+  "flags": [
+    "1182-1234 (YT): Wang Lin calls the possessing spirit 'sword spirit', and it calls Wang Lin's helper a low-grade Celestial Guard; EP151 confirms it is the spirit of Gu Ziyuan's sword.",
+    "The Indonesian card calls Ge Yunfeng 'Tahap Awal Naik Tingkat/Naik Tahta' and Li Jinglan 'Tahap Awal Kejayaan'; the official English gives early Ascension for both."
+  ]
+}

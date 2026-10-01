@@ -1,0 +1,112 @@
+{
+  "ep": 134,
+  "title": "Entering the Game",
+  "summary": "Three Sun family guardian elders and the clan's First Elder Sun Qiming trap Wang Lin in a Demon-Sealing Array over Sun Ning, until Wang Lin's Ascendant divine sense makes them back down and pay 200,000 immortal jade. While waiting, the young Sun Ling lectures 'Xu Mu' on hard work without knowing who he is, and Wang Lin finds it refreshing. Even with the jade he cannot reach mid Ascendant, so when Sun Qiming invites him to an auction with an eighth-grade demi-divine pill, he goes. Sun Tai warns him it is bait: four years earlier Sun Xi, Ran Xuefeng and the rogue cultivator Zhao Chuanwen killed a wounded Huan clan member for five such pills, and the Huan clan of Planet Thousand Illusion wipes out anyone tied to such a death. On Planet Thousand Illusion, the Huan ancestor Huan Wuqing orders everyone involved killed and hands the task to Huan Mei, his newly adopted final disciple from the Alliance, who sends the guard Huan Dong. Sun Xi tests Wang Lin's strength and escorts him to the auction, where the pill is the last item and no one dares bid until Wang Lin offers a single immortal jade.",
+  "events": [
+    "The Sun elders trap Wang Lin; his Ascendant divine sense forces Sun Qiming to pay 200,000 immortal jade",
+    "Sun Ling innocently lectures Wang Lin about diligence",
+    "Sun Qiming invites him to an auction with an eighth-grade demi-divine pill",
+    "Sun Tai reveals the three ancestors killed a Huan clan member four years ago and want a scapegoat",
+    "Huan Wuqing orders everyone involved wiped out and gives the task to Huan Mei; Huan Dong is sent",
+    "Sun Xi tests Wang Lin, then escorts him to Baohe Hall",
+    "Wang Lin bids one immortal jade for the pill"
+  ],
+  "introduced": [
+    "Sun Qiming",
+    "Sun Xu",
+    "Sun Huan",
+    "Sun Leng",
+    "Huan Wuqing",
+    "Huan Fengshen",
+    "Huan Dong",
+    "Huan clan",
+    "Eighth-grade demi-divine pill",
+    "Demon-Sealing Array"
+  ],
+  "cultivation": "Sun Xu, Sun Huan, Sun Leng and Sun Qiming: peak Soul Transformation. Huan Dong: peak mid Ascendant. Wang Lin's 200,000 jade still is not enough for mid Ascendant.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "sun-qiming",
+      "name": "Sun Qiming",
+      "realm": "peak Soul Transformation",
+      "quote": "Sun Qiming, First Elder of the Sun Clan, peak Soul Formation",
+      "first": true,
+      "card": 110.8
+    },
+    {
+      "id": "sun-xu",
+      "name": "Sun Xu",
+      "realm": "peak Soul Transformation",
+      "first": true,
+      "card": 21.3
+    },
+    {
+      "id": "sun-huan",
+      "name": "Sun Huan",
+      "realm": "peak Soul Transformation",
+      "first": true,
+      "card": 21.3
+    },
+    {
+      "id": "sun-leng",
+      "name": "Sun Leng",
+      "realm": "peak Soul Transformation",
+      "first": true,
+      "card": 21.3
+    },
+    {
+      "id": "sun-ling",
+      "name": "Sun Ling",
+      "first": false
+    },
+    {
+      "id": "sun-tai",
+      "name": "Sun Tai",
+      "first": false
+    },
+    {
+      "id": "sun-xi",
+      "name": "Sun Xi",
+      "first": false
+    },
+    {
+      "id": "huan-wuqing",
+      "name": "Huan Wuqing",
+      "first": true,
+      "card": 599.7
+    },
+    {
+      "id": "huan-fengshen",
+      "name": "Huan Fengshen",
+      "first": true,
+      "card": 609.5
+    },
+    {
+      "id": "huan-dong",
+      "name": "Huan Dong",
+      "realm": "peak mid Ascendant",
+      "quote": "Huan Clan guard, peak mid-Ascension stage",
+      "first": true,
+      "card": 684.2
+    },
+    {
+      "id": "liu-mei",
+      "name": "Liu Mei",
+      "first": false,
+      "shownAs": "Liu Mei (Huan Mei)"
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles, checked against the AnimeKhor Indonesian fansubs. The English cards say 'Soul Formation' for the Sun elders, but the Indonesian cards say Soul Transformation (Transformasi Jiwa); Soul Transformation used, as it fits a clan's top elders under Ascendant ancestors."
+  ],
+  "flags": [
+    "Realm of the Sun elders: English 'peak Soul Formation' vs Indonesian 'peak Soul Transformation'.",
+    "Huan Mei is only named here; her face is shown, but that she is Liu Mei is confirmed in EP135."
+  ]
+}

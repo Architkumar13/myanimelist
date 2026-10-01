@@ -1,0 +1,82 @@
+{
+  "ep": 69,
+  "title": "Zhou Yi's Obsession",
+  "summary": "Zhou Yi of the Five Elements Sect says he took the jade coffin and immortal sword a thousand years ago and tells the three young cultivators to go home, while Sun Tai, Great Elder of the Corpse Yin Sect, has also followed them in. In the third layer of the overlapping fragment, below a pool, Sun Tai demands the Celestial corpse Zhou Yi carries, the woman he calls Ting'er. Because a fight between two Soul Transformation experts would collapse all six stacked fragments, Sun Tai borrows Hongdie's body, Zhou Yi borrows Chi Hu's, and Wang Lin keeps them both in check by threatening to set off a heavenly tribulation with a restriction flag. Zhou Yi's Obsession domain, channelled through Chi Hu's axe, destroys one of Sun Tai's souls, but Sun Tai has more and keeps fighting for the corpse. A flashback shows Zhou Yi being condemned by his master Tang Xiong for stealing the sect's immortal jade for a corpse; Zhou Yi then burns his own primordial soul and drives Sun Tai off, and Wang Lin turns on the drained Hongdie.",
+  "events": [
+    "Zhou Yi warns the trio off; Sun Tai is revealed to have been following",
+    "The group enters the third layer through a pool; Hongdie and Chi Hu gather celestial energy",
+    "Sun Tai demands Zhou Yi's Celestial corpse, Ting'er",
+    "Hongdie shows her Suzaku Country core-disciple bracelet; Wang Lin threatens a tribulation with a restriction flag",
+    "Sun Tai fights through Hongdie's body, Zhou Yi through Chi Hu's, both suppressed to peak Soul Formation",
+    "Zhou Yi's Obsession domain destroys one of Sun Tai's souls",
+    "Flashback: Tang Xiong of the Five Elements Sect condemns Zhou Yi for stealing immortal jade",
+    "Zhou Yi burns his soul; Sun Tai flees; Wang Lin moves to kill Hongdie"
+  ],
+  "introduced": [
+    "Sun Tai (Corpse Yin Sect Great Elder)",
+    "Ting'er",
+    "Tang Xiong",
+    "Five Elements Sect",
+    "Obsession domain",
+    "Yiyuan Kaitai bracelet",
+    "Black Horned Dragon soul clone"
+  ],
+  "cultivation": "Zhou Yi is one of the few Soul Transformation experts on Planet Suzaku. Sun Tai says Zhou Yi has not reached Ascendant. Both suppress themselves to peak Soul Formation. Tang Xiong is late Soul Transformation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "zhou-yi",
+      "name": "Zhou Yi",
+      "realm": "Soul Transformation",
+      "quote": "salah satu dari sedikit orang aneh di Tahap Transformasi Jiwa di Planet Vermilion",
+      "first": false,
+      "card": 604.12
+    },
+    {
+      "id": "sun-tai",
+      "name": "Sun Tai",
+      "first": false,
+      "card": 623.45
+    },
+    {
+      "id": "hongdie",
+      "name": "Hongdie",
+      "first": false,
+      "card": 341.9
+    },
+    {
+      "id": "chi-hu",
+      "name": "Chi Hu",
+      "first": false,
+      "card": 356.45
+    },
+    {
+      "id": "ting-er",
+      "name": "Ting'er",
+      "first": true
+    },
+    {
+      "id": "tang-xiong",
+      "name": "Tang Xiong",
+      "realm": "late Soul Transformation",
+      "quote": "Tang Xiong, Sekte Lima Elemen, Transformasi Jiwa Tahap Akhir",
+      "first": true,
+      "card": 876.84
+    }
+  ],
+  "changes": [
+    "Indonesian fansubs read in full and checked against the official English (YouTube).",
+    "Official English calls the sect 'Shiyin Sect' (尸阴宗) = Corpse Yin Sect, and Tang Xiong 'Leader of the Five Elements Sect'.",
+    "Official English uses 'Soul Transformation Realm' for 化神 in this episode; the site's canonical name for 化神 is Soul Formation, and 婴变 is Soul Transformation."
+  ],
+  "flags": [
+    "264/650/700: the official English realm labels conflict with the canonical ladder; I used Indonesian 'Transformasi Jiwa' = Soul Transformation for Zhou Yi and Sun Tai.",
+    "449: Sun Tai borrows 'the little girl's' body (Hongdie); Zhou Yi chooses Chi Hu. Reading taken from 545-553.",
+    "Sun Tai's line 'Saya telah kehilangan satu jiwa' (993): how many souls he has left is unclear."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ep": 36,
+  "title": "Inheritance",
+  "summary": "Li Peng, the divine beast that guards the Dead Sea, bars Tuo Sen from the memory inheritance, and Duomu's group springs a God-locking formation; it turns out one of the eleven has taken over the beast's body. Wang Lin refuses to strike at the agreed moment, and when they turn on him their treasures will not respond, because he had placed Ancient God restrictions on them. Tuo Sen crushes them all with the Ancient God's power, but Wang Lin works out that the memory inheritance is hidden inside Tuo Sen himself and can only be entered by divine sense, and he sacrifices a clone to seize it. Tu Si's final message explains that Ancient Gods grow stronger by reshaping their bodies, that Wang Lin has gone through one reshaping, and where the Ink Stone chamber lies. Wang Lin returns to his own original body, reshaped by the Ancient God's power, gathers treasures and leaves the Land of the Ancient God, while Tuo Sen learns the inheritance reappears every thousand years and vows to kill him.",
+  "events": [
+    "Li Peng, guardian beast of the Dead Sea, fights Tuo Sen; the God-locking formation is sprung",
+    "Wang Lin stays out of the fight; the plotters' treasures fail because of his Ancient God restrictions",
+    "Tuo Sen kills the plotters with Ancient God power",
+    "Wang Lin finds the memory inheritance inside Tuo Sen and sacrifices a clone to take it",
+    "Tu Si explains body reshaping and the Ink Stone chamber",
+    "Wang Lin returns to his reshaped original body and leaves the Land of the Ancient God",
+    "Tuo Sen tortures a captive and swears revenge on Wang Lin"
+  ],
+  "introduced": [
+    "Li Peng",
+    "Ink Stone chamber",
+    "body reshaping (Ancient God)",
+    "God-locking formation"
+  ],
+  "cultivation": "Wang Lin's body is reshaped once by the Ancient God's memory; Tu Si says he went through eight reshapings.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "look": "his own original body again, reshaped by the Ancient God's power, no longer Ma Liang's face",
+      "first": false
+    },
+    {
+      "id": "tuo-sen",
+      "name": "Tuo Sen",
+      "first": false
+    },
+    {
+      "id": "duomu",
+      "name": "Duomu",
+      "first": false
+    },
+    {
+      "id": "li-peng",
+      "name": "Li Peng",
+      "quote": "[LI PENG, Binatang Ilahi, Penjaga Laut Kematian]",
+      "first": true,
+      "card": 349.2
+    },
+    {
+      "id": "tu-si",
+      "name": "Tu Si",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "From EP36 on, the AnimeKhor and YouTube timings match.",
+    "The official English track is missing 16:00-18:55; that stretch is from the Indonesian only."
+  ],
+  "flags": [
+    "AK 1076-1092: a voice says 'I want your body, which is already dead' and another remarks that Ma Liang's body has better talent than 'my previous body', followed by 'congratulations on regaining your life'. Who takes or comments on Ma Liang's body is unclear; EP42 confirms Wang Lin now wears his own face.",
+    "Who is tortured by Tuo Sen at the end (AK 1156) is not shown clearly."
+  ]
+}

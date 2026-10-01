@@ -1,0 +1,82 @@
+{
+  "ep": 42,
+  "title": "Stealing the Furnace Talisman",
+  "summary": "Wang Lin shows Li Muwan his true face, explaining that his old one belonged to Ma Liang's body, and she feeds his clone a long run of pills so it can form its core. Among his belongings she finds a pill sealed with yellow paper, at least rank 6, whose spirit power could form his Nascent Soul, but the way to open such seals has been lost. Sun Zhenwei, nearly killed by Xu Liguo, demands revenge from his father, presses Li Muwan about the stranger, and has the sect master confine her to the South Garden until the wedding. In a month the clone reaches Core Formation, and Zhou Lin, now out of seclusion, brings word from Li Muwan: a furnace talisman on the top floor of the Scripture Pavilion could tap the Seven Heaven-Seizing Furnaces' power to break the seal. Wang Lin takes it with his restriction flag, holding off the guardian elder Lu Fei, and vanishes, and even the elders' divine-sense questioning finds nothing. Ouyang Zi, the sect's master alchemist, then orders the furnaces opened.",
+  "events": [
+    "Wang Lin shows Li Muwan his real face",
+    "Li Muwan gives the clone pills to form a core",
+    "She finds a sealed rank 6 pill among his treasures",
+    "Sun Zhenwei has Li Muwan confined to the South Garden until the wedding",
+    "The clone reaches early Core Formation; Zhou Lin brings Li Muwan's plan",
+    "Wang Lin steals the furnace talisman from the Scripture Pavilion, holding off Lu Fei with a restriction flag",
+    "Ouyang Zi orders the furnaces opened"
+  ],
+  "introduced": [
+    "Lu Fei",
+    "Ouyang Zi",
+    "Scripture Pavilion",
+    "furnace talisman",
+    "Seven Heaven-Seizing Furnaces",
+    "sealed pill (yellow paper seal)"
+  ],
+  "cultivation": "Wang Lin's clone: early Core Formation. Lu Fei: early Nascent Soul. Ouyang Zi: early Nascent Soul.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "clone: early Core Formation",
+      "quote": "[Tubuh Klon Wang Lin, Tahap Awal Pembentukan Inti]",
+      "look": "his own face, not Ma Liang's",
+      "first": false,
+      "card": 756.2
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "sun-zhenwei",
+      "name": "Sun Zhenwei",
+      "first": false
+    },
+    {
+      "id": "sun-lingwu",
+      "name": "Sun Lingwu",
+      "first": false
+    },
+    {
+      "id": "zhou-lin",
+      "name": "Zhou Lin",
+      "first": false
+    },
+    {
+      "id": "lu-fei",
+      "name": "Lu Fei",
+      "realm": "early Nascent Soul",
+      "quote": "[Lu Fei, Penatua Sekte Yuntian Luar, Jiwa Baru Lahir Tahap Awal]",
+      "first": true,
+      "card": 926.9
+    },
+    {
+      "id": "ouyang-zi",
+      "name": "Ouyang Zi",
+      "realm": "early Nascent Soul",
+      "quote": "[Ouyang Zi, Master Alkemis dari Sekte Yuntian, Jiwa Baru Lahir Tahap Awal]",
+      "first": true,
+      "card": 1062.0
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Confirms Wang Lin no longer wears Ma Liang's face (see EP36)."
+  ],
+  "flags": [
+    "Who narrates that 'my master's divine sense far exceeds Core Formation' during the questioning (AK 1045) is unclear; it may be Zhou Lin about Li Muwan."
+  ]
+}

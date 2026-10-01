@@ -1,0 +1,87 @@
+{
+  "ep": 101,
+  "title": "The Star Guide",
+  "summary": "Yun Quezi lends Wang Lin the Liming Straw Hat again and reminds him of their old promise about the wooden statues, but Wang Lin only wants his life soul. Liu Mei vows to kill him, and Wang Lin guesses that the stranger with Ancient God aura is after the Cultivation Planet Crystal. When the Spirit Mountain gate breaks, a golden-armoured giant guards Ye Wuyou's tomb with a sword strike at Ascendant level, and Wang Lin takes the first blow himself after Qian Feng proposes they join forces. Inside, before Ye Wuyou's statue, a wounded Yun Quezi tells him the truth: the shattered Ancient God beneath Planet Suzaku, Tuo Sen, answered Ancestor Xu's plea, raised him to twelve leaves and drove him mad, and the whole war was Tuo Sen's plan to get the crystal and escape the Sea of Blood. Wang Lin sees that the glowing object is a Star Guide, which costs a life to use, and refuses when Yun Quezi tries to make him the sacrifice. He turns Tuo Sen's trapped puppet loose instead; it lunges for the real crystal and is wiped out at once. Wang Lin is pulled into the Immortal Seal Pavilion inside the crystal, where a voice asks if he will become the next Suzaku.",
+  "events": [
+    "Yun Quezi lends Wang Lin the Liming Straw Hat; Liu Mei swears to kill him",
+    "The Spirit Mountain gate collapses and cultivators storm in",
+    "A golden-armoured giant's Ascendant-level sword guards Ye Wuyou's tomb; Wang Lin takes the first strike",
+    "Yun Quezi explains that Tuo Sen drove Ancestor Xu mad and caused the war to reach the crystal",
+    "Wang Lin sees that the object is a Star Guide that costs a life to use",
+    "He refuses to sacrifice himself and releases Tuo Sen's puppet, which goes for the crystal",
+    "The crystal destroys the Ascendant puppet instantly",
+    "Wang Lin is drawn into the Immortal Seal Pavilion inside the crystal"
+  ],
+  "introduced": [
+    "Star Guide",
+    "Temple Guardian Formation",
+    "Golden-armoured giant",
+    "Ye Wuyou's statue",
+    "Sea of Blood",
+    "Immortal Seal Pavilion"
+  ],
+  "cultivation": "Tuo Sen's puppet is at Ascendant level. Ancestor Xu reached twelve leaves with Tuo Sen's help. Wang Lin has only just reached Soul Transformation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "early Soul Transformation",
+      "quote": "Zeng Niu baru saja mencapai Transformasi Jiwa (558s)",
+      "first": false
+    },
+    {
+      "id": "yun-quezi",
+      "name": "Yun Quezi",
+      "first": false
+    },
+    {
+      "id": "liu-mei",
+      "name": "Liu Mei",
+      "first": false
+    },
+    {
+      "id": "zhou-yi",
+      "name": "Zhou Yi",
+      "first": false
+    },
+    {
+      "id": "zi-xin",
+      "name": "Zi Xin",
+      "first": false
+    },
+    {
+      "id": "qian-feng",
+      "name": "Qian Feng",
+      "first": false
+    },
+    {
+      "id": "tuo-sen-puppet",
+      "name": "Tuo Sen's puppet",
+      "realm": "Ascendant",
+      "quote": "budidaya orang ini... benar-benar mencapai Ascendant (468-472s)",
+      "first": false
+    },
+    {
+      "id": "tuo-sen",
+      "name": "Tuo Sen",
+      "first": false
+    },
+    {
+      "id": "ancestor-xu",
+      "name": "Ancestor Xu",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep101.id.srt) with its name cards; card times are from that file.",
+    "Official YouTube English was checked alongside the Indonesian fansub for names and story beats; its realm names are unreliable (it says 'Nascent Soul' for Soul Transformation), so the Indonesian cards were used for realms.",
+    "Naming follows the earlier reviews and glossary: Planet Suzaku, Suzaku Tomb, Zhu Quezi, Yun Quezi, Hongdie, Forsaken Immortal Clan, Cultivation Planet Crystal (subs: Star Cultivation/Star Refining Crystal)."
+  ],
+  "flags": [
+    "The opening speaker who lends the straw hat (201-238s) is read as Yun Quezi from the statue promise; the subtitles do not name him.",
+    "Lines 290-313s (an enemy he fears, 'Memory Inheritance') are garbled in the Indonesian.",
+    "How Tuo Sen's puppet is freed (1086-1125s) is unclear: Wang Lin seems to release it against Yun Quezi.",
+    "The Ascendant 'divine ability' and 'River of Time' at 627-640s are not clearly attributed."
+  ]
+}

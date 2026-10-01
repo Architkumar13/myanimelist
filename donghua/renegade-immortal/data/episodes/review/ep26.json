@@ -1,0 +1,73 @@
+{
+  "ep": 26,
+  "title": "The Divine Path Art and the Chaotic Broken Stars",
+  "summary": "Inside the War God Temple's cave Wang Lin studies the Divine Path Art, which the ancestor Chen Chong carved onto a stone tablet from memory before dying soon after. Some law stops it being memorised; the art makes a clone that cultivates alongside the body and merges with it when the Nascent Soul forms. Meanwhile Xu Liguo secretly calls his old sect for help, and the Corpse Yin Sect, which owes his return to its upper sect in Tiangang Country, arrives with eight Nascent Soul cultivators to take Ma Liang away. They attack with the Nine Nether Black Ice Formation, but Duanmu Ji drives them off with ease. He also sees that Wang Lin lured them there on purpose, either to use him against his enemies or to escape in the confusion. Duanmu Ji then takes Wang Lin by an ancient teleportation array to the Chaotic Broken Stars, the way into the Land of the Ancient God, where they meet other great devils of the inner Sea of Devils, among them Gu Di and the Six Desire Devil Lord. Hunchback Meng is still missing, and each devil pays top-grade spirit stones to open the way.",
+  "events": [
+    "Wang Lin studies the Divine Path Art carved by Chen Chong and finds it cannot be memorised",
+    "He learns the art makes a clone that merges with the body at Nascent Soul, but decides he lacks the resources",
+    "Xu Liguo calls the Corpse Yin Sect for help; the sect sets out for the Huo Chu Alliance",
+    "Eight Corpse Yin Sect Nascent Soul cultivators demand Ma Liang and use the Nine Nether Black Ice Formation",
+    "Duanmu Ji drives them off and sees that Wang Lin lured them on purpose",
+    "Duanmu Ji and Wang Lin teleport to the Chaotic Broken Stars",
+    "They meet Gu Di and the Six Desire Devil Lord, and top-grade spirit stones are paid to open the way"
+  ],
+  "introduced": [
+    "Chen Chong",
+    "Corpse Yin Sect",
+    "Tiangang Sect",
+    "Nine Nether Black Ice Formation",
+    "Chaotic Broken Stars",
+    "Land of the Ancient God",
+    "Gu Di",
+    "Six Desire Devil Lord",
+    "Hunchback Meng",
+    "Giant Demon Clan",
+    "top-grade spirit stones",
+    "Planet Suzaku"
+  ],
+  "cultivation": "Duanmu Ji, at Soul Formation, routs eight early Nascent Soul cultivators of the Corpse Yin Sect. The Six Desire Devil Lord is one of the seven city lords of the inner Sea of Devils.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "duanmu-ji",
+      "name": "Duanmu Ji",
+      "realm": "Soul Formation",
+      "quote": "化神期强者",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "chen-chong",
+      "name": "Chen Chong",
+      "first": true
+    },
+    {
+      "id": "gu-di",
+      "name": "Gu Di",
+      "first": true
+    },
+    {
+      "id": "xu-liqing",
+      "name": "Xu Liqing",
+      "first": true,
+      "shownAs": "Six Desire Devil Lord"
+    }
+  ],
+  "changes": [
+    "Written from the official English and Chinese YouTube subtitles, checked against the AnimeKhor Indonesian fansubs.",
+    "神道术 = Divine Path Art; 尸阴宗 = Corpse Yin Sect (the English and the Chinese OCR also read it as 'Huyin/户阴宗'); 碎星乱 = Chaotic Broken Stars; 古神之地 = Land of the Ancient God; 六欲魔君 = Six Desire Devil Lord (Xu Liqing in the wiki); 孟驼子 = Hunchback Meng; 古帝 = Gu Di."
+  ],
+  "flags": [
+    "The Six Desire Devil Lord is never named on screen; the id xu-liqing follows the wiki.",
+    "16:58 '离天' (Li Tian) is mentioned as something that might swallow Wang Lin; EP29 shows it is Hunchback Meng's toad."
+  ]
+}

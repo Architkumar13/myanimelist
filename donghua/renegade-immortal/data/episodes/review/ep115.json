@@ -1,0 +1,80 @@
+{
+  "ep": 115,
+  "title": "Storming the Demon General's Residence",
+  "summary": "Half a year after Wang Lin vanished, Hu Pao leaves the Black Armor camp, and Shi San is nearly killed by Sima Yan before the new commander He Kun stops him and sends him to Demon General Mo Lihai, who wants strong bodies. In the immortal palace Wang Lin's clone wakes after a year: the single drop of wine has lifted him to great perfection of Soul Transformation, and he loots Yao Xixue's storage bags of Immortal Jades, Blood Protection Talismans, Blood Soul Pills and a Blood Compass, and booby-traps the Blood Ancestor's new teleport array. Back at the camp he crushes He Kun, learns where Shi San is, and smashes his way through the gates of Ancient Demon City, defeating First Commander Li Qing with his Yellow Springs. Mo Lihai meets him with the Hundred Waves Demon Sea, which Wang Lin's golden talismans block on their own, and Wang Lin ends the fight by showing an illusory heavenly palm. Mo Lihai returns Shi San, calls Wang Lin brother and names him his first Vice General, asking his help at the Demon General Tournament in Sky Demon City in three months.",
+  "events": [
+    "Six months earlier: Hu Pao leaves; He Kun saves Shi San from Sima Yan and sends him to Mo Lihai",
+    "Wang Lin wakes after a year at great perfection Soul Transformation, nine drops of wine left",
+    "He loots Yao Xixue's bags and sets restrictions on the Blood Ancestor's teleport array",
+    "He retakes the Black Armor camp from He Kun",
+    "He breaks the gates of Ancient Demon City and defeats Li Qing",
+    "Golden talismans guard him against Mo Lihai's Hundred Waves Demon Sea",
+    "An illusory heavenly palm ends the duel; Mo Lihai returns Shi San",
+    "Mo Lihai makes Wang Lin his Vice General for the Demon General Tournament"
+  ],
+  "introduced": [
+    "He Kun",
+    "Li Qing",
+    "Hundred Waves Demon Sea",
+    "Blood Protection Talismans",
+    "Blood Compass",
+    "Demon General Tournament (named)",
+    "Tianyao military law"
+  ],
+  "cultivation": "Wang Lin's clone reaches great perfection of Soul Transformation from one drop of immortal wine. He Kun: mid Soul Transformation, 100,000 armor. Li Qing: late Soul Transformation, 150,000 armor.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "great perfection Soul Transformation (clone)",
+      "quote": "[Klon Wang Lin, Transformasi Jiwa Siklus Besar]",
+      "first": false,
+      "card": 197
+    },
+    {
+      "id": "he-kun",
+      "name": "He Kun",
+      "realm": "mid Soul Transformation",
+      "quote": "[He Kun, Komandan Baru Kamp Zirah Hitam, Kekuatan Zirah Iblis 100.000 (Tahap Transformasi Jiwa Tengah)]",
+      "first": true,
+      "card": 170
+    },
+    {
+      "id": "li-qing",
+      "name": "Li Qing",
+      "realm": "late Soul Transformation",
+      "quote": "[Li Qing, Panglima Pertama Kota Iblis Kuno, Kekuatan Armor Iblis 150.000 (Tahap Transformasi Jiwa Akhir)]",
+      "first": true,
+      "card": 693
+    },
+    {
+      "id": "mo-lihai",
+      "name": "Mo Lihai",
+      "first": false
+    },
+    {
+      "id": "shi-san",
+      "name": "Shi San",
+      "first": false
+    },
+    {
+      "id": "hu-pao",
+      "name": "Hu Pao",
+      "first": false
+    },
+    {
+      "id": "sima-yan",
+      "name": "Sima Yan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep115.id.srt) and its caption cards; the YouTube English track for this episode is machine-made and garbled, used only for cross-checks.",
+    "The card names Wang Lin's body here as his clone (Klon Wang Lin), as in EP105."
+  ],
+  "flags": [
+    "Li Qing's card says both 'Panglima Pertama' and 'Komandan Pertama' (693s); rendered First Commander.",
+    "The 'illusory palm' (1011s) is a technique Wang Lin has not fully learned; its origin is not named this episode (the wiki links it to the palm he saw in the Celestial Realm)."
+  ]
+}

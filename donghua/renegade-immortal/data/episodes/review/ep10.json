@@ -1,0 +1,77 @@
+{
+  "ep": 10,
+  "title": "Mourning",
+  "summary": "Wang Zhuo and Wang Hao come home to a celebration in the Wang family village, where the family still waits for Tie Zhu. Teng Huayuan arrives with Gao Qiming, finds the village through Wang Lin's blood ties, and starts slaughtering the Wang clan. Wang Lin appears and shouts that he alone killed Teng Li, but he cannot stop the old monster. Before his eyes his father and mother die, refusing to crush the jade bead that would call him back into danger, and Teng Huayuan seals their souls in a Soul Flag, giving Wang Lin three months to come to Cassia Valley. Wang Zhuo and Wang Hao are spared at Pu Nanzi's request. In his grief Wang Lin breaks a bottleneck into the Extreme Realm, which makes him the strongest at his level but caps him at Nascent Soul. Situ Nan says the souls in the flag can one day be revived, and Wang Lin enters Cassia Valley to seize all seven tokens, learning from a captive that Liu Mei holds the last one.",
+  "events": [
+    "Wang Zhuo (Xuan Dao Sect) and Wang Hao are welcomed home",
+    "Teng Huayuan tracks Wang Lin's blood relatives to the village",
+    "Teng Huayuan massacres the Wang clan; Wang Lin calls him out but cannot stop him",
+    "Wang Lin's parents die; their souls are sealed in the Soul Flag",
+    "Wang Zhuo and Wang Hao are spared because Pu Nanzi asked",
+    "Wang Lin breaks into the Extreme Realm; Situ Nan explains its price",
+    "In Cassia Valley Wang Lin takes tokens from other sects and learns Liu Mei holds the last",
+    "Teng Huayuan arrives at the valley"
+  ],
+  "introduced": [
+    "Wang family village",
+    "Soul Flag",
+    "Extreme Realm",
+    "Liu Mei (mentioned)",
+    "Piao Miao Sect"
+  ],
+  "cultivation": "Wang Lin breaks a bottleneck and forms the Extreme Realm: the strongest at its level, but from now on he can only reach Nascent Soul. Wang Lin is at Foundation Establishment in Cassia Valley.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "Foundation Establishment (Extreme Realm)",
+      "quote": "You just unexpectedly broke through the bottleneck, produce extreme state",
+      "first": false
+    },
+    {
+      "id": "wang-tianshui",
+      "name": "Wang Tianshui",
+      "first": false
+    },
+    {
+      "id": "wang-lin-mother",
+      "name": "Wang Lin's mother",
+      "first": false
+    },
+    {
+      "id": "wang-zhuo",
+      "name": "Wang Zhuo",
+      "first": false
+    },
+    {
+      "id": "wang-hao",
+      "name": "Wang Hao",
+      "first": false
+    },
+    {
+      "id": "teng-huayuan",
+      "name": "Teng Huayuan",
+      "first": false
+    },
+    {
+      "id": "gao-qiming",
+      "name": "Gao Qiming",
+      "first": false
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Checked the official English against the AnimeKhor Indonesian subs, which match closely."
+  ],
+  "flags": [
+    "How Wang Lin is present at the village (in person, or projected through the curse link) is not clear (5:38-8:11).",
+    "'Daoyou Teng, let this person stay, I'm useful' (9:33): who says it and about whom is unclear.",
+    "Wang Lin's parents' deaths are inferred from the scene (their souls are later in the Soul Flag); no line says 'dead'.",
+    "Liu Mei's sect is not stated; the captive says she wants the last token kept for the Xuan Dao Sect."
+  ]
+}

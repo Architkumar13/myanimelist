@@ -1,0 +1,78 @@
+{
+  "ep": 129,
+  "title": "Rising Abyss",
+  "summary": "Inside Ling Tianhou's sword formation deep in the Tidal Abyss, Wang Lin finds Zhou Yi, the spirit of the Rain sword, dying of his own will because Ting'er is gone. Wang Lin tells him her true name is Qing Shuang, daughter of the Immortal Emperor Qing Lin, who may still be recovering somewhere in the Demon Spirit Land, and the hope wakes Zhou Yi. Zhou Yi breaks free, gives Wang Lin an immortal sword that answers only to him, plants ancient sword intent and a loyalty seal in Wang Lin's unruly sword spirit, and asks only for help finding Ting'er's father. They dive to the bottom of the abyss through a violet fog that eats consciousness, looking for the previous Rain sword spirit, and find the old Fortune sword whose copy Wang Lin once saw at the Heng Yue Sect, while the figure in Wang Lin's scroll keeps urging him further down. In the Fire Demon Prefecture the Nirvana Shatterer couple Wang Wei and Hu Juan leave seclusion and guess that Tan Lang is after the Tidal Token. Wang Lin finds Tan Lang and the Da Lou Sword Sect disciples trapped by beasts at the exit, works out that the violet fog is tied to the token that opens Qing Lin's hidden cave, and walks in alone while Zhou Yi hides.",
+  "events": [
+    "Wang Lin wakes Zhou Yi, the Rain sword spirit, inside Ling Tianhou's sword formation",
+    "Wang Lin reveals Ting'er's real name, Qing Shuang, daughter of Immortal Emperor Qing Lin, who may be hiding in the Demon Spirit Land",
+    "Zhou Yi breaks out, gives Wang Lin an immortal sword bound to him alone and seals loyalty into Wang Lin's sword spirit",
+    "They dive through the violet fog to the abyss floor and find the previous-generation Fortune sword",
+    "Wang Wei and Hu Juan, a Nirvana Shatterer couple, leave seclusion and talk about Tan Lang and the Tidal Token",
+    "Wang Lin spots Tan Lang and the Da Lou Sword Sect disciples trapped at the exit by mosquito beasts",
+    "Wang Lin links the violet fog to the token that opens Qing Lin's cave and goes in alone"
+  ],
+  "introduced": [
+    "Qing Shuang (Ting'er's true name)",
+    "Qing Lin, Immortal Emperor",
+    "Wang Wei",
+    "Hu Juan",
+    "Tidal Token",
+    "Fortune sword (previous generation)",
+    "Fire Demon Prefecture",
+    "Cloud Immortal Sanctum"
+  ],
+  "cultivation": "Wang Wei and Hu Juan, the Celestial Cloud cultivation couple: Nirvana Shatterer. Tan Lang claims his injuries may make his cultivation fall.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "zhou-yi",
+      "name": "Zhou Yi",
+      "first": false
+    },
+    {
+      "id": "ling-tianhou",
+      "name": "Ling Tianhou",
+      "first": false
+    },
+    {
+      "id": "wang-wei",
+      "name": "Wang Wei",
+      "realm": "Nirvana Shatterer",
+      "quote": "Cloud Immortal Partners. Nirvana Shatterer Stage",
+      "first": true,
+      "card": 782.5
+    },
+    {
+      "id": "hu-juan",
+      "name": "Hu Juan",
+      "realm": "Nirvana Shatterer",
+      "quote": "Cloud Immortal Partners. Nirvana Shatterer Stage",
+      "first": true,
+      "card": 782.5
+    },
+    {
+      "id": "tan-lang",
+      "name": "Tan Lang",
+      "first": false
+    },
+    {
+      "id": "chen-long",
+      "name": "Chen Long",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles, checked against the AnimeKhor Indonesian fansubs. The official subs call Tan Lang 'Greedwolf', the Heavenly Fate Sect 'Tianyun Sect', the Da Lou Sword Sect 'Supreme Sword Sect' and Tian Yunzi (All-Seer) 'the Chosen One'; canonical names used.",
+    "The YouTube Chinese track for EP129-132 is a machine translation of the English (not the original), so it was not used for 汉字."
+  ],
+  "flags": [
+    "Wang Lin quotes Yao Xixue about the token (20:00) and Twelfth Boar's (Hai Zhu's) memories; both were captured in earlier episodes.",
+    "The swords: 'Rainblade' / 'Fortuneblade' (official) vs 'Roh Pedang Hujan' / 'Pedang Kekayaan Megah' (Indonesian); rendered as the Rain sword and the Fortune sword.",
+    "Wang Wei and Hu Juan card time is from the AnimeKhor file (782.5s); YouTube copy has it at 15:43."
+  ]
+}

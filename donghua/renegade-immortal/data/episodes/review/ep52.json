@@ -1,0 +1,67 @@
+{
+  "ep": 52,
+  "title": "Revenge Complete",
+  "summary": "A flashback shows Lin Yi, the Heavenly Tower envoy, gathering Zhao's Nascent Soul masters to launch a god-making plan: rip out the spiritual roots of every mortal in Zhao to feed one talent to Soul Formation and lift Zhao from a level-3 to a level-4 cultivation country, with the Teng family running it and Pu Nanzi's Xuan Dao Sect ordered to help. In the present Pu Nanzi steps in to protect Teng Huayuan and survives one blow, then Lin Yi arrives and offers to spare Wang Lin for the Heaven Defying Bead. Wang Lin refuses and calls down a heavenly tribulation; Lin Yi tries to have someone die in his place, and Pu Nanzi, burning his own lifespan for the mortals of Zhao, holds him back. Wang Lin forces Teng Huayuan to name the man who found his home village, Gao Qiming of the Piao Miao Sect, and kills him; Gao Qiming then takes his own life to atone, saying he also kept one Wang bloodline safe. At his parents' grave Wang Lin declares his revenge complete, promises Situ Nan his freedom once he reaches Soul Transformation, and resolves to keep walking the path of cultivation.",
+  "events": [
+    "Flashback: Lin Yi lays out the god-making plan; the Teng family volunteers and Xuan Dao Sect is ordered to help",
+    "Pu Nanzi shields Teng Huayuan and survives one strike from Wang Lin",
+    "Lin Yi demands the Heaven Defying Bead; Wang Lin refuses and summons a heavenly tribulation",
+    "Pu Nanzi burns his lifespan to hold the envoy back",
+    "Teng Huayuan names Gao Qiming of the Piao Miao Sect as the man who located the Wang village, and dies",
+    "Gao Qiming kills himself to atone and asks that the Piao Miao Sect be spared",
+    "Wang Lin mourns his parents and promises Situ Nan freedom at Soul Transformation"
+  ],
+  "introduced": [
+    "Lin Yi (in person)",
+    "Pu Nanzi",
+    "Xuan Dao Sect",
+    "god-making plan",
+    "Heavenly Tower",
+    "Gao Qiming (named)",
+    "Piao Miao Sect"
+  ],
+  "cultivation": "Lin Yi says Zhao is a level-3 cultivation country; a Soul Formation cultivator would lift it to level 4. Pu Nanzi is called the strongest master in Zhao.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "lin-yi",
+      "name": "Lin Yi",
+      "first": false
+    },
+    {
+      "id": "pu-nanzi",
+      "name": "Pu Nanzi",
+      "first": true
+    },
+    {
+      "id": "teng-huayuan",
+      "name": "Teng Huayuan",
+      "first": false
+    },
+    {
+      "id": "gao-qiming",
+      "name": "Gao Qiming",
+      "first": false
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Read both the official English and the Indonesian fansub; no name cards in this episode."
+  ],
+  "flags": [
+    "Glossary title is 'Punnan Zi' (朴南子, aka Piao Nanzi); used Piao Nanzi. Official English says 'Pu Nanzi' and 'Sect Leader Bu'.",
+    "11:27-11:56: who Lin Yi tells to 'die for me' and what finally happens to Lin Yi are unclear; Piao Nanzi burns lifespan to delay him.",
+    "'Babel Tower' (official) / 'Menara Surgawi' (Indonesian): written as Heavenly Tower; 汉字 not available.",
+    "15:51 'Wang Tiantu lineage' that Gao Qiming protected is unidentified.",
+    "Closing memories of Li Muwan wanting to stay at the Cloud Sky Sect are flashback, not new events."
+  ]
+}

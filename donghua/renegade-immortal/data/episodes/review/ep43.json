@@ -1,0 +1,75 @@
+{
+  "ep": 43,
+  "title": "Nascent Soul Embryo",
+  "summary": "Zhou Lin, who owes Li Muwan his life, guards the secret room she made, where Wang Lin's clone and Li Muwan plan to use the furnace talisman to tap the Seven Heaven-Seizing Furnaces, built by the Cloud Sky Sect's founding ancestor, while the sect refines pills. Ouyang Zi leads the furnace opening with his pill-sacrifice technique, burning rank 4 pills to raise a rank 5 one, and Wang Lin's sealed pill turns out to be a rank 7 Green Cloud Pill. Li Muwan steps in to steady the furnaces for Ouyang Zi, and his rank 5 pill succeeds while the huge vortex hides the power flowing to Wang Lin. Sun Zhenwei then reveals he has killed Zhou Lin for acting secretly and threatens Li Muwan into her wedding dress. The clone forms a Nascent Soul embryo, but his Ji Realm divine sense fights the formation. Guests such as Tian Yi of the Luoye Sect arrive and the double cultivation ceremony begins.",
+  "events": [
+    "Zhou Lin guards the secret room for Li Muwan",
+    "Li Muwan explains the Seven Heaven-Seizing Furnaces and her own hidden furnace",
+    "Ouyang Zi sacrifices rank 4 pills to refine a rank 5 pill",
+    "Wang Lin's sealed pill is a rank 7 Green Cloud Pill",
+    "Li Muwan helps Ouyang Zi and covers the flow of spirit power",
+    "Sun Zhenwei kills Zhou Lin and threatens Li Muwan",
+    "Wang Lin's Nascent Soul embryo forms but the Ji Realm resists",
+    "Guests arrive and the wedding ceremony begins"
+  ],
+  "introduced": [
+    "Tian Yi",
+    "Liu Fei",
+    "Luoye Sect",
+    "pill sacrifice technique",
+    "Green Cloud Pill",
+    "Nascent Soul embryo"
+  ],
+  "cultivation": "Tian Yi, Luoye Sect master: mid Nascent Soul. Liu Fei, Cloud Sky outer master: mid Nascent Soul. Wang Lin's clone forms a Nascent Soul embryo.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "zhou-lin",
+      "name": "Zhou Lin",
+      "first": false
+    },
+    {
+      "id": "ouyang-zi",
+      "name": "Ouyang Zi",
+      "first": false
+    },
+    {
+      "id": "sun-zhenwei",
+      "name": "Sun Zhenwei",
+      "first": false
+    },
+    {
+      "id": "tian-yi",
+      "name": "Tian Yi",
+      "realm": "mid Nascent Soul",
+      "quote": "[Manusia Sejati Tianyi, Master Sekte Luoye, Jiwa Baru Lahir Tahap Tengah]",
+      "first": true,
+      "card": 921.9
+    },
+    {
+      "id": "liu-fei",
+      "name": "Liu Fei",
+      "realm": "mid Nascent Soul",
+      "quote": "[Liu Fei, Master Luar dari Sekte Yuntian, Jiwa Baru Lahir Tahap Tengah]",
+      "first": true,
+      "card": 931.0
+    }
+  ],
+  "changes": [
+    "Zhou Lin dies here, killed off-screen by Sun Zhenwei."
+  ],
+  "flags": [
+    "Liu Fei (EP43, mid Nascent Soul, outer master) and Lu Fei (EP42, early Nascent Soul, outer elder) are read as two people; check later episodes.",
+    "'Green Cloud Pill kelas 7' is the Indonesian reading; the pill's grade was 'at least rank 6' in EP42."
+  ]
+}

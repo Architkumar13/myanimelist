@@ -1,0 +1,63 @@
+{
+  "ep": 37,
+  "title": "Concubine Yun",
+  "summary": "Leaving through the Chaotic Broken Stars, Wang Lin, at late Core Formation, fights stone copies of himself and finds that they can copy his treasures but not the body rebuilt by the Ancient God's power. He comes out beside Mo Yun, last disciple of the Qihuang Sect, who is fleeing Qian Kun of the Poison Demon Palace for stealing her sect's ancestral furnace. Both take him for a Soul Formation expert, and Mo Yun tells him that Hunchback Meng, Duanmu Ji, the Six Desire Devil Lord and the old Ancient Emperor of the Heavenly Devil Cave vanished in the Broken Stars 200 years ago. Because Qian Kun belongs to Meng's line and could spread word of his escape, Wang Lin has Xu Liguo devour him, absorbs most of his golden core, and puts an ancient restriction on Mo Yun that flares every three days. In Qilin City, one of the ten great cities of the Sea of Devils, he unseals relic treasures and buys materials for restriction flags, wondering where Li Muwan is after 200 years, then lets Mo Yun look for anyone who can break his restriction.",
+  "events": [
+    "Wang Lin fights stone copies of himself in the Chaotic Broken Stars",
+    "He meets Mo Yun fleeing Qian Kun of the Poison Demon Palace",
+    "Mo Yun tells him four Soul Formation masters vanished there 200 years ago",
+    "Xu Liguo devours Qian Kun; Wang Lin absorbs his golden core",
+    "Wang Lin puts a three-day ancient restriction on Mo Yun",
+    "In Qilin City he unseals relic treasures and buys restriction-flag materials",
+    "Mo Yun goes looking for someone who can lift the restriction"
+  ],
+  "introduced": [
+    "Mo Yun",
+    "Qian Kun",
+    "Qihuang Sect",
+    "Poison Demon Palace",
+    "Qilin City",
+    "Chaotic Broken Stars",
+    "Heavenly Devil Cave",
+    "Ten Thousand Devils Hundred Days Kill Order (mentioned)"
+  ],
+  "cultivation": "Wang Lin: late Core Formation. Mo Yun: early Core Formation. Qian Kun: mid Core Formation.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "late Core Formation",
+      "quote": "(Post stage of dan formation) / Tahap Akhir Pembentukan Inti.",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "mo-yun",
+      "name": "Mo Yun",
+      "realm": "early Core Formation",
+      "quote": "[Mo Yun, Murid Sekte Qihuang, Tahap Awal Formasi Inti]",
+      "first": true,
+      "card": 287.5
+    },
+    {
+      "id": "qian-kun-poison-demon",
+      "name": "Qian Kun",
+      "realm": "mid Core Formation",
+      "quote": "[Qian Kun, Murid Istana Iblis Racun, Tahap Tengah Formasi Inti]",
+      "first": true,
+      "card": 291.0
+    }
+  ],
+  "changes": [
+    "Mo Yun calls herself Yun'er; the episode title 'Concubine Yun' refers to her (she was a servant of the Poison Demon Palace's master)."
+  ],
+  "flags": [
+    "The 'late Core Formation' caption at 183 s has no name attached; it is read as Wang Lin.",
+    "The shopkeeper's tale of a Foundation cultivator who flayed a dragon and was hit by the Ten Thousand Devils Hundred Days Kill Order 200 years ago describes Wang Lin's past, not shown here."
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "ep": 96,
+  "title": "Situ Nan Returns",
+  "summary": "Situ Nan, awake again and speaking through Wang Lin, drives off Zhu Quezi, who recognises him as the second Suzaku when he names the first Suzaku, Ye Wuyou. For Ye Wuyou's sake Situ Nan lends Zhu Quezi the Fourth Main Soul for three years to fight the Forsaken Immortal Clan, but takes two of his fingers as the price. Dun Tian, at peace, pours his memories into a memory flag for Wang Lin and wipes his own mind to join the Billion Soul Flag beside his master Yun Yimo. In the north of the Suzaku Continent, Situ Nan devours the Ancestor Spirit of a Reincarnation Tree, wiping out an Ascendant shaman the clan was about to hatch. With Wang Lin's help, he lures a young Ascendant-level Forsaken pursuer into the Jiuli Qi barrier of the Little Northern Extreme Fire region and seizes his Demon Child body. Situ Nan lets Wang Lin keep the Heaven Defying Bead and warns him about the Cultivation Planet Crystal, the Cultivation Alliance's tool for draining the life souls of a planet's people, which Situ Nan himself sealed long ago. Wang Lin swears that no one will control his fate and that he will take back Wan'er's life soul, which the crystal also holds.",
+  "events": [
+    "Situ Nan drives off Zhu Quezi, who realises he is the second Suzaku",
+    "Situ Nan lends the Fourth Main Soul for three years and takes two of Zhu Quezi's fingers",
+    "Dun Tian leaves his memories in a memory flag and joins the Billion Soul Flag",
+    "Situ Nan devours the Ancestor Spirit of a Reincarnation Tree",
+    "Situ Nan and Wang Lin trap a young Forsaken Ascendant in the Little Northern Extreme Fire region (Jiuli Qi barrier); Situ Nan takes his body",
+    "Situ Nan gives up the Heaven Defying Bead to Wang Lin",
+    "Situ Nan explains the Cultivation Planet Crystal that he sealed on Planet Suzaku"
+  ],
+  "introduced": [
+    "Ye Wuyou (named)",
+    "Yun Yimo",
+    "memory flag",
+    "Little Northern Extreme Fire region",
+    "Jiuli Qi",
+    "Extreme Flame Moonlight",
+    "Cultivation Planet Crystal",
+    "Heart of the Cultivation Star"
+  ],
+  "cultivation": "Yun Yimo, a former master of the Soul Refining Sect, is at late Soul Transformation (in memory). The Forsaken Immortal Fourth Ancestor is a nine-leaf shaman, who mocks Zhu Quezi's opponent as only early Ascendant. Situ Nan's new body has a Demon Child physique and Ascendant cultivation. Situ Nan notes that Wang Lin has reached Soul Transformation despite having an Extreme Realm.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    },
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "zhu-quezi",
+      "name": "Zhu Quezi",
+      "first": false
+    },
+    {
+      "id": "dun-tian",
+      "name": "Dun Tian",
+      "look": "seen as a child and a young man in his memories",
+      "first": false,
+      "card": 505.44
+    },
+    {
+      "id": "yun-yimo",
+      "name": "Yun Yimo",
+      "realm": "late Soul Transformation",
+      "quote": "[Yun Yimo, Mantan Master Sekte Pemurnian Jiwa, Transformasi Jiwa Tahap Akhir]",
+      "first": true,
+      "card": 517.12
+    },
+    {
+      "id": "forsaken-immortal-fourth-ancestor",
+      "name": "Fourth Ancestor of the Forsaken Immortal Clan",
+      "realm": "nine-leaf shaman",
+      "quote": "[Leluhur Keempat Klan Abadi Terabaikan, Dukun Sembilan Daun]",
+      "first": true,
+      "card": 649.7
+    }
+  ],
+  "changes": [
+    "Checked against the official English and Chinese YouTube subtitles (ep96.en/zh.vtt) and the Indonesian fansub.",
+    "The barrier is 九黎之气 (Jiuli Qi), not 'ninefold dark energy'. The light is 极炎月之光. The crystal is 修星之晶 (Cultivation Planet Crystal), and the object linked to it is 修星之心. The body Situ Nan takes has 魔童肉身和问鼎修为. The final vow is 婉儿命魂我也会一并夺回."
+  ],
+  "flags": [
+    "The Forsaken cultivator whose body Situ Nan takes is not named.",
+    "The final card '[Film Soul Land - 12 Juli]' is an ad."
+  ]
+}

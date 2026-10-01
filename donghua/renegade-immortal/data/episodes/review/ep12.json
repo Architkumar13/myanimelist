@@ -1,0 +1,62 @@
+{
+  "ep": 12,
+  "title": "Possession",
+  "summary": "A flashback shows Pu Nanzi five hundred years ago, saved near a space rift by a fellow cultivator. Wang Lin's consciousness is swallowed by a rift and drifts in a dead space where he meets Soul Swallowers, who hunt two-tentacled wandering spirits and tell him the rift can only be opened from outside. He spends three hundred years there, only three years outside, growing as a Soul Swallower while the Cultivation Alliance's envoys puzzle over the unstable battlefield and plan to evacuate it. When his consciousness slips out, he finds Ma Liang, a War Shrine Sect disciple from the Fire Country, being robbed by the infamous killers Xu Hao and Ge Yang. Ge Yang stabs Ma Liang in the back after letting him go. As Ma Liang dies, Wang Lin offers a deal: Ma Liang's body in exchange for killing his murderers, and he takes the body.",
+  "events": [
+    "Flashback: Pu Nanzi is saved near a space rift 500 years ago",
+    "Wang Lin's consciousness becomes a Soul Swallower among wandering spirits",
+    "300 years pass inside the rift, 3 years outside",
+    "Alliance envoys decide to cancel the cleanup and evacuate in three days",
+    "Ma Liang is robbed and stabbed by Xu Hao and Ge Yang",
+    "Wang Lin's consciousness strikes a deal with the dying Ma Liang and takes his body"
+  ],
+  "introduced": [
+    "Soul Swallowers",
+    "wandering spirits",
+    "Ma Liang",
+    "Xu Hao",
+    "Ge Yang",
+    "War Shrine Sect",
+    "Fire Country (Hou Fen)"
+  ],
+  "cultivation": "Wang Lin is at late Foundation Establishment as he returns.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "late Foundation Establishment",
+      "quote": "Wang Lin | Late stage of foundation building",
+      "first": false,
+      "card": 1049.0
+    },
+    {
+      "id": "pu-nanzi",
+      "name": "Pu Nanzi",
+      "first": false
+    },
+    {
+      "id": "ma-liang",
+      "name": "Ma Liang",
+      "first": true
+    },
+    {
+      "id": "xu-hao",
+      "name": "Xu Hao",
+      "first": true
+    },
+    {
+      "id": "ge-yang",
+      "name": "Ge Yang",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Only the official English track exists for EP12 (AnimeKhor has the video, no subtitles)."
+  ],
+  "flags": [
+    "The caption 'Wang Lin | Late stage of foundation building' (17:29) conflicts with EP11 (early) and EP14 (mid Foundation Establishment after a year); it may describe Ma Liang's body. Card time is from the YouTube upload.",
+    "The 500-years-ago flashback with 'Piao Nanzi' (3:57) is unclear about who saved him and why it is shown.",
+    "Ma Liang's name is first said in EP13; 'Fire Country' = 火焚国, Hou Fen in the glossary."
+  ]
+}

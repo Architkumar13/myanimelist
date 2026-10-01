@@ -1,0 +1,73 @@
+{
+  "ep": 147,
+  "title": "Claiming a Planet",
+  "summary": "With twenty years left before the Thunder Celestial Realm opens, Wang Lin goes to Qing Ling Star, a planet of mortals in the poor Southern Domain where the strongest cultivators are Nascent Soul. There he meets Zhang Xinhai, the dying head of the Zhang family, extends his life by ten years, and in return orders the family to collect the resentment of dying mortals across the planet for his Yellow Springs (Netherworld) Dao. He declares the land within ten thousand miles of Hengyun Peak forbidden and spends the years merging his domain into the Karma Whip, shifting it from life and death toward karma; when Xu Liguo, proud of the ancient sword intent he has taken in, mouths off, Wang Lin uses the whip's karma on him until he begs. Zhang Yang becomes head of the Zhang family and plants Ascension Fruit across the planet, the Yellow Springs gains the shadow of a spring soul, and Wang Lin's avatar reaches Ascendant great perfection, the end of the first step. Three months before the realm opens he goes to Sheng Tan Planet to get a Thunder Cauldron, where the Zhang ancestor Zhang Zhen, an Illusory Yin cultivator, calls him an impostor posing as an envoy.",
+  "events": [
+    "Xu Liguo boasts that he has conquered an ancient sword intent",
+    "Wang Lin extends Zhang Xinhai's life by ten years on Qing Ling Star",
+    "He orders the Zhang family to collect mortal resentment and claims Hengyun Peak as forbidden land",
+    "He merges his domain into the Karma Whip and tests its karma on Xu Liguo",
+    "Zhang Yang leads the family and plants Ascension Fruit across the planet",
+    "Wang Lin's avatar reaches Ascendant great perfection",
+    "On Sheng Tan Planet, Zhang Zhen calls Wang Lin an impostor envoy"
+  ],
+  "introduced": [
+    "Qing Ling Star (Planet Qing Ling)",
+    "Zhang Xinhai",
+    "Zhang Yang",
+    "Zhang family",
+    "Hengyun Peak",
+    "Karma Whip",
+    "Sheng Tan Planet (Planet Sheng Tan)",
+    "Zhang Zhen"
+  ],
+  "cultivation": "Zhang Xinhai: late Nascent Soul. Zhang Yang: early Nascent Soul. Wang Lin's avatar: Ascendant great perfection, one year and eight months after his life and death domain reached perfection. Zhang Zhen: Illusory Yin.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "Ascendant great perfection (avatar)",
+      "quote": "（王林分身 问鼎大圆满）",
+      "first": false,
+      "card": 1182
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "zhang-xinhai",
+      "name": "Zhang Xinhai",
+      "realm": "late Nascent Soul",
+      "quote": "（张新海 张家家主 元婴后期）",
+      "first": true,
+      "card": 318
+    },
+    {
+      "id": "zhang-yang",
+      "name": "Zhang Yang",
+      "realm": "early Nascent Soul",
+      "quote": "（张阳 张家少主 元婴初期）",
+      "first": true,
+      "card": 319
+    },
+    {
+      "id": "zhang-zhen",
+      "name": "Zhang Zhen",
+      "realm": "Illusory Yin",
+      "quote": "（张振 张家始祖 阴虚）",
+      "first": true,
+      "card": 1271
+    }
+  ],
+  "changes": [
+    "No AnimeKhor subtitles for this episode; written from the official English and Chinese tracks. Card times are YouTube times.",
+    "'Kunji Whip' = Karma Whip (因果昆极鞭); 'Altar Star' = Sheng Tan Planet (圣坛星); 'Qingling Star' = Planet Qing Ling (青灵星); 'Nether Gate / Dao of the Netherworld' = Yellow Springs (黄泉)."
+  ],
+  "flags": [
+    "Zhang Zhen on Sheng Tan Planet is called 'ancestor of the Zhang clan'; it is unclear whether this is the same Zhang family as on Qing Ling Star.",
+    "Card times are from the YouTube copy, not AnimeKhor."
+  ]
+}

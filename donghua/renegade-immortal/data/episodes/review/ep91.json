@@ -1,0 +1,67 @@
+{
+  "ep": 91,
+  "title": "Two Souls in One Body",
+  "summary": "Wang Lin examines a drop of Ancient God blood taken from the Giant Demon ancestor, and the soul fragment of a woman named Mei Ji begs him to let her go. He returns to Zhou Ru and Tie Yan and, to keep the trouble of his killings away from Li Muwan's revival, moves Zhou Ru to a stone house in the wastes of Planet Yue. Wang Lin knows the Heavenly Dao will strike again when Zhou Ru turns eighteen and Wan'er's Nascent Soul is complete. Four years later, the sixteen-year-old Zhou Ru dreams of an older sister waking inside her, and Wang Lin realises the body has two consciousnesses and that Wan'er's waking will swallow Zhou Ru. He tells Zhou Ru the truth about Li Muwan, and she agrees to have her soul sealed for a while, on his promise to find her a better body. The white tiger Xiao Bai brings her a Nascent fruit, and Zhou Ru tells Wang Lin to spare it. Two years later Wang Lin tells her the story of how he met Wan'er as the moment of her waking nears.",
+  "events": [
+    "Wang Lin finds Ancient God blood in the ancestor's treasure and meets the soul fragment Mei Ji",
+    "He reunites with Zhou Ru and Tie Yan and takes Zhou Ru and Xiao Bai to Planet Yue",
+    "He plans how to face the Heavenly Dao when Zhou Ru turns eighteen",
+    "At sixteen Zhou Ru feels another person inside her",
+    "Wang Lin tells her about Li Muwan and agrees to seal her soul until he finds her a new body",
+    "Xiao Bai brings a Nascent fruit; Zhou Ru asks Wang Lin to spare the tiger",
+    "Two years later Wang Lin tells Zhou Ru his story with Wan'er"
+  ],
+  "introduced": [
+    "Mei Ji",
+    "Planet Yue",
+    "Ancient God blood drop",
+    "Nascent fruit"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "mei-ji",
+      "name": "Mei Ji",
+      "realm": "soul fragment of a former Soul Formation cultivator",
+      "quote": "[Mei Ji, Fragmen Jiwa]",
+      "first": true,
+      "card": 225.4
+    },
+    {
+      "id": "zhou-ru",
+      "name": "Zhou Ru",
+      "look": "aged 16",
+      "first": false,
+      "card": 579.04
+    },
+    {
+      "id": "tie-yan",
+      "name": "Tie Yan",
+      "first": false
+    },
+    {
+      "id": "xiao-bai",
+      "name": "Xiao Bai",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "'Planet Yue' follows the Chinese YouTube title for EP91 (王林降临月星, Moon Star).",
+    "Only the AnimeKhor Indonesian fansub (ep91.id.srt) was available; no official YouTube en/zh track for this episode yet."
+  ],
+  "flags": [
+    "The ending (1211-1248s) repeats EP90's flashback montage of Wang Lin and Wan'er and the Heavenly Dao.",
+    "'Buah yang Baru Lahir Berbuah' (944s) is translated as Nascent fruit; EP92's official subtitles call a fruit 碎婴果 (Broken Infant Fruit), which may be the same one."
+  ]
+}

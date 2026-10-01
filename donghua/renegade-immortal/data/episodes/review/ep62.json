@@ -1,0 +1,60 @@
+{
+  "ep": 62,
+  "title": "Soul Formation in Zhao",
+  "summary": "Sheltering from rain in an empty temple on the way to Zhao, Wang Lin, calling himself Zeng Niu, meets Mo Zhi, a cultivator he cannot read, who explains that copying another's Intent Realm gives a far weaker Soul Formation than finding one's own, and shows his Forgetting intent by watching the life in the falling rain. Wang Lin finally grasps his own Life and Death Intent Realm: rain is born in the sky and dies on the earth, and the fall between is a life. In the Country of Zhao he separates his two bodies: the original body sheds its Extreme Realm, refined into a treasure, drops to Foundation Establishment, becomes a Two-Star Ancient God and sinks into the planet's core to cultivate in secret. The clone, already at Nascent Soul great perfection, breaks through to Soul Formation, and the spiritual power it releases helps cultivators and mortals across Zhao, including Wang Zhuo's reincarnation, now at late Foundation Establishment. Wang Lin plants ten seeds of spiritual energy in Zhao's cultivators, leaves an object that can shield Zhao from three attacks, recovers a sword sheath, and tells his parents' grave that at Soul Transformation he will wake Situ Nan and perhaps find a way to revive them, which needs immortal energy from the Immortal Realm.",
+  "events": [
+    "Wang Lin, as Zeng Niu, meets Mo Zhi in a rainy temple and discusses Intent Realms",
+    "He comprehends his own Life and Death Intent Realm",
+    "His original body sheds the Extreme Realm and becomes a Two-Star Ancient God, then sinks into the planet's core",
+    "His clone breaks through to Soul Formation in Zhao",
+    "Wang Zhuo's reincarnation benefits from the breakthrough",
+    "Wang Lin plants ten spiritual seeds and leaves a protective object for Zhao",
+    "At his parents' grave he aims for Soul Transformation and the Immortal Realm"
+  ],
+  "introduced": [
+    "Mo Zhi",
+    "Forgetting Intent Realm",
+    "Life and Death Intent Realm",
+    "Two-Star Ancient God"
+  ],
+  "cultivation": "Wang Lin's clone: Nascent Soul great perfection, then early Soul Formation. Original body: was stuck at late Core Formation by the Extreme Realm, falls to Foundation Establishment, then becomes a Two-Star Ancient God. Wang Zhuo's reincarnation: late Foundation Establishment.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false,
+      "realm": "early Soul Formation (clone); Two-Star Ancient God (original body)",
+      "quote": "[Tubuh Klon Wang Lin, Tahap Awal Transformasi Dewa]",
+      "card": 990.8
+    },
+    {
+      "id": "mo-zhi",
+      "name": "Mo Zhi",
+      "first": true,
+      "card": 265.7
+    },
+    {
+      "id": "wang-zhuo",
+      "name": "Wang Zhuo",
+      "realm": "late Foundation Establishment",
+      "quote": "[Reinkarnasi Wang Zhuo, Tahap Akhir Pendirian Fondasi]",
+      "first": false,
+      "card": 839.6,
+      "shownAs": "Wang Zhuo (reincarnation)"
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Read both the official English and the Indonesian fansub. Original-body card '[Tubuh Asli Wang Lin, Dewa Kuno Bintang Dua]' at 762.1."
+  ],
+  "flags": [
+    "Wang Zhuo's reincarnation is the same soul as Wang Zhuo; kept the id wang-zhuo.",
+    "Mo Zhi (莫智) has no realm card; Wang Lin cannot read his cultivation.",
+    "19:03 Wang Lin kills a 'lowly ghost' after recovering the sheath; what it was is unclear."
+  ]
+}

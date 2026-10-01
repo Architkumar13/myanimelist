@@ -1,0 +1,65 @@
+{
+  "ep": 156,
+  "title": "Immortal Lord Qing Shui",
+  "summary": "The old man traps Wang Lin in a cage of divine sense, but Wang Lin breaks out with Call Wind and the Earthfold Step, and the old man, recognising Bai Fan's art, demands to know his connection to the Immortal Emperor. Wang Lin throws everything at him: the Wither Dao Pair, the Rain Celestial sword, and an explosion of the origin power in half of the Blood Ancestor's blood body. A presence inside Wang Lin's sea of consciousness then borrows his body and uses the Ji Realm power he kept to fight the old man, while Xu Liguo wonders who his master really is. When the old man tries to devour the young cultivators, Yan Leizi calls him the Crown Prince of Qing Shui Country, Bai Fan's disciple, Immortal Lord Qing Shui, and the old man screams that Qing Shui is his enemy. Shengong Hu joins in with thunder built from Wang Lin's old advice, and Yan Leizi draws Qing Shui to the Immortal Ascension Altar, the old core of the Thunder Celestial Realm, where each heavy blow pushes him back toward his peak. Wang Lin holds Qing Shui off with the Net-Severing Sword Art and the copy of the Mountain and River Map while Yan Leizi completes a formation that refines the whole Thunder Celestial Realm into a treasure. Yan Leizi says he planned it for tens of thousands of years so the cultivators of Allheaven can roam free of the Allheaven Stone, and vows to lead them to destroy the Alliance and Master Zhong Xuan.",
+  "events": [
+    "The old man traps Wang Lin, who breaks free with Call Wind and the Earthfold Step",
+    "Wang Lin attacks with the Wither Dao Pair and the Blood Ancestor's blood body",
+    "A presence in Wang Lin's mind borrows his body and fights with the Ji Realm",
+    "Yan Leizi names the old man as Immortal Lord Qing Shui, which he denies",
+    "Shengong Hu fights with the thunder Wang Lin taught him",
+    "Yan Leizi lures Qing Shui to the Immortal Ascension Altar",
+    "Wang Lin holds Qing Shui off with the Net-Severing Sword Art and the Mountain and River Map",
+    "Yan Leizi refines the Thunder Celestial Realm into a treasure and vows to crush the Alliance"
+  ],
+  "introduced": [
+    "Immortal Ascension Altar",
+    "Qing Shui Country",
+    "Allheaven Stone",
+    "Rain Celestial sword"
+  ],
+  "cultivation": "The old man says Wang Lin's present cultivation is not even at the level of an Immortal King.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "qing-shui",
+      "name": "Qing Shui",
+      "first": false
+    },
+    {
+      "id": "yan-lei-zi",
+      "name": "Yan Leizi",
+      "first": false
+    },
+    {
+      "id": "shengong-hu",
+      "name": "Shengong Hu",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "li-yuan",
+      "name": "Li Yuan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Only the Indonesian AnimeKhor track was available (no official English or Chinese yet).",
+    "'Teknik Pemutusan Luo' = Net-Severing Sword Art (斩罗诀); 'Batu Luotian' = Allheaven Stone; 'Chongxuanzi' = Master Zhong Xuan."
+  ],
+  "flags": [
+    "320-529: the presence that borrows Wang Lin's body and fears dying if his soul is destroyed is not named; it may be Yan Leizi or the Ji Realm force Wang Lin kept in EP153. Kept vague.",
+    "952: someone says 'if that young cultivator hadn't appeared, I'd have devoured you'; unclear speaker.",
+    "The glossary gives Han Yan's debut as EP156, but she is only heard in EP157's flashback in this track.",
+    "293-297: the old man lists 'Bai Fan's immortal art, the Qingshuang immortal sword, Xiaoyao Zi's treasure'; the sword name (Qingshuang or Rain Celestial sword) is uncertain."
+  ]
+}

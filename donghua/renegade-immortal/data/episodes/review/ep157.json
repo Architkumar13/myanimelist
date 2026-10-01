@@ -1,0 +1,73 @@
+{
+  "ep": 157,
+  "title": "The Thunder Celestial Formation",
+  "summary": "Yan Leizi completes his great Thunder Celestial Formation, using it to turn the realm into a treasure, and gives it treasure spirits made from souls he has taken: twenty-eight Illusory Yin Nascent Souls, then a Nirvana Scryer and a line of captured immortals of rising grade, up to a first-grade Immortal Lord of the Thunder Celestial Realm and a sixth-grade slaughter Immortal Lord from the Rain Celestial Realm; Wang Lin recognises the Blood Ancestor's soul among them. Yan Leizi admits he lured Qing Shui here to borrow his Ji Realm, then uses a jade slip, found after entering the realm hundreds of times, to remind him of his past. Qing Shui was the Crown Prince of Qing Shui Country and became Bai Fan's disciple at this altar; one night he went mad, everyone around him died, and his beloved Han Yan died in his arms, until Bai Fan himself stopped him. Near death, Qing Shui cut his own body apart and sealed it, and Bai Fan built the healing formation hoping he would wake. Qing Shui rages, using Call Wind and Call Rain, but Yan Leizi tells him that Bai Fan died mysteriously and the realm collapsed soon after, and offers the survivors of a similar madness in the Rain Celestial Realm and a hidden scroll in the Cultivation Alliance tied to the fall. Qing Shui agrees to go with him to the Alliance. Before leaving, Qing Shui gives Wang Lin a token for the Thunder Celestial Temple and calls him an indirect disciple of Bai Fan, since Call Wind is one of Bai Fan's six great arts, and Shengong Hu tells Wang Lin of the temple's ancient teleportation formation, now the only way out with the Immortal Gate destroyed.",
+  "events": [
+    "Yan Leizi brings out treasure spirits made from the souls of cultivators and immortals",
+    "Wang Lin recognises the Blood Ancestor among the spirits",
+    "Yan Leizi uses a jade slip to show Qing Shui his past as Bai Fan's disciple",
+    "A flashback shows Qing Shui's madness and Han Yan's death",
+    "Qing Shui fights back with Call Wind and Call Rain",
+    "Yan Leizi wins him over with the mystery of Bai Fan's death and the realm's fall",
+    "Qing Shui gives Wang Lin a Thunder Celestial Temple token",
+    "Shengong Hu points Wang Lin to the temple's teleportation formation"
+  ],
+  "introduced": [
+    "Thunder Celestial Formation",
+    "Treasure spirits",
+    "Han Yan",
+    "Call Rain",
+    "Ice Seal",
+    "Cultivation Alliance hidden scroll",
+    "Thunder Celestial Temple teleportation formation"
+  ],
+  "cultivation": "Yan Leizi's treasure spirits include Illusory Yin souls, a Nirvana Scryer, and immortals from fourth-grade Immortal up to first-grade Immortal Lord. Call Wind is one of Bai Fan's six great arts.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "yan-lei-zi",
+      "name": "Yan Leizi",
+      "first": false
+    },
+    {
+      "id": "qing-shui",
+      "name": "Qing Shui",
+      "first": false
+    },
+    {
+      "id": "han-yan",
+      "name": "Han Yan",
+      "first": true
+    },
+    {
+      "id": "bai-fan",
+      "name": "Bai Fan",
+      "first": false
+    },
+    {
+      "id": "blood-ancestor",
+      "name": "Blood Ancestor",
+      "first": false
+    },
+    {
+      "id": "shengong-hu",
+      "name": "Shengong Hu",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Only the Indonesian AnimeKhor track was available (no official English or Chinese yet).",
+    "Han Yan is called Yan'er in the flashback; glossary: Han Yan (含烟), alias Yan Er."
+  ],
+  "flags": [
+    "1041-1058: Wang Lin asks Yan Leizi to return 'my thunder beast' as promised, and Yan Leizi keeps it a few more days; which beast (Ancient Thunder Dragon or another) is unclear, and the promise is not shown.",
+    "366: the pressure of one spirit is compared to Tianyun Zi (All-Seer).",
+    "1101-1114: the speaker who has the teleportation formation's location 'in my Dao soul' is taken to be Shengong Hu, who gave Wang Lin his Dao soul.",
+    "Han Yan's first appearance: the glossary says EP156; in this track she appears in EP157's flashback."
+  ]
+}

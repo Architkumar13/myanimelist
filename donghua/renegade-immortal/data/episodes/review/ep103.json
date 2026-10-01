@@ -1,0 +1,97 @@
+{
+  "ep": 103,
+  "title": "Leaving Planet Suzaku",
+  "summary": "The Alliance envoy is Mo Zhi, who knew Wang Lin as Zeng Niu and chose him for the crystal. When Zi Xin, now at mid Soul Transformation after taking Qian Feng's cultivation, threatens Wang Lin, he takes the title of Suzaku and passes it straight to Zhou Wutai, who becomes the fifteenth Suzaku, while Mo Zhi gives the Forsaken Immortal Clan a third of the planet for a nine-leaf skull every thousand years. Wang Lin now has both his and Wan'er's life souls, though his Soul Flag is badly damaged, and Xu Liguo has tamed the curved blade. Over a year the clan retreats northwest, Zi Xin and Liu Mei flee beyond the stars, and Wang Lin says goodbye at the Snow Domain and at the memorial tablets of his parents, Wang Tianshui and Zhou Yingsu. Situ Nan, living as a prince in the level-four Zhou country, travels with him past the Astral Wind and teaches him three killing techniques: the Annihilation Finger, the Demon Transformation Finger and the Yellow Springs Finger. Situ also explains the realms after Ascendant, and they reach the Trading Planet in the Kunxu star region, where in Mingmei City Wang Lin meets Bai Wei of the Heavenly Fate Sect, who invites him to his master's birthday. Wang Lin gives Situ a divine chariot, and they part, Situ for Planet Feng Luan and Wang Lin for Planet Tian Yun.",
+  "events": [
+    "Mo Zhi reveals himself and asks why Wang Lin refused the Suzaku title",
+    "Wang Lin accepts the title and passes it to Zhou Wutai, the fifteenth Suzaku",
+    "The Alliance grants the Forsaken Immortal Clan a third of Planet Suzaku; Yun Quezi accepts",
+    "Xu Liguo shows off the tamed curved blade",
+    "A year passes; Wang Lin visits the Snow Domain and his parents' memorial tablets",
+    "Situ Nan teaches him the Annihilation, Demon Transformation and Yellow Springs Fingers",
+    "Situ explains Illusory Yin, Corporeal Yang and the three Nirvana realms",
+    "At the Trading Planet Wang Lin meets Bai Wei, gives Situ a divine chariot, and they part"
+  ],
+  "introduced": [
+    "Mo Zhi (named)",
+    "Cultivation Planet Heart (as succession token)",
+    "Annihilation Finger",
+    "Demon Transformation Finger",
+    "Yellow Springs Finger",
+    "Astral Wind",
+    "Trading Planet",
+    "Kunxu star region",
+    "Mingmei City",
+    "Shang's Shop",
+    "Kunmu Stone",
+    "Moxue Liquid",
+    "Bai Wei",
+    "Planet Feng Luan",
+    "Illusory Yin, Corporeal Yang, Nirvana Scryer, Nirvana Cleanser, Nirvana Shatterer (named)"
+  ],
+  "cultivation": "Zi Xin: mid Soul Transformation. Wang Lin: early Soul Transformation at the start, peak of mid Soul Transformation by the time he leaves. Bai Wei: mid Soul Transformation. After Ascendant come Illusory Yin and Corporeal Yang, then Nirvana Scryer, Nirvana Cleanser and Nirvana Shatterer.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "mo-zhi",
+      "name": "Mo Zhi",
+      "quote": "(Mo Zhi, Cultivation Alliance Envoy)",
+      "first": false,
+      "card": 196.0
+    },
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "peak mid Soul Transformation",
+      "quote": "Your cultivation is now at the peak of the mid Infant Transformation Realm (873s)",
+      "first": false
+    },
+    {
+      "id": "zi-xin",
+      "name": "Zi Xin",
+      "realm": "mid Soul Transformation",
+      "quote": "(Infant Transformation Realm, mid-stage) (275s)",
+      "first": false
+    },
+    {
+      "id": "zhou-wutai",
+      "name": "Zhou Wutai",
+      "first": false
+    },
+    {
+      "id": "yun-quezi",
+      "name": "Yun Quezi",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    },
+    {
+      "id": "bai-wei",
+      "name": "Bai Wei",
+      "realm": "mid Soul Transformation",
+      "quote": "(Bai Wei, mid Infant Transformation)",
+      "first": true,
+      "card": 1240.0
+    }
+  ],
+  "changes": [
+    "No AnimeKhor file for this episode: written from the official YouTube English and Chinese tracks (the Chinese reads like a translation of the English, so it is not an independent check). Times are from the YouTube copy.",
+    "Naming follows the earlier reviews and glossary: Planet Suzaku, Suzaku Tomb, Zhu Quezi, Yun Quezi, Hongdie, Forsaken Immortal Clan, Cultivation Planet Crystal (subs: Star Cultivation/Star Refining Crystal).",
+    "Official 'Infant Transformation' rendered as Soul Transformation (婴变); 'Zhuque Heir' as Suzaku."
+  ],
+  "flags": [
+    "Situ Nan's line 'Your current cultivation is at Insight Nirvana' (1109s) is probably a slip (his own realm, or a mistranslation); not recorded.",
+    "Who 'Xiao Ruer' and Tie Yan are (663-675s) is not explained in this episode.",
+    "Who sees Wang Lin off at the Astral Wind ('Brother Wang, safe travels', 899s) is not named.",
+    "Who steals the Moxue Liquid from Shang's Shop (1309-1337s) is unclear; Situ then hands Wang Lin a Moxue pill.",
+    "The voice at the very end ('next time you won't escape my grasp', 1686s) is not identified."
+  ]
+}

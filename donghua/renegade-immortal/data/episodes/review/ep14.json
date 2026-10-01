@@ -1,0 +1,69 @@
+{
+  "ep": 14,
+  "title": "Refining",
+  "summary": "Ma Liang's comrades return to the War Shrine Sect in the Fire Country, and Wang Lin, still posing as Ma Liang, hands Elder Huo his collected materials and goes off alone. In a quiet retreat he explores Ma Liang's body and sea of consciousness, where his Extreme consciousness wakes the Heaven Defying Bead and his little sword. A year later he reaches mid Foundation Establishment. At the Burning Gold Mountains, where the four great sects pick the Burning Gold Fruit, he takes the plant whole, and the Tiangang Sect cultivator Xu Liguo takes him for a devil. Wang Lin erases the original consciousness of Xu Liguo, a former Nascent Soul cultivator, and trains his soul into his own devil servant. He holds the soul blood of Lin Tao and the other two to make them fetch weapon-refining jade slips and maps, then a Nascent Soul elder appears and demands his disciple's soul blood back.",
+  "events": [
+    "The survivors report to the War Shrine Sect; Wang Lin as Ma Liang meets Elder Huo and leaves",
+    "Wang Lin's Extreme consciousness wakes the bead and the little sword",
+    "One year later: mid Foundation Establishment",
+    "Junior Sister An and others come to pick Burning Gold Fruit; Wang Lin takes the whole plant",
+    "Wang Lin turns Xu Liguo's soul into his devil",
+    "Lin Tao brings a weapon-refining jade slip and promises a map in ten days",
+    "A Nascent Soul elder demands back her disciple's soul blood"
+  ],
+  "introduced": [
+    "Elder Huo",
+    "Lin Tao",
+    "An Zi (Junior Sister An)",
+    "Xu Liguo",
+    "Tiangang Sect",
+    "Burning Gold Mountains",
+    "Burning Gold Fruit",
+    "Melting Spirit Pill",
+    "devil (soul servant)",
+    "Divine Path technique (War Shrine Sect)"
+  ],
+  "cultivation": "Wang Lin reaches mid Foundation Establishment in Ma Liang's body. Xu Liguo says he was a Nascent Soul cultivator in life.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "mid Foundation Establishment",
+      "quote": "I am already in the middle stage of foundation building",
+      "first": false
+    },
+    {
+      "id": "huo-hong-fei",
+      "name": "Huo Hong Fei",
+      "first": true
+    },
+    {
+      "id": "zhou-zihong",
+      "name": "Zhou Zihong",
+      "first": false
+    },
+    {
+      "id": "lin-tao",
+      "name": "Lin Tao",
+      "first": true
+    },
+    {
+      "id": "an-zi",
+      "name": "An Zi",
+      "first": true
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": true
+    }
+  ],
+  "changes": [
+    "'Burning Country / Fire Country' = Hou Fen; 'War Temple' = War Shrine Sect. Elder Huo = Huo Hong Fei (glossary, EP14 debut)."
+  ],
+  "flags": [
+    "The wiki lists Zhou An, Zhou Gang and Ma Yu as killed by Wang Lin in EP14; none are named in the subtitles.",
+    "Who exactly Wang Lin overpowers at the Burning Gold Fruit and whether Xu Liguo's 'Nascent Soul' boast is about himself is unclear (12:43)."
+  ]
+}

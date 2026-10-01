@@ -1,0 +1,122 @@
+{
+  "ep": 133,
+  "title": "Cosmic Star",
+  "summary": "Wang Lin arrives in the void of the Allheaven Star System and saves two clan juniors, Sun Xueshan and Ran Yue, from Nether Mist Insects with lightning, and they take him for a Thunder Celestial Temple envoy. They lead him to Planet Ran Yun, ruled by the Ran, Sun and Zhao clans, and tell him Planet Dong Lin is the feared 'killing star' of the Eastern Domain. Disguised as Xu Mu at late Core Formation, Wang Lin rents a room at a Sun family residence and forges fake ancient pseudo-immortal treasures to raise the immortal jade he needs to reach the second step. At Baohe Hall, Sun Ning buys his sword for 3,000 immortal jade and a Dao-infused mirror for 50,000, and the manager turns out to be Sun Tai, the former Grand Elder of the Corpse Yin Sect, who recognises him as Zeng Niu. Sun Tai explains he was teleported here long ago, enslaved by the Lv clan, lost his cultivation and has under twenty years left, and that the Thunder Celestial Temple is the strongest force in Allheaven. Sun Ning then ambushes Wang Lin outside the city for a hairpin, is beaten, and runs home crying that Wang Lin attacked the Sun family, which shows Wang Lin where to get his immortal jade.",
+  "events": [
+    "Wang Lin saves Sun Xueshan and Ran Yue from Nether Mist Insects; they mistake him for a Thunder Celestial envoy",
+    "They guide him to Planet Ran Yun and tell him Planet Dong Lin is the 'killing star' of the Eastern Domain",
+    "Disguised as Xu Mu (late Core Formation), he enters Ran Yun City and sees its three Ascendant ancestors",
+    "He rents a room from Sun Ling and forges fake ancient treasures to sell",
+    "At Baohe Hall Sun Ning buys a sword and a mirror from him",
+    "The manager Sun Tai recognises him as Zeng Niu and tells his own fall from Corpse Yin Sect Grand Elder to slave",
+    "Sun Ning ambushes Wang Lin for a hairpin, loses, and runs to the Sun family claiming he was attacked"
+  ],
+  "introduced": [
+    "Sun Xueshan",
+    "Ran Yue",
+    "Ran Xuefeng",
+    "Sun Xi",
+    "Zhao Chuanwen",
+    "Sun Ling",
+    "Sun Feng",
+    "Sun Ning",
+    "Planet Ran Yun",
+    "Ran Yun City",
+    "Baohe Hall",
+    "Planet Thousand Illusion",
+    "Thunder Celestial Temple",
+    "Nether Mist Insects",
+    "Lv clan"
+  ],
+  "cultivation": "Sun Xueshan: early Soul Transformation. Ran Yue: mid Soul Transformation. Ran Xuefeng: mid Ascendant; Sun Xi and Zhao Chuanwen: early Ascendant. Sun Ling: mid Nascent Soul. Sun Ning: early Soul Transformation. Sun Tai: early Soul Formation (fallen). Wang Lin disguises himself as late Core Formation; Sun Ning later judges him at least mid Soul Transformation.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "Ascendant (disguised as late Core Formation)",
+      "quote": "Xu Mu, Wang Lin in disguise. Late Stage Core Formation",
+      "first": false,
+      "card": 309.0
+    },
+    {
+      "id": "sun-xueshan",
+      "name": "Sun Xueshan",
+      "realm": "early Soul Transformation",
+      "quote": "Early Soul Transformation Stage",
+      "first": true,
+      "card": 58.0
+    },
+    {
+      "id": "ran-yue",
+      "name": "Ran Yue",
+      "realm": "mid Soul Transformation",
+      "quote": "Mid Soul Transformation Stage",
+      "first": true,
+      "card": 61.8
+    },
+    {
+      "id": "ran-xuefeng",
+      "name": "Ran Xuefeng",
+      "realm": "mid Ascendant",
+      "quote": "Ran Clan Ancestor. Mid-stage Ascension",
+      "first": true,
+      "card": 313.4
+    },
+    {
+      "id": "sun-xi",
+      "name": "Sun Xi",
+      "realm": "early Ascendant",
+      "quote": "Sun Clan Ancestor. Early-stage Ascension",
+      "first": true,
+      "card": 316.8
+    },
+    {
+      "id": "zhao-chuanwen",
+      "name": "Zhao Chuanwen",
+      "realm": "early Ascendant",
+      "quote": "Wanderer. Early-stage Ascension",
+      "first": true,
+      "card": 321.9
+    },
+    {
+      "id": "sun-ling",
+      "name": "Sun Ling",
+      "realm": "mid Nascent Soul",
+      "quote": "Sun Ling of Sun Clan. Mid-stage Nascent Soul",
+      "first": true,
+      "card": 369.8
+    },
+    {
+      "id": "sun-feng",
+      "name": "Sun Feng",
+      "realm": "early Nascent Soul",
+      "first": true,
+      "card": 546.6
+    },
+    {
+      "id": "sun-ning",
+      "name": "Sun Ning",
+      "realm": "early Soul Transformation",
+      "quote": "Sun Ning, Sun Clan Elder. Early Soul Transformation Stage",
+      "first": true,
+      "card": 631.7
+    },
+    {
+      "id": "sun-tai",
+      "name": "Sun Tai",
+      "realm": "early Soul Formation (fallen)",
+      "quote": "Sun Tai, Pavilion Master. Early Soul Formation",
+      "first": false,
+      "card": 814.7
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles, checked against the AnimeKhor Indonesian fansubs and the official Chinese track. Official: 'Ran Cloud Star' (冉云星 = Planet Ran Yun), 'Ran Fortune City' (冉运城), 'Treasure Pavilion' (宝合楼 Baohe Hall), 'Myriad Illusions Star' (千幻星 = Planet Thousand Illusion), 'Lightning Immortal Temple' (雷仙殿 = Thunder Celestial Temple)."
+  ],
+  "flags": [
+    "Zhao Chuanwen's card reads 'Wanderer' (rogue cultivator) in English but 'Zhao family ancestor' in Indonesian; later episodes call him a rogue cultivator.",
+    "Sun Feng's realm appears only in the Indonesian card (early Nascent Soul).",
+    "The city is 冉运城 on the Chinese card, but the glossary has Ran Yun City 冉云城."
+  ]
+}

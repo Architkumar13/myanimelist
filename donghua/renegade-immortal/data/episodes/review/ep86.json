@@ -1,0 +1,85 @@
+{
+  "ep": 86,
+  "title": "Winning the Outer Contest",
+  "summary": "The Soul Refining Sect searches the outer sect for whoever wrecked the spirit vein, but inner disciple Wang Zhen's soul-search checks never notice Wang Lin. Wang Lin's body is back to the peak of late Nascent Soul, while his Intent is at the level of mid Soul Formation. Liu Mei finds him and warns him about a bracelet she once saw on Hongdie, but he suspects her motives and sends her away. At the bloody outer-disciple contest, which Wang Lin realises exists to harvest souls for the sect, he reaches the final and turns Sima's Death Curse back on him. Grand Elder Wu Daoqi lets him pass, and Wang Zhen leads him into the inner sect's Soul Refining Peak, explaining soul flags, the nine Soul Formation elders and the two Soul Transformation ancestors, including Dun Tian and his Billion Soul Flag. Wang Lin takes a Hundred Soul Flag and a jade slip by force, learns from Xu Yun that the full method is split across three peaks, and breaks into an Ancient Soul Restriction in the main spirit vein.",
+  "events": [
+    "Wang Zhen leads a soul-search sweep of the outer sect; Wang Lin passes unnoticed",
+    "Liu Mei visits Wang Lin and warns him about Hongdie's bracelet; he refuses her",
+    "Wang Lin realises the contest is a way to collect souls",
+    "He beats Sima's Death Curse in the final and is checked by Grand Elder Wu Daoqi",
+    "Wang Zhen explains soul flag ranks, the three peaks, and Ancestor Dun Tian's Billion Soul Flag",
+    "Wang Lin takes a Hundred Soul Flag and a jade slip from a senior in the scripture pavilion",
+    "Xu Yun explains that the soul flag method is split among three peaks",
+    "Wang Lin breaks an Ancient Soul Restriction in the main spirit vein"
+  ],
+  "introduced": [
+    "Wang Zhen",
+    "Sima",
+    "Wu Daoqi",
+    "Xu Yun",
+    "Dun Tian (named)",
+    "Billion Soul Flag (named)",
+    "Hundred Soul Flag",
+    "Death Curse",
+    "Soul Refining, Soul Extraction and God Sealing peaks",
+    "Ancient Soul Restriction"
+  ],
+  "cultivation": "Wang Lin: peak of late Nascent Soul, with his Intent at mid Soul Formation. Wang Zhen: early Nascent Soul. Sima: peak Core Formation. Wu Daoqi: late Nascent Soul great perfection. Xu Yun: mid Core Formation. The sect has nine Soul Formation elders and two Soul Transformation ancestors.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "peak late Nascent Soul",
+      "quote": "[Wang Lin, Puncak Tahap Jiwa Baru Lahir Akhir - Sempurna]",
+      "first": false,
+      "card": 424.6
+    },
+    {
+      "id": "wang-zhen",
+      "name": "Wang Zhen",
+      "realm": "early Nascent Soul",
+      "quote": "[Wang Zhen, Murid Sekte Dalam dari Sekte Pemurnian Jiwa, Tahap Jiwa Baru Lahir Awal]",
+      "first": true,
+      "card": 253.52
+    },
+    {
+      "id": "liu-mei",
+      "name": "Liu Mei",
+      "first": false
+    },
+    {
+      "id": "si-ma",
+      "name": "Sima",
+      "realm": "peak Core Formation",
+      "quote": "[Sima, Murid Luar Sekte Pemurnian Jiwa, Tahap Pembentukan Inti Puncak]",
+      "first": true,
+      "card": 687.32
+    },
+    {
+      "id": "wu-daoqi",
+      "name": "Wu Daoqi",
+      "realm": "late Nascent Soul great perfection",
+      "quote": "[Wu Daoqi, Tetua Agung Puncak Pemurnian Jiwa, Tahap Jiwa Baru Lahir Akhir yang Sempurna]",
+      "first": true,
+      "card": 775.25
+    },
+    {
+      "id": "xu-yun",
+      "name": "Xu Yun",
+      "realm": "mid Core Formation",
+      "quote": "[Xu Yun, Murid Dalam Sekte Pemurnian Jiwa, Tahap Pembentukan Inti Tengah]",
+      "first": true,
+      "card": 1164.52
+    }
+  ],
+  "changes": [
+    "Glossary spelling 'Si Ma' kept as the id (si-ma); the display name is Sima.",
+    "Only the AnimeKhor Indonesian fansub (ep86.id.srt) was available; no official YouTube en/zh track for this episode yet."
+  ],
+  "flags": [
+    "Wang Lin first says he is back at the peak of mid Nascent Soul (226s), then at the peak of late Nascent Soul (418s); the card (424s) says late Nascent Soul great perfection.",
+    "Wang Zhen calls Zeng Niu 'the strongest at Soul Transformation' (924s); it should be below Soul Transformation.",
+    "The young man who points Wang Lin to the jade slip (1092s) may be Liu Wei, who is named in EP87."
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "ep": 141,
+  "title": "Origins",
+  "summary": "Twenty years later a storyteller tells how Wang Ping and his wife Qing Yi rose from famine relief in the cruel Empire Mountain Kingdom, let themselves be captured as part of a plan, toppled the tyrant and founded the Tianxing Empire. Great Zhou and Chenyun hire cultivators of the Qu clan to kill him, but they all die, and the Ran, Zhao and Sun clans ban every cultivator from mortal affairs. Within five years Tianxing unifies the land, but Wang Ping finds no children, an emptiness inside, and after ten more years gives up the throne. He returns to the Wang Residence and asks Wang Lin who he really is, and Wang Lin tells him the story of a young man from the Heng Yue Sect on Planet Suzaku. Wang Ping understands he was born from resentment and retires with Qing Yi to a mountain village, asking that his ashes be sent to his father and that his carvings be burned with him. Meanwhile Lei Daozi, an Illusory Yin envoy of the Thunder Celestial Temple, arrives to hunt the man impersonating an envoy and notices a mortal staying conscious under his divine sense.",
+  "events": [
+    "A storyteller recounts Wang Ping founding the Tianxing Empire",
+    "Cultivators hired by Great Zhou and Chenyun die; the three clans ban interference in mortal kingdoms",
+    "Tianxing unifies the land",
+    "Wang Ping abdicates after ten years and returns home",
+    "Wang Lin tells him the story of his own past",
+    "Wang Ping learns he was born from resentment and retires to a mountain village with Qing Yi",
+    "Lei Daozi of the Thunder Celestial Temple arrives on Planet Ran Yun"
+  ],
+  "introduced": [
+    "Tianxing Empire",
+    "Great Zhou",
+    "Chenyun",
+    "Empire Mountain Kingdom",
+    "Qu clan",
+    "Lei Daozi"
+  ],
+  "cultivation": "Lei Daozi, envoy of the Thunder Celestial Temple: Illusory Yin.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "wang-ping",
+      "name": "Wang Ping",
+      "first": false
+    },
+    {
+      "id": "qing-yi",
+      "name": "Qing Yi",
+      "first": false
+    },
+    {
+      "id": "sun-xi",
+      "name": "Sun Xi",
+      "first": false
+    },
+    {
+      "id": "lei-daozi",
+      "name": "Lei Daozi",
+      "realm": "Illusory Yin",
+      "quote": "Lei Daozi, Yin Void Realm. Envoy of the Lightning Immortal Hall.",
+      "first": true,
+      "card": 1171.2
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles, checked against the AnimeKhor Indonesian fansubs and the Chinese track (天行国, 大周国, 尘云国, 雷道子)."
+  ],
+  "flags": [
+    "Empire Mountain Kingdom is 'Negara Bagian Dishan' in Indonesian; Chinese card for it is not present.",
+    "The scene where Wang Ping seems near death (20:26-21:44) is explained in EP142."
+  ]
+}

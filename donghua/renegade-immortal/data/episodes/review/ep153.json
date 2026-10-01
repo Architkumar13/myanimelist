@@ -1,0 +1,67 @@
+{
+  "ep": 153,
+  "title": "The Collection Pavilion",
+  "summary": "After the fight, the Tang family decides it must not provoke Xu Mu, thinking a Corporeal Yang this strong could only have been trained by the Xu family of Planet Dong Lin. In the underground cave beneath the immortal market, Wang Lin notices that the tunnels form runes; Li Yuan works out that nine such tunnels make a huge healing formation that has run for ages, keeping someone alive. A voice inside offers Wang Lin any immortal art if he has Li Yuan open the seal, and drives Li Yuan half mad, but Wang Lin refuses a free gift and they flee. Chased by a crimson Ji Realm force that floods his sea of consciousness, Wang Lin holds it with origin power and keeps part of it sealed inside himself for later, while the sealed being cries out for Qi Condensation cultivators and swears that Qing Shui's day of death is coming. A month and a half later they see crowds heading to four fragment continents where immortal power has surged; Zhan Konglie, now a Thunder Celestial Temple envoy, greets Wang Lin respectfully and hears about the Three Heroes of the South. At the realm's center, Li Yuan finds the hidden restriction of the Collection Pavilion and uses his Heart Restriction to send Wang Lin inside, where the four guardians of the four families, among them a Yao family Corporeal Yang guardian, say outsiders may not enter; Wang Lin fights them until they ask whether he is now qualified.",
+  "events": [
+    "The Tang family decides not to provoke Xu Mu",
+    "Wang Lin and Li Yuan find rune tunnels forming an ancient healing formation",
+    "A sealed being tempts Wang Lin with immortal arts and drives Li Yuan wild",
+    "Wang Lin takes in and holds a Ji Realm force, keeping part of it for later",
+    "The sealed being vows revenge on Qing Shui",
+    "Zhan Konglie greets Wang Lin on the way to the four fragment continents",
+    "Li Yuan opens a way into the Collection Pavilion",
+    "Wang Lin fights the four guardians who bar outsiders"
+  ],
+  "introduced": [
+    "Underground cave of the immortal abode",
+    "Healing formation",
+    "Ji Realm (Extreme Point) force",
+    "Three Heroes of the South",
+    "Center of the Thunder Celestial Realm",
+    "Collection Pavilion guardians (four families)",
+    "Xu family of Planet Dong Lin (named)"
+  ],
+  "cultivation": "Zhan Konglie and the Three Heroes of the South reached Corporeal Yang young. A Yao family guardian of the Collection Pavilion is Corporeal Yang. Wang Lin openly shows Corporeal Yang.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "li-yuan",
+      "name": "Li Yuan",
+      "first": false
+    },
+    {
+      "id": "qing-shui",
+      "name": "Qing Shui",
+      "first": false,
+      "shownAs": "Qing Shui (sealed being, voice)"
+    },
+    {
+      "id": "zhan-konglie",
+      "name": "Zhan Konglie",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Yao family guardian of the Collection Pavilion",
+      "realm": "Corporeal Yang",
+      "quote": "[Forbidden Land Guardian, Yao Clan, Corporeal Yang]",
+      "first": true,
+      "card": 845.58
+    }
+  ],
+  "changes": [
+    "Only the Indonesian AnimeKhor track was available (no official English or Chinese yet).",
+    "'Titik Ekstrem / Extreme Point' = Ji Realm (极境)."
+  ],
+  "flags": [
+    "The sealed being is unnamed here; EP156-157 show it is Qing Shui himself, who has forgotten who he is, though he curses 'Qingshui' here.",
+    "633: the third of the Three Heroes of the South is given as 'Tang Yunjian'; the glossary and EP148 suggest Tang Yanfeng.",
+    "371: Wang Lin recalls a mistake with a 'Sutra Pembunuh Abadi' (Celestial Slaughter Art?) as a reason not to accept free arts; unclear.",
+    "553-563: Wang Lin recalls only one person who broke past Nascent Soul with a Ji Realm, one received as a gift from a friend (likely Ma Liang)."
+  ]
+}

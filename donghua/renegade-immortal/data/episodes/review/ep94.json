@@ -1,0 +1,95 @@
+{
+  "ep": 94,
+  "title": "Raiding for Immortal Jade",
+  "summary": "In the Soul Refining Sect's forbidden area, the dying Dun Tian passes the sect to Wang Lin in front of the spirit tablets of its Soul Transformation ancestors. In return Wang Lin must guard the Billion Soul Flag and one day raise the sect into a level 6 cultivation country. Since the sect has only a third of the immortal jade Wang Lin needs for Soul Transformation, Dun Tian takes him to rob other sects, starting with Yan Hong and Sha Zi of the Wild Demon Sect, and teaches him that immortal jade can only be taken by force. On the way back they meet the Forsaken Immortal Clan's Fifth Ancestor Cui Zhi, a nine-leaf shaman. Dun Tian shows Wang Lin the flag's true power, rising to mid Ascendant strength, and sends Cui Zhi away. He tells Wang Lin that the Fourth Main Soul in the flag, the sect's last Ascendant ancestor, fell beside the second Suzaku, whom Wang Lin suspects is Situ Nan. At Suzaku Country's great Suzaku Mystic Formation, Dun Tian forces Qian Feng to let them through, and Qian Feng challenges Wang Lin to a duel.",
+  "events": [
+    "Dun Tian hands Wang Lin the Soul Refining Sect and the duty to guard the Billion Soul Flag",
+    "Dun Tian and Wang Lin rob the Wild Demon Sect of half its immortal jade",
+    "Wang Lin remembers Tian Yunzi's invitation to Planet Tian Yun",
+    "Cui Zhi, a nine-leaf shaman, attacks them; Dun Tian shows the flag's full power and drives him off",
+    "Dun Tian tells of the Fourth Main Soul and the second Suzaku; Wang Lin suspects Situ Nan",
+    "Dun Tian finds Giant Demon blood in the Suzaku Mystic Formation and makes Qian Feng open it",
+    "Qian Feng challenges Wang Lin"
+  ],
+  "introduced": [
+    "Wild Demon Sect",
+    "Yan Hong",
+    "Sha Zi",
+    "Cui Zhi",
+    "Tian Yunzi (memory)",
+    "Planet Tian Yun",
+    "Suzaku Mystic Formation",
+    "Fourth Main Soul",
+    "Thirteen Soul Formation"
+  ],
+  "cultivation": "Yan Hong and Sha Zi: early Soul Transformation. Cui Zhi, a nine-leaf shaman, is equal to early Ascendant. Using the flag, Dun Tian reaches mid Ascendant power. Dun Tian says Wang Lin's immortal-energy fusion is at great perfection and his body has reached the Crystal Bone stage.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "dun-tian",
+      "name": "Dun Tian",
+      "realm": "mid Ascendant (with the Billion Soul Flag)",
+      "quote": "Tahap Ascendant Tengah!",
+      "first": false
+    },
+    {
+      "id": "yan-hong",
+      "name": "Yan Hong",
+      "realm": "early Soul Transformation",
+      "quote": "[Yan Hong, Leluhur Sekte Iblis Liar, Transformasi Jiwa Tahap Awal]",
+      "first": true,
+      "card": 361.7
+    },
+    {
+      "id": "sha-zi",
+      "name": "Sha Zi",
+      "realm": "early Soul Transformation",
+      "quote": "[Sha Zi, Leluhur Sekte Iblis Liar, Transformasi Jiwa Tahap Awal]",
+      "first": true,
+      "card": 363.6
+    },
+    {
+      "id": "all-seer",
+      "name": "All-Seer",
+      "first": false
+    },
+    {
+      "id": "cui-zhi",
+      "name": "Cui Zhi",
+      "realm": "nine-leaf shaman (about early Ascendant)",
+      "quote": "[Cui Zhi, Leluhur Kelima Klan Abadi Terabaikan, Master Dukun Sembilan Daun]",
+      "first": true,
+      "card": 654.48
+    },
+    {
+      "id": "mu-ye",
+      "name": "Mu Ye",
+      "first": false
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    },
+    {
+      "id": "qian-feng",
+      "name": "Qian Feng",
+      "first": false
+    }
+  ],
+  "changes": [
+    "'Batu Surgawi' written as immortal jade (仙玉), per the EP94 YouTube title.",
+    "Qian Feng (乾风 in the YouTube title) is identified as the challenger at the end.",
+    "Only the AnimeKhor Indonesian fansub (ep94.id.srt) was available; no official YouTube en/zh track for this episode yet."
+  ],
+  "flags": [
+    "Wang Lin's state (236-238s, 'Tahap Penyempurnaan Fusi Energi Surgawi', 'Tulang Kristal, Tahap Daging yang Berevolusi') is hard to map onto the realm ladder.",
+    "The Situ Nan lines at 937-943s are a flashback to his first meeting with Wang Lin.",
+    "Tian Yunzi appears only in a memory (576-586s); identity with the All-Seer (天运子) is not shown."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "ep": 35,
+  "title": "The Eleven Prisoners",
+  "summary": "Wang Lin flees through the Ancient God's meridians, drinks raw dragon marrow fluid and uses the first level of the Ancient God art, Spirit Snatch, to take its power as his own. Duomu catches him and brings him before their master Tuo Sen, who sees he is a young Soul Devourer and makes him swallow a soul core so he can break the seal on Tuo Sen within ten years. Duomu then reveals that he and ten others are outside cultivators trapped by Tuo Sen for a thousand years, and asks Wang Lin to turn the Ancient God's consciousness against Tuo Sen once he enters the Dead Sea. They promise him a hundred top-grade spirit stones and the Hunyuan Beast-Driving Ring, and Wang Lin also demands their own life-bound treasures as a guarantee. Wang Lin breaks the seal, Tuo Sen claims the God Slaying Spear and opens the passage to the memory inheritance, and the eleven quietly surround him.",
+  "events": [
+    "Wang Lin drinks dragon marrow fluid in the Ancient God's meridians and uses Spirit Snatch",
+    "Duomu brings Wang Lin to Tuo Sen",
+    "Tuo Sen makes Wang Lin swallow a soul core to break his seal",
+    "Duomu's eleven trapped cultivators plot with Wang Lin against Tuo Sen",
+    "Wang Lin takes their life-bound treasures as a guarantee",
+    "Tuo Sen is freed, takes the God Slaying Spear and opens the passage to the memory inheritance"
+  ],
+  "introduced": [
+    "Spirit Snatch (Ancient God art, level 1)",
+    "dragon marrow fluid",
+    "God Slaying Spear",
+    "Hunyuan Beast-Driving Ring",
+    "soul core"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "duomu",
+      "name": "Duomu",
+      "first": false
+    },
+    {
+      "id": "tuo-sen",
+      "name": "Tuo Sen",
+      "first": false
+    },
+    {
+      "id": "tu-si",
+      "name": "Tu Si",
+      "first": false
+    }
+  ],
+  "changes": [
+    "'Tuo Sun' = Tuo Sen; 'Killing Spear'/'Star Destroying Spear' = God Slaying Spear (the glossary's 'God Slaying' naming)."
+  ],
+  "flags": [
+    "Tuo Sen's on-screen debut episode is uncertain: the wiki says EP33; he speaks in person here.",
+    "The Indonesian line about 'Suzaku Star' (AK 355) is garbled."
+  ]
+}

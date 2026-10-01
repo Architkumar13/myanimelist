@@ -1,0 +1,70 @@
+{
+  "ep": 33,
+  "title": "Puppets of the Blood Sea",
+  "summary": "In the third trial of the Land of the Ancient God, the Dead Space, Wang Lin finds that although he has a body again he is still a Soul Devourer here, so the wandering souls fear him as an evil star and obey him. Duanmu Ji, whose cultivation has dropped, corners him and demands the inheritance; Wang Lin offers him a hand seal for passing the vortex at the end of the trial in exchange for leaving together. Hunchback Meng, thought dead, returns as a mindless puppet and kills Duanmu Ji, so Wang Lin leads him toward Xu Liqing, the Six Desire Devil Lord, and sets the wandering souls on him. Meng, now at late Soul Formation, overpowers Xu Liqing until Xu Liqing's long-dead master, the Sky Devil Magician of the Xuan Tian Sect, appears and destroys him. The hand seal fails at the vortex, and puppets sent by their master begin hunting for the Soul Devourer, while the Sky Devil Magician reveals the truth: the land is Tuo Sen's trap, and everyone who dies here is revived in the Blood Sea as his puppet.",
+  "events": [
+    "Wandering souls in the Dead Space flee from Wang Lin, the 'evil star', who can devour and command them",
+    "Duanmu Ji demands the inheritance; Wang Lin trades him a hand seal for the final vortex",
+    "Hunchback Meng returns from the dead as a puppet and kills Duanmu Ji",
+    "Wang Lin diverts Meng onto Xu Liqing, the Six Desire Devil Lord, and attacks him with wandering souls",
+    "The Sky Devil Magician, Xu Liqing's master, appears and destroys Meng",
+    "The hand seal fails at the vortex; puppets search for the Soul Devourer",
+    "The Sky Devil Magician explains Tuo Sen's trap and the Blood Sea, and leads Xu Liqing on"
+  ],
+  "introduced": [
+    "Sky Devil Magician",
+    "Xuan Tian Sect",
+    "Dead Space (third trial)",
+    "Blood Sea",
+    "Soul Devourer",
+    "Tuo Sen (named)"
+  ],
+  "cultivation": "Hunchback Meng, as Tuo Sen's puppet: late Soul Formation. The Sky Devil Magician: late Soul Formation, ancestor of the Xuan Tian Sect.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "duanmu-ji",
+      "name": "Duanmu Ji",
+      "first": false
+    },
+    {
+      "id": "hunchback-meng",
+      "name": "Hunchback Meng",
+      "realm": "late Soul Formation",
+      "quote": "You... You're in the late stage of your incarnation.",
+      "first": false,
+      "card": 259.0
+    },
+    {
+      "id": "xu-liqing",
+      "name": "Xu Liqing",
+      "first": false
+    },
+    {
+      "id": "sky-devil-magician",
+      "name": "Sky Devil Magician",
+      "realm": "late Soul Formation",
+      "quote": "[Late stage of deification, the ancestor of Xuan Tian Sect, the Heavenly Demon Wandering]",
+      "first": true,
+      "card": 509.0
+    }
+  ],
+  "changes": [
+    "Card times are on the AnimeKhor video timeline; the YouTube copy runs about 164 s later for EP33-35 (it keeps the opening song).",
+    "'Camel Meng'/'Meng Tuozi'/'Meng Huozi' = Hunchback Meng; 'Heavenly Demon Wandering'/'Tianmo Sanren' = Sky Devil Magician; 'Lord of Six Desires' = Xu Liqing."
+  ],
+  "flags": [
+    "Who says 'I've lost my cultivation base, this third area is all on you' (YT 547) is not clear; it reads as Xu Liqing to the youth he brought.",
+    "AnimeKhor Indonesian for EP33-35 is a poor machine translation; the official English was used for the plot."
+  ]
+}

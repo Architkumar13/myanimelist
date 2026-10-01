@@ -1,0 +1,61 @@
+{
+  "ep": 151,
+  "title": "Kindred Spirits",
+  "summary": "Wang Lin tells the sword spirit that its plan failed ten thousand years ago only because its own master, Gu Ziyuan, chose not to come back. The spirit, Feijing, the soul of Gu Ziyuan's sword, tells how it arrived one step too late in the last battle, built him a stone body from the sword, put the slave mark on the Li family to leave the mountain, and used the Li bloodline to forge a sword that made his soul whole. With Li Yuan fighting back from inside, Wang Lin uses his Net-Severing Sword Art and Stillness spell on the statue, and Gu Ziyuan's fading soul appears, tells Feijing he died without regret, apologises for breaking his promise and fades away with the sword. Freed, Li Yuan helps Wang Lin through a valley sealed by an immortal restriction to an ancient immortal's home, where they find armor made from an Ancient God's hide, a finger bone and murals of a battle with an Eight Star Ancient God. A dying immortal's record tells of the Immortal Emperor going mad and dying while pointing at the sky as something that should not exist appeared above, watching. Wang Lin keeps the armor, gives Li Yuan first pick of the other two items (Li Yuan takes a sword), and they part with a contact jade slip.",
+  "events": [
+    "Wang Lin tells the sword spirit that Gu Ziyuan chose not to return",
+    "The sword spirit tells its story and the history of the slave mark",
+    "Li Yuan fights back as Wang Lin attacks with the Net-Severing Sword Art and Stillness spell",
+    "Gu Ziyuan's soul says goodbye to his sword spirit and both fade",
+    "Li Yuan breaks a sealed valley with the Eighteen Plum Restriction's ninth seal",
+    "They find Ancient God Hide Armor, a finger bone and murals of an Eight Star Ancient God",
+    "An immortal's record describes the Immortal Emperor's death and a pair of eyes in the sky",
+    "Wang Lin and Li Yuan share the loot and part"
+  ],
+  "introduced": [
+    "Feijing (sword spirit)",
+    "Valley of the Immortal Relics",
+    "Ancient Immortal Residence",
+    "Ancient God Hide Armor",
+    "Eighteen Plum Restriction: eighteenth seal (a thousand plums pay court) and ninth seal Plum Frost",
+    "Li family Heart Restriction (inheritance mark)"
+  ],
+  "cultivation": "Gu Ziyuan is called an Immortal King of the Thunder Celestial Realm.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "li-yuan",
+      "name": "Li Yuan",
+      "first": false
+    },
+    {
+      "id": "gu-ziyuan",
+      "name": "Gu Ziyuan",
+      "first": false
+    },
+    {
+      "id": null,
+      "name": "Feijing (Gu Ziyuan's sword spirit)",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "No Chinese track for this episode. Official English 'Abyss Sword' vs Indonesian 'Guyuan Sword' for Gu Ziyuan's sword; the sword spirit's name comes from Gu Ziyuan calling it 'Feijing'."
+  ],
+  "flags": [
+    "The sword's name differs: official English 'Abyss Sword', Indonesian 'Pedang Guyuan'; no Chinese track to check.",
+    "The spirit's name Feijing is only heard once (YT 794, AK 640); spelling unconfirmed.",
+    "1252-1262 (YT): Wang Lin offers 'these two' and Li Yuan takes 'this sword'; the Indonesian earlier says the finger bone was for Li Yuan. Which items were offered is unclear on screen.",
+    "Ge Hong's fate after EP150 is not shown."
+  ]
+}

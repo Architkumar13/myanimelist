@@ -1,0 +1,52 @@
+{
+  "ep": 55,
+  "title": "The Old Man's Intent Realm",
+  "summary": "Wang Lin lends Zeng Daniu's family money for a bigger shop, calling it payment for a daily pot of wine, and after six years of mortal life his old killing energy has fully condensed into pearls. The old man from the capital reappears at the theatre, praises how completely Wang Lin has become a mortal, and studies his carvings of beasts from the Sea of Devils. When Wang Lin gives his name, the old man shows him an Intent Realm, a domain that flattens every lower cultivator under its owner's control, and explains that Soul Formation cultivators hide theirs inside their killing moves. Wanting a flattering carving of himself in return, he offers to help Wang Lin reach Soul Formation. He teleports Wang Lin a hundred thousand miles, lends him a straw hat that hides his face from anyone less than two levels above him, and smashes the protective formation of the Baiyun Sect in one blow so its Soul Formation elders will show their Intent Realms.",
+  "events": [
+    "Wang Lin lends the Zengs money for a bigger shop",
+    "Six years pass; his killing energy has fully become pearls",
+    "The old man returns and recognises Wang Lin's carvings of beasts from the Sea of Devils",
+    "He shows Wang Lin his own Intent Realm and explains what it is",
+    "He offers to help Wang Lin reach Soul Formation in exchange for carvings of himself",
+    "He lends Wang Lin a straw hat and breaks the Baiyun Sect's great formation"
+  ],
+  "introduced": [
+    "Wen Baoxin",
+    "straw hat",
+    "Sea of Devils (named)"
+  ],
+  "cultivation": "The old man's cultivation is beyond Soul Formation, Wang Lin judges. Baiyun Sect has over 30 Nascent Soul cultivators; Wen Baoxin is a Soul Formation elder.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "old-man",
+      "name": "the old man",
+      "first": false
+    },
+    {
+      "id": "zeng-daniu",
+      "name": "Zeng Daniu",
+      "first": false
+    },
+    {
+      "id": "wen-baoxin",
+      "name": "Wen Baoxin",
+      "realm": "Soul Formation",
+      "quote": "(Wen Boxin, Baiyun Sect Elder) (Soul Transformation Realm)",
+      "first": true,
+      "card": 1082.0
+    }
+  ],
+  "changes": [
+    "Read both the official English and the Indonesian fansub."
+  ],
+  "flags": [
+    "Official English uses 'Soul Transformation Realm' for 化神 throughout this episode; written as Soul Formation, which the Indonesian 'Transformasi Dewa' supports.",
+    "Glossary spelling Wen Baoxin used for the official 'Wen Boxin'."
+  ]
+}

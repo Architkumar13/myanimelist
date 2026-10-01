@@ -1,0 +1,73 @@
+{
+  "ep": 127,
+  "title": "Devouring the Demon",
+  "summary": "With the demon barrier broken, Sky Demon Country's armies storm Fire Demon City, and the Fire Demon, an Ancient Demon fragment who has not moved in millions of years, comes out in a rage after smelling Bei Lou's scent on Wang Lin. Wang Lin holds him off with the Devil-Transforming Finger and a million strands of slaughter aura, then gets within a hundred zhang so Bei Lou can use Wang Lin's blood to form a demonic body and leave Sky Demon Country to fight. Bei Lou pins down the Fire Demon's main body while Wang Lin enters the Fire Demon Tower, uses the Immobilization Technique and the God Slaying Chariot against the great-perfection Ascendant Fire Demon clone, and destroys the Fire Demon statue that feeds their power, letting Bei Lou devour the Fire Demon. In return Bei Lou opens the Ancient Demon inheritance to him, which only two others have received, among them Sun Yun; when Wang Lin deduces the Slaughter Immortal Art to completion he sees it would kill him and turn him into a strand of slaughter aura, and he begins to suspect All-Seer. Bei Lou then locates Zhou Yi's divine sense in the Tidal Abyss in Water Demon Country, gives Wang Lin a viewing jade slip, and privately resists the urge to devour Wang Lin's Ancient God aura.",
+  "events": [
+    "The Fire Demon appears and attacks Wang Lin",
+    "Wang Lin fights him with the Devil-Transforming Finger and slaughter aura",
+    "Bei Lou forms a demonic body from Wang Lin's blood and engages the Fire Demon",
+    "Wang Lin freezes the Fire Demon clone and destroys the Fire Demon statue",
+    "Bei Lou devours the Fire Demon fragment",
+    "Wang Lin's true body masters an art with Situ Nan in the Seven-Coloured Space",
+    "The Ancient Demon inheritance shows the Slaughter Immortal Art would kill him",
+    "Bei Lou points him to Zhou Yi in the Tidal Abyss"
+  ],
+  "introduced": [
+    "Fire Demon",
+    "Fire Demon Tower",
+    "Fire Demon statue",
+    "Fire Demon clone",
+    "Ancient Demon inheritance",
+    "Sun Yun (named)",
+    "Tidal Abyss",
+    "Water Demon Country",
+    "Ta Jia (named)"
+  ],
+  "cultivation": "Fire Demon clone: great perfection Ascendant.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "fire-demon",
+      "name": "Fire Demon",
+      "quote": "[Setan Api]",
+      "first": true,
+      "card": 163.3
+    },
+    {
+      "id": "fire-demon-clone",
+      "name": "Fire Demon clone",
+      "realm": "great perfection Ascendant",
+      "quote": "[Klon Iblis Api, Ascendant Siklus Agung]",
+      "first": true,
+      "card": 487.8
+    },
+    {
+      "id": "bei-lou",
+      "name": "Bei Lou",
+      "quote": "[Iblis Kuno Bei Luo]",
+      "first": false,
+      "card": 868.6
+    },
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "quote": "[Wang Lin, Ruang Tujuh Warna]",
+      "first": false,
+      "card": 706.5
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Sources: AnimeKhor Indonesian fansub and the official YouTube English track (clear).",
+    "The official English uses 'Gu Yao' for the Ancient Demons, 'Gu Shen' for the Ancient Gods and 'Gravity Art' for the art Wang Lin's true body masters."
+  ],
+  "flags": [
+    "The Seven-Coloured Space scene (706s) shows Wang Lin's true body telling Situ Nan he has mastered the Gravity Art; it may be the glossary's Attractive Force Technique.",
+    "Whether Bei Lou means Sun Yun of the Tianyun Sect (glossary debut EP104) is likely but not stated.",
+    "'Wolf' at the end (official 1151s) is taken to be Tan Lang."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "ep": 92,
+  "title": "Life and Death",
+  "summary": "As Li Muwan begins to wake inside Zhou Ru, the Heavenly Dao comes down for her a third time. Wang Lin fights the Heavenly Dao in his Ancient God body and with the power of reincarnation, while the Heavenly Dao calls him an ant shaking a tree. Wan'er's soul begs him to stop before he dies, and says her lifespan has ended and that she cannot take the body of Zhou Ru, whom she has felt growing up for nineteen years. She tells him she is content to have loved him and asks him to take care of himself. In his grief Wang Lin brings his Life and Death Intent to great perfection, and he lets go of his wish to bring his parents back, leaving them free to stay or go. He sends Zhou Ru back to Chu Country with her memories of him erased. He vows to spend any number of years to wake Wan'er, and, half a step from Soul Transformation, returns to Planet Suzaku.",
+  "events": [
+    "The Heavenly Dao descends as Wan'er begins to wake",
+    "Wang Lin fights it with his Ancient God body and the power of reincarnation",
+    "Wan'er refuses to take Zhou Ru's body and bids Wang Lin farewell",
+    "Wang Lin's Life and Death Intent reaches great perfection",
+    "He releases his obsession with resurrecting his parents",
+    "Zhou Ru is sent back to Chu Country with her memories erased",
+    "Wang Lin vows to wake Wan'er and returns to Planet Suzaku to break through"
+  ],
+  "introduced": [
+    "Heavenly Dao (avatar)",
+    "Broken Infant Fruit"
+  ],
+  "cultivation": "Wang Lin's Life and Death Intent reaches great perfection, and he is half a step from Soul Transformation.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "half a step from Soul Transformation",
+      "quote": "如今我离婴变只差半步",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "zhou-ru",
+      "name": "Zhou Ru",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English and Chinese YouTube subtitles; there is no AnimeKhor Indonesian track for EP92.",
+    "'Infant transformation' in the official subtitles = Soul Transformation (婴变); 'Zhuque Star' = Planet Suzaku."
+  ],
+  "flags": [
+    "The official English track is badly timed and split mid-sentence; meaning was taken from the Chinese lines.",
+    "Wan'er's final state is not spelled out: Wang Lin promises to work 'until my soul is shattered' for 'the miracle of your awakening', so she does not wake.",
+    "The parents scene (1171-1214s, '就叫铁柱吧') is a memory of Wang Lin's birth and naming.",
+    "The last lines (1391-1405s, Qingyun crushed to rubble) are an ad for another show, not part of the episode."
+  ]
+}

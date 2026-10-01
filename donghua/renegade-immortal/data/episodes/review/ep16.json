@@ -1,0 +1,78 @@
+{
+  "ep": 16,
+  "title": "Relocation",
+  "summary": "The Heaven Defying Bead swallows the weakened fire beast king, perfecting its fire attribute and joining the already complete water attribute, while the enraged fire beasts break loose across the Fire Country. Wang Lin catches Sun Youcai again and gains a pseudo Earth Escape Technique and the Great Self Shura Technique, and chooses the escape technique. The fire beasts overrun the sects' seals and the Nascent Soul ancestors decide that all cultivators of the Fire Country will join a Fire Alliance and move to the Xuanwu Kingdom, leaving mortals to their fate. Li Muwan grieves for the mortals. Fleeing to the border, Wang Lin is caught up in the fighting and brought before the War Shrine Sect, where Feng Luan, Zhou Zihong's mother, reveals she knows his real name. Another War Shrine ancestor wants him dead for stealing Ma Liang's body, but Feng Luan takes Wang Lin as a registered disciple and gives him a Nascent Soul-grade talisman.",
+  "events": [
+    "The bead swallows the fire beast king and perfects its fire attribute",
+    "Wang Lin catches Sun Youcai and gains the pseudo Earth Escape Technique and Great Self Shura Technique",
+    "The four sects try to reinforce the volcano seals; the fire beasts break loose",
+    "The Luohe, War Shrine, Evil Demon and Corpse Yin sects form the Fire Alliance to move to Xuanwu",
+    "Luohe disciple Qingxuan escorts Wang Lin, posing as Ma Liang, to the War Shrine Sect",
+    "Feng Luan reveals Wang Lin's name and takes him as a registered disciple",
+    "Feng Luan gives Wang Lin a Nascent Soul talisman for the coming war"
+  ],
+  "introduced": [
+    "Feng Luan",
+    "Qingxuan",
+    "Fire Alliance",
+    "Xuanwu Kingdom",
+    "Great Self Shura Technique",
+    "pseudo Earth Escape Technique",
+    "Nascent Soul talisman"
+  ],
+  "cultivation": "Heaven Defying Bead: water and fire attributes perfected, wood at half, metal and earth still missing. Wang Lin is at mid Foundation Establishment.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "mid Foundation Establishment",
+      "quote": "With his cultivation in the middle stage of foundation building",
+      "first": false
+    },
+    {
+      "id": "sun-youcai",
+      "name": "Sun Youcai",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "li-qiqing",
+      "name": "Li Qiqing",
+      "first": false
+    },
+    {
+      "id": "feng-luan",
+      "name": "Feng Luan",
+      "realm": "Nascent Soul",
+      "first": true
+    },
+    {
+      "id": "zhou-zihong",
+      "name": "Zhou Zihong",
+      "first": false
+    },
+    {
+      "id": "lin-tao",
+      "name": "Lin Tao",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Checked the official English against the AnimeKhor Indonesian subs (Feng Luan / Fengluan)."
+  ],
+  "flags": [
+    "The War Shrine ancestor who wants Wang Lin dead and calls Feng Luan 'junior sister' is unnamed (wiki EP16 debuts: Song Yunzhi, Yang Lin, Zhou Jin, Lan Ruo). 'Zhou takes the first step' (4:32) is probably Zhou Jin.",
+    "Feng Luan scolds her 'sister' (another ancestor) for sending Hong'er (Zhou Zihong) into the foreign battlefield (16:42-16:51), which shows Zhou Zihong is Feng Luan's daughter.",
+    "The episode's 'Waner' scene (9:44) is Li Qiqing talking to Li Muwan."
+  ]
+}

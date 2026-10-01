@@ -1,0 +1,54 @@
+{
+  "ep": 76,
+  "title": "Defying Heaven's Law",
+  "summary": "Ouyang Zi, the Cloud Sky Sect's best alchemist, finally refines the grade-six Origin Recovery Pill, while Wang Lin spends three years building restrictions in the valley to face the tribulation that Heaven's Law will send. Li Muwan forms her Nascent Soul, but a hand of Heaven's Law comes down, her body dies, and her Nascent Soul is about to be erased. Wang Lin's clone and his Ancient God main body merge, and with the sun and moon in the sky together he fights a fist of Heaven's Law until it backs off. Wan'er's Nascent Soul survives and goes back to sleep, and Wang Lin expects Heaven's Law to return in nineteen years when it wakes. He swears that one day he will replace Heaven's Law and make it kneel.",
+  "events": [
+    "Wang Lin pours his Life and Death domain into Wan'er while the pill is refined",
+    "Ouyang Zi refines the grade-six Origin Recovery Pill",
+    "Wang Lin spends three years laying restrictions in the valley",
+    "Li Muwan forms her Nascent Soul and Heaven's Law strikes",
+    "Her body dies; Wang Lin's clone and Ancient God main body merge",
+    "He blocks Heaven's Law and saves her Nascent Soul",
+    "He vows to replace Heaven's Law"
+  ],
+  "introduced": [
+    "Ouyang Zi",
+    "Heaven's Law",
+    "Xinghua Village",
+    "clone and main body merged form"
+  ],
+  "cultivation": "Li Muwan forms her Nascent Soul. Wang Lin's clone merges with his Ancient God main body, and he is now a one-star Ancient God.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "clone merged with one-star Ancient God body",
+      "quote": "Wang Lin, Tubuh gabungan klon dan Dewa Kuno Bintang 1",
+      "first": false,
+      "card": 1126.1
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "realm": "Nascent Soul",
+      "quote": "Li Muwan, Jiwa Baru Lahir",
+      "first": false,
+      "card": 643.4
+    },
+    {
+      "id": "ouyang-zi",
+      "name": "Ouyang Zi",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Indonesian fansubs read in full; key lines spot-checked against the official English (YouTube), which arrived late.",
+    "'Hukum Surgawi' written as Heaven's Law (likely 天道)."
+  ],
+  "flags": [
+    "Ouyang Zi may be the same Cloud Sky alchemist seen in earlier episodes; not checked.",
+    "993: card 'Desa Xinghua' (Apricot Blossom Village) appears briefly in the fight; this is where Wan'er is reborn in EP77.",
+    "'Teknik Reinkarnasi Hukum Surgawi' (1263): name of Wang Lin's technique is uncertain."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "ep": 111,
+  "title": "The Soul Refining Tribe",
+  "summary": "Wang Lin teaches Ouyang Hua a soul-refining incantation and how to make Soul Flags out of hide and wood, planning to grow the tribe and use it to restore his own badly damaged Soul Flag. Shi San is the first after the chief to finish a Soul Flag, and he captures the soul of a Winged Feathered Demon Lion, though Wang Lin warns him that refining souls has no shortcuts. With outsiders moving in, Ouyang Hua leads the valley in a raid on a nearby cave tribe, and the captives drink a Demon-Forgetting Brew and join them. Three months later Shi San comes back crippled, his friends dead and his flag taken by the Tianshui tribe, the strongest outside Tianyao City, as a direct challenge. Wang Lin goes to the Tianshui tribe, where elder Zeng Wei boasts that their ancient formation has never fallen, and starts refining the whole formation along with the people inside it. Chief Xie Hao gives in, the Tianshui tribe joins Ouyang Hua's, and when the people ask Wang Lin to name them, he remembers Dun Tian's last request and calls them the Soul Refining Tribe.",
+  "events": [
+    "Wang Lin gives Ouyang Hua the soul-refining incantation and the Soul Flag method",
+    "Shi San finishes the first Soul Flag and seals a Winged Feathered Demon Lion's soul",
+    "The valley raids a cave tribe and absorbs it with a Demon-Forgetting Brew",
+    "Shi San returns crippled; the Tianshui tribe took his flag as a challenge",
+    "Wang Lin starts refining the Tianshui tribe's ancient formation and the people in it",
+    "Xie Hao gives in and the Tianshui tribe joins Wang Lin's",
+    "Wang Lin names the tribe Soul Refining, in honour of Dun Tian"
+  ],
+  "introduced": [
+    "Soul Flags of hide and wood",
+    "Grade-three demon crystal",
+    "Winged Feathered Demon Lion",
+    "Rongdong (cave) tribe",
+    "Demon-Forgetting Brew",
+    "Tianshui tribe",
+    "Xie Hao",
+    "Zeng Wei",
+    "General Zu Yi (mentioned)",
+    "Tianyao City",
+    "Demon power armours",
+    "Soul Refining Tribe (named)"
+  ],
+  "cultivation": "Xie Hao: Thousand-Armour demon power, about Nascent Soul. Zeng Wei: Ten-Thousand-Armour demon power, about Soul Formation. A grade-three demon crystal holds demon energy worth about Foundation Establishment.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "ouyang-hua",
+      "name": "Ouyang Hua",
+      "first": false
+    },
+    {
+      "id": "shi-san",
+      "name": "Shi San",
+      "first": false
+    },
+    {
+      "id": "xie-hao",
+      "name": "Xie Hao",
+      "realm": "Nascent Soul (Thousand-Armour demon power)",
+      "quote": "[Xie Hao, Kepala Suku Tianshui, Kekuatan Iblis Seribu Perisai (Tahap Jiwa Baru Lahir)]",
+      "first": true,
+      "card": 765.4
+    },
+    {
+      "id": "zeng-wei",
+      "name": "Zeng Wei",
+      "realm": "Soul Formation (Ten-Thousand-Armour demon power)",
+      "quote": "[Zeng Wei, Anggota Suku Tianshui, Kekuatan Iblis Sepuluh Ribu Perisai (Tahap Transformasi Dewa)]",
+      "first": true,
+      "card": 771.6
+    },
+    {
+      "id": "dun-tian",
+      "name": "Dun Tian",
+      "first": false,
+      "shownAs": "Dun Tian (memory)"
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep111.id.srt) with its name cards; card times are from that file.",
+    "Official YouTube English was checked alongside the Indonesian fansub for names and story beats; its realm names are unreliable (it says 'Nascent Soul' for Soul Transformation), so the Indonesian cards were used for realms.",
+    "Naming follows the earlier reviews and glossary: Planet Suzaku, Suzaku Tomb, Zhu Quezi, Yun Quezi, Hongdie, Forsaken Immortal Clan, Cultivation Planet Crystal (subs: Star Cultivation/Star Refining Crystal).",
+    "Tribe name follows the glossary (Soul Refining Tribe); the official English says Soulforge."
+  ],
+  "flags": [
+    "The white-robed old man who crippled Shi San (708s) is read as Zeng Wei from his boast at 773-793s.",
+    "Tianyao City (737s) is called the Ancient Demon City at 807s; treated as one city.",
+    "Shi San's 'two years' of absorbing demon power in EP112 suggests the timeline jumps after this episode."
+  ]
+}

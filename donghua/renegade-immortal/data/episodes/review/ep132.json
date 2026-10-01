@@ -1,0 +1,77 @@
+{
+  "ep": 132,
+  "title": "All Evils",
+  "summary": "After eleven years trapped by the abyss's pull, Wang Lin turns the force into his own and gains a third form of Dao intent, Netherworld Force, which frees him. The woman sealed in his scroll begs to be taken down and offers secrets: she shows him the Allheaven Star System, her homeland, and says the Heaven Defying Bead first appeared there before turning up in the Rain Celestial Realm of the Alliance Star System, and that her family, the Xiang family of Planet Dong Lin, can revive the remnant soul inside it. Wang Lin judges she knows too much and seals her for good, but decides to go to Allheaven for the slim chance of waking Li Muwan. He seals the cave behind him, settles an old promise at a stone mansion in Sky Demon City, and hands the Soul Refining Tribe to his disciple Shi San with Giant Demon Clan techniques. Tian Yunzi, the Sword Sect's master, Tan Lang and the Blood Ancestor corner him; Tan Lang swears he does not have the token and names Wang Lin as the thief. Wang Lin flees, throwing the elders into chaos by revealing there are four hidden cave domains, not three, and the elders agree to send one restricted cultivator after him across the star boundary.",
+  "events": [
+    "Wang Lin masters Netherworld Force, the third form of his Dao intent, and breaks the abyss's pull",
+    "The woman in his scroll shows him the Allheaven Star System and the history of the Heaven Defying Bead",
+    "She claims to be of the Xiang family of Planet Dong Lin; Wang Lin seals her permanently",
+    "Wang Lin decides to go to Allheaven for a chance to wake Li Muwan, and seals the cave",
+    "In Sky Demon City he confronts a man who boasted he would kill him, to keep an old promise",
+    "He leaves the Soul Refining Tribe to Shi San with Giant Demon Clan techniques",
+    "Tan Lang tells Tian Yunzi and the others that Wang Lin has the token; the Blood Ancestor demands his daughter",
+    "Wang Lin reveals a fourth cave domain and escapes; the elders plan to send one restricted pursuer after him"
+  ],
+  "introduced": [
+    "Netherworld Force (third form of Dao intent)",
+    "Allheaven Star System",
+    "Xiang family of Planet Dong Lin",
+    "Four Celestial Realms: Wind, Rain, Thunder, Lightning",
+    "Thunder Celestial Realm",
+    "Allheaven Stone"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "woman-in-the-scroll",
+      "name": "Woman in the Scroll",
+      "first": false
+    },
+    {
+      "id": "shi-san",
+      "name": "Shi San",
+      "first": false
+    },
+    {
+      "id": "all-seer",
+      "name": "All-Seer",
+      "first": false,
+      "shownAs": "Tian Yunzi (All-Seer)"
+    },
+    {
+      "id": "tan-lang",
+      "name": "Tan Lang",
+      "first": false
+    },
+    {
+      "id": "blood-ancestor",
+      "name": "Blood Ancestor",
+      "first": false
+    },
+    {
+      "id": "wang-wei",
+      "name": "Wang Wei",
+      "first": false
+    },
+    {
+      "id": "hu-juan",
+      "name": "Hu Juan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles, checked against the AnimeKhor Indonesian fansubs. Official subs: 'Cosmic Star Domain' (罗天星域 = Allheaven Star System), 'Eastreach Star' (东临星 = Planet Dong Lin), 'Fatebreaker Pearl' (Heaven Defying Bead); canonical names used."
+  ],
+  "flags": [
+    "The scroll woman's identity is not stated; Wang Lin says she ended up sealed in the scroll after absorbing the Third Ancestor's talisman beast (9:22). She may be connected to Yao Xixue, whose aura the Blood Ancestor senses on Wang Lin (18:08).",
+    "The man in the Sky Demon City stone mansion (13:22-14:27) is not named: he wanted the Vice Marshal post that went to Mo Lihai and says he will kill Wang Lin; another man calls Wang Lin his junior brother. Outcome of the fight is not shown.",
+    "Wang Lin says the scroll woman 'seems connected to Senior Zhou Yi' (11:00); unclear.",
+    "The pursuer chosen at the end is not named here; EP143-144 show it is Tan Lang."
+  ]
+}

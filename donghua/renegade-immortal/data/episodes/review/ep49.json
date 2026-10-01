@@ -1,0 +1,84 @@
+{
+  "ep": 49,
+  "title": "Wang Zhuo and Teng Xiu Xiu",
+  "summary": "Teng San orders every cultivator in Tianyin City to gather and hunt down the killer of Teng Jiu, while the core members Teng Er, Teng San and Teng Si wait for him there. Wang Lin walks in alone, survives their Devouring technique, Meteor Sword and Xuanming Hammer, and turns the three core members into demons for his own use, refusing one who begs to serve him. In the same city Wang Zhuo, Wang Lin's cousin, has lived for 200 years as the husband of Teng Xiu Xiu, a marriage the Teng ancestor forced on him; her badly weakened father sends the couple away and is then killed. When Wang Lin shows himself and says her father deserved to die, Wang Zhuo decides the feud can only end with them, kills Xiu Xiu and dies beside her. Wang Lin guides Wang Zhuo's soul into a new birth in a Wang household, while Teng Huayuan finds Teng City sealed by a barrier no one can leave and orders Teng Yi woken.",
+  "events": [
+    "Teng San summons all of Tianyin City's cultivators to hunt the man who killed Teng Jiu",
+    "Teng Xiu Xiu asks her husband Wang Zhuo whether they should help; he says he wants the Teng family wiped out",
+    "Wang Lin defeats Teng Er, Teng San and Teng Si and makes demons of them",
+    "Xiu Xiu's father, drained of blood essence, sends Wang Zhuo and Xiu Xiu away and is killed",
+    "Wang Lin reveals himself to Wang Zhuo; Wang Zhuo kills Xiu Xiu and then himself so the hatred ends",
+    "Wang Lin sends Wang Zhuo's soul into reincarnation in a Wang household",
+    "Teng Huayuan learns Teng City is sealed and orders Teng Yi woken"
+  ],
+  "introduced": [
+    "Teng Er",
+    "Teng San",
+    "Teng Si",
+    "Teng Xiu Xiu",
+    "Wang Zhuo",
+    "Tianyin City",
+    "Teng City"
+  ],
+  "cultivation": "Teng Xiu Xiu: early Core Formation. Teng Er and Teng San: late Nascent Soul. Teng Si: mid Nascent Soul.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "teng-xiu-xiu",
+      "name": "Teng Xiu Xiu",
+      "realm": "early Core Formation",
+      "quote": "(Teng Xiuxiu) (Early Core Formation Realm)",
+      "first": true,
+      "card": 196.1
+    },
+    {
+      "id": "teng-er",
+      "name": "Teng Er",
+      "realm": "late Nascent Soul",
+      "quote": "(Teng Er, Core Member of the Teng Family) (Late True Spirit Realm)",
+      "first": true,
+      "card": 250.0
+    },
+    {
+      "id": "teng-san",
+      "name": "Teng San",
+      "realm": "late Nascent Soul",
+      "quote": "(Teng San, Core Member of the Teng Family, Late True Spirit Realm)",
+      "first": true,
+      "card": 252.1
+    },
+    {
+      "id": "teng-si",
+      "name": "Teng Si",
+      "realm": "mid Nascent Soul",
+      "quote": "(Teng Si, Core Member of the Teng Family) (Middle True Spirit Realm)",
+      "first": true,
+      "card": 257.6
+    },
+    {
+      "id": "wang-zhuo",
+      "name": "Wang Zhuo",
+      "first": true
+    },
+    {
+      "id": "teng-huayuan",
+      "name": "Teng Huayuan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Only the official English track existed for EP49 (no AnimeKhor file); card times are YouTube times.",
+    "Official 'True Spirit Realm' rendered as Nascent Soul (元婴).",
+    "The swamp, spiritual-root and 'Wang Lin, stop it' lines after 18:07 are a preview of EP50-52 and are not counted."
+  ],
+  "flags": [
+    "Glossary title is 'Wang Zhou' (王卓); used the pinyin Wang Zhuo, which the official subs also use.",
+    "Who kills Xiu Xiu's father (~11:40, 'You will die soon') is not clear from the dialogue; Wang Lin later says he deserved to die.",
+    "12:49-12:58: Wang family voices call Wang Zhuo a traitor; presumably visions or ghosts of his dead family."
+  ]
+}

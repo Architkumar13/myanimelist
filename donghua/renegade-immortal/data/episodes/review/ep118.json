@@ -1,0 +1,91 @@
+{
+  "ep": 118,
+  "title": "Sound of the Zither",
+  "summary": "Demon Emperor Gu Yunchi scolds the Emperor Sword Spirit, a spoiled girl, for nearly wrecking Sky Demon City over Wang Lin, then takes her out into the city. Alone, Wang Lin listens to a sad zither tune and thinks of Li Muwan, deciding that defying heaven means keeping feeling in one's heart. Mo Lihai takes him to Vice Commander-in-Chief Xuan, who has just received Mo Fei; Xuan tests Wang Lin and says that with him Mo Lihai's chance rises from forty to ninety percent. That night two of Mo Fei's men try to assassinate Wang Lin with the Ink Dot Spear and the Chaos Heaven Seal, and his killing intent destroys them. Mo Fei gets the Emperor's leave for a private duel with Mo Lihai, and his messenger Wei Yang of the Da Lou Sword Sect attacks Wang Lin as All-Seer's disciple; Wang Lin breaks his sword qi and his goat soul, survives the life-staked sword qi of Ling Tianhou, and takes that sword qi from him. Mo Lihai loses the duel to Mo Fei, which bars him from fighting in the tournament, so everything now rests on Wang Lin.",
+  "events": [
+    "Gu Yunchi scolds the Emperor Sword Spirit and takes her into the city",
+    "Wang Lin hears a zither and thinks of Li Muwan",
+    "Vice Commander-in-Chief Xuan receives Mo Fei, then tests Wang Lin",
+    "Mo Lihai warns that Mo Fei kills Demon Generals' assistants",
+    "Two of Mo Fei's men attack Wang Lin and are killed",
+    "The Emperor approves a private duel between Mo Fei and Mo Lihai",
+    "Wei Yang delivers the challenge, fights Wang Lin and loses Ling Tianhou's sword qi to him",
+    "Mo Lihai loses to Mo Fei and cannot fight in the tournament"
+  ],
+  "introduced": [
+    "Gu Yunchi",
+    "Vice Commander-in-Chief Xuan",
+    "Xuan Residence",
+    "Mo Residence",
+    "Dragon Pool (named)",
+    "Ink Dot Spear",
+    "Chaos Heaven Seal",
+    "Revolving Wheel Art",
+    "Ling Tianhou (named)",
+    "Sheep Soul Slash"
+  ],
+  "cultivation": "Gu Yunchi: Illusory Yin. Vice Commander-in-Chief Xuan: early Ascendant. Mo Fei's Revolving Wheel Art is at the 18th layer.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "gu-yunchi",
+      "name": "Gu Yunchi",
+      "realm": "Illusory Yin",
+      "quote": "[Gu Yunchi, Kaisar Iblis Kota Iblis Surgawi, Yin Ilusi]",
+      "first": true,
+      "card": 14
+    },
+    {
+      "id": "emperor-sword-spirit",
+      "name": "Emperor Sword Spirit",
+      "quote": "[Kaisar Pedang, Roh Pedang]",
+      "look": "appears as a young girl",
+      "first": false,
+      "card": 28
+    },
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "mo-lihai",
+      "name": "Mo Lihai",
+      "first": false
+    },
+    {
+      "id": "vice-commander-xuan",
+      "name": "Vice Commander-in-Chief Xuan",
+      "realm": "early Ascendant",
+      "quote": "[Wakil Komandan Xuan, Calon Komandan Iblis, Tahap Ascendant Awal]",
+      "first": true,
+      "card": 362
+    },
+    {
+      "id": "mo-fei",
+      "name": "Mo Fei",
+      "first": false
+    },
+    {
+      "id": "wei-yang",
+      "name": "Wei Yang",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Sources: AnimeKhor Indonesian fansub and the official YouTube English track (both clear).",
+    "Gu Yunchi follows the glossary title; the official subtitles say Gu Yundun (古云沌).",
+    "Official English: Mo Lihai says Mo Fei 'often strikes from the shadows'; the fansub says the opposite. The official line is used.",
+    "The YouTube Chinese track is a machine back-translation of the English (e.g. 叛逆仙人, 顾云盾), so it was not used for 汉字."
+  ],
+  "flags": [
+    "Who plays the zither and who remarks 'so he is also a heartbroken soul' (226s fansub) is not shown clearly.",
+    "Wei Yang addresses Wang Lin as the 'Zixi seventh disciple' (official 1050s); Wang Lin's place in All-Seer's line is not explained here.",
+    "Li Muwan appears only in Wang Lin's memory."
+  ]
+}

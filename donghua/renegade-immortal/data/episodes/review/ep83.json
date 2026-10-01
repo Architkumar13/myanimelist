@@ -1,0 +1,81 @@
+{
+  "ep": 83,
+  "title": "Trapped Between Two Soul Transformations",
+  "summary": "Inside Li Yuanfeng's sealing formation, the Giant Demon Clan ancestor demands Wang Lin's flying sword, his lightning-calling flag and the Star Compass that his clan heir Chi Hu once gave Wang Lin in the Celestial Realm. Chi Hu refuses to help kill his friend and quietly shows Wang Lin the way out, and is sentenced to a hundred years of punishment. Li Yuanfeng presses him with his Tea Intent Realm. Sun Tai of the Corpse Yin Sect then breaks in to take Wang Lin's body for himself, while the ancestor wants the body to track down the Heaven Defying Bead and trade it to the Cultivation Alliance. Sun Tai carries Wang Lin off to the border of Pilu Country and seals him. With Li Yuanfeng's tea scar locked in by Sun Tai's seal, Wang Lin's cultivation drains away to level 3 Qi Condensation. The ancestor fights Sun Tai with his innate Demon Child and throws him to a distant star region, while Wang Lin is left almost mortal, eight years before Li Muwan must face the Heavenly Dao again.",
+  "events": [
+    "The Giant Demon Clan ancestor and Li Yuanfeng corner Wang Lin and claim his treasures",
+    "Chi Hu admits he gave Wang Lin the Star Compass and shows him the formation's exit to the southeast",
+    "Li Yuanfeng unleashes his Tea Intent Realm against Wang Lin's Life and Death Intent",
+    "Sun Tai of the Corpse Yin Sect arrives and claims Wang Lin's body",
+    "The ancestor reveals he learned that Zeng Niu is Wang Lin and wants the Heaven Defying Bead for the Cultivation Alliance",
+    "Sun Tai drags Wang Lin to the Pilu Country border and seals him; his cultivation collapses to level 3 Qi Condensation",
+    "The ancestor fights Sun Tai with the Demon Child and sends him to a far-off star region"
+  ],
+  "introduced": [
+    "Giant Demon Clan ancestor",
+    "Giant Demon Clan",
+    "Tea Intent Realm",
+    "Thunder Intent Realm",
+    "Demon Child",
+    "Sky-Splitting Giant Axe",
+    "Pilu Country",
+    "Cultivation Alliance",
+    "Thousand-Year Slave Seal"
+  ],
+  "cultivation": "The Giant Demon Clan ancestor is early Soul Transformation, Sun Tai mid Soul Transformation. Wang Lin's clone drops to level 3 Qi Condensation as the combined seals drain his spiritual power.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "level 3 Qi Condensation (clone, sealed)",
+      "quote": "[Klon Wang Lin, Kondensasi Qi Level 3]",
+      "first": false,
+      "card": 870.08
+    },
+    {
+      "id": "giant-demon-clan-ancestor",
+      "name": "Giant Demon Clan ancestor",
+      "realm": "early Soul Transformation",
+      "quote": "[Wang, Leluhur Klan Setan Raksasa, Transformasi Jiwa Tahap Awal]",
+      "first": true,
+      "card": 307.0
+    },
+    {
+      "id": "li-yuanfeng",
+      "name": "Li Yuanfeng",
+      "realm": "early Soul Transformation",
+      "quote": "Keduanya memang hanya berada pada Tahap Awal Transformasi Jiwa",
+      "first": false,
+      "card": 499.38
+    },
+    {
+      "id": "chi-hu",
+      "name": "Chi Hu",
+      "first": false
+    },
+    {
+      "id": "sun-tai",
+      "name": "Sun Tai",
+      "realm": "mid Soul Transformation",
+      "quote": "Saya berada pada Tahap Transformasi Jiwa Tengah.",
+      "first": false,
+      "card": 1033.27
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "The ancestor's card gives his surname as Wang; the glossary title 'Giant Demon Clan Ancestor' is used to avoid confusion with Wang Lin.",
+    "Only the AnimeKhor Indonesian fansub (ep83.id.srt) was available; no official YouTube en/zh track for this episode yet."
+  ],
+  "flags": [
+    "Who says 'Akhirnya, dia datang' at 593s and the Corpse Yin Sect lines at 607-619s is unclear; they read as Wang Lin's thoughts.",
+    "The 'Thousand-Year Slave Seal' (825s) suggests an older tie between Sun Tai and Wang Lin; this episode does not explain it.",
+    "At 1147s the ancestor says his innate ability can only move an opponent to a distant star region. EP85 confirms that he exiled Sun Tai.",
+    "The flashback report at 669-701s (Wang Lin 'dead', a soul fled to the Outer Battlefield, a Tongtian Tower envoy) belongs to the ancestor's backstory; who the reporting disciple is stays vague."
+  ]
+}

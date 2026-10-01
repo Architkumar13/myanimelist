@@ -1,0 +1,119 @@
+{
+  "ep": 119,
+  "title": "Reverse Cultivation",
+  "summary": "The Demon General Tournament opens on the Grand Plaza of Sky Demon City under the steward Jin Wuxu and the sixteen Commanders-in-Chief: each Demon General fights, then his assistant, and Demon Generals may not be killed but assistants can be. Shi Xiao easily beats Mu Yun and kills Mu Yun's assistant Master Tiankui of the Giant Spirit Sect, then calls Wang Lin a toy. Vice Commander-in-Chief Xuan bets Vice Commander-in-Chief Huang his Heavenly Omen Banners that Wang Lin will win the whole tournament. Demon General Ao Di challenges Wang Lin and fires his life-bound serpent's Blood God Arrow; Wang Lin blocks it and cripples him without killing him, and with four wins Mo Lihai goes through to the second round. In the city Wang Lin's sword spirit Xu Liguo chases the Emperor Sword Spirit until Wang Lin reins him in, and some assistants who are quitting the tournament tell Wang Lin to go with the flow. Thinking it over alone, he decides that every step from Qi Condensation to the peak of Soul Transformation came from defiance, and that reverse cultivation against heaven is his road to Ascendant.",
+  "events": [
+    "Jin Wuxu opens the tournament and explains the rules",
+    "Shi Xiao beats Mu Yun and kills his assistant Master Tiankui",
+    "Vice Commander-in-Chief Xuan bets Vice Commander-in-Chief Huang that Wang Lin will win",
+    "Wang Lin blocks Ao Di's Blood God Arrow and cripples him",
+    "Mo Lihai advances with four wins",
+    "Xu Liguo flirts with the Emperor Sword Spirit and is restrained by Wang Lin",
+    "Assistants say goodbye and urge Wang Lin to go with the flow",
+    "Wang Lin chooses defiance as his path to Ascendant"
+  ],
+  "introduced": [
+    "Grand Plaza",
+    "Jin Wuxu",
+    "Vice Commander-in-Chief Huang",
+    "Mu Yun",
+    "Master Tiankui",
+    "Giant Spirit Sect",
+    "Ao Di",
+    "Blood God Arrow",
+    "Heavenly Omen Banners",
+    "Xuanhuang Pill",
+    "Xiao Hei"
+  ],
+  "cultivation": "Jin Wuxu: mid Ascendant, 400,000 armor. Vice Commander-in-Chief Huang: early Ascendant. Mu Yun, Master Tiankui and Ao Di: late Soul Transformation. Wang Lin: peak Soul Transformation.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "jin-wuxu",
+      "name": "Jin Wuxu",
+      "realm": "mid Ascendant",
+      "quote": "[Jin Wuxu, Penguasa Kota Iblis Surgawi, Kekuatan Iblis: 400.000 Armor, Tahap Ascendant Menengah]",
+      "first": true,
+      "card": 72
+    },
+    {
+      "id": "vice-commander-huang",
+      "name": "Vice Commander-in-Chief Huang",
+      "realm": "early Ascendant",
+      "quote": "[Yao Shi, Wakil Marsekal, Kekuatan Iblis: 30.000 Armor, Tahap Awal Ascendant]",
+      "first": true,
+      "card": 99
+    },
+    {
+      "id": "vice-commander-xuan",
+      "name": "Vice Commander-in-Chief Xuan",
+      "first": false
+    },
+    {
+      "id": "shi-xiao",
+      "name": "Shi Xiao",
+      "first": false
+    },
+    {
+      "id": "mu-yun",
+      "name": "Mu Yun",
+      "realm": "late Soul Transformation",
+      "quote": "[Mu Yun, Jenderal Iblis, Tahap Transformasi Jiwa Akhir]",
+      "first": true,
+      "card": 219
+    },
+    {
+      "id": "master-tiankui",
+      "name": "Master Tiankui",
+      "realm": "late Soul Transformation",
+      "quote": "[Master Tiankui, Sekte Roh Raksasa, Tahap Transformasi Jiwa Akhir]",
+      "first": true,
+      "card": 265
+    },
+    {
+      "id": "ao-di",
+      "name": "Ao Di",
+      "realm": "late Soul Transformation",
+      "quote": "[Ao Di, Jenderal Iblis, Tahap Transformasi Jiwa Akhir]",
+      "first": true,
+      "card": 479
+    },
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "peak Soul Transformation",
+      "quote": "(He is only at peak Ying Bian) - official",
+      "first": false
+    },
+    {
+      "id": "mo-lihai",
+      "name": "Mo Lihai",
+      "first": false
+    },
+    {
+      "id": "gu-yunchi",
+      "name": "Gu Yunchi",
+      "first": false
+    },
+    {
+      "id": "emperor-sword-spirit",
+      "name": "Emperor Sword Spirit",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Sources: AnimeKhor Indonesian fansub and the official YouTube English track (clear for this episode).",
+    "Ranks: 'Marshal/Vice Marshal' in the subtitles are written Commander-in-Chief / Vice Commander-in-Chief, following the glossary.",
+    "Vice Commander-in-Chief Huang is the glossary's 'Huang Vice Commander-in-Chief (Yao Shi)'; the fansub card names him Yao Shi."
+  ],
+  "flags": [
+    "Huang's card gives 30,000 armor in the fansub (99s) but 300,000 in the official track; 300,000 is more likely.",
+    "Master Tiankui may be the glossary's Mu Ye ('Esteemed Tian Lui', debut EP119); kept as the card name.",
+    "The man named Ming Xuan (1011s) and the watcher who says 'the one the Ancestor waits for may be him' (1142s) are not identified."
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "ep": 128,
+  "title": "Burning Soul",
+  "summary": "Deep in the Tidal Abyss, Da Lou Sword Sect disciples led by Chen Long have been trapped by beasts for a hundred years under Tan Lang, a cultivator fallen from Illusory Yin who waits for Ling Tianhou to come for them. At the Water Demon Country entrance Wang Lin meets Du Jian of the Tianyun Sect's Red Division, Murong Zhuo of the Ink Sect, and Zhao Yixuan and Xu Fei of the Floating Cloud Sect, and joins them. Du Jian leads them to a supposed Tianyun Sword lost by Sun Yun of the Purple Division, but it is a trap set on a poison-insect tree, which Wang Lin sees through; he parts from the group after warning Murong Zhuo that the two women are Corpse Yin Sect, one a puppet. Guided by Bei Lou's jade slip, Wang Lin finds Zhou Yi's sword spirit sealed deep under a rock wall by Ling Tianhou's divine sense, at least late Nirvana Cleanser in strength. Against Xu Liguo's pleas he burns his own divine soul, using his immortal art and Origin Soul with the Immobilization Technique, the Yellow Springs and the golden talismans to trap Ling Tianhou's divine sense and break the seal on Zhou Yi.",
+  "events": [
+    "Chen Long's Da Lou disciples beg Tan Lang to lead them out of the abyss",
+    "Wang Lin enters the Tidal Abyss with Du Jian, Murong Zhuo, Zhao Yixuan and Xu Fei",
+    "Du Jian's Tianyun Sword turns out to be a poison-insect trap",
+    "Wang Lin exposes the trap and leaves the group",
+    "He warns Murong Zhuo that the two women are Corpse Yin Sect",
+    "He finds Zhou Yi sealed by Ling Tianhou's divine sense",
+    "He burns his divine soul to trap Ling Tianhou's divine sense and reach Zhou Yi"
+  ],
+  "introduced": [
+    "Si She",
+    "Xu Gou",
+    "You Ji",
+    "Chen Long",
+    "Wu Ma",
+    "Shen Hou (named, dead)",
+    "Du Jian",
+    "Murong Zhuo",
+    "Zhao Yixuan",
+    "Xu Fei (Corpse Yin Sect)",
+    "Ink Sect",
+    "Floating Cloud Sect",
+    "Red Division",
+    "Purple Division",
+    "Tianyun Sword",
+    "Seven Sons of Heavenly Fortune"
+  ],
+  "cultivation": "Tan Lang: fell from Illusory Yin, now great perfection Ascendant. Chen Long and Murong Zhuo: early Ascendant. Si She, Xu Gou and Zhao Yixuan: late Soul Transformation. You Ji and Xu Fei: mid Soul Transformation. Du Jian and Wu Ma: great perfection Soul Transformation. Ling Tianhou is judged to be at least late Nirvana Cleanser.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "si-she",
+      "name": "Si She",
+      "realm": "late Soul Transformation",
+      "quote": "[Ba She, Murid Sekte Pedang Daluo, Tahap Transformasi Jiwa Akhir]",
+      "first": true,
+      "card": 56.9
+    },
+    {
+      "id": "xu-gou",
+      "name": "Xu Gou",
+      "realm": "late Soul Transformation",
+      "quote": "[Xu Gou, Murid Sekte Pedang Daluo, Tahap Transformasi Jiwa Akhir]",
+      "first": true,
+      "card": 59.3
+    },
+    {
+      "id": "you-ji",
+      "name": "You Ji",
+      "realm": "mid Soul Transformation",
+      "quote": "[You Ji, Murid Sekte Pedang Daluo, Tahap Transformasi Jiwa Menengah]",
+      "first": true,
+      "card": 64.4
+    },
+    {
+      "id": "chen-long",
+      "name": "Chen Long",
+      "realm": "early Ascendant",
+      "quote": "[Chen Long, Murid Sekte Pedang Daluo, Tahap Awal Ascendant]",
+      "first": true,
+      "card": 80.0
+    },
+    {
+      "id": "tan-lang",
+      "name": "Tan Lang",
+      "realm": "great perfection Ascendant (fell from Illusory Yin)",
+      "quote": "[Tan Lang, Jatuh dari Tahap Yin Ilusi, Tahap Kenaikan Siklus Besar]",
+      "first": true,
+      "card": 90.5
+    },
+    {
+      "id": "wu-ma",
+      "name": "Wu Ma",
+      "realm": "great perfection Soul Transformation",
+      "quote": "(Wu Ma, Disciple of Great Lofty Sword Sect, Soul Transformation Great Circle) - official",
+      "first": true
+    },
+    {
+      "id": "du-jian",
+      "name": "Du Jian",
+      "realm": "great perfection Soul Transformation",
+      "quote": "[Du Jian, Murid Fraksi Merah dari Sekte Tianyun Agung, Tahap Transformasi Jiwa Siklus Agung]",
+      "first": true,
+      "card": 225.7
+    },
+    {
+      "id": "murong-zhuo",
+      "name": "Murong Zhuo",
+      "realm": "early Ascendant",
+      "quote": "(Murong Zhuo, Planet Tian Yun Ink Sect Disciple, Early Stage Ascendant) - official",
+      "first": true
+    },
+    {
+      "id": "zhao-yixuan",
+      "name": "Zhao Yixuan",
+      "realm": "late Soul Transformation",
+      "quote": "[Zhao Yixuan, Murid Sekte Fuyun, Tahap Transformasi Jiwa Akhir]",
+      "first": true,
+      "card": 264.7
+    },
+    {
+      "id": "xu-fei-corpse-yin",
+      "name": "Xu Fei",
+      "realm": "mid Soul Transformation",
+      "quote": "[Xu Fei, Murid Sekte Fuyun, Tahap Transformasi Jiwa Menengah]",
+      "first": true,
+      "card": 269.9
+    },
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "zhou-yi",
+      "name": "Zhou Yi",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Sources: AnimeKhor Indonesian fansub and the official YouTube English track (clear).",
+    "Si She follows the glossary and official card; the fansub card reads Ba She.",
+    "Da Lou Sword Sect follows the glossary; official English says Great Lofty Sword Sect, the fansub Daluo.",
+    "Wu Ma and Murong Zhuo have name cards only in the official video (about 296s and 384s there); the AnimeKhor copy runs about 148s earlier, so their cards there would be near 148s and 236s, unchecked."
+  ],
+  "flags": [
+    "Xu Fei shares a name with a fellow disciple from Wang Lin's youth; id 'xu-fei-corpse-yin' keeps them apart.",
+    "Du Jian's card says 'Sekte Tianyun Agung' (Great Tianyun Sect) and the official says Heavenly Fortune Sect; written Tianyun Sect.",
+    "The episode ends mid-rescue (1070s); whether Zhou Yi is freed is not shown."
+  ]
+}

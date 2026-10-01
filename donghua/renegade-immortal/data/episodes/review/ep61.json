@@ -1,0 +1,60 @@
+{
+  "ep": 61,
+  "title": "Death Intent in the Snow Region",
+  "summary": "Wang Lin spends a year in the New Snow Region, where powerful cultivators rule every city and mortals are slaves who carve ice statues that the cultivators bring to life, and he finds it a fitting place to refine his Life and Death intent. He takes over the identity of Sun Shuoyi, lord of the 72nd city, and learns the Pure Ice technique from his memories. When a disciple reports a hideout of Four Faction survivors, Wang Lin goes alone and finds Chen Huan, young master of the Heihun Sect, guarding his dying master. Wang Lin offers pills, but the old man, who could have fled long ago, chooses to die in his homeland as a protector of the Four Factions, gives Wang Lin a treasure, and goes out to fight the Snow Region one last time. After three more years Wang Lin adapts the ice-statue method by turning snow meridians into blood meridians controlled by his Life and Death intent, and with a year left before Soul Formation he decides to return to the Country of Zhao.",
+  "events": [
+    "Wang Lin studies how the Snow Region's ice statues are made and animated",
+    "He takes the identity of city lord Sun Shuoyi",
+    "He learns the Pure Ice technique from Sun Shuoyi's memories",
+    "He finds Chen Huan and his dying master, a Heihun Sect senior",
+    "The old master gives Wang Lin a treasure and dies fighting the Snow Region",
+    "Three years later Wang Lin turns the ice-statue method into blood-meridian puppets",
+    "He sets out for the Country of Zhao"
+  ],
+  "introduced": [
+    "Sun Shuoyi",
+    "Chen Huan",
+    "Pure Ice Technique",
+    "ice statues",
+    "Ice and Snow Temple"
+  ],
+  "cultivation": "Sun Shuoyi: late Core Formation. Snow Region elders say a forced technique can lift a cultivator to early Soul Transformation but leaves only a hundred years of life. Wang Lin is one year from Soul Formation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "sun-shuoyi",
+      "name": "Sun Shuoyi",
+      "realm": "late Core Formation",
+      "quote": "[Sun Shuoyi, Penguasa Kota ke-72 Wilayah Salju Baru, Tahap Akhir Formasi Inti]",
+      "first": true,
+      "card": 419.5
+    },
+    {
+      "id": "chen-huan",
+      "name": "Chen Huan",
+      "realm": "early Soul Formation",
+      "quote": "[Chen Huan, Tuan Muda Sekte Heihun, Transformasi Dewa Tahap Awal]",
+      "first": true,
+      "card": 688.3
+    },
+    {
+      "id": null,
+      "name": "Chen Huan's master (a Heihun Sect senior)",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Read both the official English and the Indonesian fansub; cards only in the Indonesian track."
+  ],
+  "flags": [
+    "Chen Huan's card says early Soul Formation, but Wang Lin senses one person at only Core Formation and another whose sense flickers up to Soul Formation; the card may belong to the dying master.",
+    "Glossary lists a Chen Huan with debut EP9; possibly a different person.",
+    "Who says 'Master, where are we going?' at 18:40 is unclear.",
+    "Closing lines from 19:26 are a preview of EP62."
+  ]
+}

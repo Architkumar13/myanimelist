@@ -1,0 +1,69 @@
+{
+  "ep": 70,
+  "title": "Zhou Yi Becomes Ascendant",
+  "summary": "Wang Lin attacks the exhausted Hongdie, and when her bracelet starts to carry her back to the Suzaku Country he distracts her with the Seven Feather Fan of the Snow Region and cuts off one of her arms, planning to curse her through it. Trapped because the Return Furnace cannot work in overlapping fragments, he and Chi Hu go down to a fourth layer, a palace built of immortal jade. There Zhou Yi, burning his soul, wins against Sun Tai, reaches Ascendant in his last moments and remembers his past: the Celestial corpse had forced the obsession on him. He asks Wang Lin to care for his wife for a thousand years, a thousand immortal jades every thousand years, and pays him with three gifts: a pagoda holding his Ascendant domain, an Ascendant Crystal, and Sun Tai as Wang Lin's slave for a thousand years. Then Zhou Yi calls out the first Rain Celestial Sword, and the Celestial woman awakens and names him her sword spirit.",
+  "events": [
+    "Hongdie's bracelet starts carrying her home; Wang Lin uses the Seven Feather Fan to distract her",
+    "He severs her arm and plans to curse her through it",
+    "Wang Lin and Chi Hu descend to a fourth layer, a palace of immortal jade",
+    "Zhou Yi defeats Sun Tai while burning his soul and reaches Ascendant",
+    "Zhou Yi remembers his past and his debt to his master",
+    "He gives Wang Lin his pagoda, an Ascendant Crystal, and Sun Tai as a slave",
+    "The first Rain Celestial Sword appears and the Celestial makes Zhou Yi her sword spirit"
+  ],
+  "introduced": [
+    "Seven Feather Fan",
+    "Return Furnace",
+    "Ascendant Crystal",
+    "Zhou Yi's pagoda",
+    "First Rain Celestial Sword",
+    "slave seal"
+  ],
+  "cultivation": "Zhou Yi breaks through to Ascendant while burning his primordial soul. Hongdie notes Wang Lin's domain is only at mid Soul Formation level.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "hongdie",
+      "name": "Hongdie",
+      "look": "loses one arm",
+      "first": false
+    },
+    {
+      "id": "chi-hu",
+      "name": "Chi Hu",
+      "first": false
+    },
+    {
+      "id": "zhou-yi",
+      "name": "Zhou Yi",
+      "realm": "Ascendant",
+      "quote": "Domain Alam Niat saya saat mencapai Ascendant",
+      "first": false,
+      "card": 747.0
+    },
+    {
+      "id": "sun-tai",
+      "name": "Sun Tai",
+      "first": false
+    },
+    {
+      "id": "ting-er",
+      "name": "Ting'er",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Indonesian fansubs read in full; key lines spot-checked against the official English (YouTube), which arrived late.",
+    "'Kerajaan Vermilion' = Suzaku Country; 'Kipas Tujuh Bulu, Negara Daerah Salju' = Seven Feather Fan of Xue Yue."
+  ],
+  "flags": [
+    "269-289: Hongdie names Wang Lin's domain 'Waktu' (official English: 'years', 'the artistic conception of time'); probably his Life and Death domain.",
+    "1104-1111: the slave seal lets Wang Lin destroy Sun Tai's soul with a thought; official English 'this transformation of infant powerhouse' = Soul Transformation expert.",
+    "1212-1224: the speaker who names Zhou Yi sword spirit is read as Ting'er (the awakened Celestial)."
+  ]
+}

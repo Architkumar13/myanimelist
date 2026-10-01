@@ -1,0 +1,102 @@
+{
+  "ep": 105,
+  "title": "Imprisoned Before the Banquet",
+  "summary": "Zhao Xingsha, who has waited two thousand years for the Purple Branch's place among the Seven Heavenly Fated Disciples, counts his rivals and decides Wang Lin is the only real threat. Bai Wei visits Wang Lin at night and explains the title fight: Zhao Xingsha lost it to Chen Tao, both lost to Sun Yun, and Sun Yun later betrayed the sect, leaving the seat empty. The title brings a private domain, help at the Ascendant breakthrough, endless immortal jade and, after three thousand years, a low-grade Immortal Art, and Wang Lin decides it is worth fighting for. At Pinling Pavilion the Seventh Elder Master senses Zhou Yi's sword aura on Wang Lin's flying sword and trades him a jade slip of eighteen seals for it, and Wang Lin collects 123,600 pieces of immortal jade left unclaimed for 103 years. Zhao Xinmeng then moves him by force to the Stone Forest, where Sima Rufeng of the Blue Branch and Wang Yu of the Green Branch shut him in a formation on someone's behalf, while Zhao Xinmeng says this repays an old debt. Three months later, as guests arrive for Tian Yunzi's ten-thousandth birthday, Wang Lin breaks out at mid Soul Transformation with the three killing fingers, has Cao Yidou guide him to the hall, and confronts Zhao Xingsha in front of everyone.",
+  "events": [
+    "Zhao Xingsha sizes up his rivals in the Purple Branch",
+    "Bai Wei explains the Seven Heavenly Fated Disciples and what the title brings",
+    "Wang Lin recalls Situ Nan's three fingers came from a fragment of a low-grade Immortal Art",
+    "The Seventh Elder Master takes his Zhou Yi-touched sword in exchange for an eighteen-seal jade slip",
+    "Wang Lin collects 123,600 pieces of immortal jade",
+    "Zhao Xinmeng transfers him to the Stone Forest, where Sima Rufeng and Wang Yu trap him",
+    "Guests, including Chi Lie, arrive for Tian Yunzi's ten-thousandth birthday",
+    "Wang Lin breaks out at mid Soul Transformation and calls out Zhao Xingsha at the banquet"
+  ],
+  "introduced": [
+    "Bai Wei (as Third Senior)",
+    "Chen Tao (named)",
+    "Seventh Elder Master",
+    "Pinling Pavilion",
+    "Immortal Jade",
+    "Eighteen-seal jade slip",
+    "Stone Forest",
+    "Sima Rufeng",
+    "Wang Yu",
+    "Chi Lie",
+    "Title Battle of the Seven Heavenly Fated Disciples",
+    "Sky Prison (mentioned)"
+  ],
+  "cultivation": "Sima Rufeng: late Soul Transformation, near perfection. Wang Yu: late Soul Transformation, half a step from Ascendant. Chi Lie: Nirvana Scryer. Wang Lin: mid Soul Transformation after three months. Zhao Xingsha was late Soul Transformation two thousand years ago; Chen Tao has reached Ascendant.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "zhao-xingsha",
+      "name": "Zhao Xingsha",
+      "first": false
+    },
+    {
+      "id": "bai-wei",
+      "name": "Bai Wei",
+      "first": false
+    },
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "mid Soul Transformation",
+      "quote": "[Klon Wang Lin, Tahap Transformasi Jiwa Tengah]",
+      "first": false,
+      "card": 901.0
+    },
+    {
+      "id": "zhao-xinmeng",
+      "name": "Zhao Xinmeng",
+      "first": false
+    },
+    {
+      "id": "sima-rufeng",
+      "name": "Sima Rufeng",
+      "realm": "late Soul Transformation",
+      "quote": "[Sima Rufeng, Murid Biru Takdir Surgawi, Tahap Transformasi Jiwa Akhir]",
+      "first": true,
+      "card": 628.2
+    },
+    {
+      "id": "wang-yu-heavenly-fate",
+      "name": "Wang Yu",
+      "realm": "late Soul Transformation",
+      "quote": "[Wang Yu, Murid Hijau Takdir Surgawi, Tahap Transformasi Jiwa Akhir]",
+      "first": true,
+      "card": 641.8
+    },
+    {
+      "id": "chi-lie",
+      "name": "Chi Lie",
+      "realm": "Nirvana Scryer",
+      "quote": "[Chi Lie, Adik Muda Tian Yunzi, Alam Peramal Nirvana]",
+      "first": true,
+      "card": 775.1
+    },
+    {
+      "id": "all-seer",
+      "name": "All-Seer",
+      "first": false,
+      "shownAs": "All-Seer (Tian Yunzi)"
+    },
+    {
+      "id": "cao-yidou",
+      "name": "Cao Yidou",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep105.id.srt) with its name cards; card times are from that file.",
+    "Official YouTube English was checked alongside the Indonesian fansub for names and story beats; its realm names are unreliable (it says 'Nascent Soul' for Soul Transformation), so the Indonesian cards were used for realms.",
+    "Naming follows the earlier reviews and glossary: Planet Suzaku, Suzaku Tomb, Zhu Quezi, Yun Quezi, Hongdie, Forsaken Immortal Clan, Cultivation Planet Crystal (subs: Star Cultivation/Star Refining Crystal)."
+  ],
+  "flags": [
+    "The mid Soul Transformation card at 901s labels the figure as Wang Lin's clone; whether the clone or Wang Lin himself breaks out is unclear.",
+    "Bai Wei says Wang Lin's cultivation looks far lower than at the Trading Planet (135-141s): he is hiding his strength.",
+    "'Aku, Kamu Wuyou' (315s) is garbled; the official English and context point to Ye Wuyou obtaining the Immortal Art fragment, told by Situ Nan.",
+    "Who is behind the Stone Forest trap is implied to be Zhao Xingsha (602s) but not confirmed."
+  ]
+}

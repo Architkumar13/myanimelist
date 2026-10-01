@@ -6,6 +6,7 @@ One website for every donghua here, plus each show's notes and build scripts.
 |---|---|
 | [shrouding-the-heavens/](shrouding-the-heavens/README.md) | *Shrouding the Heavens* (遮天) |
 | [the-great-ruler/](the-great-ruler/README.md) | *The Great Ruler* (大主宰) |
+| [renegade-immortal/](renegade-immortal/README.md) | *Renegade Immortal* (仙逆) |
 | [battle-through-the-heavens/](battle-through-the-heavens/README.md) | *Battle Through the Heavens* (斗破苍穹) |
 
 ## The website

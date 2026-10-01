@@ -1,0 +1,66 @@
+{
+  "ep": 67,
+  "title": "The God Slaying War Chariot",
+  "summary": "Wounded after the fragment's collapse, Wang Lin meets Chi Hu, young leader of the Giant Demon Clan, and gives his name as Zeng Niu of Tianhun Country. Chi Hu shows him a jade slip map to a hidden central fragment with a jade coffin and asks him to team up within a month. Recovering, Wang Lin learns his golden iron is a jade slip left by the Celestial Tian Bao, pointing to the God Slaying War Chariot sealed in a tenth chamber of Tian Bao's cave. He helps Sima Yun of the Kuishui Sect against a thief, trades teleport maps with him, and finds the hidden chamber on Tiger Mountain, where he tames the smallest beast soul of the chariot. Then he goes to Chi Hu's meeting at the Cold Stream and finds that the third partner is Hongdie.",
+  "events": [
+    "Chi Hu of the Giant Demon Clan meets the wounded Wang Lin, who calls himself Zeng Niu",
+    "Chi Hu invites him to raid a central fragment holding a jade coffin",
+    "Wang Lin learns celestial energy can only be used when he breaks through to Soul Transformation",
+    "The golden iron turns out to be Tian Bao's slip about the God Slaying War Chariot",
+    "Wang Lin helps Sima Yun and trades teleport maps with him",
+    "In Tian Bao's cave on Tiger Mountain he finds the chariot and tames its smallest beast soul",
+    "At the Cold Stream entrance Chi Hu's third partner turns out to be Hongdie"
+  ],
+  "introduced": [
+    "Chi Hu",
+    "Zeng Niu (Wang Lin's alias)",
+    "Tian Bao",
+    "God Slaying War Chariot",
+    "Sima Yun",
+    "Kuishui Sect",
+    "Tiger Mountain fragment",
+    "Cold Stream"
+  ],
+  "cultivation": "Sima Yun is early Soul Formation. Wang Lin notes the celestial energy he gathered can only be refined when he breaks from late Soul Formation into Soul Transformation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "chi-hu",
+      "name": "Chi Hu",
+      "first": false
+    },
+    {
+      "id": "tian-bao",
+      "name": "Tian Bao",
+      "first": true,
+      "card": 482.48
+    },
+    {
+      "id": "sima-yun",
+      "name": "Sima Yun",
+      "realm": "early Soul Formation",
+      "quote": "Sima Yun, Planet Suiyin dari Sekte Kuishui, Transformasi Dewa Tahap Awal",
+      "first": true,
+      "card": 562.4
+    },
+    {
+      "id": "hongdie",
+      "name": "Hongdie",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Indonesian fansubs read in full and checked against the official English (YouTube).",
+    "Chi Hu's name card is in EP64 (Soul Formation); here he only reintroduces himself."
+  ],
+  "flags": [
+    "847: card 'Fei, Jiwa Binatang dari Kereta Penembak Dewa' - 'Fei' may be the beast soul's name or a slip.",
+    "670: Sima Yun's home planet given as 'Suiyin' on the card and 'Suiyunku' in dialogue.",
+    "Tian Bao appears only as a recorded image in the slip."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "ep": 102,
+  "title": "Refusing the Suzaku Legacy",
+  "summary": "Inside the crystal, an image of Ye Wuyou, the first Suzaku, tells Wang Lin that the crystal picks its own master when someone tries to destroy it, and that it has chosen him. Wang Lin turns down the title, saying his path will not stop at one planet, and Ye Wuyou tells him a life soul can be won by killing its spirit creature or by trading one life for another. Outside, the cultivators fight over the ownerless crystal, and Zhu Quezi appears through a bronze figure of outer-world iron that he gave Qian Feng, meaning to seize his own disciple's body and lifespan. Wang Lin goes after Qian Feng for himself and for Hongdie, and Qian Feng draws the Ancient God Blood Sword, an heirloom of the Qian family carrying Nine-Star Ancient God blood. Tuo Sen then descends in his true avatar, a monkey, strengthened by that drop of blood. Wang Lin kills Qian Feng and uses his life to win back the life souls, while Zi Xin takes Qian Feng's cultivation through a reversal technique Yun Quezi taught her. Tuo Sen corners Wang Lin, who blows up the souls in his Soul Flag and hides in the Heaven Defying Bead, until a Cultivation Alliance envoy seals Tuo Sen, pardons Zhu Quezi, and greets Wang Lin as an old acquaintance.",
+  "events": [
+    "Ye Wuyou's image offers Wang Lin the Suzaku title and he refuses",
+    "Ye Wuyou explains two ways to win a life soul, including trading a life",
+    "Cultivators scramble for the ownerless crystal",
+    "Zhu Quezi arrives through the bronze figure to seize Qian Feng's body",
+    "Qian Feng draws the Ancient God Blood Sword; Tuo Sen descends as a monkey avatar",
+    "Wang Lin kills Qian Feng and trades his life for the life souls; Zi Xin absorbs Qian Feng's cultivation",
+    "Wang Lin self-destructs the Soul Flag's souls and hides in the Heaven Defying Bead",
+    "A Cultivation Alliance envoy seals Tuo Sen and pardons Zhu Quezi"
+  ],
+  "introduced": [
+    "Ye Wuyou (image)",
+    "Ancient God Blood Sword",
+    "Nine-Star Ancient God blood",
+    "Tuo Sen's monkey avatar",
+    "Cultivation Alliance envoy"
+  ],
+  "cultivation": "Qian Feng is at Soul Transformation; Zi Xin gains his cultivation. Wang Lin reached Foundation Establishment when he first obtained the Ancient God memory inheritance.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "ye-wuyou",
+      "name": "Ye Wuyou",
+      "quote": "(Ye Wuyou, first generation Vermilion Bird of Vermilion Star)",
+      "first": true,
+      "card": 204.0
+    },
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "zhu-quezi",
+      "name": "Zhu Quezi",
+      "first": false
+    },
+    {
+      "id": "yun-quezi",
+      "name": "Yun Quezi",
+      "first": false
+    },
+    {
+      "id": "qian-feng",
+      "name": "Qian Feng",
+      "realm": "Soul Transformation",
+      "quote": "his cultivation at the Infant Transformation stage (859s)",
+      "first": false
+    },
+    {
+      "id": "tuo-sen",
+      "name": "Tuo Sen",
+      "look": "descends as a monkey avatar",
+      "first": false
+    },
+    {
+      "id": "zi-xin",
+      "name": "Zi Xin",
+      "first": false
+    },
+    {
+      "id": "zhou-yi",
+      "name": "Zhou Yi",
+      "first": false
+    },
+    {
+      "id": "mo-zhi",
+      "name": "Mo Zhi",
+      "first": false
+    }
+  ],
+  "changes": [
+    "No AnimeKhor file for this episode: written from the official YouTube English and Chinese tracks (the Chinese reads like a translation of the English, so it is not an independent check). Times are from the YouTube copy.",
+    "Naming follows the earlier reviews and glossary: Planet Suzaku, Suzaku Tomb, Zhu Quezi, Yun Quezi, Hongdie, Forsaken Immortal Clan, Cultivation Planet Crystal (subs: Star Cultivation/Star Refining Crystal).",
+    "Official 'Infant Transformation' rendered as Soul Transformation (婴变)."
+  ],
+  "flags": [
+    "Ye Wuyou is marked first on screen as a person; his statue appeared in EP101.",
+    "Zhu Quezi's line 'I have come here in this form by Qianfeng's command' (524s) reads backwards; he seems to come through the bronze figure he gave Qian Feng.",
+    "Whose life souls Wang Lin wins by trading Qian Feng's life is confirmed only in EP103 (both his and Wan'er's).",
+    "The envoy is named Mo Zhi only in EP103."
+  ]
+}

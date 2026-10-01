@@ -1,0 +1,80 @@
+{
+  "ep": 107,
+  "title": "Losing to Chen Tao",
+  "summary": "Every Yellow Branch disciple steps aside, so Kunpeng Zi becomes one of the Seven Heavenly Fated Disciples, and Wang Lin starts to wonder why core disciples give the title up so easily. In the Purple Branch, Bai Wei withdraws and Zhao Xinmeng challenges Wang Lin, and when he tries to withdraw too, Tian Yunzi presses him to fight. Zhao Xinmeng uses her Demon Shadow Dao to copy his Demon Transformation Finger as a Purple Demon Hand, hoping to take its mutated demon energy, but Wang Lin answers with golden immortal energy at three and then five revolutions, and she concedes. Chen Tao then returns at mid Ascendant, presents Tian Yunzi with a Seven-Coloured Glazed Light flower from Heimo Star, and claims the title. In the fight Wang Lin opens a seal of the God Slaying War Chariot against Chen Tao's spirit beast and strikes with the Yellow Springs Finger and his life-and-death Intent, then concedes, glad to dodge a title whose secrets worry him. Tian Yunzi takes him to the Three Black and White Peaks, where Wang Lin sees with the help of his Ancient God memories that the two side peaks are illusions, and sends him to climb the last hundred steps, the Immortal Extinction Ground.",
+  "events": [
+    "Yellow Branch disciples all withdraw; Kunpeng Zi takes the title",
+    "Bai Wei withdraws; Tian Yunzi pushes Wang Lin to fight Zhao Xinmeng",
+    "Zhao Xinmeng copies his finger with Demon Shadow Dao; he wins with golden immortal energy",
+    "Chen Tao returns at mid Ascendant with a Seven-Coloured Glazed Light flower",
+    "Wang Lin fights Chen Tao with the God Slaying War Chariot and the Yellow Springs Finger",
+    "Wang Lin concedes on purpose; Chen Tao takes the Purple Branch title",
+    "Tian Yunzi brings him to the Three Black and White Peaks and he sees through the illusory peaks",
+    "Wang Lin must climb the Immortal Extinction Ground"
+  ],
+  "introduced": [
+    "Yun Daozi",
+    "Demon Shadow Dao",
+    "Purple Demon Hand",
+    "Chen Tao (on screen)",
+    "Heimo Star",
+    "Seven-Coloured Glazed Light",
+    "Dao of Heavenly Fortune",
+    "Three Black and White Peaks",
+    "True Illusion Art",
+    "Immortal Extinction Ground"
+  ],
+  "cultivation": "Chen Tao: mid Ascendant. Wang Lin uses golden immortal energy at three and five revolutions. Tian Yunzi says he has failed for thirty thousand years to reach the third step.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "kunpeng-zi",
+      "name": "Kunpeng Zi",
+      "first": false
+    },
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "zhao-xinmeng",
+      "name": "Zhao Xinmeng",
+      "first": false
+    },
+    {
+      "id": "bai-wei",
+      "name": "Bai Wei",
+      "first": false
+    },
+    {
+      "id": "all-seer",
+      "name": "All-Seer",
+      "first": false,
+      "shownAs": "All-Seer (Tian Yunzi)"
+    },
+    {
+      "id": "chen-tao",
+      "name": "Chen Tao",
+      "realm": "mid Ascendant",
+      "quote": "[Chen Tao, Murid Cabang Ungu Sekte Takdir Surgawi, Tahap Ascendant Tengah]",
+      "first": true,
+      "card": 526.2
+    },
+    {
+      "id": "sun-zhongan",
+      "name": "Sun Zhongan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep107.id.srt) with its name cards; card times are from that file.",
+    "Official YouTube English was checked alongside the Indonesian fansub for names and story beats; its realm names are unreliable (it says 'Nascent Soul' for Soul Transformation), so the Indonesian cards were used for realms.",
+    "Naming follows the earlier reviews and glossary: Planet Suzaku, Suzaku Tomb, Zhu Quezi, Yun Quezi, Hongdie, Forsaken Immortal Clan, Cultivation Planet Crystal (subs: Star Cultivation/Star Refining Crystal)."
+  ],
+  "flags": [
+    "'Meterai Kelima, membuka' (725s) may mean the fifth seal opens, or one of five seals; later lines speak of opening all five.",
+    "Who 'Yun Daozi' (117s) is, a Yellow Branch disciple or Kunpeng Zi's other name, is unclear.",
+    "Whether Wang Lin threatens a sixth revolution (486s) or Zhao Xinmeng does is unclear."
+  ]
+}

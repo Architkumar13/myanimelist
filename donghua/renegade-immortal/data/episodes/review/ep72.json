@@ -1,0 +1,101 @@
+{
+  "ep": 72,
+  "title": "Zeng Niu's Name Spreads",
+  "summary": "As the Celestial dies, Wang Lin's Life and Death domain reaches its second level and brings him half a step from mid Soul Formation, and Zhou Yi's sword shadow drives Ling Tianhou back. Wang Lin is left holding two Rain Celestial Swords, and cultivators of the Hun Yuan Sect, the Sky Devil Sect and the Heaven and Earth Sect demand them. He kills Lu Tianrui with his domain, and Sun Tai comes out of hiding and slaughters the rest in exchange for a thousand years of freedom. Wang Lin and Chi Hu return to Planet Suzaku, where news of Hongdie's severed arm makes the name Zeng Niu famous. At the Suzaku Mountain altar, Feng Yushan reports that the real Zeng Niu of Tianhun Country is only a Foundation Establishment cultivator, and a kill order is issued, then withdrawn by Mount Suzaku.",
+  "events": [
+    "Wang Lin's Life and Death domain advances during the Celestial's death",
+    "Zhou Yi's sword shadow holds off Ling Tianhou",
+    "Hun Yuan, Sky Devil and Heaven and Earth Sect cultivators demand the two swords",
+    "Wang Lin kills Lu Tianrui in a battle of domains",
+    "Sun Tai kills the rest in exchange for a thousand years of freedom",
+    "Wang Lin and Chi Hu return to Planet Suzaku and part as friends",
+    "The Suzaku Country orders Zeng Niu killed, then Mount Suzaku cancels the order"
+  ],
+  "introduced": [
+    "Zhuang Yi",
+    "Nie Ming",
+    "Lu Tianrui",
+    "Hun Yuan Sect",
+    "Sky Devil Sect",
+    "Heaven and Earth Sect",
+    "Feng Yushan",
+    "Mount Suzaku",
+    "Devotion domain"
+  ],
+  "cultivation": "Wang Lin's Life and Death domain reaches mid Soul Formation level (second level) while his cultivation stays early Soul Formation, half a step from mid. Zhuang Yi and Nie Ming are early Soul Formation; Lu Tianrui and Feng Yushan are mid Soul Formation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "early Soul Formation (domain at mid level)",
+      "quote": "kultivasi saya berada pada Tahap Awal Transformasi Dewa, tetapi Domain Alam Niat saya baru saja mencapai Transformasi Dewa Tingkat Menengah",
+      "first": false
+    },
+    {
+      "id": "ling-tianhou",
+      "name": "Ling Tianhou",
+      "first": false
+    },
+    {
+      "id": "zhou-yi",
+      "name": "Zhou Yi",
+      "first": false
+    },
+    {
+      "id": "zhuang-yi",
+      "name": "Zhuang Yi",
+      "realm": "early Soul Formation",
+      "quote": "Zhuang Yi, Sekte Hunyuan, Transformasi Dewa Tahap Awal",
+      "first": true,
+      "card": 482.2
+    },
+    {
+      "id": "nie-ming",
+      "name": "Nie Ming",
+      "realm": "early Soul Formation",
+      "quote": "Nie Ming, Sekte Iblis Surgawi, Transformasi Dewa Tahap Awal",
+      "first": true,
+      "card": 500.2
+    },
+    {
+      "id": "lu-tianrui",
+      "name": "Lu Tianrui",
+      "realm": "mid Soul Formation",
+      "quote": "Lu Tianrong, Sekte Tiandi Liuhe, Planet Tianyun, Transformasi Dewa Tahap Tengah",
+      "first": true,
+      "card": 514.48
+    },
+    {
+      "id": "sun-tai",
+      "name": "Sun Tai",
+      "first": false
+    },
+    {
+      "id": "chi-hu",
+      "name": "Chi Hu",
+      "first": false
+    },
+    {
+      "id": "feng-yushan",
+      "name": "Feng Yushan",
+      "realm": "mid Soul Formation",
+      "quote": "Feng Yushan, Sekte Tianyu, Transformasi Dewa Tahap Tengah",
+      "first": true,
+      "card": 954.64
+    },
+    {
+      "id": "hongdie",
+      "name": "Hongdie",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Indonesian fansubs read in full; key lines spot-checked against the official English (YouTube), which arrived late.",
+    "Card 'Lu Tianrong' mapped to the wiki's Lu Tianrui; 'Sekte Iblis Surgawi' = Sky Devil Sect; 'Sekte Tiandi Liuhe' = Heaven and Earth Sect; 'Sekte Tianyu' = Heavenly Jade Sect (fan wiki)."
+  ],
+  "flags": [
+    "How Wang Lin ends up with two of the swords is not explained in the subs.",
+    "1038-1071: a master and disciple travelling in the rain discuss Zeng Niu's realm; who they are is not stated."
+  ]
+}

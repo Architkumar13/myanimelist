@@ -1,0 +1,74 @@
+{
+  "ep": 84,
+  "title": "A Mortal in the Water Prison",
+  "summary": "Stripped of his cultivation, Wang Lin is found by bandits of the Fire Cloud Fortress in Pilu Country. They break his limbs, use him as bait against the Tianwei escort bureau, and throw him into their water prison. Meanwhile Suzaku Country gossips that Zeng Niu has vanished; Zhu Quezi tells Liu Mei the disappearance is tied to the Snow Domain and the Giant Demon Clan and gives her a jade slip to track him. Wang Lin finds spiritual energy in the prison water, uses it to open his storage bag, and with the Mosquito Beast turns the bandit chief Zhai Yu and his fortress into his servants. Under the prison he finds a skeleton sealed with top-grade spirit stones beside a purple light. After six months he is only at level 6 Qi Condensation, so he swallows immortal jade to force the seal and reaches late Foundation Establishment. He then sets his sights on the Soul Refining Sect, one of the three great sects of Pilu Country.",
+  "events": [
+    "Fire Cloud Fortress bandits capture the powerless Wang Lin and break his limbs",
+    "Rumours spread that Zeng Niu vanished the day after the duel; Zhu Quezi gives Liu Mei a tracking jade slip",
+    "Qian Feng keeps Jue Qing from letting her last piece of soul escape",
+    "In the water prison Wang Lin absorbs hidden spiritual energy and frees his storage bag",
+    "The Mosquito Beast cows the bandits; Zhai Yu becomes his servant",
+    "Wang Lin studies the sealed skeleton, the purple light and his scroll",
+    "He swallows immortal jade, breaks part of the seal and reaches late Foundation Establishment",
+    "He decides to join the Soul Refining Sect"
+  ],
+  "introduced": [
+    "Zhai Yu",
+    "Fire Cloud Fortress",
+    "Tianwei escort bureau",
+    "Soul Refining Sect",
+    "water-prison skeleton"
+  ],
+  "cultivation": "Wang Lin's clone recovers to level 6 Qi Condensation after six months, then to late Foundation Establishment. His real body lies dormant in Chu Country.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "late Foundation Establishment (clone)",
+      "quote": "[Tubuh Klon Wang Lin, Tahap Akhir Pembentukan Fondasi]",
+      "first": false,
+      "card": 1172.3
+    },
+    {
+      "id": "zhai-yu",
+      "name": "Zhai Yu",
+      "first": true,
+      "card": 456.88
+    },
+    {
+      "id": "zhu-quezi",
+      "name": "Zhu Quezi",
+      "first": false
+    },
+    {
+      "id": "liu-mei",
+      "name": "Liu Mei",
+      "first": false
+    },
+    {
+      "id": "qian-feng",
+      "name": "Qian Feng",
+      "first": false
+    },
+    {
+      "id": "hongdie",
+      "name": "Hongdie",
+      "first": false
+    },
+    {
+      "id": "mosquito-beast",
+      "name": "Mosquito Beast",
+      "first": false
+    }
+  ],
+  "changes": [
+    "'Sekte Lianhun' is written as the Soul Refining Sect (炼魂宗); the episode itself relabels it that way in EP85.",
+    "Only the AnimeKhor Indonesian fansub (ep84.id.srt) was available; no official YouTube en/zh track for this episode yet."
+  ],
+  "flags": [
+    "The disciple who reports Zeng Niu's disappearance to Zhu Quezi (328-376s) is taken to be Liu Mei, since the master calls Wang Lin 'the furnace I chose for you'.",
+    "'Giok Abadi' (immortal jade, 1127s) is taken as the same resource called immortal stones/jade in EP93-94.",
+    "Mu Ye of the Forsaken Immortal Clan is mentioned as once interested in Wang Lin's scroll (1009s) but does not appear."
+  ]
+}

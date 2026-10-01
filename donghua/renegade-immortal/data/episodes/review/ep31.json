@@ -1,0 +1,51 @@
+{
+  "ep": 31,
+  "title": "Forbidden Mountain",
+  "summary": "On the Forbidden Mountain Wang Lin follows quietly behind the Six Desire Devil Lord, the restriction master who has studied restrictions for a thousand years and is breaking a path up the mountain while leaving new traps behind. Breaking the restrictions by force would kill a Core Formation cultivator, so Wang Lin studies them slowly, using Xu Liguo to test each one. After seven years he finds that the formation eyes are made of divine sense, and learns to break restrictions with his divine sense instead of spirit energy. Months later he is sure he can do whatever the Six Desire Devil Lord can do. Duanmu Ji arrives and smashes upward by force, sure the mountain cannot stop him since he crossed it a thousand years ago, and finds a thunder restriction that someone has tampered with. As Duanmu Ji closes in, Wang Lin hides in a fog that no divine sense can see through, after making Xu Liguo cough up the souls he refined to shield against the Soul Formation cultivators' senses.",
+  "events": [
+    "Wang Lin trails the Six Desire Devil Lord up the Forbidden Mountain",
+    "Breaking restrictions by force is too dangerous at Core Formation, so he studies them",
+    "After seven years he learns to break restrictions with divine sense",
+    "Duanmu Ji arrives and breaks restrictions by force",
+    "Duanmu Ji finds a tampered thunder restriction and blames the Six Desire Devil Lord",
+    "Wang Lin hides in a fog that blocks divine sense, using Xu Liguo's refined souls as cover"
+  ],
+  "introduced": [
+    "Divine Sense Circle (breaking restrictions with divine sense)"
+  ],
+  "cultivation": "Wang Lin is still at Core Formation. Seven years after reaching the mountain he masters breaking restrictions with divine sense.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "Core Formation",
+      "quote": "Even the strongest you are still in the stage of dan formation.",
+      "first": false
+    },
+    {
+      "id": "xu-liqing",
+      "name": "Xu Liqing",
+      "first": false,
+      "shownAs": "Six Desire Devil Lord"
+    },
+    {
+      "id": "duanmu-ji",
+      "name": "Duanmu Ji",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles checked against the AnimeKhor Indonesian fansubs; no Chinese track.",
+    "'Changing God / Transformation Immortal' = Soul Formation; 'Duanmu Lao Ghost' = Duanmu Ji."
+  ],
+  "flags": [
+    "The subtitles call the Six Desire Devil Lord 'she' (12:52), while the wiki has Xu Liqing as male; the summary avoids pronouns.",
+    "09:14 'Circle of God's Knowledge' (Indonesian 'Lingkaran Kesadaran Ilahi') is a rough name for what Wang Lin learns."
+  ]
+}

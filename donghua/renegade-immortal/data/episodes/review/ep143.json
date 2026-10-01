@@ -1,0 +1,59 @@
+{
+  "ep": 143,
+  "title": "Thunder Envoy",
+  "summary": "Lei Daozi survives and flees Planet Ran Yun, but his own lightning beast turns on him, and Wang Lin catches him with his origin power spent. Lei Daozi agrees to a 'slave seal', but Wang Lin draws out his soul and forges his Illusory Yin body into a second Immortal Guard, offering freedom after thirty years. The soul is destroyed in the forging, so the new guard reaches peak silver tier but cannot use divine arts. From Lei Daozi's belongings Wang Lin gains the Thunder Origin Art, which turns lightning into origin power and could halve his time to the Second Step, a real Thunder Celestial Temple token and a fortune in immortal jade that lifts his avatar to late Ascendant. Using the envoy title, he makes the Huan clan hand over its Celestial Ascension Fruits, turns down Qian Kuizi's oath of loyalty, and gathers more fruit across the Northern Domain over half a year. Near Planet Yun Xia, Tan Lang, trapped somewhere for seventy years, fails his eighth escape attempt and curses Wang Lin for bringing him to Allheaven.",
+  "events": [
+    "Lei Daozi flees and is caught when his lightning beast turns on him",
+    "Wang Lin draws out Lei Daozi's soul and forges his body into a second Immortal Guard",
+    "The soul is destroyed; the guard is peak silver tier but cannot use divine arts",
+    "Wang Lin learns the Thunder Origin Art and uses the immortal jade to reach late Ascendant",
+    "Posing as a Thunder envoy, he takes the Huan clan's Celestial Ascension Fruits",
+    "He declines Qian Kuizi's offer to pledge the Qian clan",
+    "Tan Lang, trapped for seventy years, curses Wang Lin"
+  ],
+  "introduced": [
+    "Thunder Origin Art",
+    "Second Immortal Guard",
+    "Cauldron Forging Heaven and Earth",
+    "Thunder Celestial Temple token"
+  ],
+  "cultivation": "Wang Lin's avatar reaches late Ascendant. The second Immortal Guard (Lei Daozi's body): peak silver tier. Qian Kuizi notes Wang Lin has cultivated less than a century.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "late Ascendant (avatar)",
+      "quote": "Wang Lin's avatar - Late stage Ascendant",
+      "first": false
+    },
+    {
+      "id": "lei-daozi",
+      "name": "Lei Daozi",
+      "first": false
+    },
+    {
+      "id": "huan-fengshen",
+      "name": "Huan Fengshen",
+      "first": false
+    },
+    {
+      "id": "qian-kuizi",
+      "name": "Qian Kuizi",
+      "first": false
+    },
+    {
+      "id": "tan-lang",
+      "name": "Tan Lang",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles and the Chinese track; there is no AnimeKhor file for EP143. Official subs here call the Heaven Defying Bead 'Tianni Zhu' and the Thunder Celestial Temple 'Thunder Immortal Palace'."
+  ],
+  "flags": [
+    "Qian Kuizi's line 'cultivation is less than a century' (17:08) conflicts with Wang Lin's centuries of life; it may refer to time since an apparent breakthrough.",
+    "The trapped man at the end is not named; his voice, his cauldron and EP144 show it is Tan Lang, stuck inside the Moonwatcher.",
+    "Ends with a mobile game advert (20:54); not counted."
+  ]
+}

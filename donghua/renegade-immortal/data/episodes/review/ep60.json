@@ -1,0 +1,88 @@
+{
+  "ep": 60,
+  "title": "The Fall of the Four Factions",
+  "summary": "A flashback shows Hongdie's master Chong Ying divining her death calamity and spending the rest of his life on a hexagram that sends his first disciple Qing He to die protecting her in the war. Back on the battlefield, Ou Zhi, the Vermilion Bird Country's early Soul Transformation guardian, strips the Country-Protecting Sky Dragon of its bloodline, and the Four Faction Alliance collapses. Wang Lin survives because the Heaven Defying Bead has absorbed the earth spirit, and the fleeing Zhou Wutai hands him the Rain Cauldron with healing pills. The Snow Region elder Lian Ning chases him down, and Wang Lin kills the elder with a heavenly tribulation called through his restriction flag, then turns down Ou Zhi's request that he summon another. Five years later the bead's earth element is complete, its time reversal has ended since Wang Lin grasped his Life and Death intent, and he travels through the new Snow Region country, finding death intent where mortals should be living.",
+  "events": [
+    "Flashback: Chong Ying divines Hongdie's calamity and sends Qing He to shield her",
+    "Ou Zhi strips the Country-Protecting Sky Dragon's bloodline; the Alliance falls",
+    "Wang Lin survives thanks to the earth spirit in the Heaven Defying Bead",
+    "Zhou Wutai gives Wang Lin the Rain Cauldron",
+    "Lian Ning hunts Wang Lin; he kills Lian Ning with a heavenly tribulation",
+    "Ou Zhi asks him to call another tribulation; he declines",
+    "Five years later the bead's earth element is complete and the time difference inside it ends"
+  ],
+  "introduced": [
+    "Chong Ying",
+    "Qing He",
+    "Ou Zhi",
+    "Lian Ning",
+    "New Snow Region",
+    "Life and Death intent",
+    "death intent"
+  ],
+  "cultivation": "Chong Ying and Qing He: late Soul Formation. Ou Zhi: early Soul Transformation. Lian Ning: early Soul Formation. Wang Lin needs four more years to reach Soul Formation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "chong-ying",
+      "name": "Chong Ying",
+      "realm": "late Soul Formation",
+      "quote": "[Chong Ying, Wilayah Salju, Transformasi Dewa Tahap Akhir]",
+      "first": true,
+      "card": 257.5
+    },
+    {
+      "id": "qing-he",
+      "name": "Qing He",
+      "realm": "late Soul Formation",
+      "quote": "[Qinghe, Wilayah Salju, Transformasi Dewa Tahap Akhir]",
+      "first": true,
+      "card": 265.9
+    },
+    {
+      "id": "ou-zhi",
+      "name": "Ou Zhi",
+      "realm": "early Soul Transformation",
+      "quote": "[Ou Zhi, Pelindung Kerajaan Vermillion, Transformasi Jiwa Tahap Awal]",
+      "first": true,
+      "card": 465.0
+    },
+    {
+      "id": "lian-ning",
+      "name": "Lian Ning",
+      "realm": "early Soul Formation",
+      "quote": "[Lian Ning, Tetua Wilayah Salju, Transformasi Dewa Tahap Awal]",
+      "first": true,
+      "card": 755.2
+    },
+    {
+      "id": "hongdie",
+      "name": "Hongdie",
+      "first": false
+    },
+    {
+      "id": "zhou-wutai",
+      "name": "Zhou Wutai",
+      "first": false
+    },
+    {
+      "id": "zhou-yun",
+      "name": "Zhou Yun",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Read both the official English and the Indonesian fansub."
+  ],
+  "flags": [
+    "Indonesian 'Transformasi Jiwa' (Ou Zhi) read as Soul Transformation (婴变), matching the official 'Infant Transformation'.",
+    "Glossary has two entries for Qing He (59, and a different 'Qinghe' at 118); this is the Snow Region one.",
+    "Whether Zhou Yun dies at ~10:15 is not stated outright.",
+    "13:53 'this late Nascent Soul puppet' is said by Lian Ning about something of Wang Lin's; unclear."
+  ]
+}

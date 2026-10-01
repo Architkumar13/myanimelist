@@ -1,0 +1,71 @@
+{
+  "ep": 57,
+  "title": "The Rain Cauldron",
+  "summary": "Zhou Wutai, the late Nascent Soul Baiyun elder who dotes on his disciple Yi Fu, walks with him to find the 'mortal' who hurt him, while Xu Tao explains that Nan's heir hid a relic called the Rain Cauldron, and Zhou Wutai ordered his death for it. Wang Lin saves Xu Tao and declares the karma of his sixteen years of service settled. Over shared wine Zhou Wutai proposes a race to Soul Formation, and Wang Lin warns that Yi Fu will die within a hundred years, having seen that Zhou Wutai's Intent Realm is to raise the disciple with love and then kill him to reach Soul Formation through grief. Zhou Wutai leaves, demanding only the Rain Cauldron within three days. Five years later Daniu's father dies; Wang Lin gives his soul a flower for a good rebirth, is nearly lost following the cycle of reincarnation, and is pulled back by Tian Yunzi, who invites him to Planet Tianyun. Wang Lin reaches the peak of late Nascent Soul, an immortal takes Zeng Xiaoniu as a disciple, and the first snow falls carrying killing intent.",
+  "events": [
+    "Xu Tao explains the Rain Cauldron and the heir's death sentence",
+    "Wang Lin saves Xu Tao and ends their karma",
+    "Zhou Wutai proposes a race to Soul Formation; Wang Lin predicts Yi Fu's death",
+    "Zhou Wutai demands the Rain Cauldron within three days and leaves",
+    "Daniu's father dies; Wang Lin sends his soul toward a good rebirth",
+    "Tian Yunzi pulls Wang Lin out of the cycle of reincarnation and invites him to Planet Tianyun",
+    "Wang Lin reaches peak late Nascent Soul; Zeng Xiaoniu leaves to cultivate; snow with killing intent falls"
+  ],
+  "introduced": [
+    "Rain Cauldron",
+    "All-Seer (Tian Yunzi)",
+    "Planet Tianyun"
+  ],
+  "cultivation": "Wang Lin's clone reaches peak late Nascent Soul.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false,
+      "realm": "peak late Nascent Soul",
+      "quote": "[Klon tubuh Wang Lin menjadi manusia biasa, Tahap Puncak Akhir dari Jiwa Baru Lahir]",
+      "card": 1063.3
+    },
+    {
+      "id": "zhou-wutai",
+      "name": "Zhou Wutai",
+      "first": false
+    },
+    {
+      "id": "yi-fu",
+      "name": "Yi Fu",
+      "first": false
+    },
+    {
+      "id": "xu-tao",
+      "name": "Xu Tao",
+      "first": false
+    },
+    {
+      "id": "all-seer",
+      "name": "All-Seer",
+      "quote": "[Tian Yunzi | All-Seer]",
+      "first": true,
+      "card": 953.7
+    },
+    {
+      "id": "zeng-daniu",
+      "name": "Zeng Daniu",
+      "first": false
+    },
+    {
+      "id": "zeng-xiaoniu",
+      "name": "Zeng Xiaoniu",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Read both the official English and the Indonesian fansub."
+  ],
+  "flags": [
+    "Tian Yunzi (天运子) is the glossary's All-Seer, whose wiki donghua debut is EP104; here he appears and gives his name.",
+    "The official English line 'you will surely reach the Nascent Soul stage' (9:26) is a slip for Soul Formation.",
+    "The immortal who takes Zeng Xiaoniu as a disciple (19:36) is not named."
+  ]
+}

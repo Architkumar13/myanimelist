@@ -1,0 +1,66 @@
+{
+  "ep": 73,
+  "title": "Return to Chu",
+  "summary": "Back on Planet Suzaku, Wang Lin questions returning cultivators and finds out that the Suzaku Country has issued no wanted notice for Zeng Niu, and decides it is time to go home to Li Muwan. In the Country of Chu, Zhan Bai of an insect sect, one of the six Suzaku cultivators who entered the Rain Celestial Realm, is devouring sects; he kills the Qingtian Sect master Maiwu Yi and blames Zeng Niu for his own humiliation there. At the Cloud Sky Sect, Li Muwan, who has failed to form a Nascent Soul three times and lives on pills, remembers Wang Lin leaving her a refined demon, Xiao Ling, to guard her. Wang Lin buys grade-five pill recipes across the Sea of Devils, paying with special-grade spirit stones and killing a shop that tried to rob him. Zhan Bai breaks the Cloud Sky Sect's great formation, Li Muwan steps out to face him, and Wang Lin arrives to say she is his woman.",
+  "events": [
+    "Wang Lin hears that Zeng Niu is the talk of Planet Suzaku but no wanted notice is out",
+    "Zhan Bai devours sects across Chu and kills the Qingtian Sect master Maiwu Yi",
+    "Li Muwan, sect master of the Cloud Sky Sect, is failing in health",
+    "Flashback: Wang Lin gives Li Muwan the demon Xiao Ling as a guardian",
+    "Wang Lin buys grade-five pill recipes in the Sea of Devils",
+    "Zhan Bai breaks the Cloud Sky Sect's formation and attacks Li Muwan",
+    "Wang Lin arrives: 'she is my woman'"
+  ],
+  "introduced": [
+    "Zhan Bai",
+    "Maiwu Yi",
+    "Qingtian Sect",
+    "Xiao Ling (refined demon)",
+    "Alchemy Pavilion of Moni City",
+    "grade-five pill recipes"
+  ],
+  "cultivation": "Maiwu Yi is mid Nascent Soul. Zhan Bai is early Soul Formation. Li Muwan has failed three times in a hundred years to form a Nascent Soul.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "zhan-bai",
+      "name": "Zhan Bai",
+      "realm": "early Soul Formation",
+      "quote": "meskipun orang ini hanya berada pada Tahap Awal Transformasi Dewa",
+      "first": false
+    },
+    {
+      "id": "maiwu-yi",
+      "name": "Maiwu Yi",
+      "realm": "mid Nascent Soul",
+      "quote": "Mai Wuyi, Master Sekte Qingtian, Jiwa Baru Lahir Tingkat Menengah",
+      "first": true,
+      "card": 308.4
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "xiao-ling",
+      "name": "Xiao Ling",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Indonesian fansubs read in full; key lines spot-checked against the official English (YouTube), which arrived late.",
+    "'Sekte Yuntian' = Cloud Sky Sect (云天宗); 'Laut Kultivasi Iblis' = Sea of Devils.",
+    "Name card and official English both say 'Zhan Bai' (Demon Path disciple, also carded in EP64, early Soul Formation); Indonesian dialogue writes 'Zhang Bai'. Used Zhan Bai."
+  ],
+  "flags": [
+    "203-207: the travellers Wang Lin questions blame a broken return cauldron for sending them to the wrong planet; whether Wang Lin was with them is unclear.",
+    "329: card 'Utusan Master Klan Iblis Raksasa, Transformasi Dewa' is attached to the Zhan Bai scene; affiliation unclear.",
+    "Who Zhan Bai's insect sect is ('Sekte Setan Serangga') is not given a canonical name."
+  ]
+}

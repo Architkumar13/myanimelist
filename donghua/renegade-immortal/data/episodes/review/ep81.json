@@ -1,0 +1,110 @@
+{
+  "ep": 81,
+  "title": "The Duel with Hongdie",
+  "summary": "Wang Lin, living under the name Zeng Niu, arrives on the Suzaku Plain of Planet Suzaku, where Bai Xue of the Immortal's Path Sect explains the four cultivation countries and the three great sects of Suzaku Country, all under the 14th-generation Suzaku, Zhu Quezi. Sect master Li Yunlong slips into his residence unseen, and Wang Lin starts to feel the plain is less a home than a prison. Seven days later Zhu Quezi, his disciples Qian Feng and Liu Mei, and the Ascendant elders watch Wang Lin fight Hongdie at the Barren Mountain arena. Hongdie strikes with the Ice God sword and a Soul Lasher whip stolen from the Heavenly Jade Sect, and Wang Lin answers with heavenly lightning and the God Slaying War Chariot. Hongdie then uses Soul Separation and her Emotionless Intent Realm to show him visions of his parents, Li Muwan and Zhou Ru, and cuts them down with her Sword of Wisdom. Wang Lin realises that emotions cannot simply be cut away and that even someone who has cut off every feeling cannot escape the cycle of life and death.",
+  "events": [
+    "Bai Xue meets Wang Lin (as Zeng Niu) and guides him across the Suzaku Plain to the Immortal's Path Sect",
+    "Bai Xue explains the four countries of the Suzaku Plain and the Heavenly Jade, Earth Soul and Immortal's Path sects under Zhu Quezi",
+    "Sect master Li Yunlong enters Wang Lin's room unnoticed; Wang Lin maps the area in case he has to flee",
+    "Zhu Quezi arrives at the Barren Mountain arena with Qian Feng and Liu Mei; Chu Yunfei starts the duel",
+    "Hongdie uses the Ice God and the Soul Lasher, a Heavenly Jade Sect treasure given to her by Feng Yushan; Wang Lin calls heavenly lightning and the God Slaying War Chariot",
+    "Hongdie uses Soul Separation and the Emotionless Intent Realm to show Wang Lin his loved ones dying",
+    "Wang Lin sees through the illusion: the Sword of Wisdom cannot cut the cycle of reincarnation"
+  ],
+  "introduced": [
+    "Bai Xue",
+    "Li Yunlong",
+    "Zhu Quezi",
+    "Qian Feng",
+    "Chu Yunfei",
+    "Suzaku Plain",
+    "Immortal's Path Sect",
+    "Heavenly Jade Sect",
+    "Earth Soul Sect",
+    "Barren Mountain duel arena",
+    "Soul Lasher",
+    "Emotionless Intent Realm",
+    "Sword of Wisdom"
+  ],
+  "cultivation": "Bai Xue: late Soul Formation. Li Yunlong (Immortal's Path Sect master) and Chu Yunfei (Heavenly Jade Sect ancestor): early Ascendant. Zhu Quezi, 14th Suzaku: Ascendant great perfection, the only one on Planet Suzaku. Liu Mei and Qian Feng: mid Soul Transformation. Hongdie is at Soul Formation great perfection and cannot yet reach Soul Transformation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "bai-xue",
+      "name": "Bai Xue",
+      "realm": "late Soul Formation",
+      "quote": "[Bai Xue, Murid Sekte Jalan Abadi, Tahap Akhir Transformasi Dewa]",
+      "first": true,
+      "card": 205.8
+    },
+    {
+      "id": "li-yunlong",
+      "name": "Li Yunlong",
+      "realm": "early Ascendant",
+      "quote": "[Li Yunlong, Master Sekte dari Sekte Jalan Abadi, Ascendant Tahap Awal]",
+      "first": true,
+      "card": 456.0
+    },
+    {
+      "id": "zhu-quezi",
+      "name": "Zhu Quezi",
+      "realm": "Ascendant great perfection",
+      "quote": "[Zhuque Zi, Zhuque generasi ke-14, Ascendant Tahap Siklus Besar]",
+      "look": "white-haired old man, said to look very like Yun Quezi",
+      "first": true,
+      "card": 548.9
+    },
+    {
+      "id": "liu-mei",
+      "name": "Liu Mei",
+      "realm": "mid Soul Transformation",
+      "quote": "[Liu Mei, Transformasi Jiwa Tingkat Menengah, Murid Kedua Zhuque]",
+      "first": false,
+      "card": 580.96
+    },
+    {
+      "id": "qian-feng",
+      "name": "Qian Feng",
+      "realm": "mid Soul Transformation",
+      "quote": "[Qian Feng, Transformasi Jiwa Tingkat Menengah, Murid Pertama Zhuque]",
+      "first": true,
+      "card": 580.96
+    },
+    {
+      "id": "chu-yunfei",
+      "name": "Chu Yunfei",
+      "realm": "early Ascendant",
+      "quote": "[Chu Yunfei, Leluhur Sekte Giok Surgawi, Ascendant Tahap Awal]",
+      "first": true,
+      "card": 584.0
+    },
+    {
+      "id": "hongdie",
+      "name": "Hongdie",
+      "realm": "Soul Formation great perfection",
+      "quote": "Jadi ini... tujuan sebenarnya dari Transformasi Dewa Tahap Siklus Besar!",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Realms: Indonesian 'Transformasi Dewa' = Soul Formation (化神), 'Transformasi Jiwa' = Soul Transformation (婴变), 'Siklus Besar' = great perfection.",
+    "Kunji whip ('Cambuk Kunji') written as Soul Lasher, the fan-wiki name for this whip (wiki: Episode 81).",
+    "Only the AnimeKhor Indonesian fansub (ep81.id.srt) was available; no official YouTube en/zh track for this episode yet."
+  ],
+  "flags": [
+    "The Indonesian track calls the country both 'Negara Merah Muda' (Pink Country, 189s) and Vermilion; written as Suzaku Country.",
+    "Third sect 'Sekte Jiwa Bumi' (308s) is translated as Earth Soul Sect; no 汉字 to confirm.",
+    "The four countries are listed as Vermilion, Green Dragon, Thousand Fantasy and 'Pilu' (273-276s); 'Pilu' is left untranslated.",
+    "At 923s Hongdie calls out 'Xu Liguo!' during the fight; it is unclear what she means by it."
+  ]
+}

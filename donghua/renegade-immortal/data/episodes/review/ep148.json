@@ -1,0 +1,82 @@
+{
+  "ep": 148,
+  "title": "Devouring Thunder",
+  "summary": "On Sheng Tan Planet, Zhang Zhen mocks Wang Lin as a fake envoy and attacks with his family's soul-burning flame, which cannot harm Wang Lin's Illusory Yin puppet; when Wang Lin's thunder arts and the mountain stone push him hard, he hands over a Thunder Cauldron. Zhang Zhen then trades his family's Third Eye divine art for the Celestial Slaughter Art, and each side quietly slips flaws into the copy they give. When the realm opens, immortal thunder comes down to fetch the cauldron's holder; Wang Lin and the Ancient Thunder Dragon swallow as much of it as they can, while the Zhang family on Qing Ling Star worship the light as an immortal. At the gate of the Thunder Celestial Realm, Tang Yanfeng of the Tang family mocks Shengong Hu for losing his standing, just before Wang Lin forces his way through the closed gate. Inside, on the Fragment Continent, Wang Lin heals, while Nirvana Shatterer Yan Leizi on the Black Mountain notices him and plots a grand formation to crush the Alliance and Master Zhong Xuan. Shengong Hu tells Wang Lin about the realm's immortal corpses and origin energy, and when Wang Lin finds a piece of rare origin energy, Xu Fenghan of the Xu family demands he hand it over.",
+  "events": [
+    "Zhang Zhen fights Wang Lin and then hands over a Thunder Cauldron",
+    "Wang Lin trades the Celestial Slaughter Art for the Zhang family's Third Eye divine art",
+    "Wang Lin swallows the immortal thunder sent to fetch the cauldron's holder",
+    "Tang Yanfeng mocks Shengong Hu at the entrance to the Thunder Celestial Realm",
+    "Wang Lin forces his way through the sealed immortal gate",
+    "Yan Leizi senses him and plans to crush the Alliance and Master Zhong Xuan",
+    "Xu Fenghan orders Wang Lin to give up the origin energy he has found"
+  ],
+  "introduced": [
+    "Third Eye divine art",
+    "Celestial Slaughter Art (traded)",
+    "Ancient Thunder Dragon",
+    "Tang Yanfeng",
+    "Tang family",
+    "Fragment Continent",
+    "Black Mountain",
+    "Yan Leizi",
+    "Master Zhong Xuan (named)",
+    "Xu Fenghan",
+    "Xu family",
+    "immortal thunder",
+    "origin energy"
+  ],
+  "cultivation": "Zhang Zhen has just reached Illusory Yin. Tang Yanfeng: Corporeal Yang. Yan Leizi: Nirvana Shatterer. Xu Fenghan: Illusory Yin. Wang Lin passes as Ascendant.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "zhang-zhen",
+      "name": "Zhang Zhen",
+      "realm": "Illusory Yin (just reached)",
+      "quote": "But I just reached Yin Illusion.",
+      "first": false
+    },
+    {
+      "id": "shengong-hu",
+      "name": "Shengong Hu",
+      "first": false
+    },
+    {
+      "id": "tang-yanfeng",
+      "name": "Tang Yanfeng",
+      "realm": "Corporeal Yang",
+      "quote": "（唐言枫 唐家 阳实）",
+      "first": true,
+      "card": 815
+    },
+    {
+      "id": "yan-lei-zi",
+      "name": "Yan Leizi",
+      "realm": "Nirvana Shatterer",
+      "quote": "（炎雷子 碎涅）",
+      "first": true,
+      "card": 1008
+    },
+    {
+      "id": "xu-fenghan",
+      "name": "Xu Fenghan",
+      "realm": "Illusory Yin",
+      "quote": "（许封寒 许家 阴虚）",
+      "first": true,
+      "card": 1203
+    }
+  ],
+  "changes": [
+    "No AnimeKhor subtitles for this episode; written from official English and Chinese. Card times are YouTube times.",
+    "'Slayer Art' = Celestial Slaughter Art (杀戮仙诀); 'Chong Xuanzi' = Master Zhong Xuan (重玄子); 'Lightning Cauldron' = Thunder Cauldron (雷鼎)."
+  ],
+  "flags": [
+    "539 (YT): a bracketed caption reads only 'Sun' (孙); unclear what it labels.",
+    "The Zhang family flame (蚀骨玄幽焰) is called 'Bone-Eating Flame' in the official English."
+  ]
+}

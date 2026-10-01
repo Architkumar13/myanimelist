@@ -1,0 +1,73 @@
+{
+  "ep": 15,
+  "title": "Fire Beasts",
+  "summary": "The Nascent Soul elder is Zhou Zihong's master, and after hearing Wang Lin's terms she lets him return the soul blood on his own word. At the Luohe Sect's alchemy hall a thief tries to steal the Tianli Pill, and Senior Sister Li Muwan foils him. Her brother Li Qiqing mistakes Wang Lin for the thief and attacks him, then apologises. The real thief, Sun Youcai of the Evil Demon Sect, latches onto Wang Lin and leads him to a remote valley to kill him with his senior brother, a fake-core cultivator. Wang Lin kills the senior brother with a single word, his devil swallows the soul, and Sun Youcai flees with the Earth Escape Technique, sure he has met a Soul Formation master. Chasing him, Wang Lin falls into a volcano and finds the lair of fire beasts that capture cultivators, where the Heaven Defying Bead reacts to a fireball that may be the fire beast king.",
+  "events": [
+    "Zhou Zihong's master lets Wang Lin keep and later return the soul blood",
+    "A thief raids the Luohe Sect alchemy hall; Li Muwan stops him",
+    "Li Qiqing attacks Wang Lin by mistake and apologises",
+    "Sun Youcai of the Evil Demon Sect follows Wang Lin and lures him to a valley",
+    "Wang Lin defeats Sun Youcai's fake-core senior brother; Sun Youcai escapes underground",
+    "Wang Lin falls into a volcano and finds the fire beasts' lair",
+    "The bead reacts to a fireball, possibly the fire beast king"
+  ],
+  "introduced": [
+    "Tianli Pill",
+    "Li Qiqing (named)",
+    "Li Muwan (named)",
+    "Sun Youcai",
+    "Evil Demon Sect",
+    "fake core",
+    "Earth Escape Technique",
+    "Xigufang City",
+    "fire beasts",
+    "Fire Spirit Beast King"
+  ],
+  "cultivation": "Sun Youcai is at late Foundation Establishment; his senior brother is a fake core. Wang Lin is at mid Foundation Establishment.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "mid Foundation Establishment",
+      "quote": "The kid in front of me is just a mid-stage foundation builder",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "li-qiqing",
+      "name": "Li Qiqing",
+      "quote": "Li Qiqing at Xialuohe Gate",
+      "first": false
+    },
+    {
+      "id": "sun-youcai",
+      "name": "Sun Youcai",
+      "realm": "late Foundation Establishment",
+      "quote": "My cultivation level in the late stage of foundation building",
+      "first": true
+    },
+    {
+      "id": "zhou-zihong",
+      "name": "Zhou Zihong",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "'Luohemen / Xialuohe Gate' = Luohe Sect (glossary Lou He Sect). 'Mu Wan / Wan'er' = Li Muwan."
+  ],
+  "flags": [
+    "Zhou Zihong's master is unnamed here; EP16 shows her as Feng Luan.",
+    "Li Muwan is mentioned by name; whether she is clearly on screen this episode is uncertain.",
+    "Sun Youcai calls Wang Lin a Soul Formation master (12:53, 'transformation stage'); this is his mistake, not Wang Lin's realm."
+  ]
+}

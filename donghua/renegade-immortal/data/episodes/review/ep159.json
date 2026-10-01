@@ -1,0 +1,77 @@
+{
+  "ep": 159,
+  "title": "The Chosen Immortal Clan",
+  "summary": "The survivors land on a coast in the Allheaven Star System, and storytellers spread the tale of how Xu Mu killed three Thunder Celestial Temple envoys and broke their formation to save countless lives, though everyone was scattered at random and his whereabouts are unknown. In the Zhan family's hall, clan head Zhan Lie Yunzi decides the family should neither get too close to Xu Mu nor make him an enemy. Wang Lin has landed in an unknown region of Western Allheaven, a land sealed in living fog that blocks even divine sense, and after three days he reaches Reed Marsh, home of the Chosen Immortal Clan, whose people speak their own Chosen Immortal tongue. Seeing the Wither Dao Pair, the clan head takes him for a messenger of Celestial King Xiaoyao Zi, who ordered the clan to guard the Xuanyin Tripod for thirty thousand years, and Wang Lin realises they do not know the Celestial Realm has fallen. The altar guardian Ta Shan, who calls the clan head grandfather and resents the immortals, attacks him with the Thirteen Leaves warrior curse and the Scattered Devil armor, and Wang Lin beats him without killing him. When fog beasts break the clan's formation, Wang Lin uses his Yellow Springs Dao and the Wither Dao Pair to kill even the human-shaped ones that copy their attackers' arts, and asks to be taken to the tripod.",
+  "events": [
+    "Survivors spread the story of Xu Mu killing three envoys",
+    "Zhan Lie Yunzi decides the Zhan family should keep a careful distance from Xu Mu",
+    "Wang Lin is trapped in a fog-sealed land in Western Allheaven",
+    "He reaches Reed Marsh, home of the Chosen Immortal Clan",
+    "The clan head takes him for Xiaoyao Zi's messenger, guardian of the Xuanyin Tripod",
+    "Ta Shan attacks him with the Thirteen Leaves curse and Scattered Devil armor and is beaten",
+    "Fog beasts break the clan's formation and Wang Lin destroys them"
+  ],
+  "introduced": [
+    "Zhan Lie Yunzi",
+    "Western Allheaven",
+    "Reed Marsh",
+    "Chosen Immortal Clan",
+    "A Qing",
+    "Zu Zhang (clan head)",
+    "Ta Shan",
+    "Xuanyin Tripod (named)",
+    "fog beasts",
+    "Celestial Slaying Formation",
+    "Scattered Devil armor",
+    "Chosen Immortal tongue"
+  ],
+  "cultivation": "Ta Shan: Thirteen Leaves warrior curse, at Corporeal Yang.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "zhan-lie-yunzi",
+      "name": "Zhan Lie Yunzi",
+      "realm": "Head of the Zhan family",
+      "quote": "[Lie Yunzi, Kepala Klan Zhan]",
+      "first": true,
+      "card": 126.0
+    },
+    {
+      "id": "a-qing",
+      "name": "A Qing",
+      "quote": "[A-Qing, Klan Abadi Terpilih]",
+      "first": true,
+      "card": 244.5
+    },
+    {
+      "id": "zu-zhang",
+      "name": "Zu Zhang (clan head)",
+      "quote": "[Kepala Suku, Klan Abadi Terpilih]",
+      "first": true,
+      "card": 281.38
+    },
+    {
+      "id": "ta-shan",
+      "name": "Ta Shan",
+      "realm": "Thirteen Leaves, Corporeal Yang",
+      "quote": "Tiga Belas Daun, Corporeal Yang Stage cultivation.",
+      "first": true,
+      "card": 506.5
+    }
+  ],
+  "changes": [
+    "Only the Indonesian AnimeKhor track was available (no official English or Chinese yet).",
+    "EP159 is members-only on YouTube, so there may never be official English; written from the Indonesian.",
+    "'Lie Yunzi' card = glossary Zhan Lie Yunzi (战烈云子); 'Tashan' = Ta Shan; the clan head is Zu Zhang in the glossary."
+  ],
+  "flags": [
+    "The clan head's card only says 'Kepala Suku' (clan head); named Zu Zhang from the glossary.",
+    "Wang Lin first reads the clan's mark as the Forsaken Immortal Clan and notes the one-word difference from the Chosen Immortal Clan; the link is not explained.",
+    "554-569: Wang Lin compares Ta Shan to the warrior-curse cultivators of the Vermilion Bird planet."
+  ]
+}

@@ -24,6 +24,17 @@ window.SHOWS = [
     },
   },
   {
+    id: "ri", dir: "renegade-immortal",
+    title: "Renegade Immortal", zh: "仙逆", mark: "仙逆", glyph: "逆",
+    blurb: "Wang Lin, a village boy with poor talent, a strange bead in his pocket, and a path to immortality that goes against heaven.",
+    hero: "img/hero/wang-lin.jpg",
+    theme: {
+      "--patina": "#1d1a2b", "--patina-deep": "#15131f", "--patina-lift": "#28243a", "--verdigris": "#7da3d4",
+      "--bone": "#ece7f2", "--bone-dim": "#b1aac2", "--bronze": "#e39457", "--bronze-bright": "#f5bb86",
+      "--cinnabar": "#b3313f", "--cinnabar-ink": "#f8eef0", "--star": "#b9cdf0",
+    },
+  },
+  {
     id: "btth", dir: "battle-through-the-heavens",
     title: "Battle Through the Heavens", zh: "斗破苍穹", mark: "斗破", glyph: "斗",
     blurb: "Xiao Yan, a fallen genius of Wu Tan City, the old soul hiding in his mother's ring, and a hunt for the Heavenly Flames.",

@@ -1,0 +1,73 @@
+{
+  "ep": 110,
+  "title": "The Valley of Mortals",
+  "summary": "Inside the Demon Spirit Land, Wang Lin finds the immortal energy so thin it feels like the mortal world, so he catches a local youth, Shi San, to learn where he is. Shi San leads him to a valley hidden by an ancient formation, and when its chief Ouyang Hua attacks, Wang Lin works out the formation and breaks it, only to find a village of mortals. He gives them healing pills, and they ask him to stay through the Night of the Haunting, when the land's spirits come out each full moon, explaining that an Immortal named Huang Long once settled their ancestors and set up the formation. In return for more pills, Ouyang Hua gives him what he was after, a spirit crystal of this world's own spirit power. That night Luo Yun of the Heavenly Ghost Path attacks for the crystal, and Wang Lin kills him with the Annihilation Finger and his forbidden arts, feeding the ghost's flame to his Kunji Whip. From Luo Yun's memories he learns that the land has nine regions under demon emperors, each sealing a Primordial Mystic Spirit, and that outsiders work their way up as soldiers through battle merit. Instead of joining an army right away, Wang Lin decides to build his own strength by teaching the villagers the Soul Flag technique.",
+  "events": [
+    "Wang Lin catches Shi San to learn about the Demon Spirit Land",
+    "He breaks the ancient formation guarding Ouyang Hua's valley and finds only mortals",
+    "The villagers tell him about the Night of the Haunting and the Immortal Huang Long",
+    "Ouyang Hua trades him a spirit crystal for healing pills",
+    "Luo Yun of the Heavenly Ghost Path attacks; Wang Lin kills him and feeds his ghost flame to the Kunji Whip",
+    "Luo Yun's memories explain the nine regions, the demon emperors and the Primordial Mystic Spirits",
+    "Wang Lin decides to teach the villagers the Soul Flag technique and build his own power"
+  ],
+  "introduced": [
+    "Shi San",
+    "Ouyang Hua",
+    "Night of the Haunting",
+    "Huang Long (the Immortal of the valley)",
+    "Spirit crystal",
+    "Luo Yun",
+    "Heavenly Ghost Path",
+    "Ghost Immortal (Luo Yun's master, mentioned)",
+    "Primordial Mystic Spirit",
+    "Nine regions and demon emperors",
+    "Divine Genesis (rumoured realm)",
+    "Celestial Demon Region",
+    "Primordial Mystic City"
+  ],
+  "cultivation": "Luo Yun: peak of late stage on the Heavenly Ghost Path. Wang Lin: mid Soul Transformation. The villagers have no immortal power. Merging with a Primordial Mystic Spirit is said to give a small chance at a realm called Divine Genesis.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "mid Soul Transformation",
+      "quote": "you're only at mid-stage transformation (818s)",
+      "first": false
+    },
+    {
+      "id": "shi-san",
+      "name": "Shi San",
+      "quote": "(Thirteen, Soulforge Tribe)",
+      "first": true,
+      "card": 224.0
+    },
+    {
+      "id": "ouyang-hua",
+      "name": "Ouyang Hua",
+      "quote": "(Ouyang Hua, Soulforge Chief)",
+      "first": true,
+      "card": 299.0
+    },
+    {
+      "id": "luo-yun",
+      "name": "Luo Yun",
+      "realm": "late-stage peak (Heavenly Ghost Path)",
+      "quote": "(Luo Yun, Heavenly Ghost Path, late-stage peak)",
+      "first": true,
+      "card": 757.0
+    }
+  ],
+  "changes": [
+    "No AnimeKhor file for this episode: written from the official YouTube English and Chinese tracks (the Chinese reads like a translation of the English, so it is not an independent check). Times are from the YouTube copy.",
+    "Naming follows the earlier reviews and glossary: Planet Suzaku, Suzaku Tomb, Zhu Quezi, Yun Quezi, Hongdie, Forsaken Immortal Clan, Cultivation Planet Crystal (subs: Star Cultivation/Star Refining Crystal).",
+    "Tribe name follows the glossary's Soul Refining Tribe (炼魂部落); the official English says Soulforge.",
+    "The naming of the tribe at 1118-1131s is the preview for EP111 and is left out."
+  ],
+  "flags": [
+    "Luo Yun's 'late-stage peak' gives no realm name.",
+    "The Huang Long in the painting is not the Foundation Establishment Huang Long Wang Lin knows (543s).",
+    "Primordial Mystic City (1067s) may be the same as the Ancient Demon City of EP111-112."
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "ep": 104,
+  "title": "Three Trials of the Heavenly Fate Sect",
+  "summary": "Wang Lin arrives on Planet Tian Yun in the Kunxu domain, hides his Ancient God body, and finds that the All-Seer, Tian Yunzi of the Heavenly Fate Sect, has been expecting him. Purple Branch disciples Zhao Xingsha and Zhou Wan scorn him as a native of a backwater planet, and Tian Yunzi's three entry trials are set. In the Human Trial he lives through his parents' deaths again and again, and instead of breaking the illusion he goes on asking about his Dao into an eighty-fourth cycle, far past Sun Yun's record. Suspecting sabotage, he gives up the Earth Trial at the tenth Immortal Guardian and the Heaven Trial of comprehension, yet the Master orders him admitted anyway. Jin Ye bars him from Ziyun Pavilion, the old home of the traitor Sun Yun, which marks its next resident as a future member of the Seven Heavenly Fated Disciples. When enforcement elders and then Zhao Xinmeng, Zhou Wan and others attack him, Wang Lin fights back with the Demon Transformation Finger and the God Slaying War Chariot, renames the place Zilin Pavilion, and accuses Zhao Xingsha of setting it all up. Tian Yunzi then appears and takes him as a true disciple of the Purple Branch, saying he will announce it at his birthday in three months.",
+  "events": [
+    "Wang Lin reaches Planet Tian Yun and is expected by Tian Yunzi",
+    "Zhao Xingsha and Zhou Wan look down on him; three trials are set",
+    "Human Trial: he relives his parents' deaths for 84 cycles while questioning his Dao",
+    "He gives up the Earth and Heaven trials but is admitted by the Master's order",
+    "Jin Ye blocks Ziyun Pavilion; enforcement elders order his dwelling torn down",
+    "Wang Lin learns that Ziyun Pavilion marks the next of the Seven Heavenly Fated Disciples and renames it Zilin Pavilion",
+    "Zhao Xinmeng, Zhou Wan and others attack; he uses the Demon Transformation Finger and God Slaying War Chariot",
+    "Tian Yunzi takes him as a true disciple of the Purple Branch"
+  ],
+  "introduced": [
+    "All-Seer (Tian Yunzi)",
+    "Heavenly Fate Sect",
+    "Purple Branch",
+    "Zhao Xingsha",
+    "Zhou Wan",
+    "Jin Ye",
+    "Zhao Xinmeng",
+    "Sun Yun (mentioned)",
+    "Human, Earth and Heaven Trials",
+    "Immortal Guardians",
+    "Ziyun Pavilion / Zilin Pavilion",
+    "Seven Heavenly Fated Disciples",
+    "Immortal Demonic Body",
+    "Seven Star Shatter"
+  ],
+  "cultivation": "Zhao Xingsha: mid Soul Transformation. Zhou Wan: mid Soul Transformation. Jin Ye: early Soul Transformation. Zhao Xinmeng: late Soul Transformation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "all-seer",
+      "name": "All-Seer",
+      "first": false,
+      "shownAs": "All-Seer (Tian Yunzi)"
+    },
+    {
+      "id": "zhao-xingsha",
+      "name": "Zhao Xingsha",
+      "realm": "mid Soul Transformation",
+      "quote": "[Zhao Xingsha, Murid Cabang Ungu dari Sekte Takdir Surgawi, Transformasi Jiwa Tahap Tengah]",
+      "first": true,
+      "card": 138.2
+    },
+    {
+      "id": "zhou-wan",
+      "name": "Zhou Wan",
+      "realm": "mid Soul Transformation",
+      "quote": "[Zhou Wan, Murid Cabang Ungu dari Sekte Takdir Surgawi, Transformasi Jiwa Tahap Tengah]",
+      "first": true,
+      "card": 168.5
+    },
+    {
+      "id": "jin-ye",
+      "name": "Jin Ye",
+      "realm": "early Soul Transformation",
+      "quote": "(Jin Ye, Purple Faction disciple, Nascent Soul early stage)",
+      "first": true,
+      "card": 658.4
+    },
+    {
+      "id": "zhao-xinmeng",
+      "name": "Zhao Xinmeng",
+      "realm": "late Soul Transformation",
+      "quote": "[Zhao Xinmeng, Murid Cabang Ungu dari Sekte Takdir Surgawi, Transformasi Jiwa Tahap Akhir]",
+      "first": true,
+      "card": 910.6
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep104.id.srt) with its name cards; card times are from that file.",
+    "Official YouTube English was checked alongside the Indonesian fansub for names and story beats; its realm names are unreliable (it says 'Nascent Soul' for Soul Transformation), so the Indonesian cards were used for realms.",
+    "The Indonesian card reads 'Jin Shuo'; the official English and the fan wiki give Jin Ye, used here.",
+    "Tian Yunzi is the All-Seer (天运子) of the glossary.",
+    "Naming follows the earlier reviews and glossary: Planet Suzaku, Suzaku Tomb, Zhu Quezi, Yun Quezi, Hongdie, Forsaken Immortal Clan, Cultivation Planet Crystal (subs: Star Cultivation/Star Refining Crystal)."
+  ],
+  "flags": [
+    "Whether the God Slaying War Chariot at 972s is Wang Lin's (he gave Situ Nan a divine chariot in EP103) is not certain.",
+    "Wang Lin's realm is not stated; EP105 shows him hiding his strength.",
+    "Zhou Wan as the one using the Immortal Demonic Body (934s) is inferred from the fan wiki."
+  ]
+}

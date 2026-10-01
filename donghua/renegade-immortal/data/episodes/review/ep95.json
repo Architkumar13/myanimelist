@@ -1,0 +1,70 @@
+{
+  "ep": 95,
+  "title": "Soul Transformation",
+  "summary": "Wang Lin cuts Qian Feng off mid-sentence and blows up a soul avatar against his Suzaku Awl, ending the bout. Qian Feng later vents his anger on Jue Qing and plans to take both Wang Lin's and Liu Mei's Intent Domains. Guarded by Dun Tian, Wang Lin goes through the three steps of Soul Transformation: cutting his mortal roots, reforging his body into an immortal one, and crystallising his origin soul. In the west, the Forsaken Immortal Clan's Fifth Ancestor and her people plant an Ancestor Soul Seed in a Giant Demon corpse traded from the Corpse Yin Sect, to grow Reincarnation Trees that will hatch ten-leaf warriors. Zhu Quezi comes to the Soul Refining Sect to claim the Billion Soul Flag under an old pact, and when Dun Tian refuses, he crushes the sect with the power the Cultivation Alliance gave him. Dun Tian offers up his whole lifespan to wake the Fourth Main Soul, and Zhu Quezi spends nine-tenths of his remaining lifespan on a Stopping Intent Domain to beat it. As Zhu Quezi reaches for the flag, Wang Lin emerges at early Soul Transformation, and Zhu Quezi realises the man before him is not Zeng Niu.",
+  "events": [
+    "Wang Lin beats Qian Feng by exploding a soul avatar against his Suzaku Awl",
+    "Qian Feng takes his anger out on Jue Qing",
+    "Dun Tian guards Wang Lin through the three steps of Soul Transformation",
+    "The Forsaken Immortal Clan plants the Ancestor Soul Seed to grow Reincarnation Trees",
+    "Zhu Quezi demands the Billion Soul Flag and attacks the Soul Refining Sect",
+    "Dun Tian gives his lifespan to awaken the Fourth Main Soul",
+    "Zhu Quezi uses a Stopping Intent Domain from the Cultivation Alliance",
+    "Wang Lin emerges at early Soul Transformation; Zhu Quezi senses someone else"
+  ],
+  "introduced": [
+    "Suzaku Awl",
+    "Ancestor Soul Seed",
+    "Reincarnation Tree",
+    "Stopping Intent Domain",
+    "Suzaku Holy Fire",
+    "Three Golden Souls",
+    "three steps of Soul Transformation"
+  ],
+  "cultivation": "Wang Lin's clone breaks through to early Soul Transformation. The Fourth Main Soul was an Ascendant with three golden spirit roots and is strong enough to threaten late Ascendants.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "early Soul Transformation (clone)",
+      "quote": "[Klon Wang Lin, Tahap Transformasi Jiwa Awal]",
+      "first": false,
+      "card": 1202.3
+    },
+    {
+      "id": "qian-feng",
+      "name": "Qian Feng",
+      "first": false
+    },
+    {
+      "id": "hongdie",
+      "name": "Hongdie",
+      "first": false
+    },
+    {
+      "id": "dun-tian",
+      "name": "Dun Tian",
+      "first": false
+    },
+    {
+      "id": "zhu-quezi",
+      "name": "Zhu Quezi",
+      "first": false
+    },
+    {
+      "id": "cui-zhi",
+      "name": "Cui Zhi",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Checked against the official English and Chinese YouTube subtitles (ep95.en/zh.vtt) and the Indonesian fansub.",
+    "Qian Feng is 乾风. His spear is 朱雀锥, Zhu Quezi's pseudo-immortal treasure, so it is written as Suzaku Awl. Zhu Quezi's final move is 停止意境 (Stopping Intent Domain). The Fourth Main Soul threatens late Ascendants (问鼎后期), not peak.",
+    "The Forsaken leader planting the seed is 五祖 (Fifth Ancestor, Cui Zhi). The Giant Demon corpse was traded from the Corpse Yin Sect for ancestral talismans (祖符); 'Leluhur Fu' in the Indonesian track is a mistranslation."
+  ],
+  "flags": [
+    "Dun Tian's fate is left open here; EP96 shows his final farewell.",
+    "The 'you are not him' at the end is explained in EP96: Situ Nan is in control."
+  ]
+}

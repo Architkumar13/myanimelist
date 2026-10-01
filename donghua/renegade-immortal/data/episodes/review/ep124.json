@@ -1,0 +1,64 @@
+{
+  "ep": 124,
+  "title": "Ancient Demon",
+  "summary": "An hour earlier, knowing the Mad Demon Fruit would wear off, Wang Lin forced the captive Yao Xixue to reveal how the Blood Soul Pill works, so his clone survives the self-destruction that wrecks the Demon Tower. The Scattered Devil, in a body that looks like Ling Tianhou's, hunts him on the plains outside Sky Demon City, and Wang Lin calls on the Ancient Demon, who arrives and fights the devil, revealing it is only one of nine Scattered Devils serving another Ancient. Watching their fight, which resembles the Ancient God arts, gives Wang Lin's true body insight into Ancient God techniques, and Wang Lin finally lures the Scattered Devil into his own divine soul with Xu Liguo and the Holy Soul Flag so that the Ancient Demon, Bei Lou, has to help seal it. Back on Planet Vermilion, people of the Cloud Sky Sect in the Chu Country remember Wang Lin as a legend and light candles for him. In his sea of consciousness Wang Lin stabilises Ascendant and suppresses the devil to devour later as a second soul, and at the Dragon Pool Bei Lou names him Heavenly Demon Envoy, above the Demon Emperor, promising to find his friend in the coming war with Fire Demon Country.",
+  "events": [
+    "Flashback: Wang Lin forces the Blood Soul Pill's method from Yao Xixue",
+    "His clone survives the self-destruction",
+    "The Scattered Devil, in a Ling Tianhou-like body, attacks; Bei Lou intervenes",
+    "The fight teaches Wang Lin's true body something of the Ancient God arts",
+    "Wang Lin baits the Scattered Devil into his divine soul and Bei Lou seals it",
+    "On Planet Vermilion the Cloud Sky Sect remembers Wang Lin",
+    "Wang Lin stabilises Ascendant and keeps the devil to devour later",
+    "Bei Lou makes him Heavenly Demon Envoy and sends him toward the Fire Demon war"
+  ],
+  "introduced": [
+    "Bei Lou (named)",
+    "Nine Scattered Devils",
+    "Demon seed",
+    "Devil-Transforming Finger",
+    "Heavenly Demon Envoy",
+    "Cloud Sky Sect (Chu Country)"
+  ],
+  "cultivation": "Wang Lin's clone stabilises Ascendant after months of seclusion.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "Ascendant (stabilised)",
+      "quote": "akhirnya mengukuhkan Tahap Ascendant.",
+      "first": false
+    },
+    {
+      "id": "yao-xixue",
+      "name": "Yao Xixue",
+      "first": false
+    },
+    {
+      "id": "scattered-devil",
+      "name": "Scattered Devil",
+      "look": "in a flesh body that looks like Ling Tianhou",
+      "first": false
+    },
+    {
+      "id": "bei-lou",
+      "name": "Bei Lou",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep124.id.srt) and its caption cards; the YouTube English track for this episode is machine-made and garbled, used only for cross-checks.",
+    "Bei Lou follows the glossary title (贝罗); the subtitles say Bei Luo."
+  ],
+  "flags": [
+    "The Scattered Devil's body resembles Ling Tianhou (236-260s); why is not explained.",
+    "Bei Lou's terms (970s) are unclear: 'in the next hundred years you revive one demon'; EP127 suggests he means devouring the other demon fragments.",
+    "The Chu Country scene (774-846s) has no named speakers."
+  ]
+}

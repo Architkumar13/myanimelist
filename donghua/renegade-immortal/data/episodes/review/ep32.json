@@ -1,0 +1,63 @@
+{
+  "ep": 32,
+  "title": "Breaking the Restrictions",
+  "summary": "Hiding in the fog, Wang Lin breaks the Six Desire Devil Lord's last chains of restrictions with a single sword so that the two Soul Formation cultivators will fight each other. Near the summit, Duanmu Ji catches the Six Desire Devil Lord, who has slowed down to protect a disciple left behind by their own master. Duanmu Ji blames the Six Desire Devil Lord for the deadly chains of restrictions, which Wang Lin in fact set. While they argue, Wang Lin sets off the mountain's final restriction on both of them, and the two badly hurt devils retreat. Left alone, Wang Lin studies for three years and breaks every restriction on the Forbidden Mountain. Tu Si, an Ancient God of eight stars, then appears, names him the fourth Enlightened One, and gives him a jade slip on making restriction flags and a piece of the starry sky's Mojian Stone. With these he passes the main tower, where many earlier intruders took their rewards, and enters a whirlpool to the third trial, the Annihilation Realm.",
+  "events": [
+    "Wang Lin breaks restrictions with one sword so that Duanmu Ji will catch the Six Desire Devil Lord",
+    "The Six Desire Devil Lord is held back by protecting a disciple left by their master",
+    "Duanmu Ji blames the Six Desire Devil Lord for the chains of restrictions, which Wang Lin set",
+    "Wang Lin sets off the final restriction on both Soul Formation cultivators",
+    "Alone, he spends three years breaking every restriction on the mountain",
+    "Tu Si names him the fourth Enlightened One and gives him a restriction-flag jade slip and Mojian Stone",
+    "He enters the whirlpool to the third trial, the Annihilation Realm"
+  ],
+  "introduced": [
+    "Tu Si",
+    "Enlightened Ones",
+    "restriction flag",
+    "Mojian Stone",
+    "Annihilation Realm",
+    "Residual Rainbow Jade Sword"
+  ],
+  "cultivation": "Wang Lin, still at Core Formation, breaks every restriction on the Forbidden Mountain. Duanmu Ji and the Six Desire Devil Lord are both Soul Formation cultivators.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "xu-liqing",
+      "name": "Xu Liqing",
+      "first": false,
+      "shownAs": "Six Desire Devil Lord"
+    },
+    {
+      "id": "duanmu-ji",
+      "name": "Duanmu Ji",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "tu-si",
+      "name": "Tu Si",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles checked against the AnimeKhor Indonesian fansubs; no Chinese track.",
+    "'Child Jidan / young Ji Dan' = 'Core Formation brat' (结丹小儿), meaning Wang Lin, not a name; 'son of six desires' = the Six Desire Devil Lord.",
+    "On-screen caption: 'Tu Si, the Ancient God of the Eight Stars' (涂司)."
+  ],
+  "flags": [
+    "13:29 'the 4th Great Enlightened One': the title wording is uncertain.",
+    "04:40-04:52 the disciple the Six Desire Devil Lord protects ('the relic that Master left to me') is not named.",
+    "13:41-13:43 'part of the ontology with the identity of Discerner' (rewards for entering the 'Sea of Ontology') is garbled.",
+    "18:18 'Spirit God, puppets... go and swallow the souls' at the end is unclear."
+  ]
+}

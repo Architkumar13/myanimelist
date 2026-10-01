@@ -1,0 +1,61 @@
+{
+  "ep": 8,
+  "title": "Dead Ruins",
+  "summary": "Situ Nan falls into a deep sleep after spending too much of his Nascent Soul essence, and Wang Lin sets out alone to find a yin-rich place, promising to wake him by forming a core. In ruins that were destroyed overnight, a land of countless deaths, he begins the Underworld Ascension Method, whose nine levels force open three aperture points and form cold cores that may lead straight to Core Formation. A strange figure in yellow paper attacks him; Wang Lin sees through its Core Formation disguise and wins an illusion bead in exchange for his Little Lost Formation. Moving deeper, he breaks through to the fifth level of the method in a tenth-grade extreme-yin spot. A sane corpse puppet called Adai has followed him, hunting the master it rebelled against. That master, Corpse Yin Sect ancestor Wu Yu, is trapped as a Nascent Soul in a statue and offers to teleport Wang Lin to the Corpse Yin Sect if he will bring back his junior brother Ye Zizai, and Wang Lin accepts.",
+  "events": [
+    "Situ Nan sleeps; Wang Lin leaves to find an extreme-yin place",
+    "Wang Lin sets up the Little Lost Formation and starts the Underworld Ascension Method",
+    "A yellow-paper weirdo attacks; Wang Lin sees through the Core Formation illusion and gains an illusion bead",
+    "In a stronger yin spot, he completes the fifth level of the method",
+    "The sane corpse puppet Adai follows him, searching for its master's Nascent Soul",
+    "Wu Yu, a Corpse Yin Sect ancestor trapped in a statue, explains corpse puppets and begs for help",
+    "Wu Yu opens a teleportation array to the Corpse Yin Sect, and Wang Lin goes to fetch Ye Zizai"
+  ],
+  "introduced": [
+    "Adai",
+    "Wu Yu",
+    "Ye Zizai (mentioned)",
+    "Little Lost Formation",
+    "illusion bead",
+    "cold core",
+    "Underworld Ascension Method levels",
+    "corpse puppet (explained)"
+  ],
+  "cultivation": "The Underworld Ascension Method has nine levels; every three levels break one aperture (dantian, qi sea, foot aperture) and form a cold core, and merging the three cold cores can lead directly to Core Formation. Wang Lin completes the fifth level. Wu Yu is a Nascent Soul ancestor of the Corpse Yin Sect.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "Underworld Ascension Method level 5",
+      "quote": "The Fifth Level of Cold elixir... succeed",
+      "first": false
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "look": "asleep",
+      "first": false
+    },
+    {
+      "id": "adai",
+      "name": "Adai",
+      "look": "sane corpse puppet",
+      "first": true
+    },
+    {
+      "id": "wu-yu",
+      "name": "Wu Yu",
+      "realm": "Nascent Soul",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Adai: the official subs call the puppet 'Dumb' (阿呆); Wu Yu is named in EP9."
+  ],
+  "flags": [
+    "Only the official English track exists for EP8 (no Chinese, no AnimeKhor subtitles).",
+    "The yellow-paper weirdo scene (8:48-9:56) is unclear: who he is, and whether the illusion bead was left behind or traded.",
+    "'The Fifth Level of Cold elixir' (15:12) may be the fifth level of the method rather than a fifth cold core."
+  ]
+}

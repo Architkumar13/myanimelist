@@ -1,0 +1,80 @@
+{
+  "ep": 99,
+  "title": "Thousand Illusions",
+  "summary": "In the outer Suzaku Tomb, Wang Lin finds a scorched land where every grain is a mortal's soul fragment and the fire spirits reform after they are smashed. A youth named Murong Yun begs for help and offers to show the way in, so Wang Lin and the cultivator Mo Yunhai follow him to an altar, but Wang Lin works out that Murong Yun is himself a spirit made of soul fragments, out to stop them. Sealed, the spirit gives up the real altar in a valley of nine peaks with white mist. Cultivators there are killing the reforming spirits again and again in search of their own fragments, and Mo Yunhai drops dead when someone destroys his. At the outer altar Liu Mei, now at mid Soul Transformation, waits for Wang Lin and tries to devour his Dao of life and death as the last illusion of her Thousand Illusions Emotionless Dao. He has slipped Mei Ji's curse of desire into his intent, and when Liu Mei swallows it the curse tries to take over her body. She survives by absorbing it, but her last illusion becomes desire, and she swears revenge as Wang Lin heads across the abyss toward the Spirit Mountain while the tomb falls apart.",
+  "events": [
+    "Wang Lin finds that the scorched outer tomb is made of mortal soul fragments that form fire spirits",
+    "Murong Yun asks for help; Mo Yunhai joins them at a false altar",
+    "Wang Lin exposes Murong Yun as a soul-fragment spirit, seals it and learns where the real altar is",
+    "Cultivators kill regenerating spirits to find their fragments; Mo Yunhai dies when his is destroyed",
+    "Liu Mei tries to take Wang Lin's Dao to finish her Thousand Illusions",
+    "Mei Ji's curse of desire, hidden in his intent, tries to seize Liu Mei's body",
+    "Liu Mei absorbs the curse, her Dao is twisted, and she vows revenge",
+    "Wang Lin reaches the abyss before the Spirit Mountain as the tomb collapses faster"
+  ],
+  "introduced": [
+    "Murong Yun",
+    "Mo Yunhai",
+    "Outer Suzaku Tomb",
+    "Soul fragments (soul-fragment spirits)",
+    "Thousand Illusions Emotionless Dao",
+    "Outer Altar",
+    "Mountain Abyss"
+  ],
+  "cultivation": "Wang Lin: early Soul Transformation. Liu Mei: mid Soul Transformation, one illusion short of late. Mo Yunhai: early Soul Transformation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "early Soul Transformation",
+      "quote": "Memang pada Tahap Transformasi Jiwa Awal (664s)",
+      "first": false
+    },
+    {
+      "id": "murong-yun",
+      "name": "Murong Yun",
+      "first": true
+    },
+    {
+      "id": "mo-yunhai",
+      "name": "Mo Yunhai",
+      "realm": "early Soul Transformation",
+      "quote": "[Mo Yunhai, Transformasi Jiwa Tahap Awal]",
+      "first": true,
+      "card": 313.3
+    },
+    {
+      "id": "liu-mei",
+      "name": "Liu Mei",
+      "realm": "mid Soul Transformation",
+      "quote": "Liu Mei telah mencapai Tahap Transformasi Jiwa Tengah (703s)",
+      "first": false
+    },
+    {
+      "id": "mei-ji",
+      "name": "Mei Ji",
+      "first": false
+    },
+    {
+      "id": "zhou-yi",
+      "name": "Zhou Yi",
+      "first": false
+    },
+    {
+      "id": "qian-feng",
+      "name": "Qian Feng",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep99.id.srt) with its name cards; card times are from that file.",
+    "Official YouTube English used to confirm the youth's name (Murong Yun, 301s); the Indonesian line reads 'Dari Murong Yun'.",
+    "Naming follows the earlier reviews and glossary: Planet Suzaku, Suzaku Tomb, Zhu Quezi, Yun Quezi, Hongdie, Forsaken Immortal Clan, Cultivation Planet Crystal (subs: Star Cultivation/Star Refining Crystal)."
+  ],
+  "flags": [
+    "Who speaks at 946-987s (a 'small conception' being devoured, a threat to the clan's plan) is unclear: Mei Ji's main body or another clan elder.",
+    "It is not clear that the man who dies at 628s is Mo Yunhai; he is the one hunting his fragment at that point.",
+    "Zhou Yi's message at 855-875s seems to be a sound transmission; he is not clearly on screen."
+  ]
+}

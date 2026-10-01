@@ -1,0 +1,52 @@
+{
+  "ep": 13,
+  "title": "Law",
+  "summary": "As the foreign battlefield collapses, Wang Lin, now in Ma Liang's body, asks his Soul Swallower friends to slow the collapse and learns that souls cannot cross the boundary law into the living world. Travelling with Ma Liang's comrades Zhou Zihong and a senior brother, he finds that the wandering spirits avoid him, and he uses them to corner Ge Yang and Xu Hao for Ma Liang's token. Xu Hao dies and Ge Yang begs to become his slave, while Zhou Zihong guesses that Ma Liang is gone. At the teleportation array, a black-silk boundary law wipes out every wandering spirit that touches it, and it attacks Wang Lin as a powerful Soul Swallower. Forcing his way through, he is tempered by the law until his consciousness becomes a thread of Extreme consciousness. He crosses back into the living world and vows to repay Teng Huayuan and the Teng family blood for blood.",
+  "events": [
+    "The Soul Swallowers explain boundary laws and agree to slow the collapse",
+    "Wang Lin as Ma Liang rejoins Zhou Zihong and a senior brother; monsters leave them alone",
+    "Wandering spirits corner Xu Hao and Ge Yang; Xu Hao is killed and Ge Yang submits",
+    "Zhou Zihong learns the real Ma Liang is dead",
+    "The black-silk boundary law destroys the spirits at the teleportation array",
+    "Wang Lin endures the law, forming an Extreme consciousness, and returns to the living world"
+  ],
+  "introduced": [
+    "Zhou Zihong",
+    "boundary law (black silk)",
+    "Extreme consciousness",
+    "Ma Liang's token"
+  ],
+  "cultivation": "Wang Lin's consciousness is refined into a thread of Extreme consciousness, said to let him easily kill anyone at the same level in the living world.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "look": "in Ma Liang's body",
+      "first": false
+    },
+    {
+      "id": "zhou-zihong",
+      "name": "Zhou Zihong",
+      "first": true
+    },
+    {
+      "id": "ge-yang",
+      "name": "Ge Yang",
+      "first": false
+    },
+    {
+      "id": "xu-hao",
+      "name": "Xu Hao",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Only the official English track exists for EP13."
+  ],
+  "flags": [
+    "Who kills Xu Hao and how Ge Yang ends up (9:34-10:27) is not fully clear; written per the wiki (Xu Hao killed by Wang Lin).",
+    "'Junior Sister Li' at the teleportation array (11:21) is unidentified (possibly Li Muwan).",
+    "The 'three of you' sent ahead (11:00, 15:10) and 'is master' replies suggest Ge Yang plus Ma Liang's two comrades."
+  ]
+}

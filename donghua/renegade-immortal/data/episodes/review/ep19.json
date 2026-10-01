@@ -1,0 +1,64 @@
+{
+  "ep": 19,
+  "title": "The Jiao of the Fourteenth Valley",
+  "summary": "In the Sea of Devils three cultivators of the Fighting Evil Sect demand that Wang Lin hand over Li Muwan, and he kills them with what Li Muwan recognises as the death spell, an ancient demonic technique built from Yin energy, death energy and killing energy. He takes her into an abandoned cave, protects it with the Nine Li Corpse Bone Formation, and orders her to refine pills for him until he forms his core. He goes looking for spirit-beast bones to strengthen the formation, and a Fighting Evil Sect disciple, Sang Muya, guides him to the Valley of Corpses. In the icy fourteenth valley he kills a jiao dragon stronger than a Nascent Soul cultivator. He comes back after ten days instead of three, builds its bones into the Nine Li Jiao Dragon Formation, and gives Li Muwan the jiao's core and marrow. Using the Underworld Ascension Method, he forms cold pills in three places in his body, but they will not merge and he falls unconscious, and Xu Liguo sees his chance to break free.",
+  "events": [
+    "Wang Lin kills three Fighting Evil Sect cultivators who want Li Muwan",
+    "Li Muwan explains the death spell and the three energies behind it",
+    "Wang Lin sets up the Nine Li Corpse Bone Formation in an abandoned cave and demands Li Muwan's soul blood",
+    "Sang Muya kills his senior brother, then leads Wang Lin to the Valley of Corpses",
+    "Wang Lin kills a jiao dragon in the fourteenth valley and rebuilds the formation as the Nine Li Jiao Dragon Formation",
+    "Li Muwan makes a jiao-skin garment for him",
+    "Situ Nan explains the Underworld Ascension Method; the three cold pills fail to merge and Wang Lin collapses",
+    "Xu Liguo thinks his moment for freedom has come"
+  ],
+  "introduced": [
+    "Fighting Evil Sect",
+    "Sang Muya",
+    "death spell",
+    "Nine Li Corpse Bone Formation",
+    "Valley of Corpses",
+    "Nine Li Jiao Dragon Formation",
+    "jiao core and dragon marrow",
+    "Underworld Ascension Method"
+  ],
+  "cultivation": "Wang Lin is still in the False Core stage and tries to form a real core with the Underworld Ascension Method: three cold pills that must merge into one. The jiao he kills is said to be stronger than a Nascent Soul cultivator.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "sang-muya",
+      "name": "Sang Muya",
+      "first": true
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles (machine-translated) checked against the AnimeKhor Indonesian fansubs; no Chinese track for this episode.",
+    "'Douxie Sect' = Fighting Evil Sect; 'xiaolinzi' = Situ Nan's name for Wang Lin; 'the secret to rising from the underworld / Huang Quan' = Underworld Ascension Method (黄泉升窍诀).",
+    "Li Muwan guesses that his death spell is only an imitation that hides his Ji Realm; kept out of the summary."
+  ],
+  "flags": [
+    "The end of the subtitle file (from about 20:56, 'Wang will be the first person under the Nascent Soul') is a preview of EP21 and is left out.",
+    "12:15 the disciple's name is 'Sang Muya' in English and 'Sang Mucha' in Indonesian.",
+    "11:37 'mulberry cliff' is a garbled name; it may be what the senior brother calls Sang Muya."
+  ]
+}

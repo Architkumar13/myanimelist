@@ -1,0 +1,64 @@
+{
+  "ep": 25,
+  "title": "Duanmu Ji's Hunt",
+  "summary": "A Soul Formation cultivator, Duanmu Ji, the Eighth Extreme Demon Lord and one of the city lords of Seven Plum City, comes to the Fighting Evil Sect looking for its leader, but Wang Lin has already gone. Wanting a secret technique to raise his chances of forming a Nascent Soul, Wang Lin returns to the Huo Chu Alliance in Xuan Wu as Ma Liang and asks the War God Temple to show him its Divine Path Art, but the ancestor refuses a loose cultivator. Duanmu Ji tracks him down, smashes the alliance's mountain-protecting formation and covers all of Xuan Wu with a divine-sense lock. Wang Lin hides inside the Heaven Defying Bead, and Situ Nan warns him he can only stay there for a limited time. After three years Duanmu Ji catches him. Duanmu Ji only wants to borrow his death spell for a raid on a dangerous secret place, and offers a Huadi Pill and a Liying Pill, with talk of Infant Transformation Pills inside. Wang Lin agrees, a strand of consciousness is planted in him, and with Duanmu Ji standing behind him the War God Temple ancestor lets him see the Divine Path Art on condition that he never involves the temple again.",
+  "events": [
+    "Duanmu Ji arrives at the Fighting Evil Sect and finds Wang Lin gone",
+    "Wang Lin, as Ma Liang, asks the War God Temple for the Divine Path Art and is refused",
+    "Duanmu Ji breaks the alliance's mountain-protecting formation and puts a divine-sense lock over Xuan Wu",
+    "Situ Nan explains the time limits of hiding in the Heaven Defying Bead",
+    "After three years Duanmu Ji catches Wang Lin and asks for his death spell for a treasure hunt",
+    "He offers a Huadi Pill and a Liying Pill and plants a strand of consciousness in Wang Lin",
+    "The War God Temple ancestor opens the stone chamber of the Divine Path Art"
+  ],
+  "introduced": [
+    "Duanmu Ji",
+    "Seven Plum City",
+    "Divine Path Art",
+    "Divine Sense Realm Lock",
+    "Huadi Pill",
+    "Liying Pill",
+    "Infant Transformation Pill"
+  ],
+  "cultivation": "Duanmu Ji is at Soul Formation. Wang Lin is at Core Formation and judges Ma Liang's body poor for forming a Nascent Soul. Duanmu Ji says the secret place can only be fully explored at late Nascent Soul or above, and that one Infant Transformation Pill gives a chance at Soul Transformation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "Core Formation",
+      "first": false
+    },
+    {
+      "id": "duanmu-ji",
+      "name": "Duanmu Ji",
+      "realm": "Soul Formation",
+      "quote": "The senior is one of the city lords of the City of Seven Plums / Seniors in the transformation stage",
+      "first": true
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    },
+    {
+      "id": "feng-luan",
+      "name": "Feng Luan",
+      "first": false
+    },
+    {
+      "id": "shangguan-mo",
+      "name": "Shangguan Mo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles (machine-translated) checked against the AnimeKhor Indonesian fansubs; no Chinese track for this episode.",
+    "'Eight-ji / Baji Demon Lord' = Duanmu Ji, the Eighth Extreme Demon Lord (八极魔君); 'Shinto magic' = Divine Path Art (神道术); 'transformation stage' = Soul Formation (化神), from the EP26 Chinese track; 'City of Seven Plums' = Seven Plum City (七梅之城)."
+  ],
+  "flags": [
+    "03:52 the disciple Duanmu Ji questions (whose soul blood Wang Lin holds) is not named; probably Shangguan Mo.",
+    "The War God Temple ancestor who grants access is not named but calls him Wang Lin (EP26 Chinese: 王林，我不管你惹下多大的麻烦), so knows who he is; possibly Feng Luan. 'Shilin' at 18:11 is the subtitle's slip for Wang Lin.",
+    "14:32 the pill names 'Huadi Dan' and 'Li Ying Dan' are pinyin guesses."
+  ]
+}

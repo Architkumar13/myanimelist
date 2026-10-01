@@ -1,0 +1,73 @@
+{
+  "ep": 45,
+  "title": "Across the Sea of Devils",
+  "summary": "Since the Heavenly Tribulation the fog over the Sea of Devils has lifted and a strange black rain sickens cultivators while making demonic beasts stronger, and Wang Lin, told that a map of the ancient teleportation arrays has surfaced in Lianmo City's black market, sets out to cross the sea toward the Country of Zhao. He runs into Qiu Siping, now at Nascent Soul after devouring his master's soul, hunting an eight-clawed beast with Shangguan Cai and Ma Jinrong of the Poison Demon Palace. Wang Lin lets the two escape, which forces Qiu Siping to chase them, and takes his jade slip of teleportation-array maps for comparison. On the way he subdues a coral-born mosquito beast with illusions, testing it first with his third devil, the Big Ape. At Lianmo City's black market he offers a special-grade spirit stone for a map, and a seller who wants help killing a half-step Soul Formation cultivator turns out to be setting a trap. Wang Lin kills the ambushers with the killing intent sealed in a sword sheath like the one he once owned, finds the route to Zhao, and remembers Teng Huayuan's massacre of his family 400 years ago.",
+  "events": [
+    "Black rain spreads over the Sea of Devils after the fog lifts",
+    "Wang Lin seeks an ancient teleportation map to reach Zhao",
+    "He meets Qiu Siping, now at Nascent Soul, with two Poison Demon Palace disciples",
+    "Qiu Siping gives him a jade slip of teleportation maps",
+    "Wang Lin subdues a mosquito beast",
+    "At Lianmo City's black market he is lured into an ambush",
+    "He kills the ambushers with the sword sheath's killing intent and finds the way to Zhao",
+    "He remembers Teng Huayuan killing his family 400 years ago"
+  ],
+  "introduced": [
+    "Shangguan Cai",
+    "Ma Jinrong",
+    "Lianmo City",
+    "mosquito beast",
+    "ancient teleportation array map",
+    "special-grade spirit stone",
+    "black rain"
+  ],
+  "cultivation": "Qiu Siping: Nascent Soul, formed after devouring a Nascent Soul. Shangguan Cai and Ma Jinrong: late Core Formation. The bait target is described as late Nascent Soul great perfection, half-step Soul Formation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "qiu-siping",
+      "name": "Qiu Siping",
+      "realm": "Nascent Soul",
+      "quote": "Setelah melahap Jiwa yang Baru Lahir, saya telah berhasil membentuk Jiwa yang Baru Lahir.",
+      "first": false
+    },
+    {
+      "id": "shangguan-cai",
+      "name": "Shangguan Cai",
+      "realm": "late Core Formation",
+      "quote": "[Shangguan Cai, Murid Istana Iblis Racun, Formasi Inti Tahap Akhir]",
+      "first": true,
+      "card": 244.9
+    },
+    {
+      "id": "ma-jinrong",
+      "name": "Ma Jinrong",
+      "realm": "late Core Formation",
+      "quote": "[Ma Jinrong, Murid Istana Iblis Racun, Formasi Inti Tahap Akhir]",
+      "first": true,
+      "card": 244.9
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "teng-huayuan",
+      "name": "Teng Huayuan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "'Mo City' (official English) = Lianmo City."
+  ],
+  "flags": [
+    "Who calls Wang Lin 'Sect Master' and reports the map (AK 210) is not shown clearly.",
+    "The ending flashback lines ('blood for blood... for my grandson', 'I'll reunite you with your parents') are read as Teng Huayuan 400 years ago."
+  ]
+}

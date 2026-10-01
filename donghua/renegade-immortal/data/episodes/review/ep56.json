@@ -1,0 +1,97 @@
+{
+  "ep": 56,
+  "title": "Three Intent Realms",
+  "summary": "At the Baiyun Sect the old man pins a mid Nascent Soul Wang Lin in place so he can feel the Soul Formation elders' Intent Realms as they attack. Wen Baoxin's realm is detachment, cutting off joy, anger, love and hatred; Shi Qi's is a lazy, drowsy realm that almost traps Wang Lin until his killing-energy pearl wakes him; and Qing Song's is age, which drains spiritual power and ages the body. The old man pays the sect with an Ancestral Spirit Token, one of many tokens he carries from other sects, and takes Wang Lin home. Seventeen years later Wang Lin is an old shopkeeper who owns much of the old street, Daniu has a son, Zeng Xiaoniu, and Wang Lin still cannot find his own Intent Realm. One night Baiyun disciple Yi Fu chases Xu Tao into the street, and when he tries to kill Wang Lin as well, Wang Lin destroys his natal Rakshasa; Yi Fu flees, badly hurt, to his master Zhou Wutai.",
+  "events": [
+    "The old man makes the Baiyun Sect's Soul Formation elders show their Intent Realms",
+    "Wang Lin feels the realms of detachment, laziness and age",
+    "The old man pays with an Ancestral Spirit Token",
+    "Seventeen years pass; Wang Lin grows old as a shopkeeper and meets Zeng Xiaoniu",
+    "Yi Fu hunts Xu Tao, who runs to Wang Lin for help",
+    "Wang Lin destroys Yi Fu's natal Rakshasa",
+    "Yi Fu returns wounded to his master Zhou Wutai"
+  ],
+  "introduced": [
+    "Shi Qi",
+    "Qing Song",
+    "Yi Fu",
+    "Zhou Wutai",
+    "Zeng Xiaoniu",
+    "Ancestral Spirit Token",
+    "Detachment Intent Realm",
+    "Age Intent Realm",
+    "natal Rakshasa"
+  ],
+  "cultivation": "Wang Lin: mid Nascent Soul. Shi Qi and Qing Song: Soul Formation. Yi Fu: Foundation Establishment. Zhou Wutai: late Nascent Soul.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false,
+      "realm": "mid Nascent Soul",
+      "quote": "Hanya Jiwa Baru yang Masih dalam Tahap Tengah."
+    },
+    {
+      "id": "old-man",
+      "name": "the old man",
+      "first": false
+    },
+    {
+      "id": "wen-baoxin",
+      "name": "Wen Baoxin",
+      "first": false
+    },
+    {
+      "id": "shi-qi",
+      "name": "Shi Qi",
+      "realm": "Soul Formation",
+      "quote": "[Shi Qi, Tetua Sekte Baiyun, Tahap Transformasi Dewa]",
+      "first": true,
+      "card": 404.2
+    },
+    {
+      "id": "qing-song",
+      "name": "Qing Song",
+      "realm": "Soul Formation",
+      "quote": "[Qing Song, Tetua Sekte Baiyun, Tahap Transformasi Dewa]",
+      "first": true,
+      "card": 533.7
+    },
+    {
+      "id": "zeng-xiaoniu",
+      "name": "Zeng Xiaoniu",
+      "first": true,
+      "card": 877.1
+    },
+    {
+      "id": "yi-fu",
+      "name": "Yi Fu",
+      "realm": "Foundation Establishment",
+      "quote": "[Yi Fu, Murid Sekte Baiyun, Tahap Pendirian Yayasan]",
+      "first": true,
+      "card": 940.0
+    },
+    {
+      "id": "zhou-wutai",
+      "name": "Zhou Wutai",
+      "realm": "late Nascent Soul",
+      "quote": "[Zhou Wutai, Tetua Sekte Baiyun, Tahap Akhir Jiwa Baru Lahir]",
+      "first": true,
+      "card": 1108.9
+    },
+    {
+      "id": "xu-tao",
+      "name": "Xu Tao",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Read both the official English and the Indonesian fansub."
+  ],
+  "flags": [
+    "Official card calls Qing Song 'Nascent Soul Stage'; Indonesian says Soul Formation, which fits his Intent Realm. Used Soul Formation.",
+    "The first elder with the detachment realm is not carded; taken to be Wen Baoxin from EP55's closing card.",
+    "The official English refers to Shi Qi as an old woman."
+  ]
+}

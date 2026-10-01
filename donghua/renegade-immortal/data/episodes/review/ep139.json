@@ -1,0 +1,53 @@
+{
+  "ep": 139,
+  "title": "Wang Ping",
+  "summary": "Four years later Wang Lin lives as a carpenter in Moonfall Village on Planet Ran Yun, raising Wang Ping, who has lost his past and drinks bitter medicine every day as Liu Mei's cure and Wang Lin's lightning slowly clear the resentment. Sun Tai brings him the record of every Celestial Ascension Fruit in the seventeen clans of Allheaven's Northern Domain, a fruit that can put even a giant beast to sleep for a hundred days, and Wang Lin promises to bury Sun Tai's ashes back in the Alliance. Wang Ping calls him Grandpa Sun and asks him to stay, and the old man settles next door. As the years pass, matchmakers keep chasing Wang Lin, he firmly refuses to let Wang Ping cultivate, and Sun Tai keeps trying to tempt the boy with corpse puppets and secret arts, but Wang Ping will not lie to his father. Living as a mortal makes Wang Lin's Dao heart clearer and his intent of life and death begins to change. After ten years Sun Tai dies at peace, Wang Ping carves his tomb, and after nineteen years in the village Wang Lin leaves to show his grown son the world.",
+  "events": [
+    "Wang Lin lives as a carpenter in Moonfall Village with Wang Ping",
+    "Wang Ping takes daily medicine to clear the resentment",
+    "Sun Tai brings the record of Celestial Ascension Fruits in the Northern Domain",
+    "Wang Ping asks Grandpa Sun to stay; he moves in next door",
+    "Wang Lin refuses to let Wang Ping cultivate; Sun Tai keeps tempting the boy",
+    "Sun Tai dies after ten years and is buried by Wang Ping",
+    "After nineteen years Wang Lin and Wang Ping leave the village"
+  ],
+  "introduced": [
+    "Moonfall Village",
+    "Zhou Dahan",
+    "Celestial Ascension Fruit",
+    "Qilian Peak"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "wang-ping",
+      "name": "Wang Ping",
+      "first": false,
+      "card": 70.2
+    },
+    {
+      "id": "sun-tai",
+      "name": "Sun Tai",
+      "first": false
+    },
+    {
+      "id": "zhou-dahan",
+      "name": "Zhou Dahan",
+      "first": true,
+      "card": 118.0
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles, checked against the AnimeKhor Indonesian fansubs and the Chinese track (落月村 Moonfall Village, 升仙果 Ascension Fruit)."
+  ],
+  "flags": [
+    "Sun Tai has a younger-days card at 16:59 (YouTube timing) in his flashback.",
+    "The village girl who says 'I hate you, Wang Ping' (21:55) is called Ruotong; she is not carded."
+  ]
+}

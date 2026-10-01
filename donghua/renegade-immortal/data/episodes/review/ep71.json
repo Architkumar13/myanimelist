@@ -1,0 +1,82 @@
+{
+  "ep": 71,
+  "title": "The Four Rain Celestial Swords",
+  "summary": "The birth of the Rain Celestial Swords draws two powerful outsiders: Tian Mozi of Planet Tianmo and Ling Tianhou, the Sword Saint of the Da Lou Sword Sect. Sun Tai bluffs about a fourth soul hidden in Zhou Yi's coffin, but Wang Lin calls it a remnant soul and lets him live. Chi Hu's Star Compass is broken, so Wang Lin repairs it, and Chi Hu gives it to him in friendship. The awakened Celestial, who says her name is not really Ting'er, calls out the second and third swords and fights Ling Tianhou and his Scarlet Qilin, breaking his two swords with one finger even though her life force is fading. All-Seer appears, Tian Mozi takes one sword and leaves, and the Celestial's remnant soul thanks Zhou Yi, saying she was born from his obsession, before the fourth sword appears.",
+  "events": [
+    "Tian Mozi and Ling Tianhou sense the Rain Celestial Swords",
+    "Sun Tai's 'fourth soul' threat is exposed as a remnant soul",
+    "Wang Lin repairs the Star Compass and Chi Hu gives it to him",
+    "The Celestial summons the second and third swords",
+    "She overpowers Ling Tianhou and his Scarlet Qilin",
+    "All-Seer appears; Tian Mozi takes one sword",
+    "The Celestial's remnant soul says goodbye to Zhou Yi; the fourth sword appears"
+  ],
+  "introduced": [
+    "Tian Mozi",
+    "Planet Tianmo",
+    "Ling Tianhou",
+    "Scarlet Qilin",
+    "All-Seer",
+    "Rain Celestial Swords"
+  ],
+  "cultivation": "Tian Mozi is mid Nirvana Cleanser; Ling Tianhou is late Nirvana Cleanser.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "tian-mozi",
+      "name": "Tian Mozi",
+      "realm": "mid Nirvana Cleanser",
+      "quote": "Tian Mozi, Nirwana Halus Tahap Tengah, Planet Tianmo",
+      "first": true,
+      "card": 240.28
+    },
+    {
+      "id": "ling-tianhou",
+      "name": "Ling Tianhou",
+      "realm": "late Nirvana Cleanser",
+      "quote": "Pedang Suci Ling Tianhou, Nirvana Halus Tahap Akhir, Sekte Pedang Daluo",
+      "first": true,
+      "card": 251.6
+    },
+    {
+      "id": "all-seer",
+      "name": "All-Seer",
+      "first": false
+    },
+    {
+      "id": "ting-er",
+      "name": "Ting'er",
+      "first": false
+    },
+    {
+      "id": "zhou-yi",
+      "name": "Zhou Yi",
+      "first": false,
+      "card": 633.6
+    },
+    {
+      "id": "sun-tai",
+      "name": "Sun Tai",
+      "first": false
+    },
+    {
+      "id": "chi-hu",
+      "name": "Chi Hu",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Indonesian fansubs read in full; key lines spot-checked against the official English (YouTube), which arrived late.",
+    "'Nirwana Halus' mapped to Nirvana Cleanser (净涅), as the fan wiki gives for both men; 'Tianyun Zi' = All-Seer (天运子)."
+  ],
+  "flags": [
+    "Glossary lists All-Seer's donghua debut as EP104; here a figure says 'Saya Tianyun Zi' (1091). Could be a name-only mention or an avatar.",
+    "1145-1183: who gives the sword away and who takes its spirit is hard to follow (All-Seer, Ling Tianhou or the Celestial).",
+    "1106: 'Bioskop Tian!' is a machine-translation slip."
+  ]
+}

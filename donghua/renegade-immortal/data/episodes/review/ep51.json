@@ -1,0 +1,57 @@
+{
+  "ep": 51,
+  "title": "The Fall of Teng City",
+  "summary": "Teng Huayuan sends the four remaining core members, including Teng Ba with his Blazing Sky Nine Feathers, to hold Wang Lin off for the time it takes an incense stick to burn, and Wang Lin kills them all. Teng Bo, a ninth-generation disciple, rallies the Teng cultivators into a bloodline formation, but Wang Lin shatters it with the divine sense of the dead core members, then breaks the God-Piercing Sword, a Soul Formation-grade weapon the envoy gave Teng Huayuan. Face to face, Teng Huayuan says he wiped out the Wang family because Wang Lin killed his descendant Teng Li, and Wang Lin swears to destroy the Teng clan's foundation before his eyes. Teng Huayuan then reveals that the incense was for a Reversal Formation that sacrifices the city and the Teng bloodline, Teng Bo included, gathering the whole clan's divine sense into a force equal to Soul Formation that cancels Wang Lin's lightning. Wang Lin counters with leftover Soul Formation poison that destroys the souls of the weaker cultivators, and closes in on Teng Huayuan as a voice orders him to stop.",
+  "events": [
+    "Four remaining core members, Teng Ba among them, attack and are killed",
+    "Teng Bo rallies the Teng cultivators into a bloodline formation",
+    "Wang Lin breaks the God-Piercing Sword, the envoy's gift to Teng Huayuan",
+    "Teng Huayuan and Wang Lin face each other over the massacre of the Wang family",
+    "Teng Huayuan's Reversal Formation sacrifices the city and the Teng bloodline, including Teng Bo",
+    "The gathered divine sense cancels Wang Lin's lightning; he answers with Soul Formation poison",
+    "Wang Lin moves in for the kill; someone shouts for him to stop"
+  ],
+  "introduced": [
+    "Teng Ba",
+    "Teng Bo",
+    "Blazing Sky Nine Feathers",
+    "bloodline formation",
+    "God-Piercing Sword",
+    "Reversal Formation",
+    "Teng Li (named)"
+  ],
+  "cultivation": "Teng Bo: late Core Formation. The Teng clan's gathered divine sense is said to equal a Soul Formation cultivator.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "teng-huayuan",
+      "name": "Teng Huayuan",
+      "first": false
+    },
+    {
+      "id": "teng-ba",
+      "name": "Teng Ba",
+      "first": true
+    },
+    {
+      "id": "teng-bo",
+      "name": "Teng Bo",
+      "realm": "late Core Formation",
+      "quote": "[Teng Bo, Murid Generasi Kesembilan dari Keluarga Teng, Formasi Inti Tahap Akhir]",
+      "first": true,
+      "card": 374.6
+    }
+  ],
+  "changes": [
+    "Read both the official English and the Indonesian fansub."
+  ],
+  "flags": [
+    "Teng Bo calls Teng Huayuan 'Dad' at 14:20 but Teng Huayuan calls him Bo'er; whether he is a son or a descendant is unclear.",
+    "Teng Ba is named only through his technique; which of the four attackers he is is not shown in the subtitles."
+  ]
+}

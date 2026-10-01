@@ -1,0 +1,120 @@
+{
+  "ep": 4,
+  "title": "Calamity at Heng Yue",
+  "summary": "Zhou Peng keeps crushing Heng Yue disciples until Wang Lin, looked down on as a registered disciple, enters the ring, reveals level 14 Qi Condensation and destroys his black ink python, forcing him to surrender. A Heng Yue ancestor makes Wang Lin an inner disciple, and Heng Yue wins the contest. Wang Lin visits his parents and gives them a jade bead to crush if they are ever in danger. Then the Xuan Dao Sect's Nascent Soul ancestor Pu Nanzi attacks Heng Yue Peak, announcing that Heng Yue's master and Nascent Soul ancestors have all died on a foreign battlefield. Huang Long burns his own lifespan to stop him and dies. During the chaos Sun Dazhu traps Wang Lin to take his treasure, but Wang Lin has already poisoned him with Three Corpse Cordyceps tea and kills him. Heng Yue Peak is lost, many disciples join the Xuan Dao Sect, and Wang Lin asks Situ Nan to teach him Foundation Establishment.",
+  "events": [
+    "Zhou Peng mocks Heng Yue; Wang Lin fights him and reveals level 14 Qi Condensation",
+    "Zhou Peng surrenders; a Xuan Dao elder stops Wang Lin and a Heng Yue ancestor protects him and makes him an inner disciple",
+    "Wang Lin visits his parents and gives them a jade bead of divine sense",
+    "Pu Nanzi of the Xuan Dao Sect comes to seize Heng Yue Peak; Heng Yue's Nascent Soul ancestors died on the foreign battlefield",
+    "Huang Long burns his lifespan against Pu Nanzi and dies",
+    "Sun Dazhu traps Wang Lin in a Spirit Binding Array; Wang Lin's cordyceps poison turns the tables and he kills him",
+    "Heng Yue Peak passes to the Xuan Dao Sect; many disciples defect",
+    "Four years later Wang Zhuo trains with the Xuan Dao Sect, and Chang Hao blunders into a senior in closed-door cultivation"
+  ],
+  "introduced": [
+    "Pu Nanzi",
+    "Chang Hao",
+    "Spirit Binding Array",
+    "Three Corpse Cordyceps",
+    "Hualing grass",
+    "jade bead of divine sense",
+    "foreign battlefield (mentioned)",
+    "Heng Yue Peak",
+    "Mountain Guard Formation"
+  ],
+  "cultivation": "Wang Lin is revealed at level 14 Qi Condensation (Zhou Peng took him for level 6). Pu Nanzi is a Nascent Soul cultivator. Wang Lin is at the peak of Qi Condensation and asks to learn Foundation Establishment.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "level 14 Qi Condensation",
+      "quote": "How is this possible on the fourteenth level of Qi Condensation?",
+      "first": false
+    },
+    {
+      "id": "zhou-peng",
+      "name": "Zhou Peng",
+      "first": false
+    },
+    {
+      "id": "sun-dazhu",
+      "name": "Sun Dazhu",
+      "quote": "Sun Dazhu",
+      "first": false
+    },
+    {
+      "id": "huang-long",
+      "name": "Huang Long",
+      "first": false
+    },
+    {
+      "id": "pu-nanzi",
+      "name": "Pu Nanzi",
+      "realm": "Nascent Soul",
+      "quote": "Nascent Soul stage (OCR 7:29, as he arrives)",
+      "first": true
+    },
+    {
+      "id": "ouyang",
+      "name": "Ouyang",
+      "first": false
+    },
+    {
+      "id": "zhang-kuang",
+      "name": "Zhang Kuang",
+      "first": false
+    },
+    {
+      "id": "lu-song",
+      "name": "Lu Song",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "li-qiqing",
+      "name": "Li Qiqing",
+      "first": false
+    },
+    {
+      "id": "wang-tianshui",
+      "name": "Wang Tianshui",
+      "first": false
+    },
+    {
+      "id": "wang-lin-mother",
+      "name": "Wang Lin's mother",
+      "first": false
+    },
+    {
+      "id": "wang-zhuo",
+      "name": "Wang Zhuo",
+      "first": false
+    },
+    {
+      "id": "chang-hao",
+      "name": "Chang Hao",
+      "quote": "Chang Hao, a junior disciple of Xuan Dao Sect",
+      "first": true
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Sun Dazhu is named in this episode (15:08). Chang Hao's name comes from the AnimeKhor OCR (15:59); the official line drops it."
+  ],
+  "flags": [
+    "The Heng Yue ancestor who makes Wang Lin an inner disciple is unnamed (the wiki lists Liu Wenju, a Core Formation Heng Yue elder, as debuting in EP4).",
+    "Speaker of 'You can't hold this Hengyuefeng... give it to me, Xuan Dao Sect' (16:23) is unclear: Pu Nanzi or a third party.",
+    "Wang Lin tells his parents an 'Elder Gang' will take him as a white-robed disciple (7:21); this person never appears.",
+    "The ending's 'senior in retreat' is not shown clearly; EP5 picks up with Wang Lin on the road."
+  ]
+}

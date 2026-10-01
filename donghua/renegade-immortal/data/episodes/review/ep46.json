@@ -1,0 +1,76 @@
+{
+  "ep": 46,
+  "title": "Return to Zhao",
+  "summary": "Wang Lin returns to the Heng Yue mountains and the Country of Zhao after 400 years, kneels before his parents' memorial as Tie Zhu and swears the Teng family will pay in blood. At the Wang ancestral home he meets Wang Liaoyi, descended from his fourth uncle Wang Tiantu, and finds that she, like everyone in the capital, has lost her spiritual root. He keeps his old promise to his uncle: he heals her and her dying grandfather, the patriarch Wang Zefu, and sets a Spirit Gathering Formation over the Wang residence. Zhang Kuang of the old Heng Yue Sect recognises him and explains that the Tian Dao Sect captured him and drained his cultivation to make pills, and that the sect is stripping the capital's spiritual roots. Tian Dao elder Lu Shiming arrives to punish him and boasts that the Teng family stands behind the sect, and Wang Lin traps his men in a Six Soul formation, lets Xu Liguo feast, and sets out to destroy the Tian Dao Sect and more.",
+  "events": [
+    "Wang Lin returns to Zhao and swears revenge at his parents' memorial",
+    "He meets Wang Liaoyi, descendant of his fourth uncle",
+    "The capital's people have all lost their spiritual roots",
+    "He heals Wang Zefu and sets a Spirit Gathering Formation over the Wang home",
+    "Zhang Kuang tells him the Tian Dao Sect is behind it",
+    "Lu Shiming threatens him in the Teng family's name; Xu Liguo devours his men",
+    "Wang Lin heads for the Tian Dao Sect"
+  ],
+  "introduced": [
+    "Wang Liaoyi",
+    "Wang Zefu",
+    "Wang Tiantu (mentioned)",
+    "Tian Dao Sect",
+    "Lu Shiming",
+    "Piaomiao Sect (mentioned)",
+    "Spirit Gathering Formation",
+    "Six Soul formation",
+    "spiritual root"
+  ],
+  "cultivation": "Zhang Kuang: Qi Condensation, down from Core Formation after the Tian Dao Sect used him for pills. Lu Shiming: late Core Formation.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "wang-liaoyi",
+      "name": "Wang Liaoyi",
+      "quote": "[Wang Liaoyi, Keturunan Klan Wang]",
+      "first": true,
+      "card": 314.9
+    },
+    {
+      "id": "wang-zefu",
+      "name": "Wang Zefu",
+      "quote": "[Wang Zefu, Patriark Klan Wang]",
+      "first": true,
+      "card": 620.6
+    },
+    {
+      "id": "zhang-kuang",
+      "name": "Zhang Kuang",
+      "realm": "Qi Condensation",
+      "quote": "[Zhang Kuang, Murid Sekte Tiandao, Tahap Kondensasi Qi]",
+      "first": false,
+      "card": 796.2
+    },
+    {
+      "id": "lu-shiming",
+      "name": "Lu Shiming",
+      "realm": "late Core Formation",
+      "quote": "[Lu Shiming, Tetua Sekte Tiandao, Formasi Inti Tahap Akhir]",
+      "first": true,
+      "card": 928.6
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Official English calls her 'Wang Lieyi' and the ancestor 'Wang Tianshi'; Indonesian gives Wang Liaoyi and Wang Tiantu."
+  ],
+  "flags": [
+    "Zhang Kuang's debut: not his first appearance if he is the Heng Yue disciple of the early episodes (glossary lists him without an episode).",
+    "Wang Lin's own realm is not stated this episode."
+  ]
+}

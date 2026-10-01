@@ -1,0 +1,89 @@
+{
+  "ep": 154,
+  "title": "Call Wind",
+  "summary": "The guardians stop the fight; Chen of the Chen family invites Xu Mu to become an honorary elder, and the guardians open the Collection Pavilion together, though privately they plan to use him and expect a Corporeal Yang to reach no higher than its fourth level. Wang Lin climbs past the eighth level, as high as the four ancestors who sealed it, to the ninth, but finds only an empty painting until he steps inside it. In the painting he sees the pavilion's opening in the old Thunder Celestial Realm: the Ninth Grade Immortal King Xiaoyao Zi paints a tree, Immortal Emperor Bai Fan watches, and Bai Fan's disciple Qing Shui says the tree lacks wind, so Bai Fan seals his first immortal art, Call Wind, into the painting for a fated heir. Wang Lin learns what wind is, from the breeze on green leaves to a force that tears flesh and soul, and comes out with Call Wind. When the guardians attack to seize it, he kills them with Call Wind, using two of their Nascent Souls to make up his origin power, then absorbs the pavilion's core seal and takes the whole Collection Pavilion. Leaving the guardians' bodies as a gift to the four families, he and Li Yuan watch Lu Hecheng and Chen Pingnian find the pavilion gone, and they head for the Immortal Gate in the west to leave the realm.",
+  "events": [
+    "Chen of the Chen family invites Xu Mu to be an honorary elder and the pavilion is opened",
+    "Wang Lin climbs to the ninth level of the Collection Pavilion",
+    "He enters the painting and sees Xiaoyao Zi, Bai Fan and Qing Shui at the pavilion's opening",
+    "Bai Fan seals the immortal art Call Wind into the painting",
+    "Wang Lin learns Call Wind and kills the guardians who attack him",
+    "He absorbs the pavilion's core seal and takes the Collection Pavilion",
+    "The four families find the pavilion gone; Wang Lin and Li Yuan head for the western Immortal Gate"
+  ],
+  "introduced": [
+    "Chen family of Allheaven",
+    "Xiaoyao Zi (Celestial King Carefree)",
+    "Bai Fan",
+    "Qing Shui",
+    "Call Wind (immortal art)",
+    "Lu Hecheng",
+    "Chen Pingnian",
+    "Lu family",
+    "Western Plains of the Thunder Celestial Realm"
+  ],
+  "cultivation": "Bai Fan: Immortal Emperor of the Thunder Celestial Realm, early Nirvana Void. Qing Shui: Immortal Lord, peak Nirvana Shatterer. Xiaoyao Zi: Ninth Grade Immortal King. Lu Hecheng and Chen Pingnian: Illusory Yin. A Corporeal Yang cultivator is expected to reach the fourth level of the pavilion; Wang Lin reaches the ninth.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "li-yuan",
+      "name": "Li Yuan",
+      "first": false
+    },
+    {
+      "id": "celestial-king-carefree",
+      "name": "Xiaoyao Zi (Celestial King Carefree)",
+      "realm": "Ninth Grade Immortal King",
+      "quote": "[Xiaoyao Zi, Raja Abadi Tingkat Kesembilan]",
+      "first": true,
+      "card": 479.17
+    },
+    {
+      "id": "bai-fan",
+      "name": "Bai Fan",
+      "realm": "early Nirvana Void",
+      "quote": "[Baifan, Kaisar Abadi Alam Abadi Petir, Awal Nirvana Void]",
+      "first": true,
+      "card": 554.19
+    },
+    {
+      "id": "qing-shui",
+      "name": "Qing Shui",
+      "realm": "peak Nirvana Shatterer",
+      "quote": "[Qing Shui, Penguasa Abadi Alam Petir Abadi, Penghancur Puncak Nirvana]",
+      "first": true,
+      "card": 571.86
+    },
+    {
+      "id": "lu-hecheng",
+      "name": "Lu Hecheng",
+      "realm": "Illusory Yin",
+      "quote": "[Lu Hecheng, Penggarap Klan Lu, Yin Ilusi]",
+      "first": true,
+      "card": 926.9
+    },
+    {
+      "id": "chen-pingnian",
+      "name": "Chen Pingnian",
+      "realm": "Illusory Yin",
+      "quote": "[Cheng Pingnian, Kultivator Klan Chen, Yin Ilusi]",
+      "first": true,
+      "card": 928.19
+    }
+  ],
+  "changes": [
+    "Only the Indonesian AnimeKhor track was available (no official English or Chinese yet).",
+    "Celestial King Carefree is the glossary title for Xiaoyao Zi (逍遥子); 'Pemanggilan Angin' = Call Wind."
+  ],
+  "flags": [
+    "Bai Fan's card reads 'Awal Nirvana Void / Awal Kekosongan Nirvana' (early Nirvana Void), a realm far above anything seen so far; worth checking against the Chinese when it arrives.",
+    "Card 928: 'Cheng Pingnian'; glossary 'Chen Pingnian'.",
+    "Which guardians die and whether one survives is not fully clear; at 987 Li Yuan says all the four families' guardian elders at the pavilion are dead.",
+    "221-232: one guardian says a Corporeal Yang will reach the fourth level, another mentions an 'Eighth Grade Immortal' reaching the fourth layer; garbled."
+  ]
+}

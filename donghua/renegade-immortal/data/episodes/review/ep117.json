@@ -1,0 +1,77 @@
+{
+  "ep": 117,
+  "title": "The Emperor Sword",
+  "summary": "Inside Hong Prison, Wang Lin's clone kills the condemned prisoners for five days but gains only useless death qi, not killing intent. The prison head Xu Huichuan offers him a real path of slaughter if he will later kill a Demon General for him, and leads him to the Slaughter Blood Pool, where the Demon Emperor nurtures the Emperor Sword on the blood mist of prisoners forced to fight each other forever. Watching how the sword turns death into life, Wang Lin understands that the Slaughter Immortal Art is really a Dao of life and death in cycle, and he breaks out with killing intent and his Life Seal, even holding off the Emperor Sword's attack. The enraged sword flies through Sky Demon City, alarming Mo Fei and the Da Lou Sword Sect disciples Kang Ni and Wei Yang at the Sword Pavilion. Xu Huichuan hurries Wang Lin out and away, and in hiding Wang Lin finishes refining 3,792 strands of killing intent.",
+  "events": [
+    "Wang Lin kills Hong Prison's prisoners but gets only death qi",
+    "Xu Huichuan offers him the path of slaughter in exchange for killing a Demon General",
+    "He enters the Slaughter Blood Pool where the Emperor Sword is nurtured",
+    "He grasps that the Slaughter Immortal Art is a cycle of life and death",
+    "He breaks free with killing intent and blocks the Emperor Sword with his Life Seal",
+    "The angry Emperor Sword flies over the city; Mo Fei and the Da Lou Sword disciples notice",
+    "Wang Lin hides and finishes 3,792 strands of killing intent"
+  ],
+  "introduced": [
+    "Slaughter Blood Pool",
+    "Emperor Sword",
+    "Sword Pavilion",
+    "Kang Ni",
+    "Wei Yang",
+    "Life Seal",
+    "Slaughter Heart"
+  ],
+  "cultivation": "Kang Ni and Wei Yang: late Soul Transformation. Mo Fei: great perfection Soul Transformation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "xu-huichuan",
+      "name": "Xu Huichuan",
+      "first": false
+    },
+    {
+      "id": "emperor-sword-spirit",
+      "name": "Emperor Sword Spirit",
+      "quote": "[Pedang Kaisar]",
+      "first": true,
+      "card": 793
+    },
+    {
+      "id": "kang-ni",
+      "name": "Kang Ni",
+      "realm": "late Soul Transformation",
+      "quote": "[Kang Ni, Murid Sekte Pedang Daluo, Tahap Transformasi Jiwa Akhir]",
+      "first": true,
+      "card": 823
+    },
+    {
+      "id": "wei-yang",
+      "name": "Wei Yang",
+      "realm": "late Soul Transformation",
+      "quote": "[Wei Yang, Murid Sekte Pedang Daluo, Tahap Transformasi Jiwa Akhir]",
+      "first": true,
+      "card": 823
+    },
+    {
+      "id": "mo-fei",
+      "name": "Mo Fei",
+      "realm": "great perfection Soul Transformation",
+      "quote": "[Mo Fei, Jenderal Iblis, Transformasi Jiwa Lingkaran Besar]",
+      "first": true,
+      "card": 829
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep117.id.srt) and its caption cards; the YouTube English track for this episode is machine-made and garbled, used only for cross-checks."
+  ],
+  "flags": [
+    "Xu Huichuan's target is called Demon General 'Shi Yan' (207s); probably a slip for Shi Xiao.",
+    "'Kang Ni' is the card spelling (823s); the glossary has no Kang Ni, but lists Hai Zhu (亥猪) as debuting in EP117, possibly the same person.",
+    "Who leads Wang Lin to a hiding place (907s, 'Ikuti aku') and who says 'it really is him' (915s) is not clear.",
+    "At the Slaughter Blood Pool someone trapped begs 'save me' (777s); unnamed."
+  ]
+}

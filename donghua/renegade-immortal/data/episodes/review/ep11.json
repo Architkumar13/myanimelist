@@ -1,0 +1,64 @@
+{
+  "ep": 11,
+  "title": "Body Destroyed",
+  "summary": "When the Cassia Valley deadline expires, only one of seven tokens remains and word spreads that one person took them all. Wang Lin appears before the gathered Nascent Soul ancestors and challenges Teng Huayuan, using the illusion bead to pass himself off as a mid Nascent Soul expert. He fights with illusions, Blue Ice Flash and a replica flying sword, then breaks open the Soul Flag to reach his parents' souls, but Teng Huayuan seals him in and lets the souls gnaw at him. Wang Lin destroys the last token so that no Zhao sect can enter the foreign battlefield for another five hundred years. As his body is destroyed he looks back on Heng Yue, Zhang Hu and the Wang family, asking whether weakness is the original sin. Situ Nan wakes, uses the last of his soul power to send Wang Lin's last thread of consciousness into the foreign battlefield, and falls asleep again. There, a troll-race expert at Soul Transformation and other cultivators scavenge among dangerous space rifts.",
+  "events": [
+    "The valley closes; one person has taken all the tokens",
+    "Wang Lin confronts Teng Huayuan, using the illusion bead to appear as mid Nascent Soul",
+    "Illusions, Blue Ice Flash and a replica sword; Wang Lin cuts off his own hand to contain an explosion",
+    "Wang Lin reaches his parents in the Soul Flag and is trapped",
+    "All seven tokens are destroyed, closing the foreign battlefield to Zhao for 500 years",
+    "Wang Lin's body is destroyed; Situ Nan uses his last power to save his consciousness",
+    "Inside the foreign battlefield: troll armour, a space rift, and a Soul Transformation troll"
+  ],
+  "introduced": [
+    "Blue Ice Flash",
+    "space rift",
+    "troll race",
+    "Qinglong Palace (mentioned)"
+  ],
+  "cultivation": "Teng Huayuan calls Wang Lin early Foundation Establishment. Teng Huayuan is a Nascent Soul ancestor. The trolls are said to take human form only at Soul Transformation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "early Foundation Establishment",
+      "quote": "It's just the initial stage of building a small foundation",
+      "first": false
+    },
+    {
+      "id": "teng-huayuan",
+      "name": "Teng Huayuan",
+      "first": false
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    },
+    {
+      "id": "ye-zizai",
+      "name": "Ye Zizai",
+      "first": false
+    },
+    {
+      "id": "wang-tianshui",
+      "name": "Wang Tianshui",
+      "first": false
+    },
+    {
+      "id": "wang-lin-mother",
+      "name": "Wang Lin's mother",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Checked against the AnimeKhor Indonesian subs."
+  ],
+  "flags": [
+    "Who cuts off whose right hand (9:29-9:41) reads as Wang Lin cutting off his own to stop an explosion spreading; worth confirming on video.",
+    "The 'Middle Nascent Soul' aura (6:01) is the illusion bead, as the ancestors soon call it an illusion.",
+    "The two cultivators with troll armour (15:27) may be Ma Liang and Zhou Zihong (the wiki lists Ma Liang's debut as EP11); not named here."
+  ]
+}

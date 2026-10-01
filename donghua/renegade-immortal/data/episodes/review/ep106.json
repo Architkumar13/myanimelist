@@ -1,0 +1,95 @@
+{
+  "ep": 106,
+  "title": "Tian Yunzi's Lecture",
+  "summary": "At the birthday banquet, Wang Lin kills Zhou Wan, who provokes him a second time, and then faces Zhao Xingsha. Zhao Xinmeng refuses to help, saying her debt is paid, and Zhao Xingsha unleashes a Demon Spirit that Tian Yunzi himself planted in his body, and Wang Lin answers with the God Slaying War Chariot. Chi Lie stops the fight, and on Tian Yunzi's word Zhao Xingsha is barred from the title contest. Zhao Xinmeng gives Wang Lin a jade with the Great Teleportation movement art and the forbidden Nine Revolution Immortal Refining Law, which turns his immortal energy into golden immortal energy. At the lecture on the Sacred Altar, Cultivation Alliance envoy Sun Zhongan brings a gift, and Tian Yunzi explains the three steps of cultivation, answering Wang Lin's question about the word 'Dao' and saying he once saw someone who had reached the third step. Three days later the Sword Saint Ling Tianhou bursts in, and Tian Yunzi uses him as the target for a mid-grade Immortal Summoning Art that carries his disciples away, an art Wang Lin's golden energy resists. Ling Tianhou demands they meet at the Demon Spirit Gate of the East Sea in three months, and Tian Yunzi opens the title contest for the Yellow and Purple branches.",
+  "events": [
+    "Wang Lin kills Zhou Wan at the banquet",
+    "Zhao Xingsha uses the Demon Spirit in his body; Wang Lin answers with the God Slaying War Chariot",
+    "Chi Lie stops the fight and Zhao Xingsha is barred from the contest",
+    "Zhao Xinmeng gives Wang Lin a movement art and the Nine Revolution Immortal Refining Law",
+    "Sun Zhongan of the Cultivation Alliance arrives with gifts for the lecture",
+    "Tian Yunzi lectures on the three steps and answers Wang Lin about cultivating the Dao",
+    "Ling Tianhou arrives and Tian Yunzi sends his disciples away with the Immortal Summoning Art",
+    "Ling Tianhou names the East Sea Demon Spirit Gate; the title contest opens"
+  ],
+  "introduced": [
+    "Demon Spirit",
+    "Unbound Law of Heaven and Earth",
+    "Great Teleportation technique",
+    "Nine Revolution Immortal Refining Law",
+    "Golden immortal energy",
+    "Sacred Altar",
+    "Sun Zhongan",
+    "Kunpeng Zi",
+    "Star-marked Mink",
+    "Ling Tianhou (on screen)",
+    "Immortal Summoning Art",
+    "Immortal Realm Envoy",
+    "Demon Spirit Gate of the East Sea",
+    "Three steps of cultivation"
+  ],
+  "cultivation": "The Purple Branch disciples at the lecture range from late Soul Transformation to half-step Ascendant. Tian Yunzi says the first step runs from Qi Condensation to Ascendant, the second passes Illusory Yin and Corporeal Yang to Nirvana Scryer, and the third is the true Dao. Wang Lin refines his energy to three revolutions.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "zhou-wan",
+      "name": "Zhou Wan",
+      "first": false
+    },
+    {
+      "id": "zhao-xingsha",
+      "name": "Zhao Xingsha",
+      "first": false
+    },
+    {
+      "id": "zhao-xinmeng",
+      "name": "Zhao Xinmeng",
+      "first": false
+    },
+    {
+      "id": "chi-lie",
+      "name": "Chi Lie",
+      "first": false
+    },
+    {
+      "id": "all-seer",
+      "name": "All-Seer",
+      "first": false,
+      "shownAs": "All-Seer (Tian Yunzi)"
+    },
+    {
+      "id": "sun-zhongan",
+      "name": "Sun Zhongan",
+      "quote": "[Sun Zhongan, Utusan Aliansi Kultivasi]",
+      "first": true,
+      "card": 677.0
+    },
+    {
+      "id": "kunpeng-zi",
+      "name": "Kunpeng Zi",
+      "first": true
+    },
+    {
+      "id": "ling-tianhou",
+      "name": "Ling Tianhou",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep106.id.srt) with its name cards; card times are from that file.",
+    "Official YouTube English was checked alongside the Indonesian fansub for names and story beats; its realm names are unreliable (it says 'Nascent Soul' for Soul Transformation), so the Indonesian cards were used for realms.",
+    "Naming follows the earlier reviews and glossary: Planet Suzaku, Suzaku Tomb, Zhu Quezi, Yun Quezi, Hongdie, Forsaken Immortal Clan, Cultivation Planet Crystal (subs: Star Cultivation/Star Refining Crystal).",
+    "The killed disciple is read as Zhou Wan (the fan wiki says Wang Lin killed him and sealed his soul)."
+  ],
+  "flags": [
+    "Who Wang Lin kills at 99-187s is not named in the subtitles; Zhou Wan is inferred.",
+    "The Indonesian 'Star Treading Fox' (704s) is a Star-marked Mink in the official English.",
+    "Who gives the jade with the movement art (459-480s) is read as Zhao Xinmeng, who promised the art in EP105.",
+    "Who Sun Zhongan's sword goes to: Kunpeng Zi thanks him as 'Master' (696s), which may be a slip."
+  ]
+}

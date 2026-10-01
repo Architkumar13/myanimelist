@@ -1,0 +1,74 @@
+{
+  "ep": 89,
+  "title": "The Fall of the Snow Domain",
+  "summary": "Wang Lin storms the Snow God Temple of the Snow Domain. With his real body and clone now fused, he faces Li Yuanfeng, who sends his people a thousand miles away and attacks with the Soul-Draining Drum and his Tea Intent Domain. Wang Lin learns from Li Yuanfeng's Intent and pours Ancient God power into his own, so that his Life and Death Intent rises to the Soul Transformation level. Li Yuanfeng threatens to blow himself up and then gives up his life to spare the Snow Domain. Wang Lin takes his Soul Transformation spirit, seals the cultivation of the survivors, and bans cultivators above Soul Formation and all sects from the land, so the country falls from level 5 to level 3. Yun Quezi and Zhou Wutai watch, and Yun Quezi sends Zhou Wutai to deal with Liu Mei. Back at the Soul Refining Sect, Dun Tian's messenger Ouyang Tian brings Wang Lin a jade slip that counters the Giant Demon Clan's teleportation and a sub-flag of the Billion Soul Flag that holds twelve purple-gold souls, and Wang Lin sets out for the Giant Demon Clan ancestor.",
+  "events": [
+    "Wang Lin breaks into the Snow God Temple and confronts Li Yuanfeng",
+    "Li Yuanfeng uses the Soul-Draining Drum and his Tea Intent Domain",
+    "Wang Lin adds Ancient God power to his Life and Death Intent, which reaches Soul Transformation level",
+    "Li Yuanfeng gives his life; Wang Lin takes his spirit and seals the Snow Domain",
+    "Yun Quezi and Zhou Wutai discuss Wang Lin, Qian Feng, Liu Mei and the Suzaku succession",
+    "Wang Lin asks the dormant Situ Nan about immortal power and decides to fight the Giant Demon ancestor",
+    "Ouyang Tian delivers Dun Tian's anti-teleport jade slip and a Billion Soul Flag sub-flag"
+  ],
+  "introduced": [
+    "Snow God Temple",
+    "Soul-Draining Drum",
+    "Zhou Wutai (as Yun Quezi's candidate)",
+    "Ouyang Tian",
+    "Billion Soul Flag sub-flag",
+    "Zi Xin (named)"
+  ],
+  "cultivation": "Wang Lin's fused body is at late Soul Formation, and his Life and Death Intent reaches Soul Transformation level. Li Yuanfeng's cultivation falls to Nascent Soul before he dies. Zhou Wutai is at mid Soul Formation. The Snow Domain drops from a level 5 to a level 3 cultivation country.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "late Soul Formation",
+      "quote": "Setelah bertahun-tahun... Anda telah mencapai Tahap Transformasi Dewa Akhir?",
+      "first": false
+    },
+    {
+      "id": "li-yuanfeng",
+      "name": "Li Yuanfeng",
+      "first": false
+    },
+    {
+      "id": "yun-quezi",
+      "name": "Yun Quezi",
+      "first": false
+    },
+    {
+      "id": "zhou-wutai",
+      "name": "Zhou Wutai",
+      "realm": "mid Soul Formation",
+      "quote": "[Zhou Wutai, Transformasi Dewa Tahap Tengah]",
+      "first": false,
+      "card": 785.15
+    },
+    {
+      "id": "situ-nan",
+      "name": "Situ Nan",
+      "first": false
+    },
+    {
+      "id": "ouyang-tian",
+      "name": "Ouyang Tian",
+      "first": true
+    },
+    {
+      "id": "qian-feng",
+      "name": "Qian Feng",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Only the AnimeKhor Indonesian fansub (ep89.id.srt) was available; no official YouTube en/zh track for this episode yet."
+  ],
+  "flags": [
+    "The speaker with Zhou Wutai (774-876s) is taken to be Yun Quezi from context (the bet with his senior brother, twelve years left of a thousand-year penance).",
+    "The speaker at 908-918s who calls Li Yuanfeng trash is not shown clearly; probably Qian Feng.",
+    "'Li Yuanfeng hanyalah sampah... dibunuh' (896-901s) confirms that Li Yuanfeng died, although at 742s Wang Lin says he will not kill them all."
+  ]
+}

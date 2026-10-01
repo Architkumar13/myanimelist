@@ -1,0 +1,88 @@
+{
+  "ep": 74,
+  "title": "Wan'er's Fading Life",
+  "summary": "Revealed at the Cloud Sky Sect as Zeng Niu, Wang Lin kills Zhan Bai and his insect beast. He learns that Li Muwan's three failed Nascent Soul attempts and overuse of magic have used up her lifespan, and only forming a Nascent Soul can save her. He leaves the sect to Liu Fei and Song Qing, and has the disciples' memories of Zeng Niu wiped. He brings Wan'er to a cold, gloomy gorge on the Chu border and sets down Zhou Yi's pagoda to hold back the death energy in her body. He gives her the pill recipes and tells her about the Celestial Realm, and she hands him the sect's soul blood in case she dies. Learning that a grade-six Origin Recovery Pill recipe will be auctioned in the Sea of Devils, he takes her to their old cave at the Fighting Evil Sect, lifts the whole mountain to show it survived, feeds his Thunder Toad, and goes to the auction, where Gongsun Fan and Zi Xin are among the bidders.",
+  "events": [
+    "Wang Lin kills Zhan Bai",
+    "Liu Fei explains Li Muwan's lifespan is nearly gone",
+    "Wang Lin hands the Cloud Sky Sect to Liu Fei and Song Qing; Lu Fei and Tie Yan follow him",
+    "He sets Zhou Yi's pagoda in a cold gorge to suppress Wan'er's death energy",
+    "They visit their old cave at the Fighting Evil Sect in the Sea of Devils",
+    "Wang Lin feeds old pills to the wounded Thunder Toad",
+    "At the auction house he sees Gongsun Fan and Zi Xin"
+  ],
+  "introduced": [
+    "Origin Recovery Pill (grade six)",
+    "Gongsun Fan",
+    "Zi Xin",
+    "death energy"
+  ],
+  "cultivation": "Li Muwan has failed three times to form a Nascent Soul. Gongsun Fan is mid Soul Formation; Zi Xin is mid Nascent Soul.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "zhan-bai",
+      "name": "Zhan Bai",
+      "first": false
+    },
+    {
+      "id": "liu-fei",
+      "name": "Liu Fei",
+      "first": false
+    },
+    {
+      "id": "song-qing",
+      "name": "Song Qing",
+      "first": false
+    },
+    {
+      "id": "lu-fei",
+      "name": "Lu Fei",
+      "first": false
+    },
+    {
+      "id": "tie-yan",
+      "name": "Tie Yan",
+      "first": true
+    },
+    {
+      "id": "thunder-toad",
+      "name": "Thunder Toad",
+      "first": false
+    },
+    {
+      "id": "gongsun-fan",
+      "name": "Gongsun Fan",
+      "realm": "mid Soul Formation",
+      "quote": "Gongsun Fan, Transformasi Dewa Tingkat Menengah",
+      "first": true,
+      "card": 1304.1
+    },
+    {
+      "id": "zi-xin",
+      "name": "Zi Xin",
+      "realm": "mid Nascent Soul",
+      "quote": "Zhi Xin, Jiwa Baru Lahir Tingkat Menengah",
+      "first": true,
+      "card": 1304.1
+    }
+  ],
+  "changes": [
+    "Indonesian fansubs read in full; key lines spot-checked against the official English (YouTube), which arrived late.",
+    "'Sekte Douxie' = Fighting Evil Sect; card 'Zhi Xin' = Zi Xin (紫芯); the pill is 'Pil Pengembalian Inti/Pemulihan Asal', written Origin Recovery Pill."
+  ],
+  "flags": [
+    "Tie Yan's first on-screen appearance may be earlier; glossary gives no debut.",
+    "571-575: Wang Lin compares Wan'er with Wang Zhuo, whom he once helped reincarnate."
+  ]
+}

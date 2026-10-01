@@ -1,0 +1,90 @@
+{
+  "ep": 22,
+  "title": "The Hundred-Day Kill Order",
+  "summary": "Wang Lin hunts down the Fighting Evil Sect elders one after another. Their Great Elder, Qian Kun, runs to a branch held by Mu Nan and Mu Bei and, before he dies, opens the Ten Thousand Devils Hundred-Day Kill Order. It is one of only ten such orders left in the Sea of Devils: whoever kills the marked person takes their whole cultivation, and if the marked person survives a hundred days, they gain the opener's cultivation instead. Wang Lin makes Mu Nan and Mu Bei guide him to the sect's headquarters, and on the way he crushes Shangguan Mo, the so-called Black Devil, who begs to become his disciple and hands over his soul blood. Core Formation hunters drawn by the kill mark gather around him. One of them, Xue Ming, a former Great Elder of the Fighting Evil Sect, raises his allies to late Core Formation with the Ten Thousand Blood Demon Formation. Wang Lin realises the formation runs on death energy, finds its eye and breaks it, and lets Xu Liguo feast on the souls of the dead.",
+  "events": [
+    "Wang Lin kills the fleeing Fighting Evil Sect elders one by one",
+    "Qian Kun reaches Mu Nan and Mu Bei, opens the Hundred-Day Kill Order on Wang Lin and dies",
+    "Mu Nan and Mu Bei are made to guide Wang Lin to the sect headquarters, whose leader is at peak late Core Formation",
+    "Shangguan Mo, the 'Black Devil', is beaten, submits as a disciple and gives up his soul blood",
+    "Core Formation hunters gather; Wang Lin kills those who stay past three breaths",
+    "Xue Ming's Ten Thousand Blood Demon Formation lifts its users from mid to late Core Formation",
+    "Wang Lin breaks the formation and lets Xu Liguo devour the souls"
+  ],
+  "introduced": [
+    "Qian Kun",
+    "Mu Nan",
+    "Mu Bei",
+    "Shangguan Mo",
+    "Xue Ming",
+    "Old Ouyang",
+    "Zhu Kun",
+    "Ten Thousand Devils Hundred-Day Kill Order",
+    "Ten Thousand Blood Demon Formation"
+  ],
+  "cultivation": "Wang Lin is at early Core Formation. The Fighting Evil Sect leader is at late Core Formation, at its peak and close to breaking through. Xue Ming is at mid Core Formation; his blood formation raises its users to late Core Formation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "early Core Formation",
+      "quote": "He is just in the early stage of forming a pill",
+      "first": false
+    },
+    {
+      "id": "qian-kun",
+      "name": "Qian Kun",
+      "first": false
+    },
+    {
+      "id": "mu-nan",
+      "name": "Mu Nan",
+      "first": true
+    },
+    {
+      "id": "mu-bei",
+      "name": "Mu Bei",
+      "first": true
+    },
+    {
+      "id": "shangguan-mo",
+      "name": "Shangguan Mo",
+      "first": true
+    },
+    {
+      "id": "xue-ming",
+      "name": "Xue Ming",
+      "first": true
+    },
+    {
+      "id": "old-ouyang",
+      "name": "Old Ouyang",
+      "first": true
+    },
+    {
+      "id": "zhu-kun",
+      "name": "Zhu Kun",
+      "first": true
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles (machine-translated) checked against the AnimeKhor Indonesian fansubs; no Chinese track for this episode.",
+    "'blood inscription' (14:26) = Xue Ming (血铭); 'Zhu will never get involved' = Zhu Kun; the wiki lists Xue Ming, Old Ouyang and Zhu Kun as EP22 debuts.",
+    "Qian Kun's name is given in EP23 ('Great Elder Qian Kun provoked you')."
+  ],
+  "flags": [
+    "Who is speaking in the Xue Ming / Ouyang exchange (14:53-15:26) is unclear, and so is whether Ouyang dies here.",
+    "07:40 'Killing Tengli back then' is probably a garbled reference to Wang Lin's earlier killing of a Teng."
+  ]
+}

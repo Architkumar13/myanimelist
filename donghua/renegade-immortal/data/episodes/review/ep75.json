@@ -1,0 +1,76 @@
+{
+  "ep": 75,
+  "title": "The Grade-Six Recipe",
+  "summary": "At the Weapon Refining Pavilion auction Wang Lin meets Sun Dian, the pavilion master, who is now weaker than him although Wang Lin was only Core Formation when they met two centuries ago, and an old acquaintance, Qiu. He bids a snow-meridian puppet carving for the grade-six Origin Recovery Pill recipe, but someone outbids him. The winner, Zi Xin of the Piaomiao Sect, lures him aside and asks him to find her father, lost in a celestial ruin; Wang Lin just copies the recipe and pays her twenty thousand spirit stones' worth. The recipe needs 137 ingredients, many extinct. He sets the Cloud Sky alchemists working on substitutes and takes the rest himself: a Tuoluo Lotus in Julu, treasures from several sects, and finally Ghost Soul Grass from the Yinyang Sect, guarded by a late Soul Formation elder. He returns just as Wan'er is about to fail.",
+  "events": [
+    "Sun Dian, master of the Weapon Refining Pavilion, recognises Wang Lin",
+    "Wang Lin offers a Snow Region puppet carving in the bidding for the grade-six recipe",
+    "Zi Xin asks him to find her lost father; he copies the recipe instead",
+    "Cloud Sky Sect alchemists search for substitutes for 137 ingredients",
+    "Wang Lin seizes a Tuoluo Lotus in Julu and raids several sects",
+    "He takes Ghost Soul Grass from the Yinyang Sect",
+    "He returns as Wan'er weakens and the pill refining begins"
+  ],
+  "introduced": [
+    "Sun Dian",
+    "Yun Meng",
+    "Weapon Refining Pavilion",
+    "Piaomiao Sect",
+    "Tuoluo Lotus",
+    "Ghost Soul Grass",
+    "Yinyang Sect"
+  ],
+  "cultivation": "Sun Dian is mid Soul Formation. A Tianfan Sect elder is early Soul Formation; a Yinyang Sect protector elder is late Soul Formation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "sun-dian",
+      "name": "Sun Dian",
+      "realm": "mid Soul Formation",
+      "quote": "Sun Dian, Master Paviliun Pemurnian Senjata, Transformasi Dewa Tahap Tengah",
+      "first": true,
+      "card": 201.8
+    },
+    {
+      "id": "yun-meng",
+      "name": "Yun Meng",
+      "first": true,
+      "card": 198.2
+    },
+    {
+      "id": "qiu-siping",
+      "name": "Qiu Siping",
+      "first": false
+    },
+    {
+      "id": "zi-xin",
+      "name": "Zi Xin",
+      "first": false
+    },
+    {
+      "id": "gongsun-fan",
+      "name": "Gongsun Fan",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Indonesian fansubs read in full; key lines spot-checked against the official English (YouTube), which arrived late.",
+    "'Rekan Taois Qiu' identified as Qiu Siping (fan wiki notes this auction scene)."
+  ],
+  "flags": [
+    "497-499: official English has 'My lady... 30,000', so a woman (read as Zi Xin) outbids the 20,000 offer for Wang Lin's puppet.",
+    "564-575: 'you have just reached Soul Formation and are not yet stable' is aimed at Gongsun Fan or Zi Xin; unclear.",
+    "617-621: Zi Xin's lost father's ruin is called 'Lembah Sunyi Sembilan Hantu'; in EP77 it is the Land of the Forsaken Immortals.",
+    "1227: the end card is a preview line for EP76."
+  ]
+}

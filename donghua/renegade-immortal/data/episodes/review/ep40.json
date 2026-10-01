@@ -1,0 +1,71 @@
+{
+  "ep": 40,
+  "title": "Reunion with Li Muwan",
+  "summary": "Two months on, Wang Lin's clone has blown up five pill furnaces while learning alchemy, and on his way to the South Garden he meets Cheng Xian, a cheerful outer disciple who begs for an introduction to Cheng Ling. He learns that Zhou Lin's master, Elder Li of the South Garden, is one of the Cloud Sky Sect's three rank 5 alchemists and was once of the Luohe Sect, and she is Li Muwan, now at early Core Formation. After 200 years and without Ma Liang's face she does not recognise him, though his voice stirs her and she gives him a sturdier furnace; Sun Zhenwei presses her to accept a marriage the founding ancestor has arranged. Cheng Ling humiliates Cheng Xian and nearly kills him, and Wang Lin's clone reaches Foundation Establishment, then late Foundation, with a Foundation pill recipe from Cheng Xian. When Cheng Xian's spirit ape staggers back dead, its core ripped out, Wang Lin decides to save him and calls his main body to merge.",
+  "events": [
+    "The clone keeps blowing up pill furnaces",
+    "Cheng Xian befriends him and asks for help with Cheng Ling",
+    "Wang Lin meets Elder Li of the South Garden: Li Muwan",
+    "Li Muwan half recognises his voice; her soul blood does not react",
+    "Sun Zhenwei presses Li Muwan about their arranged marriage",
+    "Cheng Ling nearly kills Cheng Xian",
+    "The clone reaches late Foundation Establishment",
+    "Cheng Xian's spirit ape returns dead; Wang Lin goes to save him"
+  ],
+  "introduced": [
+    "Cheng Xian",
+    "South Garden",
+    "Big Ape and Second Ape (Cheng Xian's spirit apes)",
+    "Luohe Sect (mentioned)",
+    "Foundation Establishment pill"
+  ],
+  "cultivation": "Clone: level 8 Qi Condensation, then Foundation Establishment, then late Foundation Establishment. Cheng Xian: early Foundation Establishment. Li Muwan: early Core Formation, rank 5 alchemist.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "clone: level 8 Qi Condensation, then late Foundation Establishment",
+      "quote": "[Badan Klon Wang Lin, Tahap Akhir Pendirian Yayasan]",
+      "first": false,
+      "card": 1108.8
+    },
+    {
+      "id": "cheng-xian",
+      "name": "Cheng Xian",
+      "realm": "early Foundation Establishment",
+      "quote": "[Cheng Xian, Murid Sekte Yuntian, Tahap Awal Pendirian Yayasan]",
+      "first": true,
+      "card": 337.3
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "realm": "early Core Formation",
+      "quote": "[Li Muwan, Penatua Sekte Yuntian, Tahap Awal Pembentukan Inti]",
+      "first": false,
+      "card": 455.8
+    },
+    {
+      "id": "sun-zhenwei",
+      "name": "Sun Zhenwei",
+      "first": false
+    },
+    {
+      "id": "cheng-ling",
+      "name": "Cheng Ling",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "'Huofen' = Hou Fen, the country Li Muwan's old Luohe Sect is in."
+  ],
+  "flags": [
+    "Li Muwan's soul blood does not react to the clone (AK 592), which is why she doubts it is him; why it does not react is not explained."
+  ]
+}

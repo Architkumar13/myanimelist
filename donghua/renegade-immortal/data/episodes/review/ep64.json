@@ -1,0 +1,93 @@
+{
+  "ep": 64,
+  "title": "The Rain Immortal Realm",
+  "summary": "At the shattered gate platforms of the Immortal Realm, Wang Lin sets a restriction and a recovery formation on one platform as other cultivators gather, among them Chi Hu of the Giant Demon Clan, Sun Tai of the Corpse Yin Sect and Zhou Yi, and he scares off a challenger with his Thunder Toad. The Rain Cauldron carries him into the Rain Immortal Realm, a ruin of spirit-stone palaces whose immortal energy has almost gone, and a monument names the palace of the Rain Immortal King given to Immortal Tianhua. Hong Wen of the Daluo Sword Sect claims a hidden store of immortal energy his sect has milked for 3,000 years, but the Thunder Toad, at peak mid Soul Formation, outmatches him and Wang Lin seals him in the Red Gold Bell to refine his soul. Taking his teleportation slip to the sect's 37 fragments, Wang Lin collects immortal energy and high-grade spirit stones, then reaches a ruined fragment where an illusion shows immortals feasting until a giant palm smashes the Immortal Realm in one blow.",
+  "events": [
+    "Wang Lin claims and fortifies a gate platform; Chi Hu, Sun Tai, Zhou Yi and Zhan Bai gather",
+    "His Thunder Toad drives off a challenger",
+    "He enters the ruined Rain Immortal Realm",
+    "Hong Wen of the Daluo Sword Sect fights him over a store of immortal energy",
+    "Wang Lin seals Hong Wen in the Red Gold Bell and takes his teleport slip",
+    "He gathers immortal energy and spirit stones",
+    "An illusion shows the Immortal Realm destroyed by a single palm"
+  ],
+  "introduced": [
+    "Chi Hu",
+    "Giant Demon Clan",
+    "Sun Tai",
+    "Zhou Yi",
+    "Zhan Bai",
+    "Rain Immortal Realm",
+    "Hong Wen",
+    "Daluo Sword Sect",
+    "Red Gold Bell",
+    "Daluo Spirit Sword",
+    "immortal energy"
+  ],
+  "cultivation": "Chi Hu: Soul Formation. Sun Tai and Zhou Yi: mid Soul Transformation. Zhan Bai and Hong Wen: early Soul Formation. The Thunder Toad: peak mid Soul Formation. Wang Lin appears to be early Soul Formation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "thunder-toad",
+      "name": "Thunder Toad",
+      "realm": "peak mid Soul Formation",
+      "quote": "katak gunturnya, sudah berada pada puncak Transformasi Dewa Tahap Tengah",
+      "first": false
+    },
+    {
+      "id": "chi-hu",
+      "name": "Chi Hu",
+      "realm": "Soul Formation",
+      "quote": "[Chi Hu, Pemimpin Muda Klan Setan Raksasa, Alam Transformasi Dewa]",
+      "first": true,
+      "card": 268.5
+    },
+    {
+      "id": "sun-tai",
+      "name": "Sun Tai",
+      "realm": "mid Soul Transformation",
+      "quote": "[Sun Tai, Tetua Agung Sekte Shiyin, Transformasi Jiwa Tahap Tengah]",
+      "first": true,
+      "card": 301.7
+    },
+    {
+      "id": "zhou-yi",
+      "name": "Zhou Yi",
+      "realm": "mid Soul Transformation",
+      "quote": "[Zhou Yi, Sekte Lima Elemen, Transformasi Jiwa Tahap Tengah]",
+      "first": true,
+      "card": 307.1
+    },
+    {
+      "id": "zhan-bai",
+      "name": "Zhan Bai",
+      "realm": "early Soul Formation",
+      "quote": "[Zhan Bai, Transformasi Dewa Tahap Awal]",
+      "first": true,
+      "card": 319.0
+    },
+    {
+      "id": "hong-wen",
+      "name": "Hong Wen",
+      "realm": "early Soul Formation",
+      "quote": "[Hong Wen, Sekte Pedang Daluo, Transformasi Dewa Tahap Awal]",
+      "first": true,
+      "card": 535.3
+    }
+  ],
+  "changes": [
+    "Read both the official English and the Indonesian fansub."
+  ],
+  "flags": [
+    "Who challenges Wang Lin for the platform (Chi Hu or someone choosing a weaker target near Zhan Bai) is unclear around 4:15-5:48.",
+    "Indonesian 'Sekte Shiyin' read as Corpse Yin Sect (尸阴宗); Zhou Yi's card says 'Sekte Lima Elemen' (Five Elements Sect).",
+    "Glossary has 'Zhang Bai' without a debut; the card says Zhan Bai.",
+    "Indonesian calls the immortal 'Huaxian', official 'Tianhua Immortal'.",
+    "Official English from 18:52 ('Hand over Wan Chunliu...') does not match this episode; likely a preview or another show."
+  ]
+}

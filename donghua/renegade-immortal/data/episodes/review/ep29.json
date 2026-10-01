@@ -1,0 +1,47 @@
+{
+  "ep": 29,
+  "title": "Hunchback Meng and the Beast King",
+  "summary": "Wang Lin's new demon kills a hurricane beast at the False Nascent Soul level, and the deeper he goes the stronger the beasts inside the hurricanes become. Hunchback Meng's killing draws out the Hurricane Beast King, which is at Soul Formation great perfection. To fight it, Meng takes the inner core of Li Tian, the toad he has raised for a thousand years, and reaches Soul Formation great perfection himself. He kills the Beast King with Nine Nether Poison and the leftover poison of his Poison King Cauldron, but loses his life-bound treasure and is left drained. Seeing that Meng is almost spent, Wang Lin decides he cannot kill him with strength alone but can still finish him, and he attacks. Meng sees him, and as the fight stirs up the hurricanes, Wang Lin finds there is no going back.",
+  "events": [
+    "Wang Lin's demon kills a hurricane beast at the False Nascent Soul level",
+    "Hunchback Meng draws out the Hurricane Beast King, at Soul Formation great perfection",
+    "Meng swallows his toad Li Tian's core and reaches Soul Formation great perfection",
+    "Meng kills the Beast King with Nine Nether Poison and the Poison King Cauldron's leftover poison",
+    "Wang Lin attacks the drained Meng",
+    "Meng spots them and the fighting stirs the hurricanes behind them"
+  ],
+  "introduced": [
+    "Hurricane Beast King",
+    "Nine Nether Poison",
+    "Poison King Cauldron"
+  ],
+  "cultivation": "The Hurricane Beast King is at Soul Formation great perfection. Hunchback Meng reaches Soul Formation great perfection by swallowing his toad's core. A beast at the False Nascent Soul level is the most Wang Lin's demon can handle.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "hunchback-meng",
+      "name": "Hunchback Meng",
+      "realm": "Soul Formation great perfection",
+      "quote": "The old hunchback is now also in the stage of becoming a god and has reached the Great Perfection stage.",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles (machine-translated) checked against the AnimeKhor Indonesian fansubs; no Chinese track for this episode.",
+    "'old toad' is Xu Liguo's name for Hunchback Meng."
+  ],
+  "flags": [
+    "17:12-17:37 how the fight between Wang Lin and the drained Meng ends is not clear here; EP30 confirms Meng is dead ('no soul on the storage bag').",
+    "18:13-18:29 'I don't want to fight with you, step aside... I can't go back': who says this is unclear."
+  ]
+}

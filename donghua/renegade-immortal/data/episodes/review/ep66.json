@@ -1,0 +1,49 @@
+{
+  "ep": 66,
+  "title": "Sun Lei's Gamble",
+  "summary": "Sun Lei hides from the immortal-beast food and then meets Wang Lin in the collapsing Immortal Beast Palace, admitting he is not really a Da Lou disciple but an infiltrator who kills for treasure. He proposes they work together to take three Celestial treasures guarded in the cave: a piece of immortal jade, an immortal sword and a piece of golden iron. Wang Lin asks for the Da Lou Mixun Search Technique and the Spirit Washing Gourd, and settles for the technique plus a promised Spirit Washing Wood. Together they thin the swarms with Sun Lei's Nine Rainbow Smoke and Wang Lin's Thunder Toad, and Sun Lei freezes the great black beast for ten breaths with a sect treasure to grab the treasures behind an immortal restriction. The beast breaks free early because Wang Lin has planned for it, so Sun Lei, cornered, blows himself up, and the whole celestial fragment begins to collapse.",
+  "events": [
+    "Sun Lei confronts Wang Lin and admits he infiltrated the Da Lou Sword Sect",
+    "He lists three Celestial treasures: immortal jade, an immortal sword and golden iron",
+    "Wang Lin takes the Mixun Search Technique and a promised Spirit Washing Wood as his price",
+    "They lure and kill swarms of immortal-beast food; Wang Lin's Thunder Toad fights",
+    "Sun Lei freezes the black beast for ten breaths and runs for the treasures",
+    "The beast breaks loose after eight breaths; Sun Lei realises Wang Lin set him up",
+    "Sun Lei self-detonates and the fragment starts to collapse"
+  ],
+  "introduced": [
+    "Immortal jade",
+    "Spirit Washing Wood",
+    "Nine Rainbow Smoke",
+    "immortal restriction"
+  ],
+  "cultivation": "Sun Lei notes Wang Lin shows only early Soul Formation but must be hiding his real cultivation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "sun-lei",
+      "name": "Sun Lei",
+      "first": false,
+      "card": 820.1
+    },
+    {
+      "id": "thunder-toad",
+      "name": "Thunder Toad",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Indonesian fansubs read in full and checked against the official English (YouTube).",
+    "The treasures Wang Lin ends up with (jade and the golden-iron slip) are confirmed only in EP67."
+  ],
+  "flags": [
+    "820: card 'Jiwa Purba Sun Lei' (Sun Lei's primordial soul) during the beast fight.",
+    "960-991: whether Wang Lin deliberately loosened the freeze is inferred from Sun Lei's line 'Dia telah menghitung segalanya'.",
+    "662: 'Sembilan Asap Pelangi' (Nine Rainbow Smoke) attributed to Sun Lei from context."
+  ]
+}

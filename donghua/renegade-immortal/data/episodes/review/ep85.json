@@ -1,0 +1,69 @@
+{
+  "ep": 85,
+  "title": "Qing Mu of the Soul Refining Sect",
+  "summary": "The Giant Demon Clan ancestor, whose body was ruined by Sun Tai, takes over a clansman's body and binds Wang Lin's sword spirit Xu Liguo as his own. Wang Lin joins the Soul Refining Sect in Pilu Country as an outer disciple named Qing Mu, bribing the outer manager Hong Maozi with a sword. Under manager Chang Dawei, Wang Lin learns that the sect's power rests on its soul flags and that only the winner of the outer-disciple contest held every three years enters the inner sect. By breaking the barrier around the Kun Crystal that feeds his cave, he climbs back to late Foundation Establishment. When Chang Dawei grows suspicious and tries to rob him, Wang Lin turns the tables. He then uses the pressure of the sect's spirit vein mine to smash his seal, rising through Core Formation to the peak of mid Nascent Soul in one night.",
+  "events": [
+    "The Giant Demon Clan ancestor seizes a clansman's body and binds Xu Liguo as his sword spirit",
+    "Wang Lin bribes Hong Maozi with a sword and is admitted as outer disciple Qing Mu",
+    "Chang Dawei explains soul flags and the three-yearly outer-disciple contest",
+    "Wang Lin drains the Kun Crystal feeding his cave and moves to Cave 743 near the spirit eye",
+    "Chang Dawei tries to rob 'Qing Mu' of his secret and is defeated",
+    "In the spirit vein mine Wang Lin breaks through Core Formation into mid Nascent Soul"
+  ],
+  "introduced": [
+    "Hong Maozi",
+    "Chang Dawei",
+    "Qing Mu (Wang Lin's alias)",
+    "soul flags",
+    "Kun Crystal",
+    "spirit vein mine",
+    "outer-disciple grand contest"
+  ],
+  "cultivation": "Hong Maozi and Chang Dawei: early Core Formation. Wang Lin climbs from late Foundation Establishment through early, mid and late Core Formation to early Nascent Soul and the peak of mid Nascent Soul.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "peak mid Nascent Soul",
+      "quote": "[Puncak Tahap Tengah Jiwa Baru Lahir]",
+      "first": false,
+      "card": 1191.88
+    },
+    {
+      "id": "giant-demon-clan-ancestor",
+      "name": "Giant Demon Clan ancestor",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "hong-maozi",
+      "name": "Hong Maozi",
+      "realm": "early Core Formation",
+      "quote": "[Hong Maozi, Manajer Wilayah Luar Sekte Pemurnian Jiwa, Tahap Awal Pembentukan Inti]",
+      "look": "red hair",
+      "first": true,
+      "card": 373.4
+    },
+    {
+      "id": "chang-dawei",
+      "name": "Chang Dawei",
+      "realm": "early Core Formation",
+      "quote": "[Chang Dawei, Manajer Wilayah Luar Sekte Pemurnian Jiwa, Tahap Awal Pembentukan Inti]",
+      "first": true,
+      "card": 479.2
+    }
+  ],
+  "changes": [
+    "Only the AnimeKhor Indonesian fansub (ep85.id.srt) was available; no official YouTube en/zh track for this episode yet."
+  ],
+  "flags": [
+    "The person at 641-645s searching for someone without success is not shown clearly; possibly Liu Mei looking for Wang Lin.",
+    "At 1073-1086s someone ('Senior?') appears and a seal is cast; who it is and what happens to Chang Dawei is unclear.",
+    "'Bintang Bencana' (340s, Calamity Star) is Xu Liguo's nickname for Wang Lin."
+  ]
+}

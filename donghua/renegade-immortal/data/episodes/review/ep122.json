@@ -1,0 +1,85 @@
+{
+  "ep": 122,
+  "title": "The Scattered Devil",
+  "summary": "As Wang Lin's clone steadies his new Ascendant cultivation, a giant arm reaches into the immortal palace to swallow his Primordial Qi: it is the Scattered Devil, badly hurt and feeding on every new Ascendant in the land. Wang Lin keeps his mind clear with killing intent and flees, but his teleport is disrupted and he lands in Fire Demon Country, where he eats a Mad Demon Fruit and summons Xu Liguo. When the Scattered Devil catches him, Wang Lin fights it with pure killing intent and a Life and Death concept until it backs off, then drinks four drops of immortal wine and goes on a rampage. Maddened, he wipes out a Fire Demon division and its Da Lou Sword Sect leader Zi Shu, then breaks General Liu Qi's Sinful Fire Demon Abyss formation of a hundred thousand soldiers at Tianyi City. In that fight his Dao takes form as the Yellow Springs, and he declares he will cultivate only his own Dao, while the Scattered Devil sends its servant Ming Yuan to receive him.",
+  "events": [
+    "The Scattered Devil reaches into the immortal palace for Wang Lin's Primordial Qi",
+    "Wang Lin escapes; the teleport throws him into Fire Demon Country",
+    "He eats a Mad Demon Fruit and summons Xu Liguo",
+    "He fights the Scattered Devil with killing intent and it withdraws",
+    "He drinks four drops of immortal wine and kills Zi Shu and his division",
+    "He breaks Liu Qi's Sinful Fire Demon Abyss formation at Tianyi City",
+    "His Dao forms as the Yellow Springs; Ming Yuan is ordered to act"
+  ],
+  "introduced": [
+    "Mad Demon Fruit",
+    "Zi Shu",
+    "Fire Demon Emperor",
+    "Liu Qi",
+    "Tianyi City",
+    "Sinful Fire Demon Abyss Formation",
+    "Yellow Springs Finger",
+    "Ming Yuan (named)"
+  ],
+  "cultivation": "Wang Lin's clone is early Ascendant and opens a branch of the Yellow Springs, touching the edge of the second step of the Dao. Zi Shu: great perfection Soul Transformation. Liu Qi: early Ascendant. Ming Yuan: late Ascendant.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "early Ascendant",
+      "quote": "Dengan kultivasi Ascendant Tahap Awal",
+      "first": false
+    },
+    {
+      "id": "scattered-devil",
+      "name": "Scattered Devil",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "zi-shu",
+      "name": "Zi Shu",
+      "realm": "great perfection Soul Transformation",
+      "quote": "[Zi Shu, Murid Selatan Sekte Pedang Da Luo, Transformasi Jiwa Siklus Agung]",
+      "first": true,
+      "card": 571
+    },
+    {
+      "id": "fire-demon-emperor",
+      "name": "Fire Demon Emperor",
+      "quote": "[Kaisar Wilayah Iblis Api]",
+      "first": true,
+      "card": 651
+    },
+    {
+      "id": "liu-qi",
+      "name": "Liu Qi",
+      "realm": "early Ascendant",
+      "quote": "[Liu Qi, Jenderal Wilayah Iblis Api, Ascendant Tahap Awal]",
+      "first": true,
+      "card": 675
+    },
+    {
+      "id": "ming-yuan",
+      "name": "Ming Yuan",
+      "realm": "late Ascendant",
+      "quote": "[Ming Yuan, Ascendant Tahap Akhir]",
+      "first": false,
+      "card": 967
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep122.id.srt) and its caption cards; the YouTube English track for this episode is machine-made and garbled, used only for cross-checks.",
+    "The Yellow Springs (黄泉) name follows the official English of later episodes; the fansub says 'Sungai Kuning'."
+  ],
+  "flags": [
+    "The spirit Wang Lin summons (155-420s) calls him 'Misfortune Star of the Sea of Devils' and talks of a past betrayal; taken to be Xu Liguo, who names himself in EP123.",
+    "The fruit is called both 'Buah Iblis Amukan' and 'Buah Iblis Kegilaan'; rendered Mad Demon Fruit.",
+    "Who says 'Wang Lin, you surprised me' and gives Ming Yuan orders (959s) is not shown; EP123 shows it is the Scattered Devil."
+  ]
+}

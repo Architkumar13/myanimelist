@@ -1,0 +1,76 @@
+{
+  "ep": 41,
+  "title": "Forced Marriage",
+  "summary": "Wang Lin merges with his clone and saves the dying soul of Cheng Xian's Big Ape, making it his third devil. His main body finds Cheng Xian held by his master Sun Hai and learns that Cheng Ling courted him only to get the apes' essence. Li Muwan senses Wang Lin and threatens to end her life unless he shows himself; he appears, tells her he threw away the jade slip she gave him 200 years ago, and she answers that by the founding ancestor's order she will wed Sun Zhenwei in three months, crying that she hates him. Sun Lingwu, the mid Nascent Soul outer master and Sun Zhenwei's father, attacks him for slighting the sect, and Wang Lin smashes a garden's formation to escape. Xu Liguo, sent after Cheng Ling, overhears Sun Zhenwei boast that he will take Li Muwan's 200-year Primordial Yin to form his Nascent Soul, but his attack is blocked by a protective treasure. In the end Wang Lin, as the clone, reveals himself to Li Muwan and asks for pills to reach Nascent Soul in two months so he can kill Sun Zhenwei and carry her across Chu.",
+  "events": [
+    "The clone merges with the main body; the Big Ape's soul becomes Wang Lin's third devil",
+    "Cheng Xian explains Cheng Ling used him for the spirit apes",
+    "Li Muwan forces Wang Lin to appear; he says he threw away her jade slip",
+    "Li Muwan announces her marriage to Sun Zhenwei",
+    "Sun Lingwu attacks Wang Lin, who breaks a garden formation and escapes",
+    "Xu Liguo learns Sun Zhenwei wants Li Muwan's Primordial Yin",
+    "Wang Lin reveals himself to Li Muwan and asks for pills to reach Nascent Soul"
+  ],
+  "introduced": [
+    "Sun Hai",
+    "Sun Lingwu",
+    "Primordial Yin",
+    "the third devil (Big Ape)"
+  ],
+  "cultivation": "Sun Hai: early Core Formation. Sun Lingwu: mid Nascent Soul. Sun Zhenwei: late Core Formation. Wang Lin's main body shows only late Core Formation but gives off Nascent Soul pressure.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "cheng-xian",
+      "name": "Cheng Xian",
+      "first": false
+    },
+    {
+      "id": "sun-hai",
+      "name": "Sun Hai",
+      "realm": "early Core Formation",
+      "quote": "[Sun Hai, Tahap Awal Formasi Inti, Sekte Yuntian]",
+      "first": true,
+      "card": 324.5
+    },
+    {
+      "id": "sun-lingwu",
+      "name": "Sun Lingwu",
+      "realm": "mid Nascent Soul",
+      "quote": "(Sun Lingwu, the outer clan leader of Yun Tian tribe in the middle of Yuan Ying's reign)",
+      "first": true,
+      "card": 712.0
+    },
+    {
+      "id": "sun-zhenwei",
+      "name": "Sun Zhenwei",
+      "first": false
+    },
+    {
+      "id": "cheng-ling",
+      "name": "Cheng Ling",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Sun Lingwu's name is cut off in the Indonesian card; taken from the official English."
+  ],
+  "flags": [
+    "Sun Lingwu is carded as outer sect master here, but EP43 cards Liu Fei as outer master at mid Nascent Soul too; titles may differ (elder vs master)."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "ep": 30,
+  "title": "The Bridge of No Return",
+  "summary": "Wang Lin escapes the angry beasts with Xu Liguo and his demon, which now leads beasts of its own. Hunchback Meng's storage bag no longer holds his soul, so Meng is dead, and Wang Lin claims his treasures, the best of which is the Poison King Cauldron. Once the Medicine King Cauldron of a rank three cultivation country, it is what Meng killed his own master to get, and its green mist can wipe out divine sense. Next comes the Bridge of No Return, where whoever steps on can never turn back. Illusions of his parents cry for Tie Zhu to save them from the Teng clan and ask why he will not look back, but Wang Lin sees through them, since his real parents protected him to their deaths, and keeps walking. Beyond the bridge is the second trial, the Forbidden Mountain, covered in restrictions, where someone has already gone ahead. A thousand years earlier, a disciple called Yi'er was taught by a master that restrictions are a flexible kind of formation that can be broken by force or by study, and swore to fulfil the master's unfinished dream.",
+  "events": [
+    "Wang Lin escapes with Xu Liguo and the demon, which now leads its own beasts",
+    "He finds Meng dead and takes the Poison King Cauldron and other treasures",
+    "They reach the Bridge of No Return",
+    "Illusions of his parents beg him to turn back; he sees through them and goes on",
+    "They reach the second trial, the Forbidden Mountain",
+    "A flashback shows Yi'er learning restrictions from a master a thousand years ago",
+    "Someone has passed the restrictions ahead of them and changed them"
+  ],
+  "introduced": [
+    "Poison King Cauldron (Medicine King Cauldron)",
+    "Bridge of No Return",
+    "Forbidden Mountain",
+    "Yi'er",
+    "restrictions"
+  ],
+  "cultivation": null,
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "wang-tianshui",
+      "name": "Wang Tianshui",
+      "first": false
+    },
+    {
+      "id": "wang-lin-mother",
+      "name": "Wang Lin's mother",
+      "first": false
+    },
+    {
+      "id": "xu-liqing",
+      "name": "Xu Liqing",
+      "first": false,
+      "shownAs": "Six Desire Devil Lord"
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles (a more human translation from this episode on) checked against the AnimeKhor Indonesian fansubs.",
+    "'Iron Pillar / Iron Zhu' = Tie Zhu; 'Camel Meng' = Hunchback Meng; 'Manshan Ban' = the restrictions covering the whole mountain (满山禁制).",
+    "Yi'er in the flashback is the restriction expert ahead of Wang Lin; EP31 shows this is the Six Desire Devil Lord."
+  ],
+  "flags": [
+    "12:08 an illusory Teng says 'How dare Wang Lin kill my great-grandson'; this is part of the illusion.",
+    "The parents are illusions; they are listed in the cast only because their figures appear."
+  ]
+}

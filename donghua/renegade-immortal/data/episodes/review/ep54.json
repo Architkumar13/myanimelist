@@ -1,0 +1,70 @@
+{
+  "ep": 54,
+  "title": "Uncle Wang the Woodcarver",
+  "summary": "Wang Lin settles on an old street in Nan's capital, where he dreams of his parents and finds his killing energy condensing into pearls. The boy Zeng Daniu from the blacksmith's across the road befriends him, and Daniu's parents welcome the new neighbour with home-made wine. Over a year Wang Lin carves the villagers of his home and the beasts he has fought, and when Xu Tao buys a dragon carving for ten taels of gold, Baiyun Sect cultivators at the Southern King's residence see that it is a real treasure. Two of them come to the shop to steal more, flee from a Nascent Soul cultivator, and are made to pay 4,500 taels of gold. At New Year the crown prince sends gifts and offers the residence's help, and Wang Lin tells Daniu that he already has a wife waiting for him far away.",
+  "events": [
+    "Wang Lin dreams of his parents; his killing energy forms pearls",
+    "Zeng Daniu and his parents befriend their new neighbour",
+    "A year of woodcarving: home villagers and beasts like the Zhong Gu and Fire Spider",
+    "Xu Tao buys a dragon carving; the Southern King's cultivators recognise it as a treasure",
+    "Two Baiyun Sect cultivators try to loot the shop and are made to pay in gold",
+    "At New Year the crown prince sends gifts; Wang Lin speaks of a wife far away"
+  ],
+  "introduced": [
+    "Zeng Daniu",
+    "Xu Tao",
+    "the Southern King",
+    "Zhou Qiao",
+    "Weng Qi",
+    "killing-energy pearls"
+  ],
+  "cultivation": "Nan's crown prince: Qi Condensation level 8. Zhou Qiao: late Foundation Establishment; Weng Qi: early Core Formation (both Baiyun Sect).",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "zeng-daniu",
+      "name": "Zeng Daniu",
+      "first": true
+    },
+    {
+      "id": "xu-tao",
+      "name": "Xu Tao",
+      "first": true,
+      "card": 746.0
+    },
+    {
+      "id": null,
+      "name": "the Southern King",
+      "first": true,
+      "card": 882.5
+    },
+    {
+      "id": "zhou-qiao",
+      "name": "Zhou Qiao",
+      "realm": "late Foundation Establishment",
+      "quote": "ZHOU QIAO, DISCIPLE OF BAIYUN CLAN IN THE LATE PERIOD TO BUILD FOUNDATIONS",
+      "first": true,
+      "card": 884.0
+    },
+    {
+      "id": "weng-qi",
+      "name": "Weng Qi",
+      "realm": "early Core Formation",
+      "quote": "(Weng Qi, disciple of Baiyun Sect, initial stage of Jie Dan)",
+      "first": true,
+      "card": 885.0
+    }
+  ],
+  "changes": [
+    "Read both the official English and the Indonesian fansub. Xu Tao, Zhou Qiao and Weng Qi cards are only in the official track (YouTube times)."
+  ],
+  "flags": [
+    "Official English calls Daniu 'Daniel' and Mr. Zeng 'Brother Zhang'.",
+    "The 14:08 'Crown Prince of Nan, eight layers of condensation' card is garbled; read as Qi Condensation level 8."
+  ]
+}

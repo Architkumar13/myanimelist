@@ -1,0 +1,67 @@
+{
+  "ep": 65,
+  "title": "Hongdie's Emotionless Domain",
+  "summary": "In the ruins of the Rain Celestial Realm, Wang Lin, travelling as an early Soul Formation cultivator, is cornered by Hongdie, the late Soul Formation prodigy of the Snow Region country Xue Yue, after he kills Hong Wen of the Da Lou Sword Sect. Her Emotionless domain starts to numb his memories, but he breaks her Dao heart by asking who buried the mortal parents she abandoned in her hundred years of cultivation. When she gives chase he bluffs her with the giant palm he glimpsed in the old Celestial vision and escapes through the Da Lou teleport formation to the third fragment. There he watches two Da Lou disciples, Zheng Hao and Sun Lei, enter the Immortal Beast Palace with a Spirit Washing Gourd to gather celestial energy. Swarms of immortal-beast food attack them, Sun Lei uses his junior as bait, and he turns out to be stronger than he let on: mid-stage Soul Formation.",
+  "events": [
+    "Hongdie confronts Wang Lin over the death of Hong Wen and traps him in her Emotionless domain",
+    "Wang Lin shakes her Dao heart by asking about the parents she left behind",
+    "He activates the Black Dragon restriction and flees; she pursues him",
+    "A bluffed Celestial palm scares Hongdie off and he teleports to the third fragment",
+    "Da Lou disciples Zheng Hao and Sun Lei enter the Immortal Beast Palace with a Spirit Washing Gourd",
+    "Immortal-beast food (devouring insects) swarm out of a skull; Wang Lin's mosquito beast feeds on them",
+    "Sun Lei sacrifices Zheng Hao to the swarm and reveals mid-stage Soul Formation"
+  ],
+  "introduced": [
+    "Zheng Hao",
+    "Sun Lei",
+    "Immortal Beast Palace",
+    "Spirit Washing Gourd",
+    "Mixun Search Technique",
+    "Emotionless domain (Snow Region Clear Ice technique)",
+    "immortal-beast food"
+  ],
+  "cultivation": "Hongdie is said to have gone from mortal to late Soul Formation in about 100 years. Zheng Hao is early Soul Formation; Sun Lei is mid-stage Soul Formation. Wang Lin is taken for an early Soul Formation cultivator.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "early Soul Formation (as seen by others)",
+      "quote": "Hanya seorang kultivator Transformasi Dewa Tahap Awal",
+      "first": false
+    },
+    {
+      "id": "hongdie",
+      "name": "Hongdie",
+      "realm": "late Soul Formation",
+      "quote": "berkultivasi dari seorang manusia biasa ke Transformasi Dewa Tahap Akhir, hanya butuh waktu 100 tahun",
+      "first": false
+    },
+    {
+      "id": "zheng-hao",
+      "name": "Zheng Hao",
+      "realm": "early Soul Formation",
+      "quote": "Zheng Hao, Murid Sekte Pedang Daluo, Tahap Transformasi Dewa Awal",
+      "first": true,
+      "card": 668.28
+    },
+    {
+      "id": "sun-lei",
+      "name": "Sun Lei",
+      "realm": "mid Soul Formation",
+      "quote": "Sun Lei, Murid Sekte Pedang Daluo, Transformasi Dewa Tahap Tengah",
+      "first": true,
+      "card": 1106.4
+    }
+  ],
+  "changes": [
+    "Indonesian fansubs read in full and checked against the official English (YouTube).",
+    "Indonesian 'Transformasi Dewa' mapped to Soul Formation (化神), 'Daerah Salju' to the Snow Region (Xue Yue), 'Alam Hujan Abadi' to the Rain Celestial Realm, 'Sekte Pedang Daluo' to Da Lou Sword Sect.",
+    "'Hong mati' in the subs is a machine slip for Hongdie."
+  ],
+  "flags": [
+    "226-372: who calls whom 'Hong mati' is garbled; read as Wang Lin addressing Hongdie.",
+    "586: 'Pencerahan telapak tangan kamuflase' read as Wang Lin bluffing with the Celestial palm technique from the EP64 vision.",
+    "1141: card 'Throne of Seal' unexplained (likely the end card)."
+  ]
+}

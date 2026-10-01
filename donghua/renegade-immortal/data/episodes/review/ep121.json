@@ -1,0 +1,92 @@
+{
+  "ep": 121,
+  "title": "Stepping on the Sky",
+  "summary": "Jin Wuxu tries to kill Wang Lin and is stopped, and the fifteenth drum strike brings a Heavenly Tribulation down on the Demon Spirit Land, felt as far as the Blood Ancestor at the East Sea entrance. Wang Lin turns his immortal power into demonic energy and survives the tribulation lightning by reverse cultivation, but a second punishment, Heaven's Wrath, locks onto his soul and the city is evacuated as the two Ancestors of Sky Demon Country come out of seclusion. A remnant soul of an Ancient Demon, trapped in the Demonic Battle Drum, saves him: it explains that the Gu clan, born with the Heavenly Dao, split into the Ancient Gods, Ancient Devils and Ancient Demons, and in return asks Wang Lin to gather its remnant souls from the treasures of the other eight countries. Gu Yunchi, grandson of the Second Ancestor, is told to bring Wang Lin to the Dragon Pool in three months. Wang Lin goes into seclusion in the immortal palace, where the Ancient Demon's Ascendant Crystal and the Ascendant method 'Understanding the Dao at Dawn' guide him, and after ten years his clone reaches Ascendant.",
+  "events": [
+    "Jin Wuxu tries to kill Wang Lin and is stopped",
+    "The fifteenth strike calls a Heavenly Tribulation; the Blood Ancestor senses it",
+    "Wang Lin survives the lightning by reverse cultivation",
+    "Heaven's Wrath falls; the city is evacuated and the First and Second Ancestors appear",
+    "The Ancient Demon soul in the drum explains the Gu clan and shields Wang Lin",
+    "It asks him to collect its remnant souls from the other eight countries",
+    "The Second Ancestor orders Gu Yunchi to bring Wang Lin to the Dragon Pool",
+    "After ten years of seclusion Wang Lin's clone reaches Ascendant"
+  ],
+  "introduced": [
+    "Heavenly Tribulation",
+    "Heaven's Wrath",
+    "Reverse cultivation",
+    "Gu clan",
+    "Ancient Demon",
+    "Ancient God",
+    "Ancient Devil",
+    "Blood Ancestor",
+    "East Sea entrance to the Demon Spirit Land",
+    "First Ancestor of Sky Demon Country",
+    "Second Ancestor of Sky Demon Country",
+    "Ascendant Crystal",
+    "Primordial Qi",
+    "Understanding the Dao at Dawn"
+  ],
+  "cultivation": "Wang Lin's clone reaches Ascendant by reverse cultivation after seven hundred years on the Dao. Blood Ancestor: Nirvana Cleanser.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "Ascendant (clone)",
+      "quote": "[Klon Wang Lin, Tahap Ascendant]",
+      "first": false,
+      "card": 1176
+    },
+    {
+      "id": "jin-wuxu",
+      "name": "Jin Wuxu",
+      "first": false
+    },
+    {
+      "id": "blood-ancestor",
+      "name": "Blood Ancestor",
+      "realm": "Nirvana Cleanser",
+      "quote": "[Leluhur Darah, Tahap Pembersih Nirvana]",
+      "first": true,
+      "card": 127
+    },
+    {
+      "id": "first-ancestor-sky-demon",
+      "name": "First Ancestor of Sky Demon Country",
+      "quote": "[Leluhur Pertama Prefektur Iblis Surgawi]",
+      "first": true,
+      "card": 376
+    },
+    {
+      "id": "bei-lou",
+      "name": "Bei Lou",
+      "quote": "[Iblis Surgawi]",
+      "first": true,
+      "card": 654
+    },
+    {
+      "id": "second-ancestor-sky-demon",
+      "name": "Second Ancestor of Sky Demon Country",
+      "quote": "[Leluhur Kedua Prefektur Iblis Surgawi]",
+      "first": true,
+      "card": 927
+    },
+    {
+      "id": "gu-yunchi",
+      "name": "Gu Yunchi",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep121.id.srt) and its caption cards; the YouTube English track for this episode is machine-made and garbled, used only for cross-checks.",
+    "The Ancient Demon soul is listed as Bei Lou (贝罗), the name it is given in EP124/EP127; it is not named this episode."
+  ],
+  "flags": [
+    "The person who once sacrificed himself to the Ancient Demon in the Dragon Pool to hide his own reverse cultivation (96s) is unnamed; likely Gu Yunchi.",
+    "The fansub writes 'Iblis Kuno' for both the Ancient Devils and the Ancient Demons in the Gu clan story (610-620s); split here as God / Devil / Demon.",
+    "Someone says the tribulation touches 'my Planet Tianyun' (135s); the speaker is not shown clearly.",
+    "The Second Ancestor calls 'Gu Yunpei' (927s); taken as a slip for Gu Yunchi, his grandson."
+  ]
+}

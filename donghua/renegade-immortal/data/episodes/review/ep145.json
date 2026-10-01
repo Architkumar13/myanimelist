@@ -1,0 +1,46 @@
+{
+  "ep": 145,
+  "title": "A Glimpse of the Dao",
+  "summary": "With his body broken and his soul damaged after the escape from the Moongazer, Wang Lin follows his soul to a hidden lightning planet in the Southern Domain of the Allheaven Star System. In ten years he swallows its Heavenly Lightning to heal his soul, then spends sixty more years using the Ancient God Tactic to forge his avatar a new body out of lightning. He lets the Heaven Defying Bead absorb the Moongazer bone and sorts through Greed's treasures: a mountain stone holding an immortal mountain's soul, a folding-screen copy of the Mountain and River Map, and the Immortal Emperor Crown, whose five pearls of the Five Elements seem to search him, which makes him think of Hongdie's Five Spirit body. Three months later the bead reaches completion and, when he claims it as master, a huge gate and a giant sky-piercing arm appear, its pressure meant to make any cultivator kneel; Wang Lin refuses to bend, but the arm's Law power forces him back. He moves to the Thunder Pool of the Southern Domain, refines origin power there with his Thunder Origin art, and uses it to reopen the gate. Inside the Heaven Defying space he sees a vision of an old figure teaching about the Dao, and grasps that at the end of seeking the Dao one finds oneself.",
+  "events": [
+    "Wang Lin finds a hidden lightning planet in the Southern Domain and heals his soul in ten years by swallowing its lightning",
+    "Over sixty years he forges his avatar a new lightning body with the Ancient God Tactic",
+    "The Heaven Defying Bead absorbs the Moongazer bone while he sorts Greed's treasures",
+    "He studies the mountain stone, the copy of the Mountain and River Map and the Immortal Emperor Crown",
+    "The completed bead shows a vast gate and a giant arm that tries to force him to kneel",
+    "He refines origin power in the Southern Domain's Thunder Pool and reopens the gate",
+    "Inside the Heaven Defying space he watches a vision of an old teacher speaking about the Dao"
+  ],
+  "introduced": [
+    "Southern Domain (Allheaven)",
+    "Thunder Pool",
+    "Immortal Emperor Crown (examined)",
+    "Mountain and River Map copy (folding screen)",
+    "Heaven Defying Gate and the giant arm",
+    "Heaven Defying space",
+    "Thunder Origin art"
+  ],
+  "cultivation": "Wang Lin's avatar forges a new body that holds lightning power. The Heaven Defying Bead reaches completion after absorbing the Moongazer bone.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "thunder-celestial-beast",
+      "name": "Thunder Celestial Beast",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Official English 'Fatebreaker Pearl' = Heaven Defying Bead (天逆珠); 'Moonwatcher' = Moongazer (望月); 'Greedwolf' = Greed (贪狼); 'Luotian' = Allheaven (罗天); 'Atlas Diagram/Landscape Screen' = copy of the Mountain and River Map (山河图); 'Everpeak Sect' = Heng Yue Sect (恒岳); 'Lightning Essence Art' = 雷元术, written here as Thunder Origin art."
+  ],
+  "flags": [
+    "323-332 (YT): a voice complains that 'the monster' is getting scarier and asks when it will be free; it is the one Wang Lin keeps in his storage pouch (the God Slaying War Chariot / Thunder Celestial Beast), assumed from EP144 context.",
+    "1045-1051 (YT): the same voice calls Wang Lin 'Master' and asks to be left on the shore.",
+    "The Wang Lin here is his avatar (分身); the subs say the avatar cannot use Ancient God divine powers but can still use the Ancient God Tactic to forge a body.",
+    "The old figure in the Dao vision is not identified; Wang Lin asks who it is at the end."
+  ]
+}

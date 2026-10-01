@@ -1,0 +1,71 @@
+{
+  "ep": 87,
+  "title": "The Hundred Thousand Soul Flag",
+  "summary": "Core disciple Guo Dongjian comes to take 'Qing Mu's' soul flag, but Wang Lin has already mastered the Soul Vortex and wins a Thousand Soul Flag from him. In a flashback to three months earlier, Wang Lin learns the three soul arts of the Soul Refining Peak inside the Ancient Soul Restriction: Condensation, Soul Vortex and Blood Sacrifice. Liu Mei comes again, tells him that her senior brother Qian Feng killed Hongdie and urges him to leave Planet Suzaku, but a slip of her mask shows Wang Lin she is still walking an emotionless path. Wang Lin's clone reaches early Soul Formation. Down in the spirit vein, he defeats a rival's Ten Thousand Soul Flag, keeps destroying helper spirits, and uses the God Slaying War Chariot to subdue the remnant soul of a Qilin as the main soul of a Hundred Thousand Soul Flag. He trades three hundred souls to Su Jinshi for the Soul Extraction jade slip. Because the God Sealing method is kept only for Soul Formation elders, he goes to the sect gate and calls the sect out.",
+  "events": [
+    "Guo Dongjian challenges Qing Mu and loses his Thousand Soul Flag to Wang Lin's Soul Vortex",
+    "Flashback: Wang Lin learns Condensation, Soul Vortex and Blood Sacrifice",
+    "Liu Mei tells him Qian Feng killed Hongdie and urges him to flee; he sees through her",
+    "Wang Lin's clone reaches early Soul Formation",
+    "A rival uses a Ten Thousand Soul Flag and Blood Sacrifice against him",
+    "Wang Lin subdues a Qilin remnant soul as the main soul of a Hundred Thousand Soul Flag",
+    "He trades 300 souls to Su Jinshi for the Soul Extraction jade slip",
+    "He challenges the Soul Refining Sect to draw out a Soul Transformation ancestor"
+  ],
+  "introduced": [
+    "Guo Dongjian",
+    "Su Jinshi",
+    "Liu Wei",
+    "Soul Vortex",
+    "Blood Sacrifice",
+    "Thousand Soul Flag",
+    "Ten Thousand Soul Flag",
+    "Hundred Thousand Soul Flag",
+    "Purple Wood Flag Bell",
+    "Qilin remnant soul"
+  ],
+  "cultivation": "Guo Dongjian: early Nascent Soul. Wang Lin's clone breaks into early Soul Formation, but his divine sense is still not fully restored. The Qilin remnant soul is as strong as late Soul Formation great perfection.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "early Soul Formation (clone)",
+      "quote": "[Tubuh Klon Wang Lin, Transformasi Dewa Tahap Awal]",
+      "first": false,
+      "card": 642.4
+    },
+    {
+      "id": "guo-dongjian",
+      "name": "Guo Dongjian",
+      "realm": "early Nascent Soul",
+      "quote": "[Guo Dongjian, Murid Inti Sekte Pemurnian Jiwa, Jiwa Baru Lahir Tahap Awal]",
+      "first": true,
+      "card": 244.7
+    },
+    {
+      "id": "liu-wei",
+      "name": "Liu Wei",
+      "first": false
+    },
+    {
+      "id": "liu-mei",
+      "name": "Liu Mei",
+      "first": false
+    },
+    {
+      "id": "su-jinshi",
+      "name": "Su Jinshi",
+      "first": true,
+      "card": 984.3
+    }
+  ],
+  "changes": [
+    "Only the AnimeKhor Indonesian fansub (ep87.id.srt) was available; no official YouTube en/zh track for this episode yet."
+  ],
+  "flags": [
+    "Who wields the Ten Thousand Soul Flag at 664s is not named; it is someone Wang Lin beat before.",
+    "Liu Wei is named at 217s as the junior of a senior disciple who has been gathering souls in Qing Mu's name; that senior is not named.",
+    "It is unclear whether Liu Mei's 'senior brother killed Hongdie' (524s) contradicts Hongdie living on as Jue Qing; possibly she means her Dao was destroyed."
+  ]
+}

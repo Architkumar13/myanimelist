@@ -1,0 +1,75 @@
+{
+  "ep": 44,
+  "title": "Taking the Cloud Sky Sect",
+  "summary": "As the ceremony ends, someone breaking through to Nascent Soul on the sect's spirit veins draws out every elder, and Wang Lin appears at early Nascent Soul. Sun Zhenwei turns on Li Muwan, and Wang Lin kills him, then tells the sect that Sun Zhenwei killed a disciple and forced Wan'er to marry while the elders looked away. The founding ancestors, including Chen Bailiang and Yun Tianzi, trap him in the Cloud Sky Great Formation, but Wang Lin's Ancient God restriction breaks it and the ancestors fall, and he calls down a Heavenly Tribulation to force the sect to hand over the soul blood of everyone above Foundation Establishment. Privately he tells Li Muwan he failed to form his own Nascent Soul and only condensed his clone into one, borrowing its power, and that he is not from Hou Fen but must return to the Country of Zhao for revenge. Li Muwan stays to lead the Cloud Sky Sect on behalf of her husband and to refine higher pills for him, holding the four surviving ancestors' soul blood for 500 years and winning them over with longevity pills. Wang Lin then leaves, vowing that Teng Huayuan will see him return.",
+  "events": [
+    "A Nascent Soul breakthrough at the ceremony draws out the sect's elders",
+    "Wang Lin appears at early Nascent Soul; Sun Zhenwei turns on Li Muwan and Wang Lin kills him",
+    "Chen Bailiang and Yun Tianzi trap him in the Cloud Sky Great Formation",
+    "Wang Lin breaks it with an Ancient God restriction and defeats the ancestors",
+    "He makes the sect hand over its soul blood under threat of a Heavenly Tribulation",
+    "He tells Li Muwan the truth about his clone Nascent Soul and his past in Zhao",
+    "Li Muwan takes over the Cloud Sky Sect; Wang Lin heads for Zhao"
+  ],
+  "introduced": [
+    "Chen Bailiang",
+    "Yun Tianzi",
+    "Cloud Sky Great Formation",
+    "soul blood (as a hostage)"
+  ],
+  "cultivation": "Wang Lin: early Nascent Soul, through his clone condensed into a Nascent Soul (his own failed). Chen Bailiang and Yun Tianzi: late Nascent Soul; the five ancestors are said to be at the peak of late Nascent Soul.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "early Nascent Soul",
+      "quote": "[Wang Lin, Jiwa Baru Lahir Tahap Awal]",
+      "first": false,
+      "card": 285.9
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "sun-zhenwei",
+      "name": "Sun Zhenwei",
+      "first": false
+    },
+    {
+      "id": "chen-bailiang",
+      "name": "Chen Bailiang",
+      "realm": "late Nascent Soul",
+      "quote": "[Chen Bailiang, Pendiri Sekte Yuntian, Jiwa Baru Lahir Tahap Akhir]",
+      "first": true,
+      "card": 563.6
+    },
+    {
+      "id": "yun-tianzi",
+      "name": "Yun Tianzi",
+      "realm": "late Nascent Soul",
+      "quote": "[Yun Tianzi, Pendiri Sekte Yuntian, Jiwa Baru Lahir Tahap Akhir]",
+      "first": true,
+      "card": 572.5
+    },
+    {
+      "id": "liu-fei",
+      "name": "Liu Fei",
+      "first": false
+    },
+    {
+      "id": "lu-fei",
+      "name": "Lu Fei",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Sun Zhenwei dies here."
+  ],
+  "flags": [
+    "The card at AK 1224 reads 'Pangeran Naga Yuan' (no matching person); it looks like a misread credit or preview card.",
+    "Which ancestors die and which survive is not spelled out; four hand over soul blood."
+  ]
+}

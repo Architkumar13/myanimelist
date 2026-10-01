@@ -1,0 +1,60 @@
+{
+  "ep": 142,
+  "title": "Return to Dust",
+  "summary": "Lei Daozi finds Wang Ping and the Immortal Guard protecting him and moves to seize the peak Illusory Yin puppet, until Wang Lin arrives and drags him off to the wastes of Planet Ran Yun. Lei Daozi's lightning cannot hurt Wang Lin, whose Life and Death domain has quietly reached Ascendant great perfection, and Wang Lin's Thunder Beast terrifies Lei Daozi's young lightning beast, but Lei Daozi's Second Step origin power still outmatches mere arts. Looking for a weak spot, Lei Daozi reveals that Wang Ping's flesh no longer exists and his soul is held together by Nirvana sword qi, then uses his Origin Lightning Cauldron. Wang Lin breaks out with the third seal of the God Slaying War Chariot and cuts him down with the Net-Severing Sword. Wang Ping finally understands why he could never cultivate, never have children and never fall ill in seventy years, thanks his father for a full life and fades away. Qing Yi chooses to follow him into death, and Wang Lin is left with memories of the son who once said the medicine was bitter.",
+  "events": [
+    "Lei Daozi finds Wang Ping and his Immortal Guard",
+    "Wang Lin takes Lei Daozi to the wasteland and fights him",
+    "Wang Lin's Life and Death domain is at Ascendant great perfection; the Thunder Beast cows Lei Daozi's beast",
+    "Lei Daozi reveals Wang Ping's body is gone and held together by sword qi",
+    "Lei Daozi uses the Origin Lightning Cauldron; Wang Lin opens the third seal of the God Slaying War Chariot",
+    "Wang Ping learns the truth, thanks Wang Lin and fades away",
+    "Qing Yi chooses to die with Wang Ping"
+  ],
+  "introduced": [
+    "Origin power",
+    "Origin Lightning Cauldron",
+    "Silver-horned lightning beast",
+    "Life and Death domain"
+  ],
+  "cultivation": "Wang Lin's Life and Death domain: Ascendant great perfection. The body fighting here is Wang Lin's avatar at mid Ascendant. Lei Daozi: Illusory Yin, Second Step.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "mid Ascendant (avatar); Life and Death domain at Ascendant great perfection",
+      "quote": "Wang Lin's avatar, Mid Ascension / Life and Death Domain. Peak Ascension",
+      "first": false,
+      "card": 338.7
+    },
+    {
+      "id": "lei-daozi",
+      "name": "Lei Daozi",
+      "first": false
+    },
+    {
+      "id": "wang-ping",
+      "name": "Wang Ping",
+      "first": false
+    },
+    {
+      "id": "qing-yi",
+      "name": "Qing Yi",
+      "first": false
+    },
+    {
+      "id": "du-jian",
+      "name": "Du Jian",
+      "first": false,
+      "shownAs": "Du Jian (Immortal Guard)"
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles, checked against the AnimeKhor Indonesian fansubs and the Chinese track (王林分身 问鼎中期; 生死意境 问鼎圆满; 元力雷鼎)."
+  ],
+  "flags": [
+    "The cards say the Wang Lin here is his avatar (分身); the series has not yet said where his main body is.",
+    "Lei Daozi's death at the Net-Severing slash (15:57) is cut short; EP143 shows he survived in weakened form."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "ep": 137,
+  "title": "Secret Treasure",
+  "summary": "Liu Mei summons Li'er, a creature she refined for a hundred years with hatred from a fragment of Wang Lin's blood soul, and its pain goes straight to his soul. Wang Lin fights on with his Immortal Guard, the Seven-Star Sword Formation and his domain, freezes her and takes back the Three Golden Souls of the Soul Refining Sect she was holding. Huan Wuqing arrives to save her, but Wang Lin strikes with Ling Tianhou's Nirvana Cleanser sword qi, and Huan Wuqing retreats because Liu Mei is his only chance to reach the Nirvana stage, asking the Qian clan for help. Wang Lin restores Sun Xi, whose foundation was shattered, to Soul Transformation, and asks Sun Tai to find a herb that can put giant beasts to sleep. On Planet Thousand Illusion, Qian Kuizi, the Qian clan's Illusory Yin third ancestor, tries to take Wang Lin's Illusory Yin puppet, but backs down in terror when Wang Lin's lightning beast appears, takes him for a Thunder Celestial envoy, and pays all his immortal jade. Wang Lin reaches the Huan clan's grand formation and demands that they hand over Liu Mei.",
+  "events": [
+    "Liu Mei unleashes Li'er, refined from Wang Lin's blood soul with resentment",
+    "Wang Lin fights with his Immortal Guard, the Seven-Star Sword Formation and his domain, and recovers the Three Golden Souls",
+    "Huan Wuqing intervenes; Wang Lin's Nirvana Cleanser sword qi drives him back",
+    "Wang Lin restores Sun Xi to Soul Transformation to settle their karma",
+    "He asks Sun Tai to find a herb that paralyses giant beasts",
+    "Qian Kuizi tries to seize the puppet, then grovels when he sees the Thunder Beast and pays his immortal jade",
+    "Wang Lin demands the Huan clan hand over Liu Mei"
+  ],
+  "introduced": [
+    "Li'er",
+    "Qian Kuizi",
+    "Qian clan",
+    "Three Golden Souls",
+    "Phantom Mirror",
+    "Thousand-Tribulation Thunder"
+  ],
+  "cultivation": "Qian Kuizi, Qian clan third ancestor: Illusory Yin. Huan Wuqing fears dying unless he regains Nirvana Scryer. Sun Xi is restored to Soul Transformation for good. Liu Mei and Qian Kuizi both call Wang Lin early Ascendant.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "early Ascendant",
+      "quote": "This boy's cultivation is only early Ascension.",
+      "first": false
+    },
+    {
+      "id": "liu-mei",
+      "name": "Liu Mei",
+      "first": false,
+      "shownAs": "Liu Mei (Huan Mei)"
+    },
+    {
+      "id": "wang-ping",
+      "name": "Wang Ping",
+      "first": true,
+      "shownAs": "Li'er (later Wang Ping)"
+    },
+    {
+      "id": "huan-wuqing",
+      "name": "Huan Wuqing",
+      "first": false
+    },
+    {
+      "id": "sun-xi",
+      "name": "Sun Xi",
+      "realm": "Soul Transformation (restored)",
+      "first": false
+    },
+    {
+      "id": "sun-tai",
+      "name": "Sun Tai",
+      "first": false
+    },
+    {
+      "id": "qian-kuizi",
+      "name": "Qian Kuizi",
+      "realm": "Illusory Yin",
+      "quote": "Qian Kuizi, Qian Clan Third Ancestor, Yin-Void",
+      "first": true,
+      "card": 820.6
+    },
+    {
+      "id": "du-jian",
+      "name": "Du Jian",
+      "first": false,
+      "shownAs": "Du Jian (Immortal Guard)"
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles, checked against the AnimeKhor Indonesian fansubs and the Chinese track (厉儿 = Li'er, 千葵子 Qian Kuizi, 幻月镜 Phantom Mirror)."
+  ],
+  "flags": [
+    "The old man Wang Lin asks for the beast-numbing herb (14:41) is not named; 'in all of Allheaven you're the only one I trust' and EP139 point to Sun Tai.",
+    "The closing title card (21:00) 'Dao Through Karma' and the 'Father, the medicine is bitter' clip are a teaser for the next arc, not this episode's events."
+  ]
+}

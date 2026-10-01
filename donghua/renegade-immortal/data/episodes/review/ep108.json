@@ -1,0 +1,99 @@
+{
+  "ep": 108,
+  "title": "The Celestial Slaughter Art",
+  "summary": "On the Immortal Extinction Ground, Wang Lin climbs twenty-two steps, then uses his life-and-death Intent to force five more, reaching twenty-seven, beyond Sun Yun's twenty-six. Under nine-coloured light Tian Yunzi accepts him as the seventh disciple of the Purple Branch and lets him choose from 3,600 forbidden arts in his Seven-Coloured Space. There Wang Lin finds a grey-robed man outside the star positions, whose killing intent dwarfs his own, and who offers him the Celestial Slaughter Art, an imitation of an immortal art, along with the Life Mark it produces for defence. Tian Yunzi says the grey-robed man is his own second divine soul, split off long ago, and gives Wang Lin a purple ring that can block two full attacks from a late Ascendant cultivator but loses one for each broken sect rule. Made an Envoy, Wang Lin is sent to the level-five country of Lingyue on Earthstar and told to be at the Demon Spirit Land off the East Sea in three months. He hunts demons in the Northern Demon Earth region to train the Life Mark and feed his Mosquito Beast. In Brilliant Golden Fruit Valley he stops a fight between Da Luo Sword Sect elders and the Suiyi Sect's Qian Qin over a hundred golden fruits, which his Ancient God memories say can strengthen his body.",
+  "events": [
+    "Wang Lin reaches twenty-seven steps on the Immortal Extinction Ground",
+    "Tian Yunzi formally takes him as the seventh Purple Branch disciple",
+    "In the Seven-Coloured Space, Wang Lin meets the grey-robed man and learns the Celestial Slaughter Art",
+    "Tian Yunzi reveals the grey robe is his second soul and gives Wang Lin a protective purple ring",
+    "Wang Lin becomes an Envoy and is sent to Lingyue on Earthstar",
+    "He hunts in the Northern Demon Earth region and feeds the Mosquito Beast",
+    "Da Luo Sword Sect elders and Qian Qin fight over the Brilliant Golden Fruits",
+    "Wang Lin takes the fruits and questions the Da Luo elders"
+  ],
+  "introduced": [
+    "Seven-Coloured Space",
+    "3,600 forbidden arts",
+    "Grey-robed man (All-Seer's second soul)",
+    "Celestial Slaughter Art",
+    "Life Mark",
+    "Purple light ring",
+    "Envoy",
+    "Lingyue Country",
+    "Earthstar",
+    "Tian Tai",
+    "Northern Demon Earth region",
+    "Brilliant Golden Fruit Valley",
+    "Lu Songyi",
+    "Shi Fang",
+    "Qian Qin",
+    "Suiyi Sect",
+    "Da Luo Sword Sect",
+    "Jiuli insects",
+    "Shapeless Metal"
+  ],
+  "cultivation": "Wang Lin: mid Soul Transformation. Lu Songyi and Shi Fang: early Soul Transformation. Qian Qin: mid Core Formation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "mid Soul Transformation",
+      "quote": "dengan tingkat kultivasi Tahap Transformasi Jiwa Tengah (118s)",
+      "first": false
+    },
+    {
+      "id": "all-seer",
+      "name": "All-Seer",
+      "first": false,
+      "shownAs": "All-Seer (Tian Yunzi)"
+    },
+    {
+      "id": "tian-tai",
+      "name": "Tian Tai",
+      "first": true
+    },
+    {
+      "id": "mosquito-beast",
+      "name": "Mosquito Beast",
+      "first": false
+    },
+    {
+      "id": "lu-songyi",
+      "name": "Lu Songyi",
+      "realm": "early Soul Transformation",
+      "quote": "[Lu Shongyi, Tetua Sekte Pedang Daluo, Transformasi Jiwa Tahap Awal]",
+      "first": true,
+      "card": 930.2
+    },
+    {
+      "id": "shi-fang",
+      "name": "Shi Fang",
+      "realm": "early Soul Transformation",
+      "quote": "[Shi Fang, Tetua Sekte Pedang Daluo, Transformasi Jiwa Tahap Awal]",
+      "first": true,
+      "card": 930.2
+    },
+    {
+      "id": "qian-qin",
+      "name": "Qian Qin",
+      "realm": "mid Core Formation",
+      "quote": "[Qian Qin, Sekte Suiyi, Formasi Inti Tahap Tengah]",
+      "first": true,
+      "card": 936.2
+    }
+  ],
+  "changes": [
+    "Main source: AnimeKhor Indonesian fansub (ep108.id.srt) with its name cards; card times are from that file.",
+    "Official YouTube English was checked alongside the Indonesian fansub for names and story beats; its realm names are unreliable (it says 'Nascent Soul' for Soul Transformation), so the Indonesian cards were used for realms.",
+    "Da Luo Sword Sect follows both subtitle tracks (the glossary spells it 'Da Lou').",
+    "Earthstar (地星) follows the official English; the Indonesian says 'Planet Bumi'.",
+    "Naming follows the earlier reviews and glossary: Planet Suzaku, Suzaku Tomb, Zhu Quezi, Yun Quezi, Hongdie, Forsaken Immortal Clan, Cultivation Planet Crystal (subs: Star Cultivation/Star Refining Crystal)."
+  ],
+  "flags": [
+    "Lu Songyi and Shi Fang: early Soul Transformation on the Indonesian card, Core Formation on the official one (1070s YouTube).",
+    "Wang Lin first refuses the Celestial Slaughter Art (639s) but has learned it by 694s; the change of mind isn't shown in the subtitles.",
+    "An official caption (472s YouTube) lists 'First Disciple Lu Ce, Second Disciple An Daojin'; their role is unclear."
+  ]
+}

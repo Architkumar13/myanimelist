@@ -1,0 +1,62 @@
+{
+  "ep": 138,
+  "title": "Clouds Scatter",
+  "summary": "Wang Lin breaks the Huan clan's ten-thousand-year grand formation with the Net-Severing Sword Art, and clan head Huan Fengshen begs to stay out of his feud with Huan Wuqing. Huan Wuqing fights back with the Ancient Jade Slip, an immortal's relic, and drains the spirit of the whole of Planet Thousand Illusion for one strike, but Wang Lin calls up the Scattered Devil, promising him freedom after this battle, and rips out the planet's star soul. Cornered, Huan Wuqing devours Liu Mei to gain the Way of the Formless Archdemon he had wanted from her all along; before dying she asks him to kill Wang Lin, or else give Wang Lin a pouch. Huan Wuqing becomes a demon, and the Scattered Devil devours him as easy prey. Huan Fengshen hands over the pouch, which holds the cure for the resentment in Li'er and Liu Mei's last words: she hated Wang Lin all her life, but Li'er was the only one who was ever sincere with her. Wang Lin renames Li'er as Wang Ping, his son, and sends him into the mortal world to dissolve the resentment and live a peaceful life.",
+  "events": [
+    "Wang Lin breaks the Huan grand formation with the Net-Severing Sword Art",
+    "Huan Fengshen asks to keep the clan out of the feud",
+    "Huan Wuqing uses the Ancient Jade Slip and the spirit of the whole planet; Wang Lin calls the Scattered Devil and rips out the star soul",
+    "Huan Wuqing devours Liu Mei to take the Way of the Formless Archdemon",
+    "The Scattered Devil devours the newly demonic Huan Wuqing",
+    "Huan Fengshen gives Wang Lin Liu Mei's pouch with the cure for Li'er",
+    "Wang Lin names Li'er Wang Ping and sends him to live as a mortal"
+  ],
+  "introduced": [
+    "Ancient Jade Slip",
+    "Way of the Formless Archdemon",
+    "Star soul",
+    "Wang Ping (name)"
+  ],
+  "cultivation": null,
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "huan-fengshen",
+      "name": "Huan Fengshen",
+      "first": false
+    },
+    {
+      "id": "huan-wuqing",
+      "name": "Huan Wuqing",
+      "first": false
+    },
+    {
+      "id": "liu-mei",
+      "name": "Liu Mei",
+      "first": false,
+      "shownAs": "Liu Mei (Huan Mei)"
+    },
+    {
+      "id": "scattered-devil",
+      "name": "Scattered Devil",
+      "first": false
+    },
+    {
+      "id": "wang-ping",
+      "name": "Wang Ping",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles, checked against the AnimeKhor Indonesian fansubs. Official 'Rogue Devil' = Scattered Devil (散魔)."
+  ],
+  "flags": [
+    "Liu Mei dies here (devoured by Huan Wuqing); Huan Wuqing is devoured by the Scattered Devil.",
+    "The Scattered Devil's line 'the other girl has got some promise' (14:40) is unclear."
+  ]
+}

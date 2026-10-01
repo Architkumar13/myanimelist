@@ -1,0 +1,72 @@
+{
+  "ep": 82,
+  "title": "Furnaces of the Suzaku",
+  "summary": "Wang Lin breaks Hongdie's Emotionless Intent Realm with his own Life and Death Intent, and she then tries to blow up her innate spirits to take him with her. Zhu Quezi stops the fight, declares Wang Lin the winner, accepts him into Suzaku Country and the Immortal's Path Sect, and grants him one wish. In the forbidden area Zhu Quezi reveals that he treats talented cultivators as furnaces: Qian Feng absorbs the broken Hongdie, who becomes his second furnace under the name Jue Qing, and Wang Lin is chosen as Liu Mei's future furnace. Liu Mei remembers Wang Lin from her avatar's days in the Xuan Dao Sect in the Country of Zhao. Zhu Quezi also warns that his junior brother Yun Quezi has been training four candidates of his own for the 15th Suzaku title. Badly hurt, Wang Lin leaves for Zhao, but in the far north Li Yuanfeng of the Snow Domain traps him in the Heaven and Earth Devil Sealing Formation, and a second Soul Transformation cultivator joins the ambush.",
+  "events": [
+    "Wang Lin's Life and Death Intent beats Hongdie's Emotionless Intent; she tries to blow up her Four Souls",
+    "Zhu Quezi ends the duel, names Zeng Niu the winner and grants him a wish",
+    "Qian Feng absorbs Hongdie, who becomes his furnace Jue Qing",
+    "Zhu Quezi tells Liu Mei that Zeng Niu is Wang Lin and that he is meant to be her furnace",
+    "Zhu Quezi confronts Yun Quezi over the four candidates he has picked",
+    "Wang Lin heads for the Country of Zhao to recover",
+    "Li Yuanfeng traps him in the Heaven and Earth Devil Sealing Formation in the far north"
+  ],
+  "introduced": [
+    "Jue Qing (Hongdie as Qian Feng's furnace)",
+    "Yun Quezi's four candidates",
+    "Heaven and Earth Devil Sealing Formation",
+    "Thousand Illusions Emotionless Dao",
+    "Snow Domain"
+  ],
+  "cultivation": "Wang Lin is so badly hurt that he drops to early Soul Formation. Li Yuanfeng reached Soul Transformation as the only survivor of seven Snow Domain Soul Formation elders who escorted Hongdie to Suzaku Country.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "early Soul Formation (fallen)",
+      "quote": "Tingkat kultivasiku bahkan telah turun ke Tahap Awal Transformasi Dewa.",
+      "first": false
+    },
+    {
+      "id": "hongdie",
+      "name": "Hongdie",
+      "first": false
+    },
+    {
+      "id": "zhu-quezi",
+      "name": "Zhu Quezi",
+      "first": false
+    },
+    {
+      "id": "qian-feng",
+      "name": "Qian Feng",
+      "first": false
+    },
+    {
+      "id": "liu-mei",
+      "name": "Liu Mei",
+      "first": false
+    },
+    {
+      "id": "yun-quezi",
+      "name": "Yun Quezi",
+      "first": false
+    },
+    {
+      "id": "li-yuanfeng",
+      "name": "Li Yuanfeng",
+      "realm": "Soul Transformation",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Only the AnimeKhor Indonesian fansub (ep82.id.srt) was available; no official YouTube en/zh track for this episode yet."
+  ],
+  "flags": [
+    "What Wang Lin asks for as his wish (415s) is not named; Zhu Quezi grants 'half' of it.",
+    "'Qing Dia' at 668s may be a slip for Hongdie or her new name.",
+    "The furnace that Yun Quezi freed from Qian Feng is called the 'purple core' (inti ungu, 503s and 997s); possibly Zi Xin (紫芯), who is named in EP89.",
+    "The second Soul Transformation cultivator at the end (1254s, 'Saya Tai!') is the Giant Demon Clan ancestor, who is identified in EP83."
+  ]
+}

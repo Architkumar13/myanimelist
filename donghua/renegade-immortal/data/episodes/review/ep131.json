@@ -1,0 +1,61 @@
+{
+  "ep": 131,
+  "title": "Unsealing the Mark",
+  "summary": "Fleeing the Ancient Thunder Dragon, Wang Lin uses the pull of the abyss to slip into a rift at the bottom of the Tidal Abyss, finds a ruined teleportation array, and devours the weakened dragon with Soul-Devour. After a year he has absorbed only a fifth of it, but his soul has turned into lightning, though it can no longer leave his body. Trapped with him is Du Jian, who trades a secret for his life: he saw his master, Tian Yunzi (All-Seer), wearing a grey robe, devour Sun Yun after a strange mark appeared on Sun Yun's forehead. Wang Lin realises the same mark sits on Tian Yunzi's disciples as a shackle, and offers Du Jian a deal: reach Ascendant and become his Immortal Guard for a thousand years. Du Jian agrees, and Wang Lin forges him into an Immortal Guard with Illusory Yin strength, then spends three years grasping the Net-Severing Sword Art and a year and a half wiping out the 1,083,220 strands of killing intent in his body. Far away, the Sword Sect's master rages at Tan Lang over his dead disciples, Tian Yunzi moves the opening of the Demon Spirit Land ten years earlier, and he vows to kill Wang Lin for tearing out the mark.",
+  "events": [
+    "Wang Lin escapes the Thunder Dragon into a rift at the abyss floor and finds a teleportation array",
+    "He devours the dying Ancient Thunder Dragon; his soul becomes lightning",
+    "Du Jian reveals he saw Tian Yunzi devour Sun Yun after a mark appeared on Sun Yun's forehead",
+    "Du Jian reaches Ascendant and becomes Wang Lin's Immortal Guard for a thousand years",
+    "Wang Lin takes seven of the Twelve Sword Zodiac swords for a Seven-Star Sword Formation",
+    "After three years he masters the Net-Severing Sword Art: cutting the net of rules that binds all life",
+    "He uses the abyss's pull to erase over a million strands of killing intent",
+    "Tian Yunzi brings the Demon Spirit Land's opening forward and vows to kill Wang Lin"
+  ],
+  "introduced": [
+    "Immortal Guard",
+    "Shadow Cloak",
+    "Seven-Star Sword Formation",
+    "Soul-Devour"
+  ],
+  "cultivation": "Du Jian breaks through to Ascendant, then is forged into an Immortal Guard (bronze tier body) shown with Illusory Yin strength. Wang Lin says his lightning soul lets him fight late Ascendant cultivators.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "du-jian",
+      "name": "Du Jian",
+      "realm": "Ascendant, then Immortal Guard with Illusory Yin strength",
+      "quote": "Immortal Guard Du Jian, Yin Illusion",
+      "first": false
+    },
+    {
+      "id": "all-seer",
+      "name": "All-Seer",
+      "first": false,
+      "shownAs": "Tian Yunzi (All-Seer)"
+    },
+    {
+      "id": "tan-lang",
+      "name": "Tan Lang",
+      "first": false
+    },
+    {
+      "id": "sun-yun",
+      "name": "Sun Yun",
+      "first": false
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles, checked against the AnimeKhor Indonesian fansubs. The captive at the abyss floor is Du Jian (confirmed by the official card 'Immortal Guard Du Jian'); the Indonesian file never names him."
+  ],
+  "flags": [
+    "Who speaks the closing lines (Sword Sect master to Tan Lang, then Tian Yunzi) is inferred from context; the speakers are off-screen in the subtitles.",
+    "'Xixue, just what happened to you?' (20:55) suggests the elders notice Yao Xixue is missing.",
+    "The Immortal Guard's body uses 'the vicious soul's phantom body' (12:53); whose soul is unclear."
+  ]
+}

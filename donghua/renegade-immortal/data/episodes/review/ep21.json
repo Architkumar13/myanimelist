@@ -1,0 +1,55 @@
+{
+  "ep": 21,
+  "title": "Core Formation",
+  "summary": "Elders of the Fighting Evil Sect, including Kun Sang, chase Wang Lin for a day and a night, and when their Great Elder arrives with more Core Formation cultivators he flees back to the cave. Li Muwan has waited three years for him, and she uses the Hundred Beast Spirit Furnace to refine a Tianli Pill from demonic blood vine while he tries to form his core. The Nine Li Corpse Bone Formation holds for three days before the elders break it. The Great Elder grabs Li Muwan to keep as a cultivation cauldron and tries to take the furnace, and she is ready to die rather than give him up. Wang Lin breaks through to Core Formation, kills a Core Formation elder in an instant and declares himself the strongest below Nascent Soul. The terrified Great Elder flees, and Wang Lin takes Li Muwan with him to hunt down the rest.",
+  "events": [
+    "Wang Lin fights Fighting Evil Sect elders for a day and a night, then more arrive with their Great Elder",
+    "A mid Core Formation elder wounds him with a Great Extinction Talisman; his jiao armour saves him",
+    "Li Muwan refines a Tianli Pill from demonic blood vine in the Hundred Beast Spirit Furnace",
+    "The elders break the Nine Li Corpse Bone Formation after three days",
+    "The Great Elder seizes Li Muwan and the furnace; she resolves to repay Wang Lin with her life",
+    "Wang Lin forms his core and kills a Core Formation elder instantly",
+    "The Great Elder flees; Wang Lin takes Li Muwan with him to hunt the elders"
+  ],
+  "introduced": [
+    "Kun Sang",
+    "Great Extinction Talisman",
+    "demonic blood vine",
+    "Immortal-Trapping Net"
+  ],
+  "cultivation": "Wang Lin breaks through to Core Formation and calls himself the strongest cultivator below Nascent Soul. One of the pursuing elders is at mid Core Formation.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "early Core Formation",
+      "quote": "from this moment on / I will be the first person under the Nascent Soul stage",
+      "first": false
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    },
+    {
+      "id": "kun-sang",
+      "name": "Kun Sang",
+      "first": true
+    },
+    {
+      "id": "qian-kun",
+      "name": "Qian Kun",
+      "first": true
+    }
+  ],
+  "changes": [
+    "Written from the official English YouTube subtitles (machine-translated) checked against the AnimeKhor Indonesian fansubs; no Chinese track for this episode.",
+    "The Great Elder is named Qian Kun in EP23; he is listed here as the Great Elder who leads the chase."
+  ],
+  "flags": [
+    "02:49 'kunsang ancient city pulin' is garbled; Kun Sang is a name (06:56 'Kunsang, try it with Wanfeng Seal'), and 'Pulin' may be another elder or a place.",
+    "16:21 'Fast rewind' makes no sense.",
+    "The Indonesian file skips most of the middle of this episode, so the English was the only check there."
+  ]
+}

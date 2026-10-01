@@ -1,0 +1,104 @@
+{
+  "ep": 152,
+  "title": "Guardian Essence",
+  "summary": "A year later, Yao Luo of a Yao family branch and his cousin Ru Yun, guarded by the Illusory Yin elder Yan Chou, have been hunting Li Yuan for thirteen days over nine immortal swords. Li Yuan uses his Annihilation Heart Restriction, then calls for Xu Mu: Wang Lin arrives with the Earthfold Step, now at Corporeal Yang, and kills them, hitting Yan Chou once for each of the thirteen days. In a cave he pours origin power into Li Yuan to help him toward Illusory Yin. Wang Lin reflects that during the year he was hunted by a Nirvana Cleanser expert, the Blood Ancestor, and that this immortal-slaying journey won him Corporeal Yang, a refined Thunder Celestial Realm fragment seal, and a treasure made from half of the Blood Ancestor's blood body; he still means to go to Planet Dong Lin to try to wake Li Muwan. Breaking eight linked seals hidden between the swords and a beast bone, he claims a true immortal treasure, the Wither Dao Pair, and learns from a Yao talisman of the Collection Pavilion, a vault of immortal arts sealed by four ancient families with immortal blood. Li Yuan gives him an ancient Restriction Breaking Mirror and leads him to an immortal market, where he revives a dead formation; when Tang Yanyun of the Tang family demands a share, Wang Lin declares that anyone who enters will die, kills a Tang cultivator, and leaves Tang Ping, the Tang family's young master, shaken by his killing intent.",
+  "events": [
+    "Yao Luo, Ru Yun and Yan Chou torment Li Yuan after a thirteen-day hunt",
+    "Wang Lin, now at Corporeal Yang, kills them and makes Yan Chou pay for each day",
+    "Wang Lin pours origin power into Li Yuan",
+    "He looks over the year's gains, including half of the Blood Ancestor's blood body",
+    "He breaks the hidden seals and claims the Wither Dao Pair",
+    "He learns of the Collection Pavilion and asks Li Yuan to come with him",
+    "Li Yuan revives a dead formation in an immortal market ruin",
+    "Wang Lin forbids anyone to enter, kills a Tang cultivator and faces Tang Ping"
+  ],
+  "introduced": [
+    "Yao Luo",
+    "Ru Yun",
+    "Yan Chou",
+    "Yao family (Allheaven)",
+    "Wither Dao Pair",
+    "Thunder Celestial Realm fragment seal",
+    "Collection Pavilion",
+    "Restriction Breaking Mirror",
+    "Immortal market",
+    "Tang Yanyun",
+    "Tang Ping",
+    "Earthfold Step",
+    "Annihilation Heart Restriction"
+  ],
+  "cultivation": "Wang Lin's avatar: Corporeal Yang (breakthrough happened during the one-year gap). Yao Luo: Ascendant great perfection. Ru Yun: early Ascendant. Yan Chou: Illusory Yin. Li Yuan has been stuck at Ascendant great perfection for years and is fed origin power to aim for Illusory Yin. Tang Yanyun and Tang Ping: Illusory Yin.",
+  "confidence": "medium",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "realm": "Corporeal Yang (avatar)",
+      "quote": "[Klon Wang Lin, Yang Jasmani]",
+      "first": false,
+      "card": 281.5
+    },
+    {
+      "id": "li-yuan",
+      "name": "Li Yuan",
+      "realm": "Ascendant great perfection (stuck)",
+      "quote": "Li Yuan has been trapped at Ascension Peak for years.",
+      "first": false
+    },
+    {
+      "id": "yao-luo",
+      "name": "Yao Luo",
+      "realm": "Ascendant great perfection",
+      "quote": "[Yao Luo, Keturunan Cabang Klan Yao, Ascendant Siklus Besar]",
+      "first": true,
+      "card": 57.91
+    },
+    {
+      "id": "ru-yun",
+      "name": "Ru Yun",
+      "realm": "early Ascendant",
+      "quote": "[Jia Yun, Sepupu Klan Yao, Ascendant Awal] / (Ru Yun, Yao Luo's cousin, early Ascension)",
+      "first": true,
+      "card": 57.91
+    },
+    {
+      "id": "yan-chou",
+      "name": "Yan Chou",
+      "realm": "Illusory Yin",
+      "quote": "[Yan Chou, Pelindung Klan Yao, Yin Ilusi]",
+      "first": true,
+      "card": 57.91
+    },
+    {
+      "id": "tang-yanyun",
+      "name": "Tang Yanyun",
+      "realm": "Illusory Yin",
+      "quote": "[Tang Yunyan, Klan Tang, Yin Ilusi]",
+      "first": true,
+      "card": 1029.76
+    },
+    {
+      "id": "tang-ping",
+      "name": "Tang Ping",
+      "realm": "Illusory Yin",
+      "quote": "[Tang Ping, Klan Tang, Yin Ilusi]",
+      "first": true,
+      "card": 1144.73
+    },
+    {
+      "id": "li-muwan",
+      "name": "Li Muwan",
+      "first": false
+    }
+  ],
+  "changes": [
+    "No Chinese track. 'Zi Mu Daoku' = Wither Dao Pair (glossary); 'Eastreach Star' = Planet Dong Lin; 'Sealbreaker Mirror' = ancient Restriction Breaking Mirror."
+  ],
+  "flags": [
+    "About a year passes off screen between EP151 and EP152: the Blood Ancestor's hunt, the immortal-slaying fight and Wang Lin's Corporeal Yang breakthrough are only told in his thoughts; Li Yuan says the Blood Ancestor is not dead but no longer a threat.",
+    "Yao Luo's cousin: Indonesian card 'Jia Yun', official English and glossary 'Ru Yun'.",
+    "Tang Yanyun: Indonesian card 'Tang Yunyan', official English and glossary 'Tang Yanyun'.",
+    "YT 1336-1357: a Tang cultivator who calls Tang Ping 'brother' is killed; his name is not given.",
+    "The Nirvana Cleanser who hunted Wang Lin is identified as the Blood Ancestor by context (the Indonesian says 'Pembersih Nirvana')."
+  ]
+}

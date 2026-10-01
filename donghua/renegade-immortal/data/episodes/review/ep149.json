@@ -1,0 +1,82 @@
+{
+  "ep": 149,
+  "title": "A Game of Strategy",
+  "summary": "Xu Fenghan attacks Wang Lin over the origin energy and, losing, shows his Dao intent as a demon lotus; Wang Lin answers with his own Yellow Springs Dao intent and the Karma Whip, and Xu Liguo, proud of his ancient sword intent, finishes Xu Fenghan off. In the mountains of the Fragment Continent, Ge Hong of the Ge family, who holds the life soul of her escort Li Yuan, uses an immortal trap to feed cultivators to her family's Heavenly Ghost. Wang Lin sees that Li Yuan built the trap, which is the Eighteen Plum Restriction, and destroys the Heavenly Ghost; Li Yuan then talks him into joining them to find an intact Origin Artifact in a hidden place, with the Ge family taking half. Going by the name Xu Mu, Wang Lin crosses the Lightning Layer on his lightning body and gets through a living trap to reach the Thunder Celestial Realm's graveyard of immortals, where an immortal general's sword became a mountain. There Li Yuan reveals he is the last heir of the Li family of Annihilation Star, cursed with an immortal's slave mark thirty thousand years ago. The sword Ge Hong brought was forged from half his clan to break that mark and was stolen ten thousand years ago when Ge Yunfeng ambushed Li Jinglan. Using the mountain's Annihilation Restriction, Li Yuan takes his life soul back and reveals that for years he has been carving the Heart Illusion Restriction into Ge Hong's mind so that she would bring the sword back to him.",
+  "events": [
+    "Wang Lin and Xu Liguo defeat Xu Fenghan in a contest of Dao intent",
+    "Ge Hong's trap feeds cultivators to the Heavenly Ghost",
+    "Wang Lin finds out Li Yuan made the trap, recognises the Eighteen Plum Restriction and destroys the Heavenly Ghost",
+    "Li Yuan offers a share of an Origin Artifact in exchange for Wang Lin's help",
+    "Wang Lin, as Xu Mu, crosses the Lightning Layer and a living trap",
+    "They reach the graveyard of immortals around a general's sword-mountain",
+    "Li Yuan reveals his clan's slave mark and the history of the stolen sword",
+    "Li Yuan takes back his life soul and turns on Ge Hong"
+  ],
+  "introduced": [
+    "Ge Hong",
+    "Li Yuan",
+    "Yuan Ningwang",
+    "Ge family",
+    "Li family of Annihilation Star",
+    "Heavenly Ghost",
+    "Lightning Layer",
+    "Thunderward Sword",
+    "Graveyard of immortals",
+    "Annihilation Restriction",
+    "Heart Illusion Restriction",
+    "Li Jinglan (named)",
+    "Ge Yunfeng (named)",
+    "Demon Lotus Dao intent"
+  ],
+  "cultivation": "Ge Hong: Ascendant great perfection. Li Yuan: Ascendant great perfection. Yuan Ningwang: Soul Transformation.",
+  "confidence": "high",
+  "cast": [
+    {
+      "id": "wang-lin",
+      "name": "Wang Lin",
+      "first": false
+    },
+    {
+      "id": "xu-fenghan",
+      "name": "Xu Fenghan",
+      "first": false
+    },
+    {
+      "id": "xu-liguo",
+      "name": "Xu Liguo",
+      "first": false
+    },
+    {
+      "id": "yuan-ningwang",
+      "name": "Yuan Ningwang",
+      "realm": "Soul Transformation",
+      "quote": "[Yuan Ningwang, Tahap Transformasi Jiwa]",
+      "first": true,
+      "card": 300.76
+    },
+    {
+      "id": "ge-hong",
+      "name": "Ge Hong",
+      "realm": "Ascendant great perfection",
+      "quote": "（问鼎大圆满 葛虹）",
+      "first": true,
+      "card": 327.36
+    },
+    {
+      "id": "li-yuan",
+      "name": "Li Yuan",
+      "realm": "Ascendant great perfection",
+      "quote": "（问鼎大圆满 李元）",
+      "first": true,
+      "card": 340.2
+    }
+  ],
+  "changes": [
+    "'Eighteenfold Plum Seal' = Eighteen Plum Restriction (梅花十八禁); 'Annihilation Seal' = Annihilation Restriction (破灭禁); 'Mind-Illusion Seal' = Heart Illusion Restriction (幻心禁); 'Thunderward Sword' = 辟雷剑.",
+    "The Indonesian cards translate Ascendant great perfection as 'Tahap Puncak Siklus Agung'."
+  ],
+  "flags": [
+    "1263-1282 (YT; AK 1116-1129): lines about planning ten thousand years to revive 'my master' and 'You keep saying you want to save him' sit under a promo caption (《仙逆》破妄战仙魂 断万年枷锁); they look like a teaser for EP150-151 and are left out of the events.",
+    "1072-1086 (YT): Ge Hong remembers asking her grandfather about a figure he calls an immortal's slave; the scene is brief."
+  ]
+}
