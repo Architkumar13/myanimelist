@@ -40,7 +40,7 @@ def main(log=print):
     for e in mal["entries"]:
         mal_id = e["id"]
         cached = CACHE / f"{mal_id}.json"
-        m = (json.loads(cached.read_text()) if cached.exists() else None) or {}
+        m = (json.loads(cached.read_text(encoding="utf-8")) if cached.exists() else None) or {}
         missing += not m
         cover = m.get("coverImage") or {}
         items.append({
@@ -72,7 +72,7 @@ def main(log=print):
     # "updated" is when the list itself was last read from MAL (sync time, or the export file's date).
     payload = {"user": mal["user"], "source": mal["source"], "updated": mal["updated"], "items": items}
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text("window.ANIME = " + json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + ";\n")
+    OUT.write_text("window.ANIME = " + json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + ";\n", encoding="utf-8")
     log(f"wrote {len(items)} titles to {OUT.relative_to(ROOT)} ({missing} without AniList data)")
     if EXTRA_CACHE.exists():
         build_extra([i["id"] for i in items], log)
@@ -112,7 +112,7 @@ def build_extra(mal_ids, log=print):
     out = {"air": {}, "rel": {}, "cast": {}, "recs": {}}
     for mal_id in mal_ids:
         f = EXTRA_CACHE / f"{mal_id}.json"
-        m = json.loads(f.read_text()) if f.exists() else None
+        m = json.loads(f.read_text(encoding="utf-8")) if f.exists() else None
         if not m:
             continue
         k = str(mal_id)
@@ -129,7 +129,7 @@ def build_extra(mal_ids, log=print):
             if n.get("mediaRecommendation") and n["rating"] > 0
         ]
     out.update(chars=chars.rows, media=media.rows)
-    EXTRA_OUT.write_text("window.EXTRA = " + json.dumps(out, ensure_ascii=False, separators=(",", ":")) + ";\n")
+    EXTRA_OUT.write_text("window.EXTRA = " + json.dumps(out, ensure_ascii=False, separators=(",", ":")) + ";\n", encoding="utf-8")
     log(f"wrote {EXTRA_OUT.relative_to(ROOT)}: {len(chars.rows)} characters, {len(media.rows)} linked titles")
 
 

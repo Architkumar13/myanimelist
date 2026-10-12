@@ -39,7 +39,7 @@ def load():
     """Return {user, entries, source, updated}: the newer of the synced list and the export."""
     export, synced = _export(), SYNCED if SYNCED.exists() else None
     if synced and (not export or synced.stat().st_mtime >= export.stat().st_mtime):
-        data = json.loads(synced.read_text())
+        data = json.loads(synced.read_text(encoding="utf-8"))
         return {**data, "source": "sync"}
     if not export:
         raise SystemExit("No list found. Put a MAL export (animelist_*.xml.gz) in the project folder, or run scripts/sync.py.")

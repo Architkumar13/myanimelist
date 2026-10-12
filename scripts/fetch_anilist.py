@@ -67,7 +67,7 @@ def main(refresh=(), log=print):
         found = {m["idMal"]: m for m in media}
         for mal_id in chunk:
             # Write a null marker for titles AniList doesn't know so reruns skip them.
-            (CACHE / f"{mal_id}.json").write_text(json.dumps(found.get(mal_id)))
+            (CACHE / f"{mal_id}.json").write_text(json.dumps(found.get(mal_id)), encoding="utf-8")
         log(f"{start + len(chunk)}/{len(todo)} ({len(found)}/{len(chunk)} matched)")
         time.sleep(DELAY)
     log("done")

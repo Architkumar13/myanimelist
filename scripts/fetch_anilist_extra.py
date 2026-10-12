@@ -62,7 +62,7 @@ def main(refresh=(), log=print):
         chunk = todo[start:start + BATCH]
         found = {m["idMal"]: m for m in fetch(chunk)}
         for mal_id in chunk:
-            (CACHE / f"{mal_id}.json").write_text(json.dumps(found.get(mal_id)))
+            (CACHE / f"{mal_id}.json").write_text(json.dumps(found.get(mal_id)), encoding="utf-8")
         log(f"{start + len(chunk)}/{len(todo)}")
         time.sleep(DELAY)
     log("done")

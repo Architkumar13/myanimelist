@@ -72,7 +72,7 @@ def still_airing():
     """Shows whose cached AniList data was airing or announced: their episodes and dates move."""
     out = []
     for f in fetch_anilist_extra.CACHE.glob("*.json"):
-        m = json.loads(f.read_text())
+        m = json.loads(f.read_text(encoding="utf-8"))
         if m and m.get("status") in AIRING:
             out.append(int(f.stem))
     return out
@@ -110,7 +110,7 @@ def sync(user=None, log=print):
 
     mal_list.SYNCED.parent.mkdir(parents=True, exist_ok=True)
     updated = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    mal_list.SYNCED.write_text(json.dumps({"user": user, "updated": updated, "entries": entries}, ensure_ascii=False))
+    mal_list.SYNCED.write_text(json.dumps({"user": user, "updated": updated, "entries": entries}, ensure_ascii=False), encoding="utf-8")
 
     airing = still_airing()
     log(f"Fetching covers and details for new titles, and refreshing {len(airing)} airing shows")
